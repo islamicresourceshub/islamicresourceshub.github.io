@@ -1,0 +1,17 @@
+:root{--ink:#1c2430;--bg:#fdfcf9;--accent:#0f6e5d;--muted:#6b7280}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:19px/1.75 Georgia,'Times New Roman',serif}
+.top{padding:.7rem 1rem;border-bottom:1px solid #e5e1d8;font-family:system-ui,sans-serif;font-size:.85rem}
+.top a{color:var(--accent);text-decoration:none;margin-right:.4rem}
+main{max-width:46rem;margin:0 auto;padding:2rem 1.25rem 4rem}
+h1{line-height:1.25;font-size:2rem;margin:.2em 0}
+.byline{color:var(--muted);font-style:italic;margin-top:0}
+blockquote{border-left:4px solid var(--accent);margin:1.2em 0;padding:.2em 1em;background:#f6f4ee}
+.source{margin-top:3rem;padding-top:1rem;border-top:1px solid #e5e1d8;font-size:.85rem;color:var(--muted);font-family:system-ui,sans-serif}
+.cards{list-style:none;padding:0}
+.cards li{margin:1.1rem 0}
+.cards a{font-size:1.15rem;color:var(--ink);text-decoration:none;font-weight:bold}
+.cards a:hover{color:var(--accent)}
+.cards small{display:block;color:var(--muted);font-family:system-ui,sans-serif}
+img{max-width:100%;height:auto}
+[dir=rtl]{text-align:right}
