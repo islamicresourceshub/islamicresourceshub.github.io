@@ -34,6 +34,10 @@ class Config:
         return os.environ.get("GITHUB_TOKEN", "").strip()
 
     @property
+    def google_key(self) -> str:
+        return os.environ.get("GOOGLE_API_KEY", "").strip()
+
+    @property
     def model(self) -> str:
         return os.environ.get("LLM_MODEL", "").strip() or self["llm"]["model"]
 

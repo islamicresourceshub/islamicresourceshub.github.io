@@ -34,6 +34,9 @@ class LLMPermanentError(RuntimeError):
 
 
 class LLMClient:
+    _GOOGLE_PREFIX = "google-gemini/"
+    _GOOGLE_BASE = "https://generativelanguage.googleapis.com/v1beta/models"
+
     def __init__(self, cfg: Config):
         self.cfg = cfg
         key = cfg.openrouter_key
@@ -43,6 +46,7 @@ class LLMClient:
             )
         self.base_url = cfg["llm"]["base_url"].rstrip("/")
         self.model = cfg.model
+        self.google_key = cfg.google_key
         # fallback pools (config-driven, with sensible defaults)
         raw_models = cfg["llm"].get("models")
         raw_vision = cfg["llm"].get("vision_models")
@@ -78,6 +82,70 @@ class LLMClient:
                         return True
         return False
 
+    @staticmethod
+    def _is_google_model(model: str) -> bool:
+        return model.startswith(LLMClient._GOOGLE_PREFIX)
+
+    def _google_model_id(self, model: str) -> str:
+        return model[len(self._GOOGLE_PREFIX):]
+
+    def _openai_to_google(self, payload: dict, model: str) -> dict:
+        messages = payload.get("messages", [])
+        system_parts = []
+        contents = []
+        for msg in messages:
+            role = msg["role"]
+            content = msg.get("content", "")
+            if role == "system":
+                if isinstance(content, str):
+                    system_parts.append({"text": content})
+                elif isinstance(content, list):
+                    system_parts.extend(content)
+            else:
+                g_role = "user" if role == "user" else "model"
+                if isinstance(content, str):
+                    parts = [{"text": content}]
+                elif isinstance(content, list):
+                    parts = []
+                    for part in content:
+                        if isinstance(part, dict):
+                            if part.get("type") == "text":
+                                parts.append({"text": part["text"]})
+                            elif part.get("type") == "image_url":
+                                url = part["image_url"]["url"]
+                                if url.startswith("data:"):
+                                    header, b64 = url.split(",", 1)
+                                    mime = header.split(":")[1].split(";")[0]
+                                    parts.append({"inline_data": {"mime_type": mime, "data": b64}})
+                        else:
+                            parts.append({"text": str(part)})
+                else:
+                    parts = [{"text": str(content)}]
+                contents.append({"role": g_role, "parts": parts})
+        gen_config = {"temperature": payload.get("temperature", 0.2)}
+        max_t = payload.get("max_tokens")
+        if max_t:
+            gen_config["maxOutputTokens"] = min(max_t, 65536)
+        body: dict = {"contents": contents, "generationConfig": gen_config}
+        if system_parts:
+            body["systemInstruction"] = {"parts": system_parts}
+        return body
+
+    def _google_generate(self, payload: dict, model: str) -> dict:
+        model_id = self._google_model_id(model)
+        url = f"{self._GOOGLE_BASE}/{model_id}:generateContent?key={self.google_key}"
+        google_body = self._openai_to_google(payload, model)
+        r = self._client.post(url, json=google_body)
+        r.raise_for_status()
+        data = r.json()
+        candidates = data.get("candidates", [])
+        if not candidates:
+            raise LLMPermanentError(f"Google API returned no candidates: {json.dumps(data)[:400]}")
+        text = candidates[0].get("content", {}).get("parts", [{}])[0].get("text", "")
+        # Google models often wrap JSON in markdown fences; strip them
+        text = re.sub(r"^```(?:json)?\s*|\s*```$", "", text.strip(), flags=re.MULTILINE).strip()
+        return {"choices": [{"message": {"content": text}}]}
+
     def _post(self, payload: dict, max_attempts: int = 12) -> dict:
         url = f"{self.base_url}/chat/completions"
         is_vision = self._is_vision_payload(payload)
@@ -91,6 +159,31 @@ class LLMClient:
             attempt += 1
             tried_rate_limited: list[str] = []
             for model in pool:
+                # --- Google native API path ---
+                if self._is_google_model(model):
+                    if not self.google_key:
+                        log.warning("No GOOGLE_API_KEY set, skipping %s", model)
+                        continue
+                    try:
+                        result = self._google_generate(payload, model)
+                        if model != self.model:
+                            log.info("Fallback succeeded: %s (primary was %s)", model, self.model)
+                        return result
+                    except httpx.TimeoutException:
+                        log.warning("Timeout on %s, trying next model", model)
+                        continue
+                    except httpx.HTTPStatusError as e:
+                        status = e.response.status_code
+                        if status == 429:
+                            tried_rate_limited.append(model)
+                            log.warning("Rate-limited on %s (%d/%d in pool), trying next", model, len(tried_rate_limited), len(pool))
+                            continue
+                        log.warning("Google API error %s on %s: %s", status, model, str(e)[:200])
+                        continue
+                    except (httpx.HTTPError, LLMPermanentError, KeyError, IndexError) as e:
+                        log.warning("Error on %s: %s, trying next", model, e)
+                        continue
+                # --- OpenRouter path ---
                 p = dict(payload)
                 p["model"] = model
                 # vision models typically don't need huge reasoning; keep as configured
@@ -204,7 +297,7 @@ def parse_json(raw: str) -> list | dict:
         attempts.append(trimmed.rstrip().rstrip(",") + "]")
         attempts.append(trimmed.rstrip().rstrip(",") + "\n]")
     for candidate in attempts:
-        for opener, closer in (("[", "]"), ("{", "}")):
+        for opener, closer in (("{", "}"), ("[", "]")):
             start = candidate.find(opener)
             end = candidate.rfind(closer)
             if start != -1 and end != -1 and end > start:
