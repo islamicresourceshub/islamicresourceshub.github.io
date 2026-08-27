@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-27T16:09:45.413500+00:00",
+ "generated_at": "2026-08-27T16:10:18.979889+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 81,
+ "count": 82,
  "articles": [
   {
    "slug": "an-agenda-is-needed-during-vacation-too-20170325-1",
@@ -297,6 +297,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/en/youth/an-agenda-is-needed-during-vacation-too-20170325-1.html",
    "md_url": "/en/youth/an-agenda-is-needed-during-vacation-too-20170325-1.md"
+  },
+  {
+   "slug": "an-agenda-is-needed-during-vacation-too-20170325-1",
+   "lang": "es",
+   "category": "youth",
+   "title": "Se necesita una agenda, incluso durante las vacaciones",
+   "summary": "Este artículo reflexiona sobre la importancia de las vacaciones tras finalizar el año académico. El autor destaca la necesidad de contar con una agenda islámica para que los niños aprovechen su tiempo de manera productiva y equilibrada.",
+   "author": "ഡോ. സി.എം സാബിര്‍ നവാസ്",
+   "issue_date": "2017-03-25",
+   "html_url": "/es/youth/an-agenda-is-needed-during-vacation-too-20170325-1.html",
+   "md_url": "/es/youth/an-agenda-is-needed-during-vacation-too-20170325-1.md"
   },
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
