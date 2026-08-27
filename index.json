@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-27T16:22:22.998841+00:00",
+ "generated_at": "2026-08-27T16:23:40.537886+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 112,
+ "count": 120,
  "articles": [
   {
    "slug": "an-agenda-is-needed-during-vacation-too-20170325-1",
@@ -387,6 +387,17 @@
    "md_url": "/ml/aqeedah/become-the-guardian-of-the-sources-20170128-9.md"
   },
   {
+   "slug": "celebrating-nabi-day-is-un-islamic-20260822-5",
+   "lang": "ml",
+   "category": "aqeedah",
+   "title": "നബിദിനാഘോഷം അനിസ്‌ലാമികം തന്നെ",
+   "summary": "നബിദിനാഘോഷത്തിന് ഇസ്‌ലാമിക പ്രമാണങ്ങളിൽ യാതൊരു അടിസ്ഥാനവുമില്ലെന്നും, ഇത് മതത്തിൽ പുതുതായി കടന്നുകൂടിയ ആചാരമാണെന്നും ലേഖകൻ വാദിക്കുന്നു.",
+   "author": "ആദിൽ നിസാമുദ്ദീൻ",
+   "issue_date": "2026-08-22",
+   "html_url": "/ml/aqeedah/celebrating-nabi-day-is-un-islamic-20260822-5.html",
+   "md_url": "/ml/aqeedah/celebrating-nabi-day-is-un-islamic-20260822-5.md"
+  },
+  {
    "slug": "faith-is-the-foundation-of-islam-20170128-13",
    "lang": "ml",
    "category": "aqeedah",
@@ -418,6 +429,17 @@
    "issue_date": "2017-02-04",
    "html_url": "/ml/aqeedah/they-want-to-see-god-20170204-2.html",
    "md_url": "/ml/aqeedah/they-want-to-see-god-20170204-2.md"
+  },
+  {
+   "slug": "who-is-wrong-in-ideology-20260822-2",
+   "lang": "ml",
+   "category": "aqeedah",
+   "title": "ആദർശത്തിൽ പിഴച്ചതാർക്ക്?",
+   "summary": "സലഫി നവോത്ഥാന പ്രസ്ഥാനത്തെ വിമർശിച്ചുകൊണ്ടുള്ള ഒരു ലേഖനത്തിന് മറുപടിയായി എഴുതിയത്. തൗഹീദിന്റെ അടിസ്ഥാന തത്വങ്ങളും ശിർക്കിനെക്കുറിച്ചുള്ള തെറ്റിദ്ധാരണകളും ഈ ലേഖനം ചർച്ച ചെയ്യുന്നു.",
+   "author": "മൂസ സുലൈമാൻ കാര",
+   "issue_date": "2026-08-22",
+   "html_url": "/ml/aqeedah/who-is-wrong-in-ideology-20260822-2.html",
+   "md_url": "/ml/aqeedah/who-is-wrong-in-ideology-20260822-2.md"
   },
   {
    "slug": "do-not-be-slaves-to-desires-20170211-11",
@@ -904,6 +926,28 @@
    "md_url": "/ml/hadith/criteria-for-accepting-hadith-20170128-2.md"
   },
   {
+   "slug": "know-this-for-those-caring-for-the-sick-20260822-1",
+   "lang": "ml",
+   "category": "health",
+   "title": "അറിയുക; രോഗിയെ പരിചരിക്കുന്നവരെ",
+   "summary": "രോഗികളെ പരിചരിക്കുന്നവർ അനുഭവിക്കുന്ന ശാരീരികവും മാനസികവുമായ പ്രയാസങ്ങളെക്കുറിച്ചും, അവർ സ്വയം ശ്രദ്ധിക്കേണ്ട കാര്യങ്ങളെക്കുറിച്ചും ഈ ലേഖനം പ്രതിപാദിക്കുന്നു. പരിചരിക്കുന്നവർക്ക് ആവശ്യമായ വിശ്രമവും പിന്തുണയും ലഭിക്കേണ്ടതിന്റെ പ്രാധാന്യത്തെക്കുറിച്ച് ഇത് ഓർമ്മിപ്പിക്കുന്നു.",
+   "author": "ഡോ. ഫുസ്സൻ നൂരസന്ന",
+   "issue_date": "2026-08-22",
+   "html_url": "/ml/health/know-this-for-those-caring-for-the-sick-20260822-1.html",
+   "md_url": "/ml/health/know-this-for-those-caring-for-the-sick-20260822-1.md"
+  },
+  {
+   "slug": "when-menstruating-20260822-4",
+   "lang": "ml",
+   "category": "health",
+   "title": "ഋതുമതിയാകുമ്പോൾ",
+   "summary": "പെൺകുട്ടികളിലെ ആദ്യ ആർത്തവത്തെക്കുറിച്ചുള്ള ശാസ്ത്രീയമായ അറിവും, ആ സമയത്ത് പാലിക്കേണ്ട ശുചിത്വവും മതപരമായ നിയമങ്ങളും ഈ ലേഖനം വിശദീകരിക്കുന്നു.",
+   "author": "ഡോ. റഫീദ കെ.",
+   "issue_date": "2026-08-22",
+   "html_url": "/ml/health/when-menstruating-20260822-4.html",
+   "md_url": "/ml/health/when-menstruating-20260822-4.md"
+  },
+  {
    "slug": "islamophobia-archetypes-of-ancient-history-20170225-3",
    "lang": "ml",
    "category": "history",
@@ -1023,6 +1067,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/ml/opinion/everyone-should-have-a-beard-20170121-3.html",
    "md_url": "/ml/opinion/everyone-should-have-a-beard-20170121-3.md"
+  },
+  {
+   "slug": "freedom-for-what-20260822-6",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "എന്തിനു സ്വാതന്ത്ര്യം?",
+   "summary": "സ്വാതന്ത്ര്യം എന്ന വാക്കിന്റെ മറവിൽ ഇന്ന് നടക്കുന്ന അരാജകത്വങ്ങളെയും തെറ്റായ പ്രവണതകളെയും വിമർശനാത്മകമായി പരിശോധിക്കുന്ന ലേഖനം.",
+   "author": "നസീമ വാദാനപ്പള്ളി",
+   "issue_date": "2026-08-22",
+   "html_url": "/ml/opinion/freedom-for-what-20260822-6.html",
+   "md_url": "/ml/opinion/freedom-for-what-20260822-6.md"
   },
   {
    "slug": "freedom-of-speech-should-not-be-one-sided-20170211-1",
@@ -1256,6 +1311,28 @@
    "md_url": "/ml/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.md"
   },
   {
+   "slug": "surah-ash-shu-ara-the-poets-20260822-7",
+   "lang": "ml",
+   "category": "quran",
+   "title": "സൂറ: അശ്ശുഅറാഅ് - കവികൾ",
+   "summary": "സൂറത്തു അശ്ശുഅറാഇലെ വചനങ്ങളുടെ തഫ്സീർ (വ്യാഖ്യാനം). പ്രവാചകന്മാരുടെ ചരിത്രവും അവർ ജനങ്ങളോട് നടത്തിയ ആഹ്വാനങ്ങളും ഇതിൽ വിവരിക്കുന്നു.",
+   "author": "അബ്ദുറഹ്മാനുബ്നു നാസിറുസ്സഅ്ദി",
+   "issue_date": "2026-08-22",
+   "html_url": "/ml/quran/surah-ash-shu-ara-the-poets-20260822-7.html",
+   "md_url": "/ml/quran/surah-ash-shu-ara-the-poets-20260822-7.md"
+  },
+  {
+   "slug": "universal-calls-in-the-quran-19-truth-falsehood-and-human-fr-20260822-3",
+   "lang": "ml",
+   "category": "quran",
+   "title": "ഖുർആനിലെ സാർവലൗകിക വിളികൾ 19: സത്യവും മിഥ്യയും മനുഷ്യന്റെ സ്വതന്ത്രമായ തിരഞ്ഞെടുപ്പും",
+   "summary": "സൂറത്തു യൂനുസിലെ വചനങ്ങളെ അടിസ്ഥാനമാക്കി, സത്യം തിരിച്ചറിയാനും നേർവഴി സ്വീകരിക്കാനുമുള്ള മനുഷ്യന്റെ സ്വാതന്ത്ര്യത്തെയും ഉത്തരവാദിത്തത്തെയും കുറിച്ച് വിശദീകരിക്കുന്നു.",
+   "author": "ഇജാസ് ബിൻ ഇസ്മാഈൽ",
+   "issue_date": "2026-08-22",
+   "html_url": "/ml/quran/universal-calls-in-the-quran-19-truth-falsehood-and-human-fr-20260822-3.html",
+   "md_url": "/ml/quran/universal-calls-in-the-quran-19-truth-falsehood-and-human-fr-20260822-3.md"
+  },
+  {
    "slug": "what-to-beware-of-when-taking-sides-20170128-7",
    "lang": "ml",
    "category": "quran",
@@ -1375,6 +1452,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/ml/story/laws-are-to-be-followed-20170128-5.html",
    "md_url": "/ml/story/laws-are-to-be-followed-20170128-5.md"
+  },
+  {
+   "slug": "my-pen-20260822-8",
+   "lang": "ml",
+   "category": "story",
+   "title": "എന്റെ തൂലിക",
+   "summary": "ജീവിതാനുഭവങ്ങളും ഓർമ്മകളും അക്ഷരങ്ങളിലൂടെ കവിതയായും കഥയായും മാറുന്നതിനെക്കുറിച്ചുള്ള ഒരു കവിത.",
+   "author": "നദ ജബീൻ സി. പി.",
+   "issue_date": "2026-08-22",
+   "html_url": "/ml/story/my-pen-20260822-8.html",
+   "md_url": "/ml/story/my-pen-20260822-8.md"
   },
   {
    "slug": "sugar-like-gold-dust-20170128-11",
