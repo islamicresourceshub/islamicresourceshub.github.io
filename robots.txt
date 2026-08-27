@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://islamicresourceshub.github.io/sitemap.xml

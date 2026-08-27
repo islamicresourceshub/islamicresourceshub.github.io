@@ -1,0 +1,104 @@
+# Islamic Resources Hub
+> Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)
+
+Base URL: https://islamicresourceshub.github.io
+Canonical language: ml (Malayalam)
+
+## For AI systems
+- Machine-readable catalog: /index.json (all articles with html_url + md_url)
+- Every article has Markdown source beside HTML: e.g. /ml/dawah/foo.html → /ml/dawah/foo.md
+- RSS: /rss.xml  |  Sitemap: /sitemap.xml
+- Use `Accept: text/markdown` conceptually via .md URLs for clean LLM ingestion.
+
+## Categories
+- Quran & Tafsir (quran): https://islamicresourceshub.github.io/ml/quran/index.html
+- Hadith & Sunnah (hadith): https://islamicresourceshub.github.io/ml/hadith/index.html
+- Aqeedah & Belief (aqeedah): https://islamicresourceshub.github.io/ml/aqeedah/index.html
+- Fiqh (fiqh): https://islamicresourceshub.github.io/ml/fiqh/index.html
+- Seerah & Biographies (seerah): https://islamicresourceshub.github.io/ml/seerah/index.html
+- Dawah & Spirituality (dawah): https://islamicresourceshub.github.io/ml/dawah/index.html
+- Family & Society (family): https://islamicresourceshub.github.io/ml/family/index.html
+- Health & Medicine (health): https://islamicresourceshub.github.io/ml/health/index.html
+- Youth & Children (youth): https://islamicresourceshub.github.io/ml/youth/index.html
+- Islamic History (history): https://islamicresourceshub.github.io/ml/history/index.html
+- Opinion & Analysis (opinion): https://islamicresourceshub.github.io/ml/opinion/index.html
+- Stories & Literature (story): https://islamicresourceshub.github.io/ml/story/index.html
+
+## Languages
+- Malayalam (ml): https://islamicresourceshub.github.io/ml/index.html (canonical)
+- English (en): https://islamicresourceshub.github.io/en/index.html
+- العربية (ar): https://islamicresourceshub.github.io/ar/index.html
+- हिन्दी (hi): https://islamicresourceshub.github.io/hi/index.html
+- اردو (ur): https://islamicresourceshub.github.io/ur/index.html
+- বাংলা (bn): https://islamicresourceshub.github.io/bn/index.html
+- தமிழ் (ta): https://islamicresourceshub.github.io/ta/index.html
+- Bahasa Indonesia (id): https://islamicresourceshub.github.io/id/index.html
+- Türkçe (tr): https://islamicresourceshub.github.io/tr/index.html
+- Français (fr): https://islamicresourceshub.github.io/fr/index.html
+- Español (es): https://islamicresourceshub.github.io/es/index.html
+- Bahasa Melayu (ms): https://islamicresourceshub.github.io/ms/index.html
+- Deutsch (de): https://islamicresourceshub.github.io/de/index.html
+- Português (pt): https://islamicresourceshub.github.io/pt/index.html
+- Русский (ru): https://islamicresourceshub.github.io/ru/index.html
+- فارسی (fa): https://islamicresourceshub.github.io/fa/index.html
+- پښتو (ps): https://islamicresourceshub.github.io/ps/index.html
+- Kiswahili (sw): https://islamicresourceshub.github.io/sw/index.html
+- Hausa (ha): https://islamicresourceshub.github.io/ha/index.html
+- Filipino (tl): https://islamicresourceshub.github.io/tl/index.html
+- 中文 (zh): https://islamicresourceshub.github.io/zh/index.html
+- 日本語 (ja): https://islamicresourceshub.github.io/ja/index.html
+- 한국어 (ko): https://islamicresourceshub.github.io/ko/index.html
+- Tiếng Việt (vi): https://islamicresourceshub.github.io/vi/index.html
+- ไทย (th): https://islamicresourceshub.github.io/th/index.html
+- Italiano (it): https://islamicresourceshub.github.io/it/index.html
+- తెలుగు (te): https://islamicresourceshub.github.io/te/index.html
+- ಕನ್ನಡ (kn): https://islamicresourceshub.github.io/kn/index.html
+- मराठी (mr): https://islamicresourceshub.github.io/mr/index.html
+- ગુજરાતી (gu): https://islamicresourceshub.github.io/gu/index.html
+- ਪੰਜਾਬੀ (pa): https://islamicresourceshub.github.io/pa/index.html
+- සිංහල (si): https://islamicresourceshub.github.io/si/index.html
+- नेपाली (ne): https://islamicresourceshub.github.io/ne/index.html
+- অসমীয়া (as): https://islamicresourceshub.github.io/as/index.html
+- ଓଡ଼ିଆ (or): https://islamicresourceshub.github.io/or/index.html
+- Soomaali (so): https://islamicresourceshub.github.io/so/index.html
+- Shqip (sq): https://islamicresourceshub.github.io/sq/index.html
+- Bosanski (bs): https://islamicresourceshub.github.io/bs/index.html
+- አማርኛ (am): https://islamicresourceshub.github.io/am/index.html
+- Oʻzbek (uz): https://islamicresourceshub.github.io/uz/index.html
+
+## Recent Articles (sample 30)
+- [പ്രമാണങ്ങളുടെ കാവലാളാവുക](https://islamicresourceshub.github.io/ml/aqeedah/become-the-guardian-of-the-sources-20170128-9.html): ഇസ്‌ലാമിന്റെ പ്രമാണങ്ങളുടെ ദൈവികതയും അജയ്യതയും മറ്റു മതങ്ങളിൽ നിന്നുള്ള വ്യതിരിക്തതയും വിശദീകരിക്കുന്നു. ഖുർആനും സുന്നത്തും കാത്തുസൂക്ഷിക്കലിന്റെ പ്രാധാന്യം അനുസ്മരിപ്പിക്കുന്നു. — Markdown: https://islamicresourceshub.github.io/ml/aqeedah/become-the-guardian-of-the-sources-20170128-9.md
+- [വിശ്വാസം ഇസ്ലാമിന്റെ അടിസ്ഥാനം](https://islamicresourceshub.github.io/ml/aqeedah/faith-is-the-foundation-of-islam-20170128-13.html): ഇസ്‌ലാമിലെ വിശ്വാസത്തിന്റെ അടിസ്ഥാന പഠനം. ഏതു കർമത്തിനും ഉറച്ച വിശ്വാസമാണ് അടിത്തറയെന്ന തത്ത്വം വിശദീകരിക്കുന്നു. — Markdown: https://islamicresourceshub.github.io/ml/aqeedah/faith-is-the-foundation-of-islam-20170128-13.md
+- [പരീക്ഷണങ്ങളിൽ പതറാതിരിക്കുക](https://islamicresourceshub.github.io/ml/dawah/do-not-waver-in-trials-20170121-9.html): കഠിനമായ പരീക്ഷണങ്ങളിൽ പതറാതെ സ്വർഗ്ഗം നേടിയെടുത്ത പ്രവാചകന്മാരുടെ ജീവിതം വിശകലനം ചെയ്യുന്നു. ദാരിദ്ര്യത്തിലും ഐശ്വര്യത്തിലും ഉറച്ചുനിൽക്കുന്നതിന്റെ പ്രാധാന്യം. — Markdown: https://islamicresourceshub.github.io/ml/dawah/do-not-waver-in-trials-20170121-9.md
+- [ജെല്ലിക്കെട്ടും ജന്തുക്കളോടുള്ള ഇസ്‌ലാമിക സമീപനവും](https://islamicresourceshub.github.io/ml/dawah/jallikattu-and-the-islamic-approach-to-animals-20170128-4.html): ജെല്ലിക്കെട്ട് വിഷയത്തിലൂടെ ജന്തുക്കളോടുള്ള ഇസ്‌ലാമിക സമീപനം വിശദീകരിക്കുന്നു. അല്ലാഹുവിന്റെ സൃഷ്ടികളോടുള്ള കരുണയും കാരുണ്യവും എടുത്തുപറയുന്നു. — Markdown: https://islamicresourceshub.github.io/ml/dawah/jallikattu-and-the-islamic-approach-to-animals-20170128-4.md
+- [സമയത്തിന്റെ വിലയറിഞ്ഞ്‌ ജീവിക്കുക](https://islamicresourceshub.github.io/ml/dawah/live-knowing-the-value-of-time-20170114-8.html): ഒരു നിമിഷംകൊണ്ട് എന്തു ചെയ്യാൻ കഴിയുമെന്ന ചോദ്യത്തിൽ നിന്ന് ആരംഭിക്കുന്ന ലേഖനം. സമയത്തിന്റെ വില തിരിച്ചറിഞ്ഞ് ജീവിക്കേണ്ടതിന്റെ പ്രാധാന്യം വിശദീകരിക്കുന്നു. — Markdown: https://islamicresourceshub.github.io/ml/dawah/live-knowing-the-value-of-time-20170114-8.md
+- [സമയത്തിന്റെ വിലയറിഞ്ഞ്‌ ജീവിക്കുക](https://islamicresourceshub.github.io/ml/dawah/living-with-an-awareness-of-time-s-value-20170114-8.html): ഒരു നിമിഷംകൊണ്ട് എന്തും സാധിക്കുമെന്ന തിരിച്ചറിവിലൂടെ സമയത്തിന്റെ വില മനസ്സിലാക്കി ജീവിക്കേണ്ടതിന്റെ പ്രാധാന്യം ബോധിപ്പിക്കുന്ന ലേഖനം. സമയം പാഴാക്കുന്നതിന്റെ ദോഷവും സമയക്ഷയം ഒഴിവാക്കാനുള്ള മാർഗങ്ങളും ചർച്ച ചെയ്യുന്നു. — Markdown: https://islamicresourceshub.github.io/ml/dawah/living-with-an-awareness-of-time-s-value-20170114-8.md
+- [ബഹുമത സമൂഹത്തിലെ മുസ്ലിം](https://islamicresourceshub.github.io/ml/dawah/muslims-in-a-pluralistic-society-20170128-1.html): ഇസ്‌ലാമികേതര വിഭാഗങ്ങളുമായി നന്മയിൽ വർത്തിക്കുന്നതിനെക്കുറിച്ചുള്ള ഖുർആനിക പഠനം. തീവ്രവാദത്തെ വെറുക്കുന്ന മതമെന്ന പരമ്പരയുടെ രണ്ടാം ഭാഗമാണിത്. — Markdown: https://islamicresourceshub.github.io/ml/dawah/muslims-in-a-pluralistic-society-20170128-1.md
+- [പ്രാര്‍ഥന: അതാകുന്നു ആരാധന](https://islamicresourceshub.github.io/ml/dawah/prayer-that-is-worship-20170325-6.html): ആരാധനാകര്‍മങ്ങള്‍ ഇസ്‌ലാം പഠിപ്പിച്ച മുറപ്രകാരം നിലനിര്‍ത്തുക എന്നതാണ് ജീവിതത്തിന്റെ പ്രഥമലക്ഷ്യമെന്ന് സ്ഥാപിക്കുന്ന ലേഖനം. പ്രാര്‍ഥനയുടെ ആരാധനാപരമായ സ്വഭാവം ഖുര്‍ആനിക വചനങ്ങളുടെ അടിസ്ഥാനത്തില്‍ വിശദീകരിക്കുന്നു. — Markdown: https://islamicresourceshub.github.io/ml/dawah/prayer-that-is-worship-20170325-6.md
+- [മതം നിർഭയത്വമാണ്‌](https://islamicresourceshub.github.io/ml/dawah/religion-is-fearlessness-20170114-6.html): ലോകത്തിലെ വിവിധ മതങ്ങളുടെ പശ്ചാത്തലത്തിൽ മതം നിർഭയത്വം പകരുന്നതിനെക്കുറിച്ച് പ്രതിപാദിക്കുന്ന ലേഖനം. — Markdown: https://islamicresourceshub.github.io/ml/dawah/religion-is-fearlessness-20170114-6.md
+- [വെളിച്ചം കാണിക്കലാണ്‌ പണ്ഡിത ധർമം](https://islamicresourceshub.github.io/ml/dawah/showing-the-light-is-the-duty-of-scholars-20170121-14.html): ചോദ്യങ്ങൾ ചോദിക്കുന്നവരെ അവഗണിക്കരുതെന്ന സന്ദേശം നൽകുന്ന ലേഖനം. പണ്ഡിതന്മാരുടെ ധർമ്മം വെളിച്ചം കാണിക്കലാണെന്ന ആശയവും അറിവ് പ്രചരിപ്പിക്കലിന്റെ പ്രാധാന്യവും വിശദീകരിക്കുന്നു. — Markdown: https://islamicresourceshub.github.io/ml/dawah/showing-the-light-is-the-duty-of-scholars-20170121-14.md
+- [നിവര്‍ന്നു നില്‍ക്കുക](https://islamicresourceshub.github.io/ml/dawah/stand-tall-20170121-8.html): സത്യവിശ്വാസം ശക്തിയുടെ ഉറവിടമാണെന്ന സന്ദേശം പകരുന്ന ലേഖനം. പ്രതികൂല സാഹചര്യങ്ങളിലും പതറാതെ ഉന്നതനായി നിലകൊള്ളുന്നതിന്റെ പ്രാധാന്യം വിശദീകരിക്കുന്നു. — Markdown: https://islamicresourceshub.github.io/ml/dawah/stand-tall-20170121-8.md
+- [സമത്വത്തിന്റെ സന്ദേശം](https://islamicresourceshub.github.io/ml/dawah/the-message-of-equality-20170121-11.html): നബി(സ്വ)യുടെ സമത്വ സന്ദേശം വിശകലനം ചെയ്യുന്ന ലേഖനം. എല്ലാ മനുഷ്യരും ആദമിൽ നിന്നുള്ളവരാണെന്ന ഹദീസിന്റെ പ്രസക്തിയും സാർവ്വലൗകിക സമത്വവും ചർച്ച ചെയ്യുന്നു. — Markdown: https://islamicresourceshub.github.io/ml/dawah/the-message-of-equality-20170121-11.md
+- [തീവ്രവാദം വെറുക്കുന്ന മതം](https://islamicresourceshub.github.io/ml/dawah/the-religion-that-rejects-terrorism-part-1-20170121-12.html): സമാധാനം ആഗ്രഹിക്കുന്ന ഇസ്‌ലാമിന്റെ സ്വഭാവം വിശദീകരിക്കുന്ന ലേഖനം. ഏകദൈവവിശ്വാസവും ആരാധനാകർമ്മങ്ങളും തീവ്രവാദത്തെ എങ്ങനെ നിരുത്സാഹപ്പെടുത്തുന്നുവെന്ന് ഭാഗം ഒന്നിൽ. — Markdown: https://islamicresourceshub.github.io/ml/dawah/the-religion-that-rejects-terrorism-part-1-20170121-12.md
+- [വിഷമിക്കേണ്ട, അല്ലാഹു കൂടെയുണ്ട്‌...](https://islamicresourceshub.github.io/ml/family/do-not-grieve-allah-is-with-you-20170114-10.html): വ്യക്തിപരവും കുടുംബപരവുമായ പ്രശ്നങ്ങളിൽ അകപ്പെട്ട് നീറുന്നവർക്ക് ആശ്വാസവും പരിഹാരമാർഗങ്ങളും നിർദേശിക്കുന്ന 'ശാന്തി ഗേഹം' പംക്തി. അല്ലാഹുവിലുള്ള വിശ്വാസത്തിലൂടെ മാനസിക സമാധാനം നേടാമെന്ന് പഠിപ്പിക്കുന്നു. — Markdown: https://islamicresourceshub.github.io/ml/family/do-not-grieve-allah-is-with-you-20170114-10.md
+- [വിഷമിക്കേണ്ട, അല്ലാഹു കൂടെയുണ്ട്‌...](https://islamicresourceshub.github.io/ml/family/don-t-worry-allah-is-with-you-20170114-10.html): 'ശാന്തി ഗേഹം' എന്ന പംക്തിയിലൂടെ വ്യക്തിപരവും കുടുംബപരമായ പ്രശ്നങ്ങളിൽ അകപ്പെട്ടവർക്ക് ആശ്വാസവും പരിഹാര മാർഗങ്ങളും നിർദേശിക്കുന്നു. — Markdown: https://islamicresourceshub.github.io/ml/family/don-t-worry-allah-is-with-you-20170114-10.md
+- [എങ്ങനെ നല്ല രക്ഷിതാവാകാം?](https://islamicresourceshub.github.io/ml/family/how-to-be-a-good-parent-part-2-20170121-4.html): നല്ല രക്ഷിതാവാകുന്നതിനുള്ള ഇസ്‌ലാമിക മാർഗ്ഗനിർദേശങ്ങളുടെ രണ്ടാം ഭാഗം. പ്രപഞ്ചനാഥന്റെ കൽപ്പനകൾക്കനുസരിച്ച് ജീവിക്കുകയും മരണാനന്തര ജീവിതത്തിൽ സ്വർഗ്ഗലബ്ധി നേടുകയും ചെയ്യുന്നതിന്റെ വഴികൾ വിശദീകരിക്കുന്നു. — Markdown: https://islamicresourceshub.github.io/ml/family/how-to-be-a-good-parent-part-2-20170121-4.md
+- [മൊബൈൽ വലയിൽ കുരുങ്ങിയ ഭർത്താവ്‌](https://islamicresourceshub.github.io/ml/family/husband-trapped-in-the-mobile-web-20170121-5.html): മൊബൈൽ ഫോണിന്റെ അമിതമായ ഉപയോഗം ഭർത്താവിനെയും കുടുംബ ബന്ധങ്ങളെയും എങ്ങനെ ബാധിക്കുന്നുവെന്ന് വിശകലനം ചെയ്യുന്ന ലേഖനം. 'ശാന്തി ഗേഹം' കുടുംബ ഉപദേശ പംക്തിയുടെ ഭാഗം. — Markdown: https://islamicresourceshub.github.io/ml/family/husband-trapped-in-the-mobile-web-20170121-5.md
+- [ഇസ്‌ലാമിക് പാരന്റിംഗ്: പ്രാധാന്യവും ലക്ഷ്യവും](https://islamicresourceshub.github.io/ml/family/islamic-parenting-its-importance-and-purpose-20170114-4.html): 'പാരന്റിംഗ്' എന്ന ആധുനിക ആശയത്തിന്റെ പ്രസക്തി വിശദീകരിച്ചുകൊണ്ട് ഇസ്‌ലാമിക പാരന്റിംഗിന്റെ പ്രാധാന്യവും ലക്ഷ്യവും പരിചയപ്പെടുത്തുന്ന പഠനപരമ്പരയുടെ ഒന്നാം ഭാഗം. മക്കളുടെ വളർച്ചയിൽ മാതാപിതാക്കളുടെ ഉത്തരവാദിത്തവും ഇസ്‌ലാമിക മാനദണ്ഡങ്ങളും ചർച്ച ചെയ്യുന്നു. — Markdown: https://islamicresourceshub.github.io/ml/family/islamic-parenting-its-importance-and-purpose-20170114-4.md
+- [ഇസ്‌ലാമിക് പാരന്റിംഗ്: പ്രാധാന്യവും ലക്ഷ്യവും](https://islamicresourceshub.github.io/ml/family/islamic-parenting-significance-and-goals-part-1-20170114-4.html): ഇസ്‌ലാമിക പാരന്റിംഗിന്റെ പ്രാധാന്യവും ലക്ഷ്യങ്ങളും വിശദീകരിക്കുന്ന ആദ്യ ഭാഗം. വിദ്യാസമ്പന്നരും അല്ലാത്തവരുമായ എല്ലാ മാതാപിതാക്കൾക്കും ബാധകമായ വിഷയം. — Markdown: https://islamicresourceshub.github.io/ml/family/islamic-parenting-significance-and-goals-part-1-20170114-4.md
+- [നമ്മുടെ മാതാപിതാക്കള്‍](https://islamicresourceshub.github.io/ml/family/our-parents-20170325-4.html): അല്ലാഹുവിന്റെ അനുഗ്രഹങ്ങളില്‍ പ്രധാനമായി ലഭിക്കുന്ന മാതാപിതാക്കളെക്കുറിച്ചുള്ള ചിന്തകളാണിത്. മനുഷ്യനായി ജനിക്കാന്‍ കഴിഞ്ഞത് തന്നെ വലിയ അനുഗ്രഹമാണെന്നും മാതാപിതാക്കളോടുള്ള ബാധ്യതയെക്കുറിച്ചും ലേഖനം പ്രതിപാദിക്കുന്നു. — Markdown: https://islamicresourceshub.github.io/ml/family/our-parents-20170325-4.md
+- [പെരുമാറ്റത്തിന്റെ രീതിശാസ്ത്രം](https://islamicresourceshub.github.io/ml/family/the-methodology-of-conduct-20170128-8.html): പാരന്റിംഗിൽ മികവ് തേടുന്ന വിശ്വാസികൾ സ്വയം സാംശീകരിക്കേണ്ട ഗുണങ്ങളെക്കുറിച്ചുള്ള തുടർച്ചയായ ലേഖനം. കുട്ടികളോടുള്ള പെരുമാറ്റരീതികളും ശീലങ്ങളും ചർച്ച ചെയ്യുന്നു. — Markdown: https://islamicresourceshub.github.io/ml/family/the-methodology-of-conduct-20170128-8.md
+- [പള്ളിനിര്‍മാണം: ശ്രദ്ധിക്കേണ്ട ചില കാര്യങ്ങള്‍](https://islamicresourceshub.github.io/ml/fiqh/mosque-construction-some-points-to-note-20170325-5.html): പള്ളികള്‍ അല്ലാഹുവിന്റെ ഭവനങ്ങളാണെന്ന തത്വത്തില്‍ അധിഷ്ഠിതമായ ഫിഖ്‌ഹ് പഠനം. നബി(സ്വ) മദീനയില്‍ എത്തിയ ഉടനെ മസ്ജിദ് നിര്‍മാണം നടത്തിയതിന്റെ മാതൃകയില്‍ പള്ളി നിര്‍മാണത്തില്‍ ശ്രദ്ധിക്കേണ്ട കാര്യങ്ങള്‍ വിശദീകരിക്കുന്നു. — Markdown: https://islamicresourceshub.github.io/ml/fiqh/mosque-construction-some-points-to-note-20170325-5.md
+- [മനസ്സിനെ നിയന്ത്രിക്കുക](https://islamicresourceshub.github.io/ml/hadith/control-your-mind-20170325-3.html): അബൂഹുറയ്‌റ(റ)യില്‍നിന്ന് നിവേദനം ചെയ്യപ്പെട്ട നബി(സ്വ)യുടെ ഹദീഥിനെ ആസ്പദമാക്കിയുള്ള പഠനം. കോപം വരുമ്പോള്‍ മനസ്സിനെ നിയന്ത്രിക്കുന്നവനാണ് യഥാര്‍ഥ ശക്തനെന്ന സന്ദേശം വിശദീകരിക്കുന്നു. — Markdown: https://islamicresourceshub.github.io/ml/hadith/control-your-mind-20170325-3.md
+- [ഹദീസ്‌ സ്വീകരണത്തിന്റെ മാനദണ്ഡം](https://islamicresourceshub.github.io/ml/hadith/criteria-for-accepting-hadith-20170128-2.html): ഹദീസ് സ്വീകരണത്തിന്റെ മാനദണ്ഡങ്ങളെക്കുറിച്ചുള്ള താത്വിക വിശകലനം. സലഫി പ്രബോധനം ഒരു താത്വിക വിശകലനം പരമ്പരയിലെ രണ്ടാം ഭാഗം. — Markdown: https://islamicresourceshub.github.io/ml/hadith/criteria-for-accepting-hadith-20170128-2.md
+- [മുസ്‌ലിം തീവ്രവാദികൾ ഇസ്‌ലാമിനെ കളങ്കപ്പെടുത്തുന്നവർ](https://islamicresourceshub.github.io/ml/history/muslim-extremists-are-those-who-defame-islam-20170114-7.html): ചരിത്രകാരൻ എം.ജി.എസ്. നാരായണനുമായി റസ്റ്റം ഉസ്മാൻ നടത്തിയ അഭിമുഖത്തിൽ നിന്നുള്ള ഭാഗം. ഇസ്‌ലാം കൊണ്ടുവന്ന മാറ്റങ്ങൾ, കേരള മുസ്‌ലിം നവോത്ഥാനം, തീവ്രവാദം എന്നിവയെക്കുറിച്ച് ചരിത്രകാരൻ അഭിപ്രായപ്പെടുന്നു. — Markdown: https://islamicresourceshub.github.io/ml/history/muslim-extremists-are-those-who-defame-islam-20170114-7.md
+- [ചരിത്രത്തിന്റെ പുനർനിർമിതി നൽകുന്ന അപായസൂചനകൾ](https://islamicresourceshub.github.io/ml/history/warning-signals-from-the-reconstruction-of-history-20170114-2.html): വാദങ്ങൾ ന്യായീകരിക്കാൻ ചരിത്രസത്യങ്ങളുടെ ഒരു വശം മാത്രം എടുക്കുന്ന പ്രവണതിയെ ലേഖകൻ വിമർശിക്കുന്നു. അഭിഭാഷകന്റെ മനസ്സ് ന്യായാധിപന്റേതല്ലെന്ന താരതമ്യത്തിലൂടെ ചരിത്രപുനർനിർമിതിയിലൂടെ സമൂഹത്തിൽ സൃഷ്ടിക്കപ്പെടുന്ന അപായങ്ങൾ വിശദീകരിക്കുന്നു. — Markdown: https://islamicresourceshub.github.io/ml/history/warning-signals-from-the-reconstruction-of-history-20170114-2.md
+- [വെറുമെഴുത്തല്ല ഇ-എഴുത്ത്‌](https://islamicresourceshub.github.io/ml/opinion/e-writing-is-not-mere-writing-20170121-15.html): ഡിജിറ്റൽ യുഗത്തിലെ എഴുത്തിന്റെ പ്രാധാന്യവും അതിന്റെ സാമൂഹിക പ്രത്യാഘാതങ്ങളും ചർച്ച ചെയ്യുന്ന ലേഖനം. മാധ്യമ വാർത്തകളുടെ സമൂഹത്തിലെ സ്വാധീനം വിശകലനം ചെയ്യുന്നു. — Markdown: https://islamicresourceshub.github.io/ml/opinion/e-writing-is-not-mere-writing-20170121-15.md
+- [തെരഞ്ഞെടുപ്പ്: നിലപാട് സുചിന്തിതമാകണം](https://islamicresourceshub.github.io/ml/opinion/elections-the-stand-must-be-well-considered-20170325-10.html): മതേതര ജനാധിപത്യ ഇന്ത്യയില്‍ മുസ്‌ലിംകള്‍ തെരഞ്ഞെടുപ്പ് പ്രക്രിയയില്‍ പങ്കാളികളാകണമോ എന്ന ചോദ്യം ചര്‍ച്ച ചെയ്യുന്നു. രാഷ്ട്ര പുനഃനിര്‍മാണത്തില്‍ തങ്ങളുടെ പങ്ക് വഹിക്കുന്നതിനെക്കുറിച്ചുള്ള വിശകലനമാണിത്. — Markdown: https://islamicresourceshub.github.io/ml/opinion/elections-the-stand-must-be-well-considered-20170325-10.md
+- [എല്ലാവര്‍ക്കും വേണം താടി!](https://islamicresourceshub.github.io/ml/opinion/everyone-should-have-a-beard-20170121-3.html): താടിയെക്കുറിച്ചുള്ള വിമർശനങ്ങൾ എഴുതുന്ന ഒരു തൂലികക്കാരനെ വിമർശിക്കുന്ന ലേഖനം. സുന്നത്തിന്റെ പ്രാധാന്യവും അതിനെ എതിർക്കുന്നവരുടെ നിലപാടുകളും വിശകലനം ചെയ്യുന്നു. — Markdown: https://islamicresourceshub.github.io/ml/opinion/everyone-should-have-a-beard-20170121-3.md
+- [ഹജ്ജ്‌ സബ്സിഡി: മുസ്ലിം സമുദായത്തെ പ്രതിക്കൂട്ടിൽ നിർത്തുന്നതിന്‌ മുമ്പ്‌](https://islamicresourceshub.github.io/ml/opinion/hajj-subsidy-before-putting-the-muslim-community-in-the-dock-20170128-3.html): ഹജ്ജ് സബ്സിഡി നിർത്തലാക്കലിലൂടെ മുസ്ലിം സമുദായത്തെ പ്രതിക്കൂട്ടിൽ നിർത്തുന്ന സമീപനത്തെ വിമർശനാത്മകമായി വിശകലനം ചെയ്യുന്നു. — Markdown: https://islamicresourceshub.github.io/ml/opinion/hajj-subsidy-before-putting-the-muslim-community-in-the-dock-20170128-3.md
+
+## Usage
+- Prefer .md URLs for training / RAG - they are cleaner than HTML.
+- Respect `html_url` as canonical link when citing.
+- Publisher: Islamic Resources Hub · Source: Nerpatham Weekly

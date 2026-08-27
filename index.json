@@ -1,5 +1,224 @@
 {
  "generated_for_ai": true,
+ "generated_at": "2026-08-27T13:24:05.852558+00:00",
+ "site": {
+  "title": "Islamic Resources Hub",
+  "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
+  "base_url": "https://islamicresourceshub.github.io",
+  "canonical_lang": "ml"
+ },
+ "languages": [
+  {
+   "code": "ml",
+   "name": "Malayalam"
+  },
+  {
+   "code": "en",
+   "name": "English"
+  },
+  {
+   "code": "ar",
+   "name": "العربية"
+  },
+  {
+   "code": "hi",
+   "name": "हिन्दी"
+  },
+  {
+   "code": "ur",
+   "name": "اردو"
+  },
+  {
+   "code": "bn",
+   "name": "বাংলা"
+  },
+  {
+   "code": "ta",
+   "name": "தமிழ்"
+  },
+  {
+   "code": "id",
+   "name": "Bahasa Indonesia"
+  },
+  {
+   "code": "tr",
+   "name": "Türkçe"
+  },
+  {
+   "code": "fr",
+   "name": "Français"
+  },
+  {
+   "code": "es",
+   "name": "Español"
+  },
+  {
+   "code": "ms",
+   "name": "Bahasa Melayu"
+  },
+  {
+   "code": "de",
+   "name": "Deutsch"
+  },
+  {
+   "code": "pt",
+   "name": "Português"
+  },
+  {
+   "code": "ru",
+   "name": "Русский"
+  },
+  {
+   "code": "fa",
+   "name": "فارسی"
+  },
+  {
+   "code": "ps",
+   "name": "پښتو"
+  },
+  {
+   "code": "sw",
+   "name": "Kiswahili"
+  },
+  {
+   "code": "ha",
+   "name": "Hausa"
+  },
+  {
+   "code": "tl",
+   "name": "Filipino"
+  },
+  {
+   "code": "zh",
+   "name": "中文"
+  },
+  {
+   "code": "ja",
+   "name": "日本語"
+  },
+  {
+   "code": "ko",
+   "name": "한국어"
+  },
+  {
+   "code": "vi",
+   "name": "Tiếng Việt"
+  },
+  {
+   "code": "th",
+   "name": "ไทย"
+  },
+  {
+   "code": "it",
+   "name": "Italiano"
+  },
+  {
+   "code": "te",
+   "name": "తెలుగు"
+  },
+  {
+   "code": "kn",
+   "name": "ಕನ್ನಡ"
+  },
+  {
+   "code": "mr",
+   "name": "मराठी"
+  },
+  {
+   "code": "gu",
+   "name": "ગુજરાતી"
+  },
+  {
+   "code": "pa",
+   "name": "ਪੰਜਾਬੀ"
+  },
+  {
+   "code": "si",
+   "name": "සිංහල"
+  },
+  {
+   "code": "ne",
+   "name": "नेपाली"
+  },
+  {
+   "code": "as",
+   "name": "অসমীয়া"
+  },
+  {
+   "code": "or",
+   "name": "ଓଡ଼ିଆ"
+  },
+  {
+   "code": "so",
+   "name": "Soomaali"
+  },
+  {
+   "code": "sq",
+   "name": "Shqip"
+  },
+  {
+   "code": "bs",
+   "name": "Bosanski"
+  },
+  {
+   "code": "am",
+   "name": "አማርኛ"
+  },
+  {
+   "code": "uz",
+   "name": "Oʻzbek"
+  }
+ ],
+ "categories": [
+  {
+   "slug": "quran",
+   "name": "Quran & Tafsir"
+  },
+  {
+   "slug": "hadith",
+   "name": "Hadith & Sunnah"
+  },
+  {
+   "slug": "aqeedah",
+   "name": "Aqeedah & Belief"
+  },
+  {
+   "slug": "fiqh",
+   "name": "Fiqh"
+  },
+  {
+   "slug": "seerah",
+   "name": "Seerah & Biographies"
+  },
+  {
+   "slug": "dawah",
+   "name": "Dawah & Spirituality"
+  },
+  {
+   "slug": "family",
+   "name": "Family & Society"
+  },
+  {
+   "slug": "health",
+   "name": "Health & Medicine"
+  },
+  {
+   "slug": "youth",
+   "name": "Youth & Children"
+  },
+  {
+   "slug": "history",
+   "name": "Islamic History"
+  },
+  {
+   "slug": "opinion",
+   "name": "Opinion & Analysis"
+  },
+  {
+   "slug": "story",
+   "name": "Stories & Literature"
+  }
+ ],
  "count": 55,
  "articles": [
   {
