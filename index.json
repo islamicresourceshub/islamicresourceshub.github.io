@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "count": 10,
+ "count": 20,
  "articles": [
   {
    "slug": "living-with-an-awareness-of-time-s-value-20170114-8",
@@ -12,6 +12,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/ml/dawah/living-with-an-awareness-of-time-s-value-20170114-8.html",
    "md_url": "/ml/dawah/living-with-an-awareness-of-time-s-value-20170114-8.md"
+  },
+  {
+   "slug": "prayer-that-is-worship-20170325-6",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "പ്രാര്‍ഥന: അതാകുന്നു ആരാധന",
+   "summary": "ആരാധനാകര്‍മങ്ങള്‍ ഇസ്‌ലാം പഠിപ്പിച്ച മുറപ്രകാരം നിലനിര്‍ത്തുക എന്നതാണ് ജീവിതത്തിന്റെ പ്രഥമലക്ഷ്യമെന്ന് സ്ഥാപിക്കുന്ന ലേഖനം. പ്രാര്‍ഥനയുടെ ആരാധനാപരമായ സ്വഭാവം ഖുര്‍ആനിക വചനങ്ങളുടെ അടിസ്ഥാനത്തില്‍ വിശദീകരിക്കുന്നു.",
+   "author": "മൂസ സ്വലാഹി, കാര",
+   "issue_date": "2017-03-25",
+   "html_url": "/ml/dawah/prayer-that-is-worship-20170325-6.html",
+   "md_url": "/ml/dawah/prayer-that-is-worship-20170325-6.md"
   },
   {
    "slug": "religion-is-fearlessness-20170114-6",
@@ -47,6 +58,39 @@
    "md_url": "/ml/family/islamic-parenting-its-importance-and-purpose-20170114-4.md"
   },
   {
+   "slug": "our-parents-20170325-4",
+   "lang": "ml",
+   "category": "family",
+   "title": "നമ്മുടെ മാതാപിതാക്കള്‍",
+   "summary": "അല്ലാഹുവിന്റെ അനുഗ്രഹങ്ങളില്‍ പ്രധാനമായി ലഭിക്കുന്ന മാതാപിതാക്കളെക്കുറിച്ചുള്ള ചിന്തകളാണിത്. മനുഷ്യനായി ജനിക്കാന്‍ കഴിഞ്ഞത് തന്നെ വലിയ അനുഗ്രഹമാണെന്നും മാതാപിതാക്കളോടുള്ള ബാധ്യതയെക്കുറിച്ചും ലേഖനം പ്രതിപാദിക്കുന്നു.",
+   "author": "കെ.സഫ്‌വാന്‍ മുഹമ്മദ്, ആമയൂര്‍",
+   "issue_date": "2017-03-25",
+   "html_url": "/ml/family/our-parents-20170325-4.html",
+   "md_url": "/ml/family/our-parents-20170325-4.md"
+  },
+  {
+   "slug": "mosque-construction-some-points-to-note-20170325-5",
+   "lang": "ml",
+   "category": "fiqh",
+   "title": "പള്ളിനിര്‍മാണം: ശ്രദ്ധിക്കേണ്ട ചില കാര്യങ്ങള്‍",
+   "summary": "പള്ളികള്‍ അല്ലാഹുവിന്റെ ഭവനങ്ങളാണെന്ന തത്വത്തില്‍ അധിഷ്ഠിതമായ ഫിഖ്‌ഹ് പഠനം. നബി(സ്വ) മദീനയില്‍ എത്തിയ ഉടനെ മസ്ജിദ് നിര്‍മാണം നടത്തിയതിന്റെ മാതൃകയില്‍ പള്ളി നിര്‍മാണത്തില്‍ ശ്രദ്ധിക്കേണ്ട കാര്യങ്ങള്‍ വിശദീകരിക്കുന്നു.",
+   "author": "ഡോ. അബ്ദുറസാഖ് സുല്ലമി",
+   "issue_date": "2017-03-25",
+   "html_url": "/ml/fiqh/mosque-construction-some-points-to-note-20170325-5.html",
+   "md_url": "/ml/fiqh/mosque-construction-some-points-to-note-20170325-5.md"
+  },
+  {
+   "slug": "control-your-mind-20170325-3",
+   "lang": "ml",
+   "category": "hadith",
+   "title": "മനസ്സിനെ നിയന്ത്രിക്കുക",
+   "summary": "അബൂഹുറയ്‌റ(റ)യില്‍നിന്ന് നിവേദനം ചെയ്യപ്പെട്ട നബി(സ്വ)യുടെ ഹദീഥിനെ ആസ്പദമാക്കിയുള്ള പഠനം. കോപം വരുമ്പോള്‍ മനസ്സിനെ നിയന്ത്രിക്കുന്നവനാണ് യഥാര്‍ഥ ശക്തനെന്ന സന്ദേശം വിശദീകരിക്കുന്നു.",
+   "author": "ഉസ്മാന്‍ പാലക്കാഴി",
+   "issue_date": "2017-03-25",
+   "html_url": "/ml/hadith/control-your-mind-20170325-3.html",
+   "md_url": "/ml/hadith/control-your-mind-20170325-3.md"
+  },
+  {
    "slug": "muslim-extremists-are-those-who-defame-islam-20170114-7",
    "lang": "ml",
    "category": "history",
@@ -67,6 +111,28 @@
    "issue_date": "2017-01-14",
    "html_url": "/ml/history/warning-signals-from-the-reconstruction-of-history-20170114-2.html",
    "md_url": "/ml/history/warning-signals-from-the-reconstruction-of-history-20170114-2.md"
+  },
+  {
+   "slug": "elections-the-stand-must-be-well-considered-20170325-10",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "തെരഞ്ഞെടുപ്പ്: നിലപാട് സുചിന്തിതമാകണം",
+   "summary": "മതേതര ജനാധിപത്യ ഇന്ത്യയില്‍ മുസ്‌ലിംകള്‍ തെരഞ്ഞെടുപ്പ് പ്രക്രിയയില്‍ പങ്കാളികളാകണമോ എന്ന ചോദ്യം ചര്‍ച്ച ചെയ്യുന്നു. രാഷ്ട്ര പുനഃനിര്‍മാണത്തില്‍ തങ്ങളുടെ പങ്ക് വഹിക്കുന്നതിനെക്കുറിച്ചുള്ള വിശകലനമാണിത്.",
+   "author": "പി.എന്‍ അബ്ദുറഹ്മാന്‍",
+   "issue_date": "2017-03-25",
+   "html_url": "/ml/opinion/elections-the-stand-must-be-well-considered-20170325-10.html",
+   "md_url": "/ml/opinion/elections-the-stand-must-be-well-considered-20170325-10.md"
+  },
+  {
+   "slug": "india-which-way-forward-20170325-2",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "ഇന്ത്യ എങ്ങോട്ട്?",
+   "summary": "ഇന്ത്യയുടെ ഇന്നത്തെ രാഷ്ട്രീയ-സാമൂഹിക സാഹചര്യത്തെക്കുറിച്ചുള്ള വിശകലനമാണിത്. രാജ്യത്തെ സമാധാനത്തെക്കുറിച്ച് ആശങ്കയുള്ളവര്‍ ചോദിക്കുന്ന ചോദ്യങ്ങള്‍ക്ക് ലേഖകന്‍ മറുപടി നല്‍കുന്നു.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2017-03-25",
+   "html_url": "/ml/opinion/india-which-way-forward-20170325-2.html",
+   "md_url": "/ml/opinion/india-which-way-forward-20170325-2.md"
   },
   {
    "slug": "terror-hunting-and-religious-freedom-20170114-1",
@@ -100,6 +166,50 @@
    "issue_date": "2017-01-14",
    "html_url": "/ml/opinion/the-sedition-law-that-wields-the-uapa-stick-20170114-9.html",
    "md_url": "/ml/opinion/the-sedition-law-that-wields-the-uapa-stick-20170114-9.md"
+  },
+  {
+   "slug": "praise-be-to-the-lord-of-the-worlds-20170325-9",
+   "lang": "ml",
+   "category": "quran",
+   "title": "സ്തുതി ലോകരക്ഷിതാവിന്",
+   "summary": "'സ്തുതി സര്‍വലോക പരിപാലകനായ അല്ലാഹുവിന്നാകുന്നു' (ക്വുര്‍ആന്‍ 1:2) എന്ന വചനത്തെ ആസ്പദമാക്കിയുള്ള പഠനം. മനുഷ്യന്‍ പഠിപ്പിക്കപ്പെടുന്ന മര്യാദകളില്‍ അല്ലാഹുവിനോടുള്ള സ്തുതിയുടെ സ്ഥാനം വിശദീകരിക്കുന്നു.",
+   "author": "സി.മുഹമ്മദ് റാഫി ചെമ്പ്ര",
+   "issue_date": "2017-03-25",
+   "html_url": "/ml/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.html",
+   "md_url": "/ml/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.md"
+  },
+  {
+   "slug": "prophets-and-trials-20170325-7",
+   "lang": "ml",
+   "category": "seerah",
+   "title": "പ്രവാചകന്മാരും പരീക്ഷണങ്ങളും",
+   "summary": "മനുഷ്യര്‍ക്ക് നേര്‍വഴി കാണിക്കാന്‍ നിയോഗിക്കപ്പെട്ട പ്രവാചകന്മാര്‍ വിവിധ രൂപത്തിലുള്ള പരീക്ഷണങ്ങള്‍ നേരിട്ടതിനെക്കുറിച്ചുള്ള പഠനം. ആ പരീക്ഷണങ്ങളെല്ലാം അവരുടെ വിശ്വാസത്തിന് കരുത്ത് പകര്‍ന്നു എന്ന് ലേഖനം ചൂണ്ടിക്കാട്ടുന്നു.",
+   "author": "ഹുസൈന്‍ സലഫി, ഷാര്‍ജ",
+   "issue_date": "2017-03-25",
+   "html_url": "/ml/seerah/prophets-and-trials-20170325-7.html",
+   "md_url": "/ml/seerah/prophets-and-trials-20170325-7.md"
+  },
+  {
+   "slug": "good-intention-matters-most-20170325-8",
+   "lang": "ml",
+   "category": "story",
+   "title": "സന്മനസ്സാണ് പ്രധാനം",
+   "summary": "ജോലിത്തിരക്കിനിടയില്‍ കൂട്ടുകാരന്റെ ഫോണ്‍ വിളിയില്‍ തുടങ്ങുന്ന കഥാരൂപത്തിലുള്ള എഴുത്താണിത്. സന്മനസ്സിന്റെയും ഉദ്ദേശ്യശുദ്ധിയുടെയും പ്രാധാന്യം കഥയിലൂടെ അവതരിപ്പിക്കുന്നു.",
+   "author": "ഇബ്‌നു അലി എടത്തനാട്ടുകര",
+   "issue_date": "2017-03-25",
+   "html_url": "/ml/story/good-intention-matters-most-20170325-8.html",
+   "md_url": "/ml/story/good-intention-matters-most-20170325-8.md"
+  },
+  {
+   "slug": "an-agenda-is-needed-during-vacation-too-20170325-1",
+   "lang": "ml",
+   "category": "youth",
+   "title": "അജണ്ട വേണം; അവധിക്കാലത്തും",
+   "summary": "വിദ്യാഭ്യാസ വര്‍ഷം അവസാനിച്ച് വരുന്ന അവധിക്കാലത്തിന്റെ പ്രാധാന്യത്തെക്കുറിച്ചാണ് ഈ ലേഖനം. കുട്ടികളുടെ സമയം ഉപയോഗപ്രദമായി വിനിയോഗിക്കാന്‍ ഒരു ഇസ്‌ലാമിക അജണ്ട ആവശ്യമാണെന്ന് ലേഖകന്‍ ചൂണ്ടിക്കാട്ടുന്നു.",
+   "author": "ഡോ. സി.എം സാബിര്‍ നവാസ്",
+   "issue_date": "2017-03-25",
+   "html_url": "/ml/youth/an-agenda-is-needed-during-vacation-too-20170325-1.html",
+   "md_url": "/ml/youth/an-agenda-is-needed-during-vacation-too-20170325-1.md"
   },
   {
    "slug": "what-will-the-waste-do-20170114-5",
