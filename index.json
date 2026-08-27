@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-27T13:24:05.852558+00:00",
+ "generated_at": "2026-08-27T13:32:00.255084+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 55,
+ "count": 61,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -825,6 +825,72 @@
    "issue_date": "2017-01-14",
    "html_url": "/ml/youth/what-will-the-waste-do-20170114-5.html",
    "md_url": "/ml/youth/what-will-the-waste-do-20170114-5.md"
+  },
+  {
+   "slug": "classify",
+   "lang": "src",
+   "category": "prompts",
+   "title": null,
+   "summary": null,
+   "author": null,
+   "issue_date": null,
+   "html_url": "/src/prompts/classify.html",
+   "md_url": "/src/prompts/classify.md"
+  },
+  {
+   "slug": "extract_ml",
+   "lang": "src",
+   "category": "prompts",
+   "title": null,
+   "summary": null,
+   "author": null,
+   "issue_date": null,
+   "html_url": "/src/prompts/extract_ml.html",
+   "md_url": "/src/prompts/extract_ml.md"
+  },
+  {
+   "slug": "meta_batch",
+   "lang": "src",
+   "category": "prompts",
+   "title": null,
+   "summary": null,
+   "author": null,
+   "issue_date": null,
+   "html_url": "/src/prompts/meta_batch.html",
+   "md_url": "/src/prompts/meta_batch.md"
+  },
+  {
+   "slug": "segment",
+   "lang": "src",
+   "category": "prompts",
+   "title": null,
+   "summary": null,
+   "author": null,
+   "issue_date": null,
+   "html_url": "/src/prompts/segment.html",
+   "md_url": "/src/prompts/segment.md"
+  },
+  {
+   "slug": "structure",
+   "lang": "src",
+   "category": "prompts",
+   "title": null,
+   "summary": null,
+   "author": null,
+   "issue_date": null,
+   "html_url": "/src/prompts/structure.html",
+   "md_url": "/src/prompts/structure.md"
+  },
+  {
+   "slug": "translate",
+   "lang": "src",
+   "category": "prompts",
+   "title": null,
+   "summary": null,
+   "author": null,
+   "issue_date": null,
+   "html_url": "/src/prompts/translate.html",
+   "md_url": "/src/prompts/translate.md"
   }
  ]
 }
