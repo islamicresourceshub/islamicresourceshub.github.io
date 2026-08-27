@@ -6,15 +6,15 @@ category: dawah
 kind: article
 tags:
 - religion
-- islam
 - fearlessness
-- dawah
-summary: ലോകത്തിലെ മതങ്ങളിൽ പലതും വ്യക്തികളുടെ പേരുമായോ സംസ്കാരവുമായോ ബന്ധപ്പെട്ടിരിക്കുന്നുവെന്ന നിരീക്ഷണത്തിലൂടെ ഇസ്‌ലാമിന്റെ സവിശേഷതകൾ വിശദീകരിക്കുന്ന ലേഖനം. മതം ഭയമല്ല, നിർഭയത്വമാണെന്ന ആശയം അവതരിപ്പിക്കുന്നു.
+- spirituality
+- islam
+summary: ലോകത്തിലെ വിവിധ മതങ്ങളുടെ പശ്ചാത്തലത്തിൽ മതം നിർഭയത്വം പകരുന്നതിനെക്കുറിച്ച് പ്രതിപാദിക്കുന്ന ലേഖനം.
 source:
   magazine: Nerpatham Weekly
   issue_date: '2017-01-14'
   pdf_url: http://nerpatham.com/vol-no-01/images/archives/Nerpatham-2017Jan14.pdf
-date_processed: '2026-08-26T07:31:04Z'
+date_processed: '2026-08-27T05:07:25Z'
 slug: religion-is-fearlessness-20170114-6
 ---
 
