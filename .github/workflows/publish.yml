@@ -1,14 +1,18 @@
-name: Regenerate SEO/AI site
+name: Build and deploy site
 
 on:
   push:
     branches: [main]
-    paths-ignore:
-      - '**.md'  # skip if only docs? remove if you want every md push to rebuild
   workflow_dispatch:
 
 permissions:
-  contents: write
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
 
 jobs:
   build:
@@ -28,7 +32,7 @@ jobs:
       - name: Install deps
         run: pip install -r requirements.txt
 
-      - name: Regenerate HTML (canonical, OG, JSON-LD, sitemap, robots, llms)
+      - name: Regenerate HTML
         env:
           OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
         run: |
@@ -41,8 +45,10 @@ jobs:
           count=0
           for p in sorted(sg.site.rglob('*.md')):
               rel = p.relative_to(sg.site).as_posix()
+              if rel.startswith('src/') or rel.startswith('.github/'): continue
               parts = rel.split('/')
               if len(parts)!=3: continue
+              if parts[0] in ('src', '.github'): continue
               sg.render_article(cfg, rel)
               count+=1
           print(f'rendered {count} articles')
@@ -50,16 +56,28 @@ jobs:
           print('regenerated indexes')
           "
 
-      - name: Commit if changed
+      - name: Copy static site to _site (exclude src/.github/config)
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git status --short
-          if [ -n "$(git status --porcelain)" ]; then
-            git add -A
-            # [skip ci] prevents infinite loop
-            git commit -m "chore: regenerate site [skip ci]"
-            git push
-          else
-            echo "no changes"
-          fi
+          mkdir -p _site
+          # copy only the static output, NOT src/ or .github/ or config
+          cp -r ml/ _site/
+          cp -r assets/ _site/
+          cp index.html index.json rss.xml sitemap.xml robots.txt llms.txt style.css .nojekyll _site/
+          # verify no source leaked
+          if [ -d "_site/src" ]; then echo "ERROR: src leaked into _site"; exit 1; fi
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

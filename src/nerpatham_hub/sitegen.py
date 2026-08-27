@@ -281,10 +281,15 @@ class SiteGen:
         entries = []
         for p in sorted(self.site.rglob("*.md")):
             rel = p.relative_to(self.site).as_posix()
+            # never index build sources
+            if rel.startswith("src/") or rel.startswith(".github/"):
+                continue
             parts = rel.split("/")
             if len(parts) != 3:
                 continue
             lang, category, fname = parts
+            if lang in ("src", ".github"):
+                continue
             fm, _ = split_front_matter(p.read_text(encoding="utf-8"))
             entries.append({
                 "slug": fm.get("slug") or p.stem,
