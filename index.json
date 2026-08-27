@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-27T16:01:55.209432+00:00",
+ "generated_at": "2026-08-27T16:02:13.596395+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,8 +219,19 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 61,
+ "count": 62,
  "articles": [
+  {
+   "slug": "an-agenda-is-needed-during-vacation-too-20170325-1",
+   "lang": "bs",
+   "category": "youth",
+   "title": "Potrebna je agenda; čak i tokom raspusta",
+   "summary": "Ovaj članak govori o važnosti školskog raspusta nakon završetka akademske godine. Autor ističe potrebu za islamskom agendom kako bi se dječije vrijeme iskoristilo na koristan način.",
+   "author": "ഡോ. സി.എം സാബിര്‍ നവാസ്",
+   "issue_date": "2017-03-25",
+   "html_url": "/bs/youth/an-agenda-is-needed-during-vacation-too-20170325-1.html",
+   "md_url": "/bs/youth/an-agenda-is-needed-during-vacation-too-20170325-1.md"
+  },
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
    "lang": "ml",
