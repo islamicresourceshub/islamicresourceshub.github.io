@@ -1,0 +1,9 @@
+pymupdf
+httpx
+PyYAML
+markdown
+Jinja2
+python-dotenv
+beautifulsoup4
+lxml
+markdownify

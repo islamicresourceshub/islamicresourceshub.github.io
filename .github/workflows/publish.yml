@@ -1,0 +1,65 @@
+name: Regenerate SEO/AI site
+
+on:
+  push:
+    branches: [main]
+    paths-ignore:
+      - '**.md'  # skip if only docs? remove if you want every md push to rebuild
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install deps
+        run: pip install -r requirements.txt
+
+      - name: Regenerate HTML (canonical, OG, JSON-LD, sitemap, robots, llms)
+        env:
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+        run: |
+          python -c "
+          from src.nerpatham_hub.config import load
+          from src.nerpatham_hub.sitegen import SiteGen
+          cfg = load()
+          sg = SiteGen(cfg)
+          print(f'site root: {sg.site}')
+          count=0
+          for p in sorted(sg.site.rglob('*.md')):
+              rel = p.relative_to(sg.site).as_posix()
+              parts = rel.split('/')
+              if len(parts)!=3: continue
+              sg.render_article(cfg, rel)
+              count+=1
+          print(f'rendered {count} articles')
+          sg.regenerate_indexes(cfg)
+          print('regenerated indexes')
+          "
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git status --short
+          if [ -n "$(git status --porcelain)" ]; then
+            git add -A
+            # [skip ci] prevents infinite loop
+            git commit -m "chore: regenerate site [skip ci]"
+            git push
+          else
+            echo "no changes"
+          fi

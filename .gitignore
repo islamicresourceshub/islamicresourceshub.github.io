@@ -1,0 +1,10 @@
+# Safety net - secrets must never enter version control
+.env
+*.key
+state/
+work/
+logs/
+archive/
+inbox/
+.venv/
+__pycache__/

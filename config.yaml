@@ -1,0 +1,131 @@
+# ============================================================================
+# Islamic Resources Hub - configuration
+# Edit freely; the worker reloads this file on every restart.
+# Secrets (API keys) live in .env - NEVER put them in this file.
+# ============================================================================
+
+site:
+  base_url: "https://islamicresourceshub.github.io"
+  repo: "islamicresourceshub/islamicresourceshub.github.io"
+  title: "Islamic Resources Hub"
+  description: "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)"
+  owner: "adishmuhammed"
+
+source:
+  magazine_en: "Nerpatham Weekly"
+  magazine_ml: "\u0d28\u0d47\u0d7c\u0d2a\u0d25\u0d02 \u0d35\u0d3e\u0d30\u0d3f\u0d15"
+  website: "https://nerpatham.com"
+  # Pages crawled for new PDF/TXT links. Add future volume pages here.
+  listing_urls:
+    - "http://nerpatham.com/vol-no-10/archives/nerpatham-all-pdf.html"
+    - "http://nerpatham.com/vol-no-10/archives/nerpatham-all-text.html"
+    - "http://nerpatham.com/vol-no-10/"
+    - "http://nerpatham.com/vol-no-10/archives/nerpatham-2026.html"
+  request_delay_seconds: 3
+  user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) IslamicResourceHub/1.0 (+content archival)"
+
+pipeline:
+  raster_dpi: 170
+  image_format: "jpeg"            # jpeg | png
+  delete_pdf_after_processing: true   # PDF removed only AFTER its articles are published
+  max_attempts: 3
+  poll_interval_seconds: 120      # idle sleep when queue is empty
+  chars_per_virtual_page: 3500    # chunk size when using site-provided TXT
+
+llm:
+  base_url: "https://openrouter.ai/api/v1"
+  # Primary model; additional free fallbacks tried instantly when rate-limited
+  model: "stealth/ox-alpha"
+  models:
+    - "stealth/ox-alpha"
+    - "z-ai/glm-5.2:free"
+    - "minimax/minimax-m3:free"
+    - "minimax/minimax-m2.7:free"
+    - "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free"
+    - "nvidia/nemotron-3-super-120b-a12b:free"
+    - "thinkingmachines/inkling:free"
+    - "thinkingmachines/inkling-small:free"
+    - "google/gemma-4-26b-a4b-it:free"
+    - "google/gemma-4-31b-it:free"
+    - "nvidia/nemotron-3-ultra-550b-a55b:free"
+    - "cohere/north-mini-code:free"
+    - "liquid/lfm-2.5-2.6b:free"
+  # vision-capable fallback pool (tried for image OCR; text models auto-skipped)
+  vision_models:
+    - "stealth/ox-alpha"
+    - "google/gemma-4-26b-a4b-it:free"
+    - "google/gemma-4-31b-it:free"
+    - "z-ai/glm-5.2:free"
+    - "nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free"
+  temperature_extraction: 0.1
+  temperature_translation: 0.2
+  timeout_seconds: 240
+  backoff_base_seconds: 30        # waits base * 2^n when *all* models are rate-limited
+  backoff_max_seconds: 7200
+
+git:
+  author_name: "adishmuhammed"
+  author_email: "adishmuhammed@users.noreply.github.com"
+
+# Canonical language = Malayalam originals. Translations are generated per target below.
+# Order matters: earlier entries are translated first.
+languages:
+  canonical: "ml"
+  targets:
+    # ---- Tier 1 ----
+    - {code: en, name: "English"}
+    - {code: ar, name: "العربية"}
+    - {code: hi, name: "हिन्दी"}
+    - {code: ur, name: "اردو"}
+    - {code: bn, name: "বাংলা"}
+    - {code: ta, name: "தமிழ்"}
+    - {code: id, name: "Bahasa Indonesia"}
+    - {code: tr, name: "Türkçe"}
+    - {code: fr, name: "Français"}
+    - {code: es, name: "Español"}
+    # ---- Tier 2 ----
+    - {code: ms, name: "Bahasa Melayu"}
+    - {code: de, name: "Deutsch"}
+    - {code: pt, name: "Português"}
+    - {code: ru, name: "Русский"}
+    - {code: fa, name: "فارسی"}
+    - {code: ps, name: "پښتو"}
+    - {code: sw, name: "Kiswahili"}
+    - {code: ha, name: "Hausa"}
+    - {code: tl, name: "Filipino"}
+    - {code: zh, name: "中文"}
+    - {code: ja, name: "日本語"}
+    - {code: ko, name: "한국어"}
+    - {code: vi, name: "Tiếng Việt"}
+    - {code: th, name: "ไทย"}
+    - {code: it, name: "Italiano"}
+    # ---- Tier 3 ----
+    - {code: te, name: "తెలుగు"}
+    - {code: kn, name: "ಕನ್ನಡ"}
+    - {code: mr, name: "मराठी"}
+    - {code: gu, name: "ગુજરાતી"}
+    - {code: pa, name: "ਪੰਜਾਬੀ"}
+    - {code: si, name: "සිංහල"}
+    - {code: ne, name: "नेपाली"}
+    - {code: as, name: "অসমীয়া"}
+    - {code: or, name: "ଓଡ଼ିଆ"}
+    - {code: so, name: "Soomaali"}
+    - {code: sq, name: "Shqip"}
+    - {code: bs, name: "Bosanski"}
+    - {code: am, name: "አማርኛ"}
+    - {code: uz, name: "Oʻzbek"}
+
+# Subject taxonomy - the LLM must pick exactly one slug per article.
+categories:
+  - {slug: quran,    en: "Quran & Tafsir"}
+  - {slug: hadith,   en: "Hadith & Sunnah"}
+  - {slug: aqeedah,  en: "Aqeedah & Belief"}
+  - {slug: fiqh,     en: "Fiqh"}
+  - {slug: seerah,   en: "Seerah & Biographies"}
+  - {slug: dawah,    en: "Dawah & Spirituality"}
+  - {slug: family,   en: "Family & Society"}
+  - {slug: health,   en: "Health & Medicine"}
+  - {slug: youth,    en: "Youth & Children"}
+  - {slug: history,  en: "Islamic History"}
+  - {slug: opinion,  en: "Opinion & Analysis"}
+  - {slug: story,    en: "Stories & Literature"}
