@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-27T16:08:20.778197+00:00",
+ "generated_at": "2026-08-27T16:08:38.499842+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 78,
+ "count": 79,
  "articles": [
   {
    "slug": "an-agenda-is-needed-during-vacation-too-20170325-1",
@@ -242,6 +242,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/ar/youth/an-agenda-is-needed-during-vacation-too-20170325-1.html",
    "md_url": "/ar/youth/an-agenda-is-needed-during-vacation-too-20170325-1.md"
+  },
+  {
+   "slug": "an-agenda-is-needed-during-vacation-too-20170325-1",
+   "lang": "as",
+   "category": "youth",
+   "title": "ছুটিৰ দিনতো লাগে এক সুনিৰ্দিষ্ট কাৰ্যসূচী",
+   "summary": "এই প্ৰবন্ধটোত শৈক্ষিক বৰ্ষৰ অন্তত অহা বন্ধৰ দিনবোৰৰ গুৰুত্বৰ বিষয়ে আলোচনা কৰা হৈছে। লেখকৰ মতে, ল’ৰা-ছোৱালীৰ সময়খিনি ফলপ্ৰসূভাৱে ব্যৱহাৰ কৰিবলৈ এক ইছলামিক কাৰ্যসূচী বা এজেণ্ডা থকাটো অতি প্ৰয়োজনীয়।",
+   "author": "ഡോ. സി.എം സാബിര്‍ നവാസ്",
+   "issue_date": "2017-03-25",
+   "html_url": "/as/youth/an-agenda-is-needed-during-vacation-too-20170325-1.html",
+   "md_url": "/as/youth/an-agenda-is-needed-during-vacation-too-20170325-1.md"
   },
   {
    "slug": "an-agenda-is-needed-during-vacation-too-20170325-1",
