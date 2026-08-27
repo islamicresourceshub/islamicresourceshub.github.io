@@ -1,7 +1,29 @@
 {
  "generated_for_ai": true,
- "count": 43,
+ "count": 55,
  "articles": [
+  {
+   "slug": "become-the-guardian-of-the-sources-20170128-9",
+   "lang": "ml",
+   "category": "aqeedah",
+   "title": "പ്രമാണങ്ങളുടെ കാവലാളാവുക",
+   "summary": "ഇസ്‌ലാമിന്റെ പ്രമാണങ്ങളുടെ ദൈവികതയും അജയ്യതയും മറ്റു മതങ്ങളിൽ നിന്നുള്ള വ്യതിരിക്തതയും വിശദീകരിക്കുന്നു. ഖുർആനും സുന്നത്തും കാത്തുസൂക്ഷിക്കലിന്റെ പ്രാധാന്യം അനുസ്മരിപ്പിക്കുന്നു.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2017-01-28",
+   "html_url": "/ml/aqeedah/become-the-guardian-of-the-sources-20170128-9.html",
+   "md_url": "/ml/aqeedah/become-the-guardian-of-the-sources-20170128-9.md"
+  },
+  {
+   "slug": "faith-is-the-foundation-of-islam-20170128-13",
+   "lang": "ml",
+   "category": "aqeedah",
+   "title": "വിശ്വാസം ഇസ്ലാമിന്റെ അടിസ്ഥാനം",
+   "summary": "ഇസ്‌ലാമിലെ വിശ്വാസത്തിന്റെ അടിസ്ഥാന പഠനം. ഏതു കർമത്തിനും ഉറച്ച വിശ്വാസമാണ് അടിത്തറയെന്ന തത്ത്വം വിശദീകരിക്കുന്നു.",
+   "author": "മൂസ സ്വലാഹി കാര",
+   "issue_date": "2017-01-28",
+   "html_url": "/ml/aqeedah/faith-is-the-foundation-of-islam-20170128-13.html",
+   "md_url": "/ml/aqeedah/faith-is-the-foundation-of-islam-20170128-13.md"
+  },
   {
    "slug": "do-not-waver-in-trials-20170121-9",
    "lang": "ml",
@@ -12,6 +34,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/ml/dawah/do-not-waver-in-trials-20170121-9.html",
    "md_url": "/ml/dawah/do-not-waver-in-trials-20170121-9.md"
+  },
+  {
+   "slug": "jallikattu-and-the-islamic-approach-to-animals-20170128-4",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "ജെല്ലിക്കെട്ടും ജന്തുക്കളോടുള്ള ഇസ്‌ലാമിക സമീപനവും",
+   "summary": "ജെല്ലിക്കെട്ട് വിഷയത്തിലൂടെ ജന്തുക്കളോടുള്ള ഇസ്‌ലാമിക സമീപനം വിശദീകരിക്കുന്നു. അല്ലാഹുവിന്റെ സൃഷ്ടികളോടുള്ള കരുണയും കാരുണ്യവും എടുത്തുപറയുന്നു.",
+   "author": "അബ്ദുൽ മാലിക്‌ സലഫി",
+   "issue_date": "2017-01-28",
+   "html_url": "/ml/dawah/jallikattu-and-the-islamic-approach-to-animals-20170128-4.html",
+   "md_url": "/ml/dawah/jallikattu-and-the-islamic-approach-to-animals-20170128-4.md"
   },
   {
    "slug": "live-knowing-the-value-of-time-20170114-8",
@@ -34,6 +67,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/ml/dawah/living-with-an-awareness-of-time-s-value-20170114-8.html",
    "md_url": "/ml/dawah/living-with-an-awareness-of-time-s-value-20170114-8.md"
+  },
+  {
+   "slug": "muslims-in-a-pluralistic-society-20170128-1",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "ബഹുമത സമൂഹത്തിലെ മുസ്ലിം",
+   "summary": "ഇസ്‌ലാമികേതര വിഭാഗങ്ങളുമായി നന്മയിൽ വർത്തിക്കുന്നതിനെക്കുറിച്ചുള്ള ഖുർആനിക പഠനം. തീവ്രവാദത്തെ വെറുക്കുന്ന മതമെന്ന പരമ്പരയുടെ രണ്ടാം ഭാഗമാണിത്.",
+   "author": "അൻവർ അബൂബക്കർ",
+   "issue_date": "2017-01-28",
+   "html_url": "/ml/dawah/muslims-in-a-pluralistic-society-20170128-1.html",
+   "md_url": "/ml/dawah/muslims-in-a-pluralistic-society-20170128-1.md"
   },
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -179,6 +223,17 @@
    "md_url": "/ml/family/our-parents-20170325-4.md"
   },
   {
+   "slug": "the-methodology-of-conduct-20170128-8",
+   "lang": "ml",
+   "category": "family",
+   "title": "പെരുമാറ്റത്തിന്റെ രീതിശാസ്ത്രം",
+   "summary": "പാരന്റിംഗിൽ മികവ് തേടുന്ന വിശ്വാസികൾ സ്വയം സാംശീകരിക്കേണ്ട ഗുണങ്ങളെക്കുറിച്ചുള്ള തുടർച്ചയായ ലേഖനം. കുട്ടികളോടുള്ള പെരുമാറ്റരീതികളും ശീലങ്ങളും ചർച്ച ചെയ്യുന്നു.",
+   "author": "അഷ്‌റഫ്‌ എകരൂൽ",
+   "issue_date": "2017-01-28",
+   "html_url": "/ml/family/the-methodology-of-conduct-20170128-8.html",
+   "md_url": "/ml/family/the-methodology-of-conduct-20170128-8.md"
+  },
+  {
    "slug": "mosque-construction-some-points-to-note-20170325-5",
    "lang": "ml",
    "category": "fiqh",
@@ -199,6 +254,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/ml/hadith/control-your-mind-20170325-3.html",
    "md_url": "/ml/hadith/control-your-mind-20170325-3.md"
+  },
+  {
+   "slug": "criteria-for-accepting-hadith-20170128-2",
+   "lang": "ml",
+   "category": "hadith",
+   "title": "ഹദീസ്‌ സ്വീകരണത്തിന്റെ മാനദണ്ഡം",
+   "summary": "ഹദീസ് സ്വീകരണത്തിന്റെ മാനദണ്ഡങ്ങളെക്കുറിച്ചുള്ള താത്വിക വിശകലനം. സലഫി പ്രബോധനം ഒരു താത്വിക വിശകലനം പരമ്പരയിലെ രണ്ടാം ഭാഗം.",
+   "author": "ശൈഖ് നാസ്വിറുദ്ദീന്‍ അല്‍ബാനി (വിവര്‍ത്തനം: ശമീര്‍ മദീനി)",
+   "issue_date": "2017-01-28",
+   "html_url": "/ml/hadith/criteria-for-accepting-hadith-20170128-2.html",
+   "md_url": "/ml/hadith/criteria-for-accepting-hadith-20170128-2.md"
   },
   {
    "slug": "muslim-extremists-are-those-who-defame-islam-20170114-7",
@@ -256,6 +322,17 @@
    "md_url": "/ml/opinion/everyone-should-have-a-beard-20170121-3.md"
   },
   {
+   "slug": "hajj-subsidy-before-putting-the-muslim-community-in-the-dock-20170128-3",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "ഹജ്ജ്‌ സബ്സിഡി: മുസ്ലിം സമുദായത്തെ പ്രതിക്കൂട്ടിൽ നിർത്തുന്നതിന്‌ മുമ്പ്‌",
+   "summary": "ഹജ്ജ് സബ്സിഡി നിർത്തലാക്കലിലൂടെ മുസ്ലിം സമുദായത്തെ പ്രതിക്കൂട്ടിൽ നിർത്തുന്ന സമീപനത്തെ വിമർശനാത്മകമായി വിശകലനം ചെയ്യുന്നു.",
+   "author": "പി.വി.എ പ്രിംറോസ്‌",
+   "issue_date": "2017-01-28",
+   "html_url": "/ml/opinion/hajj-subsidy-before-putting-the-muslim-community-in-the-dock-20170128-3.html",
+   "md_url": "/ml/opinion/hajj-subsidy-before-putting-the-muslim-community-in-the-dock-20170128-3.md"
+  },
+  {
    "slug": "india-which-way-forward-20170325-2",
    "lang": "ml",
    "category": "opinion",
@@ -267,6 +344,17 @@
    "md_url": "/ml/opinion/india-which-way-forward-20170325-2.md"
   },
   {
+   "slug": "join-the-party-let-the-battle-begin-20170128-6",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "പാർട്ടിയിൽ അംഗമാവുക; അങ്കം തുടങ്ങുക",
+   "summary": "കണ്ണൂരിലെ രാഷ്ട്രീയ കൊലപാതകങ്ങളുടെ പശ്ചാത്തലത്തിൽ മുസ്ലിം രാഷ്ട്രീയ ഇടപെടലിന്റെ ആവശ്യകതയെക്കുറിച്ചുള്ള വിശകലനം.",
+   "author": "ഡോ. സി.എം സാബിർ നവാസ്‌",
+   "issue_date": "2017-01-28",
+   "html_url": "/ml/opinion/join-the-party-let-the-battle-begin-20170128-6.html",
+   "md_url": "/ml/opinion/join-the-party-let-the-battle-begin-20170128-6.md"
+  },
+  {
    "slug": "muslim-extremists-defame-islam-20170114-7",
    "lang": "ml",
    "category": "opinion",
@@ -276,6 +364,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/ml/opinion/muslim-extremists-defame-islam-20170114-7.html",
    "md_url": "/ml/opinion/muslim-extremists-defame-islam-20170114-7.md"
+  },
+  {
+   "slug": "rohingya-muslims-victims-of-racial-hatred-20170128-10",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "റോഹിങ്ക്യൻ മുസ്ലിംകൾ വംശവെറിയുടെ ഇരകൾ",
+   "summary": "മ്യാൻമറിലെ റോഹിങ്ക്യൻ മുസ്ലിംകൾക്കെതിരായ വംശവെറിയും പീഡനങ്ങളും വിശകലനം ചെയ്യുന്ന ലേഖനം. ചരിത്ര പശ്ചാത്തലവും അന്താരാഷ്ട്ര സമ്മർദ്ദത്തിന്റെ ആവശ്യകതയും ഉൾക്കൊള്ളുന്നു.",
+   "author": "ഡോ. ശബീൽ പി.എൻ",
+   "issue_date": "2017-01-28",
+   "html_url": "/ml/opinion/rohingya-muslims-victims-of-racial-hatred-20170128-10.html",
+   "md_url": "/ml/opinion/rohingya-muslims-victims-of-racial-hatred-20170128-10.md"
   },
   {
    "slug": "salafi-preaching-a-theoretical-analysis-20170121-10",
@@ -399,6 +498,17 @@
    "md_url": "/ml/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.md"
   },
   {
+   "slug": "what-to-beware-of-when-taking-sides-20170128-7",
+   "lang": "ml",
+   "category": "quran",
+   "title": "പക്ഷം ചേരുമ്പോൾ ശ്രദ്ധിക്കേണ്ടത്‌",
+   "summary": "ഖുർആൻ 43:67 ആയത്തിന്റെ വെളിച്ചത്തിൽ പക്ഷങ്ങൾ ചേരുമ്പോഴും സ്നേഹബന്ധങ്ങൾ നിലനിർത്തുമ്പോഴും സൂക്ഷ്മത പാലിക്കേണ്ടതിന്റെ പ്രാധാന്യം വിശദീകരിക്കുന്നു.",
+   "author": "അബൂ അമീൻ",
+   "issue_date": "2017-01-28",
+   "html_url": "/ml/quran/what-to-beware-of-when-taking-sides-20170128-7.html",
+   "md_url": "/ml/quran/what-to-beware-of-when-taking-sides-20170128-7.md"
+  },
+  {
    "slug": "prophets-and-trials-20170325-7",
    "lang": "ml",
    "category": "seerah",
@@ -430,6 +540,28 @@
    "issue_date": "2017-01-21",
    "html_url": "/ml/story/grown-up-children-20170121-6.html",
    "md_url": "/ml/story/grown-up-children-20170121-6.md"
+  },
+  {
+   "slug": "laws-are-to-be-followed-20170128-5",
+   "lang": "ml",
+   "category": "story",
+   "title": "നിയമങ്ങൾ പാലിക്കാനുള്ളതാണ്‌",
+   "summary": "സുഹൈൽ പട്ടണത്തിലെ ദന്തൽ ക്ലീനിക്കിൽ ആരംഭിക്കുന്ന ഒരു കഥാഖ്യാനം. നിയമങ്ങൾ പാലിക്കലിന്റെ പ്രാധാന്യം അനുഭവത്തിലൂടെ ഉദാഹരിപ്പിക്കുന്നു.",
+   "author": "ഉസ്‌മാൻ പാലക്കാഴ‍ി",
+   "issue_date": "2017-01-28",
+   "html_url": "/ml/story/laws-are-to-be-followed-20170128-5.html",
+   "md_url": "/ml/story/laws-are-to-be-followed-20170128-5.md"
+  },
+  {
+   "slug": "sugar-like-gold-dust-20170128-11",
+   "lang": "ml",
+   "category": "story",
+   "title": "സ്വർണത്തരിപോൽ പഞ്ചസാര",
+   "summary": "സ്വർണത്തരികളും പഞ്ചസാരത്തരികളും വഴി ആരംഭിക്കുന്ന ഒരു കഥാഖ്യാനം. ചെറിയ വ്യാപാരികളുടെ ജീവിതത്തിലെ നിഗൂഢതകൾ പങ്കുവെക്കുന്നു.",
+   "author": "ഇബ്‌നു അലി എടത്തനാട്ടുകര",
+   "issue_date": "2017-01-28",
+   "html_url": "/ml/story/sugar-like-gold-dust-20170128-11.html",
+   "md_url": "/ml/story/sugar-like-gold-dust-20170128-11.md"
   },
   {
    "slug": "the-currency-that-was-not-accepted-20170114-3",
