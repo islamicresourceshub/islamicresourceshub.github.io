@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-27T16:04:31.309204+00:00",
+ "generated_at": "2026-08-27T16:08:20.778197+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 65,
+ "count": 78,
  "articles": [
   {
    "slug": "an-agenda-is-needed-during-vacation-too-20170325-1",
@@ -288,6 +288,17 @@
    "md_url": "/ml/aqeedah/faith-is-the-foundation-of-islam-20170128-13.md"
   },
   {
+   "slug": "salafiyyah-ideology-and-stance-20170211-8",
+   "lang": "ml",
+   "category": "aqeedah",
+   "title": "സലഫിയ്യത്ത്: ആദര്‍ശവും നിലപാടുകളും",
+   "summary": "സലഫി ആദർശത്തിന്റെ അടിസ്ഥാന തത്വങ്ങളെയും നിലപാടുകളെയും കുറിച്ച് വിശദീകരിക്കുന്ന ലേഖനം. ആത്മീയമായ ഇരുട്ടുകളെ അകറ്റാൻ ഖുർആനും സുന്നത്തും എങ്ങനെ സഹായിക്കുന്നു എന്ന് വ്യക്തമാക്കുന്നു.",
+   "author": "അബ്ദുല്‍ മാലിക് സലഫി",
+   "issue_date": "2017-02-11",
+   "html_url": "/ml/aqeedah/salafiyyah-ideology-and-stance-20170211-8.html",
+   "md_url": "/ml/aqeedah/salafiyyah-ideology-and-stance-20170211-8.md"
+  },
+  {
    "slug": "they-want-to-see-god-20170204-2",
    "lang": "ml",
    "category": "aqeedah",
@@ -297,6 +308,17 @@
    "issue_date": "2017-02-04",
    "html_url": "/ml/aqeedah/they-want-to-see-god-20170204-2.html",
    "md_url": "/ml/aqeedah/they-want-to-see-god-20170204-2.md"
+  },
+  {
+   "slug": "do-not-be-slaves-to-desires-20170211-11",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "തന്നിഷ്ടങ്ങളുടെ അടിമകളാകരുത്",
+   "summary": "തന്നിഷ്ടങ്ങളെ പിന്തുടരുന്നതിനെതിരെയുള്ള ഖുർആനിക മുന്നറിയിപ്പുകൾ ഈ ലേഖനം ചർച്ച ചെയ്യുന്നു. അല്ലാഹുവിന്റെ മാർഗദർശനം സ്വീകരിച്ച് ജീവിക്കേണ്ടതിന്റെ പ്രാധാന്യം ഇത് ഓർമ്മിപ്പിക്കുന്നു.",
+   "author": "ശമീര്‍ മദീനി",
+   "issue_date": "2017-02-11",
+   "html_url": "/ml/dawah/do-not-be-slaves-to-desires-20170211-11.html",
+   "md_url": "/ml/dawah/do-not-be-slaves-to-desires-20170211-11.md"
   },
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -343,6 +365,17 @@
    "md_url": "/ml/dawah/living-with-an-awareness-of-time-s-value-20170114-8.md"
   },
   {
+   "slug": "maintain-faith-20170211-15",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "വിശ്വാസം നിലനിര്‍ത്തുക",
+   "summary": "മനുഷ്യന്റെ ബുദ്ധിശക്തിയെയും ശാസ്ത്രത്തെയും വിശ്വാസവുമായി ബന്ധിപ്പിക്കുന്ന ലേഖനം. വിശ്വാസം നിലനിർത്തേണ്ടതിന്റെയും അത് ജീവിതത്തിൽ പകർത്തേണ്ടതിന്റെയും ആവശ്യകത വ്യക്തമാക്കുന്നു.",
+   "author": "അഡ്വ.കെ.എ. അബ്ദുസ്സമദ് കലൂര്‍",
+   "issue_date": "2017-02-11",
+   "html_url": "/ml/dawah/maintain-faith-20170211-15.html",
+   "md_url": "/ml/dawah/maintain-faith-20170211-15.md"
+  },
+  {
    "slug": "muslims-in-a-pluralistic-society-20170128-1",
    "lang": "ml",
    "category": "dawah",
@@ -387,6 +420,17 @@
    "md_url": "/ml/dawah/religious-preachers-must-be-exemplary-20170204-6.md"
   },
   {
+   "slug": "seeking-truth-is-not-a-crime-20170211-9",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "സത്യാന്വേഷണം കുറ്റകൃത്യമല്ല",
+   "summary": "മനുഷ്യന്റെ അടിസ്ഥാന ആവശ്യങ്ങളെക്കുറിച്ചും സത്യം അന്വേഷിക്കുന്നതിനെക്കുറിച്ചുമുള്ള ലേഖനം. സത്യം തേടുന്നത് കുറ്റകരമല്ലെന്നും അത് മനുഷ്യന്റെ അവകാശമാണെന്നും ഇത് സമർത്ഥിക്കുന്നു.",
+   "author": "ഡോ.മീന",
+   "issue_date": "2017-02-11",
+   "html_url": "/ml/dawah/seeking-truth-is-not-a-crime-20170211-9.html",
+   "md_url": "/ml/dawah/seeking-truth-is-not-a-crime-20170211-9.md"
+  },
+  {
    "slug": "showing-the-light-is-the-duty-of-scholars-20170121-14",
    "lang": "ml",
    "category": "dawah",
@@ -429,6 +473,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/ml/dawah/the-religion-that-rejects-terrorism-part-1-20170121-12.html",
    "md_url": "/ml/dawah/the-religion-that-rejects-terrorism-part-1-20170121-12.md"
+  },
+  {
+   "slug": "unity-ideology-and-movement-20170211-2",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "ഐക്യം, ആദര്‍ശം, പ്രസ്ഥാനം",
+   "summary": "ലോകസമാധാനത്തിന് ഭീഷണിയായ ഭീകരതയെ നേരിടാൻ ഇസ്‌ലാമിക പ്രസ്ഥാനങ്ങൾ എങ്ങനെ ഐക്യപ്പെടണം എന്ന് ഈ ലേഖനം വിശദീകരിക്കുന്നു. ആദർശപരമായ യോജിപ്പിന്റെ പ്രാധാന്യമാണ് ഇതിലെ മുഖ്യപ്രമേയം.",
+   "author": "ടി.കെ.അശ്‌റഫ്",
+   "issue_date": "2017-02-11",
+   "html_url": "/ml/dawah/unity-ideology-and-movement-20170211-2.html",
+   "md_url": "/ml/dawah/unity-ideology-and-movement-20170211-2.md"
   },
   {
    "slug": "children-an-islamic-reading-part-4-20170204-5",
@@ -497,6 +552,17 @@
    "md_url": "/ml/family/husband-trapped-in-the-mobile-web-20170121-5.md"
   },
   {
+   "slug": "if-the-beginning-is-good-20170211-12",
+   "lang": "ml",
+   "category": "family",
+   "title": "തുടക്കം നന്നായാല്‍...",
+   "summary": "ഇസ്‌ലാമിക പാരന്റിംഗ് പരമ്പരയിലെ ഭാഗം. കുട്ടികളെ വളർത്തുമ്പോൾ മാതാപിതാക്കൾ ശ്രദ്ധിക്കേണ്ട കാര്യങ്ങളെക്കുറിച്ചും സ്രഷ്ടാവിന്റെ നിർദ്ദേശങ്ങളെക്കുറിച്ചും പ്രതിപാദിക്കുന്നു.",
+   "author": "അഷ്‌റഫ് എകരൂല്‍",
+   "issue_date": "2017-02-11",
+   "html_url": "/ml/family/if-the-beginning-is-good-20170211-12.html",
+   "md_url": "/ml/family/if-the-beginning-is-good-20170211-12.md"
+  },
+  {
    "slug": "islamic-parenting-its-importance-and-purpose-20170114-4",
    "lang": "ml",
    "category": "family",
@@ -530,6 +596,17 @@
    "md_url": "/ml/family/our-parents-20170325-4.md"
   },
   {
+   "slug": "school-annual-day-experiences-20170211-10",
+   "lang": "ml",
+   "category": "family",
+   "title": "സ്‌കൂള്‍ വാര്‍ഷികാനുഭവങ്ങള്‍",
+   "summary": "സ്കൂൾ വാർഷികാഘോഷങ്ങളിൽ പങ്കെടുക്കുമ്പോൾ ലഭിക്കുന്ന അനുഭവങ്ങളെക്കുറിച്ചുള്ള കുറിപ്പ്. കുട്ടികളുടെ കഴിവുകളെ പ്രോത്സാഹിപ്പിക്കേണ്ടതിന്റെ ആവശ്യകത ഇതിൽ ചർച്ച ചെയ്യുന്നു.",
+   "author": "ഇബ്‌നു അലി എടത്തനാട്ടുകര",
+   "issue_date": "2017-02-11",
+   "html_url": "/ml/family/school-annual-day-experiences-20170211-10.html",
+   "md_url": "/ml/family/school-annual-day-experiences-20170211-10.md"
+  },
+  {
    "slug": "the-methodology-of-conduct-20170128-8",
    "lang": "ml",
    "category": "family",
@@ -550,6 +627,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/ml/fiqh/mosque-construction-some-points-to-note-20170325-5.html",
    "md_url": "/ml/fiqh/mosque-construction-some-points-to-note-20170325-5.md"
+  },
+  {
+   "slug": "the-alcoholic-father-20170211-7",
+   "lang": "ml",
+   "category": "fiqh",
+   "title": "മദ്യപനായ പിതാവ്",
+   "summary": "മദ്യപാനിയായ പിതാവിന് മകൻ നൽകുന്ന പണം ഉപയോഗിച്ച് മദ്യം വാങ്ങുന്നത് അനുവദനീയമാണോ എന്ന ഫിഖ്ഹ് സംബന്ധമായ ചോദ്യത്തിനുള്ള മറുപടി.",
+   "author": "ഹാരിസ്ബിന്‍ സലീം",
+   "issue_date": "2017-02-11",
+   "html_url": "/ml/fiqh/the-alcoholic-father-20170211-7.html",
+   "md_url": "/ml/fiqh/the-alcoholic-father-20170211-7.md"
   },
   {
    "slug": "control-your-mind-20170325-3",
@@ -638,6 +726,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/ml/opinion/everyone-should-have-a-beard-20170121-3.html",
    "md_url": "/ml/opinion/everyone-should-have-a-beard-20170121-3.md"
+  },
+  {
+   "slug": "freedom-of-speech-should-not-be-one-sided-20170211-1",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "അഭിപ്രായ സ്വാതന്ത്ര്യം ഏകപക്ഷീയമാവരുത്",
+   "summary": "ഭരണകൂടം പൗരന്മാരുടെ അഭിപ്രായ സ്വാതന്ത്ര്യത്തെ അടിച്ചമർത്തുന്നതിനെക്കുറിച്ചുള്ള വിമർശനപരമായ ലേഖനം. ജനാധിപത്യത്തിൽ വിയോജിപ്പുകൾക്കുള്ള അവകാശത്തെക്കുറിച്ച് ഇത് ചർച്ച ചെയ്യുന്നു.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2017-02-11",
+   "html_url": "/ml/opinion/freedom-of-speech-should-not-be-one-sided-20170211-1.html",
+   "md_url": "/ml/opinion/freedom-of-speech-should-not-be-one-sided-20170211-1.md"
   },
   {
    "slug": "hajj-subsidy-before-putting-the-muslim-community-in-the-dock-20170128-3",
@@ -761,6 +860,17 @@
    "md_url": "/ml/opinion/the-shackles-of-consumerist-culture-20170121-13.md"
   },
   {
+   "slug": "trump-and-his-racism-20170211-14",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "വംശവെറിയുടെ വമ്പ് പറയുന്ന ട്രംപ്",
+   "summary": "അമേരിക്കൻ പ്രസിഡന്റ് ട്രംപിന്റെ വംശീയ നിലപാടുകളെയും അഭയാർഥി നയങ്ങളെയും വിമർശനാത്മകമായി വിശകലനം ചെയ്യുന്ന ലേഖനം.",
+   "author": "സുഫ്‌യാന്‍ അബ്ദുസ്സലാം",
+   "issue_date": "2017-02-11",
+   "html_url": "/ml/opinion/trump-and-his-racism-20170211-14.html",
+   "md_url": "/ml/opinion/trump-and-his-racism-20170211-14.md"
+  },
+  {
    "slug": "uapa-wielding-sedition-law-20170114-9",
    "lang": "ml",
    "category": "opinion",
@@ -827,6 +937,17 @@
    "md_url": "/ml/quran/what-to-beware-of-when-taking-sides-20170128-7.md"
   },
   {
+   "slug": "ibn-abbas-ra-a-scholar-of-knowledge-20170211-4",
+   "lang": "ml",
+   "category": "seerah",
+   "title": "അറിവിനെ ജീവിതത്തിലൂടെ കാണിച്ചുകൊടുത്ത ഇബ്‌നു അബ്ബാസ്(റ)",
+   "summary": "വിജ്ഞാനത്തിന്റെ നിറകുടമായിരുന്ന ഇബ്നു അബ്ബാസ് (റ) വിന്റെ ജീവിതവും അദ്ദേഹം വിജ്ഞാനത്തിന് നൽകിയ പ്രാധാന്യവും ഈ ലേഖനം വിവരിക്കുന്നു. അദ്ദേഹത്തിന്റെ ചരിത്രം വായനക്കാർക്ക് വലിയ മാതൃകയാണ്.",
+   "author": "അര്‍ഷദ് താനൂര്‍",
+   "issue_date": "2017-02-11",
+   "html_url": "/ml/seerah/ibn-abbas-ra-a-scholar-of-knowledge-20170211-4.html",
+   "md_url": "/ml/seerah/ibn-abbas-ra-a-scholar-of-knowledge-20170211-4.md"
+  },
+  {
    "slug": "prophets-and-trials-20170325-7",
    "lang": "ml",
    "category": "seerah",
@@ -847,6 +968,17 @@
    "issue_date": "2017-02-04",
    "html_url": "/ml/story/abdullah-s-mistake-20170204-1.html",
    "md_url": "/ml/story/abdullah-s-mistake-20170204-1.md"
+  },
+  {
+   "slug": "allah-is-watching-20170211-3",
+   "lang": "ml",
+   "category": "story",
+   "title": "അല്ലാഹു കാണും",
+   "summary": "ഹസൻ എന്ന കർഷകന്റെ ജീവിതത്തിലൂടെ സത്യസന്ധതയുടെയും ദൈവഭയത്തിന്റെയും പാഠങ്ങൾ പകർന്നുനൽകുന്ന ഒരു കഥയാണിത്. അല്ലാഹുവിന്റെ നിരീക്ഷണം എപ്പോഴും കൂടെയുണ്ടെന്ന ബോധം മനുഷ്യനെ നന്മയിലേക്ക് നയിക്കുന്നു.",
+   "author": "തന്‍വീര്‍",
+   "issue_date": "2017-02-11",
+   "html_url": "/ml/story/allah-is-watching-20170211-3.html",
+   "md_url": "/ml/story/allah-is-watching-20170211-3.md"
   },
   {
    "slug": "good-intention-matters-most-20170325-8",
@@ -924,6 +1056,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/ml/youth/an-agenda-is-needed-during-vacation-too-20170325-1.html",
    "md_url": "/ml/youth/an-agenda-is-needed-during-vacation-too-20170325-1.md"
+  },
+  {
+   "slug": "e-ahamed-s-message-to-the-youth-20170211-5",
+   "lang": "ml",
+   "category": "youth",
+   "title": "ഇ. അഹ്മദ് ഇളംതലമുറയോട് പറയുന്നത്",
+   "summary": "ഇ. അഹമ്മദ് സാഹിബിന്റെ ജീവിതവീക്ഷണങ്ങളെയും യുവതലമുറയോടുള്ള അദ്ദേഹത്തിന്റെ ഉപദേശങ്ങളെയും കുറിച്ചുള്ള ലേഖനം. കർമ്മനിരതമായ ജീവിതത്തിന്റെ പ്രാധാന്യം അദ്ദേഹം ഇതിൽ ഊന്നിപ്പറയുന്നു.",
+   "author": "ഡോ. സി.എം സാബിര്‍ നവാസ്",
+   "issue_date": "2017-02-11",
+   "html_url": "/ml/youth/e-ahamed-s-message-to-the-youth-20170211-5.html",
+   "md_url": "/ml/youth/e-ahamed-s-message-to-the-youth-20170211-5.md"
   },
   {
    "slug": "what-will-the-waste-do-20170114-5",
