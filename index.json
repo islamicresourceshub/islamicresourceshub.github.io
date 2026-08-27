@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-27T16:16:32.886133+00:00",
+ "generated_at": "2026-08-27T16:20:43.757409+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 98,
+ "count": 110,
  "articles": [
   {
    "slug": "an-agenda-is-needed-during-vacation-too-20170325-1",
@@ -563,6 +563,17 @@
    "md_url": "/ml/dawah/stand-tall-20170121-8.md"
   },
   {
+   "slug": "the-chemistry-of-unity-20170225-2",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "ഐക്യത്തിന്റെ രസതന്ത്രം",
+   "summary": "തൗഹീദ് പ്രബോധനത്തിന് ഐക്യം തടസ്സമാകുന്നുണ്ടോ എന്ന വിഷയത്തെ ആഴത്തില്‍ പരിശോധിക്കുന്നു. പ്രസ്ഥാനികമായ ഐക്യത്തിന്റെ പ്രസക്തിയും അതിലെ വെല്ലുവിളികളും ഇവിടെ ചര്‍ച്ചയാകുന്നു.",
+   "author": "ടി.കെ.അശ്‌റഫ്",
+   "issue_date": "2017-02-25",
+   "html_url": "/ml/dawah/the-chemistry-of-unity-20170225-2.html",
+   "md_url": "/ml/dawah/the-chemistry-of-unity-20170225-2.md"
+  },
+  {
    "slug": "the-message-of-equality-20170121-11",
    "lang": "ml",
    "category": "dawah",
@@ -572,6 +583,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/ml/dawah/the-message-of-equality-20170121-11.html",
    "md_url": "/ml/dawah/the-message-of-equality-20170121-11.md"
+  },
+  {
+   "slug": "the-path-to-peace-20170225-11",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "ശാന്തിയിലേക്കുള്ള പാത",
+   "summary": "ഭൗതിക സൗകര്യങ്ങള്‍ വര്‍ധിച്ചിട്ടും മനഃശാന്തി നഷ്ടപ്പെടുന്ന ആധുനിക മനുഷ്യന് ഇസ്‌ലാം നല്‍കുന്ന സമാധാനത്തിന്റെ പാതകളെക്കുറിച്ച് വിവരിക്കുന്നു.",
+   "author": "ശമീര്‍ മദീനി",
+   "issue_date": "2017-02-25",
+   "html_url": "/ml/dawah/the-path-to-peace-20170225-11.html",
+   "md_url": "/ml/dawah/the-path-to-peace-20170225-11.md"
   },
   {
    "slug": "the-religion-that-rejects-terrorism-part-1-20170121-12",
@@ -627,6 +649,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/ml/family/do-not-grieve-allah-is-with-you-20170114-10.html",
    "md_url": "/ml/family/do-not-grieve-allah-is-with-you-20170114-10.md"
+  },
+  {
+   "slug": "do-not-invite-water-scarcity-20170225-4",
+   "lang": "ml",
+   "category": "family",
+   "title": "ജലക്ഷാമം ക്ഷണിച്ചുവരുത്തരുത്",
+   "summary": "ജലത്തിന്റെ പ്രാധാന്യത്തെക്കുറിച്ചും പ്രകൃതി വിഭവങ്ങളെ സംരക്ഷിക്കേണ്ടതിന്റെ ആവശ്യകതയെക്കുറിച്ചും ഈ ലേഖനം ബോധവല്‍ക്കരണം നടത്തുന്നു.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2017-02-25",
+   "html_url": "/ml/family/do-not-invite-water-scarcity-20170225-4.html",
+   "md_url": "/ml/family/do-not-invite-water-scarcity-20170225-4.md"
   },
   {
    "slug": "don-t-worry-allah-is-with-you-20170114-10",
@@ -772,6 +805,39 @@
    "md_url": "/ml/family/thoughts-during-pregnancy-20170218-4.md"
   },
   {
+   "slug": "water-and-life-20170225-5",
+   "lang": "ml",
+   "category": "family",
+   "title": "ജലവും ജീവനും",
+   "summary": "കേരളം നേരിടുന്ന രൂക്ഷമായ വരള്‍ച്ചയെയും ജലക്ഷാമത്തെയും കുറിച്ച് പ്രതിപാദിക്കുന്നു. ജലസംരക്ഷണത്തിനായി ഓരോരുത്തരും ചെയ്യേണ്ട കാര്യങ്ങളെക്കുറിച്ച് ഓര്‍മ്മിപ്പിക്കുന്നു.",
+   "author": "ഡോ. സി.എം സാബിര്‍ നവാസ്",
+   "issue_date": "2017-02-25",
+   "html_url": "/ml/family/water-and-life-20170225-5.html",
+   "md_url": "/ml/family/water-and-life-20170225-5.md"
+  },
+  {
+   "slug": "welcoming-the-newborn-20170225-9",
+   "lang": "ml",
+   "category": "family",
+   "title": "നവാതിഥിയെ വരവേല്‍ക്കുമ്പോള്‍",
+   "summary": "ഇസ്‌ലാമിക് പാരന്റിംഗ് പരമ്പരയുടെ ഭാഗമായി, കുഞ്ഞുങ്ങളുടെ ജനനശേഷം മാതാപിതാക്കള്‍ ശ്രദ്ധിക്കേണ്ട കാര്യങ്ങളെക്കുറിച്ച് ഈ ലേഖനം ഉപദേശിക്കുന്നു.",
+   "author": "അശ്‌റഫ് എകരൂല്‍",
+   "issue_date": "2017-02-25",
+   "html_url": "/ml/family/welcoming-the-newborn-20170225-9.html",
+   "md_url": "/ml/family/welcoming-the-newborn-20170225-9.md"
+  },
+  {
+   "slug": "alcohol-islam-s-ever-relevant-approach-20170225-6",
+   "lang": "ml",
+   "category": "fiqh",
+   "title": "മദ്യം: ഇസ്‌ലാമിന്റെ സമീപനം നിത്യപ്രസക്തം",
+   "summary": "മദ്യപാനത്തിനെതിരെ ഇസ്‌ലാം സ്വീകരിക്കുന്ന കര്‍ശനമായ നിലപാടുകളെയും മദ്യമുക്ത സമൂഹത്തിന്റെ ആവശ്യകതയെയും ഈ ലേഖനം വ്യക്തമാക്കുന്നു.",
+   "author": "ഇയ്യച്ചേരി കുഞ്ഞികൃഷ്ണന്‍ / ഷംസീര്‍ മുക്കം",
+   "issue_date": "2017-02-25",
+   "html_url": "/ml/fiqh/alcohol-islam-s-ever-relevant-approach-20170225-6.html",
+   "md_url": "/ml/fiqh/alcohol-islam-s-ever-relevant-approach-20170225-6.md"
+  },
+  {
    "slug": "mosque-construction-some-points-to-note-20170325-5",
    "lang": "ml",
    "category": "fiqh",
@@ -816,6 +882,17 @@
    "md_url": "/ml/hadith/criteria-for-accepting-hadith-20170128-2.md"
   },
   {
+   "slug": "islamophobia-archetypes-of-ancient-history-20170225-3",
+   "lang": "ml",
+   "category": "history",
+   "title": "ഇസ്‌ലാമോഫോബിയ: പുരാതന ചരിത്രത്തിന്റെ വാര്‍പ്പു മാതൃകകള്‍",
+   "summary": "ചരിത്രപരമായ പശ്ചാത്തലത്തില്‍ ഇസ്‌ലാമോഫോബിയ എങ്ങനെ രൂപപ്പെട്ടുവെന്നും അത് വര്‍ത്തമാനകാലത്ത് എങ്ങനെ ആവര്‍ത്തിക്കപ്പെടുന്നുവെന്നും ഈ ലേഖനം വിശദീകരിക്കുന്നു.",
+   "author": "മുഹമ്മദ് അജ്മല്‍ സി",
+   "issue_date": "2017-02-25",
+   "html_url": "/ml/history/islamophobia-archetypes-of-ancient-history-20170225-3.html",
+   "md_url": "/ml/history/islamophobia-archetypes-of-ancient-history-20170225-3.md"
+  },
+  {
    "slug": "manusmriti-and-the-caste-system-20170218-7",
    "lang": "ml",
    "category": "history",
@@ -847,6 +924,28 @@
    "issue_date": "2017-01-14",
    "html_url": "/ml/history/warning-signals-from-the-reconstruction-of-history-20170114-2.html",
    "md_url": "/ml/history/warning-signals-from-the-reconstruction-of-history-20170114-2.md"
+  },
+  {
+   "slug": "alcohol-abstinence-or-prohibition-20170225-7",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "മദ്യവര്‍ജനമോ മദ്യനിരോധനമോ?",
+   "summary": "മദ്യനിരോധനത്തെക്കാളുപരി മദ്യമുക്തമായ ഒരു സമൂഹത്തെ എങ്ങനെ കെട്ടിപ്പടുക്കാം എന്നതിനെക്കുറിച്ചുള്ള ക്രിയാത്മകമായ ചര്‍ച്ചയാണിത്.",
+   "author": "സുഫ്‌യാന്‍ അബ്ദുസ്സലാം",
+   "issue_date": "2017-02-25",
+   "html_url": "/ml/opinion/alcohol-abstinence-or-prohibition-20170225-7.html",
+   "md_url": "/ml/opinion/alcohol-abstinence-or-prohibition-20170225-7.md"
+  },
+  {
+   "slug": "anxieties-of-those-who-deviated-from-the-path-of-ideology-20170225-1",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "ആദര്‍ശധാരയില്‍ നിന്ന് വ്യതിചലിച്ചവരുടെ ആകുലതകള്‍",
+   "summary": "കെ.എന്‍.എം നേതാവ് അബ്ദുസ്സലാം സുല്ലമിയുടെ ലേഖനത്തോടുള്ള മറുപടിയായി ഐക്യത്തെക്കുറിച്ചുള്ള ഇസ്‌ലാമിക വീക്ഷണം ഈ ലേഖനം ചര്‍ച്ച ചെയ്യുന്നു. ആദര്‍ശപരമായ വ്യതിയാനങ്ങളെ വിമര്‍ശനാത്മകമായി വിശകലനം ചെയ്യുന്നു.",
+   "author": "അബ്ദുല്‍ മാലിക് സലഫി",
+   "issue_date": "2017-02-25",
+   "html_url": "/ml/opinion/anxieties-of-those-who-deviated-from-the-path-of-ideology-20170225-1.html",
+   "md_url": "/ml/opinion/anxieties-of-those-who-deviated-from-the-path-of-ideology-20170225-1.md"
   },
   {
    "slug": "challenges-posed-by-pseudo-nationalism-20170204-4",
@@ -957,6 +1056,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/ml/opinion/muslim-extremists-defame-islam-20170114-7.html",
    "md_url": "/ml/opinion/muslim-extremists-defame-islam-20170114-7.md"
+  },
+  {
+   "slug": "none-should-forget-the-path-they-came-from-20170225-13",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "വന്ന വഴി മറക്കരുതാരും",
+   "summary": "സാമൂഹിക സേവനത്തിന്റെയും നന്ദിയുടെയും പ്രാധാന്യത്തെക്കുറിച്ച് ഒരു അനുഭവക്കുറിപ്പിലൂടെ ഈ ലേഖനം സംസാരിക്കുന്നു.",
+   "author": "ഇബ്‌നു അലി എടത്തനാട്ടുകര",
+   "issue_date": "2017-02-25",
+   "html_url": "/ml/opinion/none-should-forget-the-path-they-came-from-20170225-13.html",
+   "md_url": "/ml/opinion/none-should-forget-the-path-they-came-from-20170225-13.md"
   },
   {
    "slug": "rohingya-muslims-victims-of-racial-hatred-20170128-10",
@@ -1157,6 +1267,17 @@
    "md_url": "/ml/seerah/ibn-abbas-ra-a-scholar-of-knowledge-20170211-4.md"
   },
   {
+   "slug": "prophet-muhammad-pbuh-life-and-message-20170225-8",
+   "lang": "ml",
+   "category": "seerah",
+   "title": "മുഹമ്മദ് നബി(സ്വ): ജീവിതവും സന്ദേശവും",
+   "summary": "പ്രവാചകന്‍ മുഹമ്മദ് നബിയുടെ ജീവിതത്തെയും അദ്ദേഹം ലോകത്തിന് നല്‍കിയ സന്ദേശങ്ങളെയും കുറിച്ചുള്ള ലഘുവിവരണം.",
+   "author": "ഫദ്‌ലുല്‍ ഹഖ് ഉമരി",
+   "issue_date": "2017-02-25",
+   "html_url": "/ml/seerah/prophet-muhammad-pbuh-life-and-message-20170225-8.html",
+   "md_url": "/ml/seerah/prophet-muhammad-pbuh-life-and-message-20170225-8.md"
+  },
+  {
    "slug": "prophets-and-trials-20170325-7",
    "lang": "ml",
    "category": "seerah",
@@ -1265,6 +1386,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/ml/story/the-fruit-of-ingratitude-20170121-7.html",
    "md_url": "/ml/story/the-fruit-of-ingratitude-20170121-7.md"
+  },
+  {
+   "slug": "when-the-burden-of-sin-increases-20170225-10",
+   "lang": "ml",
+   "category": "story",
+   "title": "പാപഭാരം വര്‍ധിക്കുമ്പോള്‍...",
+   "summary": "മദ്‌റസ പശ്ചാത്തലത്തില്‍ കുട്ടികളുടെ പെരുമാറ്റത്തെയും ധാര്‍മ്മികതയെയും ആസ്പദമാക്കി തയ്യാറാക്കിയ ഒരു കഥ.",
+   "author": "അറബി കഥ - പുനരാഖ്യാനം: തന്‍സീല്‍",
+   "issue_date": "2017-02-25",
+   "html_url": "/ml/story/when-the-burden-of-sin-increases-20170225-10.html",
+   "md_url": "/ml/story/when-the-burden-of-sin-increases-20170225-10.md"
   },
   {
    "slug": "an-agenda-is-needed-during-vacation-too-20170325-1",
