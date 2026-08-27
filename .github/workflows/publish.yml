@@ -59,12 +59,18 @@ jobs:
       - name: Copy static site to _site (exclude src/.github/config)
         run: |
           mkdir -p _site
-          # copy only the static output, NOT src/ or .github/ or config
-          cp -r ml/ _site/
-          cp -r assets/ _site/
+          # copy all language dirs (2-letter codes) + assets, NOT src/ or .github/
+          for d in */; do
+            case "$d" in
+              src/|.github/|_*|.*|work/|state/|logs/|archive/|inbox/) continue ;;
+              *) cp -r "$d" _site/ ;;
+            esac
+          done
           cp index.html index.json rss.xml sitemap.xml robots.txt llms.txt style.css .nojekyll _site/
           # verify no source leaked
           if [ -d "_site/src" ]; then echo "ERROR: src leaked into _site"; exit 1; fi
+          echo "--- _site contents ---"
+          ls _site/
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
