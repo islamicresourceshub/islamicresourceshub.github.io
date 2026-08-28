@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T09:08:23.315064+00:00",
+ "generated_at": "2026-08-28T09:08:34.033183+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 672,
+ "count": 673,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -1287,6 +1287,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/en/opinion/india-which-way-forward-20170325-2.html",
    "md_url": "/en/opinion/india-which-way-forward-20170325-2.md"
+  },
+  {
+   "slug": "muslim-extremists-defame-islam-20170114-7",
+   "lang": "en",
+   "category": "opinion",
+   "title": "Muslim Extremists: Those Who Tarnish Islam",
+   "summary": "An excerpt from an interview with historian M.G.S. Narayanan, discussing the changes brought by Islam, the Kerala Muslim renaissance, and the issue of extremism.",
+   "author": "എം.ജി.എസ്‌ നാരായണൻ / റസ്റ്റം ഉസ്മാൻ",
+   "issue_date": "2017-01-14",
+   "html_url": "/en/opinion/muslim-extremists-defame-islam-20170114-7.html",
+   "md_url": "/en/opinion/muslim-extremists-defame-islam-20170114-7.md"
   },
   {
    "slug": "terrorism-and-religious-freedom-20170114-1",
