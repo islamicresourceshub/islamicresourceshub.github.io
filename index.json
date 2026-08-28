@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T04:47:06.245058+00:00",
+ "generated_at": "2026-08-28T04:47:23.659857+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 392,
+ "count": 393,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -4389,6 +4389,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/uz/opinion/india-which-way-forward-20170325-2.html",
    "md_url": "/uz/opinion/india-which-way-forward-20170325-2.md"
+  },
+  {
+   "slug": "prophets-and-trials-20170325-7",
+   "lang": "uz",
+   "category": "seerah",
+   "title": "Payg‘ambarlar va sinovlar",
+   "summary": "Insoniyatga to‘g‘ri yo‘lni ko‘rsatish uchun yuborilgan payg‘ambarlar duch kelgan turli xil sinovlar haqidagi tadqiqot. Maqolada ushbu sinovlar ularning iymonini yanada mustahkamlagani ta’kidlanadi.",
+   "author": "ഹുസൈന്‍ സലഫി, ഷാര്‍ജ",
+   "issue_date": "2017-03-25",
+   "html_url": "/uz/seerah/prophets-and-trials-20170325-7.html",
+   "md_url": "/uz/seerah/prophets-and-trials-20170325-7.md"
   },
   {
    "slug": "an-agenda-is-needed-during-vacation-too-20170325-1",
