@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T09:10:39.432322+00:00",
+ "generated_at": "2026-08-28T09:10:52.514173+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 683,
+ "count": 684,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -3102,6 +3102,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/ko/opinion/india-which-way-forward-20170325-2.html",
    "md_url": "/ko/opinion/india-which-way-forward-20170325-2.md"
+  },
+  {
+   "slug": "muslim-extremists-defame-islam-20170114-7",
+   "lang": "ko",
+   "category": "opinion",
+   "title": "이슬람을 더럽히는 무슬림 극단주의자들",
+   "summary": "역사학자 M.G.S. 나라야난과의 인터뷰를 통해 이슬람이 가져온 변화, 케랄라 무슬림의 르네상스, 그리고 극단주의에 대한 그의 견해를 다룹니다.",
+   "author": "എം.ജി.എസ്‌ നാരായണൻ / റസ്റ്റം ഉസ്മാൻ",
+   "issue_date": "2017-01-14",
+   "html_url": "/ko/opinion/muslim-extremists-defame-islam-20170114-7.html",
+   "md_url": "/ko/opinion/muslim-extremists-defame-islam-20170114-7.md"
   },
   {
    "slug": "terrorism-and-religious-freedom-20170114-1",
