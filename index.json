@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T03:48:32.467292+00:00",
+ "generated_at": "2026-08-28T03:48:42.657003+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 165,
+ "count": 166,
  "articles": [
   {
    "slug": "india-which-way-forward-20170325-2",
@@ -594,6 +594,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/kn/youth/an-agenda-is-needed-during-vacation-too-20170325-1.html",
    "md_url": "/kn/youth/an-agenda-is-needed-during-vacation-too-20170325-1.md"
+  },
+  {
+   "slug": "india-which-way-forward-20170325-2",
+   "lang": "ko",
+   "category": "opinion",
+   "title": "인도는 어디로 향하는가?",
+   "summary": "본 글은 인도의 현 정치·사회적 상황을 분석합니다. 저자는 국가의 평화를 염려하는 이들의 질문에 답하며, 인도 내 극단주의 세력의 부상과 민주주의의 위기에 대해 경고합니다.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2017-03-25",
+   "html_url": "/ko/opinion/india-which-way-forward-20170325-2.html",
+   "md_url": "/ko/opinion/india-which-way-forward-20170325-2.md"
   },
   {
    "slug": "an-agenda-is-needed-during-vacation-too-20170325-1",
