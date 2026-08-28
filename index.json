@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T04:06:24.467976+00:00",
+ "generated_at": "2026-08-28T04:06:39.395420+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,8 +219,19 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 239,
+ "count": 240,
  "articles": [
+  {
+   "slug": "our-parents-20170325-4",
+   "lang": "am",
+   "category": "family",
+   "title": "ወላጆቻችን",
+   "summary": "ይህ ጽሑፍ አላህ ከለገሰን ትልቅ ጸጋዎች መካከል አንዱ የሆኑትን ወላጆቻችንን በተመለከተ የሚያጠነጥን ነው። ሰው ሆኖ መፈጠር ትልቅ ጸጋ እንደሆነና በወላጆቻችን ላይ ያለንን ግዴታዎችም ይዳስሳል።",
+   "author": "കെ.സഫ്‌വാന്‍ മുഹമ്മദ്, ആമയൂര്‍",
+   "issue_date": "2017-03-25",
+   "html_url": "/am/family/our-parents-20170325-4.html",
+   "md_url": "/am/family/our-parents-20170325-4.md"
+  },
   {
    "slug": "control-your-mind-20170325-3",
    "lang": "am",
