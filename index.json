@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T08:56:57.735602+00:00",
+ "generated_at": "2026-08-28T08:57:17.294613+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 636,
+ "count": 637,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -1606,6 +1606,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/fr/dawah/prayer-that-is-worship-20170325-6.html",
    "md_url": "/fr/dawah/prayer-that-is-worship-20170325-6.md"
+  },
+  {
+   "slug": "religion-is-fearlessness-20170114-6",
+   "lang": "fr",
+   "category": "dawah",
+   "title": "La religion est synonyme de sécurité",
+   "summary": "Un article explorant comment l'Islam, en tant que religion de paix et de soumission au Créateur, apporte la sécurité et la sérénité à l'individu et à la société. Il souligne l'importance de la justice, de la protection des droits d'autrui et de la lutte contre l'injustice pour instaurer une véritable paix sociale.",
+   "author": "ഉസ്മാൻ പാലക്കാഴി",
+   "issue_date": "2017-01-14",
+   "html_url": "/fr/dawah/religion-is-fearlessness-20170114-6.html",
+   "md_url": "/fr/dawah/religion-is-fearlessness-20170114-6.md"
   },
   {
    "slug": "islamic-parenting-significance-and-goals-part-1-20170114-4",
