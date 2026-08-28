@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T08:53:44.641498+00:00",
+ "generated_at": "2026-08-28T08:54:02.231835+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 630,
+ "count": 631,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -693,6 +693,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/bn/dawah/prayer-that-is-worship-20170325-6.html",
    "md_url": "/bn/dawah/prayer-that-is-worship-20170325-6.md"
+  },
+  {
+   "slug": "religion-is-fearlessness-20170114-6",
+   "lang": "bn",
+   "category": "dawah",
+   "title": "ধর্ম হলো নির্ভয়তা",
+   "summary": "বিশ্বের বিভিন্ন ধর্মের প্রেক্ষাপটে ধর্ম কীভাবে মানুষের মনে নির্ভয়তা ও নিরাপত্তা প্রদান করে, তা এই নিবন্ধে আলোচনা করা হয়েছে। ইসলাম কীভাবে শান্তি ও নিরাপত্তার বার্তা বহন করে, তা এখানে বিস্তারিতভাবে তুলে ধরা হয়েছে।",
+   "author": "ഉസ്മാൻ പാലക്കാഴി",
+   "issue_date": "2017-01-14",
+   "html_url": "/bn/dawah/religion-is-fearlessness-20170114-6.html",
+   "md_url": "/bn/dawah/religion-is-fearlessness-20170114-6.md"
   },
   {
    "slug": "our-parents-20170325-4",
