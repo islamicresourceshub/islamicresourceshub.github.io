@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T05:00:03.018486+00:00",
+ "generated_at": "2026-08-28T05:00:32.663635+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 438,
+ "count": 439,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -671,6 +671,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/bs/opinion/india-which-way-forward-20170325-2.html",
    "md_url": "/bs/opinion/india-which-way-forward-20170325-2.md"
+  },
+  {
+   "slug": "praise-be-to-the-lord-of-the-worlds-20170325-9",
+   "lang": "bs",
+   "category": "quran",
+   "title": "Hvala pripada Gospodaru svjetova",
+   "summary": "Studija zasnovana na kur'anskom ajetu: 'Hvala Allahu, Gospodaru svjetova' (Kur'an 1:2). Objašnjava mjesto zahvalnosti Allahu među manirima kojima se čovjek podučava.",
+   "author": "സി.മുഹമ്മദ് റാഫി ചെമ്പ്ര",
+   "issue_date": "2017-03-25",
+   "html_url": "/bs/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.html",
+   "md_url": "/bs/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.md"
   },
   {
    "slug": "prophets-and-trials-20170325-7",
