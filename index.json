@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T10:49:48.317260+00:00",
+ "generated_at": "2026-08-28T10:50:00.108058+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 952,
+ "count": 953,
  "articles": [
   {
    "slug": "live-knowing-the-value-of-time-20170114-8",
@@ -3641,6 +3641,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/it/family/don-t-worry-allah-is-with-you-20170114-10.html",
    "md_url": "/it/family/don-t-worry-allah-is-with-you-20170114-10.md"
+  },
+  {
+   "slug": "how-to-be-a-good-parent-part-2-20170121-4",
+   "lang": "it",
+   "category": "family",
+   "title": "Come essere un buon genitore?",
+   "summary": "La seconda parte di una guida islamica su come essere buoni genitori. Vengono illustrati i metodi per crescere i figli secondo i precetti divini, garantendo loro una vita retta e la speranza della salvezza nell'aldilà.",
+   "author": "അഷ്‌റഫ് എകരൂല്‍",
+   "issue_date": "2017-01-21",
+   "html_url": "/it/family/how-to-be-a-good-parent-part-2-20170121-4.html",
+   "md_url": "/it/family/how-to-be-a-good-parent-part-2-20170121-4.md"
   },
   {
    "slug": "islamic-parenting-significance-and-goals-part-1-20170114-4",
