@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T04:48:58.217222+00:00",
+ "generated_at": "2026-08-28T04:49:12.859575+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 399,
+ "count": 400,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -638,6 +638,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/bs/seerah/prophets-and-trials-20170325-7.html",
    "md_url": "/bs/seerah/prophets-and-trials-20170325-7.md"
+  },
+  {
+   "slug": "good-intention-matters-most-20170325-8",
+   "lang": "bs",
+   "category": "story",
+   "title": "Dobra namjera je najvažnija",
+   "summary": "Ovo je priča u formi naracije koja počinje telefonskim pozivom prijatelja usred radnog dana. Kroz priču se ističe važnost dobre namjere i iskrenosti u činjenju dobrih djela.",
+   "author": "ഇബ്‌നു അലി എടത്തനാട്ടുകര",
+   "issue_date": "2017-03-25",
+   "html_url": "/bs/story/good-intention-matters-most-20170325-8.html",
+   "md_url": "/bs/story/good-intention-matters-most-20170325-8.md"
   },
   {
    "slug": "an-agenda-is-needed-during-vacation-too-20170325-1",
