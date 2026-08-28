@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T03:44:50.903777+00:00",
+ "generated_at": "2026-08-28T03:44:59.508199+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 143,
+ "count": 144,
  "articles": [
   {
    "slug": "an-agenda-is-needed-during-vacation-too-20170325-1",
@@ -1793,6 +1793,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/tl/youth/an-agenda-is-needed-during-vacation-too-20170325-1.html",
    "md_url": "/tl/youth/an-agenda-is-needed-during-vacation-too-20170325-1.md"
+  },
+  {
+   "slug": "an-agenda-is-needed-during-vacation-too-20170325-1",
+   "lang": "tr",
+   "category": "youth",
+   "title": "Tatil Döneminde Bile Bir Gündem Şart",
+   "summary": "Bu makale, eğitim yılının sona ermesiyle başlayan tatil döneminin önemini ele almaktadır. Yazar, çocukların zamanlarını verimli bir şekilde değerlendirebilmeleri için İslami bir gündeme sahip olmaları gerektiğini vurgulamaktadır.",
+   "author": "ഡോ. സി.എം സാബിര്‍ നവാസ്",
+   "issue_date": "2017-03-25",
+   "html_url": "/tr/youth/an-agenda-is-needed-during-vacation-too-20170325-1.html",
+   "md_url": "/tr/youth/an-agenda-is-needed-during-vacation-too-20170325-1.md"
   }
  ]
 }
