@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T05:04:44.078114+00:00",
+ "generated_at": "2026-08-28T05:05:01.242805+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 454,
+ "count": 455,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -3597,6 +3597,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/ne/opinion/india-which-way-forward-20170325-2.html",
    "md_url": "/ne/opinion/india-which-way-forward-20170325-2.md"
+  },
+  {
+   "slug": "praise-be-to-the-lord-of-the-worlds-20170325-9",
+   "lang": "ne",
+   "category": "quran",
+   "title": "संसारका पालनकर्ताको स्तुति",
+   "summary": "'सबै प्रशंसा संसारका पालनकर्ता अल्लाहका लागि हुन्' (कुरान १:२) भन्ने आयतमा आधारित अध्ययन। यसले मानिसले सिक्नुपर्ने शिष्टाचारहरूमा अल्लाहप्रति गरिने स्तुतिको स्थानबारे व्याख्या गर्दछ।",
+   "author": "സി.മുഹമ്മദ് റാഫി ചെമ്പ്ര",
+   "issue_date": "2017-03-25",
+   "html_url": "/ne/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.html",
+   "md_url": "/ne/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.md"
   },
   {
    "slug": "prophets-and-trials-20170325-7",
