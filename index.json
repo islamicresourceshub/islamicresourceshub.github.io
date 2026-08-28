@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T10:44:47.449282+00:00",
+ "generated_at": "2026-08-28T10:45:00.392844+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 930,
+ "count": 931,
  "articles": [
   {
    "slug": "live-knowing-the-value-of-time-20170114-8",
@@ -8789,6 +8789,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/te/opinion/elections-the-stand-must-be-well-considered-20170325-10.html",
    "md_url": "/te/opinion/elections-the-stand-must-be-well-considered-20170325-10.md"
+  },
+  {
+   "slug": "everyone-should-have-a-beard-20170121-3",
+   "lang": "te",
+   "category": "opinion",
+   "title": "ప్రతి ఒక్కరికీ గడ్డం ఉండాలి!",
+   "summary": "గడ్డంపై విమర్శలు చేసే ఒక రచయితను విశ్లేషిస్తూ రాసిన వ్యాసం. సున్నత్ యొక్క ప్రాముఖ్యతను, దానిని వ్యతిరేకించే వారి వైఖరిని మరియు ఇస్లామీయ దృక్పథాన్ని ఈ వ్యాసం చర్చిస్తుంది.",
+   "author": "അബൂമിസ്‌യാല്‍",
+   "issue_date": "2017-01-21",
+   "html_url": "/te/opinion/everyone-should-have-a-beard-20170121-3.html",
+   "md_url": "/te/opinion/everyone-should-have-a-beard-20170121-3.md"
   },
   {
    "slug": "india-which-way-forward-20170325-2",
