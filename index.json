@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T10:03:10.303397+00:00",
+ "generated_at": "2026-08-28T10:03:28.625454+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 886,
+ "count": 887,
  "articles": [
   {
    "slug": "live-knowing-the-value-of-time-20170114-8",
@@ -7392,6 +7392,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/si/opinion/uapa-wielding-sedition-law-20170114-9.html",
    "md_url": "/si/opinion/uapa-wielding-sedition-law-20170114-9.md"
+  },
+  {
+   "slug": "when-national-tradition-is-questioned-20170121-2",
+   "lang": "si",
+   "category": "opinion",
+   "title": "ජාතික උරුමය ප්‍රශ්න කෙරෙන විට",
+   "summary": "මහාචාර්ය එම්.ජී.එස්. නාරායනන් ජාතිකවාදය පිළිබඳව ඉදිරිපත් කළ අදහස් සහ ඉන් පැන නැගුණු විවාද මෙම ලිපිය මගින් විශ්ලේෂණය කරයි. ජාතික උරුමයේ වැදගත්කම සහ ඉන්දීය සමාජය තුළ එහි ස්ථානය පිළිබඳව මෙහි විමසා බලයි.",
+   "author": "ഉസ്മാൻ പാലക്കാഴി",
+   "issue_date": "2017-01-21",
+   "html_url": "/si/opinion/when-national-tradition-is-questioned-20170121-2.html",
+   "md_url": "/si/opinion/when-national-tradition-is-questioned-20170121-2.md"
   },
   {
    "slug": "who-should-leave-india-20170121-1",
