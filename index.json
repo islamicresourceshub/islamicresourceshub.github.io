@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T04:05:45.954944+00:00",
+ "generated_at": "2026-08-28T04:05:55.353531+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 235,
+ "count": 236,
  "articles": [
   {
    "slug": "control-your-mind-20170325-3",
@@ -2717,6 +2717,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/tr/youth/an-agenda-is-needed-during-vacation-too-20170325-1.html",
    "md_url": "/tr/youth/an-agenda-is-needed-during-vacation-too-20170325-1.md"
+  },
+  {
+   "slug": "control-your-mind-20170325-3",
+   "lang": "ur",
+   "category": "hadith",
+   "title": "اپنے نفس پر قابو پائیں",
+   "summary": "حضرت ابوہریرہ (رض) سے مروی نبی کریم (صلی اللہ علیہ وسلم) کی حدیث کی روشنی میں ایک مطالعہ۔ یہ مضمون اس پیغام کی وضاحت کرتا ہے کہ غصے کے وقت اپنے نفس پر قابو پانے والا ہی اصل طاقتور ہے۔",
+   "author": "ഉസ്മാന്‍ പാലക്കാഴി",
+   "issue_date": "2017-03-25",
+   "html_url": "/ur/hadith/control-your-mind-20170325-3.html",
+   "md_url": "/ur/hadith/control-your-mind-20170325-3.md"
   },
   {
    "slug": "india-which-way-forward-20170325-2",
