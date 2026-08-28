@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T05:33:25.758011+00:00",
+ "generated_at": "2026-08-28T05:33:47.430852+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 494,
+ "count": 495,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -4015,6 +4015,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/pa/hadith/control-your-mind-20170325-3.html",
    "md_url": "/pa/hadith/control-your-mind-20170325-3.md"
+  },
+  {
+   "slug": "elections-the-stand-must-be-well-considered-20170325-10",
+   "lang": "pa",
+   "category": "opinion",
+   "title": "ਚੋਣਾਂ: ਇੱਕ ਸੋਚਿਆ-ਸਮਝਿਆ ਨਜ਼ਰੀਆ",
+   "summary": "ਇਹ ਲੇਖ ਧਰਮ-ਨਿਰਪੱਖ ਲੋਕਤੰਤਰੀ ਭਾਰਤ ਵਿੱਚ ਮੁਸਲਮਾਨਾਂ ਦੀ ਚੋਣ ਪ੍ਰਕਿਰਿਆ ਵਿੱਚ ਭਾਗੀਦਾਰੀ ਬਾਰੇ ਚਰਚਾ ਕਰਦਾ ਹੈ। ਇਹ ਰਾਸ਼ਟਰ ਨਿਰਮਾਣ ਵਿੱਚ ਮੁਸਲਮਾਨਾਂ ਦੀ ਭੂਮਿਕਾ ਅਤੇ ਇਸਲਾਮੀ ਦ੍ਰਿਸ਼ਟੀਕੋਣ ਤੋਂ ਉਨ੍ਹਾਂ ਦੀਆਂ ਜ਼ਿੰਮੇਵਾਰੀਆਂ ਦਾ ਵਿਸ਼ਲੇਸ਼ਣ ਹੈ।",
+   "author": "പി.എന്‍ അബ്ദുറഹ്മാന്‍",
+   "issue_date": "2017-03-25",
+   "html_url": "/pa/opinion/elections-the-stand-must-be-well-considered-20170325-10.html",
+   "md_url": "/pa/opinion/elections-the-stand-must-be-well-considered-20170325-10.md"
   },
   {
    "slug": "india-which-way-forward-20170325-2",
