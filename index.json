@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T04:08:03.174777+00:00",
+ "generated_at": "2026-08-28T04:08:14.876545+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 247,
+ "count": 248,
  "articles": [
   {
    "slug": "our-parents-20170325-4",
@@ -572,6 +572,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/es/youth/an-agenda-is-needed-during-vacation-too-20170325-1.html",
    "md_url": "/es/youth/an-agenda-is-needed-during-vacation-too-20170325-1.md"
+  },
+  {
+   "slug": "our-parents-20170325-4",
+   "lang": "fa",
+   "category": "family",
+   "title": "والدین ما",
+   "summary": "این مقاله به بررسی جایگاه والای والدین به عنوان یکی از بزرگترین نعمت‌های الهی می‌پردازد. همچنین به وظایف فرزندان در قبال والدین، اهمیت نیکی به آنان و عواقب بی‌توجهی به این مسئولیت خطیر اشاره می‌کند.",
+   "author": "കെ.സഫ്‌വാന്‍ മുഹമ്മദ്, ആമയൂര്‍",
+   "issue_date": "2017-03-25",
+   "html_url": "/fa/family/our-parents-20170325-4.html",
+   "md_url": "/fa/family/our-parents-20170325-4.md"
   },
   {
    "slug": "control-your-mind-20170325-3",
