@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T03:45:08.986748+00:00",
+ "generated_at": "2026-08-28T03:45:18.870392+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 145,
+ "count": 146,
  "articles": [
   {
    "slug": "an-agenda-is-needed-during-vacation-too-20170325-1",
@@ -1815,6 +1815,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/ur/youth/an-agenda-is-needed-during-vacation-too-20170325-1.html",
    "md_url": "/ur/youth/an-agenda-is-needed-during-vacation-too-20170325-1.md"
+  },
+  {
+   "slug": "an-agenda-is-needed-during-vacation-too-20170325-1",
+   "lang": "uz",
+   "category": "youth",
+   "title": "Kun ta'tilda ham kun tartibi bo'lishi kerak",
+   "summary": "Ushbu maqolada o'quv yili yakunlanib, ta'til boshlanishining ahamiyati haqida so'z boradi. Muallif bolalarning vaqtini foydali o'tkazish uchun islomiy kun tartibi zarurligini ta'kidlaydi.",
+   "author": "ഡോ. സി.എം സാബിര്‍ നവാസ്",
+   "issue_date": "2017-03-25",
+   "html_url": "/uz/youth/an-agenda-is-needed-during-vacation-too-20170325-1.html",
+   "md_url": "/uz/youth/an-agenda-is-needed-during-vacation-too-20170325-1.md"
   }
  ]
 }
