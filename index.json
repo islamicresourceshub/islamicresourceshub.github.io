@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T08:53:22.743872+00:00",
+ "generated_at": "2026-08-28T08:53:44.641498+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 629,
+ "count": 630,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -539,6 +539,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/as/dawah/prayer-that-is-worship-20170325-6.html",
    "md_url": "/as/dawah/prayer-that-is-worship-20170325-6.md"
+  },
+  {
+   "slug": "religion-is-fearlessness-20170114-6",
+   "lang": "as",
+   "category": "dawah",
+   "title": "ধৰ্ম মানেই নিৰ্ভীকতা",
+   "summary": "এই প্ৰবন্ধটোৱে বিশ্বৰ বিভিন্ন ধৰ্মৰ পৰিপ্ৰেক্ষিতত ধৰ্মই কেনেকৈ মানুহক নিৰ্ভীকতা প্ৰদান কৰে, সেই বিষয়ে আলোচনা কৰে। বিশেষকৈ ইছলাম ধৰ্মই কেনেকৈ শান্তি, সুৰক্ষা আৰু নিৰ্ভীক সমাজ গঢ়াত গুৰুত্ব আৰোপ কৰে, সেয়া ইয়াত বৰ্ণনা কৰা হৈছে।",
+   "author": "ഉസ്മാൻ പാലക്കാഴി",
+   "issue_date": "2017-01-14",
+   "html_url": "/as/dawah/religion-is-fearlessness-20170114-6.html",
+   "md_url": "/as/dawah/religion-is-fearlessness-20170114-6.md"
   },
   {
    "slug": "our-parents-20170325-4",
