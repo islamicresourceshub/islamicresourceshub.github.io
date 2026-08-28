@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T09:34:26.892766+00:00",
+ "generated_at": "2026-08-28T09:34:44.702785+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 776,
+ "count": 777,
  "articles": [
   {
    "slug": "live-knowing-the-value-of-time-20170114-8",
@@ -7645,6 +7645,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/th/opinion/terrorism-and-religious-freedom-20170114-1.html",
    "md_url": "/th/opinion/terrorism-and-religious-freedom-20170114-1.md"
+  },
+  {
+   "slug": "uapa-wielding-sedition-law-20170114-9",
+   "lang": "th",
+   "category": "opinion",
+   "title": "UAPA: กฎหมายทรยศต่อชาติที่ถือแส้ในมือ",
+   "summary": "บทความวิพากษ์วิจารณ์การใช้อำนาจในทางที่ผิดของกฎหมาย UAPA และกฎหมายว่าด้วยการทรยศต่อชาติ โดยตั้งคำถามสำคัญเกี่ยวกับความยุติธรรมและเสรีภาพของพลเมืองในสังคมปัจจุบัน",
+   "author": "പി.വി.എ പ്രിംറോസ്‌",
+   "issue_date": "2017-01-14",
+   "html_url": "/th/opinion/uapa-wielding-sedition-law-20170114-9.html",
+   "md_url": "/th/opinion/uapa-wielding-sedition-law-20170114-9.md"
   },
   {
    "slug": "praise-be-to-the-lord-of-the-worlds-20170325-9",
