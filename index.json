@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T04:57:58.503372+00:00",
+ "generated_at": "2026-08-28T04:58:12.927866+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 430,
+ "count": 431,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -4708,6 +4708,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/ur/seerah/prophets-and-trials-20170325-7.html",
    "md_url": "/ur/seerah/prophets-and-trials-20170325-7.md"
+  },
+  {
+   "slug": "good-intention-matters-most-20170325-8",
+   "lang": "ur",
+   "category": "story",
+   "title": "نیک نیتی ہی اصل ہے",
+   "summary": "یہ تحریر ایک دوست کی فون کال سے شروع ہونے والے ایک واقعے پر مبنی ہے، جو انسانی ہمدردی اور نیک نیتی کی اہمیت کو اجاگر کرتی ہے۔ کہانی بتاتی ہے کہ کس طرح خلوصِ نیت کے ساتھ مل کر کام کرنے سے مشکل ترین حالات میں بھی بہتری لائی جا سکتی ہے۔",
+   "author": "ഇബ്‌നു അലി എടത്തനാട്ടുകര",
+   "issue_date": "2017-03-25",
+   "html_url": "/ur/story/good-intention-matters-most-20170325-8.html",
+   "md_url": "/ur/story/good-intention-matters-most-20170325-8.md"
   },
   {
    "slug": "an-agenda-is-needed-during-vacation-too-20170325-1",
