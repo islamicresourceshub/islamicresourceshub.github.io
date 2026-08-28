@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T04:26:24.483673+00:00",
+ "generated_at": "2026-08-28T04:26:40.363547+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 324,
+ "count": 325,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -682,6 +682,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/en/youth/an-agenda-is-needed-during-vacation-too-20170325-1.html",
    "md_url": "/en/youth/an-agenda-is-needed-during-vacation-too-20170325-1.md"
+  },
+  {
+   "slug": "prayer-that-is-worship-20170325-6",
+   "lang": "es",
+   "category": "dawah",
+   "title": "La oración: Eso es la adoración",
+   "summary": "Este artículo establece que el objetivo primordial de la vida humana es mantener los actos de adoración tal como el Islam los ha enseñado. Explica la naturaleza de la oración como un acto de adoración fundamental, basándose en las evidencias del Sagrado Corán.",
+   "author": "മൂസ സ്വലാഹി, കാര",
+   "issue_date": "2017-03-25",
+   "html_url": "/es/dawah/prayer-that-is-worship-20170325-6.html",
+   "md_url": "/es/dawah/prayer-that-is-worship-20170325-6.md"
   },
   {
    "slug": "our-parents-20170325-4",
