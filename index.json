@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T10:11:29.141640+00:00",
+ "generated_at": "2026-08-28T10:11:48.447860+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 896,
+ "count": 897,
  "articles": [
   {
    "slug": "live-knowing-the-value-of-time-20170114-8",
@@ -9592,6 +9592,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/uz/opinion/uapa-wielding-sedition-law-20170114-9.html",
    "md_url": "/uz/opinion/uapa-wielding-sedition-law-20170114-9.md"
+  },
+  {
+   "slug": "when-national-tradition-is-questioned-20170121-2",
+   "lang": "uz",
+   "category": "opinion",
+   "title": "Milliy an'ana so'roq ostiga olinganda",
+   "summary": "Ushbu maqola professor M.G.S. Narayananning millatchilik haqidagi bahsli bayonotlarini tahlil qiladi. Unda milliy an'analarning dolzarbligi va Hindiston jamiyatidagi o'rni ko'rib chiqiladi.",
+   "author": "ഉസ്മാൻ പാലക്കാഴി",
+   "issue_date": "2017-01-21",
+   "html_url": "/uz/opinion/when-national-tradition-is-questioned-20170121-2.html",
+   "md_url": "/uz/opinion/when-national-tradition-is-questioned-20170121-2.md"
   },
   {
    "slug": "who-should-leave-india-20170121-1",
