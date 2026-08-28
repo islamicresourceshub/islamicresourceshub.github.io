@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T04:21:40.647565+00:00",
+ "generated_at": "2026-08-28T04:21:56.250245+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 306,
+ "count": 307,
  "articles": [
   {
    "slug": "our-parents-20170325-4",
@@ -3113,6 +3113,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/sq/family/our-parents-20170325-4.html",
    "md_url": "/sq/family/our-parents-20170325-4.md"
+  },
+  {
+   "slug": "mosque-construction-some-points-to-note-20170325-5",
+   "lang": "sq",
+   "category": "fiqh",
+   "title": "Ndërtimi i xhamive: Disa çështje për t'u pasur parasysh",
+   "summary": "Një studim i fikhut bazuar në parimin se xhamitë janë shtëpitë e Allahut. Duke marrë si shembull ndërtimin e xhamisë nga Profeti (paqja dhe bekimi i Allahut qofshin mbi të!) sapo mbërriti në Medinë, ky shkrim detajon pikat kryesore që duhen mbajtur parasysh gjatë ndërtimit të një xhamie.",
+   "author": "ഡോ. അബ്ദുറസാഖ് സുല്ലമി",
+   "issue_date": "2017-03-25",
+   "html_url": "/sq/fiqh/mosque-construction-some-points-to-note-20170325-5.html",
+   "md_url": "/sq/fiqh/mosque-construction-some-points-to-note-20170325-5.md"
   },
   {
    "slug": "control-your-mind-20170325-3",
