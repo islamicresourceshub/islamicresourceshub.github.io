@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T05:36:35.395042+00:00",
+ "generated_at": "2026-08-28T05:36:54.545161+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 503,
+ "count": 504,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -5005,6 +5005,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/te/hadith/control-your-mind-20170325-3.html",
    "md_url": "/te/hadith/control-your-mind-20170325-3.md"
+  },
+  {
+   "slug": "elections-the-stand-must-be-well-considered-20170325-10",
+   "lang": "te",
+   "category": "opinion",
+   "title": "ఎన్నికలు: సుచింతితమైన వైఖరి అవసరం",
+   "summary": "మతాతీత ప్రజాస్వామ్య భారతదేశంలో ముస్లింలు ఎన్నికల ప్రక్రియలో పాల్గొనాలా వద్దా అనే అంశాన్ని ఈ వ్యాసం చర్చిస్తుంది. దేశ పునర్నిర్మాణంలో ముస్లింల బాధ్యత మరియు పాత్రపై ఇది విశ్లేషణ అందిస్తుంది.",
+   "author": "പി.എന്‍ അബ്ദുറഹ്മാന്‍",
+   "issue_date": "2017-03-25",
+   "html_url": "/te/opinion/elections-the-stand-must-be-well-considered-20170325-10.html",
+   "md_url": "/te/opinion/elections-the-stand-must-be-well-considered-20170325-10.md"
   },
   {
    "slug": "india-which-way-forward-20170325-2",
