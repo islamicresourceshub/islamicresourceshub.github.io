@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T03:44:15.614208+00:00",
+ "generated_at": "2026-08-28T03:44:24.168762+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 139,
+ "count": 140,
  "articles": [
   {
    "slug": "an-agenda-is-needed-during-vacation-too-20170325-1",
@@ -1749,6 +1749,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/sw/youth/an-agenda-is-needed-during-vacation-too-20170325-1.html",
    "md_url": "/sw/youth/an-agenda-is-needed-during-vacation-too-20170325-1.md"
+  },
+  {
+   "slug": "an-agenda-is-needed-during-vacation-too-20170325-1",
+   "lang": "ta",
+   "category": "youth",
+   "title": "விடுமுறை காலத்திலும் ஒரு செயல்திட்டம் தேவை",
+   "summary": "கல்வியாண்டு முடிந்து வரும் விடுமுறை காலத்தின் முக்கியத்துவத்தைப் பற்றிய கட்டுரை இது. குழந்தைகளின் நேரத்தை பயனுள்ள வகையில் செலவிட ஒரு இஸ்லாமிய செயல்திட்டம் அவசியம் என்பதை ஆசிரியர் சுட்டிக்காட்டுகிறார்.",
+   "author": "ഡോ. സി.എം സാബിര്‍ നവാസ്",
+   "issue_date": "2017-03-25",
+   "html_url": "/ta/youth/an-agenda-is-needed-during-vacation-too-20170325-1.html",
+   "md_url": "/ta/youth/an-agenda-is-needed-during-vacation-too-20170325-1.md"
   }
  ]
 }
