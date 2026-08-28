@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T03:44:07.291417+00:00",
+ "generated_at": "2026-08-28T03:44:15.614208+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 138,
+ "count": 139,
  "articles": [
   {
    "slug": "an-agenda-is-needed-during-vacation-too-20170325-1",
@@ -1738,6 +1738,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/sq/youth/an-agenda-is-needed-during-vacation-too-20170325-1.html",
    "md_url": "/sq/youth/an-agenda-is-needed-during-vacation-too-20170325-1.md"
+  },
+  {
+   "slug": "an-agenda-is-needed-during-vacation-too-20170325-1",
+   "lang": "sw",
+   "category": "youth",
+   "title": "Tunahitaji Ajenda; Hata Wakati wa Likizo",
+   "summary": "Makala hii inazungumzia umuhimu wa kipindi cha likizo baada ya mwaka wa masomo kumalizika. Mwandishi anasisitiza haja ya kuwa na ajenda ya Kiislamu ili watoto waweze kutumia muda wao kwa njia yenye manufaa.",
+   "author": "ഡോ. സി.എം സാബിര്‍ നവാസ്",
+   "issue_date": "2017-03-25",
+   "html_url": "/sw/youth/an-agenda-is-needed-during-vacation-too-20170325-1.html",
+   "md_url": "/sw/youth/an-agenda-is-needed-during-vacation-too-20170325-1.md"
   }
  ]
 }
