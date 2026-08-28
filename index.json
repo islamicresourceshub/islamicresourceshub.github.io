@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T04:20:48.506887+00:00",
+ "generated_at": "2026-08-28T04:20:59.647538+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 302,
+ "count": 303,
  "articles": [
   {
    "slug": "our-parents-20170325-4",
@@ -2893,6 +2893,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/pt/family/our-parents-20170325-4.html",
    "md_url": "/pt/family/our-parents-20170325-4.md"
+  },
+  {
+   "slug": "mosque-construction-some-points-to-note-20170325-5",
+   "lang": "pt",
+   "category": "fiqh",
+   "title": "Construção de Mesquitas: Alguns pontos a considerar",
+   "summary": "Um estudo de fiqh baseado no princípio de que as mesquitas são as casas de Allah. O artigo detalha pontos importantes na construção de mesquitas, seguindo o modelo estabelecido pelo Profeta (que a paz e as bênçãos de Allah estejam sobre ele) ao chegar em Medina.",
+   "author": "ഡോ. അബ്ദുറസാഖ് സുല്ലമി",
+   "issue_date": "2017-03-25",
+   "html_url": "/pt/fiqh/mosque-construction-some-points-to-note-20170325-5.html",
+   "md_url": "/pt/fiqh/mosque-construction-some-points-to-note-20170325-5.md"
   },
   {
    "slug": "control-your-mind-20170325-3",
