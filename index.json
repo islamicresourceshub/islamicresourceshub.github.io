@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T09:54:28.872267+00:00",
+ "generated_at": "2026-08-28T09:54:40.733676+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 859,
+ "count": 860,
  "articles": [
   {
    "slug": "live-knowing-the-value-of-time-20170114-8",
@@ -9416,6 +9416,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/vi/opinion/uapa-wielding-sedition-law-20170114-9.html",
    "md_url": "/vi/opinion/uapa-wielding-sedition-law-20170114-9.md"
+  },
+  {
+   "slug": "who-should-leave-india-20170121-1",
+   "lang": "vi",
+   "category": "opinion",
+   "title": "Ai là những người cần phải rời khỏi Ấn Độ?",
+   "summary": "Bài viết phân tích lời kêu gọi những người bất đồng chính kiến phải rời khỏi Ấn Độ để đến Pakistan. Tác giả thảo luận về bối cảnh của những lời kêu gọi này và những hệ lụy xã hội mà chúng gây ra.",
+   "author": "എസ്‌.എ റിയാദ്‌",
+   "issue_date": "2017-01-21",
+   "html_url": "/vi/opinion/who-should-leave-india-20170121-1.html",
+   "md_url": "/vi/opinion/who-should-leave-india-20170121-1.md"
   },
   {
    "slug": "praise-be-to-the-lord-of-the-worlds-20170325-9",
