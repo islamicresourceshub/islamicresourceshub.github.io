@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T09:20:16.272098+00:00",
+ "generated_at": "2026-08-28T09:20:29.521396+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 729,
+ "count": 730,
  "articles": [
   {
    "slug": "live-knowing-the-value-of-time-20170114-8",
@@ -5764,6 +5764,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/ps/youth/an-agenda-is-needed-during-vacation-too-20170325-1.html",
    "md_url": "/ps/youth/an-agenda-is-needed-during-vacation-too-20170325-1.md"
+  },
+  {
+   "slug": "live-knowing-the-value-of-time-20170114-8",
+   "lang": "pt",
+   "category": "dawah",
+   "title": "Viver sabendo o valor do tempo",
+   "summary": "Um artigo que começa com a pergunta sobre o que se pode fazer em um único momento. Explica a importância de viver reconhecendo o valor do tempo.",
+   "author": "നാസിർ ബാലുശ്ശേരി",
+   "issue_date": "2017-01-14",
+   "html_url": "/pt/dawah/live-knowing-the-value-of-time-20170114-8.html",
+   "md_url": "/pt/dawah/live-knowing-the-value-of-time-20170114-8.md"
   },
   {
    "slug": "prayer-that-is-worship-20170325-6",
