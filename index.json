@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T04:10:45.052815+00:00",
+ "generated_at": "2026-08-28T04:10:58.111534+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 259,
+ "count": 260,
  "articles": [
   {
    "slug": "our-parents-20170325-4",
@@ -2442,6 +2442,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/ms/youth/an-agenda-is-needed-during-vacation-too-20170325-1.html",
    "md_url": "/ms/youth/an-agenda-is-needed-during-vacation-too-20170325-1.md"
+  },
+  {
+   "slug": "our-parents-20170325-4",
+   "lang": "ne",
+   "category": "family",
+   "title": "हाम्रा आमाबुबा",
+   "summary": "यो लेख अल्लाहको ठूलो आशिष्को रूपमा रहेका आमाबुबाको महत्त्व र उनीहरूप्रति हाम्रो दायित्वको बारेमा हो। मानिसको रूपमा जन्म लिन पाउनु नै ठूलो सौभाग्य हो र आमाबुबाको सेवा गर्नु स्वर्गको बाटो हो भन्ने कुरा यसमा चर्चा गरिएको छ।",
+   "author": "കെ.സഫ്‌വാന്‍ മുഹമ്മദ്, ആമയൂര്‍",
+   "issue_date": "2017-03-25",
+   "html_url": "/ne/family/our-parents-20170325-4.html",
+   "md_url": "/ne/family/our-parents-20170325-4.md"
   },
   {
    "slug": "control-your-mind-20170325-3",
