@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T09:54:40.733676+00:00",
+ "generated_at": "2026-08-28T09:54:56.056957+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 860,
+ "count": 861,
  "articles": [
   {
    "slug": "live-knowing-the-value-of-time-20170114-8",
@@ -9625,6 +9625,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/zh/opinion/uapa-wielding-sedition-law-20170114-9.html",
    "md_url": "/zh/opinion/uapa-wielding-sedition-law-20170114-9.md"
+  },
+  {
+   "slug": "who-should-leave-india-20170121-1",
+   "lang": "zh",
+   "category": "opinion",
+   "title": "到底谁该离开印度？",
+   "summary": "本文分析了要求异见者离开印度前往巴基斯坦的言论，探讨了此类呼声背后的社会背景及其对民主价值观的负面影响。文章强调了印度多元主义的本质，并指出真正的民族主义在于包容而非排斥。",
+   "author": "എസ്‌.എ റിയാദ്‌",
+   "issue_date": "2017-01-21",
+   "html_url": "/zh/opinion/who-should-leave-india-20170121-1.html",
+   "md_url": "/zh/opinion/who-should-leave-india-20170121-1.md"
   },
   {
    "slug": "praise-be-to-the-lord-of-the-worlds-20170325-9",
