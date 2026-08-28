@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T09:35:02.624917+00:00",
+ "generated_at": "2026-08-28T09:35:21.376112+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 778,
+ "count": 779,
  "articles": [
   {
    "slug": "live-knowing-the-value-of-time-20170114-8",
@@ -8019,6 +8019,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/tr/opinion/terrorism-and-religious-freedom-20170114-1.html",
    "md_url": "/tr/opinion/terrorism-and-religious-freedom-20170114-1.md"
+  },
+  {
+   "slug": "uapa-wielding-sedition-law-20170114-9",
+   "lang": "tr",
+   "category": "opinion",
+   "title": "UAPA: İhanet Yasasını Kırbaç Gibi Kullananlar",
+   "summary": "Bu makale, UAPA ve ihanet yasalarının kötüye kullanımını eleştirel bir bakış açısıyla incelemektedir. Adalet ve özgürlük kavramları üzerine düşündürücü sorular sormaktadır.",
+   "author": "പി.വി.എ പ്രിംറോസ്‌",
+   "issue_date": "2017-01-14",
+   "html_url": "/tr/opinion/uapa-wielding-sedition-law-20170114-9.html",
+   "md_url": "/tr/opinion/uapa-wielding-sedition-law-20170114-9.md"
   },
   {
    "slug": "praise-be-to-the-lord-of-the-worlds-20170325-9",
