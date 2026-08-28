@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T09:30:27.960974+00:00",
+ "generated_at": "2026-08-28T09:30:47.286225+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 763,
+ "count": 764,
  "articles": [
   {
    "slug": "live-knowing-the-value-of-time-20170114-8",
@@ -5225,6 +5225,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/ms/opinion/terrorism-and-religious-freedom-20170114-1.html",
    "md_url": "/ms/opinion/terrorism-and-religious-freedom-20170114-1.md"
+  },
+  {
+   "slug": "uapa-wielding-sedition-law-20170114-9",
+   "lang": "ms",
+   "category": "opinion",
+   "title": "UAPA: Undang-Undang Hasutan yang Memegang Cemeti",
+   "summary": "Artikel kritis mengenai penyalahgunaan undang-undang UAPA dan undang-undang hasutan di India. Tulisan ini membangkitkan persoalan mendasar tentang keadilan dan kebebasan sipil yang terancam oleh otoritas negara.",
+   "author": "പി.വി.എ പ്രിംറോസ്‌",
+   "issue_date": "2017-01-14",
+   "html_url": "/ms/opinion/uapa-wielding-sedition-law-20170114-9.html",
+   "md_url": "/ms/opinion/uapa-wielding-sedition-law-20170114-9.md"
   },
   {
    "slug": "praise-be-to-the-lord-of-the-worlds-20170325-9",
