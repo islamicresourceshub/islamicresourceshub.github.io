@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T05:03:17.764201+00:00",
+ "generated_at": "2026-08-28T05:03:34.900848+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 449,
+ "count": 450,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -1760,6 +1760,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/ja/opinion/india-which-way-forward-20170325-2.html",
    "md_url": "/ja/opinion/india-which-way-forward-20170325-2.md"
+  },
+  {
+   "slug": "praise-be-to-the-lord-of-the-worlds-20170325-9",
+   "lang": "ja",
+   "category": "quran",
+   "title": "万物の主への賛美",
+   "summary": "「万物の主であるアッラーにこそ、賛美あれ」（クルアーン1:2）という聖句に基づいた考察です。人間が学ぶべき礼儀の中で、神への感謝がいかに重要であるかを解説します。",
+   "author": "സി.മുഹമ്മദ് റാഫി ചെമ്പ്ര",
+   "issue_date": "2017-03-25",
+   "html_url": "/ja/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.html",
+   "md_url": "/ja/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.md"
   },
   {
    "slug": "prophets-and-trials-20170325-7",
