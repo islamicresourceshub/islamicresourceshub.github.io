@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T10:41:20.102256+00:00",
+ "generated_at": "2026-08-28T10:41:32.956239+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 914,
+ "count": 915,
  "articles": [
   {
    "slug": "live-knowing-the-value-of-time-20170114-8",
@@ -3773,6 +3773,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/ja/opinion/elections-the-stand-must-be-well-considered-20170325-10.html",
    "md_url": "/ja/opinion/elections-the-stand-must-be-well-considered-20170325-10.md"
+  },
+  {
+   "slug": "everyone-should-have-a-beard-20170121-3",
+   "lang": "ja",
+   "category": "opinion",
+   "title": "എല്ലാവര്‍ക്കും വേണം താടി!",
+   "summary": "താടിയെക്കുറിച്ചുള്ള വിമർശനങ്ങൾ എഴുതുന്ന ഒരു തൂലികക്കാരനെ വിമർശിക്കുന്ന ലേഖനം. സുന്നത്തിന്റെ പ്രാധാന്യവും അതിനെ എതിർക്കുന്നവരുടെ നിലപാടുകളും വിശകലനം ചെയ്യുന്നു.",
+   "author": "അബൂമിസ്‌യാല്‍",
+   "issue_date": "2017-01-21",
+   "html_url": "/ja/opinion/everyone-should-have-a-beard-20170121-3.html",
+   "md_url": "/ja/opinion/everyone-should-have-a-beard-20170121-3.md"
   },
   {
    "slug": "india-which-way-forward-20170325-2",
