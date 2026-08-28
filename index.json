@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T09:07:16.950261+00:00",
+ "generated_at": "2026-08-28T09:07:29.596843+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 667,
+ "count": 668,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -462,6 +462,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/ar/opinion/india-which-way-forward-20170325-2.html",
    "md_url": "/ar/opinion/india-which-way-forward-20170325-2.md"
+  },
+  {
+   "slug": "muslim-extremists-defame-islam-20170114-7",
+   "lang": "ar",
+   "category": "opinion",
+   "title": "المتطرفون المسلمون هم من يشوهون صورة الإسلام",
+   "summary": "مقتطفات من مقابلة مع المؤرخ إم. جي. إس. نارايانان، يناقش فيها التغييرات التي أحدثها الإسلام، والنهضة الإسلامية في كيرالا، وقضايا التطرف.",
+   "author": "എം.ജി.എസ്‌ നാരായണൻ / റസ്റ്റം ഉസ്മാൻ",
+   "issue_date": "2017-01-14",
+   "html_url": "/ar/opinion/muslim-extremists-defame-islam-20170114-7.html",
+   "md_url": "/ar/opinion/muslim-extremists-defame-islam-20170114-7.md"
   },
   {
    "slug": "terrorism-and-religious-freedom-20170114-1",
