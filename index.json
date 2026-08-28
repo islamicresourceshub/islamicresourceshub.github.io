@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T03:54:35.664307+00:00",
+ "generated_at": "2026-08-28T03:54:43.809371+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 200,
+ "count": 201,
  "articles": [
   {
    "slug": "control-your-mind-20170325-3",
@@ -649,6 +649,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/hi/youth/an-agenda-is-needed-during-vacation-too-20170325-1.html",
    "md_url": "/hi/youth/an-agenda-is-needed-during-vacation-too-20170325-1.md"
+  },
+  {
+   "slug": "control-your-mind-20170325-3",
+   "lang": "id",
+   "category": "hadith",
+   "title": "Mengendalikan Pikiran",
+   "summary": "Sebuah kajian berdasarkan hadis Nabi (saw) yang diriwayatkan oleh Abu Hurairah (ra). Tulisan ini menjelaskan pesan bahwa orang yang kuat adalah mereka yang mampu mengendalikan diri saat marah.",
+   "author": "ഉസ്മാന്‍ പാലക്കാഴി",
+   "issue_date": "2017-03-25",
+   "html_url": "/id/hadith/control-your-mind-20170325-3.html",
+   "md_url": "/id/hadith/control-your-mind-20170325-3.md"
   },
   {
    "slug": "india-which-way-forward-20170325-2",
