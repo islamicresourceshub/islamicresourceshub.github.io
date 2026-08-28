@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T05:58:37.271738+00:00",
+ "generated_at": "2026-08-28T06:04:30.792398+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 548,
+ "count": 549,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -6094,6 +6094,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/vi/opinion/india-which-way-forward-20170325-2.html",
    "md_url": "/vi/opinion/india-which-way-forward-20170325-2.md"
+  },
+  {
+   "slug": "terrorism-and-religious-freedom-20170114-1",
+   "lang": "vi",
+   "category": "opinion",
+   "title": "Cuộc chiến chống khủng bố và Tự do tôn giáo",
+   "summary": "Bài viết bắt đầu với quan điểm cho rằng khủng bố là một sự lệch lạc về tâm lý hủy hoại sự bình yên của bất kỳ xã hội nào, từ đó phân tích mối quan hệ giữa chủ nghĩa khủng bố và tự do tôn giáo.",
+   "author": "ഡോ. സി.എം സാബിർ നവാസ്‌",
+   "issue_date": "2017-01-14",
+   "html_url": "/vi/opinion/terrorism-and-religious-freedom-20170114-1.html",
+   "md_url": "/vi/opinion/terrorism-and-religious-freedom-20170114-1.md"
   },
   {
    "slug": "praise-be-to-the-lord-of-the-worlds-20170325-9",
