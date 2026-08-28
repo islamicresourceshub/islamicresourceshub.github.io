@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T08:52:48.391116+00:00",
+ "generated_at": "2026-08-28T08:53:06.178850+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 627,
+ "count": 628,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -231,6 +231,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/am/dawah/prayer-that-is-worship-20170325-6.html",
    "md_url": "/am/dawah/prayer-that-is-worship-20170325-6.md"
+  },
+  {
+   "slug": "religion-is-fearlessness-20170114-6",
+   "lang": "am",
+   "category": "dawah",
+   "title": "ሃይማኖት ማለት ፍርሃት አልባነት ነው",
+   "summary": "ይህ መጣጥፍ በተለያዩ የዓለም ሃይማኖቶች ዳራ ውስጥ፣ እስልምና እንዴት ለሰው ልጅ ፍርሃት አልባነትን እና ሰላምን እንደሚያጎናጽፍ ይዳስሳል።",
+   "author": "ഉസ്മാൻ പാലക്കാഴി",
+   "issue_date": "2017-01-14",
+   "html_url": "/am/dawah/religion-is-fearlessness-20170114-6.html",
+   "md_url": "/am/dawah/religion-is-fearlessness-20170114-6.md"
   },
   {
    "slug": "our-parents-20170325-4",
