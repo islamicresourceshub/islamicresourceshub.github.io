@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T03:54:09.239175+00:00",
+ "generated_at": "2026-08-28T03:54:17.798540+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 197,
+ "count": 198,
  "articles": [
   {
    "slug": "control-your-mind-20170325-3",
@@ -550,6 +550,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/fr/youth/an-agenda-is-needed-during-vacation-too-20170325-1.html",
    "md_url": "/fr/youth/an-agenda-is-needed-during-vacation-too-20170325-1.md"
+  },
+  {
+   "slug": "control-your-mind-20170325-3",
+   "lang": "gu",
+   "category": "hadith",
+   "title": "મનને નિયંત્રિત કરો",
+   "summary": "અબૂ હુરૈરા (રદિ.) દ્વારા વર્ણિત નબી (સ.) ની હદીસ પર આધારિત એક અભ્યાસ. આ લેખ સમજાવે છે કે ગુસ્સામાં પોતાના મન પર કાબૂ રાખનાર વ્યક્તિ જ ખરેખર શક્તિશાળી છે.",
+   "author": "ഉസ്മാന്‍ പാലക്കാഴി",
+   "issue_date": "2017-03-25",
+   "html_url": "/gu/hadith/control-your-mind-20170325-3.html",
+   "md_url": "/gu/hadith/control-your-mind-20170325-3.md"
   },
   {
    "slug": "india-which-way-forward-20170325-2",
