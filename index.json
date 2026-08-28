@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T03:54:01.169267+00:00",
+ "generated_at": "2026-08-28T03:54:09.239175+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 196,
+ "count": 197,
  "articles": [
   {
    "slug": "control-your-mind-20170325-3",
@@ -517,6 +517,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/fa/youth/an-agenda-is-needed-during-vacation-too-20170325-1.html",
    "md_url": "/fa/youth/an-agenda-is-needed-during-vacation-too-20170325-1.md"
+  },
+  {
+   "slug": "control-your-mind-20170325-3",
+   "lang": "fr",
+   "category": "hadith",
+   "title": "Maîtrisez votre esprit",
+   "summary": "Une étude basée sur un hadith du Prophète (saw) rapporté par Abou Houraïra (ra). Ce texte explique que le véritable fort est celui qui sait maîtriser son esprit lorsqu'il est en colère.",
+   "author": "ഉസ്മാന്‍ പാലക്കാഴി",
+   "issue_date": "2017-03-25",
+   "html_url": "/fr/hadith/control-your-mind-20170325-3.html",
+   "md_url": "/fr/hadith/control-your-mind-20170325-3.md"
   },
   {
    "slug": "india-which-way-forward-20170325-2",
