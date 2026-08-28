@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T05:05:01.242805+00:00",
+ "generated_at": "2026-08-28T05:05:23.226284+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 455,
+ "count": 456,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -3696,6 +3696,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/or/opinion/india-which-way-forward-20170325-2.html",
    "md_url": "/or/opinion/india-which-way-forward-20170325-2.md"
+  },
+  {
+   "slug": "praise-be-to-the-lord-of-the-worlds-20170325-9",
+   "lang": "or",
+   "category": "quran",
+   "title": "ସୃଷ୍ଟିକର୍ତ୍ତାଙ୍କ ପ୍ରତି ପ୍ରଶଂସା",
+   "summary": "'ସମସ୍ତ ପ୍ରଶଂସା ବିଶ୍ୱର ପ୍ରତିପାଳକ ଅଲ୍ଲାହଙ୍କ ପାଇଁ' (କୁରାନ ୧:୨) ଏହି ବାକ୍ୟାଂଶ ଉପରେ ଆଧାରିତ ଏକ ଅଧ୍ୟୟନ। ମଣିଷ ପାଳନ କରିବାକୁ ଥିବା ଶିଷ୍ଟାଚାର ମଧ୍ୟରେ ଅଲ୍ଲାହଙ୍କ ପ୍ରତି କୃତଜ୍ଞତାର ସ୍ଥାନ ଏଥିରେ ବର୍ଣ୍ଣନା କରାଯାଇଛି।",
+   "author": "സി.മുഹമ്മദ് റാഫി ചെമ്പ്ര",
+   "issue_date": "2017-03-25",
+   "html_url": "/or/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.html",
+   "md_url": "/or/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.md"
   },
   {
    "slug": "prophets-and-trials-20170325-7",
