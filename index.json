@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T08:43:44.585607+00:00",
+ "generated_at": "2026-08-28T08:44:19.098696+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 591,
+ "count": 592,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -638,6 +638,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/as/youth/an-agenda-is-needed-during-vacation-too-20170325-1.html",
    "md_url": "/as/youth/an-agenda-is-needed-during-vacation-too-20170325-1.md"
+  },
+  {
+   "slug": "what-will-the-waste-do-20170114-5",
+   "lang": "as",
+   "category": "youth",
+   "title": "আৱৰ্জনাবোৰ কি কৰিম?",
+   "summary": "শ্বৰীফা নামৰ এজনী চতুৰী ছোৱালীৰ কাহিনীৰ মাজেৰে আৱৰ্জনা আৰু পৰিষ্কাৰ-পৰিচ্ছন্নতাৰ গুৰুত্বৰ বিষয়ে শিশুসকলৰ বাবে কোৱা এক কাহিনী।",
+   "author": "അബൂഫായിദ",
+   "issue_date": "2017-01-14",
+   "html_url": "/as/youth/what-will-the-waste-do-20170114-5.html",
+   "md_url": "/as/youth/what-will-the-waste-do-20170114-5.md"
   },
   {
    "slug": "prayer-that-is-worship-20170325-6",
