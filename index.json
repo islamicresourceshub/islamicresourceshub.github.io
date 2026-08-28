@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T05:15:44.718891+00:00",
+ "generated_at": "2026-08-28T05:16:11.713378+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 483,
+ "count": 484,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -1463,6 +1463,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/ha/hadith/control-your-mind-20170325-3.html",
    "md_url": "/ha/hadith/control-your-mind-20170325-3.md"
+  },
+  {
+   "slug": "elections-the-stand-must-be-well-considered-20170325-10",
+   "lang": "ha",
+   "category": "opinion",
+   "title": "Zabe: Dole ne a yi nazari mai zurfi",
+   "summary": "Wannan rubutu yana tattauna ko ya kamata musulmai su shiga cikin harkokin zabe a kasar Indiya mai tsarin dimokuradiyya da kuma yadda za su taka rawa wajen gina kasa.",
+   "author": "പി.എന്‍ അബ്ദുറഹ്മാന്‍",
+   "issue_date": "2017-03-25",
+   "html_url": "/ha/opinion/elections-the-stand-must-be-well-considered-20170325-10.html",
+   "md_url": "/ha/opinion/elections-the-stand-must-be-well-considered-20170325-10.md"
   },
   {
    "slug": "india-which-way-forward-20170325-2",
