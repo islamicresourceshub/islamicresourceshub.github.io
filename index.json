@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T10:01:43.306120+00:00",
+ "generated_at": "2026-08-28T10:01:59.303411+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 883,
+ "count": 884,
  "articles": [
   {
    "slug": "live-knowing-the-value-of-time-20170114-8",
@@ -6534,6 +6534,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/pa/opinion/uapa-wielding-sedition-law-20170114-9.html",
    "md_url": "/pa/opinion/uapa-wielding-sedition-law-20170114-9.md"
+  },
+  {
+   "slug": "when-national-tradition-is-questioned-20170121-2",
+   "lang": "pa",
+   "category": "opinion",
+   "title": "ਜਦੋਂ ਰਾਸ਼ਟਰੀ ਵਿਰਾਸਤ 'ਤੇ ਸਵਾਲ ਉਠਾਏ ਜਾਂਦੇ ਹਨ",
+   "summary": "ਇਹ ਲੇਖ ਪ੍ਰੋਫੈਸਰ ਐਮ.ਜੀ.ਐਸ. ਨਾਰਾਇਣਨ ਦੁਆਰਾ ਰਾਸ਼ਟਰਵਾਦ ਬਾਰੇ ਦਿੱਤੇ ਬਿਆਨਾਂ ਅਤੇ ਭਾਰਤੀ ਸਮਾਜ ਵਿੱਚ ਰਾਸ਼ਟਰੀ ਵਿਰਾਸਤ ਦੀ ਪ੍ਰਸੰਗਿਕਤਾ ਬਾਰੇ ਚੱਲ ਰਹੀ ਬਹਿਸ ਦਾ ਵਿਸ਼ਲੇਸ਼ਣ ਕਰਦਾ ਹੈ।",
+   "author": "ഉസ്മാൻ പാലക്കാഴി",
+   "issue_date": "2017-01-21",
+   "html_url": "/pa/opinion/when-national-tradition-is-questioned-20170121-2.html",
+   "md_url": "/pa/opinion/when-national-tradition-is-questioned-20170121-2.md"
   },
   {
    "slug": "who-should-leave-india-20170121-1",
