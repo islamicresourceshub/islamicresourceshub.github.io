@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T04:23:47.622978+00:00",
+ "generated_at": "2026-08-28T04:23:59.495450+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 315,
+ "count": 316,
  "articles": [
   {
    "slug": "our-parents-20170325-4",
@@ -3608,6 +3608,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/vi/family/our-parents-20170325-4.html",
    "md_url": "/vi/family/our-parents-20170325-4.md"
+  },
+  {
+   "slug": "mosque-construction-some-points-to-note-20170325-5",
+   "lang": "vi",
+   "category": "fiqh",
+   "title": "Xây dựng thánh đường: Một số lưu ý quan trọng",
+   "summary": "Một nghiên cứu về Fiqh dựa trên nguyên tắc rằng các thánh đường là ngôi nhà của Allah. Bài viết giải thích những điều cần lưu ý khi xây dựng thánh đường, noi gương theo cách mà Nhà tiên tri (hòa bình và phước lành của Allah ở trên ông) đã thực hiện ngay khi đến Medina.",
+   "author": "ഡോ. അബ്ദുറസാഖ് സുല്ലമി",
+   "issue_date": "2017-03-25",
+   "html_url": "/vi/fiqh/mosque-construction-some-points-to-note-20170325-5.html",
+   "md_url": "/vi/fiqh/mosque-construction-some-points-to-note-20170325-5.md"
   },
   {
    "slug": "control-your-mind-20170325-3",
