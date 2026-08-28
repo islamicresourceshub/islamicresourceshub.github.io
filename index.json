@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T10:10:42.520721+00:00",
+ "generated_at": "2026-08-28T10:10:58.717707+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 893,
+ "count": 894,
  "articles": [
   {
    "slug": "live-knowing-the-value-of-time-20170114-8",
@@ -8932,6 +8932,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/tl/opinion/uapa-wielding-sedition-law-20170114-9.html",
    "md_url": "/tl/opinion/uapa-wielding-sedition-law-20170114-9.md"
+  },
+  {
+   "slug": "when-national-tradition-is-questioned-20170121-2",
+   "lang": "tl",
+   "category": "opinion",
+   "title": "Kapag ang Pambansang Tradisyon ay Qinukwestyon",
+   "summary": "Sinusuri ng artikulong ito ang mga talakayang ibinunga ng mga pahayag ni Prof. M.G.S. Narayanan tungkol sa nasyonalismo. Tinatalakay nito ang kaugnayan ng pambansang tradisyon at ang posisyon nito sa lipunang Indian.",
+   "author": "ഉസ്മാൻ പാലക്കാഴി",
+   "issue_date": "2017-01-21",
+   "html_url": "/tl/opinion/when-national-tradition-is-questioned-20170121-2.html",
+   "md_url": "/tl/opinion/when-national-tradition-is-questioned-20170121-2.md"
   },
   {
    "slug": "who-should-leave-india-20170121-1",
