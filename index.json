@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T10:56:23.822314+00:00",
+ "generated_at": "2026-08-28T10:56:34.706112+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 978,
+ "count": 979,
  "articles": [
   {
    "slug": "live-knowing-the-value-of-time-20170114-8",
@@ -528,6 +528,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/ar/family/how-to-be-a-good-parent-part-2-20170121-4.html",
    "md_url": "/ar/family/how-to-be-a-good-parent-part-2-20170121-4.md"
+  },
+  {
+   "slug": "husband-trapped-in-the-mobile-web-20170121-5",
+   "lang": "ar",
+   "category": "family",
+   "title": "الزوج العالق في شباك الهاتف",
+   "summary": "مقال تحليلي يتناول تأثير الاستخدام المفرط للهاتف المحمول على الزوج والعلاقات الأسرية، ضمن زاوية 'بيت السكينة' للاستشارات الأسرية.",
+   "author": "പ്രൊഫ: ഹാരിസ്ബിൻ സലീം",
+   "issue_date": "2017-01-21",
+   "html_url": "/ar/family/husband-trapped-in-the-mobile-web-20170121-5.html",
+   "md_url": "/ar/family/husband-trapped-in-the-mobile-web-20170121-5.md"
   },
   {
    "slug": "our-parents-20170325-4",
