@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T11:01:18.597568+00:00",
+ "generated_at": "2026-08-28T11:01:31.466869+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1004,
+ "count": 1005,
  "articles": [
   {
    "slug": "live-knowing-the-value-of-time-20170114-8",
@@ -8415,6 +8415,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/so/family/how-to-be-a-good-parent-part-2-20170121-4.html",
    "md_url": "/so/family/how-to-be-a-good-parent-part-2-20170121-4.md"
+  },
+  {
+   "slug": "husband-trapped-in-the-mobile-web-20170121-5",
+   "lang": "so",
+   "category": "family",
+   "title": "Ninka oo ku dhex milmay shabakadda moobilka",
+   "summary": "Maqaalkan oo qayb ka ah tiirka talo-bixinta qoyska ee 'Shanthi Geham', wuxuu falanqeynayaa sida isticmaalka xad-dhaafka ah ee moobilka uu u saameeyo ninka iyo xiriirka qoyska.",
+   "author": "പ്രൊഫ: ഹാരിസ്ബിൻ സലീം",
+   "issue_date": "2017-01-21",
+   "html_url": "/so/family/husband-trapped-in-the-mobile-web-20170121-5.html",
+   "md_url": "/so/family/husband-trapped-in-the-mobile-web-20170121-5.md"
   },
   {
    "slug": "islamic-parenting-significance-and-goals-part-1-20170114-4",
