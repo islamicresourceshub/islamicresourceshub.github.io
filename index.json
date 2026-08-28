@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T04:33:44.364898+00:00",
+ "generated_at": "2026-08-28T04:34:05.397389+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 347,
+ "count": 348,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -3542,6 +3542,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/sw/youth/an-agenda-is-needed-during-vacation-too-20170325-1.html",
    "md_url": "/sw/youth/an-agenda-is-needed-during-vacation-too-20170325-1.md"
+  },
+  {
+   "slug": "prayer-that-is-worship-20170325-6",
+   "lang": "ta",
+   "category": "dawah",
+   "title": "பிரார்த்தனை: அதுவே வணக்கமாகும்",
+   "summary": "இஸ்லாம் கற்றுக்கொடுத்த முறைப்படி வணக்க வழிபாடுகளை நிலைநிறுத்துவதே மனித வாழ்வின் முதன்மை நோக்கம் என்பதை விளக்கும் கட்டுரை. பிரார்த்தனையின் வணக்கத்தன்மை குறித்து குர்ஆன் வசனங்களின் அடிப்படையில் இது விரிவாகப் பேசுகிறது.",
+   "author": "മൂസ സ്വലാഹി, കാര",
+   "issue_date": "2017-03-25",
+   "html_url": "/ta/dawah/prayer-that-is-worship-20170325-6.html",
+   "md_url": "/ta/dawah/prayer-that-is-worship-20170325-6.md"
   },
   {
    "slug": "our-parents-20170325-4",
