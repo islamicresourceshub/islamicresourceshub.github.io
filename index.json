@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T04:49:25.853002+00:00",
+ "generated_at": "2026-08-28T04:50:14.542079+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 401,
+ "count": 402,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -814,6 +814,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/en/seerah/prophets-and-trials-20170325-7.html",
    "md_url": "/en/seerah/prophets-and-trials-20170325-7.md"
+  },
+  {
+   "slug": "good-intention-matters-most-20170325-8",
+   "lang": "en",
+   "category": "story",
+   "title": "A Good Heart is What Matters",
+   "summary": "This narrative piece, inspired by a friend's phone call during a busy workday, explores the profound impact of sincerity and good intentions in social service. It illustrates how collective effort and a genuine desire to help can transform lives.",
+   "author": "ഇബ്‌നു അലി എടത്തനാട്ടുകര",
+   "issue_date": "2017-03-25",
+   "html_url": "/en/story/good-intention-matters-most-20170325-8.html",
+   "md_url": "/en/story/good-intention-matters-most-20170325-8.md"
   },
   {
    "slug": "an-agenda-is-needed-during-vacation-too-20170325-1",
