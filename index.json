@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T10:53:46.237535+00:00",
+ "generated_at": "2026-08-28T10:54:00.615720+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 967,
+ "count": 968,
  "articles": [
   {
    "slug": "live-knowing-the-value-of-time-20170114-8",
@@ -8591,6 +8591,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/sw/family/don-t-worry-allah-is-with-you-20170114-10.html",
    "md_url": "/sw/family/don-t-worry-allah-is-with-you-20170114-10.md"
+  },
+  {
+   "slug": "how-to-be-a-good-parent-part-2-20170121-4",
+   "lang": "sw",
+   "category": "family",
+   "title": "Jinsi ya Kuwa Mzazi Mwema?",
+   "summary": "Sehemu ya pili ya mwongozo wa Kiislamu wa kuwa mzazi mwema. Inafafanua njia za kuishi kulingana na maagizo ya Mola wa walimwengu na kufikia mafanikio ya Peponi katika maisha ya baada ya kifo.",
+   "author": "അഷ്‌റഫ് എകരൂല്‍",
+   "issue_date": "2017-01-21",
+   "html_url": "/sw/family/how-to-be-a-good-parent-part-2-20170121-4.html",
+   "md_url": "/sw/family/how-to-be-a-good-parent-part-2-20170121-4.md"
   },
   {
    "slug": "islamic-parenting-significance-and-goals-part-1-20170114-4",
