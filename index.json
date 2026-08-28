@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T04:18:47.040692+00:00",
+ "generated_at": "2026-08-28T04:18:59.031080+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 293,
+ "count": 294,
  "articles": [
   {
    "slug": "our-parents-20170325-4",
@@ -1056,6 +1056,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/ja/family/our-parents-20170325-4.html",
    "md_url": "/ja/family/our-parents-20170325-4.md"
+  },
+  {
+   "slug": "mosque-construction-some-points-to-note-20170325-5",
+   "lang": "ja",
+   "category": "fiqh",
+   "title": "モスク建設：留意すべきいくつかの点",
+   "summary": "モスクはアッラーの家であるという原則に基づき、フィクフ（イスラーム法学）の観点からモスク建設のあり方を考察します。預言者（彼に平安あれ）がマディーナで実践したモデルを参考に、建設時に考慮すべき実用的なポイントを解説します。",
+   "author": "ഡോ. അബ്ദുറസാഖ് സുല്ലമി",
+   "issue_date": "2017-03-25",
+   "html_url": "/ja/fiqh/mosque-construction-some-points-to-note-20170325-5.html",
+   "md_url": "/ja/fiqh/mosque-construction-some-points-to-note-20170325-5.md"
   },
   {
    "slug": "control-your-mind-20170325-3",
