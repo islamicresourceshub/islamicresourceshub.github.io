@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T10:43:39.851327+00:00",
+ "generated_at": "2026-08-28T10:43:53.528011+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 925,
+ "count": 926,
  "articles": [
   {
    "slug": "live-knowing-the-value-of-time-20170114-8",
@@ -7634,6 +7634,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/si/opinion/elections-the-stand-must-be-well-considered-20170325-10.html",
    "md_url": "/si/opinion/elections-the-stand-must-be-well-considered-20170325-10.md"
+  },
+  {
+   "slug": "everyone-should-have-a-beard-20170121-3",
+   "lang": "si",
+   "category": "opinion",
+   "title": "සෑම කෙනෙකුටම රැවුලක් තිබිය යුතුය!",
+   "summary": "මෙම ලිපිය රැවුල වවන අයට එරෙහිව විවේචන එල්ල කරන ලේඛකයෙකුගේ ආකල්පය විග්‍රහ කරයි. සුන්නාහ්හි වැදගත්කම සහ එය විවේචනය කරන්නන්ගේ තර්කවල ඇති පරස්පරතා මෙහි සාකච්ඡා කෙරේ.",
+   "author": "അബൂമിസ്‌യാല്‍",
+   "issue_date": "2017-01-21",
+   "html_url": "/si/opinion/everyone-should-have-a-beard-20170121-3.html",
+   "md_url": "/si/opinion/everyone-should-have-a-beard-20170121-3.md"
   },
   {
    "slug": "india-which-way-forward-20170325-2",
