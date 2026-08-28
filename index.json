@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T09:36:20.165087+00:00",
+ "generated_at": "2026-08-28T09:36:40.114993+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 782,
+ "count": 783,
  "articles": [
   {
    "slug": "live-knowing-the-value-of-time-20170114-8",
@@ -8767,6 +8767,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/zh/opinion/terrorism-and-religious-freedom-20170114-1.html",
    "md_url": "/zh/opinion/terrorism-and-religious-freedom-20170114-1.md"
+  },
+  {
+   "slug": "uapa-wielding-sedition-law-20170114-9",
+   "lang": "zh",
+   "category": "opinion",
+   "title": "UAPA：挥舞着鞭子的叛国法",
+   "summary": "本文批判性地探讨了UAPA（非法活动预防法）及叛国法在当代的滥用现象。文章通过历史回顾与现实案例，揭示了这些法律如何被用作压制异见、剥夺公民自由的工具，并对司法公正提出了深刻质疑。",
+   "author": "പി.വി.എ പ്രിംറോസ്‌",
+   "issue_date": "2017-01-14",
+   "html_url": "/zh/opinion/uapa-wielding-sedition-law-20170114-9.html",
+   "md_url": "/zh/opinion/uapa-wielding-sedition-law-20170114-9.md"
   },
   {
    "slug": "praise-be-to-the-lord-of-the-worlds-20170325-9",
