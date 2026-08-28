@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T04:58:28.749568+00:00",
+ "generated_at": "2026-08-28T04:58:46.100610+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 432,
+ "count": 433,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -4884,6 +4884,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/vi/seerah/prophets-and-trials-20170325-7.html",
    "md_url": "/vi/seerah/prophets-and-trials-20170325-7.md"
+  },
+  {
+   "slug": "good-intention-matters-most-20170325-8",
+   "lang": "vi",
+   "category": "story",
+   "title": "Tấm lòng nhân hậu là điều quan trọng nhất",
+   "summary": "Đây là một câu chuyện bắt đầu từ cuộc điện thoại của một người bạn giữa lúc công việc bận rộn. Qua câu chuyện, tác giả làm nổi bật tầm quan trọng của tấm lòng nhân hậu và sự chân thành trong ý định giúp đỡ người khác.",
+   "author": "ഇബ്‌നു അലി എടത്തനാട്ടുകര",
+   "issue_date": "2017-03-25",
+   "html_url": "/vi/story/good-intention-matters-most-20170325-8.html",
+   "md_url": "/vi/story/good-intention-matters-most-20170325-8.md"
   },
   {
    "slug": "an-agenda-is-needed-during-vacation-too-20170325-1",
