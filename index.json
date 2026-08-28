@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T03:45:38.788065+00:00",
+ "generated_at": "2026-08-28T03:45:51.350075+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,8 +219,19 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 148,
+ "count": 149,
  "articles": [
+  {
+   "slug": "india-which-way-forward-20170325-2",
+   "lang": "am",
+   "category": "opinion",
+   "title": "ህንድ ወዴት እያመራች ነው?",
+   "summary": "ይህ ጽሑፍ የህንድን ወቅታዊ የፖለቲካ እና ማህበራዊ ሁኔታ የሚተነትን ነው። ደራሲው በአገሪቱ ሰላም ላይ ስጋት ላላቸው ሰዎች ጥያቄዎች ምላሽ ይሰጣል።",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2017-03-25",
+   "html_url": "/am/opinion/india-which-way-forward-20170325-2.html",
+   "md_url": "/am/opinion/india-which-way-forward-20170325-2.md"
+  },
   {
    "slug": "an-agenda-is-needed-during-vacation-too-20170325-1",
    "lang": "am",
