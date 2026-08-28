@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T03:52:22.217278+00:00",
+ "generated_at": "2026-08-28T03:52:31.648484+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 185,
+ "count": 186,
  "articles": [
   {
    "slug": "india-which-way-forward-20170325-2",
@@ -2233,6 +2233,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/uz/youth/an-agenda-is-needed-during-vacation-too-20170325-1.html",
    "md_url": "/uz/youth/an-agenda-is-needed-during-vacation-too-20170325-1.md"
+  },
+  {
+   "slug": "india-which-way-forward-20170325-2",
+   "lang": "vi",
+   "category": "opinion",
+   "title": "Ấn Độ đang đi về đâu?",
+   "summary": "Đây là một bài phân tích về tình hình chính trị và xã hội hiện nay tại Ấn Độ. Tác giả đưa ra câu trả lời cho những lo ngại của người dân về hòa bình và sự ổn định của đất nước.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2017-03-25",
+   "html_url": "/vi/opinion/india-which-way-forward-20170325-2.html",
+   "md_url": "/vi/opinion/india-which-way-forward-20170325-2.md"
   },
   {
    "slug": "an-agenda-is-needed-during-vacation-too-20170325-1",
