@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T03:43:12.065860+00:00",
+ "generated_at": "2026-08-28T03:43:21.214717+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 132,
+ "count": 133,
  "articles": [
   {
    "slug": "an-agenda-is-needed-during-vacation-too-20170325-1",
@@ -1672,6 +1672,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/pa/youth/an-agenda-is-needed-during-vacation-too-20170325-1.html",
    "md_url": "/pa/youth/an-agenda-is-needed-during-vacation-too-20170325-1.md"
+  },
+  {
+   "slug": "an-agenda-is-needed-during-vacation-too-20170325-1",
+   "lang": "ps",
+   "category": "youth",
+   "title": "د رخصتیو پر مهال هم اجنډا ته اړتیا شته",
+   "summary": "دا لیکنه د تعلیمي کال له پای ته رسیدو وروسته د رخصتیو په اهمیت بحث کوي. لیکوال ټینګار کوي چې د ماشومانو د وخت د ګټورې کارونې لپاره یو اسلامي مهالویش یا اجنډا اړینه ده.",
+   "author": "ഡോ. സി.എം സാബിര്‍ നവാസ്",
+   "issue_date": "2017-03-25",
+   "html_url": "/ps/youth/an-agenda-is-needed-during-vacation-too-20170325-1.html",
+   "md_url": "/ps/youth/an-agenda-is-needed-during-vacation-too-20170325-1.md"
   }
  ]
 }
