@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T08:40:50.323063+00:00",
+ "generated_at": "2026-08-28T08:41:04.941763+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 577,
+ "count": 578,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -5126,6 +5126,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/so/dawah/prayer-that-is-worship-20170325-6.html",
    "md_url": "/so/dawah/prayer-that-is-worship-20170325-6.md"
+  },
+  {
+   "slug": "islamic-parenting-significance-and-goals-part-1-20170114-4",
+   "lang": "so",
+   "category": "family",
+   "title": "Barbaarinta Islaamiga ah: Muhiimadda iyo Ujeeddada",
+   "summary": "Qaybtan koowaad waxay sharraxaysaa muhiimadda iyo ujeeddooyinka barbaarinta Islaamiga ah. Waa mawduuc khuseeya dhammaan waalidiinta, ha noqdaan kuwo aqoon leh ama kuwo kale.",
+   "author": "അഷ്‌റഫ്‌ എകരൂൽ",
+   "issue_date": "2017-01-14",
+   "html_url": "/so/family/islamic-parenting-significance-and-goals-part-1-20170114-4.html",
+   "md_url": "/so/family/islamic-parenting-significance-and-goals-part-1-20170114-4.md"
   },
   {
    "slug": "our-parents-20170325-4",
