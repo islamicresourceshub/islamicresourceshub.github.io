@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T04:30:44.643424+00:00",
+ "generated_at": "2026-08-28T04:31:01.482699+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 337,
+ "count": 338,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -2882,6 +2882,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/ms/youth/an-agenda-is-needed-during-vacation-too-20170325-1.html",
    "md_url": "/ms/youth/an-agenda-is-needed-during-vacation-too-20170325-1.md"
+  },
+  {
+   "slug": "prayer-that-is-worship-20170325-6",
+   "lang": "ne",
+   "category": "dawah",
+   "title": "प्रार्थना: यही इबादत (आराधना) है",
+   "summary": "यह लेख इस बात को स्थापित करता है कि इस्लाम द्वारा सिखाए गए तरीके से इबादत (आराधना) को कायम रखना ही जीवन का मुख्य उद्देश्य है। यह कुरान की आयतों के आधार पर प्रार्थना की आराधना-संबंधी प्रकृति की व्याख्या करता है।",
+   "author": "മൂസ സ്വലാഹി, കാര",
+   "issue_date": "2017-03-25",
+   "html_url": "/ne/dawah/prayer-that-is-worship-20170325-6.html",
+   "md_url": "/ne/dawah/prayer-that-is-worship-20170325-6.md"
   },
   {
    "slug": "our-parents-20170325-4",
