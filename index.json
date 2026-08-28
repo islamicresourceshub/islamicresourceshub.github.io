@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T04:19:38.467370+00:00",
+ "generated_at": "2026-08-28T04:19:51.198447+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 297,
+ "count": 298,
  "articles": [
   {
    "slug": "our-parents-20170325-4",
@@ -2618,6 +2618,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/ms/family/our-parents-20170325-4.html",
    "md_url": "/ms/family/our-parents-20170325-4.md"
+  },
+  {
+   "slug": "mosque-construction-some-points-to-note-20170325-5",
+   "lang": "ms",
+   "category": "fiqh",
+   "title": "Pembinaan Masjid: Beberapa Perkara yang Perlu Diberi Perhatian",
+   "summary": "Satu kajian fiqh yang berasaskan prinsip bahawa masjid adalah rumah Allah. Artikel ini menjelaskan perkara-perkara penting dalam pembinaan masjid dengan mengambil contoh daripada tindakan Nabi SAW sebaik tiba di Madinah.",
+   "author": "ഡോ. അബ്ദുറസാഖ് സുല്ലമി",
+   "issue_date": "2017-03-25",
+   "html_url": "/ms/fiqh/mosque-construction-some-points-to-note-20170325-5.html",
+   "md_url": "/ms/fiqh/mosque-construction-some-points-to-note-20170325-5.md"
   },
   {
    "slug": "control-your-mind-20170325-3",
