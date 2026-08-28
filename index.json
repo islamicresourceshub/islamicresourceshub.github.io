@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T09:02:46.439201+00:00",
+ "generated_at": "2026-08-28T09:03:11.116345+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 653,
+ "count": 654,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -5555,6 +5555,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/si/dawah/prayer-that-is-worship-20170325-6.html",
    "md_url": "/si/dawah/prayer-that-is-worship-20170325-6.md"
+  },
+  {
+   "slug": "religion-is-fearlessness-20170114-6",
+   "lang": "si",
+   "category": "dawah",
+   "title": "ආගම යනු අභීතභාවයයි",
+   "summary": "ලෝකයේ විවිධ ආගම්වල පසුබිම තුළ, ආගම විසින් කෙසේ අභීතභාවය සහ සුරක්ෂිතභාවය ලබා දෙන්නේද යන්න පිළිබඳව මෙම ලිපිය විස්තර කරයි. ඉස්ලාම් දහම තුළ අභීතභාවයට හිමිවන සුවිශේෂී ස්ථානය සහ එය සමාජයට ලබා දෙන ආරක්ෂාව පිළිබඳව මෙහි විග්‍රහ කෙරේ.",
+   "author": "ഉസ്മാൻ പാലക്കാഴി",
+   "issue_date": "2017-01-14",
+   "html_url": "/si/dawah/religion-is-fearlessness-20170114-6.html",
+   "md_url": "/si/dawah/religion-is-fearlessness-20170114-6.md"
   },
   {
    "slug": "islamic-parenting-significance-and-goals-part-1-20170114-4",
