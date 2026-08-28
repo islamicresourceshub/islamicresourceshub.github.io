@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T05:10:15.471120+00:00",
+ "generated_at": "2026-08-28T05:10:31.512283+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 469,
+ "count": 470,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -5082,6 +5082,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/ur/opinion/india-which-way-forward-20170325-2.html",
    "md_url": "/ur/opinion/india-which-way-forward-20170325-2.md"
+  },
+  {
+   "slug": "praise-be-to-the-lord-of-the-worlds-20170325-9",
+   "lang": "ur",
+   "category": "quran",
+   "title": "تمام تعریفیں جہانوں کے پالنہار کے لیے",
+   "summary": "یہ مضمون 'الحمد للہ رب العالمین' (قرآن 1:2) کی روشنی میں اللہ تعالیٰ کی حمد و ثنا کی اہمیت اور انسانی زندگی میں شکر گزاری کے مقام پر ایک علمی و روحانی مطالعہ ہے۔",
+   "author": "സി.മുഹമ്മദ് റാഫി ചെമ്പ്ര",
+   "issue_date": "2017-03-25",
+   "html_url": "/ur/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.html",
+   "md_url": "/ur/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.md"
   },
   {
    "slug": "prophets-and-trials-20170325-7",
