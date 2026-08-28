@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T09:57:14.291977+00:00",
+ "generated_at": "2026-08-28T09:57:30.736915+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 869,
+ "count": 870,
  "articles": [
   {
    "slug": "live-knowing-the-value-of-time-20170114-8",
@@ -2112,6 +2112,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/fa/opinion/uapa-wielding-sedition-law-20170114-9.html",
    "md_url": "/fa/opinion/uapa-wielding-sedition-law-20170114-9.md"
+  },
+  {
+   "slug": "when-national-tradition-is-questioned-20170121-2",
+   "lang": "fa",
+   "category": "opinion",
+   "title": "وقتی سنت ملی زیر سوال می‌رود",
+   "summary": "این مقاله به تحلیل بحث‌های پیرامون اظهارات پروفسور ام. جی. اس. نارایانان درباره ملی‌گرایی می‌پردازد و اهمیت سنت ملی و جایگاه آن در جامعه هند را بررسی می‌کند.",
+   "author": "ഉസ്മാൻ പാലക്കാഴി",
+   "issue_date": "2017-01-21",
+   "html_url": "/fa/opinion/when-national-tradition-is-questioned-20170121-2.html",
+   "md_url": "/fa/opinion/when-national-tradition-is-questioned-20170121-2.md"
   },
   {
    "slug": "who-should-leave-india-20170121-1",
