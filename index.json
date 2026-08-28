@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T03:53:19.312055+00:00",
+ "generated_at": "2026-08-28T03:53:28.008686+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 191,
+ "count": 192,
  "articles": [
   {
    "slug": "control-your-mind-20170325-3",
@@ -352,6 +352,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/bn/youth/an-agenda-is-needed-during-vacation-too-20170325-1.html",
    "md_url": "/bn/youth/an-agenda-is-needed-during-vacation-too-20170325-1.md"
+  },
+  {
+   "slug": "control-your-mind-20170325-3",
+   "lang": "bs",
+   "category": "hadith",
+   "title": "Kontrolišite svoj um",
+   "summary": "Studija zasnovana na hadisu Poslanika (s.a.v.s.) koji prenosi Ebu Hurejre (r.a.). Objašnjava poruku da je istinski snažan onaj ko vlada sobom kada ga obuzme srdžba.",
+   "author": "ഉസ്മാന്‍ പാലക്കാഴി",
+   "issue_date": "2017-03-25",
+   "html_url": "/bs/hadith/control-your-mind-20170325-3.html",
+   "md_url": "/bs/hadith/control-your-mind-20170325-3.md"
   },
   {
    "slug": "india-which-way-forward-20170325-2",
