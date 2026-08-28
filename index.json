@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T10:13:55.558972+00:00",
+ "generated_at": "2026-08-28T10:14:06.769833+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 903,
+ "count": 904,
  "articles": [
   {
    "slug": "live-knowing-the-value-of-time-20170114-8",
@@ -1243,6 +1243,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/bs/opinion/elections-the-stand-must-be-well-considered-20170325-10.html",
    "md_url": "/bs/opinion/elections-the-stand-must-be-well-considered-20170325-10.md"
+  },
+  {
+   "slug": "everyone-should-have-a-beard-20170121-3",
+   "lang": "bs",
+   "category": "opinion",
+   "title": "Svima treba brada!",
+   "summary": "Ovaj članak kritikuje pisca koji napada praksu puštanja brade, analizirajući važnost sunneta i stavove onih koji se tome protive. Autor brani islamsku tradiciju i ukazuje na nedosljednosti u argumentaciji kritičara.",
+   "author": "അബൂമിസ്‌യാല്‍",
+   "issue_date": "2017-01-21",
+   "html_url": "/bs/opinion/everyone-should-have-a-beard-20170121-3.html",
+   "md_url": "/bs/opinion/everyone-should-have-a-beard-20170121-3.md"
   },
   {
    "slug": "india-which-way-forward-20170325-2",
