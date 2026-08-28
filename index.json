@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T10:43:53.528011+00:00",
+ "generated_at": "2026-08-28T10:44:07.782171+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 926,
+ "count": 927,
  "articles": [
   {
    "slug": "live-knowing-the-value-of-time-20170114-8",
@@ -7865,6 +7865,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/so/opinion/elections-the-stand-must-be-well-considered-20170325-10.html",
    "md_url": "/so/opinion/elections-the-stand-must-be-well-considered-20170325-10.md"
+  },
+  {
+   "slug": "everyone-should-have-a-beard-20170121-3",
+   "lang": "so",
+   "category": "opinion",
+   "title": "Qof kastaa wuxuu u baahan yahay gadh!",
+   "summary": "Maqaalkan wuxuu dhaliilayaa qoraa si joogto ah u weerara dhaqanka gadh-kordhinta ee Islaamka. Wuxuu falanqeynayaa muhiimadda Sunnada iyo doodaha ay soo bandhigaan dadka ka soo horjeeda.",
+   "author": "അബൂമിസ്‌യാല്‍",
+   "issue_date": "2017-01-21",
+   "html_url": "/so/opinion/everyone-should-have-a-beard-20170121-3.html",
+   "md_url": "/so/opinion/everyone-should-have-a-beard-20170121-3.md"
   },
   {
    "slug": "india-which-way-forward-20170325-2",
