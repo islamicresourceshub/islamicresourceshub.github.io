@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T03:46:01.534449+00:00",
+ "generated_at": "2026-08-28T03:46:12.951140+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 150,
+ "count": 151,
  "articles": [
   {
    "slug": "india-which-way-forward-20170325-2",
@@ -264,6 +264,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/ar/youth/an-agenda-is-needed-during-vacation-too-20170325-1.html",
    "md_url": "/ar/youth/an-agenda-is-needed-during-vacation-too-20170325-1.md"
+  },
+  {
+   "slug": "india-which-way-forward-20170325-2",
+   "lang": "as",
+   "category": "opinion",
+   "title": "ভাৰত কোন দিশে?",
+   "summary": "এই প্ৰবন্ধটোত ভাৰতৰ বৰ্তমানৰ ৰাজনৈতিক আৰু সামাজিক পৰিস্থিতিৰ এক বিশ্লেষণ আগবঢ়োৱা হৈছে। দেশৰ শান্তি-শৃংখলাক লৈ চিন্তিত লোকসকলৰ প্ৰশ্নসমূহৰ উত্তৰ লেখকজনে ইয়াত প্ৰদান কৰিছে।",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2017-03-25",
+   "html_url": "/as/opinion/india-which-way-forward-20170325-2.html",
+   "md_url": "/as/opinion/india-which-way-forward-20170325-2.md"
   },
   {
    "slug": "an-agenda-is-needed-during-vacation-too-20170325-1",
