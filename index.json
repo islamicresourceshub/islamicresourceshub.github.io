@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T04:06:05.872218+00:00",
+ "generated_at": "2026-08-28T04:06:14.539119+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 237,
+ "count": 238,
  "articles": [
   {
    "slug": "control-your-mind-20170325-3",
@@ -2783,6 +2783,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/uz/youth/an-agenda-is-needed-during-vacation-too-20170325-1.html",
    "md_url": "/uz/youth/an-agenda-is-needed-during-vacation-too-20170325-1.md"
+  },
+  {
+   "slug": "control-your-mind-20170325-3",
+   "lang": "vi",
+   "category": "hadith",
+   "title": "Kiểm soát tâm trí",
+   "summary": "Một bài học dựa trên lời dạy của Tiên tri Muhammad (hòa bình và phước lành của Allah ở trên người) được thuật lại bởi Abu Hurairah (cầu mong Allah hài lòng với ông). Bài viết giải thích thông điệp rằng người thực sự mạnh mẽ là người biết kiểm soát tâm trí khi cơn giận ập đến.",
+   "author": "ഉസ്മാന്‍ പാലക്കാഴി",
+   "issue_date": "2017-03-25",
+   "html_url": "/vi/hadith/control-your-mind-20170325-3.html",
+   "md_url": "/vi/hadith/control-your-mind-20170325-3.md"
   },
   {
    "slug": "india-which-way-forward-20170325-2",
