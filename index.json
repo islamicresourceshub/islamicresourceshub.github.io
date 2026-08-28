@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T04:53:00.578075+00:00",
+ "generated_at": "2026-08-28T04:53:18.422381+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 412,
+ "count": 413,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -1782,6 +1782,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/ko/seerah/prophets-and-trials-20170325-7.html",
    "md_url": "/ko/seerah/prophets-and-trials-20170325-7.md"
+  },
+  {
+   "slug": "good-intention-matters-most-20170325-8",
+   "lang": "ko",
+   "category": "story",
+   "title": "선한 마음이 가장 중요합니다",
+   "summary": "바쁜 일상 속에서 친구의 전화 한 통으로 시작된 이야기입니다. 어려운 이웃을 돕기 위해 마음을 모으고, 선한 의도로 함께 행동할 때 어떤 변화가 일어나는지를 담고 있습니다.",
+   "author": "ഇബ്‌നു അലി എടത്തനാട്ടുകര",
+   "issue_date": "2017-03-25",
+   "html_url": "/ko/story/good-intention-matters-most-20170325-8.html",
+   "md_url": "/ko/story/good-intention-matters-most-20170325-8.md"
   },
   {
    "slug": "an-agenda-is-needed-during-vacation-too-20170325-1",
