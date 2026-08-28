@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T05:15:21.884060+00:00",
+ "generated_at": "2026-08-28T05:15:44.718891+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 482,
+ "count": 483,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -1353,6 +1353,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/gu/hadith/control-your-mind-20170325-3.html",
    "md_url": "/gu/hadith/control-your-mind-20170325-3.md"
+  },
+  {
+   "slug": "elections-the-stand-must-be-well-considered-20170325-10",
+   "lang": "gu",
+   "category": "opinion",
+   "title": "ચૂંટણી: અભિગમ સુવિચારિત હોવો જોઈએ",
+   "summary": "ધર્મનિરપેક્ષ લોકશાહી ભારતમાં મુસ્લિમોએ ચૂંટણી પ્રક્રિયામાં ભાગ લેવો જોઈએ કે નહીં તે પ્રશ્ન પર અહીં ચર્ચા કરવામાં આવી છે. રાષ્ટ્રના પુનઃનિર્માણમાં પોતાની ભૂમિકા ભજવવા અંગેનું આ એક વિશ્લેષણ છે.",
+   "author": "പി.എന്‍ അബ്ദുറഹ്മാന്‍",
+   "issue_date": "2017-03-25",
+   "html_url": "/gu/opinion/elections-the-stand-must-be-well-considered-20170325-10.html",
+   "md_url": "/gu/opinion/elections-the-stand-must-be-well-considered-20170325-10.md"
   },
   {
    "slug": "india-which-way-forward-20170325-2",
