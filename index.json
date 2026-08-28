@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T10:46:04.845495+00:00",
+ "generated_at": "2026-08-28T10:46:16.751200+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 936,
+ "count": 937,
  "articles": [
   {
    "slug": "live-knowing-the-value-of-time-20170114-8",
@@ -10175,6 +10175,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/vi/opinion/elections-the-stand-must-be-well-considered-20170325-10.html",
    "md_url": "/vi/opinion/elections-the-stand-must-be-well-considered-20170325-10.md"
+  },
+  {
+   "slug": "everyone-should-have-a-beard-20170121-3",
+   "lang": "vi",
+   "category": "opinion",
+   "title": "Ai cũng cần có râu!",
+   "summary": "Một bài viết phản biện lại những quan điểm sai lệch của một cây bút về việc để râu trong Hồi giáo. Bài viết phân tích tầm quan trọng của Sunnah và làm rõ những hiểu lầm về các lập luận chống lại việc để râu.",
+   "author": "അബൂമിസ്‌യാല്‍",
+   "issue_date": "2017-01-21",
+   "html_url": "/vi/opinion/everyone-should-have-a-beard-20170121-3.html",
+   "md_url": "/vi/opinion/everyone-should-have-a-beard-20170121-3.md"
   },
   {
    "slug": "india-which-way-forward-20170325-2",
