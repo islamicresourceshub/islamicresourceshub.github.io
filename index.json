@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T04:18:11.871449+00:00",
+ "generated_at": "2026-08-28T04:18:23.223898+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 290,
+ "count": 291,
  "articles": [
   {
    "slug": "our-parents-20170325-4",
@@ -891,6 +891,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/hi/family/our-parents-20170325-4.html",
    "md_url": "/hi/family/our-parents-20170325-4.md"
+  },
+  {
+   "slug": "mosque-construction-some-points-to-note-20170325-5",
+   "lang": "hi",
+   "category": "fiqh",
+   "title": "मस्जिद निर्माण: कुछ ध्यान देने योग्य बातें",
+   "summary": "यह लेख इस सिद्धांत पर आधारित है कि मस्जिदें अल्लाह के घर हैं। इसमें नबी (सल्ल.) द्वारा मदीना में मस्जिद निर्माण के आदर्श को सामने रखते हुए मस्जिद बनाने के दौरान ध्यान रखने योग्य व्यावहारिक और इस्लामी पहलुओं पर चर्चा की गई है।",
+   "author": "ഡോ. അബ്ദുറസാഖ് സുല്ലമി",
+   "issue_date": "2017-03-25",
+   "html_url": "/hi/fiqh/mosque-construction-some-points-to-note-20170325-5.html",
+   "md_url": "/hi/fiqh/mosque-construction-some-points-to-note-20170325-5.md"
   },
   {
    "slug": "control-your-mind-20170325-3",
