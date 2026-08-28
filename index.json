@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T04:50:14.542079+00:00",
+ "generated_at": "2026-08-28T04:50:31.647315+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 402,
+ "count": 403,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -902,6 +902,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/es/seerah/prophets-and-trials-20170325-7.html",
    "md_url": "/es/seerah/prophets-and-trials-20170325-7.md"
+  },
+  {
+   "slug": "good-intention-matters-most-20170325-8",
+   "lang": "es",
+   "category": "story",
+   "title": "La buena voluntad es lo más importante",
+   "summary": "Este relato, escrito en forma de historia, comienza con una llamada telefónica de un amigo en medio de una jornada laboral. A través de esta experiencia, se destaca la importancia de la buena voluntad y la pureza de intención al realizar actos de caridad.",
+   "author": "ഇബ്‌നു അലി എടത്തനാട്ടുകര",
+   "issue_date": "2017-03-25",
+   "html_url": "/es/story/good-intention-matters-most-20170325-8.html",
+   "md_url": "/es/story/good-intention-matters-most-20170325-8.md"
   },
   {
    "slug": "an-agenda-is-needed-during-vacation-too-20170325-1",
