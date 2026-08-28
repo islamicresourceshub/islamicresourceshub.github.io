@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T04:23:59.495450+00:00",
+ "generated_at": "2026-08-28T04:24:12.200768+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 316,
+ "count": 317,
  "articles": [
   {
    "slug": "our-parents-20170325-4",
@@ -3663,6 +3663,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/zh/family/our-parents-20170325-4.html",
    "md_url": "/zh/family/our-parents-20170325-4.md"
+  },
+  {
+   "slug": "mosque-construction-some-points-to-note-20170325-5",
+   "lang": "zh",
+   "category": "fiqh",
+   "title": "清真寺建设：需要注意的几个事项",
+   "summary": "本文基于“清真寺是真主之房”的原则，探讨了清真寺建设中的教法与实践问题。文章以先知（愿主福安之）在麦地那的建设模式为借鉴，详细阐述了在清真寺选址、功能布局、设施维护及教职人员待遇等方面应注意的要点。",
+   "author": "ഡോ. അബ്ദുറസാഖ് സുല്ലമി",
+   "issue_date": "2017-03-25",
+   "html_url": "/zh/fiqh/mosque-construction-some-points-to-note-20170325-5.html",
+   "md_url": "/zh/fiqh/mosque-construction-some-points-to-note-20170325-5.md"
   },
   {
    "slug": "control-your-mind-20170325-3",
