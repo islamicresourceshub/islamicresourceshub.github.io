@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T09:25:00.851983+00:00",
+ "generated_at": "2026-08-28T09:25:26.203399+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 747,
+ "count": 748,
  "articles": [
   {
    "slug": "live-knowing-the-value-of-time-20170114-8",
@@ -891,6 +891,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/bn/opinion/terrorism-and-religious-freedom-20170114-1.html",
    "md_url": "/bn/opinion/terrorism-and-religious-freedom-20170114-1.md"
+  },
+  {
+   "slug": "uapa-wielding-sedition-law-20170114-9",
+   "lang": "bn",
+   "category": "opinion",
+   "title": "ইউএপিএ (UAPA): লাঠি হাতে রাষ্ট্রদ্রোহের আইন",
+   "summary": "ইউএপিএ (UAPA) এবং রাষ্ট্রদ্রোহ আইনের অপব্যবহার নিয়ে একটি সমালোচনামূলক নিবন্ধ। এটি ন্যায়বিচার ও স্বাধীনতার মৌলিক প্রশ্নগুলো উত্থাপন করে।",
+   "author": "പി.വി.എ പ്രിംറോസ്‌",
+   "issue_date": "2017-01-14",
+   "html_url": "/bn/opinion/uapa-wielding-sedition-law-20170114-9.html",
+   "md_url": "/bn/opinion/uapa-wielding-sedition-law-20170114-9.md"
   },
   {
    "slug": "warning-signs-from-the-reconstruction-of-history-20170114-2",
