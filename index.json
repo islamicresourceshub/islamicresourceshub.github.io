@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T04:24:57.819189+00:00",
+ "generated_at": "2026-08-28T04:25:18.498243+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 319,
+ "count": 320,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -352,6 +352,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/ar/youth/an-agenda-is-needed-during-vacation-too-20170325-1.html",
    "md_url": "/ar/youth/an-agenda-is-needed-during-vacation-too-20170325-1.md"
+  },
+  {
+   "slug": "prayer-that-is-worship-20170325-6",
+   "lang": "as",
+   "category": "dawah",
+   "title": "প্ৰাৰ্থনা: সেয়াই উপাসনা",
+   "summary": "ইছলামে শিকাই দিয়া পদ্ধতি অনুসৰি উপাসনা কাৰ্যসমূহ পালন কৰাই যে মানৱ জীৱনৰ প্ৰধান লক্ষ্য, এই প্ৰবন্ধটোৱে তাৰ ওপৰত আলোকপাত কৰে। লগতে কোৰআনৰ আয়াতসমূহৰ আধাৰত প্ৰাৰ্থনাৰ উপাসনামূলক স্বৰূপ ব্যাখ্যা কৰা হৈছে।",
+   "author": "മൂസ സ്വലാഹി, കാര",
+   "issue_date": "2017-03-25",
+   "html_url": "/as/dawah/prayer-that-is-worship-20170325-6.html",
+   "md_url": "/as/dawah/prayer-that-is-worship-20170325-6.md"
   },
   {
    "slug": "our-parents-20170325-4",
