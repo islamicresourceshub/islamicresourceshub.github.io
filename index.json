@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T03:42:10.167042+00:00",
+ "generated_at": "2026-08-28T03:42:18.146040+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 127,
+ "count": 128,
  "articles": [
   {
    "slug": "an-agenda-is-needed-during-vacation-too-20170325-1",
@@ -1617,6 +1617,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/ml/youth/what-will-the-waste-do-20170114-5.html",
    "md_url": "/ml/youth/what-will-the-waste-do-20170114-5.md"
+  },
+  {
+   "slug": "an-agenda-is-needed-during-vacation-too-20170325-1",
+   "lang": "mr",
+   "category": "youth",
+   "title": "सुट्टीतही एक अजेंडा हवा",
+   "summary": "शैक्षणिक वर्ष संपल्यानंतर येणाऱ्या सुट्ट्यांचे महत्त्व या लेखात अधोरेखित केले आहे. मुलांचा वेळ अर्थपूर्ण आणि इस्लामिक मूल्यांशी सुसंगत पद्धतीने व्यतीत करण्यासाठी पालकांनी एक सुनियोजित अजेंडा तयार करणे आवश्यक असल्याचे लेखक सुचवतात.",
+   "author": "ഡോ. സി.എം സാബിര്‍ നവാസ്",
+   "issue_date": "2017-03-25",
+   "html_url": "/mr/youth/an-agenda-is-needed-during-vacation-too-20170325-1.html",
+   "md_url": "/mr/youth/an-agenda-is-needed-during-vacation-too-20170325-1.md"
   }
  ]
 }
