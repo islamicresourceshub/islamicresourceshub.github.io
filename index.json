@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T04:30:07.794033+00:00",
+ "generated_at": "2026-08-28T04:30:26.354700+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 335,
+ "count": 336,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -2750,6 +2750,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/ml/youth/what-will-the-waste-do-20170114-5.html",
    "md_url": "/ml/youth/what-will-the-waste-do-20170114-5.md"
+  },
+  {
+   "slug": "prayer-that-is-worship-20170325-6",
+   "lang": "mr",
+   "category": "dawah",
+   "title": "प्रार्थना: तीच उपासना आहे",
+   "summary": "इस्लामने शिकवल्याप्रमाणे उपासना पद्धतींचे जतन करणे हेच मानवी जीवनाचे मुख्य ध्येय आहे, हे स्पष्ट करणारा लेख. कुराणच्या वचनांच्या आधारे प्रार्थनेचे उपासनात्मक स्वरूप यात विशद केले आहे.",
+   "author": "മൂസ സ്വലാഹി, കാര",
+   "issue_date": "2017-03-25",
+   "html_url": "/mr/dawah/prayer-that-is-worship-20170325-6.html",
+   "md_url": "/mr/dawah/prayer-that-is-worship-20170325-6.md"
   },
   {
    "slug": "our-parents-20170325-4",
