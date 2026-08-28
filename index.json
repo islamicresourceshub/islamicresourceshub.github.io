@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T09:09:10.060846+00:00",
+ "generated_at": "2026-08-28T09:09:22.662374+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 676,
+ "count": 677,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -1947,6 +1947,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/gu/opinion/india-which-way-forward-20170325-2.html",
    "md_url": "/gu/opinion/india-which-way-forward-20170325-2.md"
+  },
+  {
+   "slug": "muslim-extremists-defame-islam-20170114-7",
+   "lang": "gu",
+   "category": "opinion",
+   "title": "મુસ્લિમ આતંકવાદીઓ જે ઇસ્લામને કલંકિત કરે છે",
+   "summary": "ઇતિહાસકાર એમ.જી.એસ. નારાયણન સાથેની મુલાકાતનો એક અંશ. આમાં ઇસ્લામ દ્વારા લાવવામાં આવેલા પરિવર્તનો, કેરળમાં મુસ્લિમ નવજાગરણ અને આતંકવાદ જેવા વિષયો પર ચર્ચા કરવામાં આવી છે.",
+   "author": "എം.ജി.എസ്‌ നാരായണൻ / റസ്റ്റം ഉസ്മാൻ",
+   "issue_date": "2017-01-14",
+   "html_url": "/gu/opinion/muslim-extremists-defame-islam-20170114-7.html",
+   "md_url": "/gu/opinion/muslim-extremists-defame-islam-20170114-7.md"
   },
   {
    "slug": "terrorism-and-religious-freedom-20170114-1",
