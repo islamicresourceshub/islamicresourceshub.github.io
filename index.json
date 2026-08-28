@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T05:06:02.076791+00:00",
+ "generated_at": "2026-08-28T05:06:18.394093+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 458,
+ "count": 459,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -3993,6 +3993,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/pt/opinion/india-which-way-forward-20170325-2.html",
    "md_url": "/pt/opinion/india-which-way-forward-20170325-2.md"
+  },
+  {
+   "slug": "praise-be-to-the-lord-of-the-worlds-20170325-9",
+   "lang": "pt",
+   "category": "quran",
+   "title": "Louvor ao Senhor dos Mundos",
+   "summary": "Um estudo baseado no versículo 'O louvor pertence a Allah, Senhor dos Mundos' (Alcorão 1:2). O texto explora a importância da gratidão a Allah como parte essencial da etiqueta humana.",
+   "author": "സി.മുഹമ്മദ് റാഫി ചെമ്പ്ര",
+   "issue_date": "2017-03-25",
+   "html_url": "/pt/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.html",
+   "md_url": "/pt/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.md"
   },
   {
    "slug": "prophets-and-trials-20170325-7",
