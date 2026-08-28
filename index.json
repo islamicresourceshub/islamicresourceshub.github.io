@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T10:56:10.050887+00:00",
+ "generated_at": "2026-08-28T10:56:23.822314+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 977,
+ "count": 978,
  "articles": [
   {
    "slug": "live-knowing-the-value-of-time-20170114-8",
@@ -275,6 +275,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/am/family/how-to-be-a-good-parent-part-2-20170121-4.html",
    "md_url": "/am/family/how-to-be-a-good-parent-part-2-20170121-4.md"
+  },
+  {
+   "slug": "husband-trapped-in-the-mobile-web-20170121-5",
+   "lang": "am",
+   "category": "family",
+   "title": "በሞባይል መረብ የተጠመደው ባለቤት",
+   "summary": "የሞባይል ስልክ ከመጠን በላይ መጠቀም በባለቤት እና በቤተሰብ ግንኙነት ላይ የሚያሳድረውን ተጽዕኖ የሚተነትን ጽሑፍ። ይህ የ'ሻንቲ ገሀም' (የሰላም ቤት) የቤተሰብ ምክር አምድ አካል ነው።",
+   "author": "പ്രൊഫ: ഹാരിസ്ബിൻ സലീം",
+   "issue_date": "2017-01-21",
+   "html_url": "/am/family/husband-trapped-in-the-mobile-web-20170121-5.html",
+   "md_url": "/am/family/husband-trapped-in-the-mobile-web-20170121-5.md"
   },
   {
    "slug": "our-parents-20170325-4",
