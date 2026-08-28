@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T09:39:52.760760+00:00",
+ "generated_at": "2026-08-28T09:40:11.576201+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 795,
+ "count": 796,
  "articles": [
   {
    "slug": "live-knowing-the-value-of-time-20170114-8",
@@ -2618,6 +2618,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/hi/dawah/religion-is-fearlessness-20170114-6.html",
    "md_url": "/hi/dawah/religion-is-fearlessness-20170114-6.md"
+  },
+  {
+   "slug": "don-t-worry-allah-is-with-you-20170114-10",
+   "lang": "hi",
+   "category": "family",
+   "title": "चिंता न करें, अल्लाह साथ है...",
+   "summary": "'शांति गृह' (शांति का घर) स्तंभ के माध्यम से, हम व्यक्तिगत और पारिवारिक समस्याओं से जूझ रहे लोगों को सांत्वना और समाधान प्रदान करते हैं।",
+   "author": "പ്രൊഫ: ഹാരിസ്ബിൻ സലീം",
+   "issue_date": "2017-01-14",
+   "html_url": "/hi/family/don-t-worry-allah-is-with-you-20170114-10.html",
+   "md_url": "/hi/family/don-t-worry-allah-is-with-you-20170114-10.md"
   },
   {
    "slug": "islamic-parenting-significance-and-goals-part-1-20170114-4",
