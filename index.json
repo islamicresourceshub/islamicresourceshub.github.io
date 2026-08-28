@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T03:58:14.367488+00:00",
+ "generated_at": "2026-08-28T03:58:30.904541+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 209,
+ "count": 210,
  "articles": [
   {
    "slug": "control-your-mind-20170325-3",
@@ -2145,6 +2145,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/or/youth/an-agenda-is-needed-during-vacation-too-20170325-1.html",
    "md_url": "/or/youth/an-agenda-is-needed-during-vacation-too-20170325-1.md"
+  },
+  {
+   "slug": "control-your-mind-20170325-3",
+   "lang": "pa",
+   "category": "hadith",
+   "title": "ਮਨ ਨੂੰ ਕਾਬੂ ਵਿੱਚ ਰੱਖੋ",
+   "summary": "ਅਬੂ ਹੁਰੈਰਾ (ਰਜ਼ਿ.) ਤੋਂ ਰਵਾਇਤ ਕੀਤੇ ਗਏ ਨਬੀ (ਸ.) ਦੇ ਹਦੀਸ ਦੇ ਆਧਾਰ 'ਤੇ ਇੱਕ ਅਧਿਐਨ। ਇਹ ਇਸ ਸੰਦੇਸ਼ ਨੂੰ ਸਪੱਸ਼ਟ ਕਰਦਾ ਹੈ ਕਿ ਅਸਲ ਤਾਕਤਵਰ ਉਹ ਹੈ ਜੋ ਗੁੱਸੇ ਦੇ ਸਮੇਂ ਆਪਣੇ ਮਨ ਨੂੰ ਕਾਬੂ ਵਿੱਚ ਰੱਖਦਾ ਹੈ।",
+   "author": "ഉസ്മാന്‍ പാലക്കാഴി",
+   "issue_date": "2017-03-25",
+   "html_url": "/pa/hadith/control-your-mind-20170325-3.html",
+   "md_url": "/pa/hadith/control-your-mind-20170325-3.md"
   },
   {
    "slug": "india-which-way-forward-20170325-2",
