@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T05:07:52.358790+00:00",
+ "generated_at": "2026-08-28T05:08:55.859258+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 464,
+ "count": 465,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -4587,6 +4587,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/ta/opinion/india-which-way-forward-20170325-2.html",
    "md_url": "/ta/opinion/india-which-way-forward-20170325-2.md"
+  },
+  {
+   "slug": "praise-be-to-the-lord-of-the-worlds-20170325-9",
+   "lang": "ta",
+   "category": "quran",
+   "title": "அகிலங்களின் இறைவனுக்குப் புகழ்",
+   "summary": "'அகிலங்கள் அனைத்தையும் படைத்துப் பரிபாலிக்கும் அல்லாஹ்விற்கே புகழனைத்தும்' (குர்ஆன் 1:2) என்ற வசனத்தை அடிப்படையாகக் கொண்ட ஆய்வு. மனிதன் கடைபிடிக்க வேண்டிய ஒழுக்கங்களில் அல்லாஹ்விற்குச் செய்யும் புகழுக்குரிய இடத்தைப் பற்றி இது விளக்குகிறது.",
+   "author": "സി.മുഹമ്മദ് റാഫി ചെമ്പ്ര",
+   "issue_date": "2017-03-25",
+   "html_url": "/ta/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.html",
+   "md_url": "/ta/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.md"
   },
   {
    "slug": "prophets-and-trials-20170325-7",
