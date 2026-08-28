@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T03:52:58.929987+00:00",
+ "generated_at": "2026-08-28T03:53:08.574590+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 189,
+ "count": 190,
  "articles": [
   {
    "slug": "control-your-mind-20170325-3",
@@ -286,6 +286,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/ar/youth/an-agenda-is-needed-during-vacation-too-20170325-1.html",
    "md_url": "/ar/youth/an-agenda-is-needed-during-vacation-too-20170325-1.md"
+  },
+  {
+   "slug": "control-your-mind-20170325-3",
+   "lang": "as",
+   "category": "hadith",
+   "title": "মনক নিয়ন্ত্ৰণ কৰক",
+   "summary": "আবু হুৰাইৰা (ৰা)-ৰ পৰা বৰ্ণিত নবী (ছ)ৰ এটি হাদীছৰ আধাৰত এই প্ৰবন্ধটো প্ৰস্তুত কৰা হৈছে। খং উঠিলে নিজৰ মনক নিয়ন্ত্ৰণ কৰিব পৰা ব্যক্তিয়েই যে প্ৰকৃত শক্তিশালী, সেই বাৰ্তাই ইয়াত ব্যাখ্যা কৰা হৈছে।",
+   "author": "ഉസ്മാന്‍ പാലക്കാഴി",
+   "issue_date": "2017-03-25",
+   "html_url": "/as/hadith/control-your-mind-20170325-3.html",
+   "md_url": "/as/hadith/control-your-mind-20170325-3.md"
   },
   {
    "slug": "india-which-way-forward-20170325-2",
