@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T10:46:58.082606+00:00",
+ "generated_at": "2026-08-28T10:47:18.092160+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 940,
+ "count": 941,
  "articles": [
   {
    "slug": "live-knowing-the-value-of-time-20170114-8",
@@ -748,6 +748,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/as/family/don-t-worry-allah-is-with-you-20170114-10.html",
    "md_url": "/as/family/don-t-worry-allah-is-with-you-20170114-10.md"
+  },
+  {
+   "slug": "how-to-be-a-good-parent-part-2-20170121-4",
+   "lang": "as",
+   "category": "family",
+   "title": "কেনেকৈ এজন ভাল অভিভাৱক হ’ব পাৰি?",
+   "summary": "ভাল অভিভাৱক হোৱাৰ বাবে ইছলামিক নিৰ্দেশনাসমূহৰ দ্বিতীয় খণ্ড। বিশ্বৰ প্ৰতিপালকৰ নিৰ্দেশনা অনুসৰি জীৱন অতিবাহিত কৰি পৰকালত জান্নাত লাভ কৰাৰ উপায়সমূহ ইয়াত বৰ্ণনা কৰা হৈছে।",
+   "author": "അഷ്‌റഫ് എകരൂല്‍",
+   "issue_date": "2017-01-21",
+   "html_url": "/as/family/how-to-be-a-good-parent-part-2-20170121-4.html",
+   "md_url": "/as/family/how-to-be-a-good-parent-part-2-20170121-4.md"
   },
   {
    "slug": "our-parents-20170325-4",
