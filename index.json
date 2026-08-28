@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T09:38:58.279662+00:00",
+ "generated_at": "2026-08-28T09:39:12.166606+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 792,
+ "count": 793,
  "articles": [
   {
    "slug": "live-knowing-the-value-of-time-20170114-8",
@@ -2024,6 +2024,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/fr/dawah/religion-is-fearlessness-20170114-6.html",
    "md_url": "/fr/dawah/religion-is-fearlessness-20170114-6.md"
+  },
+  {
+   "slug": "don-t-worry-allah-is-with-you-20170114-10",
+   "lang": "fr",
+   "category": "family",
+   "title": "Ne vous inquiétez pas, Allah est avec vous...",
+   "summary": "À travers la rubrique « Shanthi Geham » (La Maison de la Paix), nous offrons réconfort et solutions à ceux qui traversent des difficultés personnelles et familiales. Ce numéro aborde les défis liés à l'alcoolisme du conjoint et les enjeux de l'éducation des enfants pour les mères veuves.",
+   "author": "പ്രൊഫ: ഹാരിസ്ബിൻ സലീം",
+   "issue_date": "2017-01-14",
+   "html_url": "/fr/family/don-t-worry-allah-is-with-you-20170114-10.html",
+   "md_url": "/fr/family/don-t-worry-allah-is-with-you-20170114-10.md"
   },
   {
    "slug": "islamic-parenting-significance-and-goals-part-1-20170114-4",
