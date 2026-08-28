@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T10:12:40.180400+00:00",
+ "generated_at": "2026-08-28T10:13:41.129154+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 901,
+ "count": 902,
  "articles": [
   {
    "slug": "live-knowing-the-value-of-time-20170114-8",
@@ -770,6 +770,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/as/opinion/elections-the-stand-must-be-well-considered-20170325-10.html",
    "md_url": "/as/opinion/elections-the-stand-must-be-well-considered-20170325-10.md"
+  },
+  {
+   "slug": "everyone-should-have-a-beard-20170121-3",
+   "lang": "as",
+   "category": "opinion",
+   "title": "সকলোৰে বাবে দাড়ি প্ৰয়োজন!",
+   "summary": "এই প্ৰবন্ধটোৱে দাড়িৰ বিষয়ে সমালোচনা কৰা এজন লেখকৰ দৃষ্টিভংগীক প্ৰত্যাহ্বান জনায়। ই চুন্নাহৰ গুৰুত্ব আৰু ইয়াক বিৰোধিতা কৰাসকলৰ যুক্তিৰ এক বিশ্লেষণ আগবঢ়ায়।",
+   "author": "അബൂമിസ്‌യാല്‍",
+   "issue_date": "2017-01-21",
+   "html_url": "/as/opinion/everyone-should-have-a-beard-20170121-3.html",
+   "md_url": "/as/opinion/everyone-should-have-a-beard-20170121-3.md"
   },
   {
    "slug": "india-which-way-forward-20170325-2",
