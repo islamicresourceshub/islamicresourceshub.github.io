@@ -1,0 +1,79 @@
+---
+title: Apabila Tradisi Kebangsaan Dipersoalkan
+author: ഉസ്മാൻ പാലക്കാഴി
+lang: ms
+category: opinion
+kind: article
+tags:
+- nationalism
+- secularism
+- india
+- mgs-narayanan
+- current-affairs
+summary: Artikel ini menganalisis perdebatan yang dicetuskan oleh kenyataan Prof. M.G.S. Narayanan mengenai nasionalisme. Ia meneliti relevansi tradisi kebangsaan dan kedudukannya dalam masyarakat India.
+source:
+  magazine: Nerpatham Weekly
+  issue_date: '2017-01-21'
+  pdf_url: http://nerpatham.com/vol-no-01/images/archives/Nerpatham-2017Jan21.pdf
+date_processed: '2026-08-27T07:03:42Z'
+slug: when-national-tradition-is-questioned-20170121-2
+translation_of: when-national-tradition-is-questioned-20170121-2
+---
+
+![](/assets/when-national-tradition-is-questioned-20170121-2/21Jan17-01.jpg)
+
+Kenyataan yang dibuat oleh **Prof. M.G.S. Narayanan** dalam satu siri syarahan mengenai nasionalisme telah menjadi topik perbincangan yang hangat. Berikut adalah ringkasan pandangan beliau seperti yang dilaporkan oleh media:
+
+> Adalah satu mitos untuk mengatakan bahawa nasionalisme wujud di India sebelum kedatangan British. Nasionalisme hanya muncul apabila rakyat mula menentang mereka. Sebelum kedatangan British, tidak wujud sebuah negara bernama India. Apa yang wujud hanyalah konsep budaya India. Jika sejarah harus ditulis berdasarkan dokumen, maka tidak benar untuk mengatakan bahawa India mempunyai nasionalisme pada zaman dahulu dan ia dimusnahkan oleh British.
+
+![](/assets/when-national-tradition-is-questioned-20170121-2/21Jan17-02.jpg)
+
+> Terdapat dua elemen penting bagi nasionalisme. Pertama, perlunya seorang musuh. Kedua, persepsi tentang zaman kegemilangan masa lalu yang membangkitkan rasa bangga. Oleh itu, kesedaran nasional berkembang dengan melihat British sebagai musuh dan zaman Gupta sebagai zaman kegemilangan India. Apabila British menulis sejarah, mereka menggambarkan sejarah India sebagai satu siri pencerobohan asing. Untuk menangkisnya, sejarawan India mencipta sejarah nasional. Nasionalisme di India terbentuk pada akhir abad ke-19 apabila rakyat mula menentang British. Adalah satu kebodohan untuk mempercayai bahawa terdapat budaya rohani dan nasionalisme rohani dalam *Arsha Bharata* (India purba). Dalam sistem masyarakat yang kompleks itu, tiada ruang untuk nasionalisme. Empayar Maurya atau Gupta tidak boleh dianggap sebagai negara moden. Mereka yang membawa nasionalisme baharu hari ini mendakwa bahawa **Valmiki Ramayana** adalah sejarah sebenar Sri Rama. Nenek moyang kita tidak mempunyai tanggapan sedemikian. Valmiki dipanggil sebagai *Adikavi* (penyair pertama), bukan *Adi Itihasakar* (sejarawan pertama). Usaha untuk membuktikan Sri Rama sebagai tokoh sejarah sebenar telah berlangsung selama tiga puluh tahun. Ia telah sampai ke tahap di mana matlamat patriotisme dianggap sebagai menerima **Hindutva**. Perkataan 'Hindu' tidak mempunyai kaitan dengan agama. Pada masa itu, terdapat pelbagai kasta dan kumpulan di sini...
+
+## Keputusan Akhir Kes Shah Bano Begum
+
+Apabila Mahkamah Agung mencadangkan pelaksanaan kod sivil seragam semasa menyampaikan keputusan akhir **kes Shah Bano Begum** pada 23 April 1985, cadangan ini secara semula jadi disambut oleh golongan **Hindutva**. Mereka mula menyebarkan propaganda bahawa undang-undang peribadi Islam tidak mempunyai kesaksamaan gender dan bahawa umat Islam India terasing daripada nasionalisme.
+
+## Falsafah Islamofobia
+
+Dengan itu, minda biasa dalam diri seorang nasionalis tegar mula bergerak dan berfikir berdasarkan dorongan ketakutan terhadap Islam. Mereka yang mengaitkan keamatan nasionalisme India dengan ideologi Hindutva mula bergantung kepada falsafah Islamofobia.
+
+> "Sangh Parivar telah pun menyebarkan idea di sini bahawa 'jika anda seorang nasionalis, sudah tentu anda tidak boleh tidak menjadi Hindu atau tidak membenci Islam dan umat Islam'."
+
+## Tahap di mana Nasionalisme Berinteraksi dengan Nasionalisme Sebenar
+
+Kempen ini telah mempengaruhi dan menyesatkan masyarakat India pada tahap tertentu. Pada masa yang sama, nasionalisme palsu yang membawa benih ketakutan, kerana tidak mampu berdialog secara ideologi dengan arus nasionalisme sekular yang sebenar, kadangkala terpaksa berundur.
+
+Terdapat beberapa tahap di mana nasionalisme yang dibayangkan oleh golongan Hindutva berinteraksi dengan nasionalisme yang sebenar:
+
+1. Pertama, nasionalisme Hindutva mengideologikan kebencian terhadap agama Islam dan kemasyarakatan Muslim.
+2. Kedua, nasionalisme Hindutva bergantung kepada emosi yang lemah.
+3. Ketiga, ia membawa kepada perpecahan masyarakat dan bukannya pemerkasaan.
+
+Sebaliknya, nasionalisme yang sebenar tidak mengambil pendirian ideologi yang memihak atau menentang mana-mana agama. Malah, ia menggesa masyarakat untuk berfikir dengan kesedaran realiti yang kuat, mengetepikan emosi yang lemah, dan pada masa yang sama menyatukan masyarakat melangkaui segala bentuk pemikiran yang memecahbelahkan.
+
+## Sejarah Palsu sebagai Alat Penting
+
+Pada setiap zaman, sejarah palsu telah digunakan sebagai alat penting dalam menyebarkan ketakutan terhadap Islam. Pembohongan yang bertopengkan sejarah yang dilepaskan oleh gerakan politik Hindutva selepas fasa pembahagian (partition) terutamanya menyalahkan Islam dan umat Islam. Dalam tuduhan tersebut, terdapat banyak cerita yang dikaitkan dengan pemerintah Muslim, Sultan, dan pemerintah Muslim di pelbagai negeri pada abad-abad yang lalu. Sesetengah pihak menyebarkan bahawa satu-satunya perkara yang dilakukan oleh semua pemerintah bernama Muslim yang memerintah di pelbagai tempat di India selama berabad-abad adalah membunuh orang Hindu, memusnahkan kuil, dan melenyapkan sisa-sisa tradisi negara ini. Kebencian khusus yang lahir daripada ketakutan sosial golongan atasan Hindu kemudiannya berkembang sehingga ke tahap penciptaan sejarah tiruan. Kebencian agama yang tumbuh di sebalik nasionalisme pada abad ke-19 menjadi latar belakang yang mudah untuk penyebaran cerita palsu dan khabar angin. Sebelum itu, kempen berasaskan Hindutva yang muncul di pelbagai bahagian utara India pada abad ke-16, 17, dan 18 telah menyediakan latar belakang dan hujah ideologi untuk kebencian terhadap Islam dan Muslim.
+
+## Perpecahan di Sebalik Nasionalisme
+
+Idea perpecahan mula dibincangkan di sebalik topeng nasionalisme. Walaupun dalam sejarah India kita melihat nasionalis tegar berubah menjadi penentang perpecahan yang hebat, hakikatnya asal usul hujah perpecahan itu datang daripada pemikiran nasionalis tegar atau nasionalis budaya.
+
+## Kempen Kebencian Islam pada 1920-an
+
+Hujah perpecahan yang dijadikan 'kad truf' oleh politik Hindutva menggunakan tenaga Islamofobia. Beberapa perkara yang disebarkan pada tahun 1920-an adalah seperti berikut:
+
+> "Budaya India yang berusia puluhan ribu tahun dan sisa-sisanya telah dimusnahkan oleh orang Islam yang tiba di India 1,000 tahun yang lalu. Orang Islam memperoleh kuasa di sini dengan menggunakan pedang dan ugutan, dan mereka menindas orang India termasuk golongan atasan. Islam adalah falsafah yang sangat berbahaya dan menakutkan. Ia adalah agama yang memupuk kecenderungan ganas dan keganasan. Tanpa mengusir orang Islam dari India, kehidupan yang aman tidak mungkin dapat dicapai oleh sesiapa pun di sini."
+
+## Sanggahan M.G.S.
+
+Hujah yang disanggah oleh M.G.S. Narayanan adalah hujah mereka yang mengatakan bahawa nasionalisme India adalah nasionalisme Hindu dan ia mempunyai tradisi yang berusia puluhan ribu tahun.
+
+Sejarah menunjukkan bahawa perpecahan sosial dan sistem kasta (*Chaturvarna*) yang wujud selama beribu-ribu tahun telah menyebabkan perpecahan yang mendalam di kalangan rakyat, dan bukannya menyatukan orang Hindu di bawah satu payung nasionalisme. Perpecahan inilah yang menjadi punca pencerobohan asing yang berterusan. Adakah pemikiran nasional yang 'mempunyai tradisi puluhan ribu tahun' mampu menangkis serangan sedemikian? Tidak, malah hakikatnya terdapat orang di dalam negara yang memberikan sokongan dan bantuan kepada penceroboh! Jayachand, seorang raja Hindu, menjemput Muhammad Ghori untuk memerangi Prithviraj, seorang raja Rajput! Apabila Shivaji berperang untuk 'pembebasan orang Hindu', raja-raja Rajput di Maharashtra berdiri di pihak Maharaja Mughal! Apabila fakta sejarah seperti ini meletakkan nasionalisme Hindu di kandang tertuduh, pemerhatian M.G.S. menjadi sangat relevan.
+
+Masalah yang dicipta oleh penyokong perkauman di India adalah sebahagian daripada usaha jahat untuk mengekalkan luka India dengan kesakitan yang membara. Dapat dilihat bahawa beberapa kuasa jahat sedang berusaha keras untuk menjejaskan keamanan dan ketenteraman negara dengan sentiasa meletakkan masyarakat Muslim di bawah bayang-bayang syak wasangka. Umat Islam diserang dengan tuduhan yang kejam.
+
+## Nasionalisme Berasaskan Perkauman Hindu
+
+Kerajaan **RSS** yang bergerak dengan nasionalisme berasaskan perkauman Hindu sebenarnya kini memegang kuasa di India. Apabila kerajaan **NDA** berkuasa di pusat pada tahun 2000, *Sannyasi Sansad* yang bersidang di Lucknow menuntut agar Perlembagaan dipinda mengikut arahan **Manusmriti** untuk membatalkan tempahan (reservation). Berdasarkan ini, usaha untuk meminda Perlembagaan dan mengubah Perlembagaan mengikut konsep negara Hindu sedang diusahakan...
