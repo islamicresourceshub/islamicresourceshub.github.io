@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T05:35:10.650462+00:00",
+ "generated_at": "2026-08-28T05:35:33.814191+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 499,
+ "count": 500,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -4565,6 +4565,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/so/hadith/control-your-mind-20170325-3.html",
    "md_url": "/so/hadith/control-your-mind-20170325-3.md"
+  },
+  {
+   "slug": "elections-the-stand-must-be-well-considered-20170325-10",
+   "lang": "so",
+   "category": "opinion",
+   "title": "Doorashada: Waa in mowqifku noqdaa mid si wanaagsan loo fikiray",
+   "summary": "Maqaalkani wuxuu ka doodayaa in Muslimiinta ku nool waddanka Hindiya ee dimuqraadiga ah ay tahay inay ka qayb qaataan geeddi-socodka doorashada. Waa falanqayn ku saabsan doorka ay Muslimiintu ku leeyihiin dib-u-dhiska qaranka iyadoo la raacayo mabaadi'da Islaamka.",
+   "author": "പി.എന്‍ അബ്ദുറഹ്മാന്‍",
+   "issue_date": "2017-03-25",
+   "html_url": "/so/opinion/elections-the-stand-must-be-well-considered-20170325-10.html",
+   "md_url": "/so/opinion/elections-the-stand-must-be-well-considered-20170325-10.md"
   },
   {
    "slug": "india-which-way-forward-20170325-2",
