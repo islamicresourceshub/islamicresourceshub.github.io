@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T03:56:14.565184+00:00",
+ "generated_at": "2026-08-28T03:56:41.776089+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 204,
+ "count": 205,
  "articles": [
   {
    "slug": "control-your-mind-20170325-3",
@@ -781,6 +781,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/kn/youth/an-agenda-is-needed-during-vacation-too-20170325-1.html",
    "md_url": "/kn/youth/an-agenda-is-needed-during-vacation-too-20170325-1.md"
+  },
+  {
+   "slug": "control-your-mind-20170325-3",
+   "lang": "ko",
+   "category": "hadith",
+   "title": "마음을 다스리십시오",
+   "summary": "아부 후라이라(라)가 전한 예언자(ﷺ)의 하디스를 바탕으로 한 연구입니다. 화가 날 때 마음을 다스리는 사람이 진정으로 강한 사람이라는 메시지를 설명합니다.",
+   "author": "ഉസ്മാന്‍ പാലക്കാഴി",
+   "issue_date": "2017-03-25",
+   "html_url": "/ko/hadith/control-your-mind-20170325-3.html",
+   "md_url": "/ko/hadith/control-your-mind-20170325-3.md"
   },
   {
    "slug": "india-which-way-forward-20170325-2",
