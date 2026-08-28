@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T03:45:30.529025+00:00",
+ "generated_at": "2026-08-28T03:45:38.788065+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 147,
+ "count": 148,
  "articles": [
   {
    "slug": "an-agenda-is-needed-during-vacation-too-20170325-1",
@@ -1837,6 +1837,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/vi/youth/an-agenda-is-needed-during-vacation-too-20170325-1.html",
    "md_url": "/vi/youth/an-agenda-is-needed-during-vacation-too-20170325-1.md"
+  },
+  {
+   "slug": "an-agenda-is-needed-during-vacation-too-20170325-1",
+   "lang": "zh",
+   "category": "youth",
+   "title": "假期也需要一份议程",
+   "summary": "本文探讨了学年结束后假期的重要性。作者指出，家长需要制定一份伊斯兰议程，以帮助孩子们在假期中合理安排时间，实现身心平衡。",
+   "author": "ഡോ. സി.എം സാബിര്‍ നവാസ്",
+   "issue_date": "2017-03-25",
+   "html_url": "/zh/youth/an-agenda-is-needed-during-vacation-too-20170325-1.html",
+   "md_url": "/zh/youth/an-agenda-is-needed-during-vacation-too-20170325-1.md"
   }
  ]
 }
