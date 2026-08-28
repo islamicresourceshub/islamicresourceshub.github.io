@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T04:33:06.211741+00:00",
+ "generated_at": "2026-08-28T04:33:25.918998+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 345,
+ "count": 346,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -3410,6 +3410,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/so/youth/an-agenda-is-needed-during-vacation-too-20170325-1.html",
    "md_url": "/so/youth/an-agenda-is-needed-during-vacation-too-20170325-1.md"
+  },
+  {
+   "slug": "prayer-that-is-worship-20170325-6",
+   "lang": "sq",
+   "category": "dawah",
+   "title": "Lutja: Kjo është adhurimi",
+   "summary": "Ky artikull argumenton se qëllimi kryesor i jetës njerëzore është ruajtja e akteve të adhurimit sipas mësimeve të Islamit. Ai shpjegon natyrën adhuruese të lutjes (duasë) bazuar në vargjet kuranore.",
+   "author": "മൂസ സ്വലാഹി, കാര",
+   "issue_date": "2017-03-25",
+   "html_url": "/sq/dawah/prayer-that-is-worship-20170325-6.html",
+   "md_url": "/sq/dawah/prayer-that-is-worship-20170325-6.md"
   },
   {
    "slug": "our-parents-20170325-4",
