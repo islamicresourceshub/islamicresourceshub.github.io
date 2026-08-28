@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T04:10:07.124153+00:00",
+ "generated_at": "2026-08-28T04:10:20.349302+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 256,
+ "count": 257,
  "articles": [
   {
    "slug": "our-parents-20170325-4",
@@ -968,6 +968,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/kn/youth/an-agenda-is-needed-during-vacation-too-20170325-1.html",
    "md_url": "/kn/youth/an-agenda-is-needed-during-vacation-too-20170325-1.md"
+  },
+  {
+   "slug": "our-parents-20170325-4",
+   "lang": "ko",
+   "category": "family",
+   "title": "우리의 부모님",
+   "summary": "알라의 큰 은혜 중 하나인 부모님에 대한 고찰입니다. 인간으로 태어난 것 자체가 큰 축복임을 깨닫고, 부모님을 공경해야 할 우리의 의무와 그 중요성에 대해 다룹니다.",
+   "author": "കെ.സഫ്‌വാന്‍ മുഹമ്മദ്, ആമയൂര്‍",
+   "issue_date": "2017-03-25",
+   "html_url": "/ko/family/our-parents-20170325-4.html",
+   "md_url": "/ko/family/our-parents-20170325-4.md"
   },
   {
    "slug": "control-your-mind-20170325-3",
