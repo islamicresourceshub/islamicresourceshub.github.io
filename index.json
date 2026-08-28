@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T04:20:21.366288+00:00",
+ "generated_at": "2026-08-28T04:20:35.216531+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 300,
+ "count": 301,
  "articles": [
   {
    "slug": "our-parents-20170325-4",
@@ -2783,6 +2783,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/pa/family/our-parents-20170325-4.html",
    "md_url": "/pa/family/our-parents-20170325-4.md"
+  },
+  {
+   "slug": "mosque-construction-some-points-to-note-20170325-5",
+   "lang": "pa",
+   "category": "fiqh",
+   "title": "ਮਸਜਿਦ ਦੀ ਉਸਾਰੀ: ਕੁਝ ਜ਼ਰੂਰੀ ਨੁਕਤੇ",
+   "summary": "ਇਹ ਲੇਖ ਮਸਜਿਦਾਂ ਨੂੰ ਅੱਲ੍ਹਾ ਦੇ ਘਰ ਮੰਨਦੇ ਹੋਏ, ਉਨ੍ਹਾਂ ਦੀ ਉਸਾਰੀ ਅਤੇ ਪ੍ਰਬੰਧਨ ਨਾਲ ਜੁੜੇ ਫਿਕਹੀ (ਇਸਲਾਮੀ ਕਾਨੂੰਨੀ) ਪਹਿਲੂਆਂ 'ਤੇ ਚਾਨਣਾ ਪਾਉਂਦਾ ਹੈ। ਨਬੀ (ਸ.) ਦੀ ਮਦੀਨਾ ਦੀ ਮਿਸਾਲ ਨੂੰ ਸਾਹਮਣੇ ਰੱਖਦਿਆਂ, ਇਹ ਲੇਖ ਮਸਜਿਦਾਂ ਨੂੰ ਸਿਰਫ਼ ਇਬਾਦਤਗਾਹ ਹੀ ਨਹੀਂ, ਸਗੋਂ ਸਮਾਜਿਕ ਗਤੀਵਿਧੀਆਂ ਦੇ ਕੇਂਦਰ ਵਜੋਂ ਵਿਕਸਿਤ ਕਰਨ ਦੀ ਲੋੜ 'ਤੇ ਜ਼ੋਰ ਦਿੰਦਾ ਹੈ।",
+   "author": "ഡോ. അബ്ദുറസാഖ് സുല്ലമി",
+   "issue_date": "2017-03-25",
+   "html_url": "/pa/fiqh/mosque-construction-some-points-to-note-20170325-5.html",
+   "md_url": "/pa/fiqh/mosque-construction-some-points-to-note-20170325-5.md"
   },
   {
    "slug": "control-your-mind-20170325-3",
