@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T05:42:20.838201+00:00",
+ "generated_at": "2026-08-28T05:42:37.959473+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 519,
+ "count": 520,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -1243,6 +1243,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/fa/opinion/india-which-way-forward-20170325-2.html",
    "md_url": "/fa/opinion/india-which-way-forward-20170325-2.md"
+  },
+  {
+   "slug": "terrorism-and-religious-freedom-20170114-1",
+   "lang": "fa",
+   "category": "opinion",
+   "title": "شکار تروریسم و آزادی مذهب",
+   "summary": "این مقاله با این ایده آغاز می‌شود که تروریسم یک انحراف روانی است که آرامش هر جامعه‌ای را بر هم می‌زند. این مقاله به بررسی رابطه بین تروریسم و آزادی مذهب می‌پردازد.",
+   "author": "ഡോ. സി.എം സാബിർ നവാസ്‌",
+   "issue_date": "2017-01-14",
+   "html_url": "/fa/opinion/terrorism-and-religious-freedom-20170114-1.html",
+   "md_url": "/fa/opinion/terrorism-and-religious-freedom-20170114-1.md"
   },
   {
    "slug": "praise-be-to-the-lord-of-the-worlds-20170325-9",
