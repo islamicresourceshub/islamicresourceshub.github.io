@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T05:45:02.570974+00:00",
+ "generated_at": "2026-08-28T05:45:21.369050+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 530,
+ "count": 531,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -3916,6 +3916,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/ms/opinion/india-which-way-forward-20170325-2.html",
    "md_url": "/ms/opinion/india-which-way-forward-20170325-2.md"
+  },
+  {
+   "slug": "terrorism-and-religious-freedom-20170114-1",
+   "lang": "ms",
+   "category": "opinion",
+   "title": "Pemburuan Pengganas dan Kebebasan Beragama",
+   "summary": "Artikel ini bermula dengan idea bahawa keganasan adalah kecelaruan mental yang mengganggu ketenteraman mana-mana masyarakat. Ia menganalisis hubungan antara keganasan dan kebebasan beragama.",
+   "author": "ഡോ. സി.എം സാബിർ നവാസ്‌",
+   "issue_date": "2017-01-14",
+   "html_url": "/ms/opinion/terrorism-and-religious-freedom-20170114-1.html",
+   "md_url": "/ms/opinion/terrorism-and-religious-freedom-20170114-1.md"
   },
   {
    "slug": "praise-be-to-the-lord-of-the-worlds-20170325-9",
