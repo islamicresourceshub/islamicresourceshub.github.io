@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T05:32:07.636534+00:00",
+ "generated_at": "2026-08-28T05:32:27.164839+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 490,
+ "count": 491,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -3575,6 +3575,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/mr/hadith/control-your-mind-20170325-3.html",
    "md_url": "/mr/hadith/control-your-mind-20170325-3.md"
+  },
+  {
+   "slug": "elections-the-stand-must-be-well-considered-20170325-10",
+   "lang": "mr",
+   "category": "opinion",
+   "title": "निवडणूक: दृष्टिकोन सुविचारित असावा",
+   "summary": "धर्मनिरपेक्ष लोकशाही भारतात मुस्लिमांनी निवडणूक प्रक्रियेत सहभागी व्हावे का, या प्रश्नावर येथे चर्चा केली आहे. राष्ट्र उभारणीत आपली भूमिका बजावण्याबाबतचे हे एक विश्लेषण आहे.",
+   "author": "പി.എന്‍ അബ്ദുറഹ്മാന്‍",
+   "issue_date": "2017-03-25",
+   "html_url": "/mr/opinion/elections-the-stand-must-be-well-considered-20170325-10.html",
+   "md_url": "/mr/opinion/elections-the-stand-must-be-well-considered-20170325-10.md"
   },
   {
    "slug": "india-which-way-forward-20170325-2",
