@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T03:44:41.756927+00:00",
+ "generated_at": "2026-08-28T03:44:50.903777+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 142,
+ "count": 143,
  "articles": [
   {
    "slug": "an-agenda-is-needed-during-vacation-too-20170325-1",
@@ -1782,6 +1782,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/th/youth/an-agenda-is-needed-during-vacation-too-20170325-1.html",
    "md_url": "/th/youth/an-agenda-is-needed-during-vacation-too-20170325-1.md"
+  },
+  {
+   "slug": "an-agenda-is-needed-during-vacation-too-20170325-1",
+   "lang": "tl",
+   "category": "youth",
+   "title": "Kailangan ng Agenda; Kahit sa Bakasyon",
+   "summary": "Ang artikulong ito ay tumatalakay sa kahalagahan ng bakasyon pagkatapos ng taong panuruan. Binibigyang-diin ng may-akda ang pangangailangan para sa isang Islamikong agenda upang magamit nang kapaki-pakinabang ang oras ng mga bata.",
+   "author": "ഡോ. സി.എം സാബിര്‍ നവാസ്",
+   "issue_date": "2017-03-25",
+   "html_url": "/tl/youth/an-agenda-is-needed-during-vacation-too-20170325-1.html",
+   "md_url": "/tl/youth/an-agenda-is-needed-during-vacation-too-20170325-1.md"
   }
  ]
 }
