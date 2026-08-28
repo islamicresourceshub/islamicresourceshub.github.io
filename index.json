@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T09:32:55.238744+00:00",
+ "generated_at": "2026-08-28T09:33:11.729261+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 771,
+ "count": 772,
  "articles": [
   {
    "slug": "live-knowing-the-value-of-time-20170114-8",
@@ -6710,6 +6710,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/so/opinion/terrorism-and-religious-freedom-20170114-1.html",
    "md_url": "/so/opinion/terrorism-and-religious-freedom-20170114-1.md"
+  },
+  {
+   "slug": "uapa-wielding-sedition-law-20170114-9",
+   "lang": "so",
+   "category": "opinion",
+   "title": "UAPA: Sharciga Khiyaanada Qaran ee loo adeegsaday karbaash",
+   "summary": "Maqaalkan dhaliilaha ah wuxuu baadhayaa ku-takrifalka sharciga UAPA iyo sharciga khiyaanada qaran ee dalka Hindiya. Wuxuu su'aal ka keenayaa caddaaladda iyo xorriyadda shakhsiga ah ee ay saameeyeen sharciyadan adag.",
+   "author": "പി.വി.എ പ്രിംറോസ്‌",
+   "issue_date": "2017-01-14",
+   "html_url": "/so/opinion/uapa-wielding-sedition-law-20170114-9.html",
+   "md_url": "/so/opinion/uapa-wielding-sedition-law-20170114-9.md"
   },
   {
    "slug": "praise-be-to-the-lord-of-the-worlds-20170325-9",
