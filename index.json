@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T04:42:56.269295+00:00",
+ "generated_at": "2026-08-28T04:43:15.023331+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 378,
+ "count": 379,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -3311,6 +3311,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/pa/opinion/india-which-way-forward-20170325-2.html",
    "md_url": "/pa/opinion/india-which-way-forward-20170325-2.md"
+  },
+  {
+   "slug": "prophets-and-trials-20170325-7",
+   "lang": "pa",
+   "category": "seerah",
+   "title": "ਪੈਗੰਬਰ ਅਤੇ ਅਜ਼ਮਾਇਸ਼ਾਂ",
+   "summary": "ਮਨੁੱਖਤਾ ਨੂੰ ਸਿੱਧਾ ਰਾਹ ਦਿਖਾਉਣ ਲਈ ਭੇਜੇ ਗਏ ਪੈਗੰਬਰਾਂ ਨੇ ਵੱਖ-ਵੱਖ ਤਰ੍ਹਾਂ ਦੀਆਂ ਅਜ਼ਮਾਇਸ਼ਾਂ ਦਾ ਸਾਹਮਣਾ ਕੀਤਾ। ਇਹ ਲੇਖ ਦੱਸਦਾ ਹੈ ਕਿ ਕਿਵੇਂ ਇਹਨਾਂ ਅਜ਼ਮਾਇਸ਼ਾਂ ਨੇ ਉਹਨਾਂ ਦੇ ਵਿਸ਼ਵਾਸ ਨੂੰ ਹੋਰ ਮਜ਼ਬੂਤ ਕੀਤਾ।",
+   "author": "ഹുസൈന്‍ സലഫി, ഷാര്‍ജ",
+   "issue_date": "2017-03-25",
+   "html_url": "/pa/seerah/prophets-and-trials-20170325-7.html",
+   "md_url": "/pa/seerah/prophets-and-trials-20170325-7.md"
   },
   {
    "slug": "an-agenda-is-needed-during-vacation-too-20170325-1",
