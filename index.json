@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T10:59:00.908560+00:00",
+ "generated_at": "2026-08-28T10:59:13.217607+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 992,
+ "count": 993,
  "articles": [
   {
    "slug": "live-knowing-the-value-of-time-20170114-8",
@@ -4059,6 +4059,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/ja/family/how-to-be-a-good-parent-part-2-20170121-4.html",
    "md_url": "/ja/family/how-to-be-a-good-parent-part-2-20170121-4.md"
+  },
+  {
+   "slug": "husband-trapped-in-the-mobile-web-20170121-5",
+   "lang": "ja",
+   "category": "family",
+   "title": "モバイルの罠に絡め取られた夫",
+   "summary": "スマートフォンの過度な利用が夫や家族関係にどのような影響を及ぼすかを分析する記事です。家族相談コーナー「シャンティ・ゲーハム（安らぎの家）」より。",
+   "author": "പ്രൊഫ: ഹാരിസ്ബിൻ സലീം",
+   "issue_date": "2017-01-21",
+   "html_url": "/ja/family/husband-trapped-in-the-mobile-web-20170121-5.html",
+   "md_url": "/ja/family/husband-trapped-in-the-mobile-web-20170121-5.md"
   },
   {
    "slug": "islamic-parenting-significance-and-goals-part-1-20170114-4",
