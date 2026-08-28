@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T04:55:33.277446+00:00",
+ "generated_at": "2026-08-28T04:55:50.161607+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 421,
+ "count": 422,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -3916,6 +3916,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/si/seerah/prophets-and-trials-20170325-7.html",
    "md_url": "/si/seerah/prophets-and-trials-20170325-7.md"
+  },
+  {
+   "slug": "good-intention-matters-most-20170325-8",
+   "lang": "si",
+   "category": "story",
+   "title": "යහපත් චේතනාවයි වැදගත්",
+   "summary": "වැඩ රාජකාරි අතරතුර ලැබෙන මිතුරෙකුගේ දුරකථන ඇමතුමකින් ආරම්භ වන මෙම ලිපිය, යහපත් චේතනාව සහ අවංකභාවයේ වැදගත්කම කතාවක් හරහා විස්තර කරයි. අසරණ පවුලකට පිහිට වීමට මිතුරන් පිරිසක් එක්වන ආකාරය මෙහි අන්තර්ගත වේ.",
+   "author": "ഇബ്‌നു അലി എടത്തനാട്ടുകര",
+   "issue_date": "2017-03-25",
+   "html_url": "/si/story/good-intention-matters-most-20170325-8.html",
+   "md_url": "/si/story/good-intention-matters-most-20170325-8.md"
   },
   {
    "slug": "an-agenda-is-needed-during-vacation-too-20170325-1",
