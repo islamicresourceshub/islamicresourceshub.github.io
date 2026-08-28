@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T04:56:25.587913+00:00",
+ "generated_at": "2026-08-28T04:56:40.799022+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 424,
+ "count": 425,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -4180,6 +4180,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/sw/seerah/prophets-and-trials-20170325-7.html",
    "md_url": "/sw/seerah/prophets-and-trials-20170325-7.md"
+  },
+  {
+   "slug": "good-intention-matters-most-20170325-8",
+   "lang": "sw",
+   "category": "story",
+   "title": "Nia Njema Ndiyo Muhimu",
+   "summary": "Hii ni hadithi inayoelezea jinsi wito wa rafiki katikati ya shughuli nyingi za kazi ulivyopelekea juhudi za pamoja za kusaidia familia yenye shida. Hadithi inasisitiza umuhimu wa nia njema na moyo wa kujitolea katika kufanikisha mambo ya kheri.",
+   "author": "ഇബ്‌നു അലി എടത്തനാട്ടുകര",
+   "issue_date": "2017-03-25",
+   "html_url": "/sw/story/good-intention-matters-most-20170325-8.html",
+   "md_url": "/sw/story/good-intention-matters-most-20170325-8.md"
   },
   {
    "slug": "an-agenda-is-needed-during-vacation-too-20170325-1",
