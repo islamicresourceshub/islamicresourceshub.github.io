@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T09:03:11.116345+00:00",
+ "generated_at": "2026-08-28T09:03:35.928939+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 654,
+ "count": 655,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -5709,6 +5709,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/so/dawah/prayer-that-is-worship-20170325-6.html",
    "md_url": "/so/dawah/prayer-that-is-worship-20170325-6.md"
+  },
+  {
+   "slug": "religion-is-fearlessness-20170114-6",
+   "lang": "so",
+   "category": "dawah",
+   "title": "Diintu waa nabadgelyo",
+   "summary": "Maqaalkan wuxuu ka hadlayaa sida diintu, gaar ahaan Islaamku, ay u dhiirrigeliso nabadgelyada iyo sugnaanta bulshada. Wuxuu sharxayaa in Islaamku yahay diin nabad iyo amni u horseedda qofka, qoyska, iyo bulshada inteeda kale.",
+   "author": "ഉസ്മാൻ പാലക്കാഴി",
+   "issue_date": "2017-01-14",
+   "html_url": "/so/dawah/religion-is-fearlessness-20170114-6.html",
+   "md_url": "/so/dawah/religion-is-fearlessness-20170114-6.md"
   },
   {
    "slug": "islamic-parenting-significance-and-goals-part-1-20170114-4",
