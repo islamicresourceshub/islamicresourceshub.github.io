@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T04:24:12.200768+00:00",
+ "generated_at": "2026-08-28T04:24:37.795115+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,8 +219,19 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 317,
+ "count": 318,
  "articles": [
+  {
+   "slug": "prayer-that-is-worship-20170325-6",
+   "lang": "am",
+   "category": "dawah",
+   "title": "ዱዓ፡ እርሱ ነው አምልኮ",
+   "summary": "የሰው ልጅ ሕይወት ዋና ዓላማ እስልምና ባስተማረው መንገድ አምልኮን መፈጸም እንደሆነ የሚያብራራ ጽሑፍ። የዱዓን የአምልኮ ባሕርይ በቁርአን አንቀጾች መሠረት ይተነትናል።",
+   "author": "മൂസ സ്വലാഹി, കാര",
+   "issue_date": "2017-03-25",
+   "html_url": "/am/dawah/prayer-that-is-worship-20170325-6.html",
+   "md_url": "/am/dawah/prayer-that-is-worship-20170325-6.md"
+  },
   {
    "slug": "our-parents-20170325-4",
    "lang": "am",
