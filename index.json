@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T08:42:58.981982+00:00",
+ "generated_at": "2026-08-28T08:43:09.390836+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 587,
+ "count": 588,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -6446,6 +6446,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/vi/dawah/prayer-that-is-worship-20170325-6.html",
    "md_url": "/vi/dawah/prayer-that-is-worship-20170325-6.md"
+  },
+  {
+   "slug": "islamic-parenting-significance-and-goals-part-1-20170114-4",
+   "lang": "vi",
+   "category": "family",
+   "title": "Nuôi dạy con theo Hồi giáo: Tầm quan trọng và Mục tiêu",
+   "summary": "Phần đầu tiên giải thích về tầm quan trọng và mục tiêu của việc nuôi dạy con cái theo quan điểm Hồi giáo. Đây là một chủ đề thiết yếu dành cho tất cả các bậc cha mẹ, dù họ có trình độ học vấn hay không.",
+   "author": "അഷ്‌റഫ്‌ എകരൂൽ",
+   "issue_date": "2017-01-14",
+   "html_url": "/vi/family/islamic-parenting-significance-and-goals-part-1-20170114-4.html",
+   "md_url": "/vi/family/islamic-parenting-significance-and-goals-part-1-20170114-4.md"
   },
   {
    "slug": "our-parents-20170325-4",
