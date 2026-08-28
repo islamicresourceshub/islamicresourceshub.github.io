@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T09:31:51.834849+00:00",
+ "generated_at": "2026-08-28T09:32:09.274665+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 768,
+ "count": 769,
  "articles": [
   {
    "slug": "live-knowing-the-value-of-time-20170114-8",
@@ -6149,6 +6149,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/pt/opinion/terrorism-and-religious-freedom-20170114-1.html",
    "md_url": "/pt/opinion/terrorism-and-religious-freedom-20170114-1.md"
+  },
+  {
+   "slug": "uapa-wielding-sedition-law-20170114-9",
+   "lang": "pt",
+   "category": "opinion",
+   "title": "UAPA: A lei de sedição empunhada como um chicote",
+   "summary": "Um artigo crítico sobre o abuso da lei UAPA e das leis de sedição na Índia. O texto questiona a justiça e a liberdade sob a ótica da aplicação arbitrária dessas leis.",
+   "author": "പി.വി.എ പ്രിംറോസ്‌",
+   "issue_date": "2017-01-14",
+   "html_url": "/pt/opinion/uapa-wielding-sedition-law-20170114-9.html",
+   "md_url": "/pt/opinion/uapa-wielding-sedition-law-20170114-9.md"
   },
   {
    "slug": "praise-be-to-the-lord-of-the-worlds-20170325-9",
