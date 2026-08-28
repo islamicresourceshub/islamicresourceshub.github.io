@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T09:36:01.995304+00:00",
+ "generated_at": "2026-08-28T09:36:20.165087+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 781,
+ "count": 782,
  "articles": [
   {
    "slug": "live-knowing-the-value-of-time-20170114-8",
@@ -8580,6 +8580,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/vi/opinion/terrorism-and-religious-freedom-20170114-1.html",
    "md_url": "/vi/opinion/terrorism-and-religious-freedom-20170114-1.md"
+  },
+  {
+   "slug": "uapa-wielding-sedition-law-20170114-9",
+   "lang": "vi",
+   "category": "opinion",
+   "title": "UAPA: Đạo luật phản quốc cầm roi da",
+   "summary": "Một bài viết phê phán về việc lạm dụng đạo luật UAPA và luật chống phản quốc. Tác giả đặt ra những câu hỏi nhức nhối về công lý và tự do trong bối cảnh các quyền dân sự bị xâm phạm.",
+   "author": "പി.വി.എ പ്രിംറോസ്‌",
+   "issue_date": "2017-01-14",
+   "html_url": "/vi/opinion/uapa-wielding-sedition-law-20170114-9.html",
+   "md_url": "/vi/opinion/uapa-wielding-sedition-law-20170114-9.md"
   },
   {
    "slug": "praise-be-to-the-lord-of-the-worlds-20170325-9",
