@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T04:15:45.020351+00:00",
+ "generated_at": "2026-08-28T04:15:58.350405+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 279,
+ "count": 280,
  "articles": [
   {
    "slug": "our-parents-20170325-4",
@@ -286,6 +286,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/ar/family/our-parents-20170325-4.html",
    "md_url": "/ar/family/our-parents-20170325-4.md"
+  },
+  {
+   "slug": "mosque-construction-some-points-to-note-20170325-5",
+   "lang": "ar",
+   "category": "fiqh",
+   "title": "بناء المساجد: بعض الأمور التي ينبغي مراعاتها",
+   "summary": "دراسة فقهية قائمة على مبدأ أن المساجد بيوت الله، تستعرض الضوابط والآداب الواجب مراعاتها عند بناء المساجد، مستلهمةً من نموذج بناء النبي ﷺ للمسجد النبوي فور وصوله إلى المدينة المنورة.",
+   "author": "ഡോ. അബ്ദുറസാഖ് സുല്ലമി",
+   "issue_date": "2017-03-25",
+   "html_url": "/ar/fiqh/mosque-construction-some-points-to-note-20170325-5.html",
+   "md_url": "/ar/fiqh/mosque-construction-some-points-to-note-20170325-5.md"
   },
   {
    "slug": "control-your-mind-20170325-3",
