@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T09:23:40.574419+00:00",
+ "generated_at": "2026-08-28T09:24:09.146608+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 744,
+ "count": 745,
  "articles": [
   {
    "slug": "live-knowing-the-value-of-time-20170114-8",
@@ -330,6 +330,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/am/opinion/terrorism-and-religious-freedom-20170114-1.html",
    "md_url": "/am/opinion/terrorism-and-religious-freedom-20170114-1.md"
+  },
+  {
+   "slug": "uapa-wielding-sedition-law-20170114-9",
+   "lang": "am",
+   "category": "opinion",
+   "title": "UAPA፡ የሀገር ክህደት ህግ የተገረፈበት በትር",
+   "summary": "ይህ መጣጥፍ የUAPA ህግ እና የሀገር ክህደት ህግ አላግባብ ጥቅም ላይ መዋላቸውን የሚተች ሲሆን፣ በፍትህ እና በነጻነት ላይ ከባድ ጥያቄዎችን ያስነሳል።",
+   "author": "പി.വി.എ പ്രിംറോസ്‌",
+   "issue_date": "2017-01-14",
+   "html_url": "/am/opinion/uapa-wielding-sedition-law-20170114-9.html",
+   "md_url": "/am/opinion/uapa-wielding-sedition-law-20170114-9.md"
   },
   {
    "slug": "warning-signs-from-the-reconstruction-of-history-20170114-2",
