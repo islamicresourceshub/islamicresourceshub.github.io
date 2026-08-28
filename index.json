@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T05:01:37.605047+00:00",
+ "generated_at": "2026-08-28T05:01:54.217879+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 443,
+ "count": 444,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -1166,6 +1166,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/fr/opinion/india-which-way-forward-20170325-2.html",
    "md_url": "/fr/opinion/india-which-way-forward-20170325-2.md"
+  },
+  {
+   "slug": "praise-be-to-the-lord-of-the-worlds-20170325-9",
+   "lang": "fr",
+   "category": "quran",
+   "title": "Louange au Seigneur des mondes",
+   "summary": "Une étude basée sur le verset « Louange à Allah, Seigneur de l'univers » (Coran 1:2), expliquant la place centrale de la gratitude envers le Créateur dans les enseignements islamiques.",
+   "author": "സി.മുഹമ്മദ് റാഫി ചെമ്പ്ര",
+   "issue_date": "2017-03-25",
+   "html_url": "/fr/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.html",
+   "md_url": "/fr/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.md"
   },
   {
    "slug": "prophets-and-trials-20170325-7",
