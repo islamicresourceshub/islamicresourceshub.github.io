@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T05:38:27.580192+00:00",
+ "generated_at": "2026-08-28T05:38:50.786044+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 509,
+ "count": 510,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -5665,6 +5665,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/vi/hadith/control-your-mind-20170325-3.html",
    "md_url": "/vi/hadith/control-your-mind-20170325-3.md"
+  },
+  {
+   "slug": "elections-the-stand-must-be-well-considered-20170325-10",
+   "lang": "vi",
+   "category": "opinion",
+   "title": "Bầu cử: Quan điểm cần được cân nhắc kỹ lưỡng",
+   "summary": "Bài viết thảo luận về việc liệu người Hồi giáo có nên tham gia vào tiến trình bầu cử tại một quốc gia dân chủ thế tục như Ấn Độ hay không. Đây là một phân tích về trách nhiệm của họ trong việc đóng góp vào công cuộc tái thiết quốc gia.",
+   "author": "പി.എന്‍ അബ്ദുറഹ്മാന്‍",
+   "issue_date": "2017-03-25",
+   "html_url": "/vi/opinion/elections-the-stand-must-be-well-considered-20170325-10.html",
+   "md_url": "/vi/opinion/elections-the-stand-must-be-well-considered-20170325-10.md"
   },
   {
    "slug": "india-which-way-forward-20170325-2",
