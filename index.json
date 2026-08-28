@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T04:13:34.760362+00:00",
+ "generated_at": "2026-08-28T04:13:49.836878+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 270,
+ "count": 271,
  "articles": [
   {
    "slug": "our-parents-20170325-4",
@@ -2926,6 +2926,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/ta/youth/an-agenda-is-needed-during-vacation-too-20170325-1.html",
    "md_url": "/ta/youth/an-agenda-is-needed-during-vacation-too-20170325-1.md"
+  },
+  {
+   "slug": "our-parents-20170325-4",
+   "lang": "te",
+   "category": "family",
+   "title": "మన తల్లిదండ్రులు",
+   "summary": "అల్లాహ్ ప్రసాదించిన గొప్ప వరాలైన తల్లిదండ్రుల పట్ల మనకున్న బాధ్యతలను, వారిని గౌరవించడం ద్వారా స్వర్గాన్ని ఎలా పొందవచ్చో వివరించే వ్యాసం ఇది.",
+   "author": "കെ.സഫ്‌വാന്‍ മുഹമ്മദ്, ആമയൂര്‍",
+   "issue_date": "2017-03-25",
+   "html_url": "/te/family/our-parents-20170325-4.html",
+   "md_url": "/te/family/our-parents-20170325-4.md"
   },
   {
    "slug": "control-your-mind-20170325-3",
