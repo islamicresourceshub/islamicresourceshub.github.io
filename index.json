@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T04:10:20.349302+00:00",
+ "generated_at": "2026-08-28T04:10:32.970566+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 257,
+ "count": 258,
  "articles": [
   {
    "slug": "our-parents-20170325-4",
@@ -2354,6 +2354,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/ml/youth/what-will-the-waste-do-20170114-5.html",
    "md_url": "/ml/youth/what-will-the-waste-do-20170114-5.md"
+  },
+  {
+   "slug": "our-parents-20170325-4",
+   "lang": "mr",
+   "category": "family",
+   "title": "आमचे आई-वडील",
+   "summary": "अल्लाहच्या आशीर्वादांपैकी सर्वात महत्त्वाचे म्हणजे आपले आई-वडील. या लेखात आपण मानव म्हणून जन्माला आल्याबद्दल कृतज्ञता व्यक्त करत असतानाच, आपल्या आई-वडिलांप्रती असलेल्या जबाबदाऱ्या आणि त्यांच्या सेवेचे महत्त्व यावर प्रकाश टाकला आहे.",
+   "author": "കെ.സഫ്‌വാന്‍ മുഹമ്മദ്, ആമയൂര്‍",
+   "issue_date": "2017-03-25",
+   "html_url": "/mr/family/our-parents-20170325-4.html",
+   "md_url": "/mr/family/our-parents-20170325-4.md"
   },
   {
    "slug": "control-your-mind-20170325-3",
