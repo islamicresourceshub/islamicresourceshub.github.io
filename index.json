@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T04:06:39.395420+00:00",
+ "generated_at": "2026-08-28T04:06:51.304102+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 240,
+ "count": 241,
  "articles": [
   {
    "slug": "our-parents-20170325-4",
@@ -264,6 +264,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/am/youth/an-agenda-is-needed-during-vacation-too-20170325-1.html",
    "md_url": "/am/youth/an-agenda-is-needed-during-vacation-too-20170325-1.md"
+  },
+  {
+   "slug": "our-parents-20170325-4",
+   "lang": "ar",
+   "category": "family",
+   "title": "والدانا",
+   "summary": "هذه تأملات حول الوالدين اللذين هما من أعظم نعم الله علينا. يتناول المقال كوننا بشرًا نعمة كبيرة، ويؤكد على واجباتنا تجاه والدينا وحقوقهما علينا.",
+   "author": "കെ.സഫ്‌വാന്‍ മുഹമ്മദ്, ആമയൂര്‍",
+   "issue_date": "2017-03-25",
+   "html_url": "/ar/family/our-parents-20170325-4.html",
+   "md_url": "/ar/family/our-parents-20170325-4.md"
   },
   {
    "slug": "control-your-mind-20170325-3",
