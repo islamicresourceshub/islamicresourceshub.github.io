@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T05:07:11.228398+00:00",
+ "generated_at": "2026-08-28T05:07:32.338361+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 462,
+ "count": 463,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -4389,6 +4389,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/sq/opinion/india-which-way-forward-20170325-2.html",
    "md_url": "/sq/opinion/india-which-way-forward-20170325-2.md"
+  },
+  {
+   "slug": "praise-be-to-the-lord-of-the-worlds-20170325-9",
+   "lang": "sq",
+   "category": "quran",
+   "title": "Lavdi i qoftë Zotit të botëve",
+   "summary": "Një studim mbi ajetin 'Lavdi i qoftë Allahut, Zotit të botëve' (Kurani 1:2). Ky shkrim shpjegon vendin e falënderimit ndaj Allahut në etikën që njeriu është i thirrur të ndjekë.",
+   "author": "സി.മുഹമ്മദ് റാഫി ചെമ്പ്ര",
+   "issue_date": "2017-03-25",
+   "html_url": "/sq/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.html",
+   "md_url": "/sq/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.md"
   },
   {
    "slug": "prophets-and-trials-20170325-7",
