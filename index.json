@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T09:02:29.355253+00:00",
+ "generated_at": "2026-08-28T09:02:46.439201+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 652,
+ "count": 653,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -5401,6 +5401,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/ru/dawah/prayer-that-is-worship-20170325-6.html",
    "md_url": "/ru/dawah/prayer-that-is-worship-20170325-6.md"
+  },
+  {
+   "slug": "religion-is-fearlessness-20170114-6",
+   "lang": "ru",
+   "category": "dawah",
+   "title": "Религия — это безопасность",
+   "summary": "Статья исследует концепцию религии как источника безопасности и спокойствия, противопоставляя исламский подход к жизни и обществу другим мировоззрениям. Автор подчеркивает, что истинная вера дарует человеку внутренний покой и способствует созданию справедливого, защищенного общества.",
+   "author": "ഉസ്മാൻ പാലക്കാഴി",
+   "issue_date": "2017-01-14",
+   "html_url": "/ru/dawah/religion-is-fearlessness-20170114-6.html",
+   "md_url": "/ru/dawah/religion-is-fearlessness-20170114-6.md"
   },
   {
    "slug": "islamic-parenting-significance-and-goals-part-1-20170114-4",
