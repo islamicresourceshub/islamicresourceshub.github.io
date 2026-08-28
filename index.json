@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T04:52:10.848035+00:00",
+ "generated_at": "2026-08-28T04:52:29.469142+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 409,
+ "count": 410,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -1518,6 +1518,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/it/seerah/prophets-and-trials-20170325-7.html",
    "md_url": "/it/seerah/prophets-and-trials-20170325-7.md"
+  },
+  {
+   "slug": "good-intention-matters-most-20170325-8",
+   "lang": "it",
+   "category": "story",
+   "title": "La buona intenzione è ciò che conta",
+   "summary": "Questo racconto, nato da una telefonata tra amici durante una giornata di lavoro, esplora l'importanza della sincerità d'intenti e della buona volontà. Attraverso un'esperienza vissuta, l'autore illustra come l'unione delle forze possa trasformare la compassione in un aiuto concreto per chi è nel bisogno.",
+   "author": "ഇബ്‌നു അലി എടത്തനാട്ടുകര",
+   "issue_date": "2017-03-25",
+   "html_url": "/it/story/good-intention-matters-most-20170325-8.html",
+   "md_url": "/it/story/good-intention-matters-most-20170325-8.md"
   },
   {
    "slug": "an-agenda-is-needed-during-vacation-too-20170325-1",
