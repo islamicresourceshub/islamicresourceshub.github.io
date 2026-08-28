@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T04:25:18.498243+00:00",
+ "generated_at": "2026-08-28T04:25:34.783965+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 320,
+ "count": 321,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -418,6 +418,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/as/youth/an-agenda-is-needed-during-vacation-too-20170325-1.html",
    "md_url": "/as/youth/an-agenda-is-needed-during-vacation-too-20170325-1.md"
+  },
+  {
+   "slug": "prayer-that-is-worship-20170325-6",
+   "lang": "bn",
+   "category": "dawah",
+   "title": "প্রার্থনা: এটিই ইবাদত",
+   "summary": "এই নিবন্ধটি প্রমাণ করে যে, ইসলামের শিক্ষা অনুযায়ী ইবাদত বা উপাসনা বজায় রাখাই মানুষের জীবনের মূল লক্ষ্য। কুরআনের আয়াতের আলোকে প্রার্থনার ইবাদতগত তাৎপর্য এবং আল্লাহর সাথে কাউকে শরিক না করার গুরুত্ব এখানে বিস্তারিত আলোচনা করা হয়েছে।",
+   "author": "മൂസ സ്വലാഹി, കാര",
+   "issue_date": "2017-03-25",
+   "html_url": "/bn/dawah/prayer-that-is-worship-20170325-6.html",
+   "md_url": "/bn/dawah/prayer-that-is-worship-20170325-6.md"
   },
   {
    "slug": "our-parents-20170325-4",
