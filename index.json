@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T04:23:08.574246+00:00",
+ "generated_at": "2026-08-28T04:23:20.998258+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 312,
+ "count": 313,
  "articles": [
   {
    "slug": "our-parents-20170325-4",
@@ -3443,6 +3443,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/tr/family/our-parents-20170325-4.html",
    "md_url": "/tr/family/our-parents-20170325-4.md"
+  },
+  {
+   "slug": "mosque-construction-some-points-to-note-20170325-5",
+   "lang": "tr",
+   "category": "fiqh",
+   "title": "Cami İnşası: Dikkat Edilmesi Gereken Bazı Hususlar",
+   "summary": "Camilerin Allah'ın evleri olduğu prensibine dayanan bir fıkıh çalışması. Hz. Peygamber'in (sav) Medine'ye varır varmaz mescit inşa etmesi örneğinden yola çıkarak, cami yapımında dikkat edilmesi gereken noktalar açıklanmaktadır.",
+   "author": "ഡോ. അബ്ദുറസാഖ് സുല്ലമി",
+   "issue_date": "2017-03-25",
+   "html_url": "/tr/fiqh/mosque-construction-some-points-to-note-20170325-5.html",
+   "md_url": "/tr/fiqh/mosque-construction-some-points-to-note-20170325-5.md"
   },
   {
    "slug": "control-your-mind-20170325-3",
