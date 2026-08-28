@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T04:15:02.682222+00:00",
+ "generated_at": "2026-08-28T04:15:16.874598+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 276,
+ "count": 277,
  "articles": [
   {
    "slug": "our-parents-20170325-4",
@@ -3190,6 +3190,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/uz/youth/an-agenda-is-needed-during-vacation-too-20170325-1.html",
    "md_url": "/uz/youth/an-agenda-is-needed-during-vacation-too-20170325-1.md"
+  },
+  {
+   "slug": "our-parents-20170325-4",
+   "lang": "vi",
+   "category": "family",
+   "title": "Cha mẹ của chúng ta",
+   "summary": "Đây là những suy ngẫm về cha mẹ, những người là ân huệ lớn lao nhất mà Allah ban tặng. Bài viết nhấn mạnh rằng việc được sinh ra làm người đã là một phước lành, đồng thời nhắc nhở về nghĩa vụ thiêng liêng của con cái đối với đấng sinh thành.",
+   "author": "കെ.സഫ്‌വാന്‍ മുഹമ്മദ്, ആമയൂര്‍",
+   "issue_date": "2017-03-25",
+   "html_url": "/vi/family/our-parents-20170325-4.html",
+   "md_url": "/vi/family/our-parents-20170325-4.md"
   },
   {
    "slug": "control-your-mind-20170325-3",
