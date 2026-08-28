@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T10:14:18.690319+00:00",
+ "generated_at": "2026-08-28T10:14:29.965390+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 905,
+ "count": 906,
  "articles": [
   {
    "slug": "live-knowing-the-value-of-time-20170114-8",
@@ -1694,6 +1694,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/en/hadith/control-your-mind-20170325-3.html",
    "md_url": "/en/hadith/control-your-mind-20170325-3.md"
+  },
+  {
+   "slug": "everyone-should-have-a-beard-20170121-3",
+   "lang": "en",
+   "category": "opinion",
+   "title": "Everyone Needs a Beard!",
+   "summary": "A critical analysis of a columnist's views on the Islamic practice of growing a beard. The article explores the significance of the Sunnah and addresses the misconceptions held by those who criticize it.",
+   "author": "അബൂമിസ്‌യാല്‍",
+   "issue_date": "2017-01-21",
+   "html_url": "/en/opinion/everyone-should-have-a-beard-20170121-3.html",
+   "md_url": "/en/opinion/everyone-should-have-a-beard-20170121-3.md"
   },
   {
    "slug": "india-which-way-forward-20170325-2",
