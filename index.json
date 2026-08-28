@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T04:15:58.350405+00:00",
+ "generated_at": "2026-08-28T04:16:13.934494+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 280,
+ "count": 281,
  "articles": [
   {
    "slug": "our-parents-20170325-4",
@@ -341,6 +341,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/as/family/our-parents-20170325-4.html",
    "md_url": "/as/family/our-parents-20170325-4.md"
+  },
+  {
+   "slug": "mosque-construction-some-points-to-note-20170325-5",
+   "lang": "as",
+   "category": "fiqh",
+   "title": "মছজিদ নিৰ্মাণ: গুৰুত্ব দিবলগীয়া কিছুমান কথা",
+   "summary": "মছজিদসমূহ আল্লাহৰ গৃহ—এই মূলনীতিৰ ওপৰত ভিত্তি কৰি ফিকহৰ দৃষ্টিভংগীৰে মছজিদ নিৰ্মাণৰ কিছুমান গুৰুত্বপূৰ্ণ দিশ ইয়াত আলোচনা কৰা হৈছে। নবী (ছঃ)-এ মদিনাত মছজিদ নিৰ্মাণৰ যি আদৰ্শ প্ৰতিষ্ঠা কৰিছিল, তাৰ আধাৰত মছজিদ নিৰ্মাণৰ ক্ষেত্ৰত মনোযোগ দিবলগীয়া বিষয়সমূহ ইয়াত ব্যাখ্যা কৰা হৈছে।",
+   "author": "ഡോ. അബ്ദുറസാഖ് സുല്ലമി",
+   "issue_date": "2017-03-25",
+   "html_url": "/as/fiqh/mosque-construction-some-points-to-note-20170325-5.html",
+   "md_url": "/as/fiqh/mosque-construction-some-points-to-note-20170325-5.md"
   },
   {
    "slug": "control-your-mind-20170325-3",
