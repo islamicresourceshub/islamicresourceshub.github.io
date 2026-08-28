@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T05:02:12.852228+00:00",
+ "generated_at": "2026-08-28T05:02:31.573558+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 445,
+ "count": 446,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -1364,6 +1364,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/ha/opinion/india-which-way-forward-20170325-2.html",
    "md_url": "/ha/opinion/india-which-way-forward-20170325-2.md"
+  },
+  {
+   "slug": "praise-be-to-the-lord-of-the-worlds-20170325-9",
+   "lang": "ha",
+   "category": "quran",
+   "title": "Godiya ta tabbata ga Ubangijin talikai",
+   "summary": "Wannan darasi ne da ya dogara da ayar Kur'ani mai girma: 'Godiya ta tabbata ga Allah, Ubangijin talikai' (Kur'ani 1:2). Yana bayyana matsayin godiya ga Allah a cikin tarbiyyar da aka koyar da dan Adam.",
+   "author": "സി.മുഹമ്മദ് റാഫി ചെമ്പ്ര",
+   "issue_date": "2017-03-25",
+   "html_url": "/ha/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.html",
+   "md_url": "/ha/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.md"
   },
   {
    "slug": "prophets-and-trials-20170325-7",
