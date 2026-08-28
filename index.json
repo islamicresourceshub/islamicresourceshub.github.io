@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T04:08:52.557422+00:00",
+ "generated_at": "2026-08-28T04:09:04.048405+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 251,
+ "count": 252,
  "articles": [
   {
    "slug": "our-parents-20170325-4",
@@ -748,6 +748,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/ha/youth/an-agenda-is-needed-during-vacation-too-20170325-1.html",
    "md_url": "/ha/youth/an-agenda-is-needed-during-vacation-too-20170325-1.md"
+  },
+  {
+   "slug": "our-parents-20170325-4",
+   "lang": "hi",
+   "category": "family",
+   "title": "हमारे माता-पिता",
+   "summary": "यह लेख अल्लाह के सबसे बड़े उपहारों में से एक, हमारे माता-पिता के प्रति हमारे कर्तव्यों और उनके महत्व पर प्रकाश डालता है। यह हमें याद दिलाता है कि उनकी सेवा और संतुष्टि ही जन्नत का मार्ग है।",
+   "author": "കെ.സഫ്‌വാന്‍ മുഹമ്മദ്, ആമയൂര്‍",
+   "issue_date": "2017-03-25",
+   "html_url": "/hi/family/our-parents-20170325-4.html",
+   "md_url": "/hi/family/our-parents-20170325-4.md"
   },
   {
    "slug": "control-your-mind-20170325-3",
