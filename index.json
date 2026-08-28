@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T05:46:42.124176+00:00",
+ "generated_at": "2026-08-28T05:52:18.318981+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 535,
+ "count": 536,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -4521,6 +4521,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/pt/opinion/india-which-way-forward-20170325-2.html",
    "md_url": "/pt/opinion/india-which-way-forward-20170325-2.md"
+  },
+  {
+   "slug": "terrorism-and-religious-freedom-20170114-1",
+   "lang": "pt",
+   "category": "opinion",
+   "title": "Combate ao Terrorismo e Liberdade Religiosa",
+   "summary": "Este artigo parte da premissa de que o terrorismo é uma aberração mental que perturba a paz de qualquer sociedade, analisando a complexa relação entre o combate ao terrorismo e a liberdade religiosa.",
+   "author": "ഡോ. സി.എം സാബിർ നവാസ്‌",
+   "issue_date": "2017-01-14",
+   "html_url": "/pt/opinion/terrorism-and-religious-freedom-20170114-1.html",
+   "md_url": "/pt/opinion/terrorism-and-religious-freedom-20170114-1.md"
   },
   {
    "slug": "praise-be-to-the-lord-of-the-worlds-20170325-9",
