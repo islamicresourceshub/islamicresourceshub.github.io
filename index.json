@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T04:51:22.510825+00:00",
+ "generated_at": "2026-08-28T04:51:38.849160+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 406,
+ "count": 407,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -1254,6 +1254,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/ha/seerah/prophets-and-trials-20170325-7.html",
    "md_url": "/ha/seerah/prophets-and-trials-20170325-7.md"
+  },
+  {
+   "slug": "good-intention-matters-most-20170325-8",
+   "lang": "ha",
+   "category": "story",
+   "title": "Kyakkyawar Nufi Shi Ne Mafi Muhimmanci",
+   "summary": "Wannan wani labari ne da ya fara da kiran wayar wani aboki a tsakiyar aiki, wanda ke nuna mahimmancin kyakkyawar nufi da tsarkin niyya wajen taimakon mabukata.",
+   "author": "ഇബ്‌നു അലി എടത്തനാട്ടുകര",
+   "issue_date": "2017-03-25",
+   "html_url": "/ha/story/good-intention-matters-most-20170325-8.html",
+   "md_url": "/ha/story/good-intention-matters-most-20170325-8.md"
   },
   {
    "slug": "an-agenda-is-needed-during-vacation-too-20170325-1",
