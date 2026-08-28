@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T05:09:13.047922+00:00",
+ "generated_at": "2026-08-28T05:09:34.082217+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 466,
+ "count": 467,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -4785,6 +4785,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/th/opinion/india-which-way-forward-20170325-2.html",
    "md_url": "/th/opinion/india-which-way-forward-20170325-2.md"
+  },
+  {
+   "slug": "praise-be-to-the-lord-of-the-worlds-20170325-9",
+   "lang": "th",
+   "category": "quran",
+   "title": "การสรรเสริญแด่พระผู้เป็นเจ้าแห่งสากลโลก",
+   "summary": "บทความนี้ศึกษาความหมายของโองการ 'การสรรเสริญทั้งมวลเป็นสิทธิ์ของอัลลอฮ์ พระผู้อภิบาลแห่งสากลโลก' (อัลกุรอาน 1:2) โดยอธิบายถึงความสำคัญของการแสดงความกตัญญูต่ออัลลอฮ์ในฐานะมารยาทอันประเสริฐที่สุดที่มนุษย์พึงปฏิบัติ",
+   "author": "സി.മുഹമ്മദ് റാഫി ചെമ്പ്ര",
+   "issue_date": "2017-03-25",
+   "html_url": "/th/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.html",
+   "md_url": "/th/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.md"
   },
   {
    "slug": "prophets-and-trials-20170325-7",
