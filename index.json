@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T09:18:38.618493+00:00",
+ "generated_at": "2026-08-28T09:18:48.938627+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 721,
+ "count": 722,
  "articles": [
   {
    "slug": "live-knowing-the-value-of-time-20170114-8",
@@ -3025,6 +3025,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/ja/youth/what-will-the-waste-do-20170114-5.html",
    "md_url": "/ja/youth/what-will-the-waste-do-20170114-5.md"
+  },
+  {
+   "slug": "live-knowing-the-value-of-time-20170114-8",
+   "lang": "kn",
+   "category": "dawah",
+   "title": "ಸಮಯದ ಮೌಲ್ಯವನ್ನರಿತು ಜೀವಿಸಿ",
+   "summary": "ಒಂದು ಕ್ಷಣದಲ್ಲಿ ಏನು ಮಾಡಲು ಸಾಧ್ಯ ಎಂಬ ಪ್ರಶ್ನೆಯಿಂದ ಪ್ರಾರಂಭವಾಗುವ ಈ ಲೇಖನವು, ಸಮಯದ ಮೌಲ್ಯವನ್ನು ಅರಿತು ಬದುಕಬೇಕಾದ ಅಗತ್ಯವನ್ನು ವಿವರಿಸುತ್ತದೆ.",
+   "author": "നാസിർ ബാലുശ്ശേരി",
+   "issue_date": "2017-01-14",
+   "html_url": "/kn/dawah/live-knowing-the-value-of-time-20170114-8.html",
+   "md_url": "/kn/dawah/live-knowing-the-value-of-time-20170114-8.md"
   },
   {
    "slug": "prayer-that-is-worship-20170325-6",
