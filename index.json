@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T04:16:27.301129+00:00",
+ "generated_at": "2026-08-28T04:16:40.484111+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 282,
+ "count": 283,
  "articles": [
   {
    "slug": "our-parents-20170325-4",
@@ -451,6 +451,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/bs/family/our-parents-20170325-4.html",
    "md_url": "/bs/family/our-parents-20170325-4.md"
+  },
+  {
+   "slug": "mosque-construction-some-points-to-note-20170325-5",
+   "lang": "bs",
+   "category": "fiqh",
+   "title": "Izgradnja džamije: Neke važne napomene",
+   "summary": "Studija fikha zasnovana na principu da su džamije Allahove kuće. Objašnjavaju se smjernice za izgradnju džamija, uzimajući za uzor postupak Poslanika (s.a.v.s.) odmah po dolasku u Medinu.",
+   "author": "ഡോ. അബ്ദുറസാഖ് സുല്ലമി",
+   "issue_date": "2017-03-25",
+   "html_url": "/bs/fiqh/mosque-construction-some-points-to-note-20170325-5.html",
+   "md_url": "/bs/fiqh/mosque-construction-some-points-to-note-20170325-5.md"
   },
   {
    "slug": "control-your-mind-20170325-3",
