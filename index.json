@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T09:46:44.360738+00:00",
+ "generated_at": "2026-08-28T09:46:59.667930+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 824,
+ "count": 825,
  "articles": [
   {
    "slug": "live-knowing-the-value-of-time-20170114-8",
@@ -781,6 +781,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/as/opinion/warning-signs-from-the-reconstruction-of-history-20170114-2.html",
    "md_url": "/as/opinion/warning-signs-from-the-reconstruction-of-history-20170114-2.md"
+  },
+  {
+   "slug": "who-should-leave-india-20170121-1",
+   "lang": "as",
+   "category": "opinion",
+   "title": "ভাৰত এৰি কোনে যাব লাগে?",
+   "summary": "ভাৰতৰ পৰা পাকিস্তানলৈ যাবলৈ দিয়া আহ্বানৰ এক বিশ্লেষণাত্মক প্ৰবন্ধ। এই ধৰণৰ মন্তব্যৰ আঁৰৰ পৰিস্থিতি আৰু ইয়াৰ সামাজিক প্ৰভাৱৰ বিষয়ে ইয়াত আলোচনা কৰা হৈছে।",
+   "author": "എസ്‌.എ റിയാദ്‌",
+   "issue_date": "2017-01-21",
+   "html_url": "/as/opinion/who-should-leave-india-20170121-1.html",
+   "md_url": "/as/opinion/who-should-leave-india-20170121-1.md"
   },
   {
    "slug": "praise-be-to-the-lord-of-the-worlds-20170325-9",
