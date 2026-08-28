@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T04:16:13.934494+00:00",
+ "generated_at": "2026-08-28T04:16:27.301129+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 281,
+ "count": 282,
  "articles": [
   {
    "slug": "our-parents-20170325-4",
@@ -396,6 +396,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/bn/family/our-parents-20170325-4.html",
    "md_url": "/bn/family/our-parents-20170325-4.md"
+  },
+  {
+   "slug": "mosque-construction-some-points-to-note-20170325-5",
+   "lang": "bn",
+   "category": "fiqh",
+   "title": "মসজিদ নির্মাণ: কিছু জরুরি বিষয়",
+   "summary": "মসজিদ আল্লাহর ঘর—এই মূলনীতির ভিত্তিতে ফিকহী দৃষ্টিকোণ থেকে মসজিদ নির্মাণের নিয়মাবলি এখানে আলোচনা করা হয়েছে। মদিনায় নবী (সা.)-এর মসজিদ নির্মাণের আদর্শ সামনে রেখে মসজিদ নির্মাণ ও ব্যবস্থাপনায় করণীয় বিষয়গুলো তুলে ধরা হয়েছে।",
+   "author": "ഡോ. അബ്ദുറസാഖ് സുല്ലമി",
+   "issue_date": "2017-03-25",
+   "html_url": "/bn/fiqh/mosque-construction-some-points-to-note-20170325-5.html",
+   "md_url": "/bn/fiqh/mosque-construction-some-points-to-note-20170325-5.md"
   },
   {
    "slug": "control-your-mind-20170325-3",
