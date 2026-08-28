@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T04:59:48.448857+00:00",
+ "generated_at": "2026-08-28T05:00:03.018486+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 437,
+ "count": 438,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -572,6 +572,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/bn/opinion/india-which-way-forward-20170325-2.html",
    "md_url": "/bn/opinion/india-which-way-forward-20170325-2.md"
+  },
+  {
+   "slug": "praise-be-to-the-lord-of-the-worlds-20170325-9",
+   "lang": "bn",
+   "category": "quran",
+   "title": "বিশ্বপালকের প্রতি প্রশংসা",
+   "summary": "'সমস্ত প্রশংসা জগতসমূহের প্রতিপালক আল্লাহর জন্য' (কুরআন ১:২) এই আয়াতের ওপর ভিত্তি করে একটি আলোচনা। মানুষের শেখানো শিষ্টাচারের মধ্যে আল্লাহর প্রতি কৃতজ্ঞতা প্রকাশের গুরুত্ব এখানে ব্যাখ্যা করা হয়েছে।",
+   "author": "സി.മുഹമ്മദ് റാഫി ചെമ്പ്ര",
+   "issue_date": "2017-03-25",
+   "html_url": "/bn/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.html",
+   "md_url": "/bn/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.md"
   },
   {
    "slug": "prophets-and-trials-20170325-7",
