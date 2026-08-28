@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T05:54:59.330491+00:00",
+ "generated_at": "2026-08-28T05:55:13.745075+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 540,
+ "count": 541,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -5126,6 +5126,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/sw/opinion/india-which-way-forward-20170325-2.html",
    "md_url": "/sw/opinion/india-which-way-forward-20170325-2.md"
+  },
+  {
+   "slug": "terrorism-and-religious-freedom-20170114-1",
+   "lang": "sw",
+   "category": "opinion",
+   "title": "Uwindaji wa ugaidi na uhuru wa kidini",
+   "summary": "Makala haya yanaanza na wazo kwamba ugaidi ni uharibifu wa akili unaovuruga amani ya jamii yoyote. Inachambua uhusiano kati ya ugaidi na uhuru wa kidini.",
+   "author": "ഡോ. സി.എം സാബിർ നവാസ്‌",
+   "issue_date": "2017-01-14",
+   "html_url": "/sw/opinion/terrorism-and-religious-freedom-20170114-1.html",
+   "md_url": "/sw/opinion/terrorism-and-religious-freedom-20170114-1.md"
   },
   {
    "slug": "praise-be-to-the-lord-of-the-worlds-20170325-9",
