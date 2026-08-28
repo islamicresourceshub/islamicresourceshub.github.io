@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T04:32:46.174169+00:00",
+ "generated_at": "2026-08-28T04:33:06.211741+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 344,
+ "count": 345,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -3344,6 +3344,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/si/youth/an-agenda-is-needed-during-vacation-too-20170325-1.html",
    "md_url": "/si/youth/an-agenda-is-needed-during-vacation-too-20170325-1.md"
+  },
+  {
+   "slug": "prayer-that-is-worship-20170325-6",
+   "lang": "so",
+   "category": "dawah",
+   "title": "Ducada: Taas waa cibaado",
+   "summary": "Maqaalkani wuxuu caddeynayaa in ujeeddada ugu weyn ee nolosha aadanaha ay tahay in cibaadada loo guto sidii Islaamku baray. Wuxuu sharxayaa dabeecadda cibaadada ee ducada isagoo ku saleynaya aayadaha Qur'aanka kariimka ah.",
+   "author": "മൂസ സ്വലാഹി, കാര",
+   "issue_date": "2017-03-25",
+   "html_url": "/so/dawah/prayer-that-is-worship-20170325-6.html",
+   "md_url": "/so/dawah/prayer-that-is-worship-20170325-6.md"
   },
   {
    "slug": "our-parents-20170325-4",
