@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T06:07:25.154576+00:00",
+ "generated_at": "2026-08-28T06:08:02.227449+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 552,
+ "count": 553,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -561,6 +561,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/as/opinion/terrorism-and-religious-freedom-20170114-1.html",
    "md_url": "/as/opinion/terrorism-and-religious-freedom-20170114-1.md"
+  },
+  {
+   "slug": "warning-signs-from-the-reconstruction-of-history-20170114-2",
+   "lang": "as",
+   "category": "opinion",
+   "title": "ইতিহাসৰ পুনৰ্নিৰ্মাণে কঢ়িয়াই অনা বিপদসংকেতসমূহ",
+   "summary": "ঐতিহাসিক সত্যৰ কেৱല এটা দিশ দেখুৱাই নিজৰ যুক্তিক প্ৰতিষ্ঠা কৰাৰ প্ৰৱণতাৰ বিৰুদ্ধে সতৰ্ক কৰি দিয়া এক প্ৰবন্ধ। ইয়াত ইতিহাস পুনৰ্নিৰ্মাণৰ বিপদসংকেতসমূহ আলোচনা কৰা হৈছে।",
+   "author": "എസ്‌.എ",
+   "issue_date": "2017-01-14",
+   "html_url": "/as/opinion/warning-signs-from-the-reconstruction-of-history-20170114-2.html",
+   "md_url": "/as/opinion/warning-signs-from-the-reconstruction-of-history-20170114-2.md"
   },
   {
    "slug": "praise-be-to-the-lord-of-the-worlds-20170325-9",
