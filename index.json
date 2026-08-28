@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T09:03:35.928939+00:00",
+ "generated_at": "2026-08-28T09:03:54.109094+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 655,
+ "count": 656,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -5863,6 +5863,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/sq/dawah/prayer-that-is-worship-20170325-6.html",
    "md_url": "/sq/dawah/prayer-that-is-worship-20170325-6.md"
+  },
+  {
+   "slug": "religion-is-fearlessness-20170114-6",
+   "lang": "sq",
+   "category": "dawah",
+   "title": "Feja është paqe dhe siguri",
+   "summary": "Një artikull që trajton konceptin e fesë si një burim sigurie dhe paqeje, duke e vënë theksin te mësimet islame që garantojnë mbrojtjen e jetës, pasurisë dhe dinjitetit njerëzor.",
+   "author": "ഉസ്മാൻ പാലക്കാഴി",
+   "issue_date": "2017-01-14",
+   "html_url": "/sq/dawah/religion-is-fearlessness-20170114-6.html",
+   "md_url": "/sq/dawah/religion-is-fearlessness-20170114-6.md"
   },
   {
    "slug": "islamic-parenting-significance-and-goals-part-1-20170114-4",
