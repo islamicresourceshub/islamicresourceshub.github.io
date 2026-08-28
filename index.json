@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T09:47:58.912466+00:00",
+ "generated_at": "2026-08-28T09:48:11.119993+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 830,
+ "count": 831,
  "articles": [
   {
    "slug": "live-knowing-the-value-of-time-20170114-8",
@@ -2024,6 +2024,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/fa/opinion/uapa-wielding-sedition-law-20170114-9.html",
    "md_url": "/fa/opinion/uapa-wielding-sedition-law-20170114-9.md"
+  },
+  {
+   "slug": "who-should-leave-india-20170121-1",
+   "lang": "fa",
+   "category": "opinion",
+   "title": "چه کسانی باید هند را ترک کنند؟",
+   "summary": "این مقاله به تحلیل شعار «ترک هند و رفتن به پاکستان» می‌پردازد. نویسنده ضمن بررسی پیش‌زمینه این‌گونه اظهارات، پیامدهای اجتماعی آن و مفهوم واقعی ملی‌گرایی در یک کشور دموکراتیک را مورد بحث قرار می‌دهد.",
+   "author": "എസ്‌.എ റിയാദ്‌",
+   "issue_date": "2017-01-21",
+   "html_url": "/fa/opinion/who-should-leave-india-20170121-1.html",
+   "md_url": "/fa/opinion/who-should-leave-india-20170121-1.md"
   },
   {
    "slug": "praise-be-to-the-lord-of-the-worlds-20170325-9",
