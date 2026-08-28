@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T09:15:38.417486+00:00",
+ "generated_at": "2026-08-28T09:15:55.946966+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,8 +219,19 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 705,
+ "count": 706,
  "articles": [
+  {
+   "slug": "live-knowing-the-value-of-time-20170114-8",
+   "lang": "am",
+   "category": "dawah",
+   "title": "የጊዜን ዋጋ ተረድቶ መኖር",
+   "summary": "አንድ አፍታ ምን ሊያከናውን ይችላል ከሚለው ጥያቄ የሚነሳው ይህ ጽሑፍ፣ የጊዜን ዋጋ ተረድቶ መኖር ያለውን አስፈላጊነት ያብራራል።",
+   "author": "നാസിർ ബാലുശ്ശേരി",
+   "issue_date": "2017-01-14",
+   "html_url": "/am/dawah/live-knowing-the-value-of-time-20170114-8.html",
+   "md_url": "/am/dawah/live-knowing-the-value-of-time-20170114-8.md"
+  },
   {
    "slug": "prayer-that-is-worship-20170325-6",
    "lang": "am",
