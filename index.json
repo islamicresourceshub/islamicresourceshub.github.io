@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T09:26:29.444973+00:00",
+ "generated_at": "2026-08-28T09:26:47.386560+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 750,
+ "count": 751,
  "articles": [
   {
    "slug": "live-knowing-the-value-of-time-20170114-8",
@@ -1452,6 +1452,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/en/opinion/terrorism-and-religious-freedom-20170114-1.html",
    "md_url": "/en/opinion/terrorism-and-religious-freedom-20170114-1.md"
+  },
+  {
+   "slug": "uapa-wielding-sedition-law-20170114-9",
+   "lang": "en",
+   "category": "opinion",
+   "title": "UAPA: The Sedition Law Wielding the Whip",
+   "summary": "A critical analysis of the misuse of the UAPA and sedition laws in India. The article raises urgent questions regarding justice, civil liberties, and the state's tendency to weaponize legislation against its citizens.",
+   "author": "പി.വി.എ പ്രിംറോസ്‌",
+   "issue_date": "2017-01-14",
+   "html_url": "/en/opinion/uapa-wielding-sedition-law-20170114-9.html",
+   "md_url": "/en/opinion/uapa-wielding-sedition-law-20170114-9.md"
   },
   {
    "slug": "praise-be-to-the-lord-of-the-worlds-20170325-9",
