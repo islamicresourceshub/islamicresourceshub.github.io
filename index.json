@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T09:30:10.097532+00:00",
+ "generated_at": "2026-08-28T09:30:27.960974+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 762,
+ "count": 763,
  "articles": [
   {
    "slug": "live-knowing-the-value-of-time-20170114-8",
@@ -5038,6 +5038,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/mr/opinion/terrorism-and-religious-freedom-20170114-1.html",
    "md_url": "/mr/opinion/terrorism-and-religious-freedom-20170114-1.md"
+  },
+  {
+   "slug": "uapa-wielding-sedition-law-20170114-9",
+   "lang": "mr",
+   "category": "opinion",
+   "title": "UAPA: लाठी उगारणारा देशद्रोहाचा कायदा",
+   "summary": "UAPA आणि देशद्रोहाच्या कायद्याच्या गैरवापराचे विश्लेषण करणारा हा एक गंभीर लेख आहे. हा लेख न्याय आणि स्वातंत्र्याच्या मूलभूत प्रश्नांवर भाष्य करतो.",
+   "author": "പി.വി.എ പ്രിംറോസ്‌",
+   "issue_date": "2017-01-14",
+   "html_url": "/mr/opinion/uapa-wielding-sedition-law-20170114-9.html",
+   "md_url": "/mr/opinion/uapa-wielding-sedition-law-20170114-9.md"
   },
   {
    "slug": "praise-be-to-the-lord-of-the-worlds-20170325-9",
