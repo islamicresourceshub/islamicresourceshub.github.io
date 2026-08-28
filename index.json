@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T10:42:39.016554+00:00",
+ "generated_at": "2026-08-28T10:42:53.716466+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 920,
+ "count": 921,
  "articles": [
   {
    "slug": "live-knowing-the-value-of-time-20170114-8",
@@ -6501,6 +6501,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/or/opinion/elections-the-stand-must-be-well-considered-20170325-10.html",
    "md_url": "/or/opinion/elections-the-stand-must-be-well-considered-20170325-10.md"
+  },
+  {
+   "slug": "everyone-should-have-a-beard-20170121-3",
+   "lang": "or",
+   "category": "opinion",
+   "title": "ସମସ୍ତଙ୍କର ଦାଢ଼ି ରହିବା ଆବଶ୍ୟକ!",
+   "summary": "ଏହି ପ୍ରବନ୍ଧଟି ଦାଢ଼ି ସମ୍ବନ୍ଧୀୟ ସମାଲୋଚନା କରୁଥିବା ଜଣେ ଲେଖକଙ୍କୁ ସମାଲୋଚନା କରୁଛି। ଏଥିରେ ସୁନ୍ନତର ଗୁରୁତ୍ୱ ଏବଂ ଏହାକୁ ବିରୋଧ କରୁଥିବା ବ୍ୟକ୍ତିଙ୍କ ମତବାଦର ବିଶ୍ଳେଷଣ କରାଯାଇଛି।",
+   "author": "അബൂമിസ്‌യാല്‍",
+   "issue_date": "2017-01-21",
+   "html_url": "/or/opinion/everyone-should-have-a-beard-20170121-3.html",
+   "md_url": "/or/opinion/everyone-should-have-a-beard-20170121-3.md"
   },
   {
    "slug": "india-which-way-forward-20170325-2",
