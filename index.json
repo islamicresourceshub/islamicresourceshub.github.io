@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T03:59:38.559442+00:00",
+ "generated_at": "2026-08-28T04:00:02.335315+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 212,
+ "count": 213,
  "articles": [
   {
    "slug": "control-your-mind-20170325-3",
@@ -2244,6 +2244,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/pt/youth/an-agenda-is-needed-during-vacation-too-20170325-1.html",
    "md_url": "/pt/youth/an-agenda-is-needed-during-vacation-too-20170325-1.md"
+  },
+  {
+   "slug": "control-your-mind-20170325-3",
+   "lang": "ru",
+   "category": "hadith",
+   "title": "Укрощение гнева",
+   "summary": "Статья, основанная на хадисе Пророка (мир ему и благословение), переданном Абу Хурайрой (да будет доволен им Аллах). В ней разъясняется, что истинно силен тот, кто способен совладать с собой в момент гнева.",
+   "author": "ഉസ്മാന്‍ പാലക്കാഴി",
+   "issue_date": "2017-03-25",
+   "html_url": "/ru/hadith/control-your-mind-20170325-3.html",
+   "md_url": "/ru/hadith/control-your-mind-20170325-3.md"
   },
   {
    "slug": "india-which-way-forward-20170325-2",
