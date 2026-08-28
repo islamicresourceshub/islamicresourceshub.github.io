@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T04:06:14.539119+00:00",
+ "generated_at": "2026-08-28T04:06:24.467976+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 238,
+ "count": 239,
  "articles": [
   {
    "slug": "control-your-mind-20170325-3",
@@ -2816,6 +2816,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/vi/youth/an-agenda-is-needed-during-vacation-too-20170325-1.html",
    "md_url": "/vi/youth/an-agenda-is-needed-during-vacation-too-20170325-1.md"
+  },
+  {
+   "slug": "control-your-mind-20170325-3",
+   "lang": "zh",
+   "category": "hadith",
+   "title": "控制你的心",
+   "summary": "本文基于艾布·胡莱勒（愿主喜悦之）传述的圣训，探讨了控制愤怒的重要性。文章强调，真正的强者并非在角力中取胜的人，而是在愤怒时能够克制自己的人。",
+   "author": "ഉസ്മാന്‍ പാലക്കാഴി",
+   "issue_date": "2017-03-25",
+   "html_url": "/zh/hadith/control-your-mind-20170325-3.html",
+   "md_url": "/zh/hadith/control-your-mind-20170325-3.md"
   },
   {
    "slug": "india-which-way-forward-20170325-2",
