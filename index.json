@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T10:56:34.706112+00:00",
+ "generated_at": "2026-08-28T10:56:47.573706+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 979,
+ "count": 980,
  "articles": [
   {
    "slug": "live-knowing-the-value-of-time-20170114-8",
@@ -781,6 +781,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/as/family/how-to-be-a-good-parent-part-2-20170121-4.html",
    "md_url": "/as/family/how-to-be-a-good-parent-part-2-20170121-4.md"
+  },
+  {
+   "slug": "husband-trapped-in-the-mobile-web-20170121-5",
+   "lang": "as",
+   "category": "family",
+   "title": "ম'বাইলৰ জালত বন্দী স্বামী",
+   "summary": "ম'বাইল ফোনৰ অত্যধিক ব্যৱহাৰে স্বামী আৰু পাৰিবাৰিক সম্পৰ্কক কেনেদৰে প্ৰভাৱিত কৰে, তাৰ ওপৰত আলোকপাত কৰা এক প্ৰবন্ধ। 'শান্তি গেহম' পৰিয়াল পৰামৰ্শ শিতানৰ অন্তৰ্গত।",
+   "author": "പ്രൊഫ: ഹാരിസ്ബിൻ സലീം",
+   "issue_date": "2017-01-21",
+   "html_url": "/as/family/husband-trapped-in-the-mobile-web-20170121-5.html",
+   "md_url": "/as/family/husband-trapped-in-the-mobile-web-20170121-5.md"
   },
   {
    "slug": "our-parents-20170325-4",
