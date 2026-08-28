@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T09:05:10.028672+00:00",
+ "generated_at": "2026-08-28T09:05:31.496298+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 660,
+ "count": 661,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -6633,6 +6633,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/tl/dawah/prayer-that-is-worship-20170325-6.html",
    "md_url": "/tl/dawah/prayer-that-is-worship-20170325-6.md"
+  },
+  {
+   "slug": "religion-is-fearlessness-20170114-6",
+   "lang": "tl",
+   "category": "dawah",
+   "title": "Ang Relihiyon ay Pagkakaroon ng Kapayapaan at Seguridad",
+   "summary": "Isang artikulo na tumatalakay sa kung paano nagbibigay ng tunay na seguridad at kawalan ng takot ang relihiyon, partikular na ang Islam, sa gitna ng mga hamon ng mundo.",
+   "author": "ഉസ്മാൻ പാലക്കാഴി",
+   "issue_date": "2017-01-14",
+   "html_url": "/tl/dawah/religion-is-fearlessness-20170114-6.html",
+   "md_url": "/tl/dawah/religion-is-fearlessness-20170114-6.md"
   },
   {
    "slug": "islamic-parenting-significance-and-goals-part-1-20170114-4",
