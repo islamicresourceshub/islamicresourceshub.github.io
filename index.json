@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T05:44:17.839027+00:00",
+ "generated_at": "2026-08-28T05:44:32.714735+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 527,
+ "count": 528,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -2211,6 +2211,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/kn/opinion/india-which-way-forward-20170325-2.html",
    "md_url": "/kn/opinion/india-which-way-forward-20170325-2.md"
+  },
+  {
+   "slug": "terrorism-and-religious-freedom-20170114-1",
+   "lang": "kn",
+   "category": "opinion",
+   "title": "ಭಯೋತ್ಪಾದನೆ ಮತ್ತು ಧಾರ್ಮಿಕ ಸ್ವಾತಂತ್ರ್ಯ",
+   "summary": "ಭಯೋತ್ಪಾದನೆಯು ಯಾವುದೇ ಸಮಾಜದ ಶಾಂತಿಯನ್ನು ಕದಡುವ ಮಾನಸಿಕ ವಿಕೃತಿ ಎಂಬ ಕಲ್ಪನೆಯಿಂದ ಪ್ರಾರಂಭವಾಗುವ ಲೇಖನ. ಭಯೋತ್ಪಾದನೆ ಮತ್ತು ಧಾರ್ಮಿಕ ಸ್ವಾತಂತ್ರ್ಯದ ನಡುವಿನ ಸಂಬಂಧವನ್ನು ವಿಶ್ಲೇಷಿಸುತ್ತದೆ.",
+   "author": "ഡോ. സി.എം സാബിർ നവാസ്‌",
+   "issue_date": "2017-01-14",
+   "html_url": "/kn/opinion/terrorism-and-religious-freedom-20170114-1.html",
+   "md_url": "/kn/opinion/terrorism-and-religious-freedom-20170114-1.md"
   },
   {
    "slug": "praise-be-to-the-lord-of-the-worlds-20170325-9",
