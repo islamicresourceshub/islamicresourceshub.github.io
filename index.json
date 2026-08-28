@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T09:49:27.159453+00:00",
+ "generated_at": "2026-08-28T09:49:39.107225+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 837,
+ "count": 838,
  "articles": [
   {
    "slug": "live-knowing-the-value-of-time-20170114-8",
@@ -3487,6 +3487,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/ja/opinion/uapa-wielding-sedition-law-20170114-9.html",
    "md_url": "/ja/opinion/uapa-wielding-sedition-law-20170114-9.md"
+  },
+  {
+   "slug": "who-should-leave-india-20170121-1",
+   "lang": "ja",
+   "category": "opinion",
+   "title": "誰がインドを去るべきなのか？",
+   "summary": "インドからパキスタンへ去れという主張を分析し、そのような言説の背景とそれが社会に与える影響について考察する記事です。",
+   "author": "എസ്‌.എ റിയാദ്‌",
+   "issue_date": "2017-01-21",
+   "html_url": "/ja/opinion/who-should-leave-india-20170121-1.html",
+   "md_url": "/ja/opinion/who-should-leave-india-20170121-1.md"
   },
   {
    "slug": "praise-be-to-the-lord-of-the-worlds-20170325-9",
