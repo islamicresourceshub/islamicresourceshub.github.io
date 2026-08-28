@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T04:22:55.213940+00:00",
+ "generated_at": "2026-08-28T04:23:08.574246+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 311,
+ "count": 312,
  "articles": [
   {
    "slug": "our-parents-20170325-4",
@@ -3388,6 +3388,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/tl/family/our-parents-20170325-4.html",
    "md_url": "/tl/family/our-parents-20170325-4.md"
+  },
+  {
+   "slug": "mosque-construction-some-points-to-note-20170325-5",
+   "lang": "tl",
+   "category": "fiqh",
+   "title": "Pagtatayo ng Masjid: Ilang mga Bagay na Dapat Isaalang-alang",
+   "summary": "Isang pag-aaral sa Fiqh na nakabatay sa prinsipyo na ang mga masjid ay mga tahanan ni Allah. Ipinapaliwanag nito ang mga dapat isaalang-alang sa pagtatayo ng masjid, na hango sa halimbawa ng Propeta (SAW) nang itayo niya ang masjid pagdating sa Madinah.",
+   "author": "ഡോ. അബ്ദുറസാഖ് സുല്ലമി",
+   "issue_date": "2017-03-25",
+   "html_url": "/tl/fiqh/mosque-construction-some-points-to-note-20170325-5.html",
+   "md_url": "/tl/fiqh/mosque-construction-some-points-to-note-20170325-5.md"
   },
   {
    "slug": "control-your-mind-20170325-3",
