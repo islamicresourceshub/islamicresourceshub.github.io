@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T04:12:12.277256+00:00",
+ "generated_at": "2026-08-28T04:12:30.341680+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 265,
+ "count": 266,
  "articles": [
   {
    "slug": "our-parents-20170325-4",
@@ -2706,6 +2706,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/ru/youth/an-agenda-is-needed-during-vacation-too-20170325-1.html",
    "md_url": "/ru/youth/an-agenda-is-needed-during-vacation-too-20170325-1.md"
+  },
+  {
+   "slug": "our-parents-20170325-4",
+   "lang": "si",
+   "category": "family",
+   "title": "අපේ දෙමාපියන්",
+   "summary": "අල්ලාහ්ගේ මහත් ආශිර්වාදයක් වන දෙමාපියන් පිළිබඳව සහ ඔවුන් කෙරෙහි අප සතු වගකීම් පිළිබඳව මෙම ලිපිය අවධාරණය කරයි. මිනිසෙකු ලෙස උපත ලැබීමම විශාල භාග්‍යයක් බවත්, දෙමාපියන්ට ගෞරව කිරීම ස්වර්ගයට මාවතක් බවත් මෙහි විස්තර කෙරේ.",
+   "author": "കെ.സഫ്‌വാന്‍ മുഹമ്മദ്, ആമയൂര്‍",
+   "issue_date": "2017-03-25",
+   "html_url": "/si/family/our-parents-20170325-4.html",
+   "md_url": "/si/family/our-parents-20170325-4.md"
   },
   {
    "slug": "control-your-mind-20170325-3",
