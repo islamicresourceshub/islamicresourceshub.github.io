@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T10:50:48.831871+00:00",
+ "generated_at": "2026-08-28T10:51:07.701169+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 956,
+ "count": 957,
  "articles": [
   {
    "slug": "live-knowing-the-value-of-time-20170114-8",
@@ -5951,6 +5951,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/mr/family/don-t-worry-allah-is-with-you-20170114-10.html",
    "md_url": "/mr/family/don-t-worry-allah-is-with-you-20170114-10.md"
+  },
+  {
+   "slug": "how-to-be-a-good-parent-part-2-20170121-4",
+   "lang": "mr",
+   "category": "family",
+   "title": "उत्तम पालक कसे बनावे?",
+   "summary": "उत्तम पालक बनण्यासाठीच्या इस्लामिक मार्गदर्शक तत्त्वांचा हा दुसरा भाग आहे. विश्वाच्या निर्मात्याच्या आज्ञेनुसार जगून परलोकात स्वर्गप्राप्ती कशी मिळवता येईल, याचे मार्ग यात स्पष्ट केले आहेत.",
+   "author": "അഷ്‌റഫ് എകരൂല്‍",
+   "issue_date": "2017-01-21",
+   "html_url": "/mr/family/how-to-be-a-good-parent-part-2-20170121-4.html",
+   "md_url": "/mr/family/how-to-be-a-good-parent-part-2-20170121-4.md"
   },
   {
    "slug": "islamic-parenting-significance-and-goals-part-1-20170114-4",
