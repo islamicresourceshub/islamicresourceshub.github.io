@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T04:40:19.522978+00:00",
+ "generated_at": "2026-08-28T04:40:36.809789+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 368,
+ "count": 369,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -1199,6 +1199,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/hi/opinion/india-which-way-forward-20170325-2.html",
    "md_url": "/hi/opinion/india-which-way-forward-20170325-2.md"
+  },
+  {
+   "slug": "prophets-and-trials-20170325-7",
+   "lang": "hi",
+   "category": "seerah",
+   "title": "पैगंबर और आज़माइशें",
+   "summary": "मानव जाति को सही मार्ग दिखाने के लिए भेजे गए पैगंबरों ने विभिन्न प्रकार की परीक्षाओं का सामना किया। यह लेख बताता है कि कैसे उन परीक्षाओं ने उनके विश्वास को और अधिक सुदृढ़ किया।",
+   "author": "ഹുസൈന്‍ സലഫി, ഷാര്‍ജ",
+   "issue_date": "2017-03-25",
+   "html_url": "/hi/seerah/prophets-and-trials-20170325-7.html",
+   "md_url": "/hi/seerah/prophets-and-trials-20170325-7.md"
   },
   {
    "slug": "an-agenda-is-needed-during-vacation-too-20170325-1",
