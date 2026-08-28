@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T10:53:13.706733+00:00",
+ "generated_at": "2026-08-28T10:53:31.355454+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 965,
+ "count": 966,
  "articles": [
   {
    "slug": "live-knowing-the-value-of-time-20170114-8",
@@ -8107,6 +8107,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/so/family/don-t-worry-allah-is-with-you-20170114-10.html",
    "md_url": "/so/family/don-t-worry-allah-is-with-you-20170114-10.md"
+  },
+  {
+   "slug": "how-to-be-a-good-parent-part-2-20170121-4",
+   "lang": "so",
+   "category": "family",
+   "title": "Sidee loo noqon karaa waalid wanaagsan?",
+   "summary": "Qaybta labaad ee hagaha Islaamiga ah ee ku saabsan sidii loo noqon lahaa waalid wanaagsan. Waxay sharxaysaa hababka loo noolaado iyadoo la raacayo amarrada Rabbiga caalamka si loo gaaro guusha nolosha dambe ee Jannada.",
+   "author": "അഷ്‌റഫ് എകരൂല്‍",
+   "issue_date": "2017-01-21",
+   "html_url": "/so/family/how-to-be-a-good-parent-part-2-20170121-4.html",
+   "md_url": "/so/family/how-to-be-a-good-parent-part-2-20170121-4.md"
   },
   {
    "slug": "islamic-parenting-significance-and-goals-part-1-20170114-4",
