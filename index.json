@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T04:03:10.790975+00:00",
+ "generated_at": "2026-08-28T04:03:51.246687+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 217,
+ "count": 218,
  "articles": [
   {
    "slug": "control-your-mind-20170325-3",
@@ -2409,6 +2409,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/sw/youth/an-agenda-is-needed-during-vacation-too-20170325-1.html",
    "md_url": "/sw/youth/an-agenda-is-needed-during-vacation-too-20170325-1.md"
+  },
+  {
+   "slug": "control-your-mind-20170325-3",
+   "lang": "ta",
+   "category": "hadith",
+   "title": "மனதைக் கட்டுப்படுத்துங்கள்",
+   "summary": "அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கும் நபி (ஸல்) அவர்களின் ஹதீஸின் அடிப்படையில் அமைந்த கட்டுரை. கோபம் வரும்போது மனதைக் கட்டுப்படுத்துபவனே உண்மையான வலிமையுள்ளவன் என்ற செய்தியை இது விளக்குகிறது.",
+   "author": "ഉസ്മാന്‍ പാലക്കാഴി",
+   "issue_date": "2017-03-25",
+   "html_url": "/ta/hadith/control-your-mind-20170325-3.html",
+   "md_url": "/ta/hadith/control-your-mind-20170325-3.md"
   },
   {
    "slug": "india-which-way-forward-20170325-2",
