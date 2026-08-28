@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T04:33:25.918998+00:00",
+ "generated_at": "2026-08-28T04:33:44.364898+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 346,
+ "count": 347,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -3476,6 +3476,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/sq/youth/an-agenda-is-needed-during-vacation-too-20170325-1.html",
    "md_url": "/sq/youth/an-agenda-is-needed-during-vacation-too-20170325-1.md"
+  },
+  {
+   "slug": "prayer-that-is-worship-20170325-6",
+   "lang": "sw",
+   "category": "dawah",
+   "title": "Dua: Hiyo Ndiyo Ibada",
+   "summary": "Makala hii inasisitiza kuwa lengo kuu la maisha ya mwanadamu ni kudumisha ibada kulingana na mafundisho ya Uislamu. Inafafanua asili ya ibada ya dua kwa kuzingatia aya za Qur'ani.",
+   "author": "മൂസ സ്വലാഹി, കാര",
+   "issue_date": "2017-03-25",
+   "html_url": "/sw/dawah/prayer-that-is-worship-20170325-6.html",
+   "md_url": "/sw/dawah/prayer-that-is-worship-20170325-6.md"
   },
   {
    "slug": "our-parents-20170325-4",
