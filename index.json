@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T04:58:46.100610+00:00",
+ "generated_at": "2026-08-28T04:58:59.653090+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 433,
+ "count": 434,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -4972,6 +4972,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/zh/seerah/prophets-and-trials-20170325-7.html",
    "md_url": "/zh/seerah/prophets-and-trials-20170325-7.md"
+  },
+  {
+   "slug": "good-intention-matters-most-20170325-8",
+   "lang": "zh",
+   "category": "story",
+   "title": "善心最重要",
+   "summary": "这是一篇以故事形式记录的文章，讲述了在朋友的电话催促下，一群人如何齐心协力帮助一个贫困家庭改善生活的故事。文章强调了善心与纯正动机在社会公益中的核心作用。",
+   "author": "ഇബ്‌നു അലി എടത്തനാട്ടുകര",
+   "issue_date": "2017-03-25",
+   "html_url": "/zh/story/good-intention-matters-most-20170325-8.html",
+   "md_url": "/zh/story/good-intention-matters-most-20170325-8.md"
   },
   {
    "slug": "an-agenda-is-needed-during-vacation-too-20170325-1",
