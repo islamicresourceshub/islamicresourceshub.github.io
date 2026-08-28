@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T05:10:31.512283+00:00",
+ "generated_at": "2026-08-28T05:10:47.652718+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 470,
+ "count": 471,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -5181,6 +5181,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/uz/opinion/india-which-way-forward-20170325-2.html",
    "md_url": "/uz/opinion/india-which-way-forward-20170325-2.md"
+  },
+  {
+   "slug": "praise-be-to-the-lord-of-the-worlds-20170325-9",
+   "lang": "uz",
+   "category": "quran",
+   "title": "Olamlar Robbiga hamd",
+   "summary": "«Hamd olamlar Robbi Allohga xosdir» (Qur'on 1:2) oyati asosidagi ushbu maqola insonning Allohga bo'lgan shukronaligi va hamd aytishning ahamiyatini tushuntiradi.",
+   "author": "സി.മുഹമ്മദ് റാഫി ചെമ്പ്ര",
+   "issue_date": "2017-03-25",
+   "html_url": "/uz/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.html",
+   "md_url": "/uz/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.md"
   },
   {
    "slug": "prophets-and-trials-20170325-7",
