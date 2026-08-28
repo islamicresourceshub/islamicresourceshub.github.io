@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T08:51:24.774867+00:00",
+ "generated_at": "2026-08-28T08:51:39.818585+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 621,
+ "count": 622,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -6391,6 +6391,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/tl/youth/an-agenda-is-needed-during-vacation-too-20170325-1.html",
    "md_url": "/tl/youth/an-agenda-is-needed-during-vacation-too-20170325-1.md"
+  },
+  {
+   "slug": "what-will-the-waste-do-20170114-5",
+   "lang": "tl",
+   "category": "youth",
+   "title": "Ano ang gagawin sa mga basura?",
+   "summary": "Isang kuwento para sa mga bata tungkol sa kahalagahan ng kalinisan at tamang pagtatapon ng basura sa pamamagitan ng karanasan ng matalinong batang si Shareefa.",
+   "author": "അബൂഫായിദ",
+   "issue_date": "2017-01-14",
+   "html_url": "/tl/youth/what-will-the-waste-do-20170114-5.html",
+   "md_url": "/tl/youth/what-will-the-waste-do-20170114-5.md"
   },
   {
    "slug": "prayer-that-is-worship-20170325-6",
