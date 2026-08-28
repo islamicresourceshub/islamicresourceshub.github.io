@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T08:50:35.543234+00:00",
+ "generated_at": "2026-08-28T08:50:46.889150+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 617,
+ "count": 618,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -5819,6 +5819,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/sw/youth/an-agenda-is-needed-during-vacation-too-20170325-1.html",
    "md_url": "/sw/youth/an-agenda-is-needed-during-vacation-too-20170325-1.md"
+  },
+  {
+   "slug": "what-will-the-waste-do-20170114-5",
+   "lang": "sw",
+   "category": "youth",
+   "title": "Tufanye nini na taka?",
+   "summary": "Kupitia hadithi ya msichana mwerevu anayeitwa Sharifa, tunajifunza kuhusu usimamizi wa taka na umuhimu wa usafi kwa watoto.",
+   "author": "അബൂഫായിദ",
+   "issue_date": "2017-01-14",
+   "html_url": "/sw/youth/what-will-the-waste-do-20170114-5.html",
+   "md_url": "/sw/youth/what-will-the-waste-do-20170114-5.md"
   },
   {
    "slug": "prayer-that-is-worship-20170325-6",
