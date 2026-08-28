@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T04:14:18.650792+00:00",
+ "generated_at": "2026-08-28T04:14:34.296392+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 273,
+ "count": 274,
  "articles": [
   {
    "slug": "our-parents-20170325-4",
@@ -3058,6 +3058,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/tl/youth/an-agenda-is-needed-during-vacation-too-20170325-1.html",
    "md_url": "/tl/youth/an-agenda-is-needed-during-vacation-too-20170325-1.md"
+  },
+  {
+   "slug": "our-parents-20170325-4",
+   "lang": "tr",
+   "category": "family",
+   "title": "Anne ve Babalarımız",
+   "summary": "Bu yazı, Allah'ın bizlere en büyük lütuflarından biri olan anne ve babalarımız üzerine bir tefekkürdür. İnsan olarak dünyaya gelmenin kıymetini ve ebeveynlerimize karşı sorumluluklarımızı hatırlatmaktadır.",
+   "author": "കെ.സഫ്‌വാന്‍ മുഹമ്മദ്, ആമയൂര്‍",
+   "issue_date": "2017-03-25",
+   "html_url": "/tr/family/our-parents-20170325-4.html",
+   "md_url": "/tr/family/our-parents-20170325-4.md"
   },
   {
    "slug": "control-your-mind-20170325-3",
