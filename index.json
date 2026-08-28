@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T04:31:37.892688+00:00",
+ "generated_at": "2026-08-28T04:31:51.553851+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 340,
+ "count": 341,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -3080,6 +3080,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/pa/youth/an-agenda-is-needed-during-vacation-too-20170325-1.html",
    "md_url": "/pa/youth/an-agenda-is-needed-during-vacation-too-20170325-1.md"
+  },
+  {
+   "slug": "prayer-that-is-worship-20170325-6",
+   "lang": "ps",
+   "category": "dawah",
+   "title": "دعا: دا عبادت دی",
+   "summary": "دا لیکنه په دې ټینګار کوي چې د اسلام د لارښوونو سره سم د عبادتونو ترسره کول د ژوند اصلي موخه ده. د قرآني آیتونو په رڼا کې د دعا د عبادت په توګه ماهیت تشریح شوی دی.",
+   "author": "മൂസ സ്വലാഹി, കാര",
+   "issue_date": "2017-03-25",
+   "html_url": "/ps/dawah/prayer-that-is-worship-20170325-6.html",
+   "md_url": "/ps/dawah/prayer-that-is-worship-20170325-6.md"
   },
   {
    "slug": "our-parents-20170325-4",
