@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T08:47:44.991078+00:00",
+ "generated_at": "2026-08-28T08:47:57.610821+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 606,
+ "count": 607,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -2772,6 +2772,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/ko/youth/an-agenda-is-needed-during-vacation-too-20170325-1.html",
    "md_url": "/ko/youth/an-agenda-is-needed-during-vacation-too-20170325-1.md"
+  },
+  {
+   "slug": "what-will-the-waste-do-20170114-5",
+   "lang": "ko",
+   "category": "youth",
+   "title": "쓰레기는 어떻게 처리할까?",
+   "summary": "영리한 소녀 샤리파의 이야기를 통해 쓰레기 처리의 중요성과 청결의 가치를 아이들의 눈높이에서 들려주는 이야기입니다.",
+   "author": "അബൂഫായിദ",
+   "issue_date": "2017-01-14",
+   "html_url": "/ko/youth/what-will-the-waste-do-20170114-5.html",
+   "md_url": "/ko/youth/what-will-the-waste-do-20170114-5.md"
   },
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
