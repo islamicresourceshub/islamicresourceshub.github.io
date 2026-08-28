@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T09:10:52.514173+00:00",
+ "generated_at": "2026-08-28T09:11:04.865769+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 684,
+ "count": 685,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -4609,6 +4609,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/mr/opinion/india-which-way-forward-20170325-2.html",
    "md_url": "/mr/opinion/india-which-way-forward-20170325-2.md"
+  },
+  {
+   "slug": "muslim-extremists-defame-islam-20170114-7",
+   "lang": "mr",
+   "category": "opinion",
+   "title": "मुस्लिम अतिरेकी: इस्लामला कलंकित करणारे",
+   "summary": "प्रसिद्ध इतिहासकार एम.जी.एस. नारायणन यांच्यासोबत घेतलेल्या मुलाखतीचा हा भाग आहे. यात इस्लामने घडवून आणलेले बदल, केरळमधील मुस्लिम प्रबोधन आणि दहशतवाद यांसारख्या विषयांवर चर्चा करण्यात आली आहे.",
+   "author": "എം.ജി.എസ്‌ നാരായണൻ / റസ്റ്റം ഉസ്മാൻ",
+   "issue_date": "2017-01-14",
+   "html_url": "/mr/opinion/muslim-extremists-defame-islam-20170114-7.html",
+   "md_url": "/mr/opinion/muslim-extremists-defame-islam-20170114-7.md"
   },
   {
    "slug": "terrorism-and-religious-freedom-20170114-1",
