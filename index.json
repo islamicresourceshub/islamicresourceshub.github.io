@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T05:39:38.052462+00:00",
+ "generated_at": "2026-08-28T05:41:10.021475+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 513,
+ "count": 514,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -528,6 +528,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/as/opinion/india-which-way-forward-20170325-2.html",
    "md_url": "/as/opinion/india-which-way-forward-20170325-2.md"
+  },
+  {
+   "slug": "terrorism-and-religious-freedom-20170114-1",
+   "lang": "as",
+   "category": "opinion",
+   "title": "संत্ৰাসবাদ বিৰোধী অভিযান আৰু ধৰ্মীয় স্বাধীনতা",
+   "summary": "संत্ৰাসবাদ যিকোনো সমাজৰে শান্তি বিঘ্নিত কৰা এক মানসিক বিকৃতি—এই ধাৰণাৰে আৰম্ভ হোৱা এটা প্ৰবন্ধ। ইয়াত সন্ত্ৰাসবাদ আৰু ধৰ্মীয় স্বাধীনতাৰ মাজৰ সম্পৰ্ক বিশ্লেষণ কৰা হৈছে।",
+   "author": "ഡോ. സി.എം സാബിർ നവാസ്‌",
+   "issue_date": "2017-01-14",
+   "html_url": "/as/opinion/terrorism-and-religious-freedom-20170114-1.html",
+   "md_url": "/as/opinion/terrorism-and-religious-freedom-20170114-1.md"
   },
   {
    "slug": "praise-be-to-the-lord-of-the-worlds-20170325-9",
