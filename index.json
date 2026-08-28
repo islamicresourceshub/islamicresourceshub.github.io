@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T08:58:00.782126+00:00",
+ "generated_at": "2026-08-28T08:58:17.852473+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 639,
+ "count": 640,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -2068,6 +2068,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/hi/dawah/prayer-that-is-worship-20170325-6.html",
    "md_url": "/hi/dawah/prayer-that-is-worship-20170325-6.md"
+  },
+  {
+   "slug": "religion-is-fearlessness-20170114-6",
+   "lang": "hi",
+   "category": "dawah",
+   "title": "धर्म निर्भयता है",
+   "summary": "यह लेख विभिन्न धर्मों के संदर्भ में इस बात पर प्रकाश डालता है कि किस प्रकार इस्लाम धर्म मनुष्य को निर्भयता और सुरक्षा प्रदान करता है। इसमें सामाजिक न्याय, पारिवारिक दायित्वों और नशीले पदार्थों के निषेध के माध्यम से समाज में शांति स्थापित करने के इस्लामी दृष्टिकोण को समझाया गया है।",
+   "author": "ഉസ്മാൻ പാലക്കാഴി",
+   "issue_date": "2017-01-14",
+   "html_url": "/hi/dawah/religion-is-fearlessness-20170114-6.html",
+   "md_url": "/hi/dawah/religion-is-fearlessness-20170114-6.md"
   },
   {
    "slug": "islamic-parenting-significance-and-goals-part-1-20170114-4",
