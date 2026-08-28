@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T03:56:41.776089+00:00",
+ "generated_at": "2026-08-28T03:57:01.070557+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 205,
+ "count": 206,
  "articles": [
   {
    "slug": "control-your-mind-20170325-3",
@@ -2013,6 +2013,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/ml/youth/what-will-the-waste-do-20170114-5.html",
    "md_url": "/ml/youth/what-will-the-waste-do-20170114-5.md"
+  },
+  {
+   "slug": "control-your-mind-20170325-3",
+   "lang": "mr",
+   "category": "hadith",
+   "title": "मनावर नियंत्रण ठेवा",
+   "summary": "अबू हुरैरा (रजि.) यांच्याकडून निवेदित प्रेषित मुहम्मद (स.) यांच्या हदीसवर आधारित हा लेख आहे. राग आल्यावर स्वतःच्या मनावर नियंत्रण ठेवणाराच खरा बलवान असतो, हा संदेश यात स्पष्ट केला आहे.",
+   "author": "ഉസ്മാന്‍ പാലക്കാഴി",
+   "issue_date": "2017-03-25",
+   "html_url": "/mr/hadith/control-your-mind-20170325-3.html",
+   "md_url": "/mr/hadith/control-your-mind-20170325-3.md"
   },
   {
    "slug": "india-which-way-forward-20170325-2",
