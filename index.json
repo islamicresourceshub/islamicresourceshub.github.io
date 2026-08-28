@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T04:35:05.480435+00:00",
+ "generated_at": "2026-08-28T04:35:22.501377+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 351,
+ "count": 352,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -3806,6 +3806,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/tl/youth/an-agenda-is-needed-during-vacation-too-20170325-1.html",
    "md_url": "/tl/youth/an-agenda-is-needed-during-vacation-too-20170325-1.md"
+  },
+  {
+   "slug": "prayer-that-is-worship-20170325-6",
+   "lang": "tr",
+   "category": "dawah",
+   "title": "Dua: İbadetin Ta Kendisidir",
+   "summary": "Bu makale, İslam'ın öğrettiği şekilde ibadetleri yerine getirmenin hayatın temel amacı olduğunu vurgulamaktadır. Dua etmenin ibadet niteliği taşıdığı, Kur'an ayetleri ışığında detaylandırılmaktadır.",
+   "author": "മൂസ സ്വലാഹി, കാര",
+   "issue_date": "2017-03-25",
+   "html_url": "/tr/dawah/prayer-that-is-worship-20170325-6.html",
+   "md_url": "/tr/dawah/prayer-that-is-worship-20170325-6.md"
   },
   {
    "slug": "our-parents-20170325-4",
