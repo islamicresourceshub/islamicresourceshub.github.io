@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T09:55:53.410149+00:00",
+ "generated_at": "2026-08-28T09:56:08.378925+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 864,
+ "count": 865,
  "articles": [
   {
    "slug": "live-knowing-the-value-of-time-20170114-8",
@@ -1023,6 +1023,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/bn/opinion/warning-signs-from-the-reconstruction-of-history-20170114-2.html",
    "md_url": "/bn/opinion/warning-signs-from-the-reconstruction-of-history-20170114-2.md"
+  },
+  {
+   "slug": "when-national-tradition-is-questioned-20170121-2",
+   "lang": "bn",
+   "category": "opinion",
+   "title": "যখন জাতীয় ঐতিহ্য প্রশ্নবিদ্ধ হয়",
+   "summary": "প্রফেসর এম.জি.এস. নারায়ণের জাতীয়তাবাদ সংক্রান্ত বক্তব্য এবং তা ঘিরে তৈরি হওয়া বিতর্কগুলো এখানে বিশ্লেষণ করা হয়েছে। নিবন্ধটি ভারতীয় সমাজে জাতীয় ঐতিহ্যের প্রাসঙ্গিকতা ও তার অবস্থানকে খতিয়ে দেখে।",
+   "author": "ഉസ്മാൻ പാലക്കാഴി",
+   "issue_date": "2017-01-21",
+   "html_url": "/bn/opinion/when-national-tradition-is-questioned-20170121-2.html",
+   "md_url": "/bn/opinion/when-national-tradition-is-questioned-20170121-2.md"
   },
   {
    "slug": "who-should-leave-india-20170121-1",
