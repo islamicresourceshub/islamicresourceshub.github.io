@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T05:09:34.082217+00:00",
+ "generated_at": "2026-08-28T05:09:55.850575+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 467,
+ "count": 468,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -4884,6 +4884,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/tl/opinion/india-which-way-forward-20170325-2.html",
    "md_url": "/tl/opinion/india-which-way-forward-20170325-2.md"
+  },
+  {
+   "slug": "praise-be-to-the-lord-of-the-worlds-20170325-9",
+   "lang": "tl",
+   "category": "quran",
+   "title": "Papuri ay para sa Panginoon ng mga Daigdig",
+   "summary": "Isang pag-aaral batay sa talatang 'Ang lahat ng papuri ay para kay Allah, ang Panginoon ng mga daigdig' (Quran 1:2). Ipinapaliwanag nito ang kahalagahan ng pagpapasalamat sa Allah bilang bahagi ng mga kagandahang-asal na itinuturo sa tao.",
+   "author": "സി.മുഹമ്മദ് റാഫി ചെമ്പ്ര",
+   "issue_date": "2017-03-25",
+   "html_url": "/tl/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.html",
+   "md_url": "/tl/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.md"
   },
   {
    "slug": "prophets-and-trials-20170325-7",
