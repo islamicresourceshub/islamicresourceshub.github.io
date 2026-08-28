@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T05:00:49.317649+00:00",
+ "generated_at": "2026-08-28T05:01:04.912053+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 440,
+ "count": 441,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -869,6 +869,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/en/opinion/india-which-way-forward-20170325-2.html",
    "md_url": "/en/opinion/india-which-way-forward-20170325-2.md"
+  },
+  {
+   "slug": "praise-be-to-the-lord-of-the-worlds-20170325-9",
+   "lang": "en",
+   "category": "quran",
+   "title": "Praise be to the Lord of the Worlds",
+   "summary": "A study based on the verse 'Praise be to Allah, Lord of the Worlds' (Quran 1:2). It explains the significance of praising Allah among the etiquettes taught to humanity.",
+   "author": "സി.മുഹമ്മദ് റാഫി ചെമ്പ്ര",
+   "issue_date": "2017-03-25",
+   "html_url": "/en/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.html",
+   "md_url": "/en/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.md"
   },
   {
    "slug": "prophets-and-trials-20170325-7",
