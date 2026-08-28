@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T05:01:54.217879+00:00",
+ "generated_at": "2026-08-28T05:02:12.852228+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 444,
+ "count": 445,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -1265,6 +1265,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/gu/opinion/india-which-way-forward-20170325-2.html",
    "md_url": "/gu/opinion/india-which-way-forward-20170325-2.md"
+  },
+  {
+   "slug": "praise-be-to-the-lord-of-the-worlds-20170325-9",
+   "lang": "gu",
+   "category": "quran",
+   "title": "સ્તુતિ વિશ્વના પાલનહાર માટે",
+   "summary": "'સ્તુતિ સર્વ વિશ્વના પાલનહાર અલ્લાહ માટે છે' (કુરાન ૧:૨) આ આયત પર આધારિત એક અભ્યાસ. માણસને શીખવવામાં આવતા શિષ્ટાચારોમાં અલ્લાહની સ્તુતિનું સ્થાન સમજાવે છે.",
+   "author": "സി.മുഹമ്മദ് റാഫി ചെമ്പ്ര",
+   "issue_date": "2017-03-25",
+   "html_url": "/gu/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.html",
+   "md_url": "/gu/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.md"
   },
   {
    "slug": "prophets-and-trials-20170325-7",
