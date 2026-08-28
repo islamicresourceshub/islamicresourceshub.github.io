@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T09:36:40.114993+00:00",
+ "generated_at": "2026-08-28T09:37:02.186049+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 783,
+ "count": 784,
  "articles": [
   {
    "slug": "live-knowing-the-value-of-time-20170114-8",
@@ -253,6 +253,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/am/dawah/religion-is-fearlessness-20170114-6.html",
    "md_url": "/am/dawah/religion-is-fearlessness-20170114-6.md"
+  },
+  {
+   "slug": "don-t-worry-allah-is-with-you-20170114-10",
+   "lang": "am",
+   "category": "family",
+   "title": "አትጨነቁ፣ አላህ ከእናንተ ጋር ነው...",
+   "summary": "'ሻንቲ ገሃም' (የሰላም መኖሪያ) በተሰኘው አምድ አማካኝነት በግል እና በቤተሰብ ችግሮች ውስጥ ላሉ ሰዎች መጽናኛ እና መፍትሄዎች ይጠቁማሉ።",
+   "author": "പ്രൊഫ: ഹാരിസ്ബിൻ സലീം",
+   "issue_date": "2017-01-14",
+   "html_url": "/am/family/don-t-worry-allah-is-with-you-20170114-10.html",
+   "md_url": "/am/family/don-t-worry-allah-is-with-you-20170114-10.md"
   },
   {
    "slug": "our-parents-20170325-4",
