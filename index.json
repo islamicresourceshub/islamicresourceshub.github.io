@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T04:20:35.216531+00:00",
+ "generated_at": "2026-08-28T04:20:48.506887+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 301,
+ "count": 302,
  "articles": [
   {
    "slug": "our-parents-20170325-4",
@@ -2838,6 +2838,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/ps/family/our-parents-20170325-4.html",
    "md_url": "/ps/family/our-parents-20170325-4.md"
+  },
+  {
+   "slug": "mosque-construction-some-points-to-note-20170325-5",
+   "lang": "ps",
+   "category": "fiqh",
+   "title": "د جومات جوړونه: ځینې د پام وړ ټکي",
+   "summary": "دا لیکنه د جوماتونو د جوړولو په اړه د فقهي او عملي اړخونو په اړه ده، چې د نبوي سنتو په رڼا کې د جومات د جوړولو، د هغې د مدیریت او د امامانو د حقونو په اړه لارښوونې وړاندې کوي.",
+   "author": "ഡോ. അബ്ദുറസാഖ് സുല്ലമി",
+   "issue_date": "2017-03-25",
+   "html_url": "/ps/fiqh/mosque-construction-some-points-to-note-20170325-5.html",
+   "md_url": "/ps/fiqh/mosque-construction-some-points-to-note-20170325-5.md"
   },
   {
    "slug": "control-your-mind-20170325-3",
