@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T04:17:20.688469+00:00",
+ "generated_at": "2026-08-28T04:17:33.541945+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 286,
+ "count": 287,
  "articles": [
   {
    "slug": "our-parents-20170325-4",
@@ -671,6 +671,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/fa/family/our-parents-20170325-4.html",
    "md_url": "/fa/family/our-parents-20170325-4.md"
+  },
+  {
+   "slug": "mosque-construction-some-points-to-note-20170325-5",
+   "lang": "fa",
+   "category": "fiqh",
+   "title": "ساخت مسجد: نکاتی که باید به آن‌ها توجه کرد",
+   "summary": "این مقاله به بررسی فقهی ساخت مسجد بر پایه این اصل که مساجد خانه‌های خدا هستند می‌پردازد. با الگوگیری از اقدام پیامبر (ص) در ساخت مسجد نبوی پس از ورود به مدینه، نکات مهمی برای ساخت و مدیریت مساجد تبیین شده است.",
+   "author": "ഡോ. അബ്ദുറസാഖ് സുല്ലമി",
+   "issue_date": "2017-03-25",
+   "html_url": "/fa/fiqh/mosque-construction-some-points-to-note-20170325-5.html",
+   "md_url": "/fa/fiqh/mosque-construction-some-points-to-note-20170325-5.md"
   },
   {
    "slug": "control-your-mind-20170325-3",
