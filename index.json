@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T04:09:30.262374+00:00",
+ "generated_at": "2026-08-28T04:09:41.643824+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 253,
+ "count": 254,
  "articles": [
   {
    "slug": "our-parents-20170325-4",
@@ -836,6 +836,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/id/youth/an-agenda-is-needed-during-vacation-too-20170325-1.html",
    "md_url": "/id/youth/an-agenda-is-needed-during-vacation-too-20170325-1.md"
+  },
+  {
+   "slug": "our-parents-20170325-4",
+   "lang": "it",
+   "category": "family",
+   "title": "I nostri genitori",
+   "summary": "Questa riflessione esplora il dono immenso che sono i genitori, sottolineando il dovere di gratitudine e rispetto che ogni figlio deve loro. Attraverso insegnamenti islamici, l'articolo ricorda che il paradiso si ottiene servendo i propri genitori con amore e devozione.",
+   "author": "കെ.സഫ്‌വാന്‍ മുഹമ്മദ്, ആമയൂര്‍",
+   "issue_date": "2017-03-25",
+   "html_url": "/it/family/our-parents-20170325-4.html",
+   "md_url": "/it/family/our-parents-20170325-4.md"
   },
   {
    "slug": "control-your-mind-20170325-3",
