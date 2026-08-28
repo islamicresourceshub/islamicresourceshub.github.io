@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T04:03:51.246687+00:00",
+ "generated_at": "2026-08-28T04:04:15.453508+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 218,
+ "count": 219,
  "articles": [
   {
    "slug": "control-your-mind-20170325-3",
@@ -2442,6 +2442,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/ta/youth/an-agenda-is-needed-during-vacation-too-20170325-1.html",
    "md_url": "/ta/youth/an-agenda-is-needed-during-vacation-too-20170325-1.md"
+  },
+  {
+   "slug": "control-your-mind-20170325-3",
+   "lang": "te",
+   "category": "hadith",
+   "title": "మనస్సును నియంత్రించుకోండి",
+   "summary": "అబూ హురైరా (ర) నుండి ఉల్లేఖించబడిన ప్రవక్త (స) హదీసు ఆధారంగా ఈ వ్యాసం రూపొందించబడింది. కోపం వచ్చినప్పుడు మనస్సును అదుపులో ఉంచుకునేవాడే నిజమైన బలవంతుడని ఇది వివరిస్తుంది.",
+   "author": "ഉസ്മാന്‍ പാലക്കാഴി",
+   "issue_date": "2017-03-25",
+   "html_url": "/te/hadith/control-your-mind-20170325-3.html",
+   "md_url": "/te/hadith/control-your-mind-20170325-3.md"
   },
   {
    "slug": "india-which-way-forward-20170325-2",
