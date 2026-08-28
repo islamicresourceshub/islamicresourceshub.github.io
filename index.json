@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T10:13:41.129154+00:00",
+ "generated_at": "2026-08-28T10:13:55.558972+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 902,
+ "count": 903,
  "articles": [
   {
    "slug": "live-knowing-the-value-of-time-20170114-8",
@@ -1001,6 +1001,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/bn/opinion/elections-the-stand-must-be-well-considered-20170325-10.html",
    "md_url": "/bn/opinion/elections-the-stand-must-be-well-considered-20170325-10.md"
+  },
+  {
+   "slug": "everyone-should-have-a-beard-20170121-3",
+   "lang": "bn",
+   "category": "opinion",
+   "title": "সবারই দাড়ি থাকা প্রয়োজন!",
+   "summary": "এই নিবন্ধটি দাড়ি নিয়ে বিরূপ মন্তব্যকারী একজন লেখকের দৃষ্টিভঙ্গির সমালোচনা করে। এতে সুন্নাহর গুরুত্ব এবং যারা এর বিরোধিতা করেন তাদের অবস্থানের যৌক্তিক বিশ্লেষণ করা হয়েছে।",
+   "author": "അബൂമിസ്‌യാല്‍",
+   "issue_date": "2017-01-21",
+   "html_url": "/bn/opinion/everyone-should-have-a-beard-20170121-3.html",
+   "md_url": "/bn/opinion/everyone-should-have-a-beard-20170121-3.md"
   },
   {
    "slug": "india-which-way-forward-20170325-2",
