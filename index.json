@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T04:27:35.489220+00:00",
+ "generated_at": "2026-08-28T04:27:53.308232+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 327,
+ "count": 328,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -880,6 +880,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/fr/youth/an-agenda-is-needed-during-vacation-too-20170325-1.html",
    "md_url": "/fr/youth/an-agenda-is-needed-during-vacation-too-20170325-1.md"
+  },
+  {
+   "slug": "prayer-that-is-worship-20170325-6",
+   "lang": "gu",
+   "category": "dawah",
+   "title": "પ્રાર્થના: તે જ ઈબાદત (આરાધના) છે",
+   "summary": "આ લેખ સ્થાપિત કરે છે કે ઈસ્લામે શીખવેલી પદ્ધતિ મુજબ ઈબાદત જાળવી રાખવી એ માનવ જીવનનું મુખ્ય લક્ષ્ય છે. કુરાની આયતોના આધારે પ્રાર્થનાનું આરાધનાત્મક સ્વરૂપ સમજાવવામાં આવ્યું છે.",
+   "author": "മൂസ സ്വലാഹി, കാര",
+   "issue_date": "2017-03-25",
+   "html_url": "/gu/dawah/prayer-that-is-worship-20170325-6.html",
+   "md_url": "/gu/dawah/prayer-that-is-worship-20170325-6.md"
   },
   {
    "slug": "our-parents-20170325-4",
