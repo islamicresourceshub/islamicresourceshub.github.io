@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T09:05:31.496298+00:00",
+ "generated_at": "2026-08-28T09:05:50.715968+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 661,
+ "count": 662,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -6787,6 +6787,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/tr/dawah/prayer-that-is-worship-20170325-6.html",
    "md_url": "/tr/dawah/prayer-that-is-worship-20170325-6.md"
+  },
+  {
+   "slug": "religion-is-fearlessness-20170114-6",
+   "lang": "tr",
+   "category": "dawah",
+   "title": "Din Korkusuzluktur",
+   "summary": "Bu makale, İslam'ın özündeki 'silm' (barış) ve 'eman' (güven/korkusuzluk) kavramlarından yola çıkarak, dinin birey ve toplum için nasıl bir huzur ve emniyet kaynağı olduğunu ele almaktadır.",
+   "author": "ഉസ്മാൻ പാലക്കാഴി",
+   "issue_date": "2017-01-14",
+   "html_url": "/tr/dawah/religion-is-fearlessness-20170114-6.html",
+   "md_url": "/tr/dawah/religion-is-fearlessness-20170114-6.md"
   },
   {
    "slug": "islamic-parenting-significance-and-goals-part-1-20170114-4",
