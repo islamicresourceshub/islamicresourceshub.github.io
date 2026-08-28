@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T10:42:53.716466+00:00",
+ "generated_at": "2026-08-28T10:43:06.335085+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 921,
+ "count": 922,
  "articles": [
   {
    "slug": "live-knowing-the-value-of-time-20170114-8",
@@ -6732,6 +6732,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/pa/opinion/elections-the-stand-must-be-well-considered-20170325-10.html",
    "md_url": "/pa/opinion/elections-the-stand-must-be-well-considered-20170325-10.md"
+  },
+  {
+   "slug": "everyone-should-have-a-beard-20170121-3",
+   "lang": "pa",
+   "category": "opinion",
+   "title": "ਸਾਰਿਆਂ ਨੂੰ ਦਾੜ੍ਹੀ ਚਾਹੀਦੀ ਹੈ!",
+   "summary": "ਇਹ ਲੇਖ ਇੱਕ ਲੇਖਕ ਦੀ ਆਲੋਚਨਾ ਕਰਦਾ ਹੈ ਜੋ ਦਾੜ੍ਹੀ ਬਾਰੇ ਨਕਾਰਾਤਮਕ ਵਿਚਾਰ ਰੱਖਦਾ ਹੈ। ਇਸ ਵਿੱਚ ਸੁੰਨਤ ਦੀ ਮਹੱਤਤਾ ਅਤੇ ਇਸ ਦੇ ਵਿਰੋਧੀਆਂ ਦੇ ਤਰਕਾਂ ਦਾ ਵਿਸ਼ਲੇਸ਼ਣ ਕੀਤਾ ਗਿਆ ਹੈ।",
+   "author": "അബൂമിസ്‌യാല്‍",
+   "issue_date": "2017-01-21",
+   "html_url": "/pa/opinion/everyone-should-have-a-beard-20170121-3.html",
+   "md_url": "/pa/opinion/everyone-should-have-a-beard-20170121-3.md"
   },
   {
    "slug": "india-which-way-forward-20170325-2",
