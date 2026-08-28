@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T04:47:54.488374+00:00",
+ "generated_at": "2026-08-28T04:48:08.712605+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 395,
+ "count": 396,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -286,6 +286,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/am/seerah/prophets-and-trials-20170325-7.html",
    "md_url": "/am/seerah/prophets-and-trials-20170325-7.md"
+  },
+  {
+   "slug": "good-intention-matters-most-20170325-8",
+   "lang": "am",
+   "category": "story",
+   "title": "መልካም ዓላማ ነው ዋናው",
+   "summary": "ይህ ጽሑፍ በሥራ መሃል በደረሰ አንድ የስልክ ጥሪ የሚጀምር እና የመልካም ዓላማንና የቅንነትን አስፈላጊነት በተግባር የሚያሳይ ታሪክ ነው።",
+   "author": "ഇബ്‌നു അലി എടത്തനാട്ടുകര",
+   "issue_date": "2017-03-25",
+   "html_url": "/am/story/good-intention-matters-most-20170325-8.html",
+   "md_url": "/am/story/good-intention-matters-most-20170325-8.md"
   },
   {
    "slug": "an-agenda-is-needed-during-vacation-too-20170325-1",
