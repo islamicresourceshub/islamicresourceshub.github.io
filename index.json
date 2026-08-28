@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T08:33:04.103175+00:00",
+ "generated_at": "2026-08-28T08:33:30.958145+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 563,
+ "count": 564,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -1936,6 +1936,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/id/dawah/prayer-that-is-worship-20170325-6.html",
    "md_url": "/id/dawah/prayer-that-is-worship-20170325-6.md"
+  },
+  {
+   "slug": "islamic-parenting-significance-and-goals-part-1-20170114-4",
+   "lang": "id",
+   "category": "family",
+   "title": "Pengasuhan Islami: Pentingnya dan Tujuannya",
+   "summary": "Bagian pertama yang menjelaskan pentingnya dan tujuan pengasuhan Islami. Topik ini relevan bagi semua orang tua, baik yang berpendidikan maupun tidak.",
+   "author": "അഷ്‌റഫ്‌ എകരൂൽ",
+   "issue_date": "2017-01-14",
+   "html_url": "/id/family/islamic-parenting-significance-and-goals-part-1-20170114-4.html",
+   "md_url": "/id/family/islamic-parenting-significance-and-goals-part-1-20170114-4.md"
   },
   {
    "slug": "our-parents-20170325-4",
