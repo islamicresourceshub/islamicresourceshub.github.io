@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T04:09:53.952590+00:00",
+ "generated_at": "2026-08-28T04:10:07.124153+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 255,
+ "count": 256,
  "articles": [
   {
    "slug": "our-parents-20170325-4",
@@ -924,6 +924,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/ja/youth/an-agenda-is-needed-during-vacation-too-20170325-1.html",
    "md_url": "/ja/youth/an-agenda-is-needed-during-vacation-too-20170325-1.md"
+  },
+  {
+   "slug": "our-parents-20170325-4",
+   "lang": "kn",
+   "category": "family",
+   "title": "ನಮ್ಮ ತಂದೆ-ತಾಯಿಗಳು",
+   "summary": "ಅಲ್ಲಾಹನ ಮಹಾನ್ ಅನುಗ್ರಹಗಳಾದ ತಂದೆ-ತಾಯಿಯರ ಕುರಿತಾದ ಚಿಂತನೆಗಳಿವು. ಮನುಷ್ಯರಾಗಿ ಜನಿಸಲು ಸಾಧ್ಯವಾದದ್ದು ಒಂದು ದೊಡ್ಡ ಭಾಗ್ಯವೆಂದೂ, ಪೋಷಕರ ಕಡೆಗೆ ನಮಗಿರುವ ಜವಾಬ್ದಾರಿಗಳೇನು ಎಂಬುದನ್ನು ಈ ಲೇಖನವು ವಿವರಿಸುತ್ತದೆ.",
+   "author": "കെ.സഫ്‌വാന്‍ മുഹമ്മദ്, ആമയൂര്‍",
+   "issue_date": "2017-03-25",
+   "html_url": "/kn/family/our-parents-20170325-4.html",
+   "md_url": "/kn/family/our-parents-20170325-4.md"
   },
   {
    "slug": "control-your-mind-20170325-3",
