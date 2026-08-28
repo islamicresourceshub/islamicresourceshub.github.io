@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T03:58:30.904541+00:00",
+ "generated_at": "2026-08-28T03:59:09.564870+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 210,
+ "count": 211,
  "articles": [
   {
    "slug": "control-your-mind-20170325-3",
@@ -2178,6 +2178,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/pa/youth/an-agenda-is-needed-during-vacation-too-20170325-1.html",
    "md_url": "/pa/youth/an-agenda-is-needed-during-vacation-too-20170325-1.md"
+  },
+  {
+   "slug": "control-your-mind-20170325-3",
+   "lang": "ps",
+   "category": "hadith",
+   "title": "د خپل ذهن کنټرولول",
+   "summary": "دا لیکنه د حضرت ابوهریره (رض) څخه په روایت شوي نبوي حدیث باندې یو علمي بحث دی. دا په دې حقیقت رڼا اچوي چې اصلي پیاوړی هغه څوک دی چې د غصې په وخت کې خپل نفس کنټرول کړي.",
+   "author": "ഉസ്മാന്‍ പാലക്കാഴി",
+   "issue_date": "2017-03-25",
+   "html_url": "/ps/hadith/control-your-mind-20170325-3.html",
+   "md_url": "/ps/hadith/control-your-mind-20170325-3.md"
   },
   {
    "slug": "india-which-way-forward-20170325-2",
