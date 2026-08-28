@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T04:14:47.383975+00:00",
+ "generated_at": "2026-08-28T04:15:02.682222+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 275,
+ "count": 276,
  "articles": [
   {
    "slug": "our-parents-20170325-4",
@@ -3146,6 +3146,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/ur/youth/an-agenda-is-needed-during-vacation-too-20170325-1.html",
    "md_url": "/ur/youth/an-agenda-is-needed-during-vacation-too-20170325-1.md"
+  },
+  {
+   "slug": "our-parents-20170325-4",
+   "lang": "uz",
+   "category": "family",
+   "title": "Ota-onalarimiz",
+   "summary": "Ushbu maqola Allohning ulug‘ ne’mati bo‘lgan ota-onalarimiz haqida fikr yuritadi. Unda inson sifatida dunyoga kelishimizdagi ota-onaning o‘rni, ularga bo‘lgan burchimiz va ularning roziligini olishning ahamiyati bayon etilgan.",
+   "author": "കെ.സഫ്‌വാന്‍ മുഹമ്മദ്, ആമയൂര്‍",
+   "issue_date": "2017-03-25",
+   "html_url": "/uz/family/our-parents-20170325-4.html",
+   "md_url": "/uz/family/our-parents-20170325-4.md"
   },
   {
    "slug": "control-your-mind-20170325-3",
