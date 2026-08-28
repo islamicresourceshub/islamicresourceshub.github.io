@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T03:45:18.870392+00:00",
+ "generated_at": "2026-08-28T03:45:30.529025+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 146,
+ "count": 147,
  "articles": [
   {
    "slug": "an-agenda-is-needed-during-vacation-too-20170325-1",
@@ -1826,6 +1826,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/uz/youth/an-agenda-is-needed-during-vacation-too-20170325-1.html",
    "md_url": "/uz/youth/an-agenda-is-needed-during-vacation-too-20170325-1.md"
+  },
+  {
+   "slug": "an-agenda-is-needed-during-vacation-too-20170325-1",
+   "lang": "vi",
+   "category": "youth",
+   "title": "Cần có một chương trình nghị sự; ngay cả trong kỳ nghỉ",
+   "summary": "Bài viết này nhấn mạnh tầm quan trọng của kỳ nghỉ sau khi kết thúc năm học. Tác giả chỉ ra rằng cần có một chương trình nghị sự mang tính Hồi giáo để giúp trẻ em sử dụng thời gian một cách hữu ích.",
+   "author": "ഡോ. സി.എം സാബിര്‍ നവാസ്",
+   "issue_date": "2017-03-25",
+   "html_url": "/vi/youth/an-agenda-is-needed-during-vacation-too-20170325-1.html",
+   "md_url": "/vi/youth/an-agenda-is-needed-during-vacation-too-20170325-1.md"
   }
  ]
 }
