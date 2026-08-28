@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T09:25:26.203399+00:00",
+ "generated_at": "2026-08-28T09:25:59.070498+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 748,
+ "count": 749,
  "articles": [
   {
    "slug": "live-knowing-the-value-of-time-20170114-8",
@@ -1089,6 +1089,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/bs/opinion/terrorism-and-religious-freedom-20170114-1.html",
    "md_url": "/bs/opinion/terrorism-and-religious-freedom-20170114-1.md"
+  },
+  {
+   "slug": "uapa-wielding-sedition-law-20170114-9",
+   "lang": "bs",
+   "category": "opinion",
+   "title": "UAPA: Zakon o izdaji koji drži bič",
+   "summary": "Kritički osvrt na zloupotrebu zakona UAPA i zakona o izdaji u Indiji. Članak postavlja važna pitanja o pravdi, slobodi i načinu na koji država koristi zakonske okvire za suzbijanje neistomišljenika.",
+   "author": "പി.വി.എ പ്രിംറോസ്‌",
+   "issue_date": "2017-01-14",
+   "html_url": "/bs/opinion/uapa-wielding-sedition-law-20170114-9.html",
+   "md_url": "/bs/opinion/uapa-wielding-sedition-law-20170114-9.md"
   },
   {
    "slug": "praise-be-to-the-lord-of-the-worlds-20170325-9",
