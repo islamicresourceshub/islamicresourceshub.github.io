@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T08:50:08.238785+00:00",
+ "generated_at": "2026-08-28T08:50:22.981086+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 615,
+ "count": 616,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -5533,6 +5533,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/so/youth/an-agenda-is-needed-during-vacation-too-20170325-1.html",
    "md_url": "/so/youth/an-agenda-is-needed-during-vacation-too-20170325-1.md"
+  },
+  {
+   "slug": "what-will-the-waste-do-20170114-5",
+   "lang": "so",
+   "category": "youth",
+   "title": "Maxaynu ka yeelnaa qashinka?",
+   "summary": "Sheekadan waxay carruurta u sharraxaysaa muhiimadda nadaafadda iyo sida saxda ah ee loo maareeyo qashinka, iyadoo loo marayo sheekada gabadh yar oo caqli badan oo la yiraahdo Shareefa.",
+   "author": "അബൂഫായിദ",
+   "issue_date": "2017-01-14",
+   "html_url": "/so/youth/what-will-the-waste-do-20170114-5.html",
+   "md_url": "/so/youth/what-will-the-waste-do-20170114-5.md"
   },
   {
    "slug": "prayer-that-is-worship-20170325-6",
