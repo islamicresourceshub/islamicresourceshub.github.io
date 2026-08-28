@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T10:43:17.689912+00:00",
+ "generated_at": "2026-08-28T10:43:28.897544+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 923,
+ "count": 924,
  "articles": [
   {
    "slug": "live-knowing-the-value-of-time-20170114-8",
@@ -7172,6 +7172,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/pt/opinion/elections-the-stand-must-be-well-considered-20170325-10.html",
    "md_url": "/pt/opinion/elections-the-stand-must-be-well-considered-20170325-10.md"
+  },
+  {
+   "slug": "everyone-should-have-a-beard-20170121-3",
+   "lang": "pt",
+   "category": "opinion",
+   "title": "Todos precisam de barba!",
+   "summary": "Um artigo crítico que analisa a postura de um colunista em relação à barba e à Sunnah. O texto refuta argumentos superficiais contra a prática profética e defende a importância da coerência intelectual e religiosa.",
+   "author": "അബൂമിസ്‌യാല്‍",
+   "issue_date": "2017-01-21",
+   "html_url": "/pt/opinion/everyone-should-have-a-beard-20170121-3.html",
+   "md_url": "/pt/opinion/everyone-should-have-a-beard-20170121-3.md"
   },
   {
    "slug": "india-which-way-forward-20170325-2",
