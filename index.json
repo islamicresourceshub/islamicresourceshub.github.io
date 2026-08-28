@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T05:06:34.425660+00:00",
+ "generated_at": "2026-08-28T05:06:52.786636+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 460,
+ "count": 461,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -4191,6 +4191,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/si/opinion/india-which-way-forward-20170325-2.html",
    "md_url": "/si/opinion/india-which-way-forward-20170325-2.md"
+  },
+  {
+   "slug": "praise-be-to-the-lord-of-the-worlds-20170325-9",
+   "lang": "si",
+   "category": "quran",
+   "title": "ලෝකයේ පාලකයාණන්ට ප්‍රශංසා වේවා",
+   "summary": "'සකල ලෝකවාසීන්ගේ පාලකයාණන් වන අල්ලාහ්ට ප්‍රශංසා වේවා' (කුර්ආනය 1:2) යන වැකිය පදනම් කරගත් අධ්‍යයනයකි. මිනිසා උගත යුතු ආචාරධර්ම අතර අල්ලාහ්ට කරන ප්‍රශංසාවේ ස්ථානය මෙහි විස්තර කෙරේ.",
+   "author": "സി.മുഹമ്മദ് റാഫി ചെമ്പ്ര",
+   "issue_date": "2017-03-25",
+   "html_url": "/si/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.html",
+   "md_url": "/si/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.md"
   },
   {
    "slug": "prophets-and-trials-20170325-7",
