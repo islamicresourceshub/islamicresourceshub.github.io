@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T09:11:04.865769+00:00",
+ "generated_at": "2026-08-28T09:11:16.626233+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 685,
+ "count": 686,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -4774,6 +4774,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/ms/opinion/india-which-way-forward-20170325-2.html",
    "md_url": "/ms/opinion/india-which-way-forward-20170325-2.md"
+  },
+  {
+   "slug": "muslim-extremists-defame-islam-20170114-7",
+   "lang": "ms",
+   "category": "opinion",
+   "title": "Pengganas Muslim adalah mereka yang mencemarkan Islam",
+   "summary": "Petikan daripada temu bual dengan sejarawan M.G.S. Narayanan. Beliau membincangkan perubahan yang dibawa oleh Islam, kebangkitan semula Muslim di Kerala, dan isu ekstremisme.",
+   "author": "എം.ജി.എസ്‌ നാരായണൻ / റസ്റ്റം ഉസ്മാൻ",
+   "issue_date": "2017-01-14",
+   "html_url": "/ms/opinion/muslim-extremists-defame-islam-20170114-7.html",
+   "md_url": "/ms/opinion/muslim-extremists-defame-islam-20170114-7.md"
   },
   {
    "slug": "terrorism-and-religious-freedom-20170114-1",
