@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T04:31:17.696740+00:00",
+ "generated_at": "2026-08-28T04:31:37.892688+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 339,
+ "count": 340,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -3014,6 +3014,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/or/youth/an-agenda-is-needed-during-vacation-too-20170325-1.html",
    "md_url": "/or/youth/an-agenda-is-needed-during-vacation-too-20170325-1.md"
+  },
+  {
+   "slug": "prayer-that-is-worship-20170325-6",
+   "lang": "pa",
+   "category": "dawah",
+   "title": "ਪ੍ਰਾਰਥਨਾ: ਇਹ ਹੀ ਇਬਾਦਤ (ਆਰਾਧਨਾ) ਹੈ",
+   "summary": "ਇਹ ਲੇਖ ਇਸ ਗੱਲ 'ਤੇ ਜ਼ੋਰ ਦਿੰਦਾ ਹੈ ਕਿ ਮਨੁੱਖੀ ਜੀਵਨ ਦਾ ਮੁੱਖ ਉਦੇਸ਼ ਇਸਲਾਮ ਦੁਆਰਾ ਨਿਰਧਾਰਤ ਤਰੀਕੇ ਨਾਲ ਇਬਾਦਤ ਨੂੰ ਕਾਇਮ ਰੱਖਣਾ ਹੈ। ਇਹ ਕੁਰਾਨ ਦੀਆਂ ਆਇਤਾਂ ਦੇ ਆਧਾਰ 'ਤੇ ਪ੍ਰਾਰਥਨਾ ਦੇ ਇਬਾਦਤੀ ਸੁਭਾਅ ਨੂੰ ਵਿਸਥਾਰ ਨਾਲ ਸਮਝਾਉਂਦਾ ਹੈ।",
+   "author": "മൂസ സ്വലാഹി, കാര",
+   "issue_date": "2017-03-25",
+   "html_url": "/pa/dawah/prayer-that-is-worship-20170325-6.html",
+   "md_url": "/pa/dawah/prayer-that-is-worship-20170325-6.md"
   },
   {
    "slug": "our-parents-20170325-4",
