@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T09:35:36.036960+00:00",
+ "generated_at": "2026-08-28T09:36:01.995304+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 780,
+ "count": 781,
  "articles": [
   {
    "slug": "live-knowing-the-value-of-time-20170114-8",
@@ -8393,6 +8393,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/uz/opinion/terrorism-and-religious-freedom-20170114-1.html",
    "md_url": "/uz/opinion/terrorism-and-religious-freedom-20170114-1.md"
+  },
+  {
+   "slug": "uapa-wielding-sedition-law-20170114-9",
+   "lang": "uz",
+   "category": "opinion",
+   "title": "UAPA: Davlatga xiyonat to‘g‘risidagi qonun qamchisi",
+   "summary": "Ushbu maqola UAPA (Noqonuniy faoliyatning oldini olish to‘g‘risidagi qonun) va davlatga xiyonat to‘g‘risidagi qonunlarning suiiste’mol qilinishini tanqidiy tahlil qiladi. Muallif adolat va erkinlik masalalarini ko‘tarib, qonunlarning fuqarolarga qarshi qurol sifatida ishlatilayotganiga e’tibor qaratadi.",
+   "author": "പി.വി.എ പ്രിംറോസ്‌",
+   "issue_date": "2017-01-14",
+   "html_url": "/uz/opinion/uapa-wielding-sedition-law-20170114-9.html",
+   "md_url": "/uz/opinion/uapa-wielding-sedition-law-20170114-9.md"
   },
   {
    "slug": "praise-be-to-the-lord-of-the-worlds-20170325-9",
