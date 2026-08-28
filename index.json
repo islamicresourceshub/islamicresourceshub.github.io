@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T10:01:18.028510+00:00",
+ "generated_at": "2026-08-28T10:01:43.306120+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 882,
+ "count": 883,
  "articles": [
   {
    "slug": "live-knowing-the-value-of-time-20170114-8",
@@ -6314,6 +6314,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/or/opinion/uapa-wielding-sedition-law-20170114-9.html",
    "md_url": "/or/opinion/uapa-wielding-sedition-law-20170114-9.md"
+  },
+  {
+   "slug": "when-national-tradition-is-questioned-20170121-2",
+   "lang": "or",
+   "category": "opinion",
+   "title": "ଜାତୀୟ ପରମ୍ପରା ଯେତେବେଳେ ପ୍ରଶ୍ନବାଚୀ ହୁଏ",
+   "summary": "ପ୍ରଫେସର ଏମ୍.ଜି.ଏସ୍. ନାରାୟଣନ୍ ଜାତୀୟତାବାଦ ସମ୍ପର୍କରେ ଦେଇଥିବା ମନ୍ତବ୍ୟ ଏବଂ ଏହାକୁ ନେଇ ସୃଷ୍ଟି ହୋଇଥିବା ଚର୍ଚ୍ଚାକୁ ଏହି ପ୍ରବନ୍ଧ ବିଶ୍ଳେଷଣ କରେ। ଏହା ଭାରତୀୟ ସମାଜରେ ଜାତୀୟ ପରମ୍ପରାର ପ୍ରାସଙ୍ଗିକତା ଏବଂ ସ୍ଥିତିକୁ ପରଖିଥାଏ।",
+   "author": "ഉസ്മാൻ പാലക്കാഴി",
+   "issue_date": "2017-01-21",
+   "html_url": "/or/opinion/when-national-tradition-is-questioned-20170121-2.html",
+   "md_url": "/or/opinion/when-national-tradition-is-questioned-20170121-2.md"
   },
   {
    "slug": "who-should-leave-india-20170121-1",
