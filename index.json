@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T04:15:16.874598+00:00",
+ "generated_at": "2026-08-28T04:15:30.555823+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 277,
+ "count": 278,
  "articles": [
   {
    "slug": "our-parents-20170325-4",
@@ -3234,6 +3234,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/vi/youth/an-agenda-is-needed-during-vacation-too-20170325-1.html",
    "md_url": "/vi/youth/an-agenda-is-needed-during-vacation-too-20170325-1.md"
+  },
+  {
+   "slug": "our-parents-20170325-4",
+   "lang": "zh",
+   "category": "family",
+   "title": "我们的父母",
+   "summary": "本文探讨了父母作为真主赐予我们的重要恩典，强调了作为子女对父母应尽的义务。文章通过教义和故事，提醒我们要孝顺父母，因为他们是子女通往天堂的途径。",
+   "author": "കെ.സഫ്‌വാന്‍ മുഹമ്മദ്, ആമയൂര്‍",
+   "issue_date": "2017-03-25",
+   "html_url": "/zh/family/our-parents-20170325-4.html",
+   "md_url": "/zh/family/our-parents-20170325-4.md"
   },
   {
    "slug": "control-your-mind-20170325-3",
