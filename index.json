@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T04:20:59.647538+00:00",
+ "generated_at": "2026-08-28T04:21:11.087536+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 303,
+ "count": 304,
  "articles": [
   {
    "slug": "our-parents-20170325-4",
@@ -2948,6 +2948,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/ru/family/our-parents-20170325-4.html",
    "md_url": "/ru/family/our-parents-20170325-4.md"
+  },
+  {
+   "slug": "mosque-construction-some-points-to-note-20170325-5",
+   "lang": "ru",
+   "category": "fiqh",
+   "title": "Строительство мечети: на что стоит обратить внимание",
+   "summary": "Изучение фикха, основанного на принципе, что мечети — это дома Аллаха. В статье разъясняются важные аспекты строительства мечетей, опираясь на пример Пророка (мир ему и благословение), который начал свою деятельность в Медине со строительства мечети.",
+   "author": "ഡോ. അബ്ദുറസാഖ് സുല്ലമി",
+   "issue_date": "2017-03-25",
+   "html_url": "/ru/fiqh/mosque-construction-some-points-to-note-20170325-5.html",
+   "md_url": "/ru/fiqh/mosque-construction-some-points-to-note-20170325-5.md"
   },
   {
    "slug": "control-your-mind-20170325-3",
