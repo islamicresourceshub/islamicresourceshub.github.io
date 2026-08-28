@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T10:51:55.505529+00:00",
+ "generated_at": "2026-08-28T10:52:09.328456+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 960,
+ "count": 961,
  "articles": [
   {
    "slug": "live-knowing-the-value-of-time-20170114-8",
@@ -6919,6 +6919,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/pa/family/don-t-worry-allah-is-with-you-20170114-10.html",
    "md_url": "/pa/family/don-t-worry-allah-is-with-you-20170114-10.md"
+  },
+  {
+   "slug": "how-to-be-a-good-parent-part-2-20170121-4",
+   "lang": "pa",
+   "category": "family",
+   "title": "ਇੱਕ ਚੰਗਾ ਮਾਪਾ ਕਿਵੇਂ ਬਣੀਏ?",
+   "summary": "ਇੱਕ ਚੰਗਾ ਮਾਪਾ ਬਣਨ ਲਈ ਇਸਲਾਮੀ ਦਿਸ਼ਾ-ਨਿਰਦੇਸ਼ਾਂ ਦਾ ਦੂਜਾ ਭਾਗ। ਇਹ ਲੇਖ ਪ੍ਰਮਾਤਮਾ ਦੇ ਹੁਕਮਾਂ ਅਨੁਸਾਰ ਜੀਵਨ ਬਤੀਤ ਕਰਨ ਅਤੇ ਪਰਲੋਕ ਵਿੱਚ ਜੰਨਤ ਪ੍ਰਾਪਤ ਕਰਨ ਦੇ ਤਰੀਕਿਆਂ ਬਾਰੇ ਦੱਸਦਾ ਹੈ।",
+   "author": "അഷ്‌റഫ് എകരൂല്‍",
+   "issue_date": "2017-01-21",
+   "html_url": "/pa/family/how-to-be-a-good-parent-part-2-20170121-4.html",
+   "md_url": "/pa/family/how-to-be-a-good-parent-part-2-20170121-4.md"
   },
   {
    "slug": "islamic-parenting-significance-and-goals-part-1-20170114-4",
