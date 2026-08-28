@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T03:55:47.596909+00:00",
+ "generated_at": "2026-08-28T03:56:14.565184+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 203,
+ "count": 204,
  "articles": [
   {
    "slug": "control-your-mind-20170325-3",
@@ -748,6 +748,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/ja/youth/an-agenda-is-needed-during-vacation-too-20170325-1.html",
    "md_url": "/ja/youth/an-agenda-is-needed-during-vacation-too-20170325-1.md"
+  },
+  {
+   "slug": "control-your-mind-20170325-3",
+   "lang": "kn",
+   "category": "hadith",
+   "title": "ಮನಸ್ಸನ್ನು ನಿಯಂತ್ರಿಸಿ",
+   "summary": "ಅಬೂಹುರೈರಾ(ರ) ಅವರಿಂದ ನಿವೇದಿಸಲ್ಪಟ್ಟ ಪ್ರವಾದಿ(ಸ)ಯವರ ಹದೀಸನ್ನು ಆಧರಿಸಿದ ಅಧ್ಯಯನ. ಕೋಪ ಬಂದಾಗ ಮನಸ್ಸನ್ನು ನಿಯಂತ್ರಿಸುವವನೇ ನಿಜವಾದ ಬಲಶಾಲಿ ಎಂಬ ಸಂದೇಶವನ್ನು ಇದು ವಿವರಿಸುತ್ತದೆ.",
+   "author": "ഉസ്മാന്‍ പാലക്കാഴി",
+   "issue_date": "2017-03-25",
+   "html_url": "/kn/hadith/control-your-mind-20170325-3.html",
+   "md_url": "/kn/hadith/control-your-mind-20170325-3.md"
   },
   {
    "slug": "india-which-way-forward-20170325-2",
