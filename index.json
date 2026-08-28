@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T04:25:52.246483+00:00",
+ "generated_at": "2026-08-28T04:26:09.564472+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 322,
+ "count": 323,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -550,6 +550,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/bs/youth/an-agenda-is-needed-during-vacation-too-20170325-1.html",
    "md_url": "/bs/youth/an-agenda-is-needed-during-vacation-too-20170325-1.md"
+  },
+  {
+   "slug": "prayer-that-is-worship-20170325-6",
+   "lang": "de",
+   "category": "dawah",
+   "title": "Gebet: Das ist die Anbetung",
+   "summary": "Dieser Artikel legt dar, dass das Hauptziel des menschlichen Lebens darin besteht, die gottesdienstlichen Handlungen gemäß der Lehre des Islam aufrechtzuerhalten. Er erläutert den gottesdienstlichen Charakter des Gebets auf der Grundlage koranischer Verse.",
+   "author": "മൂസ സ്വലാഹി, കാര",
+   "issue_date": "2017-03-25",
+   "html_url": "/de/dawah/prayer-that-is-worship-20170325-6.html",
+   "md_url": "/de/dawah/prayer-that-is-worship-20170325-6.md"
   },
   {
    "slug": "our-parents-20170325-4",
