@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T04:07:06.063674+00:00",
+ "generated_at": "2026-08-28T04:07:19.534644+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 242,
+ "count": 243,
  "articles": [
   {
    "slug": "our-parents-20170325-4",
@@ -352,6 +352,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/as/youth/an-agenda-is-needed-during-vacation-too-20170325-1.html",
    "md_url": "/as/youth/an-agenda-is-needed-during-vacation-too-20170325-1.md"
+  },
+  {
+   "slug": "our-parents-20170325-4",
+   "lang": "bn",
+   "category": "family",
+   "title": "আমাদের পিতা-মাতা",
+   "summary": "আল্লাহর অন্যতম শ্রেষ্ঠ নিয়ামত হলো পিতা-মাতা। এই নিবন্ধে একজন মানুষ হিসেবে পৃথিবীতে আসার নেপথ্যে পিতা-মাতার ত্যাগের কথা এবং তাদের প্রতি আমাদের দায়িত্ব ও কর্তব্য সম্পর্কে আলোচনা করা হয়েছে।",
+   "author": "കെ.സഫ്‌വാന്‍ മുഹമ്മദ്, ആമയൂര്‍",
+   "issue_date": "2017-03-25",
+   "html_url": "/bn/family/our-parents-20170325-4.html",
+   "md_url": "/bn/family/our-parents-20170325-4.md"
   },
   {
    "slug": "control-your-mind-20170325-3",
