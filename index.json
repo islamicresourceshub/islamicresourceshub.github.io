@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T09:12:54.138619+00:00",
+ "generated_at": "2026-08-28T09:13:12.912435+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 693,
+ "count": 694,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -6083,6 +6083,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/so/opinion/india-which-way-forward-20170325-2.html",
    "md_url": "/so/opinion/india-which-way-forward-20170325-2.md"
+  },
+  {
+   "slug": "muslim-extremists-defame-islam-20170114-7",
+   "lang": "so",
+   "category": "opinion",
+   "title": "Muslim-ka xagjirka ah: Kuwa wasakheeya magaca Islaamka",
+   "summary": "Qayb ka mid ah wareysi lala yeeshay taariikhyahanka M.G.S. Narayanan, kaas oo uu kaga hadlayo isbeddelladii uu Islaamku keenay, dib-u-soo-noolaynta Islaamka ee Kerala, iyo khatarta xagjirnimada.",
+   "author": "എം.ജി.എസ്‌ നാരായണൻ / റസ്റ്റം ഉസ്മാൻ",
+   "issue_date": "2017-01-14",
+   "html_url": "/so/opinion/muslim-extremists-defame-islam-20170114-7.html",
+   "md_url": "/so/opinion/muslim-extremists-defame-islam-20170114-7.md"
   },
   {
    "slug": "terrorism-and-religious-freedom-20170114-1",
