@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T09:37:16.966620+00:00",
+ "generated_at": "2026-08-28T09:37:33.898534+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 785,
+ "count": 786,
  "articles": [
   {
    "slug": "live-knowing-the-value-of-time-20170114-8",
@@ -649,6 +649,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/as/dawah/religion-is-fearlessness-20170114-6.html",
    "md_url": "/as/dawah/religion-is-fearlessness-20170114-6.md"
+  },
+  {
+   "slug": "don-t-worry-allah-is-with-you-20170114-10",
+   "lang": "as",
+   "category": "family",
+   "title": "চিন্তা নকৰিব, আল্লাহ আপোনাৰ সৈতে আছে...",
+   "summary": "'শান্তি গেহম' (শান্তিৰ গৃহ) শিতানৰ জৰিয়তে ব্যক্তিগত আৰু পাৰিবাৰিক সমস্যাত আৱদ্ধ লোকসকলক সকাহ আৰু সমাধানৰ পথ প্ৰদৰ্শন কৰা হয়।",
+   "author": "പ്രൊഫ: ഹാരിസ്ബിൻ സലീം",
+   "issue_date": "2017-01-14",
+   "html_url": "/as/family/don-t-worry-allah-is-with-you-20170114-10.html",
+   "md_url": "/as/family/don-t-worry-allah-is-with-you-20170114-10.md"
   },
   {
    "slug": "our-parents-20170325-4",
