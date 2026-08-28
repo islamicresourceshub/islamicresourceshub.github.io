@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T08:30:24.849340+00:00",
+ "generated_at": "2026-08-28T08:30:47.197259+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 557,
+ "count": 558,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -1144,6 +1144,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/es/dawah/prayer-that-is-worship-20170325-6.html",
    "md_url": "/es/dawah/prayer-that-is-worship-20170325-6.md"
+  },
+  {
+   "slug": "islamic-parenting-significance-and-goals-part-1-20170114-4",
+   "lang": "es",
+   "category": "family",
+   "title": "Crianza Islámica: Importancia y Objetivos",
+   "summary": "La primera parte que explica la importancia y los objetivos de la crianza islámica. Un tema relevante para todos los padres, independientemente de su nivel educativo.",
+   "author": "അഷ്‌റഫ്‌ എകരൂൽ",
+   "issue_date": "2017-01-14",
+   "html_url": "/es/family/islamic-parenting-significance-and-goals-part-1-20170114-4.html",
+   "md_url": "/es/family/islamic-parenting-significance-and-goals-part-1-20170114-4.md"
   },
   {
    "slug": "our-parents-20170325-4",
