@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T09:31:36.152064+00:00",
+ "generated_at": "2026-08-28T09:31:51.834849+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 767,
+ "count": 768,
  "articles": [
   {
    "slug": "live-knowing-the-value-of-time-20170114-8",
@@ -5973,6 +5973,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/ps/opinion/terrorism-and-religious-freedom-20170114-1.html",
    "md_url": "/ps/opinion/terrorism-and-religious-freedom-20170114-1.md"
+  },
+  {
+   "slug": "uapa-wielding-sedition-law-20170114-9",
+   "lang": "ps",
+   "category": "opinion",
+   "title": "UAPA: د هېواد د غدارۍ قانون چې په لښته بدل شوی",
+   "summary": "دا مقاله د UAPA قانون او د هېواد د غدارۍ د قوانینو د ناوړه ګټې اخیستنې په اړه یوه انتقادي څېړنه ده. لیکوال د عدالت، ازادۍ او د دولتي واک د بې ځایه کارونې په اړه جدي پوښتنې راپورته کوي.",
+   "author": "പി.വി.എ പ്രിംറോസ്‌",
+   "issue_date": "2017-01-14",
+   "html_url": "/ps/opinion/uapa-wielding-sedition-law-20170114-9.html",
+   "md_url": "/ps/opinion/uapa-wielding-sedition-law-20170114-9.md"
   },
   {
    "slug": "praise-be-to-the-lord-of-the-worlds-20170325-9",
