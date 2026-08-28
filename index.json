@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T10:12:17.252931+00:00",
+ "generated_at": "2026-08-28T10:12:28.920912+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 899,
+ "count": 900,
  "articles": [
   {
    "slug": "live-knowing-the-value-of-time-20170114-8",
@@ -308,6 +308,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/am/opinion/elections-the-stand-must-be-well-considered-20170325-10.html",
    "md_url": "/am/opinion/elections-the-stand-must-be-well-considered-20170325-10.md"
+  },
+  {
+   "slug": "everyone-should-have-a-beard-20170121-3",
+   "lang": "am",
+   "category": "opinion",
+   "title": "ለሁሉም ሰው ጢም ያስፈልጋል!",
+   "summary": "ይህ ጽሑፍ ጢምን በተመለከተ የተሳሳተ ትችት የሚሰነዝርን ጸሐፊ በመተቸት፣ የሱናን አስፈላጊነት እና የጢምን ክብር የሚከላከል ነው። የጸሐፊውን አቋም በመተንተን የእስልምናን ትክክለኛ አስተምህሮ ያብራራል።",
+   "author": "അബൂമിസ്‌യാല്‍",
+   "issue_date": "2017-01-21",
+   "html_url": "/am/opinion/everyone-should-have-a-beard-20170121-3.html",
+   "md_url": "/am/opinion/everyone-should-have-a-beard-20170121-3.md"
   },
   {
    "slug": "india-which-way-forward-20170325-2",
