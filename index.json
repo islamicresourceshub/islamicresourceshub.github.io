@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T09:17:48.650213+00:00",
+ "generated_at": "2026-08-28T09:17:59.797261+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 716,
+ "count": 717,
  "articles": [
   {
    "slug": "live-knowing-the-value-of-time-20170114-8",
@@ -2145,6 +2145,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/gu/youth/what-will-the-waste-do-20170114-5.html",
    "md_url": "/gu/youth/what-will-the-waste-do-20170114-5.md"
+  },
+  {
+   "slug": "live-knowing-the-value-of-time-20170114-8",
+   "lang": "ha",
+   "category": "dawah",
+   "title": "Rayuwa da Sanin Darajar Lokaci",
+   "summary": "Wannan labarin ya fara ne da tambayar abin da za a iya yi a cikin lokaci guda, sannan ya bayyana mahimmancin rayuwa da sanin darajar lokaci.",
+   "author": "നാസിർ ബാലുശ്ശേരി",
+   "issue_date": "2017-01-14",
+   "html_url": "/ha/dawah/live-knowing-the-value-of-time-20170114-8.html",
+   "md_url": "/ha/dawah/live-knowing-the-value-of-time-20170114-8.md"
   },
   {
    "slug": "prayer-that-is-worship-20170325-6",
