@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T05:42:51.920169+00:00",
+ "generated_at": "2026-08-28T05:43:06.193450+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 521,
+ "count": 522,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -1485,6 +1485,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/gu/opinion/india-which-way-forward-20170325-2.html",
    "md_url": "/gu/opinion/india-which-way-forward-20170325-2.md"
+  },
+  {
+   "slug": "terrorism-and-religious-freedom-20170114-1",
+   "lang": "gu",
+   "category": "opinion",
+   "title": "આતંકવાદનો શિકાર અને ધર્મ સ્વાતંત્ર્ય",
+   "summary": "આ લેખ આતંકવાદ એ કોઈપણ સમાજની શાંતિને ખલેલ પહોંચાડતી માનસિક વિકૃતિ છે તે વિચારથી શરૂ થાય છે. તે આતંકવાદ અને ધર્મ સ્વાતંત્ર્ય વચ્ચેના સંબંધનું વિશ્લેષણ કરે છે.",
+   "author": "ഡോ. സി.എം സാബിർ നവാസ്‌",
+   "issue_date": "2017-01-14",
+   "html_url": "/gu/opinion/terrorism-and-religious-freedom-20170114-1.html",
+   "md_url": "/gu/opinion/terrorism-and-religious-freedom-20170114-1.md"
   },
   {
    "slug": "praise-be-to-the-lord-of-the-worlds-20170325-9",
