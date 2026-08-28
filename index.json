@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T09:48:34.775200+00:00",
+ "generated_at": "2026-08-28T09:48:51.548422+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 833,
+ "count": 834,
  "articles": [
   {
    "slug": "live-knowing-the-value-of-time-20170114-8",
@@ -2651,6 +2651,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/ha/opinion/uapa-wielding-sedition-law-20170114-9.html",
    "md_url": "/ha/opinion/uapa-wielding-sedition-law-20170114-9.md"
+  },
+  {
+   "slug": "who-should-leave-india-20170121-1",
+   "lang": "ha",
+   "category": "opinion",
+   "title": "Su waye ya kamata ya bar Indiya?",
+   "summary": "Wannan labarin yana nazarin kiran da ake yi na cewa wasu mutane su bar Indiya su tafi Pakistan. Yana tattauna tushen irin wadannan kiran da kuma illolin da suke haifarwa ga al'umma.",
+   "author": "എസ്‌.എ റിയാദ്‌",
+   "issue_date": "2017-01-21",
+   "html_url": "/ha/opinion/who-should-leave-india-20170121-1.html",
+   "md_url": "/ha/opinion/who-should-leave-india-20170121-1.md"
   },
   {
    "slug": "praise-be-to-the-lord-of-the-worlds-20170325-9",
