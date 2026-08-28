@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T04:08:26.115193+00:00",
+ "generated_at": "2026-08-28T04:08:38.593374+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 249,
+ "count": 250,
  "articles": [
   {
    "slug": "our-parents-20170325-4",
@@ -660,6 +660,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/fr/youth/an-agenda-is-needed-during-vacation-too-20170325-1.html",
    "md_url": "/fr/youth/an-agenda-is-needed-during-vacation-too-20170325-1.md"
+  },
+  {
+   "slug": "our-parents-20170325-4",
+   "lang": "gu",
+   "category": "family",
+   "title": "આપણા માતા-પિતા",
+   "summary": "આ લેખ અલ્લાહની સૌથી મોટી નેઅમતોમાંની એક, આપણા માતા-પિતા વિશેના વિચારો રજૂ કરે છે. મનુષ્ય તરીકે જન્મ લેવો એ એક મોટું સૌભાગ્ય છે અને તેમની પ્રત્યેની આપણી જવાબદારીઓ કેટલી મહત્વની છે, તે વિશે અહીં ચર્ચા કરવામાં આવી છે.",
+   "author": "കെ.സഫ്‌വാന്‍ മുഹമ്മദ്, ആമയൂര്‍",
+   "issue_date": "2017-03-25",
+   "html_url": "/gu/family/our-parents-20170325-4.html",
+   "md_url": "/gu/family/our-parents-20170325-4.md"
   },
   {
    "slug": "control-your-mind-20170325-3",
