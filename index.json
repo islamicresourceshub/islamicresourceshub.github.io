@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T04:16:53.985237+00:00",
+ "generated_at": "2026-08-28T04:17:08.253759+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 284,
+ "count": 285,
  "articles": [
   {
    "slug": "our-parents-20170325-4",
@@ -561,6 +561,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/en/family/our-parents-20170325-4.html",
    "md_url": "/en/family/our-parents-20170325-4.md"
+  },
+  {
+   "slug": "mosque-construction-some-points-to-note-20170325-5",
+   "lang": "en",
+   "category": "fiqh",
+   "title": "Mosque Construction: Some Points to Note",
+   "summary": "A study on the Fiqh of mosque construction, based on the principle that mosques are the houses of Allah. This article details important considerations for building mosques, drawing inspiration from the Prophet (PBUH)'s model upon his arrival in Madinah.",
+   "author": "ഡോ. അബ്ദുറസാഖ് സുല്ലമി",
+   "issue_date": "2017-03-25",
+   "html_url": "/en/fiqh/mosque-construction-some-points-to-note-20170325-5.html",
+   "md_url": "/en/fiqh/mosque-construction-some-points-to-note-20170325-5.md"
   },
   {
    "slug": "control-your-mind-20170325-3",
