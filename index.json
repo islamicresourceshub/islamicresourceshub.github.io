@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T09:27:54.874149+00:00",
+ "generated_at": "2026-08-28T09:28:16.792150+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 755,
+ "count": 756,
  "articles": [
   {
    "slug": "live-knowing-the-value-of-time-20170114-8",
@@ -2387,6 +2387,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/ha/opinion/terrorism-and-religious-freedom-20170114-1.html",
    "md_url": "/ha/opinion/terrorism-and-religious-freedom-20170114-1.md"
+  },
+  {
+   "slug": "uapa-wielding-sedition-law-20170114-9",
+   "lang": "ha",
+   "category": "opinion",
+   "title": "UAPA: Dokar da ke amfani da dokar cin amanar kasa a matsayin bulala",
+   "summary": "Wannan labarin yana yin nazari kan yadda ake cin zarafin dokar UAPA da dokar cin amanar kasa. Yana kuma tayar da tambayoyi masu muhimmanci game da adalci da kuma 'yancin dan adam a cikin al'umma.",
+   "author": "പി.വി.എ പ്രിംറോസ്‌",
+   "issue_date": "2017-01-14",
+   "html_url": "/ha/opinion/uapa-wielding-sedition-law-20170114-9.html",
+   "md_url": "/ha/opinion/uapa-wielding-sedition-law-20170114-9.md"
   },
   {
    "slug": "praise-be-to-the-lord-of-the-worlds-20170325-9",
