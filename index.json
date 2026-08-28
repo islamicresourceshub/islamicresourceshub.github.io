@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T09:54:56.056957+00:00",
+ "generated_at": "2026-08-28T09:55:15.927921+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 861,
+ "count": 862,
  "articles": [
   {
    "slug": "live-knowing-the-value-of-time-20170114-8",
@@ -363,6 +363,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/am/opinion/warning-signs-from-the-reconstruction-of-history-20170114-2.html",
    "md_url": "/am/opinion/warning-signs-from-the-reconstruction-of-history-20170114-2.md"
+  },
+  {
+   "slug": "when-national-tradition-is-questioned-20170121-2",
+   "lang": "am",
+   "category": "opinion",
+   "title": "ብሔራዊ ቅርስ ሲጠየቅ",
+   "summary": "ፕሮፌሰር ኤም.ጂ.ኤስ. ናራያናን ስለ ብሔርተኝነት የሰጡትን አስተያየቶች እና ተከትሎ የመጡትን ክርክሮች ይተነትናል። ጽሁፉ የብሔራዊ ቅርስን አስፈላጊነት እና በህንድ ማህበረሰብ ውስጥ ያለውን ቦታ ይፈትሻል።",
+   "author": "ഉസ്മാൻ പാലക്കാഴി",
+   "issue_date": "2017-01-21",
+   "html_url": "/am/opinion/when-national-tradition-is-questioned-20170121-2.html",
+   "md_url": "/am/opinion/when-national-tradition-is-questioned-20170121-2.md"
   },
   {
    "slug": "who-should-leave-india-20170121-1",
