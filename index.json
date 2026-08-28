@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T04:15:30.555823+00:00",
+ "generated_at": "2026-08-28T04:15:45.020351+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 278,
+ "count": 279,
  "articles": [
   {
    "slug": "our-parents-20170325-4",
@@ -231,6 +231,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/am/family/our-parents-20170325-4.html",
    "md_url": "/am/family/our-parents-20170325-4.md"
+  },
+  {
+   "slug": "mosque-construction-some-points-to-note-20170325-5",
+   "lang": "am",
+   "category": "fiqh",
+   "title": "የመስጂድ ግንባታ፡ ሊታሰብባቸው የሚገቡ አንዳንድ ነጥቦች",
+   "summary": "መስጂዶች የአላህ ቤቶች ናቸው በሚለው መርህ ላይ የተመሰረተ የፊቅህ ትምህርት። ነቢዩ (ሰ.ዐ.ወ) ወደ መዲና እንደገቡ መስጂድ የገነቡበትን አርአያ በመከተል፣ መስጂድ ሲገነባ ሊታሰብባቸው የሚገቡ ነጥቦችን ይዳስሳል።",
+   "author": "ഡോ. അബ്ദുറസാഖ് സുല്ലമി",
+   "issue_date": "2017-03-25",
+   "html_url": "/am/fiqh/mosque-construction-some-points-to-note-20170325-5.html",
+   "md_url": "/am/fiqh/mosque-construction-some-points-to-note-20170325-5.md"
   },
   {
    "slug": "control-your-mind-20170325-3",
