@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T04:00:02.335315+00:00",
+ "generated_at": "2026-08-28T04:00:23.685149+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 213,
+ "count": 214,
  "articles": [
   {
    "slug": "control-your-mind-20170325-3",
@@ -2277,6 +2277,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/ru/youth/an-agenda-is-needed-during-vacation-too-20170325-1.html",
    "md_url": "/ru/youth/an-agenda-is-needed-during-vacation-too-20170325-1.md"
+  },
+  {
+   "slug": "control-your-mind-20170325-3",
+   "lang": "si",
+   "category": "hadith",
+   "title": "සිත පාලනය කරගන්න",
+   "summary": "අබූ හුරෙයිරා (රලි) තුමා විසින් වාර්තා කරන ලද නබි (සල්) තුමාණන්ගේ හදීසයක් ඇසුරින් කරන ලද අධ්‍යයනයකි. කෝපය ඇති වූ විට සිත පාලනය කරගන්නා තැනැත්තා සැබෑ ශක්තිවන්තයා බව මෙහි විස්තර කෙරේ.",
+   "author": "ഉസ്മാന്‍ പാലക്കാഴി",
+   "issue_date": "2017-03-25",
+   "html_url": "/si/hadith/control-your-mind-20170325-3.html",
+   "md_url": "/si/hadith/control-your-mind-20170325-3.md"
   },
   {
    "slug": "india-which-way-forward-20170325-2",
