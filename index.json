@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T04:29:47.821602+00:00",
+ "generated_at": "2026-08-28T04:30:07.794033+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 334,
+ "count": 335,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -1342,6 +1342,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/kn/youth/an-agenda-is-needed-during-vacation-too-20170325-1.html",
    "md_url": "/kn/youth/an-agenda-is-needed-during-vacation-too-20170325-1.md"
+  },
+  {
+   "slug": "prayer-that-is-worship-20170325-6",
+   "lang": "ko",
+   "category": "dawah",
+   "title": "기도: 그것이 곧 예배다",
+   "summary": "이 글은 이슬람이 가르치는 방식대로 예배를 유지하는 것이 인생의 최우선 목표임을 강조합니다. 또한, 꾸란의 구절들을 근거로 기도가 가진 예배적 성격을 상세히 설명합니다.",
+   "author": "മൂസ സ്വലാഹി, കാര",
+   "issue_date": "2017-03-25",
+   "html_url": "/ko/dawah/prayer-that-is-worship-20170325-6.html",
+   "md_url": "/ko/dawah/prayer-that-is-worship-20170325-6.md"
   },
   {
    "slug": "our-parents-20170325-4",
