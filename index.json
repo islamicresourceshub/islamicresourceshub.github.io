@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T04:46:39.189484+00:00",
+ "generated_at": "2026-08-28T04:46:52.840505+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 390,
+ "count": 391,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -4235,6 +4235,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/tr/opinion/india-which-way-forward-20170325-2.html",
    "md_url": "/tr/opinion/india-which-way-forward-20170325-2.md"
+  },
+  {
+   "slug": "prophets-and-trials-20170325-7",
+   "lang": "tr",
+   "category": "seerah",
+   "title": "Peygamberler ve İmtihanlar",
+   "summary": "İnsanlara doğru yolu göstermekle görevlendirilen peygamberlerin karşılaştıkları çeşitli imtihanları konu alan bir çalışma. Makale, bu imtihanların onların imanını nasıl güçlendirdiğine dikkat çekiyor.",
+   "author": "ഹുസൈന്‍ സലഫി, ഷാര്‍ജ",
+   "issue_date": "2017-03-25",
+   "html_url": "/tr/seerah/prophets-and-trials-20170325-7.html",
+   "md_url": "/tr/seerah/prophets-and-trials-20170325-7.md"
   },
   {
    "slug": "an-agenda-is-needed-during-vacation-too-20170325-1",
