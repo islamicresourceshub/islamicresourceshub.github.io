@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T04:50:31.647315+00:00",
+ "generated_at": "2026-08-28T04:50:48.021749+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 403,
+ "count": 404,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -990,6 +990,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/fa/seerah/prophets-and-trials-20170325-7.html",
    "md_url": "/fa/seerah/prophets-and-trials-20170325-7.md"
+  },
+  {
+   "slug": "good-intention-matters-most-20170325-8",
+   "lang": "fa",
+   "category": "story",
+   "title": "نیت پاک، اصلِ کار است",
+   "summary": "این نوشته در قالب داستانی، ماجرای تماس تلفنی یک دوست در میان مشغله‌های کاری را روایت می‌کند. این داستان اهمیت نیت خالص و خیرخواهی در انجام کارهای نیک را به تصویر می‌کشد.",
+   "author": "ഇബ്‌നു അലി എടത്തനാട്ടുകര",
+   "issue_date": "2017-03-25",
+   "html_url": "/fa/story/good-intention-matters-most-20170325-8.html",
+   "md_url": "/fa/story/good-intention-matters-most-20170325-8.md"
   },
   {
    "slug": "an-agenda-is-needed-during-vacation-too-20170325-1",
