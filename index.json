@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T09:07:29.596843+00:00",
+ "generated_at": "2026-08-28T09:07:44.620317+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 668,
+ "count": 669,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -627,6 +627,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/as/opinion/india-which-way-forward-20170325-2.html",
    "md_url": "/as/opinion/india-which-way-forward-20170325-2.md"
+  },
+  {
+   "slug": "muslim-extremists-defame-islam-20170114-7",
+   "lang": "as",
+   "category": "opinion",
+   "title": "মুছলিম উগ্ৰপন্থীসকল ইছলামৰ কলংক",
+   "summary": "ইতিহাসবিদ এম. জি. এছ. নাৰায়ণনৰ সৈতে কৰা এক সাক্ষাৎকাৰৰ অংশবিশেষ। ইয়াত ইছলামে অনা পৰিৱৰ্তন, কেৰালাৰ মুছলিম নৱজাগৰণ আৰু উগ্ৰবাদৰ দৰে বিষয়সমূহ আলোচনা কৰা হৈছে।",
+   "author": "എം.ജി.എസ്‌ നാരായണൻ / റസ്റ്റം ഉസ്മാൻ",
+   "issue_date": "2017-01-14",
+   "html_url": "/as/opinion/muslim-extremists-defame-islam-20170114-7.html",
+   "md_url": "/as/opinion/muslim-extremists-defame-islam-20170114-7.md"
   },
   {
    "slug": "terrorism-and-religious-freedom-20170114-1",
