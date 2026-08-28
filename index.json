@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T04:21:11.087536+00:00",
+ "generated_at": "2026-08-28T04:21:24.704063+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 304,
+ "count": 305,
  "articles": [
   {
    "slug": "our-parents-20170325-4",
@@ -3003,6 +3003,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/si/family/our-parents-20170325-4.html",
    "md_url": "/si/family/our-parents-20170325-4.md"
+  },
+  {
+   "slug": "mosque-construction-some-points-to-note-20170325-5",
+   "lang": "si",
+   "category": "fiqh",
+   "title": "පල්ලියක් ඉදිකිරීම: සැලකිල්ලට ගත යුතු කරුණු කිහිපයක්",
+   "summary": "පල්ලි යනු අල්ලාහ්ගේ නිවෙස් බව සිහිපත් කරමින්, නබි (සල්) තුමාණන්ගේ මදීනා ආදර්ශය අනුව පල්ලියක් ඉදිකිරීමේදී සහ පවත්වාගෙන යාමේදී සැලකිල්ලට ගත යුතු ඉස්ලාමීය නීතිමය (ෆික්හ්) සහ ප්‍රායෝගික කරුණු මෙම ලිපියෙන් විස්තර කෙරේ.",
+   "author": "ഡോ. അബ്ദുറസാഖ് സുല്ലമി",
+   "issue_date": "2017-03-25",
+   "html_url": "/si/fiqh/mosque-construction-some-points-to-note-20170325-5.html",
+   "md_url": "/si/fiqh/mosque-construction-some-points-to-note-20170325-5.md"
   },
   {
    "slug": "control-your-mind-20170325-3",
