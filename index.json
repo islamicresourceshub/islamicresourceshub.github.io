@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T05:52:48.508682+00:00",
+ "generated_at": "2026-08-28T05:53:21.753184+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 537,
+ "count": 538,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -4763,6 +4763,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/si/opinion/india-which-way-forward-20170325-2.html",
    "md_url": "/si/opinion/india-which-way-forward-20170325-2.md"
+  },
+  {
+   "slug": "terrorism-and-religious-freedom-20170114-1",
+   "lang": "si",
+   "category": "opinion",
+   "title": "ත්‍රස්ත මර්දනය සහ ආගමික නිදහස",
+   "summary": "ත්‍රස්තවාදය යනු ඕනෑම සමාජයක සාමය නැති කරන මානසික විකෘතියක් යන අදහසින් ආරම්භ වන මෙම ලිපිය, ත්‍රස්තවාදය සහ ආගමික නිදහස අතර ඇති සම්බන්ධය විශ්ලේෂණය කරයි.",
+   "author": "ഡോ. സി.എം സാബിർ നവാസ്‌",
+   "issue_date": "2017-01-14",
+   "html_url": "/si/opinion/terrorism-and-religious-freedom-20170114-1.html",
+   "md_url": "/si/opinion/terrorism-and-religious-freedom-20170114-1.md"
   },
   {
    "slug": "praise-be-to-the-lord-of-the-worlds-20170325-9",
