@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T08:41:46.910922+00:00",
+ "generated_at": "2026-08-28T08:41:57.286498+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 580,
+ "count": 581,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -5522,6 +5522,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/ta/dawah/prayer-that-is-worship-20170325-6.html",
    "md_url": "/ta/dawah/prayer-that-is-worship-20170325-6.md"
+  },
+  {
+   "slug": "islamic-parenting-significance-and-goals-part-1-20170114-4",
+   "lang": "ta",
+   "category": "family",
+   "title": "இஸ்லாமிய வளர்ப்புமுறை: முக்கியத்துவமும் நோக்கமும்",
+   "summary": "இஸ்லாமிய வளர்ப்புமுறையின் முக்கியத்துவத்தையும் அதன் நோக்கங்களையும் விளக்கும் முதல் பகுதி. கல்வியறிவு பெற்ற மற்றும் பெறாத அனைத்து பெற்றோர்களுக்கும் பொருந்தக்கூடிய ஒரு விஷயம்.",
+   "author": "അഷ്‌റഫ്‌ എകരൂൽ",
+   "issue_date": "2017-01-14",
+   "html_url": "/ta/family/islamic-parenting-significance-and-goals-part-1-20170114-4.html",
+   "md_url": "/ta/family/islamic-parenting-significance-and-goals-part-1-20170114-4.md"
   },
   {
    "slug": "our-parents-20170325-4",
