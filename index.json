@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T04:54:09.023256+00:00",
+ "generated_at": "2026-08-28T04:54:29.057972+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 416,
+ "count": 417,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -3476,6 +3476,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/or/seerah/prophets-and-trials-20170325-7.html",
    "md_url": "/or/seerah/prophets-and-trials-20170325-7.md"
+  },
+  {
+   "slug": "good-intention-matters-most-20170325-8",
+   "lang": "or",
+   "category": "story",
+   "title": "ସଦ୍‌ଭାବନା ହିଁ ମୁଖ୍ୟ",
+   "summary": "ଏହା କାମର ବ୍ୟସ୍ତତା ଭିତରେ ଜଣେ ବନ୍ଧୁଙ୍କ ଫୋନ୍ କଲ୍‌ରୁ ଆରମ୍ଭ ହେଉଥିବା ଏକ କାହାଣୀ। ଏହି କାହାଣୀ ମାଧ୍ୟମରେ ସଦ୍‌ଭାବନା ଏବଂ ନିଷ୍ଠାପର ଉଦ୍ଦେଶ୍ୟର ଗୁରୁତ୍ୱକୁ ବର୍ଣ୍ଣନା କରାଯାଇଛି।",
+   "author": "ഇബ്‌നു അലി എടത്തനാട്ടുകര",
+   "issue_date": "2017-03-25",
+   "html_url": "/or/story/good-intention-matters-most-20170325-8.html",
+   "md_url": "/or/story/good-intention-matters-most-20170325-8.md"
   },
   {
    "slug": "an-agenda-is-needed-during-vacation-too-20170325-1",
