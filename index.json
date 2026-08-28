@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T05:55:40.599100+00:00",
+ "generated_at": "2026-08-28T05:56:06.167464+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 542,
+ "count": 543,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -5368,6 +5368,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/te/opinion/india-which-way-forward-20170325-2.html",
    "md_url": "/te/opinion/india-which-way-forward-20170325-2.md"
+  },
+  {
+   "slug": "terrorism-and-religious-freedom-20170114-1",
+   "lang": "te",
+   "category": "opinion",
+   "title": "ఉగ్రవాద వేట మరియు మత స్వేచ్ఛ",
+   "summary": "ఉగ్రవాదం అనేది ఏ సమాజానికైనా ప్రశాంతతను దూరం చేసే ఒక మానసిక వైకల్యం అనే భావనతో ఈ వ్యాసం ప్రారంభమవుతుంది. ఉగ్రవాదానికి, మత స్వేచ్ఛకు మధ్య ఉన్న సంబంధాన్ని ఇది విశ్లేషిస్తుంది.",
+   "author": "ഡോ. സി.എം സാബിർ നവാസ്‌",
+   "issue_date": "2017-01-14",
+   "html_url": "/te/opinion/terrorism-and-religious-freedom-20170114-1.html",
+   "md_url": "/te/opinion/terrorism-and-religious-freedom-20170114-1.md"
   },
   {
    "slug": "praise-be-to-the-lord-of-the-worlds-20170325-9",
