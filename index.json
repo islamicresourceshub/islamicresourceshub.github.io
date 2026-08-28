@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T11:00:46.561520+00:00",
+ "generated_at": "2026-08-28T11:00:56.230403+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1001,
+ "count": 1002,
  "articles": [
   {
    "slug": "live-knowing-the-value-of-time-20170114-8",
@@ -7656,6 +7656,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/pt/family/how-to-be-a-good-parent-part-2-20170121-4.html",
    "md_url": "/pt/family/how-to-be-a-good-parent-part-2-20170121-4.md"
+  },
+  {
+   "slug": "husband-trapped-in-the-mobile-web-20170121-5",
+   "lang": "pt",
+   "category": "family",
+   "title": "O marido preso na rede do celular",
+   "summary": "Um artigo que analisa como o uso excessivo do celular afeta o marido e as relações familiares. Parte da coluna de aconselhamento familiar 'Shanthi Geham'.",
+   "author": "പ്രൊഫ: ഹാരിസ്ബിൻ സലീം",
+   "issue_date": "2017-01-21",
+   "html_url": "/pt/family/husband-trapped-in-the-mobile-web-20170121-5.html",
+   "md_url": "/pt/family/husband-trapped-in-the-mobile-web-20170121-5.md"
   },
   {
    "slug": "islamic-parenting-significance-and-goals-part-1-20170114-4",
