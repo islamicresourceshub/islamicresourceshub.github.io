@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T09:46:18.693437+00:00",
+ "generated_at": "2026-08-28T09:46:32.851336+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 822,
+ "count": 823,
  "articles": [
   {
    "slug": "live-knowing-the-value-of-time-20170114-8",
@@ -363,6 +363,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/am/opinion/warning-signs-from-the-reconstruction-of-history-20170114-2.html",
    "md_url": "/am/opinion/warning-signs-from-the-reconstruction-of-history-20170114-2.md"
+  },
+  {
+   "slug": "who-should-leave-india-20170121-1",
+   "lang": "am",
+   "category": "opinion",
+   "title": "ማን ነው ህንድን ለቆ መውጣት ያለበት?",
+   "summary": "ይህ መጣጥፍ ህንድን ለቀው ወደ ፓኪስታን መሄድ አለባቸው የሚለውን ጥሪ ይተነትናል። እንዲህ ዓይነቱ አመለካከት ያለውን ዳራ እና ማህበራዊ ተፅእኖዎች ይዳስሳል።",
+   "author": "എസ്‌.എ റിയാദ്‌",
+   "issue_date": "2017-01-21",
+   "html_url": "/am/opinion/who-should-leave-india-20170121-1.html",
+   "md_url": "/am/opinion/who-should-leave-india-20170121-1.md"
   },
   {
    "slug": "praise-be-to-the-lord-of-the-worlds-20170325-9",
