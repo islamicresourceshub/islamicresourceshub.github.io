@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T09:22:57.365278+00:00",
+ "generated_at": "2026-08-28T09:23:12.754438+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 741,
+ "count": 742,
  "articles": [
   {
    "slug": "live-knowing-the-value-of-time-20170114-8",
@@ -7876,6 +7876,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/ur/youth/what-will-the-waste-do-20170114-5.html",
    "md_url": "/ur/youth/what-will-the-waste-do-20170114-5.md"
+  },
+  {
+   "slug": "live-knowing-the-value-of-time-20170114-8",
+   "lang": "uz",
+   "category": "dawah",
+   "title": "Vaqtning qadriga yetib yashash",
+   "summary": "Ushbu maqola bir lahzada nimalarga erishish mumkin degan savoldan boshlanadi va vaqtning qadrini anglab, uni to‘g‘ri sarflash muhimligini tushuntiradi.",
+   "author": "നാസിർ ബാലുശ്ശേരി",
+   "issue_date": "2017-01-14",
+   "html_url": "/uz/dawah/live-knowing-the-value-of-time-20170114-8.html",
+   "md_url": "/uz/dawah/live-knowing-the-value-of-time-20170114-8.md"
   },
   {
    "slug": "prayer-that-is-worship-20170325-6",
