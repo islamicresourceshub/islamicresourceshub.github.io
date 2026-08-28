@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T04:23:32.784885+00:00",
+ "generated_at": "2026-08-28T04:23:47.622978+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 314,
+ "count": 315,
  "articles": [
   {
    "slug": "our-parents-20170325-4",
@@ -3553,6 +3553,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/uz/family/our-parents-20170325-4.html",
    "md_url": "/uz/family/our-parents-20170325-4.md"
+  },
+  {
+   "slug": "mosque-construction-some-points-to-note-20170325-5",
+   "lang": "uz",
+   "category": "fiqh",
+   "title": "Masjid qurilishi: E'tibor qaratilishi lozim bo'lgan ba'zi jihatlar",
+   "summary": "Ushbu maqola masjidlar Allohning uylari ekanligi tamoyiliga asoslangan fiqhiy yondashuvni tushuntiradi. Payg'ambarimiz (s.a.v.) Madinaga kelganlarida masjid qurganlari kabi, masjid qurilishida e'tiborga olinishi kerak bo'lgan muhim jihatlar bayon etiladi.",
+   "author": "ഡോ. അബ്ദുറസാഖ് സുല്ലമി",
+   "issue_date": "2017-03-25",
+   "html_url": "/uz/fiqh/mosque-construction-some-points-to-note-20170325-5.html",
+   "md_url": "/uz/fiqh/mosque-construction-some-points-to-note-20170325-5.md"
   },
   {
    "slug": "control-your-mind-20170325-3",
