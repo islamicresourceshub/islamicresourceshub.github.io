@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T09:27:05.267734+00:00",
+ "generated_at": "2026-08-28T09:27:21.101044+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 752,
+ "count": 753,
  "articles": [
   {
    "slug": "live-knowing-the-value-of-time-20170114-8",
@@ -1826,6 +1826,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/fa/opinion/terrorism-and-religious-freedom-20170114-1.html",
    "md_url": "/fa/opinion/terrorism-and-religious-freedom-20170114-1.md"
+  },
+  {
+   "slug": "uapa-wielding-sedition-law-20170114-9",
+   "lang": "fa",
+   "category": "opinion",
+   "title": "یو.ای.پی.ای (UAPA): قانونِ غداری یا تازیانه‌ای در دست حاکمان",
+   "summary": "این مقاله به نقد سوءاستفاده از قانون UAPA و قوانین ضد غداری می‌پردازد و پرسش‌های جدی درباره عدالت، آزادی و حقوق شهروندی در سایه این قوانین سرکوبگر مطرح می‌کند.",
+   "author": "പി.വി.എ പ്രിംറോസ്‌",
+   "issue_date": "2017-01-14",
+   "html_url": "/fa/opinion/uapa-wielding-sedition-law-20170114-9.html",
+   "md_url": "/fa/opinion/uapa-wielding-sedition-law-20170114-9.md"
   },
   {
    "slug": "praise-be-to-the-lord-of-the-worlds-20170325-9",
