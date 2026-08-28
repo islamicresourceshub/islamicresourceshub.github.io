@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T09:48:51.548422+00:00",
+ "generated_at": "2026-08-28T09:49:02.984015+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 834,
+ "count": 835,
  "articles": [
   {
    "slug": "live-knowing-the-value-of-time-20170114-8",
@@ -2860,6 +2860,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/hi/opinion/uapa-wielding-sedition-law-20170114-9.html",
    "md_url": "/hi/opinion/uapa-wielding-sedition-law-20170114-9.md"
+  },
+  {
+   "slug": "who-should-leave-india-20170121-1",
+   "lang": "hi",
+   "category": "opinion",
+   "title": "आखिर भारत किसे छोड़ना चाहिए?",
+   "summary": "यह लेख भारत से पाकिस्तान जाने के आह्वान का विश्लेषण करता है। इसमें इस तरह की बयानबाजी के पीछे के कारणों और इसके सामाजिक प्रभावों पर चर्चा की गई है।",
+   "author": "എസ്‌.എ റിയാദ്‌",
+   "issue_date": "2017-01-21",
+   "html_url": "/hi/opinion/who-should-leave-india-20170121-1.html",
+   "md_url": "/hi/opinion/who-should-leave-india-20170121-1.md"
   },
   {
    "slug": "praise-be-to-the-lord-of-the-worlds-20170325-9",
