@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T10:03:28.625454+00:00",
+ "generated_at": "2026-08-28T10:03:48.430082+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 887,
+ "count": 888,
  "articles": [
   {
    "slug": "live-knowing-the-value-of-time-20170114-8",
@@ -7612,6 +7612,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/so/opinion/uapa-wielding-sedition-law-20170114-9.html",
    "md_url": "/so/opinion/uapa-wielding-sedition-law-20170114-9.md"
+  },
+  {
+   "slug": "when-national-tradition-is-questioned-20170121-2",
+   "lang": "so",
+   "category": "opinion",
+   "title": "Marka la su'aalayo hidaha qaran",
+   "summary": "Maqaalkani wuxuu falanqeynayaa doodaha uu dhaliyay Prof. M.G.S. Narayanan ee ku saabsan qaranimada. Wuxuu baadhayaa muhiimadda hidaha qaran iyo booska uu ku leeyahay bulshada Hindiya.",
+   "author": "ഉസ്മാൻ പാലക്കാഴി",
+   "issue_date": "2017-01-21",
+   "html_url": "/so/opinion/when-national-tradition-is-questioned-20170121-2.html",
+   "md_url": "/so/opinion/when-national-tradition-is-questioned-20170121-2.md"
   },
   {
    "slug": "who-should-leave-india-20170121-1",
