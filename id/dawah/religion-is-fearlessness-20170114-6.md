@@ -1,0 +1,114 @@
+---
+title: Agama adalah Rasa Aman
+author: ഉസ്മാൻ പാലക്കാഴി
+lang: id
+category: dawah
+kind: article
+tags:
+- religion
+- fearlessness
+- spirituality
+- islam
+summary: Sebuah artikel yang membahas bagaimana agama, khususnya Islam, memberikan rasa aman dan ketenteraman bagi individu maupun masyarakat di tengah berbagai tantangan dunia.
+source:
+  magazine: Nerpatham Weekly
+  issue_date: '2017-01-14'
+  pdf_url: http://nerpatham.com/vol-no-01/images/archives/Nerpatham-2017Jan14.pdf
+date_processed: '2026-08-27T05:07:25Z'
+slug: religion-is-fearlessness-20170114-6
+translation_of: religion-is-fearlessness-20170114-6
+---
+
+![Agama adalah Rasa Aman](/assets/religion-is-fearlessness-20170114-6/14Jan17-11.jpg)
+
+Saat ini, terdapat banyak agama di dunia. Sebagian besar agama tersebut dikaitkan dengan nama tokoh tertentu atau kebudayaan tertentu. Agama Hindu, Kristen, dan Buddha adalah beberapa contohnya.
+
+Namun, Islam berbeda dari semua itu. Istilah 'Islam' itu sendiri menunjukkan keunikannya. Islam berasal dari akar kata *silm*, yang berarti kedamaian dan ketenteraman. Seseorang menjadi Muslim ketika ia menyerahkan hidupnya sepenuhnya kepada Allah SWT.
+
+Al-Qur'an memperkenalkan Islam sebagai agama alam semesta dan fitrah manusia. Artinya, agama bagi langit, bumi, planet, bintang, dan seluruh makhluk hidup. Perhatikan apa yang dikatakan Al-Qur'an:
+
+“Maka apakah mereka mencari agama yang lain selain agama Allah, padahal apa yang di langit dan di bumi berserah diri kepada-Nya, (baik) dengan suka maupun terpaksa dan hanya kepada-Nyalah mereka dikembalikan?” (3:83).
+
+“Maka hadapkanlah wajahmu dengan lurus kepada agama (Islam); (sesuai) fitrah Allah disebabkan Dia telah menciptakan manusia menurut (fitrah) itu. Tidak ada perubahan pada ciptaan Allah. (Itulah) agama yang lurus, tetapi kebanyakan manusia tidak mengetahui” (30:30).
+
+Seorang Muslim juga disebut sebagai *Mu'min* atau orang yang beriman. Kata *Iman* (iman) berasal dari akar kata *amn*, yang berarti 'rasa aman' dan 'keselamatan'. Tidak diragukan lagi, seorang Muslim yang berserah diri sepenuhnya kepada Sang Pencipta, bertawakal kepada-Nya, meyakini dengan teguh apa yang harus diyakini, dan menjalankan segala kewajibannya, akan merasakan rasa aman yang tak terlukiskan.
+
+Kata-kata seperti *Mu'min*, *Iman*, *Aman*, *Amanah*, dan *Amin* semuanya merujuk pada makna yang sama. Dalam Al-Qur'an, berbagai bentuk kata *amn* digunakan lebih dari delapan ratus kali. Keberuntungan, kenyamanan, kebahagiaan, serta kebebasan dari rasa takut dan sedih adalah hal-hal yang diperoleh mereka yang mengatur hidupnya dengan menaati Allah dan Rasul-Nya.
+
+Tidak seorang pun boleh disakiti secara fisik. Kehormatan seseorang tidak boleh dinodai, dan harta benda tidak boleh dicuri atau dirampas. Tidak boleh ada rasa takut bagi siapa pun untuk memegang teguh keyakinan dan ritual ibadahnya serta menyebarkannya. Individu, keluarga, dan masyarakat harus berada dalam rasa aman ini. Semua orang mendambakan rasa aman ini.
+
+Islam memberikan perhatian besar pada rasa aman. Mengajak pada kebaikan, mencegah kemungkaran, dan menegakkan hukum bagi pelaku kejahatan adalah hal yang mutlak diperlukan untuk menjaga rasa aman dalam masyarakat. Rasa aman sangat penting bagi negara dan rakyatnya untuk mencapai tujuan luhur serta kemajuan ekonomi dan sosial.
+
+### Negara yang Aman
+
+Negara yang aman dan makmur adalah anugerah yang besar:
+
+“Dan mereka berkata, ‘Jika kami mengikuti petunjuk bersama engkau, niscaya kami akan diusir dari negeri kami.’ Dan apakah Kami tidak meneguhkan kedudukan mereka dalam tanah suci (Makkah) yang aman, yang didatangkan ke tempat itu buah-buahan dari segala jenis sebagai rezeki dari sisi Kami? Tetapi kebanyakan mereka tidak mengetahui” (28:57).
+
+“Maka hendaklah mereka menyembah Tuhan Pemilik rumah ini (Ka'bah), yang telah memberi makanan kepada mereka untuk menghilangkan lapar dan mengamankan mereka dari rasa ketakutan” (106:3-4).
+
+Seseorang baru akan menyadari nilai anugerah ini ketika ia kehilangannya. Palestina, Irak, Suriah, Myanmar... jutaan orang terbakar dalam api perang dan fanatisme rasial... mereka yang menjalani hidup di tengah kepulan asap ketidakpastian dan ketakutan... mereka yang terbunuh secara tragis... mereka yang mengungsi ke negeri asing mencari tempat yang aman... mereka yang gugur di jalan... mereka tahu bahwa rasa aman adalah anugerah yang agung dan betapa beratnya kondisi ketika rasa aman itu hilang.
+
+### Rasa Aman bagi Mereka yang Tidak Menyekutukan Allah
+
+Perhatikan janji Allah bagi mereka yang hanya menyembah Sang Pencipta Yang Maha Esa (mereka yang hidup dengan prinsip Tauhid):
+
+“Orang-orang yang beriman dan tidak mencampuradukkan iman mereka dengan kezaliman (syirik), mereka itulah yang mendapat keamanan...” (6:82).
+
+Kezaliman yang dimaksud di sini adalah menyekutukan Allah atau syirik.
+
+“Dan (ingatlah) ketika Luqman berkata kepada anaknya, di waktu ia memberi pelajaran kepadanya: ‘Hai anakku, janganlah kamu mempersekutukan Allah, sesungguhnya mempersekutukan (Allah) adalah benar-benar kezaliman yang besar’” (31:13).
+
+“Dan Allah telah berjanji kepada orang-orang yang beriman di antara kamu dan mengerjakan amal-amal yang saleh bahwa Dia sungguh-sungguh akan menjadikan mereka berkuasa di bumi, sebagaimana Dia telah menjadikan orang-orang yang sebelum mereka berkuasa, dan sungguh Dia akan meneguhkan bagi mereka agama yang telah diridhai-Nya untuk mereka, dan Dia benar-benar akan menukar (keadaan) mereka, sesudah mereka dalam ketakutan menjadi aman sentosa. Mereka tetap menyembah-Ku dengan tiada mempersekutukan sesuatu apa pun dengan Aku...” (24:55).
+
+### Rasa Aman pada Jiwa, Kehormatan, dan Harta
+
+Ibnu Umar RA meriwayatkan: Nabi SAW bertanya di Mina, "Tahukah kalian hari apakah ini?" Mereka menjawab, "Allah dan Rasul-Nya lebih mengetahui." Beliau bersabda, "Ini adalah hari yang suci. Tahukah kalian tempat apakah ini?" Mereka menjawab, "Allah dan Rasul-Nya lebih mengetahui." Beliau bersabda, "Tempat yang suci. Tahukah kalian bulan apakah ini?" Mereka menjawab, "Allah dan Rasul-Nya lebih mengetahui." Beliau bersabda, "Bulan yang suci." Kemudian beliau bersabda, "Sesungguhnya Allah telah mengharamkan (menjaga kesucian) darah kalian, harta kalian, dan kehormatan kalian sebagaimana sucinya hari ini, bulan ini, dan tempat ini" (Bukhari).
+
+Dalam pandangan hukum Islam, standar kehormatan seseorang bukanlah status sosial atau kondisi ekonominya. Kehormatan setiap individu harus dilindungi. Islam tidak mengizinkan kehormatan itu diinjak-injak. Baik orang kecil maupun besar, kaya maupun miskin, tidak boleh kehilangan martabatnya. Namun, masyarakat modern saat ini memiliki obsesi untuk merendahkan, menghina, dan mengejek orang lain. Dalam dunia politik dan media, hal ini seolah-olah dianggap wajar! Hadis Nabi di atas menjelaskan betapa tinggi nilai kehormatan orang lain.
+
+Pembunuhan atas nama politik atau sektarian, kekerasan, pembunuhan di luar hukum, perampokan, pencurian... semua tindakan yang tidak menghargai nyawa dan harta orang lain! Islam, yang menentang keras semua ini dan menganggapnya sebagai dosa besar, mengajarkan bahwa Islam adalah ladang bagi rasa aman.
+
+### Ketidakadilan dan Nepotisme Menghilangkan Rasa Aman
+
+Aisyah RA meriwayatkan: Kasus pencurian seorang wanita dari suku Makhzum menjadi masalah sulit bagi kaum Quraisy. "Siapa yang berani berbicara kepada Rasulullah mengenai masalahnya?" tanya mereka satu sama lain. "Siapa lagi kalau bukan Usamah bin Zaid, orang yang dicintai Rasulullah?" itulah pendapat mereka. Maka Usamah pun berbicara kepada Nabi SAW. Nabi SAW kemudian bertanya, "Apakah engkau memberikan syafaat dalam hukum Allah?" Kemudian beliau berpidato: "Sesungguhnya kehancuran umat sebelum kalian adalah karena jika orang terpandang mencuri, mereka membiarkannya, namun jika orang lemah mencuri, mereka menegakkan hukum. Demi Allah, seandainya Fatimah binti Muhammad mencuri, niscaya aku sendiri yang akan memotong tangannya" (Bukhari, Muslim).
+
+Deklarasi Islam yang luar biasa ini unik dalam sejarah dunia; sebuah deklarasi yang bahkan sulit dibayangkan oleh para penguasa dunia modern. Nabi SAW membangun masyarakat yang berdiri di atas keadilan, memperjuangkan keadilan, dan mendasarkan tindakannya pada keadilan, sehingga memberikan rasa aman kepada rakyatnya.
+
+Al-Qur'an berfirman: “Wahai orang-orang yang beriman, jadilah kamu orang yang benar-benar penegak keadilan, menjadi saksi karena Allah biarpun terhadap dirimu sendiri atau ibu bapak dan kaum kerabatmu...” (4:135).
+
+### Rasa Aman bagi Orang Tua
+
+Saat ini, manusia sangat takut akan masa tua; bukan karena takut mati, tetapi takut dibuang dari rumah dan menderita tanpa perlindungan saat sudah tua! Rasa aman yang diberikan Islam kepada orang lanjut usia tidak ada bandingannya. Al-Qur'an berfirman:
+
+“Dan Tuhanmu telah memerintahkan supaya kamu jangan menyembah selain Dia dan hendaklah kamu berbuat baik pada ibu bapakmu dengan sebaik-baiknya. Jika salah seorang di antara keduanya atau kedua-duanya sampai berumur lanjut dalam pemeliharaanmu, maka sekali-kali janganlah kamu mengatakan kepada keduanya perkataan ‘ah’ dan janganlah kamu membentak mereka dan ucapkanlah kepada mereka perkataan yang mulia. Dan rendahkanlah dirimu terhadap mereka berdua dengan penuh kesayangan dan ucapkanlah: ‘Wahai Tuhanku, kasihilah mereka keduanya, sebagaimana mereka berdua telah mendidik aku waktu kecil’” (17:23-24).
+
+Dari Abu Hurairah RA, Nabi SAW bersabda: "Celakalah dia! Celakalah dia! Celakalah dia!" (yaitu) orang yang mendapati kedua orang tuanya dalam usia lanjut, atau salah satu dari keduanya, namun ia tidak masuk surga (karena tidak berbakti kepada mereka)" (Muslim).
+
+Ayat-ayat dan hadis ini menjelaskan betapa seriusnya Islam memandang kewajiban terhadap orang tua. Nabi SAW menyatakan bahwa mereka yang lalai akan celaka, dan beliau mengajarkan bahwa memenuhi kewajiban terhadap orang tua adalah jalan menuju surga.
+
+### Rasa Aman melalui Pelarangan Narkoba
+
+Narkoba adalah induk dari segala kejahatan. Jutaan individu dan keluarga di negeri kita menderita akibat dampaknya. Berapa banyak istri yang hidup dalam ketakutan karena suami yang pulang dalam keadaan mabuk... berapa banyak anak kecil yang takut bahkan pada bayangan ayahnya sendiri...! Para pemabuk yang mengancam ketenangan dan rasa aman tetangga dan masyarakat!
+
+Masyarakat kita yang terpelajar tahu betul besarnya bahaya sosial yang ditimbulkan oleh narkoba. Namun, penggunaannya terus meningkat. Bahkan di kalangan pelajar, wabah narkoba menyebar dengan cepat!
+
+Dengan mengharamkan segala jenis narkoba yang merusak dan menghancurkan individu, keluarga, dan masyarakat, Islam memberikan rasa aman bagi individu, keluarga, masyarakat, bahkan negara.
+
+Dari Jabir bin Abdullah RA, Nabi SAW bersabda: "Sesuatu yang jika banyaknya memabukkan, maka sedikitnya pun haram" (Abu Dawud).
+
+### Islam Melawan Sektarianisme yang Menakutkan
+
+Sektarianisme adalah topik yang banyak dibahas di dunia kontemporer. Apa itu sektarianisme? Banyak orang memiliki definisi yang berbeda-beda. Perhatikan definisi yang diberikan Nabi Muhammad SAW: Watsilah bin al-Asqa' RA meriwayatkan: "Aku bertanya, 'Wahai Rasulullah! Apa itu sektarianisme?' Beliau menjawab, 'Mendukung kaummu dalam kezaliman'" (Abu Dawud).
+
+Apakah seorang Muslim yang meyakini bahwa iman dan agamanya adalah yang benar merupakan sektarianisme? Apakah hidup sesuai ajaran agamanya adalah sektarianisme? Apakah menjalankan ritual ibadah dengan ketat adalah sektarianisme? Sama sekali tidak! Tidak ada seorang pun yang akan merasa terganggu oleh orang seperti itu.
+
+“Sesungguhnya agama (yang diridhai) di sisi Allah hanyalah Islam...” (Al-Qur'an 3:19).
+
+“Barangsiapa mencari agama selain Islam, maka sekali-kali tidaklah akan diterima (agama itu) daripadanya...” (3:85).
+
+Berdasarkan ayat-ayat Al-Qur'an inilah umat Islam meyakini bahwa Islam adalah satu-satunya agama kebenaran; dan mereka menyatakannya serta mendakwahkannya. Orang lain juga memiliki hak yang sama untuk melakukan hal yang sama; dan membuktikannya berdasarkan dalil. Hal ini tidak akan menimbulkan kesulitan bagi siapa pun.
+
+Namun, mendukung dan membantu seseorang dalam kezaliman hanya karena ia berasal dari komunitas atau kelompok yang sama adalah kezaliman yang nyata. Itulah yang disebut Islam sebagai sektarianisme. Hal itu akan membawa bencana besar, menciptakan kekacauan di negeri, menyebarkan ketakutan, dan menghilangkan rasa aman.
+
+Ya, Islam adalah agama rasa aman. Pesan yang disampaikannya kepada dunia adalah pesan rasa aman. Janggut yang panjang, pakaian pria yang tidak melebihi mata kaki, dan pakaian wanita yang menutup aurat bukanlah simbol ketakutan; melainkan pesan rasa aman dan perlindungan bagi dunia. Jika ingin mencapai surga, tempat yang penuh rasa aman di akhirat, Islam menuntut kita untuk hidup di dunia dengan memberikan rasa aman dan ketenteraman kepada orang lain.
