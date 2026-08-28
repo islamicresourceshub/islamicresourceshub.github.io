@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T04:36:51.674060+00:00",
+ "generated_at": "2026-08-28T04:37:03.963930+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 357,
+ "count": 358,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -352,6 +352,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/ar/opinion/india-which-way-forward-20170325-2.html",
    "md_url": "/ar/opinion/india-which-way-forward-20170325-2.md"
+  },
+  {
+   "slug": "prophets-and-trials-20170325-7",
+   "lang": "ar",
+   "category": "seerah",
+   "title": "الأنبياء والابتلاءات",
+   "summary": "دراسة حول الابتلاءات المتنوعة التي تعرض لها الأنبياء الذين أُرسلوا لهداية البشرية. يوضح المقال كيف أن هذه الاختبارات كانت سبباً في تعزيز إيمانهم وثباتهم.",
+   "author": "ഹുസൈന്‍ സലഫി, ഷാര്‍ജ",
+   "issue_date": "2017-03-25",
+   "html_url": "/ar/seerah/prophets-and-trials-20170325-7.html",
+   "md_url": "/ar/seerah/prophets-and-trials-20170325-7.md"
   },
   {
    "slug": "an-agenda-is-needed-during-vacation-too-20170325-1",
