@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T04:48:08.712605+00:00",
+ "generated_at": "2026-08-28T04:48:22.586969+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 396,
+ "count": 397,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -374,6 +374,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/ar/seerah/prophets-and-trials-20170325-7.html",
    "md_url": "/ar/seerah/prophets-and-trials-20170325-7.md"
+  },
+  {
+   "slug": "good-intention-matters-most-20170325-8",
+   "lang": "ar",
+   "category": "story",
+   "title": "حسن النية هو الأهم",
+   "summary": "هذه قصة قصيرة تبدأ بمكالمة هاتفية من صديق وسط انشغالات العمل، لتسلط الضوء على أهمية حسن النية والإخلاص في فعل الخير، وكيف يمكن للمبادرات الفردية أن تتحول إلى عمل جماعي مثمر.",
+   "author": "ഇബ്‌നു അലി എടത്തനാട്ടുകര",
+   "issue_date": "2017-03-25",
+   "html_url": "/ar/story/good-intention-matters-most-20170325-8.html",
+   "md_url": "/ar/story/good-intention-matters-most-20170325-8.md"
   },
   {
    "slug": "an-agenda-is-needed-during-vacation-too-20170325-1",
