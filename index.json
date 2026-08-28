@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T05:39:09.322183+00:00",
+ "generated_at": "2026-08-28T05:39:24.774733+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 511,
+ "count": 512,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -286,6 +286,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/am/opinion/india-which-way-forward-20170325-2.html",
    "md_url": "/am/opinion/india-which-way-forward-20170325-2.md"
+  },
+  {
+   "slug": "terrorism-and-religious-freedom-20170114-1",
+   "lang": "am",
+   "category": "opinion",
+   "title": "የሽብርተኝነት አደን እና የሃይማኖት ነፃነት",
+   "summary": "ይህ መጣጥፍ ሽብርተኝነት የህብረተሰቡን ሰላም የሚነሳ የአእምሮ መዛባት እንደሆነ በመግለጽ ይጀምራል። በሽብርተኝነት አደን ስም የሚካሄዱ የሃይማኖት ነፃነት ጥሰቶችን እና የፖለቲካ አጀንዳዎችን ይተነትናል።",
+   "author": "ഡോ. സി.എം സാബിർ നവാസ്‌",
+   "issue_date": "2017-01-14",
+   "html_url": "/am/opinion/terrorism-and-religious-freedom-20170114-1.html",
+   "md_url": "/am/opinion/terrorism-and-religious-freedom-20170114-1.md"
   },
   {
    "slug": "praise-be-to-the-lord-of-the-worlds-20170325-9",
