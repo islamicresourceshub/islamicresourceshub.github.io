@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T08:57:33.658044+00:00",
+ "generated_at": "2026-08-28T08:58:00.782126+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 638,
+ "count": 639,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -1914,6 +1914,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/ha/dawah/prayer-that-is-worship-20170325-6.html",
    "md_url": "/ha/dawah/prayer-that-is-worship-20170325-6.md"
+  },
+  {
+   "slug": "religion-is-fearlessness-20170114-6",
+   "lang": "ha",
+   "category": "dawah",
+   "title": "Addini shine rashin tsoro",
+   "summary": "Wannan labari yana bayyana yadda addini, musamman ma Musulunci, yake samar da kwanciyar hankali da rashin tsoro a cikin al'umma bisa koyarwar Kur'ani da Sunnah.",
+   "author": "ഉസ്മാൻ പാലക്കാഴി",
+   "issue_date": "2017-01-14",
+   "html_url": "/ha/dawah/religion-is-fearlessness-20170114-6.html",
+   "md_url": "/ha/dawah/religion-is-fearlessness-20170114-6.md"
   },
   {
    "slug": "islamic-parenting-significance-and-goals-part-1-20170114-4",
