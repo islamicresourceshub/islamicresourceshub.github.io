@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T05:41:51.525906+00:00",
+ "generated_at": "2026-08-28T05:42:06.207264+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 517,
+ "count": 518,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -1001,6 +1001,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/en/opinion/india-which-way-forward-20170325-2.html",
    "md_url": "/en/opinion/india-which-way-forward-20170325-2.md"
+  },
+  {
+   "slug": "terrorism-and-religious-freedom-20170114-1",
+   "lang": "en",
+   "category": "opinion",
+   "title": "The Hunt for Terrorists and Religious Freedom",
+   "summary": "This article begins with the idea that terrorism is a mental perversion that disrupts the peace of any society. It analyzes the relationship between terrorism and religious freedom.",
+   "author": "ഡോ. സി.എം സാബിർ നവാസ്‌",
+   "issue_date": "2017-01-14",
+   "html_url": "/en/opinion/terrorism-and-religious-freedom-20170114-1.html",
+   "md_url": "/en/opinion/terrorism-and-religious-freedom-20170114-1.md"
   },
   {
    "slug": "praise-be-to-the-lord-of-the-worlds-20170325-9",
