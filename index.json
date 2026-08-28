@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T04:20:03.705990+00:00",
+ "generated_at": "2026-08-28T04:20:21.366288+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 299,
+ "count": 300,
  "articles": [
   {
    "slug": "our-parents-20170325-4",
@@ -2728,6 +2728,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/or/family/our-parents-20170325-4.html",
    "md_url": "/or/family/our-parents-20170325-4.md"
+  },
+  {
+   "slug": "mosque-construction-some-points-to-note-20170325-5",
+   "lang": "or",
+   "category": "fiqh",
+   "title": "ମସଜିଦ୍ ନିର୍ମାଣ: ଧ୍ୟାନ ଦେବାକୁ ଥିବା କିଛି ଗୁରୁତ୍ୱପୂର୍ଣ୍ଣ ବିଷୟ",
+   "summary": "ମସଜିଦଗୁଡ଼ିକ ଅଲ୍ଲାହଙ୍କର ଘର, ଏହି ତତ୍ତ୍ୱ ଉପରେ ଆଧାରିତ ଏକ ଫିକ୍ହ (ଇସଲାମୀୟ ଆଇନ) ଅଧ୍ୟୟନ। ନବୀ (ସ) ମଦୀନାରେ ପହଞ୍ଚିବା ମାତ୍ରେ ମସଜିଦ୍ ନିର୍ମାଣ କରିଥିବା ଆଦର୍ଶକୁ ଅନୁସରଣ କରି, ମସଜିଦ୍ ନିର୍ମାଣ ସମୟରେ ଧ୍ୟାନ ଦେବାକୁ ଥିବା ବିଭିନ୍ନ ଦିଗ ଏଠାରେ ବର୍ଣ୍ଣନା କରାଯାଇଛି।",
+   "author": "ഡോ. അബ്ദുറസാഖ് സുല്ലമി",
+   "issue_date": "2017-03-25",
+   "html_url": "/or/fiqh/mosque-construction-some-points-to-note-20170325-5.html",
+   "md_url": "/or/fiqh/mosque-construction-some-points-to-note-20170325-5.md"
   },
   {
    "slug": "control-your-mind-20170325-3",
