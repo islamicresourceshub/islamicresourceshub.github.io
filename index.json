@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T03:53:28.008686+00:00",
+ "generated_at": "2026-08-28T03:53:36.530217+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 192,
+ "count": 193,
  "articles": [
   {
    "slug": "control-your-mind-20170325-3",
@@ -385,6 +385,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/bs/youth/an-agenda-is-needed-during-vacation-too-20170325-1.html",
    "md_url": "/bs/youth/an-agenda-is-needed-during-vacation-too-20170325-1.md"
+  },
+  {
+   "slug": "control-your-mind-20170325-3",
+   "lang": "de",
+   "category": "hadith",
+   "title": "Beherrsche deinen Geist",
+   "summary": "Eine Studie basierend auf einem Hadith des Propheten (saws), überliefert von Abu Huraira (ra). Sie erläutert die Botschaft, dass derjenige, der seinen Zorn kontrollieren kann, der wahre Starke ist.",
+   "author": "ഉസ്മാന്‍ പാലക്കാഴി",
+   "issue_date": "2017-03-25",
+   "html_url": "/de/hadith/control-your-mind-20170325-3.html",
+   "md_url": "/de/hadith/control-your-mind-20170325-3.md"
   },
   {
    "slug": "india-which-way-forward-20170325-2",
