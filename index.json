@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T04:32:24.825567+00:00",
+ "generated_at": "2026-08-28T04:32:46.174169+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 343,
+ "count": 344,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -3278,6 +3278,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/ru/youth/an-agenda-is-needed-during-vacation-too-20170325-1.html",
    "md_url": "/ru/youth/an-agenda-is-needed-during-vacation-too-20170325-1.md"
+  },
+  {
+   "slug": "prayer-that-is-worship-20170325-6",
+   "lang": "si",
+   "category": "dawah",
+   "title": "ප්‍රාර්ථනාව: එයමයි නමස්කාරය",
+   "summary": "ඉස්ලාම් උගන්වන ආකාරයට නමස්කාර කටයුතු පවත්වාගෙන යාම ජීවිතයේ මූලික අරමුණ බව මෙම ලිපිය පෙන්වා දෙයි. කුර්ආන් වැකිවල ආධාරයෙන් ප්‍රාර්ථනාවේ නමස්කාරාත්මක ස්වභාවය මෙහි පැහැදිලි කෙරේ.",
+   "author": "മൂസ സ്വലാഹി, കാര",
+   "issue_date": "2017-03-25",
+   "html_url": "/si/dawah/prayer-that-is-worship-20170325-6.html",
+   "md_url": "/si/dawah/prayer-that-is-worship-20170325-6.md"
   },
   {
    "slug": "our-parents-20170325-4",
