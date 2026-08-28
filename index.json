@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T04:22:42.461289+00:00",
+ "generated_at": "2026-08-28T04:22:55.213940+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 310,
+ "count": 311,
  "articles": [
   {
    "slug": "our-parents-20170325-4",
@@ -3333,6 +3333,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/th/family/our-parents-20170325-4.html",
    "md_url": "/th/family/our-parents-20170325-4.md"
+  },
+  {
+   "slug": "mosque-construction-some-points-to-note-20170325-5",
+   "lang": "th",
+   "category": "fiqh",
+   "title": "การสร้างมัสยิด: ข้อควรคำนึงบางประการ",
+   "summary": "บทความนี้กล่าวถึงหลักฟิกฮ์ (นิติศาสตร์อิสลาม) ในการสร้างมัสยิดโดยยึดถือหลักการว่ามัสยิดคือบ้านของอัลลอฮ์ โดยอ้างอิงแบบอย่างจากท่านนบี (ซ.ล.) ที่สร้างมัสยิดทันทีเมื่อถึงเมืองมะดีนะฮ์ พร้อมให้คำแนะนำเชิงปฏิบัติในการบริหารจัดการมัสยิดให้เกิดประโยชน์สูงสุด",
+   "author": "ഡോ. അബ്ദുറസാഖ് സുല്ലമി",
+   "issue_date": "2017-03-25",
+   "html_url": "/th/fiqh/mosque-construction-some-points-to-note-20170325-5.html",
+   "md_url": "/th/fiqh/mosque-construction-some-points-to-note-20170325-5.md"
   },
   {
    "slug": "control-your-mind-20170325-3",
