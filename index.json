@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T06:08:02.227449+00:00",
+ "generated_at": "2026-08-28T06:08:32.528814+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 553,
+ "count": 554,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -693,6 +693,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/bn/opinion/terrorism-and-religious-freedom-20170114-1.html",
    "md_url": "/bn/opinion/terrorism-and-religious-freedom-20170114-1.md"
+  },
+  {
+   "slug": "warning-signs-from-the-reconstruction-of-history-20170114-2",
+   "lang": "bn",
+   "category": "opinion",
+   "title": "ইতিহাস পুনর্নির্মাণের বিপজ্জনক সংকেতসমূহ",
+   "summary": "ঐতিহাসিক সত্যের কেবল একটি দিক দেখিয়ে নিজেদের দাবিকে ন্যায়সঙ্গত করার বিরুদ্ধে সতর্ককারী একটি নিবন্ধ। এটি ইতিহাস পুনর্নির্মাণের বিপজ্জনক সংকেতগুলো নিয়ে আলোচনা করে।",
+   "author": "എസ്‌.എ",
+   "issue_date": "2017-01-14",
+   "html_url": "/bn/opinion/warning-signs-from-the-reconstruction-of-history-20170114-2.html",
+   "md_url": "/bn/opinion/warning-signs-from-the-reconstruction-of-history-20170114-2.md"
   },
   {
    "slug": "praise-be-to-the-lord-of-the-worlds-20170325-9",
