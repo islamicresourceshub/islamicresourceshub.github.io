@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T04:37:20.973717+00:00",
+ "generated_at": "2026-08-28T04:37:34.081952+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 359,
+ "count": 360,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -506,6 +506,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/bn/opinion/india-which-way-forward-20170325-2.html",
    "md_url": "/bn/opinion/india-which-way-forward-20170325-2.md"
+  },
+  {
+   "slug": "prophets-and-trials-20170325-7",
+   "lang": "bn",
+   "category": "seerah",
+   "title": "নবীগণ এবং পরীক্ষা-নিরীক্ষা",
+   "summary": "মানবজাতিকে সঠিক পথের দিশা দিতে প্রেরিত নবীগণ বিভিন্ন ধরনের কঠিন পরীক্ষার সম্মুখীন হয়েছিলেন। এই নিবন্ধটি তুলে ধরেছে যে, কীভাবে সেই পরীক্ষাগুলো তাদের ঈমানকে আরও সুদৃঢ় ও শক্তিশালী করেছিল।",
+   "author": "ഹുസൈന്‍ സലഫി, ഷാര്‍ജ",
+   "issue_date": "2017-03-25",
+   "html_url": "/bn/seerah/prophets-and-trials-20170325-7.html",
+   "md_url": "/bn/seerah/prophets-and-trials-20170325-7.md"
   },
   {
    "slug": "an-agenda-is-needed-during-vacation-too-20170325-1",
