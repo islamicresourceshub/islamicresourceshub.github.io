@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T09:07:56.788703+00:00",
+ "generated_at": "2026-08-28T09:08:08.391470+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 670,
+ "count": 671,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -968,6 +968,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/bs/opinion/india-which-way-forward-20170325-2.html",
    "md_url": "/bs/opinion/india-which-way-forward-20170325-2.md"
+  },
+  {
+   "slug": "muslim-extremists-defame-islam-20170114-7",
+   "lang": "bs",
+   "category": "opinion",
+   "title": "Muslimski ekstremisti su oni koji kaljaju islam",
+   "summary": "Odlomak iz intervjua sa istoričarem M.G.S. Narayananom. Razgovor obuhvata promjene koje je donio islam, muslimansku renesansu u Kerali i pitanje ekstremizma.",
+   "author": "എം.ജി.എസ്‌ നാരായണൻ / റസ്റ്റം ഉസ്മാൻ",
+   "issue_date": "2017-01-14",
+   "html_url": "/bs/opinion/muslim-extremists-defame-islam-20170114-7.html",
+   "md_url": "/bs/opinion/muslim-extremists-defame-islam-20170114-7.md"
   },
   {
    "slug": "terrorism-and-religious-freedom-20170114-1",
