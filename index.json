@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T09:59:49.455387+00:00",
+ "generated_at": "2026-08-28T10:00:09.637514+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 877,
+ "count": 878,
  "articles": [
   {
    "slug": "live-knowing-the-value-of-time-20170114-8",
@@ -3872,6 +3872,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/kn/opinion/uapa-wielding-sedition-law-20170114-9.html",
    "md_url": "/kn/opinion/uapa-wielding-sedition-law-20170114-9.md"
+  },
+  {
+   "slug": "when-national-tradition-is-questioned-20170121-2",
+   "lang": "kn",
+   "category": "opinion",
+   "title": "ರಾಷ್ಟ್ರೀಯ ಪರಂಪರೆ ಪ್ರಶ್ನಿಸಲ್ಪಟ್ಟಾಗ",
+   "summary": "ಪ್ರೊ. ಎಂ.ಜಿ.ಎಸ್. ನಾರಾಯಣನ್ ಅವರು ರಾಷ್ಟ್ರೀಯತೆಯ ಕುರಿತು ವ್ಯಕ್ತಪಡಿಸಿದ ಅಭಿಪ್ರಾಯಗಳು ಹುಟ್ಟುಹಾಕಿದ ಚರ್ಚೆಗಳ ವಿಶ್ಲೇಷಣೆ ಇಲ್ಲಿದೆ. ರಾಷ್ಟ್ರೀಯ ಪರಂಪರೆಯ ಪ್ರಸ್ತುತತೆ ಮತ್ತು ಭಾರತೀಯ ಸಮಾಜದಲ್ಲಿ ಅದರ ಸ್ಥಾನವನ್ನು ಈ ಲೇಖನ ಪರಿಶೀಲಿಸುತ್ತದೆ.",
+   "author": "ഉസ്മാൻ പാലക്കാഴി",
+   "issue_date": "2017-01-21",
+   "html_url": "/kn/opinion/when-national-tradition-is-questioned-20170121-2.html",
+   "md_url": "/kn/opinion/when-national-tradition-is-questioned-20170121-2.md"
   },
   {
    "slug": "who-should-leave-india-20170121-1",
