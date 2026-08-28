@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T09:08:46.338260+00:00",
+ "generated_at": "2026-08-28T09:08:58.517467+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 674,
+ "count": 675,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -1617,6 +1617,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/fa/opinion/india-which-way-forward-20170325-2.html",
    "md_url": "/fa/opinion/india-which-way-forward-20170325-2.md"
+  },
+  {
+   "slug": "muslim-extremists-defame-islam-20170114-7",
+   "lang": "fa",
+   "category": "opinion",
+   "title": "افراط‌گرایان مسلمان؛ لکه‌داران دامن اسلام",
+   "summary": "بخشی از مصاحبه با مورخ برجسته، ام. جی. اس. نارایانان، که در آن به تغییرات ایجاد شده توسط اسلام، نوزایی مسلمانان کرالا و پدیده افراط‌گرایی پرداخته شده است.",
+   "author": "എം.ജി.എസ്‌ നാരായണൻ / റസ്റ്റം ഉസ്മാൻ",
+   "issue_date": "2017-01-14",
+   "html_url": "/fa/opinion/muslim-extremists-defame-islam-20170114-7.html",
+   "md_url": "/fa/opinion/muslim-extremists-defame-islam-20170114-7.md"
   },
   {
    "slug": "terrorism-and-religious-freedom-20170114-1",
