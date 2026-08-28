@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T06:04:30.792398+00:00",
+ "generated_at": "2026-08-28T06:04:54.286409+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 549,
+ "count": 550,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -6215,6 +6215,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/zh/opinion/india-which-way-forward-20170325-2.html",
    "md_url": "/zh/opinion/india-which-way-forward-20170325-2.md"
+  },
+  {
+   "slug": "terrorism-and-religious-freedom-20170114-1",
+   "lang": "zh",
+   "category": "opinion",
+   "title": "反恐行动与宗教自由",
+   "summary": "本文指出恐怖主义是破坏任何社会安宁的精神扭曲，并深入分析了反恐行动与宗教自由之间的复杂关系。",
+   "author": "ഡോ. സി.എം സാബിർ നവാസ്‌",
+   "issue_date": "2017-01-14",
+   "html_url": "/zh/opinion/terrorism-and-religious-freedom-20170114-1.html",
+   "md_url": "/zh/opinion/terrorism-and-religious-freedom-20170114-1.md"
   },
   {
    "slug": "praise-be-to-the-lord-of-the-worlds-20170325-9",
