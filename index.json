@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T04:22:08.998613+00:00",
+ "generated_at": "2026-08-28T04:22:27.102831+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 308,
+ "count": 309,
  "articles": [
   {
    "slug": "our-parents-20170325-4",
@@ -3223,6 +3223,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/ta/family/our-parents-20170325-4.html",
    "md_url": "/ta/family/our-parents-20170325-4.md"
+  },
+  {
+   "slug": "mosque-construction-some-points-to-note-20170325-5",
+   "lang": "ta",
+   "category": "fiqh",
+   "title": "பள்ளிவாசல் கட்டுமானம்: கவனிக்க வேண்டிய சில விஷயங்கள்",
+   "summary": "பள்ளிவாசல்கள் அல்லாஹ்வின் இல்லங்கள் என்ற தத்துவத்தின் அடிப்படையில் அமைந்த ஒரு ஃபிக்ஹ் (சட்ட) ஆய்வு. மதீனாவில் நபி (ஸல்) அவர்கள் பள்ளிவாசலை நிர்மாணித்த முன்மாதிரியைப் பின்பற்றி, பள்ளிவாசல் கட்டுமானத்தில் கவனிக்க வேண்டிய முக்கிய அம்சங்களை இக்கட்டுரை விளக்குகிறது.",
+   "author": "ഡോ. അബ്ദുറസാഖ് സുല്ലമി",
+   "issue_date": "2017-03-25",
+   "html_url": "/ta/fiqh/mosque-construction-some-points-to-note-20170325-5.html",
+   "md_url": "/ta/fiqh/mosque-construction-some-points-to-note-20170325-5.md"
   },
   {
    "slug": "control-your-mind-20170325-3",
