@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T10:44:07.782171+00:00",
+ "generated_at": "2026-08-28T10:44:19.702900+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 927,
+ "count": 928,
  "articles": [
   {
    "slug": "live-knowing-the-value-of-time-20170114-8",
@@ -8096,6 +8096,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/sq/opinion/elections-the-stand-must-be-well-considered-20170325-10.html",
    "md_url": "/sq/opinion/elections-the-stand-must-be-well-considered-20170325-10.md"
+  },
+  {
+   "slug": "everyone-should-have-a-beard-20170121-3",
+   "lang": "sq",
+   "category": "opinion",
+   "title": "Të gjithë duan mjekër!",
+   "summary": "Një artikull kritik ndaj një shkrimtari që sulmon praktikën e lënies së mjekrës. Analizohet rëndësia e Sunetit dhe qëndrimet e atyre që e kundërshtojnë atë.",
+   "author": "അബൂമിസ്‌യാല്‍",
+   "issue_date": "2017-01-21",
+   "html_url": "/sq/opinion/everyone-should-have-a-beard-20170121-3.html",
+   "md_url": "/sq/opinion/everyone-should-have-a-beard-20170121-3.md"
   },
   {
    "slug": "india-which-way-forward-20170325-2",
