@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T05:07:32.338361+00:00",
+ "generated_at": "2026-08-28T05:07:52.358790+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 463,
+ "count": 464,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -4488,6 +4488,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/sw/opinion/india-which-way-forward-20170325-2.html",
    "md_url": "/sw/opinion/india-which-way-forward-20170325-2.md"
+  },
+  {
+   "slug": "praise-be-to-the-lord-of-the-worlds-20170325-9",
+   "lang": "sw",
+   "category": "quran",
+   "title": "Sifa ni za Mola wa Walimwengu",
+   "summary": "Uchambuzi huu unajikita katika aya ya pili ya Surah Al-Fatiha, 'Sifa zote njema ni za Mwenyezi Mungu, Mola wa walimwengu wote'. Inafafanua nafasi ya shukrani kwa Mwenyezi Mungu katika maadili ya kibinadamu.",
+   "author": "സി.മുഹമ്മദ് റാഫി ചെമ്പ്ര",
+   "issue_date": "2017-03-25",
+   "html_url": "/sw/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.html",
+   "md_url": "/sw/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.md"
   },
   {
    "slug": "prophets-and-trials-20170325-7",
