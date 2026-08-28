@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T09:15:23.117539+00:00",
+ "generated_at": "2026-08-28T09:15:38.417486+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 704,
+ "count": 705,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -7898,6 +7898,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/zh/opinion/india-which-way-forward-20170325-2.html",
    "md_url": "/zh/opinion/india-which-way-forward-20170325-2.md"
+  },
+  {
+   "slug": "muslim-extremists-defame-islam-20170114-7",
+   "lang": "zh",
+   "category": "opinion",
+   "title": "穆斯林极端分子是伊斯兰教的抹黑者",
+   "summary": "本文摘自历史学家M.G.S.纳拉亚南（M.G.S. Narayanan）的访谈，探讨了伊斯兰教带来的变革、喀拉拉邦穆斯林的复兴运动以及极端主义等议题。",
+   "author": "എം.ജി.എസ്‌ നാരായണൻ / റസ്റ്റം ഉസ്മാൻ",
+   "issue_date": "2017-01-14",
+   "html_url": "/zh/opinion/muslim-extremists-defame-islam-20170114-7.html",
+   "md_url": "/zh/opinion/muslim-extremists-defame-islam-20170114-7.md"
   },
   {
    "slug": "terrorism-and-religious-freedom-20170114-1",
