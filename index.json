@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T03:59:09.564870+00:00",
+ "generated_at": "2026-08-28T03:59:38.559442+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 211,
+ "count": 212,
  "articles": [
   {
    "slug": "control-your-mind-20170325-3",
@@ -2211,6 +2211,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/ps/youth/an-agenda-is-needed-during-vacation-too-20170325-1.html",
    "md_url": "/ps/youth/an-agenda-is-needed-during-vacation-too-20170325-1.md"
+  },
+  {
+   "slug": "control-your-mind-20170325-3",
+   "lang": "pt",
+   "category": "hadith",
+   "title": "Controle a sua mente",
+   "summary": "Um estudo baseado no hadith do Profeta (que a paz e as bênçãos de Allah estejam sobre ele), narrado por Abu Hurairah (que Allah esteja satisfeito com ele). O texto explica que o verdadeiro forte é aquele que controla a sua mente quando a raiva surge.",
+   "author": "ഉസ്മാന്‍ പാലക്കാഴി",
+   "issue_date": "2017-03-25",
+   "html_url": "/pt/hadith/control-your-mind-20170325-3.html",
+   "md_url": "/pt/hadith/control-your-mind-20170325-3.md"
   },
   {
    "slug": "india-which-way-forward-20170325-2",
