@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T10:14:29.965390+00:00",
+ "generated_at": "2026-08-28T10:14:42.074662+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 906,
+ "count": 907,
  "articles": [
   {
    "slug": "live-knowing-the-value-of-time-20170114-8",
@@ -1925,6 +1925,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/es/opinion/elections-the-stand-must-be-well-considered-20170325-10.html",
    "md_url": "/es/opinion/elections-the-stand-must-be-well-considered-20170325-10.md"
+  },
+  {
+   "slug": "everyone-should-have-a-beard-20170121-3",
+   "lang": "es",
+   "category": "opinion",
+   "title": "¡Todos necesitan una barba!",
+   "summary": "Un análisis crítico sobre un artículo que ataca la práctica de dejarse crecer la barba, defendiendo la importancia de la Sunnah frente a las posturas de sus detractores. El texto cuestiona las contradicciones de quienes critican las tradiciones islámicas mientras ignoran la profundidad de sus significados.",
+   "author": "അബൂമിസ്‌യാല്‍",
+   "issue_date": "2017-01-21",
+   "html_url": "/es/opinion/everyone-should-have-a-beard-20170121-3.html",
+   "md_url": "/es/opinion/everyone-should-have-a-beard-20170121-3.md"
   },
   {
    "slug": "india-which-way-forward-20170325-2",
