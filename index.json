@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T05:12:48.384819+00:00",
+ "generated_at": "2026-08-28T05:13:08.314359+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 477,
+ "count": 478,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -704,6 +704,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/bs/hadith/control-your-mind-20170325-3.html",
    "md_url": "/bs/hadith/control-your-mind-20170325-3.md"
+  },
+  {
+   "slug": "elections-the-stand-must-be-well-considered-20170325-10",
+   "lang": "bs",
+   "category": "opinion",
+   "title": "Izbori: Stav mora biti dobro promišljen",
+   "summary": "Ovaj tekst analizira pitanje trebaju li muslimani u sekularnoj demokratskoj Indiji sudjelovati u izbornom procesu. Autor istražuje islamski stav o sudjelovanju u izgradnji društva i odgovornosti vjernika unutar države.",
+   "author": "പി.എന്‍ അബ്ദുറഹ്മാന്‍",
+   "issue_date": "2017-03-25",
+   "html_url": "/bs/opinion/elections-the-stand-must-be-well-considered-20170325-10.html",
+   "md_url": "/bs/opinion/elections-the-stand-must-be-well-considered-20170325-10.md"
   },
   {
    "slug": "india-which-way-forward-20170325-2",
