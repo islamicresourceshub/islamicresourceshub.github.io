@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T04:34:05.397389+00:00",
+ "generated_at": "2026-08-28T04:34:24.763938+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 348,
+ "count": 349,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -3608,6 +3608,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/ta/youth/an-agenda-is-needed-during-vacation-too-20170325-1.html",
    "md_url": "/ta/youth/an-agenda-is-needed-during-vacation-too-20170325-1.md"
+  },
+  {
+   "slug": "prayer-that-is-worship-20170325-6",
+   "lang": "te",
+   "category": "dawah",
+   "title": "ప్రార్థన: అదే ఆరాధన",
+   "summary": "ఇస్లాం బోధించిన పద్ధతిలో ఆరాధనలను నిర్వహించడమే మానవ జీవితం యొక్క ప్రాథమిక లక్ష్యమని ఈ వ్యాసం వివరిస్తుంది. ఖురాన్ వచనాల ఆధారంగా ప్రార్థన యొక్క ఆరాధనా స్వభావాన్ని ఇది స్పష్టం చేస్తుంది.",
+   "author": "മൂസ സ്വലാഹി, കാര",
+   "issue_date": "2017-03-25",
+   "html_url": "/te/dawah/prayer-that-is-worship-20170325-6.html",
+   "md_url": "/te/dawah/prayer-that-is-worship-20170325-6.md"
   },
   {
    "slug": "our-parents-20170325-4",
