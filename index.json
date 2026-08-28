@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T04:19:10.974819+00:00",
+ "generated_at": "2026-08-28T04:19:26.757620+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 295,
+ "count": 296,
  "articles": [
   {
    "slug": "our-parents-20170325-4",
@@ -1166,6 +1166,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/ko/family/our-parents-20170325-4.html",
    "md_url": "/ko/family/our-parents-20170325-4.md"
+  },
+  {
+   "slug": "mosque-construction-some-points-to-note-20170325-5",
+   "lang": "ko",
+   "category": "fiqh",
+   "title": "모스크 건축: 주의해야 할 몇 가지 사항",
+   "summary": "모스크는 알라의 집이라는 원칙에 기반한 피크(이슬람 법학)적 고찰입니다. 예언자(그분에게 평화가 깃들기를)께서 메디나에 도착하시자마자 모스크를 세우신 모범을 따라, 모스크 건축 시 고려해야 할 실질적인 지침들을 설명합니다.",
+   "author": "ഡോ. അബ്ദുറസാഖ് സുല്ലമി",
+   "issue_date": "2017-03-25",
+   "html_url": "/ko/fiqh/mosque-construction-some-points-to-note-20170325-5.html",
+   "md_url": "/ko/fiqh/mosque-construction-some-points-to-note-20170325-5.md"
   },
   {
    "slug": "control-your-mind-20170325-3",
