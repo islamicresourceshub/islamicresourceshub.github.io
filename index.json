@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T05:00:32.663635+00:00",
+ "generated_at": "2026-08-28T05:00:49.317649+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 439,
+ "count": 440,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -770,6 +770,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/de/opinion/india-which-way-forward-20170325-2.html",
    "md_url": "/de/opinion/india-which-way-forward-20170325-2.md"
+  },
+  {
+   "slug": "praise-be-to-the-lord-of-the-worlds-20170325-9",
+   "lang": "de",
+   "category": "quran",
+   "title": "Lobpreis dem Herrn der Welten",
+   "summary": "Eine Betrachtung über den Vers 'Alles Lob gebührt Allah, dem Herrn der Welten' (Quran 1:2). Der Beitrag erläutert den Stellenwert der Dankbarkeit gegenüber Allah im Rahmen der menschlichen Etikette.",
+   "author": "സി.മുഹമ്മദ് റാഫി ചെമ്പ്ര",
+   "issue_date": "2017-03-25",
+   "html_url": "/de/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.html",
+   "md_url": "/de/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.md"
   },
   {
    "slug": "prophets-and-trials-20170325-7",
