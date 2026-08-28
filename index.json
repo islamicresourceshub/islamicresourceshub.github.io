@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T08:52:37.944813+00:00",
+ "generated_at": "2026-08-28T08:52:48.391116+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 626,
+ "count": 627,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -7106,6 +7106,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/zh/youth/an-agenda-is-needed-during-vacation-too-20170325-1.html",
    "md_url": "/zh/youth/an-agenda-is-needed-during-vacation-too-20170325-1.md"
+  },
+  {
+   "slug": "what-will-the-waste-do-20170114-5",
+   "lang": "zh",
+   "category": "youth",
+   "title": "垃圾该怎么办？",
+   "summary": "通过聪明女孩莎莉法的故事，向孩子们讲述了关于垃圾处理以及保持环境卫生的重要性。",
+   "author": "അബൂഫായിദ",
+   "issue_date": "2017-01-14",
+   "html_url": "/zh/youth/what-will-the-waste-do-20170114-5.html",
+   "md_url": "/zh/youth/what-will-the-waste-do-20170114-5.md"
   }
  ]
 }
