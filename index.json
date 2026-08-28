@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T05:55:13.745075+00:00",
+ "generated_at": "2026-08-28T05:55:40.599100+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 541,
+ "count": 542,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -5247,6 +5247,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/ta/opinion/india-which-way-forward-20170325-2.html",
    "md_url": "/ta/opinion/india-which-way-forward-20170325-2.md"
+  },
+  {
+   "slug": "terrorism-and-religious-freedom-20170114-1",
+   "lang": "ta",
+   "category": "opinion",
+   "title": "பயங்கரவாத வேட்டையும் மத சுதந்திரமும்",
+   "summary": "பயங்கரவாதம் என்பது எந்தவொரு சமூகத்தின் அமைதியையும் கெடுக்கும் ஒரு மனநலக் கோளாறு என்ற கருத்தில் இருந்து தொடங்கும் இக்கட்டுரை, பயங்கரவாதத்திற்கும் மத சுதந்திரத்திற்கும் இடையிலான உறவை பகுப்பாய்வு செய்கிறது.",
+   "author": "ഡോ. സി.എം സാബിർ നവാസ്‌",
+   "issue_date": "2017-01-14",
+   "html_url": "/ta/opinion/terrorism-and-religious-freedom-20170114-1.html",
+   "md_url": "/ta/opinion/terrorism-and-religious-freedom-20170114-1.md"
   },
   {
    "slug": "praise-be-to-the-lord-of-the-worlds-20170325-9",
