@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T09:33:11.729261+00:00",
+ "generated_at": "2026-08-28T09:33:27.625445+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 772,
+ "count": 773,
  "articles": [
   {
    "slug": "live-knowing-the-value-of-time-20170114-8",
@@ -6897,6 +6897,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/sq/opinion/terrorism-and-religious-freedom-20170114-1.html",
    "md_url": "/sq/opinion/terrorism-and-religious-freedom-20170114-1.md"
+  },
+  {
+   "slug": "uapa-wielding-sedition-law-20170114-9",
+   "lang": "sq",
+   "category": "opinion",
+   "title": "UAPA: Ligji i tradhtisë me kamxhik në dorë",
+   "summary": "Një artikull kritik mbi keqpërdorimin e ligjit UAPA dhe ligjeve për tradhtinë ndaj atdheut. Teksti shtron pyetje thelbësore mbi drejtësinë, lirinë dhe përdorimin e këtyre mjeteve ligjore si instrumente shtypjeje.",
+   "author": "പി.വി.എ പ്രിംറോസ്‌",
+   "issue_date": "2017-01-14",
+   "html_url": "/sq/opinion/uapa-wielding-sedition-law-20170114-9.html",
+   "md_url": "/sq/opinion/uapa-wielding-sedition-law-20170114-9.md"
   },
   {
    "slug": "praise-be-to-the-lord-of-the-worlds-20170325-9",
