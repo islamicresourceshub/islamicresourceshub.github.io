@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T04:18:59.031080+00:00",
+ "generated_at": "2026-08-28T04:19:10.974819+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 294,
+ "count": 295,
  "articles": [
   {
    "slug": "our-parents-20170325-4",
@@ -1111,6 +1111,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/kn/family/our-parents-20170325-4.html",
    "md_url": "/kn/family/our-parents-20170325-4.md"
+  },
+  {
+   "slug": "mosque-construction-some-points-to-note-20170325-5",
+   "lang": "kn",
+   "category": "fiqh",
+   "title": "ಮಸೀದಿ ನಿರ್ಮಾಣ: ಗಮನಿಸಬೇಕಾದ ಕೆಲವು ವಿಷಯಗಳು",
+   "summary": "ಮಸೀದಿಗಳು ಅಲ್ಲಾಹನ ಮನೆಗಳೆಂಬ ತತ್ವದ ಆಧಾರದ ಮೇಲೆ ಫಿಕ್ಹ್ ಅಧ್ಯಯನ. ಪ್ರವಾದಿ (ಸ) ಮದೀನಾಕ್ಕೆ ಆಗಮಿಸಿದ ತಕ್ಷಣ ಮಸೀದಿ ನಿರ್ಮಿಸಿದ ಮಾದರಿಯನ್ನು ಅನುಸರಿಸಿ, ಮಸೀದಿ ನಿರ್ಮಾಣದಲ್ಲಿ ಗಮನಿಸಬೇಕಾದ ಪ್ರಮುಖ ಅಂಶಗಳನ್ನು ಇಲ್ಲಿ ವಿವರಿಸಲಾಗಿದೆ.",
+   "author": "ഡോ. അബ്ദുറസാഖ് സുല്ലമി",
+   "issue_date": "2017-03-25",
+   "html_url": "/kn/fiqh/mosque-construction-some-points-to-note-20170325-5.html",
+   "md_url": "/kn/fiqh/mosque-construction-some-points-to-note-20170325-5.md"
   },
   {
    "slug": "control-your-mind-20170325-3",
