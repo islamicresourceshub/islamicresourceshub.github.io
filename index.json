@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T04:43:34.462782+00:00",
+ "generated_at": "2026-08-28T04:43:52.751051+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 380,
+ "count": 381,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -3465,6 +3465,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/pt/opinion/india-which-way-forward-20170325-2.html",
    "md_url": "/pt/opinion/india-which-way-forward-20170325-2.md"
+  },
+  {
+   "slug": "prophets-and-trials-20170325-7",
+   "lang": "pt",
+   "category": "seerah",
+   "title": "Os Profetas e as Provações",
+   "summary": "Um estudo sobre as diversas provações enfrentadas pelos profetas enviados para guiar a humanidade. O artigo destaca como esses testes fortaleceram a fé desses mensageiros e reafirmaram sua natureza humana.",
+   "author": "ഹുസൈന്‍ സലഫി, ഷാര്‍ജ",
+   "issue_date": "2017-03-25",
+   "html_url": "/pt/seerah/prophets-and-trials-20170325-7.html",
+   "md_url": "/pt/seerah/prophets-and-trials-20170325-7.md"
   },
   {
    "slug": "an-agenda-is-needed-during-vacation-too-20170325-1",
