@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T09:10:11.475397+00:00",
+ "generated_at": "2026-08-28T09:10:23.663611+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 681,
+ "count": 682,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -2772,6 +2772,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/ja/opinion/india-which-way-forward-20170325-2.html",
    "md_url": "/ja/opinion/india-which-way-forward-20170325-2.md"
+  },
+  {
+   "slug": "muslim-extremists-defame-islam-20170114-7",
+   "lang": "ja",
+   "category": "opinion",
+   "title": "イスラムを汚すイスラム過激派",
+   "summary": "歴史家M.G.S.ナラヤナン氏へのインタビュー記事。イスラムがもたらした変革、ケララ州におけるイスラムの復興、そして過激主義について論じます。",
+   "author": "എം.ജി.എസ്‌ നാരായണൻ / റസ്റ്റം ഉസ്മാൻ",
+   "issue_date": "2017-01-14",
+   "html_url": "/ja/opinion/muslim-extremists-defame-islam-20170114-7.html",
+   "md_url": "/ja/opinion/muslim-extremists-defame-islam-20170114-7.md"
   },
   {
    "slug": "terrorism-and-religious-freedom-20170114-1",
