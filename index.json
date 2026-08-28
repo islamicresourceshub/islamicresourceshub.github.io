@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T05:02:47.243993+00:00",
+ "generated_at": "2026-08-28T05:03:02.452545+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 447,
+ "count": 448,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -1562,6 +1562,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/id/opinion/india-which-way-forward-20170325-2.html",
    "md_url": "/id/opinion/india-which-way-forward-20170325-2.md"
+  },
+  {
+   "slug": "praise-be-to-the-lord-of-the-worlds-20170325-9",
+   "lang": "id",
+   "category": "quran",
+   "title": "Pujian bagi Pemelihara Alam Semesta",
+   "summary": "Sebuah kajian berdasarkan ayat 'Segala puji bagi Allah, Tuhan semesta alam' (Al-Qur'an 1:2). Tulisan ini menjelaskan kedudukan rasa syukur kepada Allah di antara adab-adab yang diajarkan kepada manusia.",
+   "author": "സി.മുഹമ്മദ് റാഫി ചെമ്പ്ര",
+   "issue_date": "2017-03-25",
+   "html_url": "/id/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.html",
+   "md_url": "/id/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.md"
   },
   {
    "slug": "prophets-and-trials-20170325-7",
