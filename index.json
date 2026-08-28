@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T10:46:30.143509+00:00",
+ "generated_at": "2026-08-28T10:46:46.025009+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 938,
+ "count": 939,
  "articles": [
   {
    "slug": "live-knowing-the-value-of-time-20170114-8",
@@ -264,6 +264,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/am/family/don-t-worry-allah-is-with-you-20170114-10.html",
    "md_url": "/am/family/don-t-worry-allah-is-with-you-20170114-10.md"
+  },
+  {
+   "slug": "how-to-be-a-good-parent-part-2-20170121-4",
+   "lang": "am",
+   "category": "family",
+   "title": "እንዴት ጥሩ ወላጅ መሆን ይቻላል?",
+   "summary": "ጥሩ ወላጅ ለመሆን የሚያስችሉ የእስልምና መመሪያዎች ሁለተኛ ክፍል ነው። የዓለማት ጌታ በሆነው አላህ ትእዛዝ መሠረት መኖር እና ለወዲያኛው ዓለም ስኬት (ጀነት) መድረስ የሚቻልባቸውን መንገዶች ያብራራል።",
+   "author": "അഷ്‌റഫ് എകരൂല്‍",
+   "issue_date": "2017-01-21",
+   "html_url": "/am/family/how-to-be-a-good-parent-part-2-20170121-4.html",
+   "md_url": "/am/family/how-to-be-a-good-parent-part-2-20170121-4.md"
   },
   {
    "slug": "our-parents-20170325-4",
