@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T04:11:32.162337+00:00",
+ "generated_at": "2026-08-28T04:11:48.191953+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 262,
+ "count": 263,
  "articles": [
   {
    "slug": "our-parents-20170325-4",
@@ -2574,6 +2574,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/pa/youth/an-agenda-is-needed-during-vacation-too-20170325-1.html",
    "md_url": "/pa/youth/an-agenda-is-needed-during-vacation-too-20170325-1.md"
+  },
+  {
+   "slug": "our-parents-20170325-4",
+   "lang": "ps",
+   "category": "family",
+   "title": "زموږ مور او پلار",
+   "summary": "دا لیکنه د الله تعالی د ستر نعمت، یعنې مور او پلار په اړه ده. په دې کې د انسان په توګه د پیدا کېدو په شکرانه او د مور او پلار په وړاندې زموږ په مسؤلیتونو بحث شوی دی.",
+   "author": "കെ.സഫ്‌വാന്‍ മുഹമ്മദ്, ആമയൂര്‍",
+   "issue_date": "2017-03-25",
+   "html_url": "/ps/family/our-parents-20170325-4.html",
+   "md_url": "/ps/family/our-parents-20170325-4.md"
   },
   {
    "slug": "control-your-mind-20170325-3",
