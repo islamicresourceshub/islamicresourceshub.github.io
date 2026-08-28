@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T04:23:20.998258+00:00",
+ "generated_at": "2026-08-28T04:23:32.784885+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 313,
+ "count": 314,
  "articles": [
   {
    "slug": "our-parents-20170325-4",
@@ -3498,6 +3498,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/ur/family/our-parents-20170325-4.html",
    "md_url": "/ur/family/our-parents-20170325-4.md"
+  },
+  {
+   "slug": "mosque-construction-some-points-to-note-20170325-5",
+   "lang": "ur",
+   "category": "fiqh",
+   "title": "مسجد کی تعمیر: چند اہم نکات",
+   "summary": "یہ مضمون اس فقہی اصول پر مبنی ہے کہ مساجد اللہ کے گھر ہیں۔ نبی کریم ﷺ کی مدینہ آمد کے بعد مسجد نبوی کی تعمیر کے نمونے کو سامنے رکھتے ہوئے، مسجد کی تعمیر اور انتظام کے حوالے سے ضروری امور کی وضاحت کی گئی ہے۔",
+   "author": "ഡോ. അബ്ദുറസാഖ് സുല്ലമി",
+   "issue_date": "2017-03-25",
+   "html_url": "/ur/fiqh/mosque-construction-some-points-to-note-20170325-5.html",
+   "md_url": "/ur/fiqh/mosque-construction-some-points-to-note-20170325-5.md"
   },
   {
    "slug": "control-your-mind-20170325-3",
