@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T09:12:39.415784+00:00",
+ "generated_at": "2026-08-28T09:12:54.138619+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 692,
+ "count": 693,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -5918,6 +5918,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/si/opinion/india-which-way-forward-20170325-2.html",
    "md_url": "/si/opinion/india-which-way-forward-20170325-2.md"
+  },
+  {
+   "slug": "muslim-extremists-defame-islam-20170114-7",
+   "lang": "si",
+   "category": "opinion",
+   "title": "මුස්ලිම් අන්තවාදීන් ඉස්ලාම් දහම කෙලෙසන්නෝ",
+   "summary": "ඉතිහාසඥ එම්.ජී.එස්. නාරායනන් සමඟ කළ සම්මුඛ සාකච්ඡාවක කොටසකි. ඉස්ලාම් දහම ගෙන ආ වෙනස්කම්, කේරළ මුස්ලිම් පුනරුදය සහ අන්තවාදය පිළිබඳව මෙහි සාකච්ඡා කෙරේ.",
+   "author": "എം.ജി.എസ്‌ നാരായണൻ / റസ്റ്റം ഉസ്മാൻ",
+   "issue_date": "2017-01-14",
+   "html_url": "/si/opinion/muslim-extremists-defame-islam-20170114-7.html",
+   "md_url": "/si/opinion/muslim-extremists-defame-islam-20170114-7.md"
   },
   {
    "slug": "terrorism-and-religious-freedom-20170114-1",
