@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T09:58:04.681588+00:00",
+ "generated_at": "2026-08-28T09:58:26.169577+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 872,
+ "count": 873,
  "articles": [
   {
    "slug": "live-knowing-the-value-of-time-20170114-8",
@@ -2772,6 +2772,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/ha/opinion/uapa-wielding-sedition-law-20170114-9.html",
    "md_url": "/ha/opinion/uapa-wielding-sedition-law-20170114-9.md"
+  },
+  {
+   "slug": "when-national-tradition-is-questioned-20170121-2",
+   "lang": "ha",
+   "category": "opinion",
+   "title": "Lokacin da aka yi tambayoyi kan al'adar kasa",
+   "summary": "Wannan labarin yana nazarin muhawarar da bayanan Farfesa M.G.S. Narayanan suka haifar game da kishin kasa. Yana binciken mahimmancin al'adar kasa da matsayinta a cikin al'ummar Indiya.",
+   "author": "ഉസ്മാൻ പാലക്കാഴി",
+   "issue_date": "2017-01-21",
+   "html_url": "/ha/opinion/when-national-tradition-is-questioned-20170121-2.html",
+   "md_url": "/ha/opinion/when-national-tradition-is-questioned-20170121-2.md"
   },
   {
    "slug": "who-should-leave-india-20170121-1",
