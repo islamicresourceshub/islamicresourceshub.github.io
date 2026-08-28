@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T10:42:00.986113+00:00",
+ "generated_at": "2026-08-28T10:42:12.096592+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 917,
+ "count": 918,
  "articles": [
   {
    "slug": "live-knowing-the-value-of-time-20170114-8",
@@ -5808,6 +5808,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/mr/opinion/elections-the-stand-must-be-well-considered-20170325-10.html",
    "md_url": "/mr/opinion/elections-the-stand-must-be-well-considered-20170325-10.md"
+  },
+  {
+   "slug": "everyone-should-have-a-beard-20170121-3",
+   "lang": "mr",
+   "category": "opinion",
+   "title": "प्रत्येकाला हवी दाढी!",
+   "summary": "दाढीबद्दल टीका करणाऱ्या एका लेखकावर केलेली ही टीकात्मक टिप्पणी आहे. यात सुन्नतचे महत्त्व आणि त्याकडे दुर्लक्ष करणाऱ्यांच्या भूमिकेचे विश्लेषण केले आहे.",
+   "author": "അബൂമിസ്‌യാല്‍",
+   "issue_date": "2017-01-21",
+   "html_url": "/mr/opinion/everyone-should-have-a-beard-20170121-3.html",
+   "md_url": "/mr/opinion/everyone-should-have-a-beard-20170121-3.md"
   },
   {
    "slug": "india-which-way-forward-20170325-2",
