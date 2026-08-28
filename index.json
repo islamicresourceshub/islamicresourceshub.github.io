@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T08:53:06.178850+00:00",
+ "generated_at": "2026-08-28T08:53:22.743872+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 628,
+ "count": 629,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -385,6 +385,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/ar/dawah/prayer-that-is-worship-20170325-6.html",
    "md_url": "/ar/dawah/prayer-that-is-worship-20170325-6.md"
+  },
+  {
+   "slug": "religion-is-fearlessness-20170114-6",
+   "lang": "ar",
+   "category": "dawah",
+   "title": "الدين هو الأمان",
+   "summary": "مقال يتناول مفهوم الأمان في الإسلام مقارنة بالأديان الأخرى، وكيف يرسخ الإسلام قيم الطمأنينة والعدل والسكينة في حياة الفرد والمجتمع.",
+   "author": "ഉസ്മാൻ പാലക്കാഴി",
+   "issue_date": "2017-01-14",
+   "html_url": "/ar/dawah/religion-is-fearlessness-20170114-6.html",
+   "md_url": "/ar/dawah/religion-is-fearlessness-20170114-6.md"
   },
   {
    "slug": "our-parents-20170325-4",
