@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T04:47:40.518332+00:00",
+ "generated_at": "2026-08-28T04:47:54.488374+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 394,
+ "count": 395,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -4543,6 +4543,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/zh/opinion/india-which-way-forward-20170325-2.html",
    "md_url": "/zh/opinion/india-which-way-forward-20170325-2.md"
+  },
+  {
+   "slug": "prophets-and-trials-20170325-7",
+   "lang": "zh",
+   "category": "seerah",
+   "title": "先知与考验",
+   "summary": "本文探讨了被派遣引导人类的先知们所经历的各种考验。文章指出，这些考验不仅是他们作为凡人的证明，更磨砺并增强了他们的信仰。",
+   "author": "ഹുസൈന്‍ സലഫി, ഷാര്‍ജ",
+   "issue_date": "2017-03-25",
+   "html_url": "/zh/seerah/prophets-and-trials-20170325-7.html",
+   "md_url": "/zh/seerah/prophets-and-trials-20170325-7.md"
   },
   {
    "slug": "an-agenda-is-needed-during-vacation-too-20170325-1",
