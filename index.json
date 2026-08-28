@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T04:13:20.755713+00:00",
+ "generated_at": "2026-08-28T04:13:34.760362+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 269,
+ "count": 270,
  "articles": [
   {
    "slug": "our-parents-20170325-4",
@@ -2882,6 +2882,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/sw/youth/an-agenda-is-needed-during-vacation-too-20170325-1.html",
    "md_url": "/sw/youth/an-agenda-is-needed-during-vacation-too-20170325-1.md"
+  },
+  {
+   "slug": "our-parents-20170325-4",
+   "lang": "ta",
+   "category": "family",
+   "title": "நமது பெற்றோர்",
+   "summary": "அல்லாஹ்வின் மிகப்பெரிய அருட்கொடைகளான பெற்றோர்களைப் பற்றியும், அவர்களைப் பேணுவதில் நமக்குள்ள கடமைகளைப் பற்றியும் இந்த கட்டுரை விளக்குகிறது. மனிதனாகப் பிறந்ததே ஒரு பெரும் பாக்கியம் என்றும், பெற்றோரின் தியாகங்களை உணர்ந்து அவர்களுக்குச் செய்ய வேண்டிய கடமைகளை நிறைவேற்றுவதன் முக்கியத்துவத்தையும் இது எடுத்துரைக்கிறது.",
+   "author": "കെ.സഫ്‌വാന്‍ മുഹമ്മദ്, ആമയൂര്‍",
+   "issue_date": "2017-03-25",
+   "html_url": "/ta/family/our-parents-20170325-4.html",
+   "md_url": "/ta/family/our-parents-20170325-4.md"
   },
   {
    "slug": "control-your-mind-20170325-3",
