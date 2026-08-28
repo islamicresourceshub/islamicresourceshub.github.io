@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T04:17:58.505158+00:00",
+ "generated_at": "2026-08-28T04:18:11.871449+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 289,
+ "count": 290,
  "articles": [
   {
    "slug": "our-parents-20170325-4",
@@ -836,6 +836,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/ha/family/our-parents-20170325-4.html",
    "md_url": "/ha/family/our-parents-20170325-4.md"
+  },
+  {
+   "slug": "mosque-construction-some-points-to-note-20170325-5",
+   "lang": "ha",
+   "category": "fiqh",
+   "title": "Ginin Masallatai: Wasu Abubuwan da ya kamata a kula da su",
+   "summary": "Wannan rubutu yana bayyana fikihu da ka'idojin gina masallatai bisa tushen cewa su ne gidajen Allah. Yana ba da shawarwari kan yadda za a gina masallatai yadda ya kamata, tun daga matakin farko har zuwa kula da ma'aikata da muhalli, bisa koyarwar Annabi (SAW).",
+   "author": "ഡോ. അബ്ദുറസാഖ് സുല്ലമി",
+   "issue_date": "2017-03-25",
+   "html_url": "/ha/fiqh/mosque-construction-some-points-to-note-20170325-5.html",
+   "md_url": "/ha/fiqh/mosque-construction-some-points-to-note-20170325-5.md"
   },
   {
    "slug": "control-your-mind-20170325-3",
