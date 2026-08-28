@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T03:46:48.188758+00:00",
+ "generated_at": "2026-08-28T03:46:56.466466+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 155,
+ "count": 156,
  "articles": [
   {
    "slug": "india-which-way-forward-20170325-2",
@@ -374,6 +374,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/en/youth/an-agenda-is-needed-during-vacation-too-20170325-1.html",
    "md_url": "/en/youth/an-agenda-is-needed-during-vacation-too-20170325-1.md"
+  },
+  {
+   "slug": "india-which-way-forward-20170325-2",
+   "lang": "es",
+   "category": "opinion",
+   "title": "¿Hacia dónde va la India?",
+   "summary": "Este es un análisis sobre la situación política y social actual de la India. El autor responde a las preguntas de aquellos que están preocupados por la paz en el país.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2017-03-25",
+   "html_url": "/es/opinion/india-which-way-forward-20170325-2.html",
+   "md_url": "/es/opinion/india-which-way-forward-20170325-2.md"
   },
   {
    "slug": "an-agenda-is-needed-during-vacation-too-20170325-1",
