@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T03:57:29.463690+00:00",
+ "generated_at": "2026-08-28T03:57:49.692285+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 207,
+ "count": 208,
  "articles": [
   {
    "slug": "control-your-mind-20170325-3",
@@ -2079,6 +2079,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/ms/youth/an-agenda-is-needed-during-vacation-too-20170325-1.html",
    "md_url": "/ms/youth/an-agenda-is-needed-during-vacation-too-20170325-1.md"
+  },
+  {
+   "slug": "control-your-mind-20170325-3",
+   "lang": "ne",
+   "category": "hadith",
+   "title": "मनलाई नियन्त्रणमा राख्नुहोस्",
+   "summary": "अबू हुरैरा (र.) बाट वर्णित नबी (स.) को हदीसमा आधारित एक अध्ययन। यसले क्रोधको समयमा आफ्नो मनलाई नियन्त्रणमा राख्ने व्यक्ति नै वास्तविक बलवान हो भन्ने सन्देशलाई स्पष्ट पार्छ।",
+   "author": "ഉസ്മാന്‍ പാലക്കാഴി",
+   "issue_date": "2017-03-25",
+   "html_url": "/ne/hadith/control-your-mind-20170325-3.html",
+   "md_url": "/ne/hadith/control-your-mind-20170325-3.md"
   },
   {
    "slug": "india-which-way-forward-20170325-2",
