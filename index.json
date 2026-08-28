@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T05:05:23.226284+00:00",
+ "generated_at": "2026-08-28T05:05:44.171737+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 456,
+ "count": 457,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -3795,6 +3795,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/pa/opinion/india-which-way-forward-20170325-2.html",
    "md_url": "/pa/opinion/india-which-way-forward-20170325-2.md"
+  },
+  {
+   "slug": "praise-be-to-the-lord-of-the-worlds-20170325-9",
+   "lang": "pa",
+   "category": "quran",
+   "title": "ਸਾਰੀ ਉਸਤਤਿ ਜਗਤ ਦੇ ਪਾਲਣਹਾਰ ਲਈ",
+   "summary": "'ਸਾਰੀ ਉਸਤਤਿ ਅੱਲ੍ਹਾ ਲਈ ਹੈ, ਜੋ ਸਾਰੇ ਜਹਾਨਾਂ ਦਾ ਪਾਲਣਹਾਰ ਹੈ' (ਕੁਰਾਨ 1:2) ਦੇ ਵਚਨ 'ਤੇ ਆਧਾਰਿਤ ਇੱਕ ਅਧਿਐਨ। ਇਹ ਲੇਖ ਮਨੁੱਖੀ ਜੀਵਨ ਵਿੱਚ ਅੱਲ੍ਹਾ ਦੀ ਉਸਤਤਿ ਦੇ ਮਹੱਤਵ ਅਤੇ ਨਿਮਰਤਾ ਨੂੰ ਉਜਾਗਰ ਕਰਦਾ ਹੈ।",
+   "author": "സി.മുഹമ്മദ് റാഫി ചെമ്പ്ര",
+   "issue_date": "2017-03-25",
+   "html_url": "/pa/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.html",
+   "md_url": "/pa/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.md"
   },
   {
    "slug": "prophets-and-trials-20170325-7",
