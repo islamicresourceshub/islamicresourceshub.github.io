@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T04:28:33.836701+00:00",
+ "generated_at": "2026-08-28T04:28:50.989374+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 330,
+ "count": 331,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -1078,6 +1078,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/hi/youth/an-agenda-is-needed-during-vacation-too-20170325-1.html",
    "md_url": "/hi/youth/an-agenda-is-needed-during-vacation-too-20170325-1.md"
+  },
+  {
+   "slug": "prayer-that-is-worship-20170325-6",
+   "lang": "id",
+   "category": "dawah",
+   "title": "Doa: Itulah Ibadah",
+   "summary": "Artikel ini menegaskan bahwa tujuan utama kehidupan manusia adalah menjalankan ibadah sesuai dengan tuntunan Islam. Penulis menjelaskan hakikat doa sebagai bentuk ibadah yang mendasar berdasarkan dalil-dalil Al-Qur'an.",
+   "author": "മൂസ സ്വലാഹി, കാര",
+   "issue_date": "2017-03-25",
+   "html_url": "/id/dawah/prayer-that-is-worship-20170325-6.html",
+   "md_url": "/id/dawah/prayer-that-is-worship-20170325-6.md"
   },
   {
    "slug": "our-parents-20170325-4",
