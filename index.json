@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T04:05:24.928434+00:00",
+ "generated_at": "2026-08-28T04:05:45.954944+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 222,
+ "count": 235,
  "articles": [
   {
    "slug": "control-your-mind-20170325-3",
@@ -816,6 +816,17 @@
    "md_url": "/ko/youth/an-agenda-is-needed-during-vacation-too-20170325-1.md"
   },
   {
+   "slug": "allegations-of-deviation-and-responses-20170401-8",
+   "lang": "ml",
+   "category": "aqeedah",
+   "title": "വ്യതിയാനാരോപണങ്ങളും പ്രതികരണവും",
+   "summary": "കേരളത്തിലെ മുസ്‌ലിം നവോത്ഥാന ചരിത്രത്തിലെ ഒരു ഘട്ടത്തെക്കുറിച്ചുള്ള വിവരണം. സംഘടനയ്ക്കുള്ളിലെ ആശയപരമായ ഭിന്നതകളും അവ പരിഹരിക്കാൻ നടത്തിയ ചർച്ചകളും രേഖപ്പെടുത്തുന്നു.",
+   "author": "മുബാറക് ബിൻ ഉമർ",
+   "issue_date": "2017-04-01",
+   "html_url": "/ml/aqeedah/allegations-of-deviation-and-responses-20170401-8.html",
+   "md_url": "/ml/aqeedah/allegations-of-deviation-and-responses-20170401-8.md"
+  },
+  {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
    "lang": "ml",
    "category": "aqeedah",
@@ -847,6 +858,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/ml/aqeedah/faith-is-the-foundation-of-islam-20170128-13.html",
    "md_url": "/ml/aqeedah/faith-is-the-foundation-of-islam-20170128-13.md"
+  },
+  {
+   "slug": "identify-yourself-20170401-1",
+   "lang": "ml",
+   "category": "aqeedah",
+   "title": "സ്വയം തിരിച്ചറിയുക",
+   "summary": "മനുഷ്യപ്രകൃതിയെയും ഇസ്‌ലാമിക ജീവിതരീതിയെയും കുറിച്ചുള്ള ഒരു ലഘുവിവരണം. അല്ലാഹു നിശ്ചയിച്ച പ്രകൃതിക്കനുസൃതമായി ജീവിക്കേണ്ടതിന്റെ ആവശ്യകതയെക്കുറിച്ച് ഓർമ്മിപ്പിക്കുന്നു.",
+   "author": "എഡിറ്റർ",
+   "issue_date": "2017-04-01",
+   "html_url": "/ml/aqeedah/identify-yourself-20170401-1.html",
+   "md_url": "/ml/aqeedah/identify-yourself-20170401-1.md"
   },
   {
    "slug": "salafiyyah-ideology-and-stance-20170211-8",
@@ -882,6 +904,17 @@
    "md_url": "/ml/aqeedah/who-is-wrong-in-ideology-20260822-2.md"
   },
   {
+   "slug": "dawah-obligation-and-execution-20170401-9",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "പ്രബോധനം: ബാധ്യതയും നിർവഹണവും",
+   "summary": "ഇസ്‌ലാമിക പ്രബോധനത്തിന്റെ പ്രാധാന്യത്തെയും അത് നിർവഹിക്കേണ്ട രീതിശാസ്ത്രത്തെയും കുറിച്ച് ഖുർആൻ സൂക്തങ്ങളുടെ അടിസ്ഥാനത്തിൽ വിശദീകരിക്കുന്നു.",
+   "author": "സജ്ജാദ് ബിൻ അബ്ദുറസാഖ്",
+   "issue_date": "2017-04-01",
+   "html_url": "/ml/dawah/dawah-obligation-and-execution-20170401-9.html",
+   "md_url": "/ml/dawah/dawah-obligation-and-execution-20170401-9.md"
+  },
+  {
    "slug": "do-not-be-slaves-to-desires-20170211-11",
    "lang": "ml",
    "category": "dawah",
@@ -902,6 +935,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/ml/dawah/do-not-waver-in-trials-20170121-9.html",
    "md_url": "/ml/dawah/do-not-waver-in-trials-20170121-9.md"
+  },
+  {
+   "slug": "getting-closer-to-the-creator-20170401-12",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "സ്രഷ്ടാവിനോട് അടുക്കുക",
+   "summary": "അല്ലാഹുവിലേക്ക് അടുക്കാനുള്ള ഇസ്‌ലാമിക മാർഗ്ഗങ്ങളെക്കുറിച്ച് വിവരിക്കുന്നു. തെറ്റായ സന്യാസ രീതികളെ തള്ളിക്കളഞ്ഞ് ഖുർആനികവും പ്രവാചകചര്യയിലുള്ളതുമായ മാർഗ്ഗങ്ങൾ സ്വീകരിക്കാൻ ഉപദേശിക്കുന്നു.",
+   "author": "അബൂ മുഫിദ്",
+   "issue_date": "2017-04-01",
+   "html_url": "/ml/dawah/getting-closer-to-the-creator-20170401-12.html",
+   "md_url": "/ml/dawah/getting-closer-to-the-creator-20170401-12.md"
   },
   {
    "slug": "jallikattu-and-the-islamic-approach-to-animals-20170128-4",
@@ -957,6 +1001,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/ml/dawah/muslims-in-a-pluralistic-society-20170128-1.html",
    "md_url": "/ml/dawah/muslims-in-a-pluralistic-society-20170128-1.md"
+  },
+  {
+   "slug": "not-to-falter-in-crises-20170401-2",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "പ്രതിസന്ധികളിൽ പതറതിരിക്കാൻ",
+   "summary": "ജീവിതത്തിലെ പ്രതിസന്ധികളെ വിശ്വാസി എങ്ങനെ നേരിടണം എന്ന് വിവരിക്കുന്നു. പ്രവാചകന്മാരുടെ ജീവിതത്തിൽ നിന്ന് പാഠങ്ങൾ ഉൾക്കൊണ്ട് പതറാതെ മുന്നേറാൻ ആഹ്വാനം ചെയ്യുന്നു.",
+   "author": "ഷമീർ മദീനി",
+   "issue_date": "2017-04-01",
+   "html_url": "/ml/dawah/not-to-falter-in-crises-20170401-2.html",
+   "md_url": "/ml/dawah/not-to-falter-in-crises-20170401-2.md"
   },
   {
    "slug": "organization-is-not-for-division-20170218-13",
@@ -1113,6 +1168,17 @@
    "md_url": "/ml/dawah/what-do-we-have-for-ourselves-20170218-10.md"
   },
   {
+   "slug": "better-safe-than-sorry-20170401-11",
+   "lang": "ml",
+   "category": "family",
+   "title": "സൂക്ഷിച്ചാൽ ദുഃഖിക്കേണ്ട",
+   "summary": "മക്കൾ വഴിതെറ്റുന്നതിനുള്ള കാരണങ്ങളും രക്ഷിതാക്കൾ ശ്രദ്ധിക്കേണ്ട കാര്യങ്ങളും വിവരിക്കുന്നു. നല്ല കൂട്ടുകെട്ടിന്റെയും ഇസ്‌ലാമിക ശിക്ഷണത്തിന്റെയും പ്രാധാന്യം ഊന്നിപ്പറയുന്നു.",
+   "author": "അഷ്റഫ് എകരൂൽ",
+   "issue_date": "2017-04-01",
+   "html_url": "/ml/family/better-safe-than-sorry-20170401-11.html",
+   "md_url": "/ml/family/better-safe-than-sorry-20170401-11.md"
+  },
+  {
    "slug": "children-an-islamic-reading-part-4-20170204-5",
    "lang": "ml",
    "category": "family",
@@ -1267,6 +1333,17 @@
    "md_url": "/ml/family/school-annual-day-experiences-20170211-10.md"
   },
   {
+   "slug": "sexual-anarchy-problems-and-solutions-20170401-3",
+   "lang": "ml",
+   "category": "family",
+   "title": "ലൈംഗിക അരാജകത്വം: പ്രശ്നങ്ങളും പരിഹാരങ്ങളും",
+   "summary": "ലൈംഗിക അരാജകത്വത്തിന്റെ സാമൂഹിക പ്രത്യാഘാതങ്ങളെക്കുറിച്ചും ഇസ്‌ലാം നിർദ്ദേശിക്കുന്ന പരിഹാരങ്ങളെക്കുറിച്ചും ചർച്ച ചെയ്യുന്നു. വിവാഹേതര ബന്ധങ്ങളുടെയും അശ്ലീലതയുടെയും അപകടങ്ങൾ എടുത്തുപറയുന്നു.",
+   "author": "മുഹമ്മദുബ്‌നു ബഷീർ",
+   "issue_date": "2017-04-01",
+   "html_url": "/ml/family/sexual-anarchy-problems-and-solutions-20170401-3.html",
+   "md_url": "/ml/family/sexual-anarchy-problems-and-solutions-20170401-3.md"
+  },
+  {
    "slug": "the-methodology-of-conduct-20170128-8",
    "lang": "ml",
    "category": "family",
@@ -1399,6 +1476,17 @@
    "md_url": "/ml/health/when-menstruating-20260822-4.md"
   },
   {
+   "slug": "islamic-history-an-overview-20170401-5",
+   "lang": "ml",
+   "category": "history",
+   "title": "ഇസ്‌ലാമിക ചരിത്രം: ഒരു അവലോകനം",
+   "summary": "ചരിത്രപഠനത്തിന്റെ പ്രാധാന്യത്തെക്കുറിച്ചും ഇസ്‌ലാമിക ചരിത്രരചനയിൽ ശ്രദ്ധിക്കേണ്ട കാര്യങ്ങളെക്കുറിച്ചും പ്രതിപാദിക്കുന്നു. ഇസ്രാഈലിയ്യാത്തുകളെക്കുറിച്ചുള്ള പണ്ഡിതന്മാരുടെ നിലപാടുകൾ വ്യക്തമാക്കുന്നു.",
+   "author": "മുഹമ്മദ് സ്യാദിബ് മദീനി",
+   "issue_date": "2017-04-01",
+   "html_url": "/ml/history/islamic-history-an-overview-20170401-5.html",
+   "md_url": "/ml/history/islamic-history-an-overview-20170401-5.md"
+  },
+  {
    "slug": "islamophobia-archetypes-of-ancient-history-20170225-3",
    "lang": "ml",
    "category": "history",
@@ -1430,6 +1518,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/ml/history/muslim-extremists-are-those-who-defame-islam-20170114-7.html",
    "md_url": "/ml/history/muslim-extremists-are-those-who-defame-islam-20170114-7.md"
+  },
+  {
+   "slug": "the-verdict-of-babri-20170401-4",
+   "lang": "ml",
+   "category": "history",
+   "title": "ബാബറിയുടെ വിധി",
+   "summary": "ബാബറി മസ്ജിദ് തകർക്കപ്പെട്ട സംഭവവുമായി ബന്ധപ്പെട്ട നിയമനടപടികളെയും ഗൂഢാലോചന കേസുകളെയും കുറിച്ചുള്ള ഒരു അന്വേഷണം. നീതിപൂർവ്വമായ വിധി പ്രതീക്ഷിക്കുന്ന ന്യൂനപക്ഷങ്ങളുടെ അവസ്ഥ വിവരിക്കുന്നു.",
+   "author": "സുഫ്‌യാൻ അബ്ദുസ്സലാം",
+   "issue_date": "2017-04-01",
+   "html_url": "/ml/history/the-verdict-of-babri-20170401-4.html",
+   "md_url": "/ml/history/the-verdict-of-babri-20170401-4.md"
   },
   {
    "slug": "warning-signals-from-the-reconstruction-of-history-20170114-2",
@@ -1729,6 +1828,17 @@
    "md_url": "/ml/opinion/uapa-wielding-sedition-law-20170114-9.md"
   },
   {
+   "slug": "unanswered-north-kerala-20170401-13",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "ഉത്തരം കിട്ടാത്ത ഉത്തരകേരളം",
+   "summary": "ഉത്തരകേരളത്തിൽ വർദ്ധിച്ചുവരുന്ന വർഗീയ കൊലപാതകങ്ങളെയും ഫാസിസ്റ്റ് പ്രവണതകളെയും വിമർശനാത്മകമായി വിശകലനം ചെയ്യുന്നു. ഭരണകൂടത്തിന്റെ ജാഗ്രതക്കുറവിനെ ചോദ്യം ചെയ്യുന്നു.",
+   "author": "ഡോ. സി.എം സാബിർ നവാസ്",
+   "issue_date": "2017-04-01",
+   "html_url": "/ml/opinion/unanswered-north-kerala-20170401-13.html",
+   "md_url": "/ml/opinion/unanswered-north-kerala-20170401-13.md"
+  },
+  {
    "slug": "warning-signs-from-the-reconstruction-of-history-20170114-2",
    "lang": "ml",
    "category": "opinion",
@@ -1738,6 +1848,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/ml/opinion/warning-signs-from-the-reconstruction-of-history-20170114-2.html",
    "md_url": "/ml/opinion/warning-signs-from-the-reconstruction-of-history-20170114-2.md"
+  },
+  {
+   "slug": "water-murmurs-20170401-6",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "ജലമർമരങ്ങൾ",
+   "summary": "വർദ്ധിച്ചുവരുന്ന ജലക്ഷാമത്തെക്കുറിച്ചും ജലവിനിയോഗത്തിൽ നാം വരുത്തുന്ന അനാസ്ഥകളെക്കുറിച്ചും ഓർമ്മിപ്പിക്കുന്നു. പരിസ്ഥിതി സംരക്ഷണത്തിന്റെ പ്രാധാന്യം ഊന്നിപ്പറയുന്നു.",
+   "author": "ഇബ്‌നു അലി എടത്തനാട്ടുകര",
+   "issue_date": "2017-04-01",
+   "html_url": "/ml/opinion/water-murmurs-20170401-6.html",
+   "md_url": "/ml/opinion/water-murmurs-20170401-6.md"
   },
   {
    "slug": "when-national-tradition-is-questioned-20170121-2",
@@ -1850,6 +1971,17 @@
    "md_url": "/ml/seerah/prophets-and-trials-20170325-7.md"
   },
   {
+   "slug": "prophets-are-humans-20170401-10",
+   "lang": "ml",
+   "category": "seerah",
+   "title": "പ്രവാചകന്മാർ മനുഷ്യരാണ്",
+   "summary": "പ്രവാചകന്മാരെക്കുറിച്ചുള്ള അമിതമായ വിശ്വാസങ്ങളെയും തെറ്റായ പ്രചാരണങ്ങളെയും ഖണ്ഡിക്കുന്നു. പ്രവാചകന്മാർ മനുഷ്യരാണെന്നും എന്നാൽ അവർ ഉൽകൃഷ്ടരാണെന്നും വ്യക്തമാക്കുന്നു.",
+   "author": "ഹുസൈൻ സലഫി, ഷാർജ",
+   "issue_date": "2017-04-01",
+   "html_url": "/ml/seerah/prophets-are-humans-20170401-10.html",
+   "md_url": "/ml/seerah/prophets-are-humans-20170401-10.md"
+  },
+  {
    "slug": "abdullah-s-mistake-20170204-1",
    "lang": "ml",
    "category": "story",
@@ -1925,6 +2057,17 @@
    "issue_date": "2026-08-22",
    "html_url": "/ml/story/my-pen-20260822-8.html",
    "md_url": "/ml/story/my-pen-20260822-8.md"
+  },
+  {
+   "slug": "obey-your-parents-20170401-7",
+   "lang": "ml",
+   "category": "story",
+   "title": "മാതാപിതാക്കളെ അനുസരിക്കുക",
+   "summary": "മാതാപിതാക്കളെ അനുസരിക്കാത്തതിന്റെ ദോഷഫലങ്ങളെക്കുറിച്ച് ഒരു ബാലകഥയിലൂടെ വിവരിക്കുന്നു. കുട്ടികൾക്ക് മാതാപിതാക്കളുടെ വാക്കിന് വില നൽകേണ്ടതിന്റെ പ്രാധാന്യം ബോധ്യപ്പെടുത്തുന്നു.",
+   "author": "ഉസ്മാൻ പാലക്കാഴി",
+   "issue_date": "2017-04-01",
+   "html_url": "/ml/story/obey-your-parents-20170401-7.html",
+   "md_url": "/ml/story/obey-your-parents-20170401-7.md"
   },
   {
    "slug": "sugar-like-gold-dust-20170128-11",
