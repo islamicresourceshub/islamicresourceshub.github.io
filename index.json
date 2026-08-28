@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T08:32:08.177217+00:00",
+ "generated_at": "2026-08-28T08:32:36.335498+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 561,
+ "count": 562,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -1672,6 +1672,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/ha/dawah/prayer-that-is-worship-20170325-6.html",
    "md_url": "/ha/dawah/prayer-that-is-worship-20170325-6.md"
+  },
+  {
+   "slug": "islamic-parenting-significance-and-goals-part-1-20170114-4",
+   "lang": "ha",
+   "category": "family",
+   "title": "Tarbiyyar Musulunci: Muhimmancinta da Manufofinta",
+   "summary": "Wannan shine kashi na farko da ke bayyana muhimmanci da manufofin tarbiyyar Musulunci. Wannan batu ne da ya shafi dukkan iyaye, masu ilimi da marasa ilimi.",
+   "author": "അഷ്‌റഫ്‌ എകരൂൽ",
+   "issue_date": "2017-01-14",
+   "html_url": "/ha/family/islamic-parenting-significance-and-goals-part-1-20170114-4.html",
+   "md_url": "/ha/family/islamic-parenting-significance-and-goals-part-1-20170114-4.md"
   },
   {
    "slug": "our-parents-20170325-4",
