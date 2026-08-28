@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T09:29:50.795073+00:00",
+ "generated_at": "2026-08-28T09:30:10.097532+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 761,
+ "count": 762,
  "articles": [
   {
    "slug": "live-knowing-the-value-of-time-20170114-8",
@@ -3509,6 +3509,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/ko/opinion/terrorism-and-religious-freedom-20170114-1.html",
    "md_url": "/ko/opinion/terrorism-and-religious-freedom-20170114-1.md"
+  },
+  {
+   "slug": "uapa-wielding-sedition-law-20170114-9",
+   "lang": "ko",
+   "category": "opinion",
+   "title": "UAPA: 국가반역법이라는 이름의 채찍",
+   "summary": "본 글은 UAPA(불법활동예방법)와 국가반역법이 어떻게 정치적 도구로 악용되고 있는지 비판적으로 고찰합니다. 정의와 자유의 가치가 위협받는 현실 속에서 무고한 시민들이 겪는 고통과 법 집행의 불공정성을 조명합니다.",
+   "author": "പി.വി.എ പ്രിംറോസ്‌",
+   "issue_date": "2017-01-14",
+   "html_url": "/ko/opinion/uapa-wielding-sedition-law-20170114-9.html",
+   "md_url": "/ko/opinion/uapa-wielding-sedition-law-20170114-9.md"
   },
   {
    "slug": "praise-be-to-the-lord-of-the-worlds-20170325-9",
