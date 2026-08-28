@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T10:11:48.447860+00:00",
+ "generated_at": "2026-08-28T10:12:03.230035+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 897,
+ "count": 898,
  "articles": [
   {
    "slug": "live-knowing-the-value-of-time-20170114-8",
@@ -9812,6 +9812,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/vi/opinion/uapa-wielding-sedition-law-20170114-9.html",
    "md_url": "/vi/opinion/uapa-wielding-sedition-law-20170114-9.md"
+  },
+  {
+   "slug": "when-national-tradition-is-questioned-20170121-2",
+   "lang": "vi",
+   "category": "opinion",
+   "title": "Khi truyền thống dân tộc bị đặt dấu hỏi",
+   "summary": "Bài viết phân tích những tranh luận xoay quanh các phát biểu của Giáo sư M.G.S. Narayanan về chủ nghĩa dân tộc. Tác giả xem xét tính xác thực của truyền thống dân tộc và vị thế của nó trong xã hội Ấn Độ hiện đại.",
+   "author": "ഉസ്മാൻ പാലക്കാഴി",
+   "issue_date": "2017-01-21",
+   "html_url": "/vi/opinion/when-national-tradition-is-questioned-20170121-2.html",
+   "md_url": "/vi/opinion/when-national-tradition-is-questioned-20170121-2.md"
   },
   {
    "slug": "who-should-leave-india-20170121-1",
