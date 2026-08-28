@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T05:41:10.021475+00:00",
+ "generated_at": "2026-08-28T05:41:24.509883+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 514,
+ "count": 515,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -649,6 +649,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/bn/opinion/india-which-way-forward-20170325-2.html",
    "md_url": "/bn/opinion/india-which-way-forward-20170325-2.md"
+  },
+  {
+   "slug": "terrorism-and-religious-freedom-20170114-1",
+   "lang": "bn",
+   "category": "opinion",
+   "title": "সন্ত্রাসবাদ ও ধর্মীয় স্বাধীনতা",
+   "summary": "এই নিবন্ধটি এই ধারণা থেকে শুরু হয় যে সন্ত্রাসবাদ যেকোনো সমাজের শান্তি বিঘ্নিত করে। এটি সন্ত্রাসবাদ এবং ধর্মীয় স্বাধীনতার মধ্যে সম্পর্ক বিশ্লেষণ করে।",
+   "author": "ഡോ. സി.എം സാബിർ നവാസ്‌",
+   "issue_date": "2017-01-14",
+   "html_url": "/bn/opinion/terrorism-and-religious-freedom-20170114-1.html",
+   "md_url": "/bn/opinion/terrorism-and-religious-freedom-20170114-1.md"
   },
   {
    "slug": "praise-be-to-the-lord-of-the-worlds-20170325-9",
