@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T04:53:18.422381+00:00",
+ "generated_at": "2026-08-28T04:53:34.320397+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 413,
+ "count": 414,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -3212,6 +3212,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/mr/seerah/prophets-and-trials-20170325-7.html",
    "md_url": "/mr/seerah/prophets-and-trials-20170325-7.md"
+  },
+  {
+   "slug": "good-intention-matters-most-20170325-8",
+   "lang": "mr",
+   "category": "story",
+   "title": "सद्भाव महत्त्वाचा आहे",
+   "summary": "कामाच्या व्यापात असताना मित्राचा आलेला फोन आणि त्यातून घडलेल्या एका प्रसंगावर आधारित ही कथा आहे. सद्भाव आणि शुद्ध हेतूचे महत्त्व या कथेतून मांडले आहे.",
+   "author": "ഇബ്‌നു അലി എടത്തനാട്ടുകര",
+   "issue_date": "2017-03-25",
+   "html_url": "/mr/story/good-intention-matters-most-20170325-8.html",
+   "md_url": "/mr/story/good-intention-matters-most-20170325-8.md"
   },
   {
    "slug": "an-agenda-is-needed-during-vacation-too-20170325-1",
