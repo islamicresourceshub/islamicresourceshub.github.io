@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T09:04:33.097610+00:00",
+ "generated_at": "2026-08-28T09:04:52.234436+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 658,
+ "count": 659,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -6325,6 +6325,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/te/dawah/prayer-that-is-worship-20170325-6.html",
    "md_url": "/te/dawah/prayer-that-is-worship-20170325-6.md"
+  },
+  {
+   "slug": "religion-is-fearlessness-20170114-6",
+   "lang": "te",
+   "category": "dawah",
+   "title": "మతం అంటే నిర్భయత్వం",
+   "summary": "వివిధ మతాల నేపథ్యంలో, ఇస్లాం ఏ విధంగా మానవాళికి నిర్భయత్వాన్ని మరియు శాంతిని ప్రసాదిస్తుందో వివరించే వ్యాసం ఇది.",
+   "author": "ഉസ്മാൻ പാലക്കാഴി",
+   "issue_date": "2017-01-14",
+   "html_url": "/te/dawah/religion-is-fearlessness-20170114-6.html",
+   "md_url": "/te/dawah/religion-is-fearlessness-20170114-6.md"
   },
   {
    "slug": "islamic-parenting-significance-and-goals-part-1-20170114-4",
