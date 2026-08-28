@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T04:26:09.564472+00:00",
+ "generated_at": "2026-08-28T04:26:24.483673+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 323,
+ "count": 324,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -616,6 +616,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/de/youth/an-agenda-is-needed-during-vacation-too-20170325-1.html",
    "md_url": "/de/youth/an-agenda-is-needed-during-vacation-too-20170325-1.md"
+  },
+  {
+   "slug": "prayer-that-is-worship-20170325-6",
+   "lang": "en",
+   "category": "dawah",
+   "title": "Prayer: That is Worship",
+   "summary": "This article establishes that the primary purpose of human life is to uphold acts of worship according to the teachings of Islam. It explains the devotional nature of prayer based on Quranic verses and warns against the practice of directing prayers to anyone other than Allah.",
+   "author": "മൂസ സ്വലാഹി, കാര",
+   "issue_date": "2017-03-25",
+   "html_url": "/en/dawah/prayer-that-is-worship-20170325-6.html",
+   "md_url": "/en/dawah/prayer-that-is-worship-20170325-6.md"
   },
   {
    "slug": "our-parents-20170325-4",
