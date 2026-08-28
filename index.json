@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T08:48:21.040274+00:00",
+ "generated_at": "2026-08-28T08:48:35.950932+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 609,
+ "count": 610,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -4543,6 +4543,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/ne/youth/an-agenda-is-needed-during-vacation-too-20170325-1.html",
    "md_url": "/ne/youth/an-agenda-is-needed-during-vacation-too-20170325-1.md"
+  },
+  {
+   "slug": "what-will-the-waste-do-20170114-5",
+   "lang": "ne",
+   "category": "youth",
+   "title": "फोहोरको व्यवस्थापन कसरी गर्ने?",
+   "summary": "शरीफा नामकी एक समझदार बालिकाको कथा मार्फत बालबालिकाहरूलाई फोहोर व्यवस्थापन र सरसफाइको महत्त्वबारे सिकाइएको छ।",
+   "author": "അബൂഫായിദ",
+   "issue_date": "2017-01-14",
+   "html_url": "/ne/youth/what-will-the-waste-do-20170114-5.html",
+   "md_url": "/ne/youth/what-will-the-waste-do-20170114-5.md"
   },
   {
    "slug": "prayer-that-is-worship-20170325-6",
