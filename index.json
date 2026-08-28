@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T03:52:40.477563+00:00",
+ "generated_at": "2026-08-28T03:52:50.268952+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,8 +219,19 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 187,
+ "count": 188,
  "articles": [
+  {
+   "slug": "control-your-mind-20170325-3",
+   "lang": "am",
+   "category": "hadith",
+   "title": "አእምሮን መቆጣጠር",
+   "summary": "ከአቡ ሁረይራ (ረዲየለላሁ ዐንሁ) በተዘገበው የነቢዩ (ሰለላሁ ዐለይሂ ወሰለም) ሐዲሥ ላይ የተመሠረተ ጥናት። ቁጣ በሚመጣበት ጊዜ ስሜቱን የሚቆጣጠር ሰው እውነተኛ ኃያል እንደሆነ ያብራራል።",
+   "author": "ഉസ്മാന്‍ പാലക്കാഴി",
+   "issue_date": "2017-03-25",
+   "html_url": "/am/hadith/control-your-mind-20170325-3.html",
+   "md_url": "/am/hadith/control-your-mind-20170325-3.md"
+  },
   {
    "slug": "india-which-way-forward-20170325-2",
    "lang": "am",
