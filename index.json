@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T04:36:00.462441+00:00",
+ "generated_at": "2026-08-28T04:36:18.207760+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 354,
+ "count": 355,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -4004,6 +4004,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/uz/youth/an-agenda-is-needed-during-vacation-too-20170325-1.html",
    "md_url": "/uz/youth/an-agenda-is-needed-during-vacation-too-20170325-1.md"
+  },
+  {
+   "slug": "prayer-that-is-worship-20170325-6",
+   "lang": "vi",
+   "category": "dawah",
+   "title": "Cầu nguyện: Đó chính là sự thờ phụng",
+   "summary": "Bài viết này khẳng định rằng mục tiêu tối thượng của cuộc đời con người là duy trì các hành vi thờ phụng theo đúng giáo lý của Hồi giáo. Dựa trên các văn bản Kinh Qur'an, bài viết giải thích bản chất thờ phụng của việc cầu nguyện.",
+   "author": "മൂസ സ്വലാഹി, കാര",
+   "issue_date": "2017-03-25",
+   "html_url": "/vi/dawah/prayer-that-is-worship-20170325-6.html",
+   "md_url": "/vi/dawah/prayer-that-is-worship-20170325-6.md"
   },
   {
    "slug": "our-parents-20170325-4",
