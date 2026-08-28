@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T09:33:27.625445+00:00",
+ "generated_at": "2026-08-28T09:33:47.008769+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 773,
+ "count": 774,
  "articles": [
   {
    "slug": "live-knowing-the-value-of-time-20170114-8",
@@ -7084,6 +7084,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/sw/opinion/terrorism-and-religious-freedom-20170114-1.html",
    "md_url": "/sw/opinion/terrorism-and-religious-freedom-20170114-1.md"
+  },
+  {
+   "slug": "uapa-wielding-sedition-law-20170114-9",
+   "lang": "sw",
+   "category": "opinion",
+   "title": "UAPA: Sheria ya Uhaini iliyoshika mijeledi",
+   "summary": "Makala hii inachunguza matumizi mabaya ya sheria ya UAPA na sheria za uhaini, ikihoji misingi ya haki na uhuru katika mfumo wa sasa wa utawala. Inatoa mwito wa umakini na mshikamano dhidi ya dhuluma za kisheria zinazowalenga raia wasio na hatia.",
+   "author": "പി.വി.എ പ്രിംറോസ്‌",
+   "issue_date": "2017-01-14",
+   "html_url": "/sw/opinion/uapa-wielding-sedition-law-20170114-9.html",
+   "md_url": "/sw/opinion/uapa-wielding-sedition-law-20170114-9.md"
   },
   {
    "slug": "praise-be-to-the-lord-of-the-worlds-20170325-9",
