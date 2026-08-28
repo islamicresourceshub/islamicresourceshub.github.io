@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T08:54:20.118734+00:00",
+ "generated_at": "2026-08-28T08:54:36.449456+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 632,
+ "count": 633,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -1001,6 +1001,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/de/dawah/prayer-that-is-worship-20170325-6.html",
    "md_url": "/de/dawah/prayer-that-is-worship-20170325-6.md"
+  },
+  {
+   "slug": "religion-is-fearlessness-20170114-6",
+   "lang": "de",
+   "category": "dawah",
+   "title": "Religion ist Furchtlosigkeit",
+   "summary": "Ein Artikel, der die Rolle der Religion als Quelle der Furchtlosigkeit im Kontext verschiedener Weltreligionen beleuchtet und dabei besonders die islamische Perspektive hervorhebt.",
+   "author": "ഉസ്മാൻ പാലക്കാഴി",
+   "issue_date": "2017-01-14",
+   "html_url": "/de/dawah/religion-is-fearlessness-20170114-6.html",
+   "md_url": "/de/dawah/religion-is-fearlessness-20170114-6.md"
   },
   {
    "slug": "islamic-parenting-significance-and-goals-part-1-20170114-4",
