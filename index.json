@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T05:53:21.753184+00:00",
+ "generated_at": "2026-08-28T05:54:28.377399+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 538,
+ "count": 539,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -4884,6 +4884,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/so/opinion/india-which-way-forward-20170325-2.html",
    "md_url": "/so/opinion/india-which-way-forward-20170325-2.md"
+  },
+  {
+   "slug": "terrorism-and-religious-freedom-20170114-1",
+   "lang": "so",
+   "category": "opinion",
+   "title": "La-dagaallanka Argagixisada iyo Xorriyadda Diinta",
+   "summary": "Maqaal ka bilaabmaya fahamka ah in argagixisadu tahay xanuun maskaxeed oo khalkhal geliya nabadda bulsho kasta. Waxay falanqaynaysaa xiriirka ka dhexeeya la-dagaallanka argagixisada iyo xorriyadda diinta.",
+   "author": "ഡോ. സി.എം സാബിർ നവാസ്‌",
+   "issue_date": "2017-01-14",
+   "html_url": "/so/opinion/terrorism-and-religious-freedom-20170114-1.html",
+   "md_url": "/so/opinion/terrorism-and-religious-freedom-20170114-1.md"
   },
   {
    "slug": "praise-be-to-the-lord-of-the-worlds-20170325-9",
