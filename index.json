@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T04:59:31.903024+00:00",
+ "generated_at": "2026-08-28T04:59:48.448857+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 436,
+ "count": 437,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -473,6 +473,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/as/opinion/india-which-way-forward-20170325-2.html",
    "md_url": "/as/opinion/india-which-way-forward-20170325-2.md"
+  },
+  {
+   "slug": "praise-be-to-the-lord-of-the-worlds-20170325-9",
+   "lang": "as",
+   "category": "quran",
+   "title": "বিশ্বপালকৰ প্ৰতি স্তুতি",
+   "summary": "'সকলো প্ৰশংসা বিশ্বজগতৰ প্ৰতিপালক আল্লাহৰ বাবে' (কোৰআন ১:২) এই আয়াতটোৰ ওপৰত আধাৰিত এক অধ্যয়ন। মানুহক শিকোৱা শিষ্টাচাৰসমূহৰ ভিতৰত আল্লাহৰ প্ৰতি কৃতজ্ঞতা প্ৰকাশৰ স্থান কিমান গুৰুত্বপূৰ্ণ, সেয়া ইয়াত ব্যাখ্যা কৰা হৈছে।",
+   "author": "സി.മുഹമ്മദ് റാഫി ചെമ്പ്ര",
+   "issue_date": "2017-03-25",
+   "html_url": "/as/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.html",
+   "md_url": "/as/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.md"
   },
   {
    "slug": "prophets-and-trials-20170325-7",
