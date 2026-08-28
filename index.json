@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T05:42:37.959473+00:00",
+ "generated_at": "2026-08-28T05:42:51.920169+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 520,
+ "count": 521,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -1364,6 +1364,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/fr/opinion/india-which-way-forward-20170325-2.html",
    "md_url": "/fr/opinion/india-which-way-forward-20170325-2.md"
+  },
+  {
+   "slug": "terrorism-and-religious-freedom-20170114-1",
+   "lang": "fr",
+   "category": "opinion",
+   "title": "La traque du terrorisme et la liberté religieuse",
+   "summary": "Cet article analyse la relation entre la lutte contre le terrorisme et la liberté religieuse, en soulignant comment les accusations de terrorisme sont parfois instrumentalisées à des fins politiques. Il dénonce les abus de pouvoir visant des figures musulmanes et appelle à la vigilance pour préserver les valeurs démocratiques et laïques.",
+   "author": "ഡോ. സി.എം സാബിർ നവാസ്‌",
+   "issue_date": "2017-01-14",
+   "html_url": "/fr/opinion/terrorism-and-religious-freedom-20170114-1.html",
+   "md_url": "/fr/opinion/terrorism-and-religious-freedom-20170114-1.md"
   },
   {
    "slug": "praise-be-to-the-lord-of-the-worlds-20170325-9",
