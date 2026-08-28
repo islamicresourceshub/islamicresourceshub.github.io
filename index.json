@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T04:21:24.704063+00:00",
+ "generated_at": "2026-08-28T04:21:40.647565+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 305,
+ "count": 306,
  "articles": [
   {
    "slug": "our-parents-20170325-4",
@@ -3058,6 +3058,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/so/family/our-parents-20170325-4.html",
    "md_url": "/so/family/our-parents-20170325-4.md"
+  },
+  {
+   "slug": "mosque-construction-some-points-to-note-20170325-5",
+   "lang": "so",
+   "category": "fiqh",
+   "title": "Dhismaha Masaajidka: Qodobo mudan in laga fiirsado",
+   "summary": "Daraasad ku saabsan fiqiga dhismaha masaajidka oo ku salaysan mabda'a ah in masaajidku ay yihiin guryaha Alle. Qoraalkani wuxuu sharxayaa qodobo muhiim ah oo la tixgeliyo marka la dhisayo masaajidka, isagoo tusaale u soo qaadanaya qaabkii uu Nebiga (SCW) u dhisay Masjidka Nabawiga markii uu gaaray Madiina.",
+   "author": "ഡോ. അബ്ദുറസാഖ് സുല്ലമി",
+   "issue_date": "2017-03-25",
+   "html_url": "/so/fiqh/mosque-construction-some-points-to-note-20170325-5.html",
+   "md_url": "/so/fiqh/mosque-construction-some-points-to-note-20170325-5.md"
   },
   {
    "slug": "control-your-mind-20170325-3",
