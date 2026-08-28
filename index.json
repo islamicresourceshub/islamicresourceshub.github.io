@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T05:46:21.854156+00:00",
+ "generated_at": "2026-08-28T05:46:42.124176+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 534,
+ "count": 535,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -4400,6 +4400,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/ps/opinion/india-which-way-forward-20170325-2.html",
    "md_url": "/ps/opinion/india-which-way-forward-20170325-2.md"
+  },
+  {
+   "slug": "terrorism-and-religious-freedom-20170114-1",
+   "lang": "ps",
+   "category": "opinion",
+   "title": "د تروریزم پر وړاندې مبارزه او مذهبي ازادي",
+   "summary": "دا مقاله د دې مفکورې څخه پیل کیږي چې تروریزم د هرې ټولنې لپاره د ذهني اختلال یوه بڼه ده چې د هغې آرامتیا ګډوي. دا د تروریزم او مذهبي ازادۍ ترمنځ اړیکې تحلیلوي.",
+   "author": "ഡോ. സി.എം സാബിർ നവാസ്‌",
+   "issue_date": "2017-01-14",
+   "html_url": "/ps/opinion/terrorism-and-religious-freedom-20170114-1.html",
+   "md_url": "/ps/opinion/terrorism-and-religious-freedom-20170114-1.md"
   },
   {
    "slug": "praise-be-to-the-lord-of-the-worlds-20170325-9",
