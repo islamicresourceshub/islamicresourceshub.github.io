@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T04:19:26.757620+00:00",
+ "generated_at": "2026-08-28T04:19:38.467370+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 296,
+ "count": 297,
  "articles": [
   {
    "slug": "our-parents-20170325-4",
@@ -2563,6 +2563,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/mr/family/our-parents-20170325-4.html",
    "md_url": "/mr/family/our-parents-20170325-4.md"
+  },
+  {
+   "slug": "mosque-construction-some-points-to-note-20170325-5",
+   "lang": "mr",
+   "category": "fiqh",
+   "title": "मशीद निर्माण: काही महत्त्वाच्या गोष्टी",
+   "summary": "मशीद ही अल्लाहचे घर आहे, या तत्त्वावर आधारित फिकहचा अभ्यास. प्रेषित मुहम्मद (स.) यांनी मदिनेत पोहोचल्यावर मशीद उभारली, त्या आदर्शानुसार मशीद बांधताना लक्षात घ्यायच्या महत्त्वाच्या गोष्टींचे येथे स्पष्टीकरण दिले आहे.",
+   "author": "ഡോ. അബ്ദുറസാഖ് സുല്ലമി",
+   "issue_date": "2017-03-25",
+   "html_url": "/mr/fiqh/mosque-construction-some-points-to-note-20170325-5.html",
+   "md_url": "/mr/fiqh/mosque-construction-some-points-to-note-20170325-5.md"
   },
   {
    "slug": "control-your-mind-20170325-3",
