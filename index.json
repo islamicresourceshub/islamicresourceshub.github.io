@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T05:10:47.652718+00:00",
+ "generated_at": "2026-08-28T05:11:01.943591+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 471,
+ "count": 472,
  "articles": [
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -5280,6 +5280,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/vi/opinion/india-which-way-forward-20170325-2.html",
    "md_url": "/vi/opinion/india-which-way-forward-20170325-2.md"
+  },
+  {
+   "slug": "praise-be-to-the-lord-of-the-worlds-20170325-9",
+   "lang": "vi",
+   "category": "quran",
+   "title": "Lời ca tụng dành cho Đấng Bảo hộ thế gian",
+   "summary": "Một bài học dựa trên câu kinh 'Mọi lời ca tụng đều thuộc về Allah, Đấng Bảo hộ thế gian' (Qur'an 1:2). Bài viết giải thích vị trí của lòng biết ơn đối với Allah trong các phép tắc mà con người được dạy.",
+   "author": "സി.മുഹമ്മദ് റാഫി ചെമ്പ്ര",
+   "issue_date": "2017-03-25",
+   "html_url": "/vi/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.html",
+   "md_url": "/vi/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.md"
   },
   {
    "slug": "prophets-and-trials-20170325-7",
