@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T10:55:55.084823+00:00",
+ "generated_at": "2026-08-28T10:56:10.050887+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 976,
+ "count": 977,
  "articles": [
   {
    "slug": "live-knowing-the-value-of-time-20170114-8",
@@ -10769,6 +10769,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/zh/family/don-t-worry-allah-is-with-you-20170114-10.html",
    "md_url": "/zh/family/don-t-worry-allah-is-with-you-20170114-10.md"
+  },
+  {
+   "slug": "how-to-be-a-good-parent-part-2-20170121-4",
+   "lang": "zh",
+   "category": "family",
+   "title": "如何成为优秀的父母？",
+   "summary": "这是关于伊斯兰育儿指南的第二部分。本文详细阐述了父母如何通过遵循真主的教导，培养出能够获得后世天堂的子女，并探讨了为人父母应具备的核心品质。",
+   "author": "അഷ്‌റഫ് എകരൂല്‍",
+   "issue_date": "2017-01-21",
+   "html_url": "/zh/family/how-to-be-a-good-parent-part-2-20170121-4.html",
+   "md_url": "/zh/family/how-to-be-a-good-parent-part-2-20170121-4.md"
   },
   {
    "slug": "islamic-parenting-significance-and-goals-part-1-20170114-4",
