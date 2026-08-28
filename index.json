@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T03:54:54.970066+00:00",
+ "generated_at": "2026-08-28T03:55:47.596909+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 202,
+ "count": 203,
  "articles": [
   {
    "slug": "control-your-mind-20170325-3",
@@ -715,6 +715,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/it/youth/an-agenda-is-needed-during-vacation-too-20170325-1.html",
    "md_url": "/it/youth/an-agenda-is-needed-during-vacation-too-20170325-1.md"
+  },
+  {
+   "slug": "control-your-mind-20170325-3",
+   "lang": "ja",
+   "category": "hadith",
+   "title": "心をコントロールする",
+   "summary": "アブー・フライラ（ラー）が伝えた預言者（サッラッラーフ・アライヒ・ワ・サッラム）のハディースに基づいた学びです。怒りを感じた時に心を制御できる者こそが真に強い人間であるという教えを解説します。",
+   "author": "ഉസ്മാന്‍ പാലക്കാഴി",
+   "issue_date": "2017-03-25",
+   "html_url": "/ja/hadith/control-your-mind-20170325-3.html",
+   "md_url": "/ja/hadith/control-your-mind-20170325-3.md"
   },
   {
    "slug": "india-which-way-forward-20170325-2",
