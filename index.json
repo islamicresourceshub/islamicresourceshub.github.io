@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T10:11:14.103399+00:00",
+ "generated_at": "2026-08-28T10:11:29.141640+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 895,
+ "count": 896,
  "articles": [
   {
    "slug": "live-knowing-the-value-of-time-20170114-8",
@@ -9372,6 +9372,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/ur/opinion/uapa-wielding-sedition-law-20170114-9.html",
    "md_url": "/ur/opinion/uapa-wielding-sedition-law-20170114-9.md"
+  },
+  {
+   "slug": "when-national-tradition-is-questioned-20170121-2",
+   "lang": "ur",
+   "category": "opinion",
+   "title": "جب قومی ورثے پر سوال اٹھائے جائیں",
+   "summary": "یہ مضمون پروفیسر ایم جی ایس نارائنن کے قوم پرستی سے متعلق بیانات اور ان سے پیدا ہونے والی بحثوں کا تجزیہ کرتا ہے۔ اس میں قومی ورثے کی اہمیت اور ہندوستانی معاشرے میں اس کے مقام کا جائزہ لیا گیا ہے۔",
+   "author": "ഉസ്മാൻ പാലക്കാഴി",
+   "issue_date": "2017-01-21",
+   "html_url": "/ur/opinion/when-national-tradition-is-questioned-20170121-2.html",
+   "md_url": "/ur/opinion/when-national-tradition-is-questioned-20170121-2.md"
   },
   {
    "slug": "who-should-leave-india-20170121-1",
