@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T04:14:04.109925+00:00",
+ "generated_at": "2026-08-28T04:14:18.650792+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 272,
+ "count": 273,
  "articles": [
   {
    "slug": "our-parents-20170325-4",
@@ -3014,6 +3014,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/th/youth/an-agenda-is-needed-during-vacation-too-20170325-1.html",
    "md_url": "/th/youth/an-agenda-is-needed-during-vacation-too-20170325-1.md"
+  },
+  {
+   "slug": "our-parents-20170325-4",
+   "lang": "tl",
+   "category": "family",
+   "title": "Ang Ating mga Magulang",
+   "summary": "Ito ay mga pagninilay tungkol sa ating mga magulang, na isa sa pinakadakilang biyaya ng Allah. Tinatalakay ng artikulong ito ang ating obligasyon sa kanila at ang kahalagahan ng pagkamit ng kanilang kasiyahan bilang susi sa Paraiso.",
+   "author": "കെ.സഫ്‌വാന്‍ മുഹമ്മദ്, ആമയൂര്‍",
+   "issue_date": "2017-03-25",
+   "html_url": "/tl/family/our-parents-20170325-4.html",
+   "md_url": "/tl/family/our-parents-20170325-4.md"
   },
   {
    "slug": "control-your-mind-20170325-3",
