@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T10:10:09.429460+00:00",
+ "generated_at": "2026-08-28T10:10:25.994471+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 891,
+ "count": 892,
  "articles": [
   {
    "slug": "live-knowing-the-value-of-time-20170114-8",
@@ -8492,6 +8492,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/te/opinion/uapa-wielding-sedition-law-20170114-9.html",
    "md_url": "/te/opinion/uapa-wielding-sedition-law-20170114-9.md"
+  },
+  {
+   "slug": "when-national-tradition-is-questioned-20170121-2",
+   "lang": "te",
+   "category": "opinion",
+   "title": "జాతీయ వారసత్వం ప్రశ్నార్థకమైనప్పుడు",
+   "summary": "ప్రొఫెసర్ ఎం.జి.ఎస్. నారాయణన్ జాతీయతపై చేసిన వ్యాఖ్యలు రేకెత్తించిన చర్చలను ఈ వ్యాసం విశ్లేషిస్తుంది. జాతీయ వారసత్వం యొక్క ప్రాముఖ్యతను మరియు భారతీయ సమాజంలో దాని స్థానాన్ని ఇది పరిశీలిస్తుంది.",
+   "author": "ഉസ്മാൻ പാലക്കാഴി",
+   "issue_date": "2017-01-21",
+   "html_url": "/te/opinion/when-national-tradition-is-questioned-20170121-2.html",
+   "md_url": "/te/opinion/when-national-tradition-is-questioned-20170121-2.md"
   },
   {
    "slug": "who-should-leave-india-20170121-1",
