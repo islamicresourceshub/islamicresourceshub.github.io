@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-28T04:07:19.534644+00:00",
+ "generated_at": "2026-08-28T04:07:30.980097+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 243,
+ "count": 244,
  "articles": [
   {
    "slug": "our-parents-20170325-4",
@@ -396,6 +396,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/bn/youth/an-agenda-is-needed-during-vacation-too-20170325-1.html",
    "md_url": "/bn/youth/an-agenda-is-needed-during-vacation-too-20170325-1.md"
+  },
+  {
+   "slug": "our-parents-20170325-4",
+   "lang": "bs",
+   "category": "family",
+   "title": "Naši roditelji",
+   "summary": "Ovo su razmišljanja o roditeljima, koji su jedan od najvećih Allahovih blagodati. Članak govori o tome kako je samo rođenje kao čovjek velika blagodat i naglašava našu obavezu prema roditeljima.",
+   "author": "കെ.സഫ്‌വാന്‍ മുഹമ്മദ്, ആമയൂര്‍",
+   "issue_date": "2017-03-25",
+   "html_url": "/bs/family/our-parents-20170325-4.html",
+   "md_url": "/bs/family/our-parents-20170325-4.md"
   },
   {
    "slug": "control-your-mind-20170325-3",
