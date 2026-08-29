@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T08:26:13.225436+00:00",
+ "generated_at": "2026-08-29T08:26:27.530048+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1290,
+ "count": 1291,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -2145,6 +2145,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/de/opinion/terrorism-and-religious-freedom-20170114-1.html",
    "md_url": "/de/opinion/terrorism-and-religious-freedom-20170114-1.md"
+  },
+  {
+   "slug": "the-shackles-of-consumerist-culture-20170121-13",
+   "lang": "de",
+   "category": "opinion",
+   "title": "Die Fessel der Konsumkultur",
+   "summary": "Dieser Beitrag analysiert kritisch das moderne Leben, das in den Fängen der Konsumkultur gefangen ist. Er beleuchtet die spirituelle Armut, die der Mensch in dieser vermeintlich fortschrittlichen Ära erleidet.",
+   "author": "കുഞ്ഞിമുഹമ്മദ്‌ മദനി പറപ്പൂർ",
+   "issue_date": "2017-01-21",
+   "html_url": "/de/opinion/the-shackles-of-consumerist-culture-20170121-13.html",
+   "md_url": "/de/opinion/the-shackles-of-consumerist-culture-20170121-13.md"
   },
   {
    "slug": "uapa-wielding-sedition-law-20170114-9",
