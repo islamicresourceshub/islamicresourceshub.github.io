@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T08:43:24.453552+00:00",
+ "generated_at": "2026-08-29T08:43:38.993405+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1357,
+ "count": 1358,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -13486,6 +13486,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/tr/dawah/religion-is-fearlessness-20170114-6.html",
    "md_url": "/tr/dawah/religion-is-fearlessness-20170114-6.md"
+  },
+  {
+   "slug": "showing-the-light-is-the-duty-of-scholars-20170121-14",
+   "lang": "tr",
+   "category": "dawah",
+   "title": "İlim Ehlinin Görevi Işık Tutmaktır",
+   "summary": "Bu makale, soru soran kişilerin görmezden gelinmemesi gerektiğini vurgular. İlim ehlinin temel görevinin, İslam'ı doğru bir şekilde anlatarak insanlara yol göstermek ve hakikati açıklamak olduğunu savunur.",
+   "author": "ടി.കെ.അശ്‌റഫ്‌",
+   "issue_date": "2017-01-21",
+   "html_url": "/tr/dawah/showing-the-light-is-the-duty-of-scholars-20170121-14.html",
+   "md_url": "/tr/dawah/showing-the-light-is-the-duty-of-scholars-20170121-14.md"
   },
   {
    "slug": "stand-tall-20170121-8",
