@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T08:05:28.782473+00:00",
+ "generated_at": "2026-08-29T08:05:43.974454+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1208,
+ "count": 1209,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -13387,6 +13387,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/zh/opinion/muslim-extremists-defame-islam-20170114-7.html",
    "md_url": "/zh/opinion/muslim-extremists-defame-islam-20170114-7.md"
+  },
+  {
+   "slug": "salafi-preaching-a-theoretical-analysis-20170121-10",
+   "lang": "zh",
+   "category": "opinion",
+   "title": "萨拉菲宣教：一项理论分析",
+   "summary": "本文对萨拉菲宣教进行了理论分析，探讨了在古兰经经文的指引下，追随迁士（Muhajirun）与辅士（Ansar）模范的重要性。文章强调了遵循先贤（Salaf）道路对于保持信仰纯洁性及避免教派分裂的关键作用。",
+   "author": "ശൈഖ് നാസ്വിറുദ്ദീന്‍ അല്‍ബാനി (വിവര്‍ത്തനം: ശമീര്‍ മദീനി)",
+   "issue_date": "2017-01-21",
+   "html_url": "/zh/opinion/salafi-preaching-a-theoretical-analysis-20170121-10.html",
+   "md_url": "/zh/opinion/salafi-preaching-a-theoretical-analysis-20170121-10.md"
   },
   {
    "slug": "terrorism-and-religious-freedom-20170114-1",
