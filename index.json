@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T09:01:30.096337+00:00",
+ "generated_at": "2026-08-29T09:01:43.464078+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1418,
+ "count": 1419,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -8250,6 +8250,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/mr/dawah/live-knowing-the-value-of-time-20170114-8.html",
    "md_url": "/mr/dawah/live-knowing-the-value-of-time-20170114-8.md"
+  },
+  {
+   "slug": "muslims-in-a-pluralistic-society-20170128-1",
+   "lang": "mr",
+   "category": "dawah",
+   "title": "बहुधर्मीय समाजातील मुस्लिम",
+   "summary": "इतर धर्मीयांशी सलोख्याने आणि चांगल्या प्रकारे वागण्याबाबतच्या कुराणविषयक शिकवणुकीचा हा लेख आहे. दहशतवादाचा तिरस्कार करणाऱ्या धर्मावरील मालिकेचा हा दुसरा भाग आहे.",
+   "author": "അൻവർ അബൂബക്കർ",
+   "issue_date": "2017-01-28",
+   "html_url": "/mr/dawah/muslims-in-a-pluralistic-society-20170128-1.html",
+   "md_url": "/mr/dawah/muslims-in-a-pluralistic-society-20170128-1.md"
   },
   {
    "slug": "prayer-that-is-worship-20170325-6",
