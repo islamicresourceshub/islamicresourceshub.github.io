@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T09:24:02.528858+00:00",
+ "generated_at": "2026-08-29T09:24:23.421461+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1487,
+ "count": 1488,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -3960,6 +3960,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/fr/opinion/everyone-should-have-a-beard-20170121-3.html",
    "md_url": "/fr/opinion/everyone-should-have-a-beard-20170121-3.md"
+  },
+  {
+   "slug": "hajj-subsidy-before-putting-the-muslim-community-in-the-dock-20170128-3",
+   "lang": "fr",
+   "category": "opinion",
+   "title": "Subvention du Hajj : Avant de mettre la communauté musulmane sur le banc des accusés",
+   "summary": "Cet article analyse de manière critique l'approche qui consiste à stigmatiser la communauté musulmane à travers le débat sur la suppression de la subvention du Hajj, tout en examinant les réalités économiques et politiques derrière ce dispositif.",
+   "author": "പി.വി.എ പ്രിംറോസ്‌",
+   "issue_date": "2017-01-28",
+   "html_url": "/fr/opinion/hajj-subsidy-before-putting-the-muslim-community-in-the-dock-20170128-3.html",
+   "md_url": "/fr/opinion/hajj-subsidy-before-putting-the-muslim-community-in-the-dock-20170128-3.md"
   },
   {
    "slug": "india-which-way-forward-20170325-2",
