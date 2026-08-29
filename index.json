@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T09:48:49.447864+00:00",
+ "generated_at": "2026-08-29T09:48:59.673820+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1571,
+ "count": 1572,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -6798,6 +6798,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/ja/story/grown-up-children-20170121-6.html",
    "md_url": "/ja/story/grown-up-children-20170121-6.md"
+  },
+  {
+   "slug": "laws-are-to-be-followed-20170128-5",
+   "lang": "ja",
+   "category": "story",
+   "title": "ルールは守るためにある",
+   "summary": "スハイルという少年が、雨の中で信号を守る友人の姿を通して、ルールを守ることの重要性と、それが自分や周囲の安全を守るために不可欠であることを学ぶ物語です。",
+   "author": "ഉസ്‌മാൻ പാലക്കാഴ‍ി",
+   "issue_date": "2017-01-28",
+   "html_url": "/ja/story/laws-are-to-be-followed-20170128-5.html",
+   "md_url": "/ja/story/laws-are-to-be-followed-20170128-5.md"
   },
   {
    "slug": "the-fruit-of-ingratitude-20170121-7",
