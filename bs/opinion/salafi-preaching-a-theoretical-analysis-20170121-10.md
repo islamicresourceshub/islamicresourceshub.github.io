@@ -1,0 +1,67 @@
+---
+title: 'Salafijski poziv: Teorijska analiza'
+author: 'ശൈഖ് നാസ്വിറുദ്ദീന്‍ അല്‍ബാനി (വിവര്‍ത്തനം: ശമീര്‍ മദീനി)'
+lang: bs
+category: opinion
+kind: article
+tags:
+- salafi
+- dawah
+- theological-analysis
+- opinion
+- islamic-movements
+summary: Teorijska analiza salafijskog poziva (da'we) koja istražuje model muhadžira i ensarija u svjetlu kur'anskih ajeta. Tekst naglašava važnost slijeđenja puta prvih generacija muslimana kao jedinog ispravnog puta ka spasenju.
+source:
+  magazine: Nerpatham Weekly
+  issue_date: '2017-01-21'
+  pdf_url: http://nerpatham.com/vol-no-01/images/archives/Nerpatham-2017Jan21.pdf
+date_processed: '2026-08-27T07:59:58Z'
+slug: salafi-preaching-a-theoretical-analysis-20170121-10
+translation_of: salafi-preaching-a-theoretical-analysis-20170121-10
+---
+
+![](/assets/salafi-preaching-a-theoretical-analysis-20170121-10/21Jan17-11.jpg)
+
+Neka naš govor započne Allahovim riječima:
+
+"Allah će biti zadovoljan onima koji su prvi, od muhadžira i ensarija, i svima onima koji ih slijede u dobrim djelima, a i oni će biti zadovoljni Njime; za njih je On pripremio džennetske bašče kroz koje će rijeke teći, i u njima će vječno i zauvijek boraviti. To je veliki uspjeh" (9:100).
+
+Ovaj ajet ukazuje na neke stvari koje svako treba znati i slijediti kada je u pitanju da'wa. Pozivanje u vjeru se mora vršiti uz poznavanje puta selefa (prethodnika). U različitim dijelovima svijeta postoje salafijske grupe koje djeluju pod različitim imenima. Muslimani su dugo vremena bili nemarni prema ovom konceptu, ili mu nisu pridavali dužnu pažnju.
+
+Razlog tome je što su njihova srca dugo bila prekrivena hrđom mrtvila uslijed slijepog mezhepskog pristrasja i imitacije. Ako uzmemo u obzir da se ovakvo mrtvilo i slijepo slijeđenje moglo vidjeti čak i među ehli-sunnetom nakon tri najbolje generacije, onda ne treba ni govoriti o onima koji su došli poslije. Poslanik, sallallahu alejhi ve sellem, kaže: "Jevreji su se podijelili na 71 grupu, a kršćani će se podijeliti na 72 grupe. Moj ummet će se podijeliti na 73 grupe. Sve osim jedne su na putu u Vatru." Ashabi su upitali: "Allahov Poslaniče, koja je to grupa?"
+
+Poslanik, sallallahu alejhi ve sellem, je odgovorio: "To je el-džema'ah." U drugoj predaji, ta grupa je opisana na sljedeći način: "To su oni koji su na onome na čemu sam ja i moji ashabi."
+
+Kao što nas je Poslanik, sallallahu alejhi ve sellem, obavijestio, ovaj hadis nam vrlo jasno ukazuje da će u ovom ummetu biti podjela i da će jedna od tih 73 grupe biti ona koja slijedi put Poslanika, sallallahu alejhi ve sellem, i njegovih ashaba. Objava Poslanika, sallallahu alejhi ve sellem, je istina, jer kao što je Allah rekao, to je objava (vahj).
+
+Ova grupa (el-firkatun-nadžijah, tj. spašena skupina) danas nije samo skupina koja, kao i druge, tvrdi da radi po Kur'anu i sunnetu. Nijedna grupa, bilo moderna ili drevna, ne može izbjeći pozivanje na Kur'an i sunnet, čak i ako su sljedbenici novotarija (bid'ata). Jer, ako bi odbacili tu tvrdnju, time bi svijetu priznali da su zagovornici podjela koji su izašli iz ispravnog puta islama. Stoga, svih 72 grupe na koje je Poslanik, sallallahu alejhi ve sellem, upozorio, jednoglasno tvrde da su oni zagovornici Kur'ana i sunneta.
+
+Međutim, salafije se razlikuju od svih ovih grupa. To znači da, pored puke tvrdnje da su zagovornici Kur'ana i sunneta, oni strogo paze na još jednu stvar kako ne bi skrenuli sa ispravnog puta Kur'ana i sunneta: oni se čvrsto drže puta ashaba Poslanika, sallallahu alejhi ve sellem. Oni ne slijede samo ashabe, već i tabi'ine i tebi-tabi'ine koji su ih slijedili u dobru. Drugim riječima, oni slijede one koje je Poslanik, sallallahu alejhi ve sellem, potvrdio kao najbolje generacije.
+
+U hadisu koji nije samo vjerodostojan, već i mutevatir, Poslanik, sallallahu alejhi ve sellem, kaže: "Najbolji ljudi su moja generacija, zatim oni koji dolaze poslije njih" (Ahmed, Buhari). Sljedbenici ove prve generacije, tj. časnih ashaba, kao i oni koji dolaze poslije njih, mole se ovako: "Gospodaru naš, oprosti nama i braći našoj koja su nas u vjeri pretekla i ne dopusti da u srcima našim bude imalo zlobe prema vjernicima; Gospodaru naš, Ti si, zaista, dobar i milostiv" (59:10).
+
+Svi koji žele biti dio spašene skupine (el-firkatun-nadžijah) moraju slijediti i uzeti za uzor časne prethodnike, uključujući ashabe i tabi'ine. Slijeđenje selefu-salihina nije nikakva nova tvrdnja, već obavezujuća naredba pojašnjena Allahovim riječima:
+
+"Onoga ko se suprotstavi Poslaniku, a poznat mu je pravi put, i koji pođe putem koji nije put vjernika, pustićemo da čini šta hoće i bacićemo ga u Džehennem – a loše je on boravište!" (4:115).
+
+Allah u ovom ajetu oštro upozorava na suprotstavljanje Poslaniku, sallallahu alejhi ve sellem, a zatim dodaje: "...i koji pođe putem koji nije put vjernika." Nema sumnje da su vjernici na čije se slijeđenje Allah obavezao upravo oni spomenuti u prethodnom ajetu: muhadžiri, ensarije i oni koji su ih slijedili u dobru:
+
+"Allah će biti zadovoljan onima koji su prvi, od muhadžira i ensarija, i svima onima koji ih slijede u dobrim djelima, a i oni će biti zadovoljni Njime; za njih je On pripremio džennetske bašče kroz koje će rijeke teći, i u njima će vječno i zauvijek boraviti. To je veliki uspjeh" (9:100).
+
+Oni su, zaista, oni kojima je Allah zadovoljan i koji su zadovoljni Allahom. To je zapravo mjerilo za razlikovanje onih koji samo riječima tvrde da su sljedbenici Kur'ana i sunneta, a umjesto da slijede put ashaba i ispravan put, okreću se protiv Kur'ana i sunneta.
+
+Pred nama su u vezi s ovim pitanjem Allahov ajet i vjerodostojan hadis Poslanika, sallallahu alejhi ve sellem. Ajet kaže "put vjernika", a Poslanik, sallallahu alejhi ve sellem, je objasnio da su to njegovi ashabi; kao što je pojašnjeno u drugom vjerodostojnom hadisu koji bilježe Ebu Davud, Tirmizi, Ahmed i drugi, da je to i praksa pravednih halifa.
+
+Irbad ibn Sarija prenosi: "Allahov Poslanik, sallallahu alejhi ve sellem, nas je jednom prilikom posavjetovao tako da su se srca tresla, a oči suzile. Rekli smo: 'Allahov Poslaniče, ovo izgleda kao oproštajni savjet, pa nas posavjetuj.' Poslanik, sallallahu alejhi ve sellem, reče: 'Savjetujem vam bogobojaznost (takvaluk), te slušanje i pokornost (vladarima), makar vam naređivao i abesinski rob. Zaista, ko od vas poživi poslije mene, vidjet će mnoga razilaženja. Zato se držite mog sunneta i sunneta pravednih halifa poslije mene. Čvrsto se toga držite kutnjacima. Čuvajte se novotarija u vjeri, jer svaka novotarija je bid'at, a svaki bid'at je zabluda.'" U drugom hadisu se dodaje: "A svaka zabluda vodi u Vatru" (Nesai).
+
+Da, u ovom hadisu Poslanik, sallallahu alejhi ve sellem, je uz svoj sunnet spomenuo i sunnet pravednih halifa. Ovaj hadis se spaja sa ranije spomenutim hadisom o spašenoj skupini (firkatun-nadžijah), kao i sa ovim kur'anskim ajetom (4:115).
+
+Muslimanu nije dozvoljeno da pod izgovorom slijeđenja Kur'ana i sunneta slijedi mišljenja i ideologije koje su suprotne časnim prethodnicima. Jer, ideologija selefu-salihina je upravo Kur'an i sunnet. Sam Kur'an je pojasnio da je sunnet tumačenje Kur'ana. Obraćajući se Poslaniku, sallallahu alejhi ve sellem, Allah kaže:
+
+"...a tebi objavljujemo Kur'an da bi objasnio ljudima ono što im se objavljuje, i da bi oni razmislili" (16:44).
+
+Poslanik, sallallahu alejhi ve sellem, je tumačio Kur'an kroz svoj sunnet. Taj sunnet dolazi u tri oblika: govor, djelo i odobrenje Poslanika, sallallahu alejhi ve sellem. Do tog sunneta ne možemo doći niti ga razumjeti bez ashaba. Stoga, musliman može biti dio spašene skupine samo slijeđenjem Kur'ana i sunneta prema putu selefu-salihina. Pored slijeđenja Kur'ana i sunneta, činjenica da to mora biti u skladu sa metodologijom selefu-salihina je stvar o kojoj treba posebno razmisliti. Ako postoji iskrena i istinita želja da se bude među spašenima na Sudnjem danu, to je neophodno.
+
+Većina islamskih organizacija koje danas vidimo vjeruje da je islam samo Kur'an i sunnet. Većina njih nije spremna prihvatiti ili slijediti put selefa, što je treća komponenta koju smo opisali. Kao što je ranije rečeno, Kur'an i sunnet su potvrdili važnost tog časnog puta.
+
+Zapravo, neslijeđenje puta časnih prethodnika (selefu-salih) u mišljenjima i stavovima je glavni uzrok zbog kojeg su se muslimani podijelili u različite grupe i sekte, uništavajući jedinstvo ummeta.
