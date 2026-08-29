@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T09:37:28.830306+00:00",
+ "generated_at": "2026-08-29T09:37:51.774697+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1528,
+ "count": 1529,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -4664,6 +4664,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/ha/dawah/do-not-waver-in-trials-20170121-9.html",
    "md_url": "/ha/dawah/do-not-waver-in-trials-20170121-9.md"
+  },
+  {
+   "slug": "jallikattu-and-the-islamic-approach-to-animals-20170128-4",
+   "lang": "ha",
+   "category": "dawah",
+   "title": "Jallikattu da kuma yadda Musulunci yake kallon dabbobi",
+   "summary": "Wannan rubutu yana bayyana yadda Musulunci yake kallon dabbobi ta hanyar nazarin lamarin Jallikattu. Yana jaddada muhimmancin nuna jin kai da tausayi ga dukkan halittun Allah.",
+   "author": "അബ്ദുൽ മാലിക്‌ സലഫി",
+   "issue_date": "2017-01-28",
+   "html_url": "/ha/dawah/jallikattu-and-the-islamic-approach-to-animals-20170128-4.html",
+   "md_url": "/ha/dawah/jallikattu-and-the-islamic-approach-to-animals-20170128-4.md"
   },
   {
    "slug": "live-knowing-the-value-of-time-20170114-8",
