@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T04:23:02.593078+00:00",
+ "generated_at": "2026-08-29T04:23:22.933137+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1077,
+ "count": 1078,
  "articles": [
   {
    "slug": "live-knowing-the-value-of-time-20170114-8",
@@ -7843,6 +7843,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/pa/story/grown-up-children-20170121-6.html",
    "md_url": "/pa/story/grown-up-children-20170121-6.md"
+  },
+  {
+   "slug": "the-fruit-of-ingratitude-20170121-7",
+   "lang": "pa",
+   "category": "story",
+   "title": "ਬੇ-ਸ਼ੁਕਰੇਪੁਣੇ ਦਾ ਫਲ",
+   "summary": "ਇੱਕ ਧਰਮੀ ਕਿਸਾਨ ਦੀ ਕਹਾਣੀ ਜੋ ਗਰੀਬਾਂ ਦੀ ਮਦਦ ਕਰਦਾ ਹੈ। ਇਹ ਇੱਕ ਨੀਤੀ ਕਥਾ ਹੈ ਜੋ ਬੇ-ਸ਼ੁਕਰੇਪੁਣੇ ਦੇ ਮਾੜੇ ਨਤੀਜਿਆਂ ਨੂੰ ਯਾਦ ਦਿਵਾਉਂਦੀ ਹੈ।",
+   "author": "അബൂറാഷിദ",
+   "issue_date": "2017-01-21",
+   "html_url": "/pa/story/the-fruit-of-ingratitude-20170121-7.html",
+   "md_url": "/pa/story/the-fruit-of-ingratitude-20170121-7.md"
   },
   {
    "slug": "an-agenda-is-needed-during-vacation-too-20170325-1",
