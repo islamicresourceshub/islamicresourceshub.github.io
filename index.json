@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T09:50:11.808940+00:00",
+ "generated_at": "2026-08-29T09:50:24.320607+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1578,
+ "count": 1579,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -11066,6 +11066,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/pa/story/grown-up-children-20170121-6.html",
    "md_url": "/pa/story/grown-up-children-20170121-6.md"
+  },
+  {
+   "slug": "laws-are-to-be-followed-20170128-5",
+   "lang": "pa",
+   "category": "story",
+   "title": "ਨਿਯਮ ਪਾਲਣਾ ਲਈ ਹੁੰਦੇ ਹਨ",
+   "summary": "ਸੁਹੈਲ ਨਾਮ ਦੇ ਇੱਕ ਮੁੰਡੇ ਦੀ ਕਹਾਣੀ, ਜੋ ਇੱਕ ਦੰਦਾਂ ਦੇ ਕਲੀਨਿਕ ਵਿੱਚ ਇੰਤਜ਼ਾਰ ਕਰਦੇ ਹੋਏ ਆਪਣੇ ਦੋਸਤ ਨੂੰ ਟ੍ਰੈਫਿਕ ਨਿਯਮਾਂ ਦੀ ਪਾਲਣਾ ਕਰਦੇ ਦੇਖਦਾ ਹੈ। ਇਹ ਕਹਾਣੀ ਸਾਨੂੰ ਸਿਖਾਉਂਦੀ ਹੈ ਕਿ ਨਿਯਮਾਂ ਦੀ ਪਾਲਣਾ ਕਰਨਾ ਕਿੰਨਾ ਮਹੱਤਵਪੂਰਨ ਅਤੇ ਜ਼ਿੰਮੇਵਾਰੀ ਭਰਿਆ ਕੰਮ ਹੈ।",
+   "author": "ഉസ്‌മാൻ പാലക്കാഴ‍ി",
+   "issue_date": "2017-01-28",
+   "html_url": "/pa/story/laws-are-to-be-followed-20170128-5.html",
+   "md_url": "/pa/story/laws-are-to-be-followed-20170128-5.md"
   },
   {
    "slug": "the-fruit-of-ingratitude-20170121-7",
