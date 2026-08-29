@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T08:55:23.980585+00:00",
+ "generated_at": "2026-08-29T08:55:41.898873+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1399,
+ "count": 1400,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -15070,6 +15070,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/vi/hadith/control-your-mind-20170325-3.html",
    "md_url": "/vi/hadith/control-your-mind-20170325-3.md"
+  },
+  {
+   "slug": "e-writing-is-not-mere-writing-20170121-15",
+   "lang": "vi",
+   "category": "opinion",
+   "title": "Viết trên không gian mạng không chỉ là những dòng chữ đơn thuần",
+   "summary": "Bài viết thảo luận về tầm quan trọng của việc viết lách trong kỷ nguyên số và những tác động xã hội của nó, đồng thời phân tích cách các phương tiện truyền thông định hình dư luận. Tác giả cũng nhấn mạnh sự cần thiết của việc sử dụng không gian mạng để bảo vệ và truyền tải đúng đắn các giá trị Hồi giáo trước những thông tin sai lệch.",
+   "author": "അബ്ദുല്ല ബാസിൽ സി.പി",
+   "issue_date": "2017-01-21",
+   "html_url": "/vi/opinion/e-writing-is-not-mere-writing-20170121-15.html",
+   "md_url": "/vi/opinion/e-writing-is-not-mere-writing-20170121-15.md"
   },
   {
    "slug": "elections-the-stand-must-be-well-considered-20170325-10",
