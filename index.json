@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T09:26:23.549628+00:00",
+ "generated_at": "2026-08-29T09:26:43.575727+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1494,
+ "count": 1495,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -6710,6 +6710,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/kn/opinion/everyone-should-have-a-beard-20170121-3.html",
    "md_url": "/kn/opinion/everyone-should-have-a-beard-20170121-3.md"
+  },
+  {
+   "slug": "hajj-subsidy-before-putting-the-muslim-community-in-the-dock-20170128-3",
+   "lang": "kn",
+   "category": "opinion",
+   "title": "ಹಜ್ ಸಬ್ಸಿಡಿ: ಮುಸ್ಲಿಂ ಸಮುದಾಯವನ್ನು ಆರೋಪಿಯ ಸ್ಥಾನದಲ್ಲಿ ನಿಲ್ಲಿಸುವ ಮುನ್ನ",
+   "summary": "ಹಜ್ ಸಬ್ಸಿಡಿ ರದ್ದತಿಯ ಮೂಲಕ ಮುಸ್ಲಿಂ ಸಮುದಾಯವನ್ನು ಗುರಿಪಡಿಸುವ ಪ್ರವೃತ್ತಿಯನ್ನು ಈ ಲೇಖನವು ವಿಮರ್ಶಾತ್ಮಕವಾಗಿ ವಿಶ್ಲೇಷಿಸುತ್ತದೆ. ಸಬ್ಸಿಡಿಯ ಹಿಂದಿರುವ ವಾಸ್ತವಗಳು ಮತ್ತು ರಾಜಕೀಯ ಆಯಾಮಗಳನ್ನು ಇಲ್ಲಿ ಚರ್ಚಿಸಲಾಗಿದೆ.",
+   "author": "പി.വി.എ പ്രിംറോസ്‌",
+   "issue_date": "2017-01-28",
+   "html_url": "/kn/opinion/hajj-subsidy-before-putting-the-muslim-community-in-the-dock-20170128-3.html",
+   "md_url": "/kn/opinion/hajj-subsidy-before-putting-the-muslim-community-in-the-dock-20170128-3.md"
   },
   {
    "slug": "india-which-way-forward-20170325-2",
