@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T09:01:16.026365+00:00",
+ "generated_at": "2026-08-29T09:01:30.096337+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1417,
+ "count": 1418,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -6534,6 +6534,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/ko/dawah/live-knowing-the-value-of-time-20170114-8.html",
    "md_url": "/ko/dawah/live-knowing-the-value-of-time-20170114-8.md"
+  },
+  {
+   "slug": "muslims-in-a-pluralistic-society-20170128-1",
+   "lang": "ko",
+   "category": "dawah",
+   "title": "다원주의 사회 속의 무슬림",
+   "summary": "타 종교인들과 선하게 공존하는 방법에 관한 꾸란의 가르침을 다룹니다. 이는 '테러를 혐오하는 종교' 시리즈의 두 번째 편입니다.",
+   "author": "അൻവർ അബൂബക്കർ",
+   "issue_date": "2017-01-28",
+   "html_url": "/ko/dawah/muslims-in-a-pluralistic-society-20170128-1.html",
+   "md_url": "/ko/dawah/muslims-in-a-pluralistic-society-20170128-1.md"
   },
   {
    "slug": "prayer-that-is-worship-20170325-6",
