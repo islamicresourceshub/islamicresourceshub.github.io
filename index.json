@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T09:49:23.898823+00:00",
+ "generated_at": "2026-08-29T09:49:34.229657+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1574,
+ "count": 1575,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -9394,6 +9394,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/mr/story/grown-up-children-20170121-6.html",
    "md_url": "/mr/story/grown-up-children-20170121-6.md"
+  },
+  {
+   "slug": "laws-are-to-be-followed-20170128-5",
+   "lang": "mr",
+   "category": "story",
+   "title": "नियम पाळण्यासाठीच असतात",
+   "summary": "सुहेलच्या अनुभवातून नियम पाळण्याचे महत्त्व सांगणारी एक छोटी कथा. रहदारीच्या नियमांचे पालन करणे हे केवळ सुरक्षिततेसाठीच नव्हे, तर एक जबाबदार नागरिक म्हणूनही किती महत्त्वाचे आहे, हे यात स्पष्ट केले आहे.",
+   "author": "ഉസ്‌മാൻ പാലക്കാഴ‍ി",
+   "issue_date": "2017-01-28",
+   "html_url": "/mr/story/laws-are-to-be-followed-20170128-5.html",
+   "md_url": "/mr/story/laws-are-to-be-followed-20170128-5.md"
   },
   {
    "slug": "the-fruit-of-ingratitude-20170121-7",
