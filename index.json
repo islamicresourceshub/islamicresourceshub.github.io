@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T07:59:12.531968+00:00",
+ "generated_at": "2026-08-29T07:59:27.784389+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1188,
+ "count": 1189,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -7249,6 +7249,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/mr/opinion/muslim-extremists-defame-islam-20170114-7.html",
    "md_url": "/mr/opinion/muslim-extremists-defame-islam-20170114-7.md"
+  },
+  {
+   "slug": "salafi-preaching-a-theoretical-analysis-20170121-10",
+   "lang": "mr",
+   "category": "opinion",
+   "title": "सलाफी दावत: एक तात्विक विश्लेषण",
+   "summary": "सलाफी दावत का एक तात्विक विश्लेषण। कुरान की आयतों के आलोक में मुहाजिरों और अंसारों के आदर्शों की प्रासंगिकता और उनके अनुसरण की अनिवार्यता पर चर्चा।",
+   "author": "ശൈഖ് നാസ്വിറുദ്ദീന്‍ അല്‍ബാനി (വിവര്‍ത്തനം: ശമീര്‍ മദീനി)",
+   "issue_date": "2017-01-21",
+   "html_url": "/mr/opinion/salafi-preaching-a-theoretical-analysis-20170121-10.html",
+   "md_url": "/mr/opinion/salafi-preaching-a-theoretical-analysis-20170121-10.md"
   },
   {
    "slug": "terrorism-and-religious-freedom-20170114-1",
