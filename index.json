@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T08:07:14.246595+00:00",
+ "generated_at": "2026-08-29T08:07:26.503305+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1216,
+ "count": 1217,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -2486,6 +2486,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/es/dawah/stand-tall-20170121-8.html",
    "md_url": "/es/dawah/stand-tall-20170121-8.md"
+  },
+  {
+   "slug": "the-message-of-equality-20170121-11",
+   "lang": "es",
+   "category": "dawah",
+   "title": "El mensaje de la igualdad",
+   "summary": "Un artículo que analiza el mensaje de igualdad del Profeta (la paz y las bendiciones de Allah sean con él). Se discute la relevancia del hadiz que afirma que todos los seres humanos provienen de Adán y la naturaleza universal de la igualdad en el Islam.",
+   "author": "അബൂ മുർശിദ",
+   "issue_date": "2017-01-21",
+   "html_url": "/es/dawah/the-message-of-equality-20170121-11.html",
+   "md_url": "/es/dawah/the-message-of-equality-20170121-11.md"
   },
   {
    "slug": "don-t-worry-allah-is-with-you-20170114-10",
