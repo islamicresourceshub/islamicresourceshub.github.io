@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T09:46:41.407219+00:00",
+ "generated_at": "2026-08-29T09:46:51.538776+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1559,
+ "count": 1560,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -1837,6 +1837,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/bn/story/grown-up-children-20170121-6.html",
    "md_url": "/bn/story/grown-up-children-20170121-6.md"
+  },
+  {
+   "slug": "laws-are-to-be-followed-20170128-5",
+   "lang": "bn",
+   "category": "story",
+   "title": "আইন মানার জন্যই",
+   "summary": "সুহাইল শহরের একটি ডেন্টাল ক্লিনিকে ঘটে যাওয়া একটি ছোট ঘটনা। এই গল্পের মাধ্যমে আইন মেনে চলার গুরুত্ব এবং এর পেছনের নৈতিক শিক্ষা তুলে ধরা হয়েছে।",
+   "author": "ഉസ്‌മാൻ പാലക്കാഴ‍ി",
+   "issue_date": "2017-01-28",
+   "html_url": "/bn/story/laws-are-to-be-followed-20170128-5.html",
+   "md_url": "/bn/story/laws-are-to-be-followed-20170128-5.md"
   },
   {
    "slug": "the-fruit-of-ingratitude-20170121-7",
