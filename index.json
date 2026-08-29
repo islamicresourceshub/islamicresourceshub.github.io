@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T09:11:30.789072+00:00",
+ "generated_at": "2026-08-29T09:11:51.375727+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1455,
+ "count": 1456,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -6490,6 +6490,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/kn/hadith/control-your-mind-20170325-3.html",
    "md_url": "/kn/hadith/control-your-mind-20170325-3.md"
+  },
+  {
+   "slug": "criteria-for-accepting-hadith-20170128-2",
+   "lang": "kn",
+   "category": "hadith",
+   "title": "ಹದೀಸ್ ಸ್ವೀಕರಣೆಯ ಮಾನದಂಡ",
+   "summary": "ಹದೀಸ್ ಸ್ವೀಕರಣೆಯ ಮಾನದಂಡಗಳ ಕುರಿತಾದ ತಾತ್ವಿಕ ವಿಶ್ಲೇಷಣೆ. 'ಸಲಫೀ ಪ್ರಬೋಧನೆ: ಒಂದು ತಾತ್ವಿಕ ವಿಶ್ಲೇಷಣೆ' ಸರಣಿಯ ಎರಡನೇ ಭಾಗ.",
+   "author": "ശൈഖ് നാസ്വിറുദ്ദീന്‍ അല്‍ബാനി (വിവര്‍ത്തനം: ശമീര്‍ മദീനി)",
+   "issue_date": "2017-01-28",
+   "html_url": "/kn/hadith/criteria-for-accepting-hadith-20170128-2.html",
+   "md_url": "/kn/hadith/criteria-for-accepting-hadith-20170128-2.md"
   },
   {
    "slug": "e-writing-is-not-mere-writing-20170121-15",
