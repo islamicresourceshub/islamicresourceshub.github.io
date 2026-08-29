@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T05:23:56.282496+00:00",
+ "generated_at": "2026-08-29T05:33:31.575704+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1108,
+ "count": 1109,
  "articles": [
   {
    "slug": "live-knowing-the-value-of-time-20170114-8",
@@ -4521,6 +4521,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/ja/dawah/religion-is-fearlessness-20170114-6.html",
    "md_url": "/ja/dawah/religion-is-fearlessness-20170114-6.md"
+  },
+  {
+   "slug": "stand-tall-20170121-8",
+   "lang": "ja",
+   "category": "dawah",
+   "title": "高く立つ",
+   "summary": "真実の信仰が力の源泉であるというメッセージを伝える記事です。逆境の中でも高く立ち続けることの重要性を説明します。",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2017-01-21",
+   "html_url": "/ja/dawah/stand-tall-20170121-8.html",
+   "md_url": "/ja/dawah/stand-tall-20170121-8.md"
   },
   {
    "slug": "don-t-worry-allah-is-with-you-20170114-10",
