@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T08:13:34.424912+00:00",
+ "generated_at": "2026-08-29T08:13:46.986924+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1244,
+ "count": 1245,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -13343,6 +13343,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/vi/dawah/stand-tall-20170121-8.html",
    "md_url": "/vi/dawah/stand-tall-20170121-8.md"
+  },
+  {
+   "slug": "the-message-of-equality-20170121-11",
+   "lang": "vi",
+   "category": "dawah",
+   "title": "Thông điệp về sự bình đẳng",
+   "summary": "Bài viết phân tích thông điệp về sự bình đẳng của Nhà tiên tri (hòa bình và phước lành của Allah ở trên ông). Bài viết thảo luận về ý nghĩa của Hadith khẳng định tất cả con người đều xuất thân từ Adam và sự bình đẳng phổ quát trong Hồi giáo.",
+   "author": "അബൂ മുർശിദ",
+   "issue_date": "2017-01-21",
+   "html_url": "/vi/dawah/the-message-of-equality-20170121-11.html",
+   "md_url": "/vi/dawah/the-message-of-equality-20170121-11.md"
   },
   {
    "slug": "don-t-worry-allah-is-with-you-20170114-10",
