@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T09:39:23.828815+00:00",
+ "generated_at": "2026-08-29T09:39:41.452946+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1534,
+ "count": 1535,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -7084,6 +7084,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/ko/dawah/do-not-waver-in-trials-20170121-9.html",
    "md_url": "/ko/dawah/do-not-waver-in-trials-20170121-9.md"
+  },
+  {
+   "slug": "jallikattu-and-the-islamic-approach-to-animals-20170128-4",
+   "lang": "ko",
+   "category": "dawah",
+   "title": "젤리캇투와 동물에 대한 이슬람의 접근 방식",
+   "summary": "이 글은 젤리캇투(Jallikattu) 논란을 통해 동물에 대한 이슬람의 관점을 설명합니다. 알라의 피조물인 동물들에 대한 자비와 연민의 중요성을 강조합니다.",
+   "author": "അബ്ദുൽ മാലിക്‌ സലഫി",
+   "issue_date": "2017-01-28",
+   "html_url": "/ko/dawah/jallikattu-and-the-islamic-approach-to-animals-20170128-4.html",
+   "md_url": "/ko/dawah/jallikattu-and-the-islamic-approach-to-animals-20170128-4.md"
   },
   {
    "slug": "live-knowing-the-value-of-time-20170114-8",
