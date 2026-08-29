@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T08:33:46.856905+00:00",
+ "generated_at": "2026-08-29T08:34:01.479802+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1323,
+ "count": 1324,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -14663,6 +14663,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/zh/opinion/terrorism-and-religious-freedom-20170114-1.html",
    "md_url": "/zh/opinion/terrorism-and-religious-freedom-20170114-1.md"
+  },
+  {
+   "slug": "the-shackles-of-consumerist-culture-20170121-13",
+   "lang": "zh",
+   "category": "opinion",
+   "title": "消费主义文化的枷锁",
+   "summary": "本文批判性地分析了现代生活如何陷入消费主义的陷阱，并探讨了在物质过剩的时代，人类所面临的精神贫困与债务危机。",
+   "author": "കുഞ്ഞിമുഹമ്മദ്‌ മദനി പറപ്പൂർ",
+   "issue_date": "2017-01-21",
+   "html_url": "/zh/opinion/the-shackles-of-consumerist-culture-20170121-13.html",
+   "md_url": "/zh/opinion/the-shackles-of-consumerist-culture-20170121-13.md"
   },
   {
    "slug": "uapa-wielding-sedition-law-20170114-9",
