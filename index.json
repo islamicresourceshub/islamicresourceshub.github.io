@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T10:22:02.124870+00:00",
+ "generated_at": "2026-08-29T11:55:24.963074+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1643,
+ "count": 1655,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -8296,6 +8296,17 @@
    "md_url": "/ml/dawah/the-path-to-peace-20170225-11.md"
   },
   {
+   "slug": "the-relevance-of-cleanliness-20180428-13",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "വൃത്തിയുടെ പ്രസക്തി",
+   "summary": "ഇസ്‌ലാമിൽ വൃത്തിക്കുള്ള പ്രാധാന്യത്തെക്കുറിച്ചും അത് വിശ്വാസത്തിന്റെ ഭാഗമാണെന്ന നബിവചനത്തിന്റെ പ്രസക്തിയെക്കുറിച്ചും വിശദീകരിക്കുന്ന ലേഖനം.",
+   "author": "ഡോ.ജസ്‌റതുന്നിസ",
+   "issue_date": "2018-04-28",
+   "html_url": "/ml/dawah/the-relevance-of-cleanliness-20180428-13.html",
+   "md_url": "/ml/dawah/the-relevance-of-cleanliness-20180428-13.md"
+  },
+  {
    "slug": "the-religion-that-rejects-terrorism-part-1-20170121-12",
    "lang": "ml",
    "category": "dawah",
@@ -8538,6 +8549,17 @@
    "md_url": "/ml/family/thoughts-during-pregnancy-20170218-4.md"
   },
   {
+   "slug": "vacation-and-family-visits-20180428-2",
+   "lang": "ml",
+   "category": "family",
+   "title": "അവധിക്കാലവും കുടുംബ സന്ദര്‍ശനവും",
+   "summary": "അവധിക്കാലത്ത് കുടുംബാംഗങ്ങളെ സന്ദർശിക്കുന്നതിന്റെ പ്രാധാന്യത്തെക്കുറിച്ചും അത് കുട്ടികളിൽ ഉണ്ടാക്കുന്ന നല്ല സ്വാധീനത്തെക്കുറിച്ചും ചർച്ച ചെയ്യുന്ന ലേഖനം.",
+   "author": "അബൂഫായിദ",
+   "issue_date": "2018-04-28",
+   "html_url": "/ml/family/vacation-and-family-visits-20180428-2.html",
+   "md_url": "/ml/family/vacation-and-family-visits-20180428-2.md"
+  },
+  {
    "slug": "water-and-life-20170225-5",
    "lang": "ml",
    "category": "family",
@@ -8626,6 +8648,17 @@
    "md_url": "/ml/health/know-this-for-those-caring-for-the-sick-20260822-1.md"
   },
   {
+   "slug": "thyroid-problems-20180428-10",
+   "lang": "ml",
+   "category": "health",
+   "title": "തൈറോയ്ഡ് പ്രശ്‌നങ്ങള്‍",
+   "summary": "ശരീരത്തിന്റെ ഉപാപചയ പ്രവർത്തനങ്ങളെ നിയന്ത്രിക്കുന്ന തൈറോയ്ഡ് ഗ്രന്ഥിയെ ബാധിക്കുന്ന പ്രശ്നങ്ങളെയും അവയുടെ ലക്ഷണങ്ങളെയും കുറിച്ച് പ്രതിപാദിക്കുന്ന ആരോഗ്യ ലേഖനം.",
+   "author": "ഡോ. മുഹമ്മദ് കുട്ടി കണ്ണിയന്‍",
+   "issue_date": "2018-04-28",
+   "html_url": "/ml/health/thyroid-problems-20180428-10.html",
+   "md_url": "/ml/health/thyroid-problems-20180428-10.md"
+  },
+  {
    "slug": "when-menstruating-20260822-4",
    "lang": "ml",
    "category": "health",
@@ -8681,6 +8714,17 @@
    "md_url": "/ml/history/muslim-extremists-are-those-who-defame-islam-20170114-7.md"
   },
   {
+   "slug": "reclaim-the-strong-nation-20180428-9",
+   "lang": "ml",
+   "category": "history",
+   "title": "സുശക്ത രാഷ്ട്രത്തെ വീണ്ടെടുക്കുക",
+   "summary": "ഇന്ത്യയുടെ മഹത്തായ ചരിത്ര പാരമ്പര്യത്തെയും സഹിഷ്ണുതയെയും ഓർമ്മിപ്പിച്ചുകൊണ്ട്, രാജ്യത്തിന്റെ സുശക്തമായ നിലനിൽപ്പ് വീണ്ടെടുക്കേണ്ടതിന്റെ ആവശ്യകതയെക്കുറിച്ച് സംസാരിക്കുന്ന ലേഖനം.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2018-04-28",
+   "html_url": "/ml/history/reclaim-the-strong-nation-20180428-9.html",
+   "md_url": "/ml/history/reclaim-the-strong-nation-20180428-9.md"
+  },
+  {
    "slug": "the-verdict-of-babri-20170401-4",
    "lang": "ml",
    "category": "history",
@@ -8701,6 +8745,28 @@
    "issue_date": "2017-01-14",
    "html_url": "/ml/history/warning-signals-from-the-reconstruction-of-history-20170114-2.html",
    "md_url": "/ml/history/warning-signals-from-the-reconstruction-of-history-20170114-2.md"
+  },
+  {
+   "slug": "a-glance-into-laws-20180428-6",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "നിയമങ്ങളിലേക്ക് ഒരു എത്തിനോട്ടം",
+   "summary": "ഇന്ത്യൻ ഭരണഘടനയെക്കുറിച്ചും പൗരന്മാർക്ക് അത് ഉറപ്പുനൽകുന്ന മൗലികാവകാശങ്ങളെക്കുറിച്ചും ലളിതമായി വിശദീകരിക്കുന്ന ലേഖനം.",
+   "author": "മുസാഫിര്‍",
+   "issue_date": "2018-04-28",
+   "html_url": "/ml/opinion/a-glance-into-laws-20180428-6.html",
+   "md_url": "/ml/opinion/a-glance-into-laws-20180428-6.md"
+  },
+  {
+   "slug": "alas-asifa-20180428-1",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "അസഫന്‍ യാ ആസ്വിഫ...!",
+   "summary": "കത്വയിലെ ക്രൂരമായ പീഡനത്തിനിരയായി കൊല്ലപ്പെട്ട ആസിഫ എന്ന പെൺകുട്ടിയുടെ ദാരുണമായ സംഭവത്തെക്കുറിച്ചും സ്ത്രീ സുരക്ഷയെക്കുറിച്ചുമുള്ള ചിന്തകൾ പങ്കുവെക്കുന്ന ലേഖനം.",
+   "author": "ഉസ്മാന്‍ പാലക്കാഴി",
+   "issue_date": "2018-04-28",
+   "html_url": "/ml/opinion/alas-asifa-20180428-1.html",
+   "md_url": "/ml/opinion/alas-asifa-20180428-1.md"
   },
   {
    "slug": "alcohol-abstinence-or-prohibition-20170225-7",
@@ -8822,6 +8888,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/ml/opinion/india-which-way-forward-20170325-2.html",
    "md_url": "/ml/opinion/india-which-way-forward-20170325-2.md"
+  },
+  {
+   "slug": "is-a-safe-society-becoming-a-dream-20180428-8",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "സുരക്ഷിത സമൂഹം സ്വപ്‌നമായി മാറുകയോ?",
+   "summary": "കത്വയിലെ ആസിഫയുടെ കൊലപാതകത്തിന്റെ പശ്ചാത്തലത്തിൽ രാജ്യത്ത് വർദ്ധിച്ചുവരുന്ന വർഗീയതയെയും സ്ത്രീ സുരക്ഷാ ഭീഷണികളെയും കുറിച്ച് ചർച്ച ചെയ്യുന്ന ലേഖനം.",
+   "author": "അബ്ദുല്ല ബാസില്‍ സി.പി",
+   "issue_date": "2018-04-28",
+   "html_url": "/ml/opinion/is-a-safe-society-becoming-a-dream-20180428-8.html",
+   "md_url": "/ml/opinion/is-a-safe-society-becoming-a-dream-20180428-8.md"
   },
   {
    "slug": "join-the-party-let-the-battle-begin-20170128-6",
@@ -8967,6 +9044,17 @@
    "md_url": "/ml/opinion/the-shackles-of-consumerist-culture-20170121-13.md"
   },
   {
+   "slug": "the-traps-behind-women-s-liberation-20180428-7",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "സ്ത്രീ സ്വാതന്ത്ര്യവാദത്തിനു പിന്നിലെ ചതിക്കുഴികള്‍",
+   "summary": "സ്ത്രീ സ്വാതന്ത്ര്യത്തിന്റെ പേരിൽ ആധുനിക സമൂഹം സ്ത്രീകളെ വെറുമൊരു വിപണന വസ്തുവാക്കി മാറ്റുന്നതിനെതിരെ വിരൽ ചൂണ്ടുന്ന ലേഖനം.",
+   "author": "ഉമ്മുഖദീജ പൂക്കത്ത് പറമ്പ്",
+   "issue_date": "2018-04-28",
+   "html_url": "/ml/opinion/the-traps-behind-women-s-liberation-20180428-7.html",
+   "md_url": "/ml/opinion/the-traps-behind-women-s-liberation-20180428-7.md"
+  },
+  {
    "slug": "trump-and-his-racism-20170211-14",
    "lang": "ml",
    "category": "opinion",
@@ -9055,6 +9143,17 @@
    "md_url": "/ml/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.md"
   },
   {
+   "slug": "surah-al-adiyat-the-chargers-20180428-3",
+   "lang": "ml",
+   "category": "quran",
+   "title": "അല്‍ ആദിയാത്ത് (ഓടുന്നവ)",
+   "summary": "വിശുദ്ധ ഖുർആനിലെ നൂറാം അധ്യായമായ സൂറത്തുൽ ആദിയാത്തിന്റെ ലളിതമായ വിശദീകരണവും പഠനവും നൽകുന്ന ലേഖനം.",
+   "author": "അബ്ദുറഹ്മാന്‍ നാസിര്‍ അസ്സഅദി",
+   "issue_date": "2018-04-28",
+   "html_url": "/ml/quran/surah-al-adiyat-the-chargers-20180428-3.html",
+   "md_url": "/ml/quran/surah-al-adiyat-the-chargers-20180428-3.md"
+  },
+  {
    "slug": "surah-ash-shu-ara-the-poets-20260822-7",
    "lang": "ml",
    "category": "quran",
@@ -9121,6 +9220,17 @@
    "md_url": "/ml/seerah/prophet-muhammad-pbuh-life-and-message-20170225-8.md"
   },
   {
+   "slug": "prophet-musa-a-s-20180428-4",
+   "lang": "ml",
+   "category": "seerah",
+   "title": "മൂസാ(അ)",
+   "summary": "ഖുർആനിൽ ഏറ്റവും കൂടുതൽ പരാമർശിക്കപ്പെട്ടിട്ടുള്ള മൂസാ നബിയുടെ ജീവിത ചരിത്രവും അദ്ദേഹത്തിന്റെ പ്രബോധന വഴികളും വിവരിക്കുന്ന ലേഖനം.",
+   "author": "ഹുസൈന്‍ സലഫി, ഷാര്‍ജ",
+   "issue_date": "2018-04-28",
+   "html_url": "/ml/seerah/prophet-musa-a-s-20180428-4.html",
+   "md_url": "/ml/seerah/prophet-musa-a-s-20180428-4.md"
+  },
+  {
    "slug": "prophets-and-trials-20170325-7",
    "lang": "ml",
    "category": "seerah",
@@ -9141,6 +9251,17 @@
    "issue_date": "2017-04-01",
    "html_url": "/ml/seerah/prophets-are-humans-20170401-10.html",
    "md_url": "/ml/seerah/prophets-are-humans-20170401-10.md"
+  },
+  {
+   "slug": "a-good-death-20180428-5",
+   "lang": "ml",
+   "category": "story",
+   "title": "നല്ല മരണം",
+   "summary": "മരണത്തെക്കുറിച്ചും പരലോക ചിന്തകളെക്കുറിച്ചും പ്രതിപാദിക്കുന്ന ആത്മീയമായ ഒരു കവിത.",
+   "author": "വെള്ളില പി. അബ്ദുല്ല",
+   "issue_date": "2018-04-28",
+   "html_url": "/ml/story/a-good-death-20180428-5.html",
+   "md_url": "/ml/story/a-good-death-20180428-5.md"
   },
   {
    "slug": "abdullah-s-mistake-20170204-1",
@@ -9273,6 +9394,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/ml/story/the-fruit-of-ingratitude-20170121-7.html",
    "md_url": "/ml/story/the-fruit-of-ingratitude-20170121-7.md"
+  },
+  {
+   "slug": "the-path-of-success-20180428-12",
+   "lang": "ml",
+   "category": "story",
+   "title": "വിജയത്തിന്റെ വഴി",
+   "summary": "അഞ്ചുനേരത്തെ നമസ്കാരത്തിന്റെ പ്രാധാന്യത്തെയും അത് മനുഷ്യന് നൽകുന്ന ആത്മീയ വിജയത്തെയും കുറിച്ച് ലളിതമായി വിവരിക്കുന്ന കവിത.",
+   "author": "അബ്ദുൽ ഗഫൂര്‍ പുതുപ്പണം",
+   "issue_date": "2018-04-28",
+   "html_url": "/ml/story/the-path-of-success-20180428-12.html",
+   "md_url": "/ml/story/the-path-of-success-20180428-12.md"
   },
   {
    "slug": "when-the-burden-of-sin-increases-20170225-10",
