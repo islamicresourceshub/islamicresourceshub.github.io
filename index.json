@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T10:06:17.142014+00:00",
+ "generated_at": "2026-08-29T10:06:46.240212+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1638,
+ "count": 1639,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -2321,6 +2321,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/bs/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.html",
    "md_url": "/bs/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.md"
+  },
+  {
+   "slug": "what-to-beware-of-when-taking-sides-20170128-7",
+   "lang": "bs",
+   "category": "quran",
+   "title": "Na šta treba paziti kada biramo strane",
+   "summary": "U svjetlu kur'anskog ajeta 43:67, ovaj tekst objašnjava važnost opreza i bogobojaznosti prilikom svrstavanja na određene strane i održavanja prijateljskih i bliskih veza.",
+   "author": "അബൂ അമീൻ",
+   "issue_date": "2017-01-28",
+   "html_url": "/bs/quran/what-to-beware-of-when-taking-sides-20170128-7.html",
+   "md_url": "/bs/quran/what-to-beware-of-when-taking-sides-20170128-7.md"
   },
   {
    "slug": "prophets-and-trials-20170325-7",
