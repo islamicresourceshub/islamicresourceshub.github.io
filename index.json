@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T08:09:40.015940+00:00",
+ "generated_at": "2026-08-29T08:09:51.723596+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1227,
+ "count": 1228,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -7634,6 +7634,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/ms/dawah/stand-tall-20170121-8.html",
    "md_url": "/ms/dawah/stand-tall-20170121-8.md"
+  },
+  {
+   "slug": "the-message-of-equality-20170121-11",
+   "lang": "ms",
+   "category": "dawah",
+   "title": "Mesej Kesaksamaan",
+   "summary": "Artikel ini menganalisis mesej kesaksamaan yang dibawa oleh Nabi SAW. Ia membincangkan relevansi hadis yang menyatakan bahawa semua manusia berasal daripada Adam serta konsep kesaksamaan sejagat dalam Islam.",
+   "author": "അബൂ മുർശിദ",
+   "issue_date": "2017-01-21",
+   "html_url": "/ms/dawah/the-message-of-equality-20170121-11.html",
+   "md_url": "/ms/dawah/the-message-of-equality-20170121-11.md"
   },
   {
    "slug": "don-t-worry-allah-is-with-you-20170114-10",
