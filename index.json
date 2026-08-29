@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T12:25:29.832419+00:00",
+ "generated_at": "2026-08-29T13:47:39.236268+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1656,
+ "count": 1668,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -8087,6 +8087,17 @@
    "md_url": "/ml/dawah/dawah-obligation-and-execution-20170401-9.md"
   },
   {
+   "slug": "death-and-patience-20180505-4",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "മരണവും ക്ഷമയും",
+   "summary": "'അഫ്കാറുന് ഉഖ്റവിയ്യ' (പരലോക ചിന്തകൾ) പംക്തിയിലെ ഏഴാം ഭാഗം. മരണത്തോടും പരീക്ഷണങ്ങളോടും ക്ഷമയോടെ പ്രതികരിക്കേണ്ടതിന്റെ ആവശ്യകത ഖുർആൻ സന്ദർഭങ്ങളിലൂടെ വിശകലനം ചെയ്യുന്നു.",
+   "author": "വെള്ളില പി. അബ്ദുല്ല",
+   "issue_date": "2018-05-05",
+   "html_url": "/ml/dawah/death-and-patience-20180505-4.html",
+   "md_url": "/ml/dawah/death-and-patience-20180505-4.md"
+  },
+  {
    "slug": "do-not-be-slaves-to-desires-20170211-11",
    "lang": "ml",
    "category": "dawah",
@@ -8296,6 +8307,17 @@
    "md_url": "/ml/dawah/the-message-of-equality-20170121-11.md"
   },
   {
+   "slug": "the-month-of-sha-ban-and-baraat-20180505-9",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "ശഅ്ബാന്‍ മാസവും ബറാഅത്തും",
+   "summary": "ചില കാലങ്ങൾക്കും സ്ഥലങ്ങൾക്കും പ്രത്യേക പവിത്രത നൽകപ്പെട്ടിരിക്കുന്നതിനെക്കുറിച്ചുള്ള ലേഖനം. ശഅ്ബാൻ മാസത്തിന്റെയും ബറാഅത്ത് രാത്രിയുടെയും പ്രാധാന്യവും ആചരണങ്ങളും വിശദീകരിക്കുന്നു.",
+   "author": "ശമീര്‍ മദീനി",
+   "issue_date": "2018-05-05",
+   "html_url": "/ml/dawah/the-month-of-sha-ban-and-baraat-20180505-9.html",
+   "md_url": "/ml/dawah/the-month-of-sha-ban-and-baraat-20180505-9.md"
+  },
+  {
    "slug": "the-path-to-peace-20170225-11",
    "lang": "ml",
    "category": "dawah",
@@ -8349,6 +8371,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/ml/dawah/what-do-we-have-for-ourselves-20170218-10.html",
    "md_url": "/ml/dawah/what-do-we-have-for-ourselves-20170218-10.md"
+  },
+  {
+   "slug": "who-are-cultural-leaders-20180505-1",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "ആരാണ് സാംസ്‌കാരിക നായകന്മാര്‍?",
+   "summary": "ഒരു മകളുടെ ചോദ്യത്തിൽ നിന്ന് ഉത്ഭവിച്ച കുറിപ്പ്, സമൂഹത്തിലെ സാംസ്കാരിക നായകർ ആരൊക്കെയാണ് എന്ന ചോദ്യം ഉന്നയിക്കുന്നു. യഥാർത്ഥ സാംസ്കാരിക നായകത്വത്തിന്റെ സ്വഭാവവും ഉത്തരവാദിത്വങ്ങളും വിശകലനം ചെയ്യുന്നു.",
+   "author": "ഉസ്മാന്‍ പാലക്കാഴി",
+   "issue_date": "2018-05-05",
+   "html_url": "/ml/dawah/who-are-cultural-leaders-20180505-1.html",
+   "md_url": "/ml/dawah/who-are-cultural-leaders-20180505-1.md"
   },
   {
    "slug": "better-safe-than-sorry-20170401-11",
@@ -8604,6 +8637,28 @@
    "md_url": "/ml/fiqh/alcohol-islam-s-ever-relevant-approach-20170225-6.md"
   },
   {
+   "slug": "duties-and-rights-20180505-3",
+   "lang": "ml",
+   "category": "fiqh",
+   "title": "കടമകളും അവകാശങ്ങളും",
+   "summary": "ഇസ്‌ലാമിക നിയമത്തിലെ കടമകളും അവകാശങ്ങളും സംബന്ധിച്ച ഫിഖ്ഹ് പഠനം. നിയമപരമായ കടമകൾ നിര്‍വഹിക്കുകയും അവകാശങ്ങൾ സംരക്ഷിക്കുകയും ചെയ്യുന്നതിന്റെ പ്രാധാന്യം വിശദമാക്കുന്നു.",
+   "author": "മുസാഫിര്‍",
+   "issue_date": "2018-05-05",
+   "html_url": "/ml/fiqh/duties-and-rights-20180505-3.html",
+   "md_url": "/ml/fiqh/duties-and-rights-20180505-3.md"
+  },
+  {
+   "slug": "embalming-the-dead-an-islamic-perspective-20180505-5",
+   "lang": "ml",
+   "category": "fiqh",
+   "title": "മൃതദേഹം എംബാമിങ്ങ്: ഇസ്‌ലാമിക പരിപ്രേക്ഷ്യത്തില്‍",
+   "summary": "മനുഷ്യശരീരത്തോടുള്ള ആദരവ് മരണശേഷവും നിലനിൽക്കണമെന്ന ഇസ്‌ലാമിക തത്ത്വം അടിസ്ഥാനമാക്കിയുള്ള ലേഖനം. ദൂരെ മരിക്കുന്നവരുടെ മൃതദേഹം നാട്ടിലെത്തിക്കുന്നതിന്റെ ഇസ്‌ലാമിക വിധി വിശദമാക്കുന്നു.",
+   "author": "അഷ്‌റഫ് എകരൂല്‍",
+   "issue_date": "2018-05-05",
+   "html_url": "/ml/fiqh/embalming-the-dead-an-islamic-perspective-20180505-5.html",
+   "md_url": "/ml/fiqh/embalming-the-dead-an-islamic-perspective-20180505-5.md"
+  },
+  {
    "slug": "mosque-construction-some-points-to-note-20170325-5",
    "lang": "ml",
    "category": "fiqh",
@@ -8657,6 +8712,17 @@
    "issue_date": "2026-08-22",
    "html_url": "/ml/health/know-this-for-those-caring-for-the-sick-20260822-1.html",
    "md_url": "/ml/health/know-this-for-those-caring-for-the-sick-20260822-1.md"
+  },
+  {
+   "slug": "nutrients-for-thyroid-health-20180505-10",
+   "lang": "ml",
+   "category": "health",
+   "title": "തൈറോയ്ഡിന്റെ ആരോഗ്യത്തിന് പോഷകങ്ങള്‍",
+   "summary": "തൈറോയ്ഡ് ഗ്രന്ഥിയുടെ പ്രവർത്തനത്തെ സഹായിക്കുന്ന പോഷകങ്ങളെക്കുറിച്ചുള്ള ആരോഗ്യ ലേഖനം. ഭക്ഷണക്രമത്തിലൂടെ തൈറോയ്ഡ് ആരോഗ്യം നിലനിർത്താനുള്ള വഴികൾ വിശദമാക്കുന്നു.",
+   "author": "ഡോ. മുഹമ്മദ് കുട്ടി കണ്ണിയന്‍",
+   "issue_date": "2018-05-05",
+   "html_url": "/ml/health/nutrients-for-thyroid-health-20180505-10.html",
+   "md_url": "/ml/health/nutrients-for-thyroid-health-20180505-10.md"
   },
   {
    "slug": "thyroid-problems-20180428-10",
@@ -9176,6 +9242,17 @@
    "md_url": "/ml/quran/surah-ash-shu-ara-the-poets-20260822-7.md"
   },
   {
+   "slug": "surah-az-zalzalah-the-earthquake-tafsir-20180505-2",
+   "lang": "ml",
+   "category": "quran",
+   "title": "സല്‍സല (പ്രകമ്പനം)",
+   "summary": "ഖുർആനിലെ 99-ാം അധ്യായമായ സൂറത്തുസ്സില്ല (പ്രകമ്പനം) യുടെ തഫ്സീർ അവതരണം. ഭൂമി കുലുക്കപ്പെടുന്ന അന്ത്യദിനത്തെക്കുറിച്ചുള്ള സൂറ്റിലെ ആയത്തുകളുടെ അർത്ഥവിശദീകരണം ഉൾപ്പെടുന്നു.",
+   "author": "അബ്ദുറഹ്മാന്‍ നാസിര്‍ അസ്സഅദി",
+   "issue_date": "2018-05-05",
+   "html_url": "/ml/quran/surah-az-zalzalah-the-earthquake-tafsir-20180505-2.html",
+   "md_url": "/ml/quran/surah-az-zalzalah-the-earthquake-tafsir-20180505-2.md"
+  },
+  {
    "slug": "universal-calls-in-the-quran-19-truth-falsehood-and-human-fr-20260822-3",
    "lang": "ml",
    "category": "quran",
@@ -9207,6 +9284,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/ml/seerah/can-prophethood-be-attained-by-desire-20170218-1.html",
    "md_url": "/ml/seerah/can-prophethood-be-attained-by-desire-20170218-1.md"
+  },
+  {
+   "slug": "from-the-river-to-the-palace-part-2-20180505-6",
+   "lang": "ml",
+   "category": "seerah",
+   "title": "നദിയില്‍ നിന്ന് കൊട്ടാരത്തിലേക്ക്",
+   "summary": "നബി മൂസാ (അ) യുടെ ജീവിതത്തിലെ രണ്ടാം ഭാഗം. നദിയിൽ നിന്ന് ഫിറ്ഔന്റെ കൊട്ടാരത്തിലേക്ക് എത്തിച്ചേരുന്ന സംഭവങ്ങളും ഖുർആനിക പശ്ചാത്തലവും അവതരിപ്പിക്കുന്നു.",
+   "author": "ഹുസൈന്‍ സലഫി, ഷാര്‍ജ",
+   "issue_date": "2018-05-05",
+   "html_url": "/ml/seerah/from-the-river-to-the-palace-part-2-20180505-6.html",
+   "md_url": "/ml/seerah/from-the-river-to-the-palace-part-2-20180505-6.md"
   },
   {
    "slug": "ibn-abbas-ra-a-scholar-of-knowledge-20170211-4",
@@ -9264,6 +9352,17 @@
    "md_url": "/ml/seerah/prophets-are-humans-20170401-10.md"
   },
   {
+   "slug": "the-departure-of-the-prophet-20180505-7",
+   "lang": "ml",
+   "category": "seerah",
+   "title": "പ്രവാചക വിയോഗം",
+   "summary": "പ്രവാചക നിയോഗത്തിന്റെ പര്യവസാനത്തെക്കുറിച്ചും മുഹമ്മദ് നബി ﷺ യുടെ വിയോഗത്തെക്കുറിച്ചുമുള്ള ലേഖനം. പ്രവാചക ശൃംഖലയുടെ അന്ത്യവും ഇസ്‌ലാമിന്റെ പൂർത്തീകരണവും വിശകലനം ചെയ്യുന്നു.",
+   "author": "സയ്യിദ് സഅ്ഫര്‍ സ്വാദിക്വ് മദീനി",
+   "issue_date": "2018-05-05",
+   "html_url": "/ml/seerah/the-departure-of-the-prophet-20180505-7.html",
+   "md_url": "/ml/seerah/the-departure-of-the-prophet-20180505-7.md"
+  },
+  {
    "slug": "a-good-death-20180428-5",
    "lang": "ml",
    "category": "story",
@@ -9297,6 +9396,17 @@
    "md_url": "/ml/story/allah-is-watching-20170211-3.md"
   },
   {
+   "slug": "an-old-man-s-sorrows-20180505-12",
+   "lang": "ml",
+   "category": "story",
+   "title": "വൃദ്ധനൊമ്പരങ്ങള്‍",
+   "summary": "ഒരു പ്രസവ സെക്കന്റ് സ്റ്റേജിന്റെ പശ്ചാത്തലത്തിൽ ആരംഭിക്കുന്ന കഥ. വൃദ്ധനൊമ്പരങ്ങളും കുടുംബബന്ധങ്ങളിലെ വേദനയും ആവിഷ്കരിക്കുന്ന സാമൂഹ്യ കഥ.",
+   "author": "ഡോ. ജസീം അലി. എം",
+   "issue_date": "2018-05-05",
+   "html_url": "/ml/story/an-old-man-s-sorrows-20180505-12.html",
+   "md_url": "/ml/story/an-old-man-s-sorrows-20180505-12.md"
+  },
+  {
    "slug": "broken-hearts-20170218-11",
    "lang": "ml",
    "category": "story",
@@ -9328,6 +9438,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/ml/story/grown-up-children-20170121-6.html",
    "md_url": "/ml/story/grown-up-children-20170121-6.md"
+  },
+  {
+   "slug": "guardians-should-be-role-models-20180505-8",
+   "lang": "ml",
+   "category": "story",
+   "title": "രക്ഷിതാക്കള്‍ മാതൃകയാവുക",
+   "summary": "ഒരു ഗ്രാമത്തിൽ നിധി തേടി കുഴിയെടുക്കുന്ന ചെറുപ്പക്കാരനിലൂടെ ആരംഭിക്കുന്ന കഥ. രക്ഷിതാക്കൾ കുട്ടികൾക്ക് മാതൃകയാവേണ്ടതിന്റെ പ്രാധാന്യം ഉദ്ബോധിപ്പിക്കുന്ന കഥാഖ്യാനം.",
+   "author": "സി.മുഹമ്മദ് റാഫി ചെമ്പ്ര",
+   "issue_date": "2018-05-05",
+   "html_url": "/ml/story/guardians-should-be-role-models-20180505-8.html",
+   "md_url": "/ml/story/guardians-should-be-role-models-20180505-8.md"
   },
   {
    "slug": "laws-are-to-be-followed-20170128-5",
@@ -9449,6 +9570,17 @@
    "issue_date": "2017-02-11",
    "html_url": "/ml/youth/e-ahamed-s-message-to-the-youth-20170211-5.html",
    "md_url": "/ml/youth/e-ahamed-s-message-to-the-youth-20170211-5.md"
+  },
+  {
+   "slug": "value-erosion-misleading-the-younger-generation-20180505-13",
+   "lang": "ml",
+   "category": "youth",
+   "title": "യുവതലമുറയെ വഴിതെറ്റിക്കുന്ന മൂല്യനിരാസം",
+   "summary": "ധാർമ്മികവും മൂല്യപരവുമായ സംസ്കാരം പകർന്ന് നൽകാതെ കുട്ടികളെ വളർത്തുന്നത് യുവതലമുറയെ എങ്ങനെ വഴിതെറ്റിക്കുന്നു എന്ന് വിശകലനം ചെയ്യുന്ന ലേഖനം.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2018-05-05",
+   "html_url": "/ml/youth/value-erosion-misleading-the-younger-generation-20180505-13.html",
+   "md_url": "/ml/youth/value-erosion-misleading-the-younger-generation-20180505-13.md"
   },
   {
    "slug": "what-will-the-waste-do-20170114-5",
