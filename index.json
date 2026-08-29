@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T09:41:53.215862+00:00",
+ "generated_at": "2026-08-29T09:42:08.955318+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1542,
+ "count": 1543,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -11660,6 +11660,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/ru/dawah/do-not-waver-in-trials-20170121-9.html",
    "md_url": "/ru/dawah/do-not-waver-in-trials-20170121-9.md"
+  },
+  {
+   "slug": "jallikattu-and-the-islamic-approach-to-animals-20170128-4",
+   "lang": "ru",
+   "category": "dawah",
+   "title": "Джалликатту и исламский подход к животным",
+   "summary": "В статье рассматривается исламский взгляд на отношение к животным на примере фестиваля Джалликатту. Автор подчеркивает важность милосердия и сострадания ко всем творениям Аллаха.",
+   "author": "അബ്ദുൽ മാലിക്‌ സലഫി",
+   "issue_date": "2017-01-28",
+   "html_url": "/ru/dawah/jallikattu-and-the-islamic-approach-to-animals-20170128-4.html",
+   "md_url": "/ru/dawah/jallikattu-and-the-islamic-approach-to-animals-20170128-4.md"
   },
   {
    "slug": "live-knowing-the-value-of-time-20170114-8",
