@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T04:08:28.921468+00:00",
+ "generated_at": "2026-08-29T04:08:38.735331+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1012,
+ "count": 1013,
  "articles": [
   {
    "slug": "live-knowing-the-value-of-time-20170114-8",
@@ -10439,6 +10439,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/ur/family/how-to-be-a-good-parent-part-2-20170121-4.html",
    "md_url": "/ur/family/how-to-be-a-good-parent-part-2-20170121-4.md"
+  },
+  {
+   "slug": "husband-trapped-in-the-mobile-web-20170121-5",
+   "lang": "ur",
+   "category": "family",
+   "title": "موبائل کے جال میں پھنسا شوہر",
+   "summary": "یہ مضمون اس بات کا تجزیہ کرتا ہے کہ موبائل فون کا حد سے زیادہ استعمال شوہر اور خاندانی تعلقات کو کیسے متاثر کرتا ہے۔ یہ 'شانتی گیہم' (خاندانی مشاورتی کالم) کا ایک حصہ ہے۔",
+   "author": "പ്രൊഫ: ഹാരിസ്ബിൻ സലീം",
+   "issue_date": "2017-01-21",
+   "html_url": "/ur/family/husband-trapped-in-the-mobile-web-20170121-5.html",
+   "md_url": "/ur/family/husband-trapped-in-the-mobile-web-20170121-5.md"
   },
   {
    "slug": "islamic-parenting-significance-and-goals-part-1-20170114-4",
