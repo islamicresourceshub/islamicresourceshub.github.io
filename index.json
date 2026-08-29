@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T09:25:52.627597+00:00",
+ "generated_at": "2026-08-29T09:26:23.549628+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1493,
+ "count": 1494,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -6314,6 +6314,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/ja/opinion/everyone-should-have-a-beard-20170121-3.html",
    "md_url": "/ja/opinion/everyone-should-have-a-beard-20170121-3.md"
+  },
+  {
+   "slug": "hajj-subsidy-before-putting-the-muslim-community-in-the-dock-20170128-3",
+   "lang": "ja",
+   "category": "opinion",
+   "title": "ハッジ補助金：イスラム教徒コミュニティを被告席に立たせる前に",
+   "summary": "ハッジ（メッカ巡礼）補助金の廃止を巡る議論において、イスラム教徒コミュニティを不当に批判の対象とする風潮を批判的に分析し、補助金の真実と透明性について考察します。",
+   "author": "പി.വി.എ പ്രിംറോസ്‌",
+   "issue_date": "2017-01-28",
+   "html_url": "/ja/opinion/hajj-subsidy-before-putting-the-muslim-community-in-the-dock-20170128-3.html",
+   "md_url": "/ja/opinion/hajj-subsidy-before-putting-the-muslim-community-in-the-dock-20170128-3.md"
   },
   {
    "slug": "india-which-way-forward-20170325-2",
