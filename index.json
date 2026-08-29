@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T09:50:24.320607+00:00",
+ "generated_at": "2026-08-29T09:50:39.351683+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1579,
+ "count": 1580,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -11473,6 +11473,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/ps/story/grown-up-children-20170121-6.html",
    "md_url": "/ps/story/grown-up-children-20170121-6.md"
+  },
+  {
+   "slug": "laws-are-to-be-followed-20170128-5",
+   "lang": "ps",
+   "category": "story",
+   "title": "قوانین د عمل کولو لپاره دي",
+   "summary": "دا کیسه د سهیل په نوم د یو هلک په اړه ده چې د خپل ملګري رئیس څخه د ترافیکي قوانینو د رعایتولو اهمیت زده کوي. دا کیسه په عملي بڼه ښیي چې څنګه د قوانینو مراعات کول د انسان د خوندیتوب او ټولنیز نظم لپاره اړین دي.",
+   "author": "ഉസ്‌മാൻ പാലക്കാഴ‍ി",
+   "issue_date": "2017-01-28",
+   "html_url": "/ps/story/laws-are-to-be-followed-20170128-5.html",
+   "md_url": "/ps/story/laws-are-to-be-followed-20170128-5.md"
   },
   {
    "slug": "the-fruit-of-ingratitude-20170121-7",
