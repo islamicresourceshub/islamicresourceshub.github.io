@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T08:40:28.240283+00:00",
+ "generated_at": "2026-08-29T08:40:44.748089+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1346,
+ "count": 1347,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -9647,6 +9647,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/ps/dawah/religion-is-fearlessness-20170114-6.html",
    "md_url": "/ps/dawah/religion-is-fearlessness-20170114-6.md"
+  },
+  {
+   "slug": "showing-the-light-is-the-duty-of-scholars-20170121-14",
+   "lang": "ps",
+   "category": "dawah",
+   "title": "رڼا اچول د عالمانو دنده ده",
+   "summary": "دا لیکنه په دې ټینګار کوي چې پوښتنه کوونکي باید له پامه ونه غورځول شي. د عالمانو اصلي دنده د خلکو لارښوونه کول او د اسلامي پوهې په رڼا کې د دوی د پوښتنو ځوابول دي.",
+   "author": "ടി.കെ.അശ്‌റഫ്‌",
+   "issue_date": "2017-01-21",
+   "html_url": "/ps/dawah/showing-the-light-is-the-duty-of-scholars-20170121-14.html",
+   "md_url": "/ps/dawah/showing-the-light-is-the-duty-of-scholars-20170121-14.md"
   },
   {
    "slug": "stand-tall-20170121-8",
