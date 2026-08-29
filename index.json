@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T09:35:13.995525+00:00",
+ "generated_at": "2026-08-29T09:35:31.694064+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1520,
+ "count": 1521,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -1441,6 +1441,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/bn/dawah/do-not-waver-in-trials-20170121-9.html",
    "md_url": "/bn/dawah/do-not-waver-in-trials-20170121-9.md"
+  },
+  {
+   "slug": "jallikattu-and-the-islamic-approach-to-animals-20170128-4",
+   "lang": "bn",
+   "category": "dawah",
+   "title": "জাল্লিকাট্টু এবং প্রাণীদের প্রতি ইসলামি দৃষ্টিভঙ্গি",
+   "summary": "জাল্লিকাট্টু বিতর্কের প্রেক্ষাপটে প্রাণীদের প্রতি ইসলামের দৃষ্টিভঙ্গি এই নিবন্ধে ব্যাখ্যা করা হয়েছে। আল্লাহর সৃষ্টির প্রতি দয়া ও করুণার গুরুত্ব এখানে তুলে ধরা হয়েছে।",
+   "author": "അബ്ദുൽ മാലിക്‌ സലഫി",
+   "issue_date": "2017-01-28",
+   "html_url": "/bn/dawah/jallikattu-and-the-islamic-approach-to-animals-20170128-4.html",
+   "md_url": "/bn/dawah/jallikattu-and-the-islamic-approach-to-animals-20170128-4.md"
   },
   {
    "slug": "live-knowing-the-value-of-time-20170114-8",
