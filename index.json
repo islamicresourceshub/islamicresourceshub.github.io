@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T04:38:29.542242+00:00",
+ "generated_at": "2026-08-29T04:38:58.986975+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1105,
+ "count": 1106,
  "articles": [
   {
    "slug": "live-knowing-the-value-of-time-20170114-8",
@@ -3388,6 +3388,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/ha/dawah/religion-is-fearlessness-20170114-6.html",
    "md_url": "/ha/dawah/religion-is-fearlessness-20170114-6.md"
+  },
+  {
+   "slug": "stand-tall-20170121-8",
+   "lang": "ha",
+   "category": "dawah",
+   "title": "Tsayuwa da Ƙarfin Gwiwa",
+   "summary": "Wani rubutu da ke isar da sako cewa ingantaccen imani shi ne tushen ƙarfi. Yana bayyana mahimmancin tsayuwa da ƙarfin gwiwa ba tare da girgiza ba koda a cikin mawuyacin yanayi.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2017-01-21",
+   "html_url": "/ha/dawah/stand-tall-20170121-8.html",
+   "md_url": "/ha/dawah/stand-tall-20170121-8.md"
   },
   {
    "slug": "don-t-worry-allah-is-with-you-20170114-10",
