@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T08:33:34.476303+00:00",
+ "generated_at": "2026-08-29T08:33:46.856905+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1322,
+ "count": 1323,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -14322,6 +14322,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/vi/opinion/terrorism-and-religious-freedom-20170114-1.html",
    "md_url": "/vi/opinion/terrorism-and-religious-freedom-20170114-1.md"
+  },
+  {
+   "slug": "the-shackles-of-consumerist-culture-20170121-13",
+   "lang": "vi",
+   "category": "opinion",
+   "title": "Vòng vây của văn hóa tiêu thụ",
+   "summary": "Bài viết phân tích một cách phê phán cuộc sống hiện đại đang bị cuốn vào vòng xoáy của văn hóa tiêu thụ. Đồng thời, tác giả làm rõ sự nghèo nàn về tâm hồn và những hệ lụy nghiêm trọng của nợ nần trong bối cảnh xã hội đương đại.",
+   "author": "കുഞ്ഞിമുഹമ്മദ്‌ മദനി പറപ്പൂർ",
+   "issue_date": "2017-01-21",
+   "html_url": "/vi/opinion/the-shackles-of-consumerist-culture-20170121-13.html",
+   "md_url": "/vi/opinion/the-shackles-of-consumerist-culture-20170121-13.md"
   },
   {
    "slug": "uapa-wielding-sedition-law-20170114-9",
