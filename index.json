@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T04:08:49.502628+00:00",
+ "generated_at": "2026-08-29T04:08:59.439190+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1014,
+ "count": 1015,
  "articles": [
   {
    "slug": "live-knowing-the-value-of-time-20170114-8",
@@ -10945,6 +10945,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/vi/family/how-to-be-a-good-parent-part-2-20170121-4.html",
    "md_url": "/vi/family/how-to-be-a-good-parent-part-2-20170121-4.md"
+  },
+  {
+   "slug": "husband-trapped-in-the-mobile-web-20170121-5",
+   "lang": "vi",
+   "category": "family",
+   "title": "Người chồng mắc kẹt trong mạng lưới di động",
+   "summary": "Một bài viết phân tích cách việc lạm dụng điện thoại di động ảnh hưởng đến người chồng và các mối quan hệ gia đình, nằm trong chuyên mục tư vấn gia đình 'Shanthi Geham'.",
+   "author": "പ്രൊഫ: ഹാരിസ്ബിൻ സലീം",
+   "issue_date": "2017-01-21",
+   "html_url": "/vi/family/husband-trapped-in-the-mobile-web-20170121-5.html",
+   "md_url": "/vi/family/husband-trapped-in-the-mobile-web-20170121-5.md"
   },
   {
    "slug": "islamic-parenting-significance-and-goals-part-1-20170114-4",
