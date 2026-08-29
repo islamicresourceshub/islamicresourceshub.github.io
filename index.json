@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T09:48:19.756168+00:00",
+ "generated_at": "2026-08-29T09:48:29.499089+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1568,
+ "count": 1569,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -5555,6 +5555,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/hi/story/grown-up-children-20170121-6.html",
    "md_url": "/hi/story/grown-up-children-20170121-6.md"
+  },
+  {
+   "slug": "laws-are-to-be-followed-20170128-5",
+   "lang": "hi",
+   "category": "story",
+   "title": "नियम पालन के लिए होते हैं",
+   "summary": "सुहैल शहर के एक डेंटल क्लिनिक में शुरू होने वाली यह कहानी, जीवन में नियमों का पालन करने के महत्व को एक छोटे से अनुभव के माध्यम से समझाती है।",
+   "author": "ഉസ്‌മാൻ പാലക്കാഴ‍ി",
+   "issue_date": "2017-01-28",
+   "html_url": "/hi/story/laws-are-to-be-followed-20170128-5.html",
+   "md_url": "/hi/story/laws-are-to-be-followed-20170128-5.md"
   },
   {
    "slug": "the-fruit-of-ingratitude-20170121-7",
