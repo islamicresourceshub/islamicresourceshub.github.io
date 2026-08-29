@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T08:10:38.646576+00:00",
+ "generated_at": "2026-08-29T08:10:51.329333+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1231,
+ "count": 1232,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -8910,6 +8910,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/ps/dawah/stand-tall-20170121-8.html",
    "md_url": "/ps/dawah/stand-tall-20170121-8.md"
+  },
+  {
+   "slug": "the-message-of-equality-20170121-11",
+   "lang": "ps",
+   "category": "dawah",
+   "title": "د مساوات پیغام",
+   "summary": "دا مقاله د نبي کریم (ص) د مساوات پیغام تحلیلوي. دا د دې حدیث پر اهمیت بحث کوي چې ټول انسانان له حضرت آدم (ع) څخه دي او د اسلامي نړیوال مساوات په اړه رڼا اچوي.",
+   "author": "അബൂ മുർശിദ",
+   "issue_date": "2017-01-21",
+   "html_url": "/ps/dawah/the-message-of-equality-20170121-11.html",
+   "md_url": "/ps/dawah/the-message-of-equality-20170121-11.md"
   },
   {
    "slug": "don-t-worry-allah-is-with-you-20170114-10",
