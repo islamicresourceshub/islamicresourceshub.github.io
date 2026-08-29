@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T09:49:34.229657+00:00",
+ "generated_at": "2026-08-29T09:49:44.811718+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1575,
+ "count": 1576,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -9812,6 +9812,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/ms/story/grown-up-children-20170121-6.html",
    "md_url": "/ms/story/grown-up-children-20170121-6.md"
+  },
+  {
+   "slug": "laws-are-to-be-followed-20170128-5",
+   "lang": "ms",
+   "category": "story",
+   "title": "Undang-undang Perlu Dipatuhi",
+   "summary": "Sebuah kisah yang bermula di sebuah klinik pergigian di bandar Suhail. Ia mengilustrasikan kepentingan mematuhi peraturan melalui pengalaman hidup yang bermakna.",
+   "author": "ഉസ്‌മാൻ പാലക്കാഴ‍ി",
+   "issue_date": "2017-01-28",
+   "html_url": "/ms/story/laws-are-to-be-followed-20170128-5.html",
+   "md_url": "/ms/story/laws-are-to-be-followed-20170128-5.md"
   },
   {
    "slug": "the-fruit-of-ingratitude-20170121-7",
