@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T08:53:40.667467+00:00",
+ "generated_at": "2026-08-29T08:53:58.046840+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1393,
+ "count": 1394,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -12892,6 +12892,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/te/hadith/control-your-mind-20170325-3.html",
    "md_url": "/te/hadith/control-your-mind-20170325-3.md"
+  },
+  {
+   "slug": "e-writing-is-not-mere-writing-20170121-15",
+   "lang": "te",
+   "category": "opinion",
+   "title": "ఇ-రచన అంటే కేవలం రాయడం మాత్రమే కాదు",
+   "summary": "డిజిటల్ యుగంలో రచనల ప్రాముఖ్యతను, సామాజిక ప్రభావాలను మరియు మీడియా వార్తల వెనుక ఉన్న వాస్తవాలను ఈ వ్యాసం చర్చిస్తుంది. ముఖ్యంగా ఇంటర్నెట్ వేదికలపై ఇస్లాంపై జరుగుతున్న దుష్ప్రచారాలను తిప్పికొట్టాల్సిన బాధ్యత గురించి ఇది వివరిస్తుంది.",
+   "author": "അബ്ദുല്ല ബാസിൽ സി.പി",
+   "issue_date": "2017-01-21",
+   "html_url": "/te/opinion/e-writing-is-not-mere-writing-20170121-15.html",
+   "md_url": "/te/opinion/e-writing-is-not-mere-writing-20170121-15.md"
   },
   {
    "slug": "elections-the-stand-must-be-well-considered-20170325-10",
