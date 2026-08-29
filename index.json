@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T09:32:09.839216+00:00",
+ "generated_at": "2026-08-29T09:32:29.323734+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1511,
+ "count": 1512,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -14751,6 +14751,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/tl/opinion/everyone-should-have-a-beard-20170121-3.html",
    "md_url": "/tl/opinion/everyone-should-have-a-beard-20170121-3.md"
+  },
+  {
+   "slug": "hajj-subsidy-before-putting-the-muslim-community-in-the-dock-20170128-3",
+   "lang": "tl",
+   "category": "opinion",
+   "title": "Subsidi sa Hajj: Bago natin gawing 'scapegoat' ang komunidad ng mga Muslim",
+   "summary": "Isang kritikal na pagsusuri sa diskurso ng pag-aalis ng subsidiya sa Hajj at kung paano ito ginagamit upang gawing 'scapegoat' ang komunidad ng mga Muslim sa India. Tinatalakay nito ang kasaysayan ng subsidiya, ang mga nakatagong interes sa likod nito, at ang pangangailangan para sa transparency.",
+   "author": "പി.വി.എ പ്രിംറോസ്‌",
+   "issue_date": "2017-01-28",
+   "html_url": "/tl/opinion/hajj-subsidy-before-putting-the-muslim-community-in-the-dock-20170128-3.html",
+   "md_url": "/tl/opinion/hajj-subsidy-before-putting-the-muslim-community-in-the-dock-20170128-3.md"
   },
   {
    "slug": "india-which-way-forward-20170325-2",
