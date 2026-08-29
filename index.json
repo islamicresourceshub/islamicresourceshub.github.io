@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T08:17:18.206482+00:00",
+ "generated_at": "2026-08-29T08:17:32.820218+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1258,
+ "count": 1259,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -4213,6 +4213,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/hi/dawah/stand-tall-20170121-8.html",
    "md_url": "/hi/dawah/stand-tall-20170121-8.md"
+  },
+  {
+   "slug": "the-religion-that-rejects-terrorism-part-1-20170121-12",
+   "lang": "hi",
+   "category": "dawah",
+   "title": "आतंकवाद को नकारने वाला धर्म",
+   "summary": "यह लेख शांति चाहने वाले इस्लाम के स्वभाव की व्याख्या करता है। पहले भाग में यह बताया गया है कि कैसे एकेश्वरवाद और इबादत (आराधना) आतंकवाद को हतोत्साहित करते हैं।",
+   "author": "അൻവർ അബൂബക്കർ",
+   "issue_date": "2017-01-21",
+   "html_url": "/hi/dawah/the-religion-that-rejects-terrorism-part-1-20170121-12.html",
+   "md_url": "/hi/dawah/the-religion-that-rejects-terrorism-part-1-20170121-12.md"
   },
   {
    "slug": "don-t-worry-allah-is-with-you-20170114-10",
