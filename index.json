@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T09:23:46.522473+00:00",
+ "generated_at": "2026-08-29T09:24:02.528858+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1486,
+ "count": 1487,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -3564,6 +3564,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/fa/opinion/everyone-should-have-a-beard-20170121-3.html",
    "md_url": "/fa/opinion/everyone-should-have-a-beard-20170121-3.md"
+  },
+  {
+   "slug": "hajj-subsidy-before-putting-the-muslim-community-in-the-dock-20170128-3",
+   "lang": "fa",
+   "category": "opinion",
+   "title": "یارانه حج: پیش از آنکه جامعه مسلمانان را در جایگاه متهم بنشانید",
+   "summary": "این مقاله به تحلیل انتقادی رویکردی می‌پردازد که با بهانه‌ی حذف یارانه حج، جامعه مسلمانان را در جایگاه متهم قرار می‌دهد و ابعاد پنهان این موضوع را بررسی می‌کند.",
+   "author": "പി.വി.എ പ്രിംറോസ്‌",
+   "issue_date": "2017-01-28",
+   "html_url": "/fa/opinion/hajj-subsidy-before-putting-the-muslim-community-in-the-dock-20170128-3.html",
+   "md_url": "/fa/opinion/hajj-subsidy-before-putting-the-muslim-community-in-the-dock-20170128-3.md"
   },
   {
    "slug": "india-which-way-forward-20170325-2",
