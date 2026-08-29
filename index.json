@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T08:02:50.722771+00:00",
+ "generated_at": "2026-08-29T08:03:10.010080+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1200,
+ "count": 1201,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -10923,6 +10923,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/ta/opinion/muslim-extremists-defame-islam-20170114-7.html",
    "md_url": "/ta/opinion/muslim-extremists-defame-islam-20170114-7.md"
+  },
+  {
+   "slug": "salafi-preaching-a-theoretical-analysis-20170121-10",
+   "lang": "ta",
+   "category": "opinion",
+   "title": "சலஃபி அழைப்புப்பணி: ஒரு தத்துவார்த்த ஆய்வு",
+   "summary": "சலஃபி அழைப்புப்பணி குறித்த தத்துவார்த்த ஆய்வு. முஹாஜிர்கள் மற்றும் அன்சாரிகளின் முன்மாதிரியை குர்ஆன் வசனங்களின் வெளிச்சத்தில் இந்த கட்டுரை ஆராய்கிறது.",
+   "author": "ശൈഖ് നാസ്വിറുദ്ദീന്‍ അല്‍ബാനി (വിവര്‍ത്തനം: ശമീര്‍ മദീനി)",
+   "issue_date": "2017-01-21",
+   "html_url": "/ta/opinion/salafi-preaching-a-theoretical-analysis-20170121-10.html",
+   "md_url": "/ta/opinion/salafi-preaching-a-theoretical-analysis-20170121-10.md"
   },
   {
    "slug": "terrorism-and-religious-freedom-20170114-1",
