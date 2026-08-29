@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T09:33:35.342195+00:00",
+ "generated_at": "2026-08-29T09:33:56.120010+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1515,
+ "count": 1516,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -16335,6 +16335,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/vi/opinion/everyone-should-have-a-beard-20170121-3.html",
    "md_url": "/vi/opinion/everyone-should-have-a-beard-20170121-3.md"
+  },
+  {
+   "slug": "hajj-subsidy-before-putting-the-muslim-community-in-the-dock-20170128-3",
+   "lang": "vi",
+   "category": "opinion",
+   "title": "Trợ cấp Hajj: Trước khi đưa cộng đồng Hồi giáo ra vành móng ngựa",
+   "summary": "Bài viết phân tích một cách phản biện về cách tiếp cận biến cộng đồng Hồi giáo thành tâm điểm chỉ trích thông qua việc cắt giảm trợ cấp Hajj, đồng thời làm rõ những hiểu lầm về bản chất của khoản trợ cấp này.",
+   "author": "പി.വി.എ പ്രിംറോസ്‌",
+   "issue_date": "2017-01-28",
+   "html_url": "/vi/opinion/hajj-subsidy-before-putting-the-muslim-community-in-the-dock-20170128-3.html",
+   "md_url": "/vi/opinion/hajj-subsidy-before-putting-the-muslim-community-in-the-dock-20170128-3.md"
   },
   {
    "slug": "india-which-way-forward-20170325-2",
