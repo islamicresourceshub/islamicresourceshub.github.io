@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T09:22:14.273166+00:00",
+ "generated_at": "2026-08-29T09:22:33.012291+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1481,
+ "count": 1482,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -1606,6 +1606,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/bn/opinion/everyone-should-have-a-beard-20170121-3.html",
    "md_url": "/bn/opinion/everyone-should-have-a-beard-20170121-3.md"
+  },
+  {
+   "slug": "hajj-subsidy-before-putting-the-muslim-community-in-the-dock-20170128-3",
+   "lang": "bn",
+   "category": "opinion",
+   "title": "হজ সাবসিডি: মুসলিম সম্প্রদায়কে কাঠগড়ায় দাঁড় করানোর আগে",
+   "summary": "হজ সাবসিডি বাতিলের মাধ্যমে মুসলিম সম্প্রদায়কে কাঠগড়ায় দাঁড় করানোর প্রবণতাকে এই নিবন্ধে সমালোচনামূলকভাবে বিশ্লেষণ করা হয়েছে। লেখক দেখিয়েছেন যে, কীভাবে এই বিতর্কটি প্রকৃত সমস্যার আড়ালে একটি রাজনৈতিক হাতিয়ার হিসেবে ব্যবহৃত হচ্ছে।",
+   "author": "പി.വി.എ പ്രിംറോസ്‌",
+   "issue_date": "2017-01-28",
+   "html_url": "/bn/opinion/hajj-subsidy-before-putting-the-muslim-community-in-the-dock-20170128-3.html",
+   "md_url": "/bn/opinion/hajj-subsidy-before-putting-the-muslim-community-in-the-dock-20170128-3.md"
   },
   {
    "slug": "india-which-way-forward-20170325-2",
