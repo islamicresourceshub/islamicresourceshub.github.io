@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T07:38:37.885380+00:00",
+ "generated_at": "2026-08-29T07:39:13.966863+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1126,
+ "count": 1127,
  "articles": [
   {
    "slug": "live-knowing-the-value-of-time-20170114-8",
@@ -10989,6 +10989,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/tl/dawah/religion-is-fearlessness-20170114-6.html",
    "md_url": "/tl/dawah/religion-is-fearlessness-20170114-6.md"
+  },
+  {
+   "slug": "stand-tall-20170121-8",
+   "lang": "tl",
+   "category": "dawah",
+   "title": "Manindigan",
+   "summary": "Isang artikulo na nagbibigay ng mensahe na ang tunay na pananampalataya ay pinagmumulan ng lakas. Ipinapaliwanag nito ang kahalagahan ng pananatiling matatag at marangal sa kabila ng masasamang kalagayan.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2017-01-21",
+   "html_url": "/tl/dawah/stand-tall-20170121-8.html",
+   "md_url": "/tl/dawah/stand-tall-20170121-8.md"
   },
   {
    "slug": "don-t-worry-allah-is-with-you-20170114-10",
