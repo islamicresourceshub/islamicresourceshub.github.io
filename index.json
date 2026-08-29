@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T09:47:44.781532+00:00",
+ "generated_at": "2026-08-29T09:47:55.181992+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1565,
+ "count": 1566,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -4312,6 +4312,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/fr/story/grown-up-children-20170121-6.html",
    "md_url": "/fr/story/grown-up-children-20170121-6.md"
+  },
+  {
+   "slug": "laws-are-to-be-followed-20170128-5",
+   "lang": "fr",
+   "category": "story",
+   "title": "Les règles sont faites pour être respectées",
+   "summary": "Une courte histoire se déroulant dans une clinique dentaire à Suhail, illustrant l'importance du respect des règles à travers une leçon apprise lors d'une journée pluvieuse. Le récit souligne comment la discipline personnelle et le respect des codes de conduite assurent la sécurité de tous.",
+   "author": "ഉസ്‌മാൻ പാലക്കാഴ‍ി",
+   "issue_date": "2017-01-28",
+   "html_url": "/fr/story/laws-are-to-be-followed-20170128-5.html",
+   "md_url": "/fr/story/laws-are-to-be-followed-20170128-5.md"
   },
   {
    "slug": "the-fruit-of-ingratitude-20170121-7",
