@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T09:33:56.120010+00:00",
+ "generated_at": "2026-08-29T09:34:15.556662+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1516,
+ "count": 1517,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -16731,6 +16731,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/zh/opinion/everyone-should-have-a-beard-20170121-3.html",
    "md_url": "/zh/opinion/everyone-should-have-a-beard-20170121-3.md"
+  },
+  {
+   "slug": "hajj-subsidy-before-putting-the-muslim-community-in-the-dock-20170128-3",
+   "lang": "zh",
+   "category": "opinion",
+   "title": "朝觐补贴：在将穆斯林群体推向被告席之前",
+   "summary": "本文批判性地分析了通过取消朝觐补贴将穆斯林群体置于舆论风口浪尖的做法，并探讨了补贴背后的经济真相与政治动机。",
+   "author": "പി.വി.എ പ്രിംറോസ്‌",
+   "issue_date": "2017-01-28",
+   "html_url": "/zh/opinion/hajj-subsidy-before-putting-the-muslim-community-in-the-dock-20170128-3.html",
+   "md_url": "/zh/opinion/hajj-subsidy-before-putting-the-muslim-community-in-the-dock-20170128-3.md"
   },
   {
    "slug": "india-which-way-forward-20170325-2",
