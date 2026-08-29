@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T09:47:33.718889+00:00",
+ "generated_at": "2026-08-29T09:47:44.781532+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1564,
+ "count": 1565,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -3894,6 +3894,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/fa/story/grown-up-children-20170121-6.html",
    "md_url": "/fa/story/grown-up-children-20170121-6.md"
+  },
+  {
+   "slug": "laws-are-to-be-followed-20170128-5",
+   "lang": "fa",
+   "category": "story",
+   "title": "قوانین برای رعایت کردن هستند",
+   "summary": "داستانی کوتاه که در یک کلینیک دندانپزشکی در شهر سهیل آغاز می‌شود و اهمیت پایبندی به قوانین اجتماعی و راهنمایی و رانندگی را از طریق یک تجربه ساده و آموزنده به تصویر می‌کشد.",
+   "author": "ഉസ്‌മാൻ പാലക്കാഴ‍ി",
+   "issue_date": "2017-01-28",
+   "html_url": "/fa/story/laws-are-to-be-followed-20170128-5.html",
+   "md_url": "/fa/story/laws-are-to-be-followed-20170128-5.md"
   },
   {
    "slug": "the-fruit-of-ingratitude-20170121-7",
