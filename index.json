@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T07:43:27.906128+00:00",
+ "generated_at": "2026-08-29T07:43:43.417326+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1135,
+ "count": 1136,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -1111,6 +1111,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/as/youth/what-will-the-waste-do-20170114-5.html",
    "md_url": "/as/youth/what-will-the-waste-do-20170114-5.md"
+  },
+  {
+   "slug": "do-not-waver-in-trials-20170121-9",
+   "lang": "bn",
+   "category": "dawah",
+   "title": "পরীক্ষায় বিচলিত হবেন না",
+   "summary": "কঠিন পরীক্ষার মুখেও বিচলিত না হয়ে জান্নাত লাভ করা নবীগণের জীবন থেকে শিক্ষা গ্রহণ। দারিদ্র্য ও প্রাচুর্য—উভয় অবস্থাতেই অটল থাকার গুরুত্ব এখানে আলোচনা করা হয়েছে।",
+   "author": "മെഹബൂബ്‌ മദനി ഒറ്റപ്പാലം",
+   "issue_date": "2017-01-21",
+   "html_url": "/bn/dawah/do-not-waver-in-trials-20170121-9.html",
+   "md_url": "/bn/dawah/do-not-waver-in-trials-20170121-9.md"
   },
   {
    "slug": "live-knowing-the-value-of-time-20170114-8",
