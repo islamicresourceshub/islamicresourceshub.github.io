@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T09:31:30.720872+00:00",
+ "generated_at": "2026-08-29T09:31:47.019353+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1509,
+ "count": 1510,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -13959,6 +13959,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/te/opinion/everyone-should-have-a-beard-20170121-3.html",
    "md_url": "/te/opinion/everyone-should-have-a-beard-20170121-3.md"
+  },
+  {
+   "slug": "hajj-subsidy-before-putting-the-muslim-community-in-the-dock-20170128-3",
+   "lang": "te",
+   "category": "opinion",
+   "title": "హజ్ సబ్సిడీ: ముస్లిం సమాజాన్ని దోషులుగా నిలబెట్టే ముందు",
+   "summary": "హజ్ సబ్సిడీ రద్దు పేరుతో ముస్లిం సమాజాన్ని నిరంతరం విమర్శలకు గురిచేసే ధోరణిని ఈ వ్యాసం విశ్లేషిస్తుంది. సబ్సిడీ వెనుక ఉన్న వాస్తవాలు, ఎయిర్ ఇండియా ప్రయోజనాలు మరియు మతపరమైన యాత్రల పట్ల ప్రభుత్వ విధానాలను ఇది చర్చిస్తుంది.",
+   "author": "പി.വി.എ പ്രിംറോസ്‌",
+   "issue_date": "2017-01-28",
+   "html_url": "/te/opinion/hajj-subsidy-before-putting-the-muslim-community-in-the-dock-20170128-3.html",
+   "md_url": "/te/opinion/hajj-subsidy-before-putting-the-muslim-community-in-the-dock-20170128-3.md"
   },
   {
    "slug": "india-which-way-forward-20170325-2",
