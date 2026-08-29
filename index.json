@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T08:29:37.202399+00:00",
+ "generated_at": "2026-08-29T08:29:50.396448+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1305,
+ "count": 1306,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -8558,6 +8558,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/ne/opinion/terrorism-and-religious-freedom-20170114-1.html",
    "md_url": "/ne/opinion/terrorism-and-religious-freedom-20170114-1.md"
+  },
+  {
+   "slug": "the-shackles-of-consumerist-culture-20170121-13",
+   "lang": "ne",
+   "category": "opinion",
+   "title": "उपभोग संस्कृतिको पासो",
+   "summary": "यो लेखले उपभोग संस्कृतिको चपेटामा परेको आधुनिक जीवनशैलीको आलोचनात्मक विश्लेषण गर्दछ। यसले भौतिक विलासिताको पछि लाग्दा मानिसले भोग्नुपर्ने आध्यात्मिक दरिद्रता र ऋणको दुष्चक्रबारे प्रकाश पार्छ।",
+   "author": "കുഞ്ഞിമുഹമ്മദ്‌ മദനി പറപ്പൂർ",
+   "issue_date": "2017-01-21",
+   "html_url": "/ne/opinion/the-shackles-of-consumerist-culture-20170121-13.html",
+   "md_url": "/ne/opinion/the-shackles-of-consumerist-culture-20170121-13.md"
   },
   {
    "slug": "uapa-wielding-sedition-law-20170114-9",
