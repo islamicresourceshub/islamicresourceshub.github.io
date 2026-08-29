@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T10:05:53.931581+00:00",
+ "generated_at": "2026-08-29T10:06:17.142014+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1637,
+ "count": 1638,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -1881,6 +1881,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/bn/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.html",
    "md_url": "/bn/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.md"
+  },
+  {
+   "slug": "what-to-beware-of-when-taking-sides-20170128-7",
+   "lang": "bn",
+   "category": "quran",
+   "title": "পক্ষাবলম্বন করার ক্ষেত্রে যা লক্ষ্য রাখা জরুরি",
+   "summary": "কুরআন মাজীদের ৪৩:৬৭ আয়াতের আলোকে দল বা পক্ষ বেছে নেওয়ার ক্ষেত্রে এবং পারস্পরিক ভালোবাসার সম্পর্ক বজায় রাখার ক্ষেত্রে সতর্কতা অবলম্বনের গুরুত্ব আলোচনা করা হয়েছে।",
+   "author": "അബൂ അമീൻ",
+   "issue_date": "2017-01-28",
+   "html_url": "/bn/quran/what-to-beware-of-when-taking-sides-20170128-7.html",
+   "md_url": "/bn/quran/what-to-beware-of-when-taking-sides-20170128-7.md"
   },
   {
    "slug": "prophets-and-trials-20170325-7",
