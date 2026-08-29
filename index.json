@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T07:55:35.197170+00:00",
+ "generated_at": "2026-08-29T07:56:18.779732+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1177,
+ "count": 1178,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -2530,6 +2530,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/es/opinion/muslim-extremists-defame-islam-20170114-7.html",
    "md_url": "/es/opinion/muslim-extremists-defame-islam-20170114-7.md"
+  },
+  {
+   "slug": "salafi-preaching-a-theoretical-analysis-20170121-10",
+   "lang": "es",
+   "category": "opinion",
+   "title": "La predicación salafista: Un análisis teórico",
+   "summary": "Un análisis teórico sobre la predicación salafista, examinando el modelo de los Muhajirun y los Ansar a la luz de los versículos coránicos y la tradición profética.",
+   "author": "ശൈഖ് നാസ്വിറുദ്ദീന്‍ അല്‍ബാനി (വിവര്‍ത്തനം: ശമീര്‍ മദീനി)",
+   "issue_date": "2017-01-21",
+   "html_url": "/es/opinion/salafi-preaching-a-theoretical-analysis-20170121-10.html",
+   "md_url": "/es/opinion/salafi-preaching-a-theoretical-analysis-20170121-10.md"
   },
   {
    "slug": "terrorism-and-religious-freedom-20170114-1",
