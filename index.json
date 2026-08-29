@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T08:47:45.594167+00:00",
+ "generated_at": "2026-08-29T08:48:03.894724+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1373,
+ "count": 1374,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -4345,6 +4345,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/ha/hadith/control-your-mind-20170325-3.html",
    "md_url": "/ha/hadith/control-your-mind-20170325-3.md"
+  },
+  {
+   "slug": "e-writing-is-not-mere-writing-20170121-15",
+   "lang": "ha",
+   "category": "opinion",
+   "title": "Rubutu a yanar gizo ba rubutu ne kawai ba",
+   "summary": "Wannan labarin yana tattauna mahimmancin rubutu a zamanin dijital da kuma tasirinsa a cikin al'umma. Yana kuma nazarin yadda kafafen yada labarai ke tasiri wajen karkatar da gaskiya da kuma bukatar musulmi su shiga fagen rubutu don kare addininsu.",
+   "author": "അബ്ദുല്ല ബാസിൽ സി.പി",
+   "issue_date": "2017-01-21",
+   "html_url": "/ha/opinion/e-writing-is-not-mere-writing-20170121-15.html",
+   "md_url": "/ha/opinion/e-writing-is-not-mere-writing-20170121-15.md"
   },
   {
    "slug": "elections-the-stand-must-be-well-considered-20170325-10",
