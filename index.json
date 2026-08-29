@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T09:49:10.477955+00:00",
+ "generated_at": "2026-08-29T09:49:23.898823+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1573,
+ "count": 1574,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -7634,6 +7634,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/ko/story/grown-up-children-20170121-6.html",
    "md_url": "/ko/story/grown-up-children-20170121-6.md"
+  },
+  {
+   "slug": "laws-are-to-be-followed-20170128-5",
+   "lang": "ko",
+   "category": "story",
+   "title": "법은 지키기 위해 있는 것이다",
+   "summary": "수하일이 마을 치과에서 겪은 일화를 통해, 비가 오는 날에도 교통 신호를 지키는 친구의 모습을 보며 규칙 준수의 중요성을 깨닫는 이야기입니다.",
+   "author": "ഉസ്‌മാൻ പാലക്കാഴ‍ി",
+   "issue_date": "2017-01-28",
+   "html_url": "/ko/story/laws-are-to-be-followed-20170128-5.html",
+   "md_url": "/ko/story/laws-are-to-be-followed-20170128-5.md"
   },
   {
    "slug": "the-fruit-of-ingratitude-20170121-7",
