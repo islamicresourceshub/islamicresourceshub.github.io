@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T08:33:20.221581+00:00",
+ "generated_at": "2026-08-29T08:33:34.476303+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1321,
+ "count": 1322,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -13981,6 +13981,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/uz/opinion/terrorism-and-religious-freedom-20170114-1.html",
    "md_url": "/uz/opinion/terrorism-and-religious-freedom-20170114-1.md"
+  },
+  {
+   "slug": "the-shackles-of-consumerist-culture-20170121-13",
+   "lang": "uz",
+   "category": "opinion",
+   "title": "Iste'mol madaniyatining kishanlari",
+   "summary": "Ushbu maqola iste'mol madaniyati domiga tushib qolgan zamonaviy hayotni tanqidiy tahlil qiladi. U insonning bugungi kunda boshdan kechirayotgan ma'naviy qashshoqligi va qarzga botib qolish xavfi haqida so'z yuritadi.",
+   "author": "കുഞ്ഞിമുഹമ്മദ്‌ മദനി പറപ്പൂർ",
+   "issue_date": "2017-01-21",
+   "html_url": "/uz/opinion/the-shackles-of-consumerist-culture-20170121-13.html",
+   "md_url": "/uz/opinion/the-shackles-of-consumerist-culture-20170121-13.md"
   },
   {
    "slug": "uapa-wielding-sedition-law-20170114-9",
