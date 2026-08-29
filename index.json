@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T08:59:26.248928+00:00",
+ "generated_at": "2026-08-29T08:59:39.796943+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1410,
+ "count": 1411,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -3938,6 +3938,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/gu/dawah/live-knowing-the-value-of-time-20170114-8.html",
    "md_url": "/gu/dawah/live-knowing-the-value-of-time-20170114-8.md"
+  },
+  {
+   "slug": "muslims-in-a-pluralistic-society-20170128-1",
+   "lang": "gu",
+   "category": "dawah",
+   "title": "બહુલવાદી સમાજમાં મુસ્લિમ",
+   "summary": "બિન-ઇસ્લામિક સમુદાયો સાથે સદ્ભાવનાથી રહેવા અંગેનો કુરાની અભ્યાસ. આ 'આતંકવાદને ધિક્કારતો ધર્મ' શ્રેણીનો બીજો ભાગ છે.",
+   "author": "അൻവർ അബൂബക്കർ",
+   "issue_date": "2017-01-28",
+   "html_url": "/gu/dawah/muslims-in-a-pluralistic-society-20170128-1.html",
+   "md_url": "/gu/dawah/muslims-in-a-pluralistic-society-20170128-1.md"
   },
   {
    "slug": "prayer-that-is-worship-20170325-6",
