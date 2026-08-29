@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T08:11:01.640270+00:00",
+ "generated_at": "2026-08-29T08:11:12.294078+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1233,
+ "count": 1234,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -9526,6 +9526,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/ru/dawah/stand-tall-20170121-8.html",
    "md_url": "/ru/dawah/stand-tall-20170121-8.md"
+  },
+  {
+   "slug": "the-message-of-equality-20170121-11",
+   "lang": "ru",
+   "category": "dawah",
+   "title": "Послание равенства",
+   "summary": "Статья, анализирующая послание о равенстве, переданное Пророком (мир ему и благословение Аллаха). В ней обсуждается актуальность хадиса о том, что все люди происходят от Адама, и рассматриваются принципы всеобщего равенства в исламе.",
+   "author": "അബൂ മുർശിദ",
+   "issue_date": "2017-01-21",
+   "html_url": "/ru/dawah/the-message-of-equality-20170121-11.html",
+   "md_url": "/ru/dawah/the-message-of-equality-20170121-11.md"
   },
   {
    "slug": "don-t-worry-allah-is-with-you-20170114-10",
