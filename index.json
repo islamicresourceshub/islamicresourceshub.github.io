@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T04:17:12.626445+00:00",
+ "generated_at": "2026-08-29T04:17:29.165647+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1055,
+ "count": 1056,
  "articles": [
   {
    "slug": "live-knowing-the-value-of-time-20170114-8",
@@ -462,6 +462,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/am/story/grown-up-children-20170121-6.html",
    "md_url": "/am/story/grown-up-children-20170121-6.md"
+  },
+  {
+   "slug": "the-fruit-of-ingratitude-20170121-7",
+   "lang": "am",
+   "category": "story",
+   "title": "የምስጋና ቢስነት ውጤት",
+   "summary": "ለድሆች የሚረዳ ለጋስ ገበሬ ታሪክ። የምስጋና ቢስነትን መጥፎ ውጤት የሚያስታውስ አስተማሪ ታሪክ።",
+   "author": "അബൂറാഷിദ",
+   "issue_date": "2017-01-21",
+   "html_url": "/am/story/the-fruit-of-ingratitude-20170121-7.html",
+   "md_url": "/am/story/the-fruit-of-ingratitude-20170121-7.md"
   },
   {
    "slug": "an-agenda-is-needed-during-vacation-too-20170325-1",
