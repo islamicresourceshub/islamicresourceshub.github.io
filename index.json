@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T08:52:24.117746+00:00",
+ "generated_at": "2026-08-29T08:52:45.081841+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1389,
+ "count": 1390,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -11451,6 +11451,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/so/hadith/control-your-mind-20170325-3.html",
    "md_url": "/so/hadith/control-your-mind-20170325-3.md"
+  },
+  {
+   "slug": "e-writing-is-not-mere-writing-20170121-15",
+   "lang": "so",
+   "category": "opinion",
+   "title": "Qoraalka elektaroonigga ah ma aha qoraal caadi ah",
+   "summary": "Maqaalkani wuxuu ka hadlayaa muhiimadda qoraalka ee xilliga dhijitaalka ah iyo saameynta ay warbaahintu ku leedahay bulshada. Waxa uu si qoto dheer u falanqeynayaa sida warbaahinta casriga ah iyo baraha bulshadu u beddeleen qaabka loo baahiyo runta iyo been-abuurka.",
+   "author": "അബ്ദുല്ല ബാസിൽ സി.പി",
+   "issue_date": "2017-01-21",
+   "html_url": "/so/opinion/e-writing-is-not-mere-writing-20170121-15.html",
+   "md_url": "/so/opinion/e-writing-is-not-mere-writing-20170121-15.md"
   },
   {
    "slug": "elections-the-stand-must-be-well-considered-20170325-10",
