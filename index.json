@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T07:52:51.469969+00:00",
+ "generated_at": "2026-08-29T07:53:15.030388+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1168,
+ "count": 1169,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -12210,6 +12210,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/ur/youth/what-will-the-waste-do-20170114-5.html",
    "md_url": "/ur/youth/what-will-the-waste-do-20170114-5.md"
+  },
+  {
+   "slug": "do-not-waver-in-trials-20170121-9",
+   "lang": "uz",
+   "category": "dawah",
+   "title": "Sinovlarda qat'iyatli bo'ling",
+   "summary": "Ushbu maqolada og'ir sinovlarga qaramay, sabr va iymon bilan jannatga erishgan payg'ambarlar hayoti tahlil qilinadi. Qiyinchilik va farovonlikda Allohga bog'liq bo'lishning ahamiyati yoritiladi.",
+   "author": "മെഹബൂബ്‌ മദനി ഒറ്റപ്പാലം",
+   "issue_date": "2017-01-21",
+   "html_url": "/uz/dawah/do-not-waver-in-trials-20170121-9.html",
+   "md_url": "/uz/dawah/do-not-waver-in-trials-20170121-9.md"
   },
   {
    "slug": "live-knowing-the-value-of-time-20170114-8",
