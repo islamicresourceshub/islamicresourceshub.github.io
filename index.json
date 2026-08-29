@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T09:31:04.945897+00:00",
+ "generated_at": "2026-08-29T09:31:30.720872+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1508,
+ "count": 1509,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -13574,6 +13574,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/ta/opinion/everyone-should-have-a-beard-20170121-3.html",
    "md_url": "/ta/opinion/everyone-should-have-a-beard-20170121-3.md"
+  },
+  {
+   "slug": "hajj-subsidy-before-putting-the-muslim-community-in-the-dock-20170128-3",
+   "lang": "ta",
+   "category": "opinion",
+   "title": "ஹஜ் மானியம்: முஸ்லிம் சமூகத்தை கூண்டில் நிறுத்தும் முன்",
+   "summary": "ஹஜ் மானியத்தை ரத்து செய்வதன் மூலம் முஸ்லிம் சமூகத்தை மட்டும் குறிவைத்து விமர்சிக்கும் போக்கை இக்கட்டுரை விமர்சன ரீதியாக அலசுகிறது. மானியத்தின் பின்னணியில் உள்ள உண்மைகள் மற்றும் அரசியல் உள்நோக்கங்களை இது ஆதாரங்களுடன் விளக்குகிறது.",
+   "author": "പി.വി.എ പ്രിംറോസ്‌",
+   "issue_date": "2017-01-28",
+   "html_url": "/ta/opinion/hajj-subsidy-before-putting-the-muslim-community-in-the-dock-20170128-3.html",
+   "md_url": "/ta/opinion/hajj-subsidy-before-putting-the-muslim-community-in-the-dock-20170128-3.md"
   },
   {
    "slug": "india-which-way-forward-20170325-2",
