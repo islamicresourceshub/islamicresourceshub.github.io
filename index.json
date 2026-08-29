@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T07:59:45.469069+00:00",
+ "generated_at": "2026-08-29T08:00:03.980237+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1190,
+ "count": 1191,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -7865,6 +7865,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/ne/opinion/muslim-extremists-defame-islam-20170114-7.html",
    "md_url": "/ne/opinion/muslim-extremists-defame-islam-20170114-7.md"
+  },
+  {
+   "slug": "salafi-preaching-a-theoretical-analysis-20170121-10",
+   "lang": "ne",
+   "category": "opinion",
+   "title": "सलाफी दावाह: एक सैद्धांतिक विश्लेषण",
+   "summary": "यो लेख सलाफी दावाहको सैद्धांतिक पक्षको विश्लेषण गर्दछ। यसले कुरानिक आयतहरूको प्रकाशमा मुहाजिर र अन्सारहरूको मार्गलाई पछ्याउनुको महत्त्व र मुक्ति पाउने समूह (अल-फिरका अल-नाजिया) को पहिचानबारे चर्चा गर्दछ।",
+   "author": "ശൈഖ് നാസ്വിറുദ്ദീന്‍ അല്‍ബാനി (വിവര്‍ത്തനം: ശമീര്‍ മദീനി)",
+   "issue_date": "2017-01-21",
+   "html_url": "/ne/opinion/salafi-preaching-a-theoretical-analysis-20170121-10.html",
+   "md_url": "/ne/opinion/salafi-preaching-a-theoretical-analysis-20170121-10.md"
   },
   {
    "slug": "terrorism-and-religious-freedom-20170114-1",
