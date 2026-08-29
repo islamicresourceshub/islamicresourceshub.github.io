@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T04:30:20.213151+00:00",
+ "generated_at": "2026-08-29T04:30:48.510941+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1093,
+ "count": 1094,
  "articles": [
   {
    "slug": "live-knowing-the-value-of-time-20170114-8",
@@ -12221,6 +12221,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/zh/story/grown-up-children-20170121-6.html",
    "md_url": "/zh/story/grown-up-children-20170121-6.md"
+  },
+  {
+   "slug": "the-fruit-of-ingratitude-20170121-7",
+   "lang": "zh",
+   "category": "story",
+   "title": "忘恩负义的后果",
+   "summary": "一个乐善好施、经常帮助穷人的善良农夫的故事。这是一个警示人们忘恩负义之恶果的寓言故事。",
+   "author": "അബൂറാഷിദ",
+   "issue_date": "2017-01-21",
+   "html_url": "/zh/story/the-fruit-of-ingratitude-20170121-7.html",
+   "md_url": "/zh/story/the-fruit-of-ingratitude-20170121-7.md"
   },
   {
    "slug": "an-agenda-is-needed-during-vacation-too-20170325-1",
