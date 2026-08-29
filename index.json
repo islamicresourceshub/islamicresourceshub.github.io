@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T07:45:25.903893+00:00",
+ "generated_at": "2026-08-29T07:45:42.761560+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1142,
+ "count": 1143,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -3179,6 +3179,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/fr/youth/what-will-the-waste-do-20170114-5.html",
    "md_url": "/fr/youth/what-will-the-waste-do-20170114-5.md"
+  },
+  {
+   "slug": "do-not-waver-in-trials-20170121-9",
+   "lang": "gu",
+   "category": "dawah",
+   "title": "પરીક્ષણોમાં ડગમગશો નહીં",
+   "summary": "આ લેખમાં એવા પયગંબરોનું જીવન વિશ્લેષણ કરવામાં આવ્યું છે જેમણે કઠિન પરીક્ષણોમાં ડગમગ્યા વિના જન્નત પ્રાપ્ત કરી હતી. ગરીબી અને સમૃદ્ધિ બંને સ્થિતિમાં અડગ રહેવાનું મહત્વ સમજાવવામાં આવ્યું છે.",
+   "author": "മെഹബൂബ്‌ മദനി ഒറ്റപ്പാലം",
+   "issue_date": "2017-01-21",
+   "html_url": "/gu/dawah/do-not-waver-in-trials-20170121-9.html",
+   "md_url": "/gu/dawah/do-not-waver-in-trials-20170121-9.md"
   },
   {
    "slug": "live-knowing-the-value-of-time-20170114-8",
