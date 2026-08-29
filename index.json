@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T08:06:12.145244+00:00",
+ "generated_at": "2026-08-29T08:06:26.095343+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1211,
+ "count": 1212,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -913,6 +913,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/as/dawah/stand-tall-20170121-8.html",
    "md_url": "/as/dawah/stand-tall-20170121-8.md"
+  },
+  {
+   "slug": "the-message-of-equality-20170121-11",
+   "lang": "as",
+   "category": "dawah",
+   "title": "সাম্যৰ বাৰ্তা",
+   "summary": "নবী (ছাঃ)-ৰ সাম্যৰ বাৰ্তা বিশ্লেষণ কৰা এক প্ৰবন্ধ। সকলো মানুহ আদমৰ পৰা সৃষ্টি হোৱা বুলি কোৱা হাদীছৰ প্ৰাসংগিকতা আৰু সাৰ্বজনীন সমতাৰ বিষয়ে ইয়াত আলোচনা কৰা হৈছে।",
+   "author": "അബൂ മുർശിദ",
+   "issue_date": "2017-01-21",
+   "html_url": "/as/dawah/the-message-of-equality-20170121-11.html",
+   "md_url": "/as/dawah/the-message-of-equality-20170121-11.md"
   },
   {
    "slug": "don-t-worry-allah-is-with-you-20170114-10",
