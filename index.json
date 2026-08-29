@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T08:55:57.117353+00:00",
+ "generated_at": "2026-08-29T08:56:14.178213+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1401,
+ "count": 1402,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -242,6 +242,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/am/dawah/live-knowing-the-value-of-time-20170114-8.html",
    "md_url": "/am/dawah/live-knowing-the-value-of-time-20170114-8.md"
+  },
+  {
+   "slug": "muslims-in-a-pluralistic-society-20170128-1",
+   "lang": "am",
+   "category": "dawah",
+   "title": "ሙስሊሙ በብዙሃን ማህበረሰብ ውስጥ",
+   "summary": "ከእስልምና ውጪ ካሉ ማህበረሰቦች ጋር በበጎነት ስለመኖር የሚዳስስ የቁርአናዊ ትምህርት። ይህ 'አሸባሪነትን የሚጠላ ሃይማኖት' በሚል ርዕስ የቀረበው ተከታታይ ጽሁፍ ሁለተኛ ክፍል ነው።",
+   "author": "അൻവർ അബൂബക്കർ",
+   "issue_date": "2017-01-28",
+   "html_url": "/am/dawah/muslims-in-a-pluralistic-society-20170128-1.html",
+   "md_url": "/am/dawah/muslims-in-a-pluralistic-society-20170128-1.md"
   },
   {
    "slug": "prayer-that-is-worship-20170325-6",
