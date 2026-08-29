@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T09:06:02.956453+00:00",
+ "generated_at": "2026-08-29T09:06:17.746110+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1437,
+ "count": 1438,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -15323,6 +15323,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/vi/dawah/live-knowing-the-value-of-time-20170114-8.html",
    "md_url": "/vi/dawah/live-knowing-the-value-of-time-20170114-8.md"
+  },
+  {
+   "slug": "muslims-in-a-pluralistic-society-20170128-1",
+   "lang": "vi",
+   "category": "dawah",
+   "title": "Người Hồi giáo trong xã hội đa tôn giáo",
+   "summary": "Một nghiên cứu từ góc nhìn Kinh Qur'an về việc đối xử tử tế với những người không theo đạo Hồi. Đây là phần thứ hai trong loạt bài về tôn giáo bài trừ chủ nghĩa cực đoan.",
+   "author": "അൻവർ അബൂബക്കർ",
+   "issue_date": "2017-01-28",
+   "html_url": "/vi/dawah/muslims-in-a-pluralistic-society-20170128-1.html",
+   "md_url": "/vi/dawah/muslims-in-a-pluralistic-society-20170128-1.md"
   },
   {
    "slug": "prayer-that-is-worship-20170325-6",
