@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T10:03:26.913632+00:00",
+ "generated_at": "2026-08-29T10:03:51.606648+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1632,
+ "count": 1633,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -17589,6 +17589,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/vi/opinion/india-which-way-forward-20170325-2.html",
    "md_url": "/vi/opinion/india-which-way-forward-20170325-2.md"
+  },
+  {
+   "slug": "join-the-party-let-the-battle-begin-20170128-6",
+   "lang": "vi",
+   "category": "opinion",
+   "title": "Gia nhập đảng, khơi mào cuộc chiến",
+   "summary": "Một bài phân tích về sự cần thiết của sự can thiệp chính trị từ cộng đồng Hồi giáo trong bối cảnh các vụ giết người mang động cơ chính trị ở Kannur.",
+   "author": "ഡോ. സി.എം സാബിർ നവാസ്‌",
+   "issue_date": "2017-01-28",
+   "html_url": "/vi/opinion/join-the-party-let-the-battle-begin-20170128-6.html",
+   "md_url": "/vi/opinion/join-the-party-let-the-battle-begin-20170128-6.md"
   },
   {
    "slug": "muslim-extremists-defame-islam-20170114-7",
