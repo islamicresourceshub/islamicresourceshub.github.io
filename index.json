@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T08:53:02.680728+00:00",
+ "generated_at": "2026-08-29T08:53:22.712784+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1391,
+ "count": 1392,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -12177,6 +12177,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/sw/hadith/control-your-mind-20170325-3.html",
    "md_url": "/sw/hadith/control-your-mind-20170325-3.md"
+  },
+  {
+   "slug": "e-writing-is-not-mere-writing-20170121-15",
+   "lang": "sw",
+   "category": "opinion",
+   "title": "Uandishi wa kidijitali si uandishi wa kawaida tu",
+   "summary": "Makala hii inajadili umuhimu wa uandishi katika zama za kidijitali na athari zake za kijamii. Inachambua jinsi vyombo vya habari vinavyoweza kuathiri jamii na wajibu wa Waislamu katika kutumia nafasi hizi kwa ajili ya ukweli.",
+   "author": "അബ്ദുല്ല ബാസിൽ സി.പി",
+   "issue_date": "2017-01-21",
+   "html_url": "/sw/opinion/e-writing-is-not-mere-writing-20170121-15.html",
+   "md_url": "/sw/opinion/e-writing-is-not-mere-writing-20170121-15.md"
   },
   {
    "slug": "elections-the-stand-must-be-well-considered-20170325-10",
