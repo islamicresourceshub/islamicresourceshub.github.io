@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T06:55:54.693608+00:00",
+ "generated_at": "2026-08-29T07:06:31.492471+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1113,
+ "count": 1114,
  "articles": [
   {
    "slug": "live-knowing-the-value-of-time-20170114-8",
@@ -7293,6 +7293,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/ne/dawah/religion-is-fearlessness-20170114-6.html",
    "md_url": "/ne/dawah/religion-is-fearlessness-20170114-6.md"
+  },
+  {
+   "slug": "stand-tall-20170121-8",
+   "lang": "ne",
+   "category": "dawah",
+   "title": "सिधा उभिनुहोस्",
+   "summary": "सत्य विश्वास शक्तिको स्रोत हो भन्ने सन्देश दिने लेख। यसले प्रतिकूल परिस्थितिमा पनि नडगमगाई उच्च र दृढ रहनुको महत्त्व बताउँछ।",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2017-01-21",
+   "html_url": "/ne/dawah/stand-tall-20170121-8.html",
+   "md_url": "/ne/dawah/stand-tall-20170121-8.md"
   },
   {
    "slug": "don-t-worry-allah-is-with-you-20170114-10",
