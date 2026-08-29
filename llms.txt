@@ -67,6 +67,7 @@ Canonical language: ml (Malayalam)
 - Oʻzbek (uz): https://islamicresourceshub.github.io/uz/index.html
 
 ## Recent Articles (sample 30)
+- [በፈተናዎች ውስጥ እንዳትደናገጡ](https://islamicresourceshub.github.io/am/dawah/do-not-waver-in-trials-20170121-9.html): በከባድ ፈተናዎች ውስጥ ሳይደናገጡ ገነትን ያገኙ የነቢያት ህይወት ተተንትኗል። በድህነትም ሆነ በሀብት ጽኑ የመሆን አስፈላጊነት። — Markdown: https://islamicresourceshub.github.io/am/dawah/do-not-waver-in-trials-20170121-9.md
 - [የጊዜን ዋጋ ተረድቶ መኖር](https://islamicresourceshub.github.io/am/dawah/live-knowing-the-value-of-time-20170114-8.html): አንድ አፍታ ምን ሊያከናውን ይችላል ከሚለው ጥያቄ የሚነሳው ይህ ጽሑፍ፣ የጊዜን ዋጋ ተረድቶ መኖር ያለውን አስፈላጊነት ያብራራል። — Markdown: https://islamicresourceshub.github.io/am/dawah/live-knowing-the-value-of-time-20170114-8.md
 - [ዱዓ፡ እርሱ ነው አምልኮ](https://islamicresourceshub.github.io/am/dawah/prayer-that-is-worship-20170325-6.html): የሰው ልጅ ሕይወት ዋና ዓላማ እስልምና ባስተማረው መንገድ አምልኮን መፈጸም እንደሆነ የሚያብራራ ጽሑፍ። የዱዓን የአምልኮ ባሕርይ በቁርአን አንቀጾች መሠረት ይተነትናል። — Markdown: https://islamicresourceshub.github.io/am/dawah/prayer-that-is-worship-20170325-6.md
 - [ሃይማኖት ማለት ፍርሃት አልባነት ነው](https://islamicresourceshub.github.io/am/dawah/religion-is-fearlessness-20170114-6.html): ይህ መጣጥፍ በተለያዩ የዓለም ሃይማኖቶች ዳራ ውስጥ፣ እስልምና እንዴት ለሰው ልጅ ፍርሃት አልባነትን እና ሰላምን እንደሚያጎናጽፍ ይዳስሳል። — Markdown: https://islamicresourceshub.github.io/am/dawah/religion-is-fearlessness-20170114-6.md
@@ -96,7 +97,6 @@ Canonical language: ml (Malayalam)
 - [عش مدركاً لقيمة الوقت](https://islamicresourceshub.github.io/ar/dawah/live-knowing-the-value-of-time-20170114-8.html): مقال يبدأ بالتساؤل عما يمكن إنجازه في لحظة واحدة، ويوضح أهمية إدراك قيمة الوقت في حياة الإنسان وكيفية استثماره. — Markdown: https://islamicresourceshub.github.io/ar/dawah/live-knowing-the-value-of-time-20170114-8.md
 - [الدعاء: هو العبادة](https://islamicresourceshub.github.io/ar/dawah/prayer-that-is-worship-20170325-6.html): مقال يؤكد أن الهدف الأسمى من حياة الإنسان هو إقامة العبادات وفق المنهج الذي علمه الإسلام، ويوضح الطبيعة التعبدية للدعاء استناداً إلى الآيات القرآنية. — Markdown: https://islamicresourceshub.github.io/ar/dawah/prayer-that-is-worship-20170325-6.md
 - [الدين هو الأمان](https://islamicresourceshub.github.io/ar/dawah/religion-is-fearlessness-20170114-6.html): مقال يتناول مفهوم الأمان في الإسلام مقارنة بالأديان الأخرى، وكيف يرسخ الإسلام قيم الطمأنينة والعدل والسكينة في حياة الفرد والمجتمع. — Markdown: https://islamicresourceshub.github.io/ar/dawah/religion-is-fearlessness-20170114-6.md
-- [قف شامخًا](https://islamicresourceshub.github.io/ar/dawah/stand-tall-20170121-8.html): مقال ينقل رسالة مفادها أن الإيمان الحقيقي هو مصدر القوة، ويوضح أهمية الثبات والشموخ في مواجهة الصعاب دون زعزعة. — Markdown: https://islamicresourceshub.github.io/ar/dawah/stand-tall-20170121-8.md
 
 ## Usage
 - Prefer .md URLs for training / RAG - they are cleaner than HTML.
