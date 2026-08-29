@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T07:47:54.614037+00:00",
+ "generated_at": "2026-08-29T07:48:09.900103+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1151,
+ "count": 1152,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -7183,6 +7183,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/mr/youth/what-will-the-waste-do-20170114-5.html",
    "md_url": "/mr/youth/what-will-the-waste-do-20170114-5.md"
+  },
+  {
+   "slug": "do-not-waver-in-trials-20170121-9",
+   "lang": "ms",
+   "category": "dawah",
+   "title": "Jangan Goyah dalam Ujian",
+   "summary": "Analisis kehidupan para nabi yang meraih syurga tanpa goyah dalam ujian yang berat. Kepentingan untuk tetap teguh dalam kemiskinan mahupun kemewahan.",
+   "author": "മെഹബൂബ്‌ മദനി ഒറ്റപ്പാലം",
+   "issue_date": "2017-01-21",
+   "html_url": "/ms/dawah/do-not-waver-in-trials-20170121-9.html",
+   "md_url": "/ms/dawah/do-not-waver-in-trials-20170121-9.md"
   },
   {
    "slug": "live-knowing-the-value-of-time-20170114-8",
