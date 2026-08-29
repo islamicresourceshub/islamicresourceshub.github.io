@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T07:07:50.030464+00:00",
+ "generated_at": "2026-08-29T07:08:23.025076+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1116,
+ "count": 1117,
  "articles": [
   {
    "slug": "live-knowing-the-value-of-time-20170114-8",
@@ -8151,6 +8151,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/ps/dawah/religion-is-fearlessness-20170114-6.html",
    "md_url": "/ps/dawah/religion-is-fearlessness-20170114-6.md"
+  },
+  {
+   "slug": "stand-tall-20170121-8",
+   "lang": "ps",
+   "category": "dawah",
+   "title": "په پښو ودریږئ",
+   "summary": "دا مقاله دا پیغام ورکوي چې رښتینی ایمان د ځواک سرچینه ده. دا په سختو شرایطو کې هم د نه متزلزل کیدو او سر لوړ ساتلو اهمیت بیانوي.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2017-01-21",
+   "html_url": "/ps/dawah/stand-tall-20170121-8.html",
+   "md_url": "/ps/dawah/stand-tall-20170121-8.md"
   },
   {
    "slug": "don-t-worry-allah-is-with-you-20170114-10",
