@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T08:45:07.034742+00:00",
+ "generated_at": "2026-08-29T08:45:24.039667+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1363,
+ "count": 1364,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -726,6 +726,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/ar/hadith/control-your-mind-20170325-3.html",
    "md_url": "/ar/hadith/control-your-mind-20170325-3.md"
+  },
+  {
+   "slug": "e-writing-is-not-mere-writing-20170121-15",
+   "lang": "ar",
+   "category": "opinion",
+   "title": "الكتابة الإلكترونية ليست مجرد كتابة",
+   "summary": "يتناول هذا المقال أهمية الكتابة في العصر الرقمي وتأثيراتها الاجتماعية، مع تحليل دور الإعلام في تشكيل الرأي العام وكيفية مواجهة التضليل الإعلامي والحملات الممنهجة ضد الإسلام في الفضاء الإلكتروني.",
+   "author": "അബ്ദുല്ല ബാസിൽ സി.പി",
+   "issue_date": "2017-01-21",
+   "html_url": "/ar/opinion/e-writing-is-not-mere-writing-20170121-15.html",
+   "md_url": "/ar/opinion/e-writing-is-not-mere-writing-20170121-15.md"
   },
   {
    "slug": "elections-the-stand-must-be-well-considered-20170325-10",
