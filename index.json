@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T09:22:33.012291+00:00",
+ "generated_at": "2026-08-29T09:22:50.726026+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1482,
+ "count": 1483,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -2013,6 +2013,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/bs/opinion/everyone-should-have-a-beard-20170121-3.html",
    "md_url": "/bs/opinion/everyone-should-have-a-beard-20170121-3.md"
+  },
+  {
+   "slug": "hajj-subsidy-before-putting-the-muslim-community-in-the-dock-20170128-3",
+   "lang": "bs",
+   "category": "opinion",
+   "title": "Subvencija za hadž: Prije nego što muslimansku zajednicu stavite na optuženičku klupu",
+   "summary": "Ovaj članak kritički analizira pristup stavljanja muslimanske zajednice na optuženičku klupu kroz ukidanje subvencija za hadž, istražujući historijsku pozadinu i skrivene ekonomske interese iza ove politike.",
+   "author": "പി.വി.എ പ്രിംറോസ്‌",
+   "issue_date": "2017-01-28",
+   "html_url": "/bs/opinion/hajj-subsidy-before-putting-the-muslim-community-in-the-dock-20170128-3.html",
+   "md_url": "/bs/opinion/hajj-subsidy-before-putting-the-muslim-community-in-the-dock-20170128-3.md"
   },
   {
    "slug": "india-which-way-forward-20170325-2",
