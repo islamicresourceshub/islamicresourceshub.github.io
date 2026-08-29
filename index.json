@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T09:53:30.830857+00:00",
+ "generated_at": "2026-08-29T09:53:42.714332+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1594,
+ "count": 1595,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -17721,6 +17721,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/zh/story/grown-up-children-20170121-6.html",
    "md_url": "/zh/story/grown-up-children-20170121-6.md"
+  },
+  {
+   "slug": "laws-are-to-be-followed-20170128-5",
+   "lang": "zh",
+   "category": "story",
+   "title": "规则就是用来遵守的",
+   "summary": "这是一个发生在苏海尔镇牙科诊所的故事。通过一个关于交通规则的小插曲，阐述了遵守规则对于保障生命安全和社会秩序的重要性。",
+   "author": "ഉസ്‌മാൻ പാലക്കാഴ‍ി",
+   "issue_date": "2017-01-28",
+   "html_url": "/zh/story/laws-are-to-be-followed-20170128-5.html",
+   "md_url": "/zh/story/laws-are-to-be-followed-20170128-5.md"
   },
   {
    "slug": "the-fruit-of-ingratitude-20170121-7",
