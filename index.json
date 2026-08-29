@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T08:10:11.059911+00:00",
+ "generated_at": "2026-08-29T08:10:26.242026+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1229,
+ "count": 1230,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -8272,6 +8272,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/or/dawah/stand-tall-20170121-8.html",
    "md_url": "/or/dawah/stand-tall-20170121-8.md"
+  },
+  {
+   "slug": "the-message-of-equality-20170121-11",
+   "lang": "or",
+   "category": "dawah",
+   "title": "ସମାନତାର ବାର୍ତ୍ତା",
+   "summary": "ଏହି ପ୍ରବନ୍ଧଟି ନବୀ (ସ.)ଙ୍କ ସମାନତାର ବାର୍ତ୍ତାକୁ ବିଶ୍ଳେଷଣ କରେ। ସମସ୍ତ ମଣିଷ ଆଦମଙ୍କଠାରୁ ସୃଷ୍ଟି ହୋଇଛନ୍ତି ବୋଲି ହଦୀସର ପ୍ରାସଙ୍ଗିକତା ଏବଂ ବିଶ୍ୱଜନୀନ ସମାନତା ବିଷୟରେ ଏଥିରେ ଆଲୋଚନା କରାଯାଇଛି।",
+   "author": "അബൂ മുർശിദ",
+   "issue_date": "2017-01-21",
+   "html_url": "/or/dawah/the-message-of-equality-20170121-11.html",
+   "md_url": "/or/dawah/the-message-of-equality-20170121-11.md"
   },
   {
    "slug": "don-t-worry-allah-is-with-you-20170114-10",
