@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T09:51:15.896000+00:00",
+ "generated_at": "2026-08-29T09:51:30.215935+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1583,
+ "count": 1584,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -13134,6 +13134,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/so/story/grown-up-children-20170121-6.html",
    "md_url": "/so/story/grown-up-children-20170121-6.md"
+  },
+  {
+   "slug": "laws-are-to-be-followed-20170128-5",
+   "lang": "so",
+   "category": "story",
+   "title": "Xeerarka waa in la raacaa",
+   "summary": "Sheeko ka bilaabmaysa rug caafimaad oo ku taal magaalada Suhail, taas oo tusaale u ah muhiimadda ay leedahay in la raaco xeerarka iyo nidaamka nolol maalmeedka.",
+   "author": "ഉസ്‌മാൻ പാലക്കാഴ‍ി",
+   "issue_date": "2017-01-28",
+   "html_url": "/so/story/laws-are-to-be-followed-20170128-5.html",
+   "md_url": "/so/story/laws-are-to-be-followed-20170128-5.md"
   },
   {
    "slug": "the-fruit-of-ingratitude-20170121-7",
