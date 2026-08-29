@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T08:45:24.039667+00:00",
+ "generated_at": "2026-08-29T08:45:45.556595+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1364,
+ "count": 1365,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -1089,6 +1089,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/as/hadith/control-your-mind-20170325-3.html",
    "md_url": "/as/hadith/control-your-mind-20170325-3.md"
+  },
+  {
+   "slug": "e-writing-is-not-mere-writing-20170121-15",
+   "lang": "as",
+   "category": "opinion",
+   "title": "ই-লিখন কেৱল লিখনেই নহয়",
+   "summary": "ডিজিটেল যুগত লিখনীৰ গুৰুত্ব আৰু ইয়াৰ সামাজিক প্ৰভাৱৰ ওপৰত আলোকপাত কৰা এক প্ৰবন্ধ। মূলসুঁতিৰ সংবাদ মাধ্যমৰ বাতৰিৰ প্ৰভাৱ আৰু ই-মাধ্যমৰ ভূমিকা ইয়াত বিশ্লেষণ কৰা হৈছে।",
+   "author": "അബ്ദുല്ല ബാസിൽ സി.പി",
+   "issue_date": "2017-01-21",
+   "html_url": "/as/opinion/e-writing-is-not-mere-writing-20170121-15.html",
+   "md_url": "/as/opinion/e-writing-is-not-mere-writing-20170121-15.md"
   },
   {
    "slug": "elections-the-stand-must-be-well-considered-20170325-10",
