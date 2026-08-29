@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T04:30:48.510941+00:00",
+ "generated_at": "2026-08-29T04:31:17.978422+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1094,
+ "count": 1095,
  "articles": [
   {
    "slug": "live-knowing-the-value-of-time-20170114-8",
@@ -253,6 +253,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/am/dawah/religion-is-fearlessness-20170114-6.html",
    "md_url": "/am/dawah/religion-is-fearlessness-20170114-6.md"
+  },
+  {
+   "slug": "stand-tall-20170121-8",
+   "lang": "am",
+   "category": "dawah",
+   "title": "ቀጥ ብሎ መቆም",
+   "summary": "እውነተኛ እምነት የጥንካሬ ምንጭ መሆኑን የሚያበስር ጽሑፍ። በአስቸጋሪ ሁኔታዎች ውስጥ እንኳ ሳይናወጡ በፅናትና በልዕልና መቆም ያለውን አስፈላጊነት ያብራራል።",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2017-01-21",
+   "html_url": "/am/dawah/stand-tall-20170121-8.html",
+   "md_url": "/am/dawah/stand-tall-20170121-8.md"
   },
   {
    "slug": "don-t-worry-allah-is-with-you-20170114-10",
