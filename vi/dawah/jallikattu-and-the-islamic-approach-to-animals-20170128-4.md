@@ -1,0 +1,107 @@
+---
+title: Jallikattu và cách tiếp cận của Hồi giáo đối với động vật
+author: അബ്ദുൽ മാലിക്‌ സലഫി
+lang: vi
+category: dawah
+kind: article
+tags:
+- animals
+- jallikattu
+- mercy
+- islam
+- ethics
+summary: Bài viết này giải thích quan điểm của Hồi giáo đối với động vật thông qua vấn đề Jallikattu. Nó nhấn mạnh tầm quan trọng của lòng trắc ẩn và sự tử tế đối với mọi tạo vật của Allah.
+source:
+  magazine: Nerpatham Weekly
+  issue_date: '2017-01-28'
+  pdf_url: http://nerpatham.com/vol-no-01/images/archives/Nerpatham-2017Jan28.pdf
+date_processed: '2026-08-27T10:14:54Z'
+slug: jallikattu-and-the-islamic-approach-to-animals-20170128-4
+translation_of: jallikattu-and-the-islamic-approach-to-animals-20170128-4
+---
+
+![](/assets/jallikattu-and-the-islamic-approach-to-animals-20170128-4/28Jan17-04.jpg)
+
+## Mọi sinh vật đều xứng đáng được đối xử nhân từ
+
+Tất cả các sinh vật sống trên thế giới này đều xứng đáng được đối xử nhân từ, bởi vì chúng đều là những tạo vật của **Allah**. **Hồi giáo**, tôn giáo của vị Allah đầy lòng trắc ẩn, đã quy định quyền lợi cho từng tạo vật. Sự thật là không có tôn giáo nào khác quan tâm đến vấn đề này một cách thấu đáo như Hồi giáo.
+
+## Trong bối cảnh những tranh cãi về Jallikattu
+
+Trong bối cảnh lễ hội **Jallikattu** diễn ra như một phần của lễ hội Pongal ở Tamil Nadu gây ra nhiều tranh cãi, bài viết này thảo luận về cách tiếp cận của Hồi giáo đối với động vật.
+
+Đây là một nghi lễ được cho là đã tồn tại từ khoảng năm 400-100 TCN, hiện đang trở thành tâm điểm tranh cãi thông qua các phán quyết của tòa án và các lệnh triệu tập.
+
+Mặc dù nhiều tổ chức bảo vệ động vật đã lên tiếng chống lại sự tàn ác này, nhưng không mang lại kết quả đáng kể nào. Sau hai năm gián đoạn, Jallikattu đã diễn ra trên khắp Tamil Nadu vào ngày 22 tháng 1 vừa qua. Sau khi **Tòa án Tối cao** cấm vào năm 2014, Jallikattu đã không được tổ chức trong hai năm qua. Mặc dù chính phủ trung ương đã cấp phép thông qua một sắc lệnh đặc biệt vào năm ngoái, nhưng Tòa án Tối cao đã ngăn chặn nó sau đơn kiến nghị từ tổ chức phúc lợi động vật `PETA`.
+
+Tuy nhiên, năm nay tình hình đã thay đổi. Sau các cuộc biểu tình mạnh mẽ của sinh viên và thanh niên, Thống đốc đã phê duyệt một sắc lệnh đặc biệt. Tổng thống, Thủ tướng và Chính phủ Trung ương đã dành sự ủng hộ hoàn toàn cho các động thái của Chính phủ Tamil Nadu. Với việc sửa đổi Đạo luật Trung ương năm 1960 về ngăn chặn sự tàn ác đối với động vật, dự luật mới do Thủ hiến Tamil Nadu **O. Panneerselvam** trình bày đã được thông qua tại Quốc hội vào ngày 23 tháng 1 năm 2017, khiến cho việc chấm dứt nghi lễ này về mặt pháp lý trở nên không thể.
+
+Thế giới đã chứng kiến những nhà lãnh đạo và những người ủng hộ bám víu vào cái gọi là "truyền thống" để biện minh cho sự tàn ác này. Jallikattu không chỉ là hành vi ngược đãi động vật, mà còn là một `trò tiêu khiển` mang tính tự sát. Một trò chơi nguy hiểm dẫn đến cái chết và thương tật cho con người!
+
+Ở đây, Hồi giáo có những điều cần nói. Là tôn giáo của lòng trắc ẩn, mọi quan điểm và góc nhìn của Hồi giáo trong bất kỳ lĩnh vực nào cũng đều dựa trên sự tử tế và đồng cảm.
+
+## Quyền của sinh vật trong Kinh Qur'an
+
+Tất cả các sinh vật trên trái đất đều có quyền sống ở đây giống như con người. Hãy xem Kinh **Qur'an** thánh thiện nói gì:
+
+> "Không có một sinh vật nào trên trái đất, không có một con chim nào bay bằng hai cánh, mà không phải là những cộng đồng giống như các ngươi" (6:38).
+
+Allah cũng nhắc nhở rằng tất cả các sinh vật này đều đang tôn vinh và dâng lời ca tụng Allah, Đấng tạo hóa của chúng:
+
+> "Ngươi không thấy rằng tất cả những gì ở trong các tầng trời và trái đất, và cả những con chim đang dang rộng đôi cánh, đều tôn vinh Allah sao? Mỗi loài đều biết cách cầu nguyện và ca tụng Ngài. Và Allah biết rõ những gì chúng làm" (24:41).
+
+Vì vậy, tất cả các sinh vật đang sống trên trái đất này đều nhận thức được Allah và sống bằng cách dâng lời ca tụng Ngài. Hồi giáo không cho phép làm hại hoặc giết hại chúng một cách vô cớ.
+
+Kinh Qur'an cũng đưa ra quan điểm rằng các nguồn tài nguyên trên trái đất cũng thuộc về chúng:
+
+> "Sau đó, Ngài trải rộng trái đất. Ngài làm cho nước và cây cối từ đó xuất hiện. Và Ngài đã dựng đứng các ngọn núi, để làm lợi ích cho các ngươi và gia súc của các ngươi" (79:30-33).
+
+Allah cũng nói rằng các sinh vật có khả năng giao tiếp với nhau. Kinh Qur'an (27:18) thông báo rằng thủ lĩnh của loài kiến đã nói với bầy đàn của mình hãy vào nơi trú ẩn trước khi quân đội của Sulaiman tiêu diệt các ngươi. Qua đó, Allah cũng làm nổi bật ý thức cộng đồng và tính kỷ luật của chúng. Tuy nhiên, quan điểm của Kinh Qur'an là con người có quyền thống trị và quyền hoạt động tự do trên trái đất. Allah phán:
+
+> "Ngài đã đặt trái đất cho con người" (55:10).
+
+Thực tế là nhiều sinh vật tương tác trực tiếp hoặc gián tiếp trong cuộc sống của con người. Có lẽ đó là lý do tại sao Allah đề cập đến một số loài động vật trong Kinh Qur'an, cuốn sách dành cho nhân loại. Tuy nhiên, điều đó không phải để dạy về sinh học của động vật, mà là vì có những bài học xã hội mà con người cần học hỏi từ chúng. Đó là để dạy những bài học đó và trên hết là để truyền cảm hứng cho con người suy ngẫm về chúng, nhận ra sự vĩ đại của Đấng tạo hóa và sống một cách thận trọng.
+
+Nếu kiểm tra tên các chương trong Kinh Qur'an, chúng ta có thể thấy nhiều chương được đặt theo tên các loài sinh vật. Baqarah (Con bò), An'am (Gia súc), Nahl (Con ong), Naml (Con kiến), Ankabut (Con nhện), Fil (Con voi) thuộc loại này.
+
+Tại sao Allah lại đặt nhiều chương theo tên các loài sinh vật trong Kinh Qur'an, cuốn sách hướng dẫn cho nhân loại! Đây là một chủ đề đáng suy ngẫm. Con người có thể học được điều gì đó từ tất cả những sinh vật này. Sức mạnh của con voi, khả năng lập kế hoạch của con kiến, kỹ thuật của loài ong và sự thuần hóa của con bò, chẳng phải chúng mang đến cho chúng ta những thông điệp sao? Kinh Qur'an cũng đề cập đến các sinh vật khác dù lớn hay nhỏ như chó, lừa, lạc đà, sư tử, khỉ, lợn, rắn, chim gõ kiến, muỗi, ruồi, la, v.v. Nếu Allah đã nêu tên những sinh vật tương tác trực tiếp hoặc gián tiếp với cuộc sống con người trong thánh thư của Ngài, thì chắc chắn chúng ta có những điều cần học hỏi từ chúng. Allah phán:
+
+> "Quả thật, trong gia súc có những dấu hiệu cho các ngươi" (23:21).
+
+## Quyền của sinh vật trong các Hadith
+
+Hồi giáo hướng dẫn con người đối xử với các sinh vật bằng lòng trắc ẩn. Lời dạy của **Nhà tiên tri (ﷺ)** là ngay cả khi định giết mổ, cũng phải mài dao thật sắc và mang lại sự thoải mái cho con vật bị giết.
+
+**Nhà tiên tri (ﷺ)** nói:
+
+> "Nếu một người giết một con chim sẻ mà có lòng trắc ẩn với nó, Allah sẽ thương xót người đó vào Ngày Phán xét" (Sahih al-Jami', H.N: 626).
+
+Nhà tiên tri (ﷺ) cũng cảnh báo rằng: `Ai từ chối lòng trắc ẩn, lòng trắc ẩn cũng sẽ bị từ chối đối với người đó vào Ngày Phán xét` (Muslim).
+
+Nhà tiên tri (ﷺ) đã đưa ra chỉ dẫn nghiêm ngặt rằng những người nuôi động vật phải chú ý đến việc cho chúng ăn.
+
+Một lần, khi nhìn thấy một con lạc đà gầy gò, Nhà tiên tri (ﷺ) nói:
+
+> "Hãy sợ Allah trong việc đối xử với những sinh vật này. Hãy cho chúng ăn đầy đủ và cưỡi chúng trong điều kiện tốt" (Abu Dawud).
+
+Nhà tiên tri (ﷺ) không cho phép giết hại bất kỳ sinh vật nào một cách vô cớ. Ngài nói:
+
+> "Ai giết một con chim sẻ chỉ để giải trí, thì vào Ngày Phán xét, nó sẽ nói với Allah: Lạy Chúa của con, người này đã giết con. Không phải vì nhu cầu, mà chỉ vì giải trí" (Nasa'i).
+
+Ngài nghiêm cấm việc cắt xẻo hoặc làm bị thương các sinh vật sống. Nhà tiên tri (ﷺ) nói:
+
+> "Các ngươi không được cắt xẻo động vật. Ai làm như vậy, Allah đã nguyền rủa người đó" (Bukhari, Muslim).
+
+Nhà tiên tri (ﷺ) đã dạy những nghi thức cần tuân thủ khi giết mổ như phải mài sắc dao, mang lại sự thoải mái và không để các con vật khác nhìn thấy cảnh giết mổ.
+
+Hồi giáo không chỉ đưa ra chỉ dẫn phải đối xử nhân từ với sinh vật mà còn dạy rằng điều đó mang lại phần thưởng lớn. Hồi giáo làm rõ rằng điều đó thậm chí có thể là lý do để được vào Thiên đàng. Chúng ta thấy câu chuyện về một người được vào Thiên đàng vì cho chó uống nước và một người phụ nữ bị vào Hỏa ngục vì trói một con mèo mà không cho ăn, được Nhà tiên tri (ﷺ) kể lại cho các bạn đồng hành của mình. (Bukhari, Muslim).
+
+Thông điệp về tình yêu và lòng trắc ẩn mà Nhà tiên tri đầy lòng nhân từ (ﷺ) mang đến cho thế giới thật vĩ đại, khi Ngài dạy một người đồng hành đã tặng Ngài một con chim non rằng niềm vui của Ngài nằm ở việc trả nó lại cho chim mẹ (Muslim).
+
+Những quan điểm này của Hồi giáo trở nên phù hợp trước những người làm hại động vật một cách không cần thiết và tìm thấy niềm vui trong đó, dưới cái cớ của các nghi lễ truyền thống.
+
+Nhà tiên tri (ﷺ) thậm chí còn cảnh báo về sự nghiêm trọng của việc tiêu diệt kiến bằng lửa. Ngài cũng dạy rằng bất kỳ sự tử tế nào đối với một sinh vật có trái tim sống đều mang lại phần thưởng.
+
+Các văn bản dạy rằng lòng trắc ẩn, sự dịu dàng, sự tử tế và đồng cảm phải là một phần trong đức tin (Iman) của một tín đồ.
+
+Những người theo Hồi giáo, tôn giáo của lòng trắc ẩn, không bao giờ có thể chấp nhận việc ngược đãi động vật nhân danh truyền thống và nghi lễ. Những con bò bị thả vào đám đông không hề biết rằng con người đang giải trí. Khi bị ép buộc khuất phục, chúng sẽ tấn công vì sợ hãi. Khả năng con người bị thương hoặc tử vong do bị húc hoặc giẫm đạp là rất cao. Do đó, hành động tự bước vào sự hủy diệt này là không được phép dưới góc nhìn của Hồi giáo.

@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T09:45:35.172319+00:00",
+ "generated_at": "2026-08-29T09:45:50.864055+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1554,
+ "count": 1555,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -16533,6 +16533,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/vi/dawah/do-not-waver-in-trials-20170121-9.html",
    "md_url": "/vi/dawah/do-not-waver-in-trials-20170121-9.md"
+  },
+  {
+   "slug": "jallikattu-and-the-islamic-approach-to-animals-20170128-4",
+   "lang": "vi",
+   "category": "dawah",
+   "title": "Jallikattu và cách tiếp cận của Hồi giáo đối với động vật",
+   "summary": "Bài viết này giải thích quan điểm của Hồi giáo đối với động vật thông qua vấn đề Jallikattu. Nó nhấn mạnh tầm quan trọng của lòng trắc ẩn và sự tử tế đối với mọi tạo vật của Allah.",
+   "author": "അബ്ദുൽ മാലിക്‌ സലഫി",
+   "issue_date": "2017-01-28",
+   "html_url": "/vi/dawah/jallikattu-and-the-islamic-approach-to-animals-20170128-4.html",
+   "md_url": "/vi/dawah/jallikattu-and-the-islamic-approach-to-animals-20170128-4.md"
   },
   {
    "slug": "live-knowing-the-value-of-time-20170114-8",
