@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T07:43:58.159643+00:00",
+ "generated_at": "2026-08-29T07:44:16.656373+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1137,
+ "count": 1138,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -1705,6 +1705,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/bs/youth/what-will-the-waste-do-20170114-5.html",
    "md_url": "/bs/youth/what-will-the-waste-do-20170114-5.md"
+  },
+  {
+   "slug": "do-not-waver-in-trials-20170121-9",
+   "lang": "de",
+   "category": "dawah",
+   "title": "In Prüfungen standhaft bleiben",
+   "summary": "Dieser Beitrag analysiert das Leben der Propheten, die trotz schwerster Prüfungen standhaft blieben und das Paradies erlangten. Er unterstreicht die Bedeutung von Geduld und Vertrauen auf Allah, sowohl in Zeiten der Not als auch in Zeiten des Wohlstands.",
+   "author": "മെഹബൂബ്‌ മദനി ഒറ്റപ്പാലം",
+   "issue_date": "2017-01-21",
+   "html_url": "/de/dawah/do-not-waver-in-trials-20170121-9.html",
+   "md_url": "/de/dawah/do-not-waver-in-trials-20170121-9.md"
   },
   {
    "slug": "live-knowing-the-value-of-time-20170114-8",
