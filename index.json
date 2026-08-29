@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T08:32:14.177090+00:00",
+ "generated_at": "2026-08-29T08:32:26.924433+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1316,
+ "count": 1317,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -12276,6 +12276,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/te/opinion/terrorism-and-religious-freedom-20170114-1.html",
    "md_url": "/te/opinion/terrorism-and-religious-freedom-20170114-1.md"
+  },
+  {
+   "slug": "the-shackles-of-consumerist-culture-20170121-13",
+   "lang": "te",
+   "category": "opinion",
+   "title": "వినియోగ సంస్కృతి అనే ఉచ్చు",
+   "summary": "వినియోగ సంస్కృతిలో చిక్కుకున్న ఆధునిక జీవనశైలిని ఈ వ్యాసం విమర్శనాత్మకంగా విశ్లేషిస్తుంది. ఆధునిక కాలంలో మనిషి ఎదుర్కొంటున్న ఆధ్యాత్మిక దారిద్ర్యాన్ని మరియు అప్పుల వల్ల కలిగే దుష్పరిణామాలను ఇది చర్చిస్తుంది.",
+   "author": "കുഞ്ഞിമുഹമ്മദ്‌ മദനി പറപ്പൂർ",
+   "issue_date": "2017-01-21",
+   "html_url": "/te/opinion/the-shackles-of-consumerist-culture-20170121-13.html",
+   "md_url": "/te/opinion/the-shackles-of-consumerist-culture-20170121-13.md"
   },
   {
    "slug": "uapa-wielding-sedition-law-20170114-9",
