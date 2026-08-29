@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T08:15:29.843596+00:00",
+ "generated_at": "2026-08-29T08:15:46.011293+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1251,
+ "count": 1252,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -1936,6 +1936,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/de/dawah/the-message-of-equality-20170121-11.html",
    "md_url": "/de/dawah/the-message-of-equality-20170121-11.md"
+  },
+  {
+   "slug": "the-religion-that-rejects-terrorism-part-1-20170121-12",
+   "lang": "de",
+   "category": "dawah",
+   "title": "Die Religion, die den Terrorismus ablehnt",
+   "summary": "Ein Artikel, der das friedliebende Wesen des Islam erläutert. Im ersten Teil wird dargelegt, wie der Glaube an den einen Gott und die gottesdienstlichen Handlungen den Terrorismus konsequent ablehnen.",
+   "author": "അൻവർ അബൂബക്കർ",
+   "issue_date": "2017-01-21",
+   "html_url": "/de/dawah/the-religion-that-rejects-terrorism-part-1-20170121-12.html",
+   "md_url": "/de/dawah/the-religion-that-rejects-terrorism-part-1-20170121-12.md"
   },
   {
    "slug": "don-t-worry-allah-is-with-you-20170114-10",
