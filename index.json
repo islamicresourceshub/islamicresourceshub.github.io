@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T08:12:18.241168+00:00",
+ "generated_at": "2026-08-29T08:12:46.203980+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1239,
+ "count": 1240,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -11748,6 +11748,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/th/dawah/stand-tall-20170121-8.html",
    "md_url": "/th/dawah/stand-tall-20170121-8.md"
+  },
+  {
+   "slug": "the-message-of-equality-20170121-11",
+   "lang": "th",
+   "category": "dawah",
+   "title": "สาส์นแห่งความเสมอภาค",
+   "summary": "บทความวิเคราะห์สาส์นแห่งความเสมอภาคของท่านนบี (ซ.ล.) โดยอภิปรายถึงความสำคัญของหะดีษที่ว่ามนุษย์ทุกคนมาจากอาดัม และหลักการความเสมอภาคสากลในอิสลาม",
+   "author": "അബൂ മുർശിദ",
+   "issue_date": "2017-01-21",
+   "html_url": "/th/dawah/the-message-of-equality-20170121-11.html",
+   "md_url": "/th/dawah/the-message-of-equality-20170121-11.md"
   },
   {
    "slug": "don-t-worry-allah-is-with-you-20170114-10",
