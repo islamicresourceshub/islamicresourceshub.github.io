@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T08:12:46.203980+00:00",
+ "generated_at": "2026-08-29T08:12:58.042701+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1240,
+ "count": 1241,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -12067,6 +12067,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/tl/dawah/stand-tall-20170121-8.html",
    "md_url": "/tl/dawah/stand-tall-20170121-8.md"
+  },
+  {
+   "slug": "the-message-of-equality-20170121-11",
+   "lang": "tl",
+   "category": "dawah",
+   "title": "Ang Mensahe ng Pagkakapantay-pantay",
+   "summary": "Isang artikulo na nagsusuri sa mensahe ng pagkakapantay-pantay ni Propeta Muhammad (SAW). Tinatalakay nito ang kahalagahan ng hadith na ang lahat ng tao ay nagmula kay Adan at ang unibersal na pagkakapantay-pantay sa Islam.",
+   "author": "അബൂ മുർശിദ",
+   "issue_date": "2017-01-21",
+   "html_url": "/tl/dawah/the-message-of-equality-20170121-11.html",
+   "md_url": "/tl/dawah/the-message-of-equality-20170121-11.md"
   },
   {
    "slug": "don-t-worry-allah-is-with-you-20170114-10",
