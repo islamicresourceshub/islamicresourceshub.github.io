@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T04:29:50.462192+00:00",
+ "generated_at": "2026-08-29T04:30:20.213151+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1092,
+ "count": 1093,
  "articles": [
   {
    "slug": "live-knowing-the-value-of-time-20170114-8",
@@ -11946,6 +11946,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/vi/story/grown-up-children-20170121-6.html",
    "md_url": "/vi/story/grown-up-children-20170121-6.md"
+  },
+  {
+   "slug": "the-fruit-of-ingratitude-20170121-7",
+   "lang": "vi",
+   "category": "story",
+   "title": "Hậu quả của sự vô ơn",
+   "summary": "Câu chuyện về một người nông dân nhân hậu luôn giúp đỡ người nghèo. Một câu chuyện đạo đức nhắc nhở chúng ta về hậu quả tai hại của lòng vô ơn.",
+   "author": "അബൂറാഷിദ",
+   "issue_date": "2017-01-21",
+   "html_url": "/vi/story/the-fruit-of-ingratitude-20170121-7.html",
+   "md_url": "/vi/story/the-fruit-of-ingratitude-20170121-7.md"
   },
   {
    "slug": "an-agenda-is-needed-during-vacation-too-20170325-1",
