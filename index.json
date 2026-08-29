@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T10:05:26.935801+00:00",
+ "generated_at": "2026-08-29T10:05:53.931581+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1636,
+ "count": 1637,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -1441,6 +1441,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/as/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.html",
    "md_url": "/as/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.md"
+  },
+  {
+   "slug": "what-to-beware-of-when-taking-sides-20170128-7",
+   "lang": "as",
+   "category": "quran",
+   "title": "পক্ষ লোৱাৰ সময়ত যিবোৰ কথাত সাৱধান হ’ব লাগিব",
+   "summary": "কোৰআনৰ ৪৩:৬৭ আয়াতৰ পোহৰত পক্ষ লোৱাৰ সময়ত আৰু বন্ধুত্বপূৰ্ণ সম্পৰ্ক বজাই ৰখাৰ ক্ষেত্ৰত সাৱধানতা অৱলম্বন কৰাৰ গুৰুত্ব ইয়াত ব্যাখ্যা কৰা হৈছে।",
+   "author": "അബൂ അമീൻ",
+   "issue_date": "2017-01-28",
+   "html_url": "/as/quran/what-to-beware-of-when-taking-sides-20170128-7.html",
+   "md_url": "/as/quran/what-to-beware-of-when-taking-sides-20170128-7.md"
   },
   {
    "slug": "prophets-and-trials-20170325-7",
