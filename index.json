@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T08:27:29.232600+00:00",
+ "generated_at": "2026-08-29T08:27:45.778028+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1296,
+ "count": 1297,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -4169,6 +4169,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/ha/opinion/terrorism-and-religious-freedom-20170114-1.html",
    "md_url": "/ha/opinion/terrorism-and-religious-freedom-20170114-1.md"
+  },
+  {
+   "slug": "the-shackles-of-consumerist-culture-20170121-13",
+   "lang": "ha",
+   "category": "opinion",
+   "title": "Tarkon Al'adun Amfani da Kayayyaki (Consumerism)",
+   "summary": "Wannan rubutu yana yin nazari mai zurfi kan yadda rayuwar zamani ta fada cikin tarkon al'adun amfani da kayayyaki (consumerism). Yana bayyana talaucin ruhi da mutum ke fuskanta a wannan zamani na ci gaba.",
+   "author": "കുഞ്ഞിമുഹമ്മദ്‌ മദനി പറപ്പൂർ",
+   "issue_date": "2017-01-21",
+   "html_url": "/ha/opinion/the-shackles-of-consumerist-culture-20170121-13.html",
+   "md_url": "/ha/opinion/the-shackles-of-consumerist-culture-20170121-13.md"
   },
   {
    "slug": "uapa-wielding-sedition-law-20170114-9",
