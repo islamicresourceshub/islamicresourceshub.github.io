@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T08:20:33.224315+00:00",
+ "generated_at": "2026-08-29T08:20:48.065110+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1270,
+ "count": 1271,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -9482,6 +9482,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/pt/dawah/the-message-of-equality-20170121-11.html",
    "md_url": "/pt/dawah/the-message-of-equality-20170121-11.md"
+  },
+  {
+   "slug": "the-religion-that-rejects-terrorism-part-1-20170121-12",
+   "lang": "pt",
+   "category": "dawah",
+   "title": "A religião que rejeita o extremismo",
+   "summary": "Um artigo que explica a natureza do Islã como uma religião que busca a paz. Na primeira parte, discutimos como o monoteísmo e os atos de adoração desencorajam o extremismo.",
+   "author": "അൻവർ അബൂബക്കർ",
+   "issue_date": "2017-01-21",
+   "html_url": "/pt/dawah/the-religion-that-rejects-terrorism-part-1-20170121-12.html",
+   "md_url": "/pt/dawah/the-religion-that-rejects-terrorism-part-1-20170121-12.md"
   },
   {
    "slug": "don-t-worry-allah-is-with-you-20170114-10",
