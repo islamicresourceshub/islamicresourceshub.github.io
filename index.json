@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T08:44:42.883690+00:00",
+ "generated_at": "2026-08-29T08:45:07.034742+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1362,
+ "count": 1363,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -374,6 +374,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/am/hadith/control-your-mind-20170325-3.html",
    "md_url": "/am/hadith/control-your-mind-20170325-3.md"
+  },
+  {
+   "slug": "e-writing-is-not-mere-writing-20170121-15",
+   "lang": "am",
+   "category": "opinion",
+   "title": "ኢ-ጽሑፍ ማለት ተራ ጽሑፍ ብቻ አይደለም",
+   "summary": "ይህ መጣጥፍ በዲጂታል ዘመን የጽሑፍን አስፈላጊነት እና ማህበራዊ ተፅእኖዎችን ይዳስሳል። በተለይም ዋና ዋና ሚዲያዎች የሚያሰራጩትን የተዛቡ መረጃዎች እና በኢንተርኔት አማካኝነት ለእውነት መቆም ያለውን አስፈላጊነት ይተነትናል።",
+   "author": "അബ്ദുല്ല ബാസിൽ സി.പി",
+   "issue_date": "2017-01-21",
+   "html_url": "/am/opinion/e-writing-is-not-mere-writing-20170121-15.html",
+   "md_url": "/am/opinion/e-writing-is-not-mere-writing-20170121-15.md"
   },
   {
    "slug": "elections-the-stand-must-be-well-considered-20170325-10",
