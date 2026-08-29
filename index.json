@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T09:39:05.256859+00:00",
+ "generated_at": "2026-08-29T09:39:23.828815+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1533,
+ "count": 1534,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -6677,6 +6677,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/kn/dawah/do-not-waver-in-trials-20170121-9.html",
    "md_url": "/kn/dawah/do-not-waver-in-trials-20170121-9.md"
+  },
+  {
+   "slug": "jallikattu-and-the-islamic-approach-to-animals-20170128-4",
+   "lang": "kn",
+   "category": "dawah",
+   "title": "ಜಲ್ಲಿಕಟ್ಟು ಮತ್ತು ಪ್ರಾಣಿಗಳ ಕುರಿತಾದ ಇಸ್ಲಾಮಿನ ದೃಷ್ಟಿಕೋನ",
+   "summary": "ಜಲ್ಲಿಕಟ್ಟು ವಿಷಯದ ಮೂಲಕ ಪ್ರಾಣಿಗಳ ಕುರಿತಾದ ಇಸ್ಲಾಮಿನ ದೃಷ್ಟಿಕೋನವನ್ನು ಈ ಲೇಖನ ವಿವರಿಸುತ್ತದೆ. ಅಲ್ಲಾಹನ ಸೃಷ್ಟಿಗಳಾದ ಪ್ರಾಣಿಗಳೊಂದಿಗೆ ತೋರಬೇಕಾದ ಕರುಣೆ ಮತ್ತು ದಯೆಯ ಮಹತ್ವವನ್ನು ಇದು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ.",
+   "author": "അബ്ദുൽ മാലിക്‌ സലഫി",
+   "issue_date": "2017-01-28",
+   "html_url": "/kn/dawah/jallikattu-and-the-islamic-approach-to-animals-20170128-4.html",
+   "md_url": "/kn/dawah/jallikattu-and-the-islamic-approach-to-animals-20170128-4.md"
   },
   {
    "slug": "live-knowing-the-value-of-time-20170114-8",
