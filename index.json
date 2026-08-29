@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T08:28:13.702782+00:00",
+ "generated_at": "2026-08-29T08:28:26.421654+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1299,
+ "count": 1300,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -5170,6 +5170,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/it/opinion/terrorism-and-religious-freedom-20170114-1.html",
    "md_url": "/it/opinion/terrorism-and-religious-freedom-20170114-1.md"
+  },
+  {
+   "slug": "the-shackles-of-consumerist-culture-20170121-13",
+   "lang": "it",
+   "category": "opinion",
+   "title": "Il cappio della cultura del consumo",
+   "summary": "Un'analisi critica della vita moderna intrappolata nella cultura del consumo e della povertà spirituale che ne deriva. L'articolo riflette sulle conseguenze morali e sociali dell'indebitamento eccessivo alla luce degli insegnamenti islamici.",
+   "author": "കുഞ്ഞിമുഹമ്മദ്‌ മദനി പറപ്പൂർ",
+   "issue_date": "2017-01-21",
+   "html_url": "/it/opinion/the-shackles-of-consumerist-culture-20170121-13.html",
+   "md_url": "/it/opinion/the-shackles-of-consumerist-culture-20170121-13.md"
   },
   {
    "slug": "uapa-wielding-sedition-law-20170114-9",
