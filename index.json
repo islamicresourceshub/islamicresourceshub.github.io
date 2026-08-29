@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T04:20:47.140201+00:00",
+ "generated_at": "2026-08-29T04:21:03.793325+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1069,
+ "count": 1070,
  "articles": [
   {
    "slug": "live-knowing-the-value-of-time-20170114-8",
@@ -4301,6 +4301,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/it/story/grown-up-children-20170121-6.html",
    "md_url": "/it/story/grown-up-children-20170121-6.md"
+  },
+  {
+   "slug": "the-fruit-of-ingratitude-20170121-7",
+   "lang": "it",
+   "category": "story",
+   "title": "Il Frutto dell'Ingratitudine",
+   "summary": "La storia di un contadino pio che aiutava i poveri. Una parabola che ricorda le conseguenze dell'ingratitudine.",
+   "author": "അബൂറാഷിദ",
+   "issue_date": "2017-01-21",
+   "html_url": "/it/story/the-fruit-of-ingratitude-20170121-7.html",
+   "md_url": "/it/story/the-fruit-of-ingratitude-20170121-7.md"
   },
   {
    "slug": "an-agenda-is-needed-during-vacation-too-20170325-1",
