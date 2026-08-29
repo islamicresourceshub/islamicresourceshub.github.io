@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T08:09:03.520685+00:00",
+ "generated_at": "2026-08-29T08:09:15.717759+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1224,
+ "count": 1225,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -5335,6 +5335,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/kn/dawah/stand-tall-20170121-8.html",
    "md_url": "/kn/dawah/stand-tall-20170121-8.md"
+  },
+  {
+   "slug": "the-message-of-equality-20170121-11",
+   "lang": "kn",
+   "category": "dawah",
+   "title": "ಸಮಾನತೆಯ ಸಂದೇಶ",
+   "summary": "ಪ್ರವಾದಿ (ಸ) ಅವರ ಸಮಾನತೆಯ ಸಂದೇಶವನ್ನು ವಿಶ್ಲೇಷಿಸುವ ಲೇಖನ. ಎಲ್ಲಾ ಮನುಷ್ಯರು ಆದಮ್ (ಅ) ಅವರಿಂದ ಬಂದವರೆಂಬ ಹದೀಸ್‌ನ ಪ್ರಸ್ತುತತೆ ಮತ್ತು ಸಾರ್ವತ್ರಿಕ ಸಮಾನತೆಯ ಬಗ್ಗೆ ಇಲ್ಲಿ ಚರ್ಚಿಸಲಾಗಿದೆ.",
+   "author": "അബൂ മുർശിദ",
+   "issue_date": "2017-01-21",
+   "html_url": "/kn/dawah/the-message-of-equality-20170121-11.html",
+   "md_url": "/kn/dawah/the-message-of-equality-20170121-11.md"
   },
   {
    "slug": "don-t-worry-allah-is-with-you-20170114-10",
