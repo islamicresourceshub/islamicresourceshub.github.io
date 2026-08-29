@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T04:25:15.715716+00:00",
+ "generated_at": "2026-08-29T04:25:34.683487+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1084,
+ "count": 1085,
  "articles": [
   {
    "slug": "live-knowing-the-value-of-time-20170114-8",
@@ -9746,6 +9746,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/sw/story/grown-up-children-20170121-6.html",
    "md_url": "/sw/story/grown-up-children-20170121-6.md"
+  },
+  {
+   "slug": "the-fruit-of-ingratitude-20170121-7",
+   "lang": "sw",
+   "category": "story",
+   "title": "Matunda ya Ujeuri",
+   "summary": "Hadithi ya mkulima mkarimu anayewasaidia maskini. Ni hadithi ya mafunzo inayokumbusha matokeo mabaya ya ujeuri.",
+   "author": "അബൂറാഷിദ",
+   "issue_date": "2017-01-21",
+   "html_url": "/sw/story/the-fruit-of-ingratitude-20170121-7.html",
+   "md_url": "/sw/story/the-fruit-of-ingratitude-20170121-7.md"
   },
   {
    "slug": "an-agenda-is-needed-during-vacation-too-20170325-1",
