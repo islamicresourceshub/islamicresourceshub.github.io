@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T08:30:06.964914+00:00",
+ "generated_at": "2026-08-29T08:30:22.108161+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1307,
+ "count": 1308,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -9240,6 +9240,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/pa/opinion/terrorism-and-religious-freedom-20170114-1.html",
    "md_url": "/pa/opinion/terrorism-and-religious-freedom-20170114-1.md"
+  },
+  {
+   "slug": "the-shackles-of-consumerist-culture-20170121-13",
+   "lang": "pa",
+   "category": "opinion",
+   "title": "ਖਪਤਕਾਰੀ ਸੱਭਿਆਚਾਰ ਦਾ ਸ਼ਿਕੰਜਾ",
+   "summary": "ਇਹ ਲੇਖ ਆਧੁਨਿਕ ਜੀਵਨ ਸ਼ੈਲੀ ਉੱਤੇ ਹਾਵੀ ਹੋ ਚੁੱਕੇ ਖਪਤਕਾਰੀ ਸੱਭਿਆਚਾਰ ਦਾ ਆਲੋਚਨਾਤਮਕ ਵਿਸ਼ਲੇਸ਼ਣ ਕਰਦਾ ਹੈ। ਇਹ ਦੱਸਦਾ ਹੈ ਕਿ ਕਿਵੇਂ ਇਹ ਸੱਭਿਆਚਾਰ ਮਨੁੱਖ ਨੂੰ ਕਰਜ਼ੇ ਦੇ ਜਾਲ ਵਿੱਚ ਫਸਾ ਕੇ ਉਸਦੀ ਰੂਹਾਨੀਅਤ ਨੂੰ ਖਤਮ ਕਰ ਰਿਹਾ ਹੈ।",
+   "author": "കുഞ്ഞിമുഹമ്മദ്‌ മദനി പറപ്പൂർ",
+   "issue_date": "2017-01-21",
+   "html_url": "/pa/opinion/the-shackles-of-consumerist-culture-20170121-13.html",
+   "md_url": "/pa/opinion/the-shackles-of-consumerist-culture-20170121-13.md"
   },
   {
    "slug": "uapa-wielding-sedition-law-20170114-9",
