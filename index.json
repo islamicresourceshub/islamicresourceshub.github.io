@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T09:46:29.516458+00:00",
+ "generated_at": "2026-08-29T09:46:41.407219+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1558,
+ "count": 1559,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -1419,6 +1419,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/as/story/grown-up-children-20170121-6.html",
    "md_url": "/as/story/grown-up-children-20170121-6.md"
+  },
+  {
+   "slug": "laws-are-to-be-followed-20170128-5",
+   "lang": "as",
+   "category": "story",
+   "title": "নিয়ম মানিবলৈকে",
+   "summary": "চোহাইল নামৰ ল’ৰা এজনৰ চহৰৰ এখন দন্ত চিকিৎসা কেন্দ্ৰত ঘটা এক অভিজ্ঞতাৰ আধাৰত নিয়ম মানি চলাৰ গুৰুত্বৰ বিষয়ে এই কাহিনীটো বৰ্ণনা কৰা হৈছে।",
+   "author": "ഉസ്‌മാൻ പാലക്കാഴ‍ി",
+   "issue_date": "2017-01-28",
+   "html_url": "/as/story/laws-are-to-be-followed-20170128-5.html",
+   "md_url": "/as/story/laws-are-to-be-followed-20170128-5.md"
   },
   {
    "slug": "the-fruit-of-ingratitude-20170121-7",
