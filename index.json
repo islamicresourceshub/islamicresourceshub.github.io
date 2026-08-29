@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T09:36:34.929219+00:00",
+ "generated_at": "2026-08-29T09:36:53.744334+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1525,
+ "count": 1526,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -3443,6 +3443,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/fa/dawah/do-not-waver-in-trials-20170121-9.html",
    "md_url": "/fa/dawah/do-not-waver-in-trials-20170121-9.md"
+  },
+  {
+   "slug": "jallikattu-and-the-islamic-approach-to-animals-20170128-4",
+   "lang": "fa",
+   "category": "dawah",
+   "title": "جلی‌کٹو و رویکرد اسلامی نسبت به حیوانات",
+   "summary": "این مقاله با بررسی موضوع جلی‌کٹو، رویکرد اسلام نسبت به حیوانات را تبیین می‌کند. در این متن بر اهمیت شفقت و مهربانی با تمام مخلوقات خداوند تأکید شده است.",
+   "author": "അബ്ദുൽ മാലിക്‌ സലഫി",
+   "issue_date": "2017-01-28",
+   "html_url": "/fa/dawah/jallikattu-and-the-islamic-approach-to-animals-20170128-4.html",
+   "md_url": "/fa/dawah/jallikattu-and-the-islamic-approach-to-animals-20170128-4.md"
   },
   {
    "slug": "live-knowing-the-value-of-time-20170114-8",
