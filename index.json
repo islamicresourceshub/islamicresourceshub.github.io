@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T06:20:39.816931+00:00",
+ "generated_at": "2026-08-29T06:50:08.881998+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1111,
+ "count": 1112,
  "articles": [
   {
    "slug": "live-knowing-the-value-of-time-20170114-8",
@@ -6721,6 +6721,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/mr/dawah/religion-is-fearlessness-20170114-6.html",
    "md_url": "/mr/dawah/religion-is-fearlessness-20170114-6.md"
+  },
+  {
+   "slug": "stand-tall-20170121-8",
+   "lang": "mr",
+   "category": "dawah",
+   "title": "स्थिर रहना",
+   "summary": "सत्यविश्वास शक्तीचे उद्गम आहे. प्रतिकूल परिस्थितींमुठेही ऊंचतेवर बने रहण्याचा महत्त्व स्पष्ट करतेला लेख।",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2017-01-21",
+   "html_url": "/mr/dawah/stand-tall-20170121-8.html",
+   "md_url": "/mr/dawah/stand-tall-20170121-8.md"
   },
   {
    "slug": "don-t-worry-allah-is-with-you-20170114-10",
