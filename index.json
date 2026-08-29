@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T04:37:56.334131+00:00",
+ "generated_at": "2026-08-29T04:38:29.542242+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1104,
+ "count": 1105,
  "articles": [
   {
    "slug": "live-knowing-the-value-of-time-20170114-8",
@@ -3102,6 +3102,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/gu/dawah/religion-is-fearlessness-20170114-6.html",
    "md_url": "/gu/dawah/religion-is-fearlessness-20170114-6.md"
+  },
+  {
+   "slug": "stand-tall-20170121-8",
+   "lang": "gu",
+   "category": "dawah",
+   "title": "ટટ્ટાર ઊભા રહો",
+   "summary": "સાચો ઈમાન (શ્રદ્ધા) એ શક્તિનો સ્ત્રોત છે એવો સંદેશ આપતો લેખ. પ્રતિકૂળ પરિસ્થિતિઓમાં પણ ડગ્યા વિના ગૌરવભેર અડગ ઊભા રહેવાના મહત્વની અહીં ચર્ચા કરવામાં આવી છે.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2017-01-21",
+   "html_url": "/gu/dawah/stand-tall-20170121-8.html",
+   "md_url": "/gu/dawah/stand-tall-20170121-8.md"
   },
   {
    "slug": "don-t-worry-allah-is-with-you-20170114-10",
