@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T09:14:32.515826+00:00",
+ "generated_at": "2026-08-29T09:14:53.034134+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1463,
+ "count": 1464,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -10890,6 +10890,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/pt/hadith/control-your-mind-20170325-3.html",
    "md_url": "/pt/hadith/control-your-mind-20170325-3.md"
+  },
+  {
+   "slug": "criteria-for-accepting-hadith-20170128-2",
+   "lang": "pt",
+   "category": "hadith",
+   "title": "Critérios para a aceitação de Hadith",
+   "summary": "Uma análise teórica sobre os critérios de aceitação de Hadith. Esta é a segunda parte da série 'O Dawah Salafi: Uma Análise Teórica'.",
+   "author": "ശൈഖ് നാസ്വിറുദ്ദീന്‍ അല്‍ബാനി (വിവര്‍ത്തനം: ശമീര്‍ മദീനി)",
+   "issue_date": "2017-01-28",
+   "html_url": "/pt/hadith/criteria-for-accepting-hadith-20170128-2.html",
+   "md_url": "/pt/hadith/criteria-for-accepting-hadith-20170128-2.md"
   },
   {
    "slug": "e-writing-is-not-mere-writing-20170121-15",
