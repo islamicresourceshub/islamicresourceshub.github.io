@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T07:51:10.861868+00:00",
+ "generated_at": "2026-08-29T07:51:28.678605+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1162,
+ "count": 1163,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -10428,6 +10428,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/sw/youth/what-will-the-waste-do-20170114-5.html",
    "md_url": "/sw/youth/what-will-the-waste-do-20170114-5.md"
+  },
+  {
+   "slug": "do-not-waver-in-trials-20170121-9",
+   "lang": "ta",
+   "category": "dawah",
+   "title": "சோதனைகளில் தளர்ந்துவிடாதீர்கள்",
+   "summary": "கடுமையான சோதனைகளிலும் தளராமல் சொர்க்கத்தை வென்றெடுத்த இறைத்தூதர்களின் வாழ்க்கையை இக்கட்டுரை அலசுகிறது. வறுமையிலும் செழுமையிலும் உறுதியாக இருப்பதன் முக்கியத்துவத்தை இது விளக்குகிறது.",
+   "author": "മെഹബൂബ്‌ മദനി ഒറ്റപ്പാലം",
+   "issue_date": "2017-01-21",
+   "html_url": "/ta/dawah/do-not-waver-in-trials-20170121-9.html",
+   "md_url": "/ta/dawah/do-not-waver-in-trials-20170121-9.md"
   },
   {
    "slug": "live-knowing-the-value-of-time-20170114-8",
