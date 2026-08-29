@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T07:39:13.966863+00:00",
+ "generated_at": "2026-08-29T07:39:45.388675+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1127,
+ "count": 1128,
  "articles": [
   {
    "slug": "live-knowing-the-value-of-time-20170114-8",
@@ -11275,6 +11275,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/tr/dawah/religion-is-fearlessness-20170114-6.html",
    "md_url": "/tr/dawah/religion-is-fearlessness-20170114-6.md"
+  },
+  {
+   "slug": "stand-tall-20170121-8",
+   "lang": "tr",
+   "category": "dawah",
+   "title": "Dimdik Durmak",
+   "summary": "İmanın gücün kaynağı olduğu mesajını veren bir makale. Zorlu koşullarda bile sarsılmadan, yüce bir duruş sergilemenin önemini açıklıyor.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2017-01-21",
+   "html_url": "/tr/dawah/stand-tall-20170121-8.html",
+   "md_url": "/tr/dawah/stand-tall-20170121-8.md"
   },
   {
    "slug": "don-t-worry-allah-is-with-you-20170114-10",
