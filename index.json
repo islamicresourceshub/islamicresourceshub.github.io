@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T04:07:44.644917+00:00",
+ "generated_at": "2026-08-29T04:07:55.813925+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1008,
+ "count": 1009,
  "articles": [
   {
    "slug": "live-knowing-the-value-of-time-20170114-8",
@@ -9427,6 +9427,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/te/family/how-to-be-a-good-parent-part-2-20170121-4.html",
    "md_url": "/te/family/how-to-be-a-good-parent-part-2-20170121-4.md"
+  },
+  {
+   "slug": "husband-trapped-in-the-mobile-web-20170121-5",
+   "lang": "te",
+   "category": "family",
+   "title": "మొబైల్ వలలో చిక్కుకున్న భర్త",
+   "summary": "మొబైల్ ఫోన్ల అతి వినియోగం భర్తను, కుటుంబ సంబంధాలను ఎలా ప్రభావితం చేస్తుందో విశ్లేషించే వ్యాసం. ఇది 'శాంతి గేహం' కుటుంబ సలహా శీర్షికలో భాగం.",
+   "author": "പ്രൊഫ: ഹാരിസ്ബിൻ സലീം",
+   "issue_date": "2017-01-21",
+   "html_url": "/te/family/husband-trapped-in-the-mobile-web-20170121-5.html",
+   "md_url": "/te/family/husband-trapped-in-the-mobile-web-20170121-5.md"
   },
   {
    "slug": "islamic-parenting-significance-and-goals-part-1-20170114-4",
