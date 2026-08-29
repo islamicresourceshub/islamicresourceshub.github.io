@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T07:36:49.047423+00:00",
+ "generated_at": "2026-08-29T07:37:17.668863+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1122,
+ "count": 1123,
  "articles": [
   {
    "slug": "live-knowing-the-value-of-time-20170114-8",
@@ -9845,6 +9845,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/sw/dawah/religion-is-fearlessness-20170114-6.html",
    "md_url": "/sw/dawah/religion-is-fearlessness-20170114-6.md"
+  },
+  {
+   "slug": "stand-tall-20170121-8",
+   "lang": "sw",
+   "category": "dawah",
+   "title": "Simama Imara",
+   "summary": "Makala hii inatoa ujumbe kwamba imani ya kweli ni chanzo cha nguvu. Inaeleza umuhimu wa kusimama imara na bila kuyumba hata katika hali ngumu.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2017-01-21",
+   "html_url": "/sw/dawah/stand-tall-20170121-8.html",
+   "md_url": "/sw/dawah/stand-tall-20170121-8.md"
   },
   {
    "slug": "don-t-worry-allah-is-with-you-20170114-10",
