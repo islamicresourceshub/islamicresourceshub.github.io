@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T09:06:17.746110+00:00",
+ "generated_at": "2026-08-29T09:06:30.659752+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1438,
+ "count": 1439,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -15697,6 +15697,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/zh/dawah/live-knowing-the-value-of-time-20170114-8.html",
    "md_url": "/zh/dawah/live-knowing-the-value-of-time-20170114-8.md"
+  },
+  {
+   "slug": "muslims-in-a-pluralistic-society-20170128-1",
+   "lang": "zh",
+   "category": "dawah",
+   "title": "多元社会中的穆斯林",
+   "summary": "本文探讨了伊斯兰教关于与非穆斯林群体和睦相处的教导。这是“憎恶极端主义的宗教”系列文章的第二部分。",
+   "author": "അൻവർ അബൂബക്കർ",
+   "issue_date": "2017-01-28",
+   "html_url": "/zh/dawah/muslims-in-a-pluralistic-society-20170128-1.html",
+   "md_url": "/zh/dawah/muslims-in-a-pluralistic-society-20170128-1.md"
   },
   {
    "slug": "prayer-that-is-worship-20170325-6",
