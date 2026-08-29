@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T10:03:51.606648+00:00",
+ "generated_at": "2026-08-29T10:04:16.048459+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1633,
+ "count": 1634,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -18018,6 +18018,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/zh/opinion/india-which-way-forward-20170325-2.html",
    "md_url": "/zh/opinion/india-which-way-forward-20170325-2.md"
+  },
+  {
+   "slug": "join-the-party-let-the-battle-begin-20170128-6",
+   "lang": "zh",
+   "category": "opinion",
+   "title": "加入政党，开启决战",
+   "summary": "结合喀拉拉邦坎努尔地区政治谋杀频发的背景，深入分析穆斯林政治参与的必要性与紧迫性。",
+   "author": "ഡോ. സി.എം സാബിർ നവാസ്‌",
+   "issue_date": "2017-01-28",
+   "html_url": "/zh/opinion/join-the-party-let-the-battle-begin-20170128-6.html",
+   "md_url": "/zh/opinion/join-the-party-let-the-battle-begin-20170128-6.md"
   },
   {
    "slug": "muslim-extremists-defame-islam-20170114-7",
