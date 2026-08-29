@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T07:50:35.900761+00:00",
+ "generated_at": "2026-08-29T07:50:53.575273+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1160,
+ "count": 1161,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -9834,6 +9834,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/so/youth/what-will-the-waste-do-20170114-5.html",
    "md_url": "/so/youth/what-will-the-waste-do-20170114-5.md"
+  },
+  {
+   "slug": "do-not-waver-in-trials-20170121-9",
+   "lang": "sq",
+   "category": "dawah",
+   "title": "Mos u lëkundni në sprova",
+   "summary": "Ky shkrim analizon jetën e profetëve, të cilët arritën Xhenetin pa u lëkundur përballë sprovave të vështira. Ai thekson rëndësinë e qëndrueshmërisë si në varfëri ashtu edhe në begati.",
+   "author": "മെഹബൂബ്‌ മദനി ഒറ്റപ്പാലം",
+   "issue_date": "2017-01-21",
+   "html_url": "/sq/dawah/do-not-waver-in-trials-20170121-9.html",
+   "md_url": "/sq/dawah/do-not-waver-in-trials-20170121-9.md"
   },
   {
    "slug": "live-knowing-the-value-of-time-20170114-8",
