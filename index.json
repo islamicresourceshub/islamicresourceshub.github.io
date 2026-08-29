@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T08:27:15.673288+00:00",
+ "generated_at": "2026-08-29T08:27:29.232600+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1295,
+ "count": 1296,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -3828,6 +3828,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/gu/opinion/terrorism-and-religious-freedom-20170114-1.html",
    "md_url": "/gu/opinion/terrorism-and-religious-freedom-20170114-1.md"
+  },
+  {
+   "slug": "the-shackles-of-consumerist-culture-20170121-13",
+   "lang": "gu",
+   "category": "opinion",
+   "title": "ઉપભોગ સંસ્કૃતિની જાળ",
+   "summary": "આ લેખ આધુનિક જીવનશૈલી પર હાવી થયેલી ઉપભોગ સંસ્કૃતિનું વિવેચનાત્મક વિશ્લેષણ કરે છે. તે આજના યુગમાં માનવી અનુભવી રહ્યો છે તે આધ્યાત્મિક ગરીબી અને દેવાના જોખમો પર પ્રકાશ પાડે છે.",
+   "author": "കുഞ്ഞിമുഹമ്മദ്‌ മദനി പറപ്പൂർ",
+   "issue_date": "2017-01-21",
+   "html_url": "/gu/opinion/the-shackles-of-consumerist-culture-20170121-13.html",
+   "md_url": "/gu/opinion/the-shackles-of-consumerist-culture-20170121-13.md"
   },
   {
    "slug": "uapa-wielding-sedition-law-20170114-9",
