@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T09:31:47.019353+00:00",
+ "generated_at": "2026-08-29T09:32:09.839216+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1510,
+ "count": 1511,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -14355,6 +14355,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/th/opinion/everyone-should-have-a-beard-20170121-3.html",
    "md_url": "/th/opinion/everyone-should-have-a-beard-20170121-3.md"
+  },
+  {
+   "slug": "hajj-subsidy-before-putting-the-muslim-community-in-the-dock-20170128-3",
+   "lang": "th",
+   "category": "opinion",
+   "title": "เงินอุดหนุนฮัจญ์: ก่อนที่จะผลักให้ชุมชนมุสลิมตกเป็นจำเลย",
+   "summary": "บทความนี้วิเคราะห์เชิงวิพากษ์เกี่ยวกับการยกเลิกเงินอุดหนุนฮัจญ์ และการที่ชุมชนมุสลิมถูกทำให้กลายเป็นจำเลยในประเด็นนี้อย่างไม่เป็นธรรม พร้อมเสนอแนะแนวทางแก้ไขปัญหาที่โปร่งใสและเป็นธรรม",
+   "author": "പി.വി.എ പ്രിംറോസ്‌",
+   "issue_date": "2017-01-28",
+   "html_url": "/th/opinion/hajj-subsidy-before-putting-the-muslim-community-in-the-dock-20170128-3.html",
+   "md_url": "/th/opinion/hajj-subsidy-before-putting-the-muslim-community-in-the-dock-20170128-3.md"
   },
   {
    "slug": "india-which-way-forward-20170325-2",
