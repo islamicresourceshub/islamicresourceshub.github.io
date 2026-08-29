@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T08:51:15.837426+00:00",
+ "generated_at": "2026-08-29T08:51:35.865617+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1385,
+ "count": 1386,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -10021,6 +10021,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/ps/hadith/control-your-mind-20170325-3.html",
    "md_url": "/ps/hadith/control-your-mind-20170325-3.md"
+  },
+  {
+   "slug": "e-writing-is-not-mere-writing-20170121-15",
+   "lang": "ps",
+   "category": "opinion",
+   "title": "ای-لیکنه یوازې یوه لیکنه نه ده",
+   "summary": "دا مقاله د ډیجیټل دور د لیکنو پر اهمیت، د هغوی پر ټولنیزو اغیزو او د رسنیو د خبرونو پر رول بحث کوي. همدارنګه د اسلام په اړه د خپرو شویو ناسم پوهاویو د مخنیوي لپاره د آنلاین لیکنو د کارولو اړتیا په ګوته کوي.",
+   "author": "അബ്ദുല്ല ബാസിൽ സി.പി",
+   "issue_date": "2017-01-21",
+   "html_url": "/ps/opinion/e-writing-is-not-mere-writing-20170121-15.html",
+   "md_url": "/ps/opinion/e-writing-is-not-mere-writing-20170121-15.md"
   },
   {
    "slug": "elections-the-stand-must-be-well-considered-20170325-10",
