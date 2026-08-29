@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T04:11:36.622467+00:00",
+ "generated_at": "2026-08-29T04:11:46.968084+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1029,
+ "count": 1030,
  "articles": [
   {
    "slug": "live-knowing-the-value-of-time-20170114-8",
@@ -3872,6 +3872,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/id/story/good-intention-matters-most-20170325-8.html",
    "md_url": "/id/story/good-intention-matters-most-20170325-8.md"
+  },
+  {
+   "slug": "grown-up-children-20170121-6",
+   "lang": "id",
+   "category": "story",
+   "title": "Anak-anak yang Beranjak Dewasa",
+   "summary": "Sebuah kisah menyentuh tentang seorang anak laki-laki yang hendak pergi dari rumah karena perselisihan orang tuanya. Cerita ini menjadi pengingat akan pentingnya hubungan keluarga dan tantangan dalam mendidik anak di era modern.",
+   "author": "ഇബ്‌നു അലി എടത്തനാട്ടുകര",
+   "issue_date": "2017-01-21",
+   "html_url": "/id/story/grown-up-children-20170121-6.html",
+   "md_url": "/id/story/grown-up-children-20170121-6.md"
   },
   {
    "slug": "an-agenda-is-needed-during-vacation-too-20170325-1",
