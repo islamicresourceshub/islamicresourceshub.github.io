@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T08:56:27.969464+00:00",
+ "generated_at": "2026-08-29T08:56:44.964502+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1403,
+ "count": 1404,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -979,6 +979,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/as/dawah/live-knowing-the-value-of-time-20170114-8.html",
    "md_url": "/as/dawah/live-knowing-the-value-of-time-20170114-8.md"
+  },
+  {
+   "slug": "muslims-in-a-pluralistic-society-20170128-1",
+   "lang": "as",
+   "category": "dawah",
+   "title": "বহুমুখী সমাজত মুছলিম",
+   "summary": "ইছলামৰ বাহিৰৰ লোকসকলৰ সৈতে সদ্ভাৱেৰে থকাৰ বিষয়ে কোৰআনৰ শিক্ষা। সন্ত্ৰাসবাদক ঘৃণা কৰা ধৰ্ম হিচাপে ইছলামৰ এই ধাৰাবাহিক প্ৰবন্ধটোৰ দ্বিতীয় খণ্ড এয়া।",
+   "author": "അൻവർ അബൂബക്കർ",
+   "issue_date": "2017-01-28",
+   "html_url": "/as/dawah/muslims-in-a-pluralistic-society-20170128-1.html",
+   "md_url": "/as/dawah/muslims-in-a-pluralistic-society-20170128-1.md"
   },
   {
    "slug": "prayer-that-is-worship-20170325-6",
