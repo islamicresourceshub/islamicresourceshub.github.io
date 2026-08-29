@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T04:23:22.933137+00:00",
+ "generated_at": "2026-08-29T04:23:42.580348+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1078,
+ "count": 1079,
  "articles": [
   {
    "slug": "live-knowing-the-value-of-time-20170114-8",
@@ -8107,6 +8107,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/ps/story/grown-up-children-20170121-6.html",
    "md_url": "/ps/story/grown-up-children-20170121-6.md"
+  },
+  {
+   "slug": "the-fruit-of-ingratitude-20170121-7",
+   "lang": "ps",
+   "category": "story",
+   "title": "د شکر پرېښودلو پایله",
+   "summary": "د یو نیک کښت کوونکي کیسه چې غریبانو سره مرسته کوي. دا یوه اخلاقي کیسه ده چې د شکر پرېښودلو ناوړه پایلې یادوي.",
+   "author": "അബൂറാഷിദ",
+   "issue_date": "2017-01-21",
+   "html_url": "/ps/story/the-fruit-of-ingratitude-20170121-7.html",
+   "md_url": "/ps/story/the-fruit-of-ingratitude-20170121-7.md"
   },
   {
    "slug": "an-agenda-is-needed-during-vacation-too-20170325-1",
