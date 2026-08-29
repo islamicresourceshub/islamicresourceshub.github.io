@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T09:52:08.206914+00:00",
+ "generated_at": "2026-08-29T09:52:20.915786+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1587,
+ "count": 1588,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -14795,6 +14795,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/te/story/grown-up-children-20170121-6.html",
    "md_url": "/te/story/grown-up-children-20170121-6.md"
+  },
+  {
+   "slug": "laws-are-to-be-followed-20170128-5",
+   "lang": "te",
+   "category": "story",
+   "title": "నియమాలు పాటించడానికే",
+   "summary": "సుహైల్ పట్టణంలోని ఒక డెంటల్ క్లినిక్ వద్ద జరిగిన ఒక చిన్న సంఘటన ద్వారా, ట్రాఫిక్ నియమాలను పాటించడం ఎంత ముఖ్యమో ఈ కథ వివరిస్తుంది. ఒక ముస్లిం క్రమశిక్షణతో ఎలా ఉండాలో ఇందులో చక్కగా వివరించబడింది.",
+   "author": "ഉസ്‌മാൻ പാലക്കാഴ‍ി",
+   "issue_date": "2017-01-28",
+   "html_url": "/te/story/laws-are-to-be-followed-20170128-5.html",
+   "md_url": "/te/story/laws-are-to-be-followed-20170128-5.md"
   },
   {
    "slug": "the-fruit-of-ingratitude-20170121-7",
