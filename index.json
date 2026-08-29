@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T08:57:00.620970+00:00",
+ "generated_at": "2026-08-29T08:57:16.309583+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1405,
+ "count": 1406,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -1727,6 +1727,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/bs/dawah/live-knowing-the-value-of-time-20170114-8.html",
    "md_url": "/bs/dawah/live-knowing-the-value-of-time-20170114-8.md"
+  },
+  {
+   "slug": "muslims-in-a-pluralistic-society-20170128-1",
+   "lang": "bs",
+   "category": "dawah",
+   "title": "Muslim u pluralističkom društvu",
+   "summary": "Kur'anska studija o postupanju s dobrotom prema nemuslimanskim zajednicama. Ovo je drugi dio serijala o vjeri koja prezire ekstremizam.",
+   "author": "അൻവർ അബൂബക്കർ",
+   "issue_date": "2017-01-28",
+   "html_url": "/bs/dawah/muslims-in-a-pluralistic-society-20170128-1.html",
+   "md_url": "/bs/dawah/muslims-in-a-pluralistic-society-20170128-1.md"
   },
   {
    "slug": "prayer-that-is-worship-20170325-6",
