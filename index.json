@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T09:26:43.575727+00:00",
+ "generated_at": "2026-08-29T09:27:03.244769+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1495,
+ "count": 1496,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -7106,6 +7106,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/ko/opinion/everyone-should-have-a-beard-20170121-3.html",
    "md_url": "/ko/opinion/everyone-should-have-a-beard-20170121-3.md"
+  },
+  {
+   "slug": "hajj-subsidy-before-putting-the-muslim-community-in-the-dock-20170128-3",
+   "lang": "ko",
+   "category": "opinion",
+   "title": "하지 보조금: 무슬림 공동체를 궁지에 몰아넣기 전에",
+   "summary": "하지 보조금 폐지 논란을 통해 무슬림 공동체를 희생양으로 삼으려는 사회적 분위기를 비판적으로 분석하고, 보조금 제도의 실체와 투명성 문제를 다룹니다.",
+   "author": "പി.വി.എ പ്രിംറോസ്‌",
+   "issue_date": "2017-01-28",
+   "html_url": "/ko/opinion/hajj-subsidy-before-putting-the-muslim-community-in-the-dock-20170128-3.html",
+   "md_url": "/ko/opinion/hajj-subsidy-before-putting-the-muslim-community-in-the-dock-20170128-3.md"
   },
   {
    "slug": "india-which-way-forward-20170325-2",
