@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T07:36:10.327204+00:00",
+ "generated_at": "2026-08-29T07:36:49.047423+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1121,
+ "count": 1122,
  "articles": [
   {
    "slug": "live-knowing-the-value-of-time-20170114-8",
@@ -9559,6 +9559,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/sq/dawah/religion-is-fearlessness-20170114-6.html",
    "md_url": "/sq/dawah/religion-is-fearlessness-20170114-6.md"
+  },
+  {
+   "slug": "stand-tall-20170121-8",
+   "lang": "sq",
+   "category": "dawah",
+   "title": "Qëndro i Palëkundur",
+   "summary": "Një artikull që përcjell mesazhin se besimi i vërtetë është burim fuqie. Shpjegon rëndësinë e të qëndruarit lart dhe të palëkundur edhe në rrethana të vështira.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2017-01-21",
+   "html_url": "/sq/dawah/stand-tall-20170121-8.html",
+   "md_url": "/sq/dawah/stand-tall-20170121-8.md"
   },
   {
    "slug": "don-t-worry-allah-is-with-you-20170114-10",
