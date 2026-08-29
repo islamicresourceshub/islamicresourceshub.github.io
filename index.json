@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T09:32:29.323734+00:00",
+ "generated_at": "2026-08-29T09:32:49.466624+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1512,
+ "count": 1513,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -15147,6 +15147,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/tr/opinion/everyone-should-have-a-beard-20170121-3.html",
    "md_url": "/tr/opinion/everyone-should-have-a-beard-20170121-3.md"
+  },
+  {
+   "slug": "hajj-subsidy-before-putting-the-muslim-community-in-the-dock-20170128-3",
+   "lang": "tr",
+   "category": "opinion",
+   "title": "Hac Sübvansiyonu: Müslüman Toplumu Sanık Sandalyesine Oturtmadan Önce",
+   "summary": "Hac sübvansiyonunun kaldırılması tartışmaları üzerinden Müslüman toplumunun haksız yere hedef tahtasına oturtulmasını eleştirel bir bakış açısıyla analiz eden bir yazı.",
+   "author": "പി.വി.എ പ്രിംറോസ്‌",
+   "issue_date": "2017-01-28",
+   "html_url": "/tr/opinion/hajj-subsidy-before-putting-the-muslim-community-in-the-dock-20170128-3.html",
+   "md_url": "/tr/opinion/hajj-subsidy-before-putting-the-muslim-community-in-the-dock-20170128-3.md"
   },
   {
    "slug": "india-which-way-forward-20170325-2",
