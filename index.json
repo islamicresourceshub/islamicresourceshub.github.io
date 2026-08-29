@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T09:04:23.395873+00:00",
+ "generated_at": "2026-08-29T09:04:38.128076+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1430,
+ "count": 1431,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -12716,6 +12716,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/ta/dawah/live-knowing-the-value-of-time-20170114-8.html",
    "md_url": "/ta/dawah/live-knowing-the-value-of-time-20170114-8.md"
+  },
+  {
+   "slug": "muslims-in-a-pluralistic-society-20170128-1",
+   "lang": "ta",
+   "category": "dawah",
+   "title": "பன்முகத்தன்மை கொண்ட சமூகத்தில் முஸ்லிம்கள்",
+   "summary": "இஸ்லாமியரல்லாதவர்களுடன் நற்பண்புகளுடன் பழகுவது குறித்த குர்ஆனிய வழிகாட்டல்கள். தீவிரவாதத்தை வெறுக்கும் மார்க்கம் என்ற தொடரின் இரண்டாம் பகுதி இது.",
+   "author": "അൻവർ അബൂബക്കർ",
+   "issue_date": "2017-01-28",
+   "html_url": "/ta/dawah/muslims-in-a-pluralistic-society-20170128-1.html",
+   "md_url": "/ta/dawah/muslims-in-a-pluralistic-society-20170128-1.md"
   },
   {
    "slug": "prayer-that-is-worship-20170325-6",
