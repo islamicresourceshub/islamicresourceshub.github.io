@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T07:53:15.030388+00:00",
+ "generated_at": "2026-08-29T07:53:31.154861+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1169,
+ "count": 1170,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -12507,6 +12507,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/uz/youth/what-will-the-waste-do-20170114-5.html",
    "md_url": "/uz/youth/what-will-the-waste-do-20170114-5.md"
+  },
+  {
+   "slug": "do-not-waver-in-trials-20170121-9",
+   "lang": "vi",
+   "category": "dawah",
+   "title": "Đừng nao núng trước những thử thách",
+   "summary": "Bài viết phân tích cuộc đời của các vị tiên tri, những người đã đạt được thiên đàng mà không hề nao núng trước những thử thách khắc nghiệt. Đồng thời nhấn mạnh tầm quan trọng của việc giữ vững niềm tin trong cả cảnh nghèo khó lẫn giàu sang.",
+   "author": "മെഹബൂബ്‌ മദനി ഒറ്റപ്പാലം",
+   "issue_date": "2017-01-21",
+   "html_url": "/vi/dawah/do-not-waver-in-trials-20170121-9.html",
+   "md_url": "/vi/dawah/do-not-waver-in-trials-20170121-9.md"
   },
   {
    "slug": "live-knowing-the-value-of-time-20170114-8",
