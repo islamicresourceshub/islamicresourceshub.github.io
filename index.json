@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T08:36:01.712834+00:00",
+ "generated_at": "2026-08-29T08:36:17.119490+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1330,
+ "count": 1331,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -2695,6 +2695,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/es/dawah/religion-is-fearlessness-20170114-6.html",
    "md_url": "/es/dawah/religion-is-fearlessness-20170114-6.md"
+  },
+  {
+   "slug": "showing-the-light-is-the-duty-of-scholars-20170121-14",
+   "lang": "es",
+   "category": "dawah",
+   "title": "El deber de los eruditos es mostrar la luz",
+   "summary": "Este artículo destaca la importancia de no ignorar a quienes buscan conocimiento a través de preguntas. Explica que el deber de los eruditos islámicos es proporcionar respuestas claras y basadas en la evidencia, guiando a la gente hacia la verdad en lugar de evadir temas con respuestas vagas.",
+   "author": "ടി.കെ.അശ്‌റഫ്‌",
+   "issue_date": "2017-01-21",
+   "html_url": "/es/dawah/showing-the-light-is-the-duty-of-scholars-20170121-14.html",
+   "md_url": "/es/dawah/showing-the-light-is-the-duty-of-scholars-20170121-14.md"
   },
   {
    "slug": "stand-tall-20170121-8",
