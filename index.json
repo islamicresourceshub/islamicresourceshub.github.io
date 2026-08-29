@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T08:31:02.312847+00:00",
+ "generated_at": "2026-08-29T08:31:16.759521+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1311,
+ "count": 1312,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -10582,6 +10582,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/si/opinion/terrorism-and-religious-freedom-20170114-1.html",
    "md_url": "/si/opinion/terrorism-and-religious-freedom-20170114-1.md"
+  },
+  {
+   "slug": "the-shackles-of-consumerist-culture-20170121-13",
+   "lang": "si",
+   "category": "opinion",
+   "title": "පාරිභෝගික සංස්කෘතියේ උගුල",
+   "summary": "පාරිභෝගික සංස්කෘතියේ ග්‍රහණයට හසු වූ නූතන ජීවිතය පිළිබඳ විවේචනාත්මක විශ්ලේෂණයක් මෙහි අන්තර්ගත වේ. දියුණු යැයි සම්මත යුගයක මිනිසා අත්විඳින ආධ්‍යාත්මික දරිද්‍රතාවය සහ ණය උගුල පිළිබඳව මෙහි අවධානය යොමු කෙරේ.",
+   "author": "കുഞ്ഞിമുഹമ്മദ്‌ മദനി പറപ്പൂർ",
+   "issue_date": "2017-01-21",
+   "html_url": "/si/opinion/the-shackles-of-consumerist-culture-20170121-13.html",
+   "md_url": "/si/opinion/the-shackles-of-consumerist-culture-20170121-13.md"
   },
   {
    "slug": "uapa-wielding-sedition-law-20170114-9",
