@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T08:24:32.879216+00:00",
+ "generated_at": "2026-08-29T08:24:51.658795+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1283,
+ "count": 1284,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -13761,6 +13761,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/vi/dawah/the-message-of-equality-20170121-11.html",
    "md_url": "/vi/dawah/the-message-of-equality-20170121-11.md"
+  },
+  {
+   "slug": "the-religion-that-rejects-terrorism-part-1-20170121-12",
+   "lang": "vi",
+   "category": "dawah",
+   "title": "Tôn giáo khước từ chủ nghĩa cực đoan",
+   "summary": "Bài viết giải thích bản chất của Hồi giáo, một tôn giáo luôn khao khát hòa bình. Trong phần một, chúng ta sẽ tìm hiểu cách thức đức tin độc thần và các nghi lễ thờ phụng ngăn chặn chủ nghĩa cực đoan.",
+   "author": "അൻവർ അബൂബക്കർ",
+   "issue_date": "2017-01-21",
+   "html_url": "/vi/dawah/the-religion-that-rejects-terrorism-part-1-20170121-12.html",
+   "md_url": "/vi/dawah/the-religion-that-rejects-terrorism-part-1-20170121-12.md"
   },
   {
    "slug": "don-t-worry-allah-is-with-you-20170114-10",
