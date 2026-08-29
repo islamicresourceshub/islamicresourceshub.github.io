@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T08:52:45.081841+00:00",
+ "generated_at": "2026-08-29T08:53:02.680728+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1390,
+ "count": 1391,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -11814,6 +11814,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/sq/hadith/control-your-mind-20170325-3.html",
    "md_url": "/sq/hadith/control-your-mind-20170325-3.md"
+  },
+  {
+   "slug": "e-writing-is-not-mere-writing-20170121-15",
+   "lang": "sq",
+   "category": "opinion",
+   "title": "E-shkrimi nuk është thjesht shkrim",
+   "summary": "Ky artikull analizon rëndësinë e shkrimit në epokën dixhitale dhe ndikimin e tij shoqëror. Ai shqyrton gjithashtu se si mediat sociale dhe bloget po sfidojnë narrativat e mediave tradicionale dhe rolin e tyre në përhapjen e dezinformatave.",
+   "author": "അബ്ദുല്ല ബാസിൽ സി.പി",
+   "issue_date": "2017-01-21",
+   "html_url": "/sq/opinion/e-writing-is-not-mere-writing-20170121-15.html",
+   "md_url": "/sq/opinion/e-writing-is-not-mere-writing-20170121-15.md"
   },
   {
    "slug": "elections-the-stand-must-be-well-considered-20170325-10",
