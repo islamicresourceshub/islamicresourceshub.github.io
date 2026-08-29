@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T08:35:31.389850+00:00",
+ "generated_at": "2026-08-29T08:35:47.600920+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1328,
+ "count": 1329,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -2013,6 +2013,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/de/dawah/religion-is-fearlessness-20170114-6.html",
    "md_url": "/de/dawah/religion-is-fearlessness-20170114-6.md"
+  },
+  {
+   "slug": "showing-the-light-is-the-duty-of-scholars-20170121-14",
+   "lang": "de",
+   "category": "dawah",
+   "title": "Die Pflicht der Gelehrten ist es, Licht zu spenden",
+   "summary": "Dieser Artikel betont, dass Gelehrte Menschen, die Fragen stellen, nicht ignorieren sollten. Er erläutert, dass es die Pflicht der Gelehrten ist, Wissen zu verbreiten und durch klare, fundierte Antworten Licht in religiöse Angelegenheiten zu bringen.",
+   "author": "ടി.കെ.അശ്‌റഫ്‌",
+   "issue_date": "2017-01-21",
+   "html_url": "/de/dawah/showing-the-light-is-the-duty-of-scholars-20170121-14.html",
+   "md_url": "/de/dawah/showing-the-light-is-the-duty-of-scholars-20170121-14.md"
   },
   {
    "slug": "stand-tall-20170121-8",
