@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T09:11:51.375727+00:00",
+ "generated_at": "2026-08-29T09:12:10.774841+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1456,
+ "count": 1457,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -6875,6 +6875,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/ko/hadith/control-your-mind-20170325-3.html",
    "md_url": "/ko/hadith/control-your-mind-20170325-3.md"
+  },
+  {
+   "slug": "criteria-for-accepting-hadith-20170128-2",
+   "lang": "ko",
+   "category": "hadith",
+   "title": "하디스 수용의 기준",
+   "summary": "하디스 수용의 기준에 대한 철학적 분석입니다. '살라피 선교: 철학적 분석' 시리즈의 두 번째 편입니다.",
+   "author": "ശൈഖ് നാസ്വിറുദ്ദീന്‍ അല്‍ബാനി (വിവര്‍ത്തനം: ശമീര്‍ മദീനി)",
+   "issue_date": "2017-01-28",
+   "html_url": "/ko/hadith/criteria-for-accepting-hadith-20170128-2.html",
+   "md_url": "/ko/hadith/criteria-for-accepting-hadith-20170128-2.md"
   },
   {
    "slug": "e-writing-is-not-mere-writing-20170121-15",
