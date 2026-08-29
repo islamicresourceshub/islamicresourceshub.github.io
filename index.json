@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T09:52:20.915786+00:00",
+ "generated_at": "2026-08-29T09:52:33.047295+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1588,
+ "count": 1589,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -15213,6 +15213,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/th/story/grown-up-children-20170121-6.html",
    "md_url": "/th/story/grown-up-children-20170121-6.md"
+  },
+  {
+   "slug": "laws-are-to-be-followed-20170128-5",
+   "lang": "th",
+   "category": "story",
+   "title": "กฎมีไว้ให้ปฏิบัติตาม",
+   "summary": "เรื่องราวเริ่มต้นขึ้นที่คลินิกทันตกรรมในเมืองซูฮัยล์ ซึ่งถ่ายทอดบทเรียนสำคัญผ่านประสบการณ์จริงเกี่ยวกับการเคารพกฎระเบียบในชีวิตประจำวัน",
+   "author": "ഉസ്‌മാൻ പാലക്കാഴ‍ി",
+   "issue_date": "2017-01-28",
+   "html_url": "/th/story/laws-are-to-be-followed-20170128-5.html",
+   "md_url": "/th/story/laws-are-to-be-followed-20170128-5.md"
   },
   {
    "slug": "the-fruit-of-ingratitude-20170121-7",
