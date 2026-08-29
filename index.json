@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T07:48:09.900103+00:00",
+ "generated_at": "2026-08-29T07:48:25.508436+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1152,
+ "count": 1153,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -7480,6 +7480,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/ms/youth/what-will-the-waste-do-20170114-5.html",
    "md_url": "/ms/youth/what-will-the-waste-do-20170114-5.md"
+  },
+  {
+   "slug": "do-not-waver-in-trials-20170121-9",
+   "lang": "ne",
+   "category": "dawah",
+   "title": "परीक्षणहरूमा नडगमगाउनुहोस्",
+   "summary": "कठिन परीक्षाहरूमा नडगमगाई स्वर्ग प्राप्त गर्ने पैगम्बरहरूको जीवनको विश्लेषण गरिएको छ। गरिबी र समृद्धि दुवै अवस्थामा अडिग रहनुको महत्त्वबारे चर्चा गरिएको छ।",
+   "author": "മെഹബൂബ്‌ മദനി ഒറ്റപ്പാലം",
+   "issue_date": "2017-01-21",
+   "html_url": "/ne/dawah/do-not-waver-in-trials-20170121-9.html",
+   "md_url": "/ne/dawah/do-not-waver-in-trials-20170121-9.md"
   },
   {
    "slug": "live-knowing-the-value-of-time-20170114-8",
