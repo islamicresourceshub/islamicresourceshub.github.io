@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T09:30:45.957767+00:00",
+ "generated_at": "2026-08-29T09:31:04.945897+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1507,
+ "count": 1508,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -13178,6 +13178,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/sw/opinion/everyone-should-have-a-beard-20170121-3.html",
    "md_url": "/sw/opinion/everyone-should-have-a-beard-20170121-3.md"
+  },
+  {
+   "slug": "hajj-subsidy-before-putting-the-muslim-community-in-the-dock-20170128-3",
+   "lang": "sw",
+   "category": "opinion",
+   "title": "Ruzuku ya Hajj: Kabla ya kuiweka jamii ya Waislamu kwenye kizimba",
+   "summary": "Makala haya yanachambua kwa kina mjadala wa ruzuku ya Hajj na jinsi jamii ya Waislamu inavyolengwa isivyo haki katika suala hili. Inatoa mtazamo wa kihistoria na kiuchumi kuhusu ruzuku hiyo na kupendekeza njia mbadala za uwazi.",
+   "author": "പി.വി.എ പ്രിംറോസ്‌",
+   "issue_date": "2017-01-28",
+   "html_url": "/sw/opinion/hajj-subsidy-before-putting-the-muslim-community-in-the-dock-20170128-3.html",
+   "md_url": "/sw/opinion/hajj-subsidy-before-putting-the-muslim-community-in-the-dock-20170128-3.md"
   },
   {
    "slug": "india-which-way-forward-20170325-2",
