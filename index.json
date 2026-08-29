@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T07:54:44.382498+00:00",
+ "generated_at": "2026-08-29T07:55:02.982244+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1174,
+ "count": 1175,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -1309,6 +1309,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/bn/opinion/muslim-extremists-defame-islam-20170114-7.html",
    "md_url": "/bn/opinion/muslim-extremists-defame-islam-20170114-7.md"
+  },
+  {
+   "slug": "salafi-preaching-a-theoretical-analysis-20170121-10",
+   "lang": "bn",
+   "category": "opinion",
+   "title": "সালাফি দাওয়াহ: একটি তাত্ত্বিক বিশ্লেষণ",
+   "summary": "সালাফি দাওয়াহ বা আহবানের একটি তাত্ত্বিক বিশ্লেষণ এখানে তুলে ধরা হয়েছে। কুরআন ও সুন্নাহর আলোকে সাহাবায়ে কেরাম ও তাঁদের অনুসারীদের পথ অনুসরণ করার গুরুত্ব ও প্রয়োজনীয়তা এই নিবন্ধে আলোচনা করা হয়েছে।",
+   "author": "ശൈഖ് നാസ്വിറുദ്ദീന്‍ അല്‍ബാനി (വിവര്‍ത്തനം: ശമീര്‍ മദീനി)",
+   "issue_date": "2017-01-21",
+   "html_url": "/bn/opinion/salafi-preaching-a-theoretical-analysis-20170121-10.html",
+   "md_url": "/bn/opinion/salafi-preaching-a-theoretical-analysis-20170121-10.md"
   },
   {
    "slug": "terrorism-and-religious-freedom-20170114-1",
