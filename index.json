@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T09:43:27.631558+00:00",
+ "generated_at": "2026-08-29T09:43:44.059573+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1547,
+ "count": 1548,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -13695,6 +13695,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/ta/dawah/do-not-waver-in-trials-20170121-9.html",
    "md_url": "/ta/dawah/do-not-waver-in-trials-20170121-9.md"
+  },
+  {
+   "slug": "jallikattu-and-the-islamic-approach-to-animals-20170128-4",
+   "lang": "ta",
+   "category": "dawah",
+   "title": "ஜல்லிக்கட்டும் விலங்குகள் குறித்த இஸ்லாமிய அணுகுமுறையும்",
+   "summary": "ஜல்லிக்கட்டு விவகாரத்தின் பின்னணியில், விலங்குகளிடம் இஸ்லாம் காட்டும் கருணை மற்றும் மென்மையான அணுகுமுறையை இக்கட்டுரை விளக்குகிறது. அல்லாஹ்வின் படைப்புகளான உயிரினங்களுக்கு இஸ்லாம் வழங்கியுள்ள உரிமைகளை இது எடுத்துரைக்கிறது.",
+   "author": "അബ്ദുൽ മാലിക്‌ സലഫി",
+   "issue_date": "2017-01-28",
+   "html_url": "/ta/dawah/jallikattu-and-the-islamic-approach-to-animals-20170128-4.html",
+   "md_url": "/ta/dawah/jallikattu-and-the-islamic-approach-to-animals-20170128-4.md"
   },
   {
    "slug": "live-knowing-the-value-of-time-20170114-8",
