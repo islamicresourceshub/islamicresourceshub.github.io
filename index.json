@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T09:41:16.477291+00:00",
+ "generated_at": "2026-08-29T09:41:38.379482+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1540,
+ "count": 1541,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -10868,6 +10868,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/ps/dawah/do-not-waver-in-trials-20170121-9.html",
    "md_url": "/ps/dawah/do-not-waver-in-trials-20170121-9.md"
+  },
+  {
+   "slug": "jallikattu-and-the-islamic-approach-to-animals-20170128-4",
+   "lang": "ps",
+   "category": "dawah",
+   "title": "جليکټ او د څارویو په اړه اسلامي لیدلوری",
+   "summary": "دا لیکنه د جليکټ (Jallikattu) د موضوع له لارې د څارویو په اړه د اسلامي لیدلوري وضاحت کوي. په دې کې د الله تعالی د مخلوقاتو سره د مهربانۍ او رحم کولو پر اهمیت ټینګار شوی دی.",
+   "author": "അബ്ദുൽ മാലിക്‌ സലഫി",
+   "issue_date": "2017-01-28",
+   "html_url": "/ps/dawah/jallikattu-and-the-islamic-approach-to-animals-20170128-4.html",
+   "md_url": "/ps/dawah/jallikattu-and-the-islamic-approach-to-animals-20170128-4.md"
   },
   {
    "slug": "live-knowing-the-value-of-time-20170114-8",
