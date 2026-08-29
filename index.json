@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T08:14:00.872192+00:00",
+ "generated_at": "2026-08-29T08:14:22.219895+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1246,
+ "count": 1247,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -286,6 +286,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/am/dawah/the-message-of-equality-20170121-11.html",
    "md_url": "/am/dawah/the-message-of-equality-20170121-11.md"
+  },
+  {
+   "slug": "the-religion-that-rejects-terrorism-part-1-20170121-12",
+   "lang": "am",
+   "category": "dawah",
+   "title": "አሸባሪነትን የሚጠላው ሃይማኖት",
+   "summary": "ሰላምን የሚሻው የእስልምና ሃይማኖት ተፈጥሮ የሚብራራበት ጽሑፍ። በአንደኛው ክፍል፣ የአንድ አምላክ እምነት እና የአምልኮ ሥርዓቶች አሸባሪነትን እንዴት እንደሚያወግዙ ይዳሰሳል።",
+   "author": "അൻവർ അബൂബക്കർ",
+   "issue_date": "2017-01-21",
+   "html_url": "/am/dawah/the-religion-that-rejects-terrorism-part-1-20170121-12.html",
+   "md_url": "/am/dawah/the-religion-that-rejects-terrorism-part-1-20170121-12.md"
   },
   {
    "slug": "don-t-worry-allah-is-with-you-20170114-10",
