@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T07:40:14.140601+00:00",
+ "generated_at": "2026-08-29T07:40:42.810814+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1129,
+ "count": 1130,
  "articles": [
   {
    "slug": "live-knowing-the-value-of-time-20170114-8",
@@ -11847,6 +11847,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/uz/dawah/religion-is-fearlessness-20170114-6.html",
    "md_url": "/uz/dawah/religion-is-fearlessness-20170114-6.md"
+  },
+  {
+   "slug": "stand-tall-20170121-8",
+   "lang": "uz",
+   "category": "dawah",
+   "title": "Tik turish",
+   "summary": "Imon qudrat manbai ekanligi haqidagi maqola. Qiyin vaziyatlarda ham o'z qadrini yo'qotmasdan, baland turishning ahamiyatini tushuntiradi.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2017-01-21",
+   "html_url": "/uz/dawah/stand-tall-20170121-8.html",
+   "md_url": "/uz/dawah/stand-tall-20170121-8.md"
   },
   {
    "slug": "don-t-worry-allah-is-with-you-20170114-10",
