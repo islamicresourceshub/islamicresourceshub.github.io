@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-29T08:01:34.978417+00:00",
+ "generated_at": "2026-08-29T08:01:56.925408+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1196,
+ "count": 1197,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -9691,6 +9691,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/si/opinion/muslim-extremists-defame-islam-20170114-7.html",
    "md_url": "/si/opinion/muslim-extremists-defame-islam-20170114-7.md"
+  },
+  {
+   "slug": "salafi-preaching-a-theoretical-analysis-20170121-10",
+   "lang": "si",
+   "category": "opinion",
+   "title": "සලෆි දහම් ප්‍රචාරණය: දාර්ශනික විශ්ලේෂණයක්",
+   "summary": "සලෆි දහම් ප්‍රචාරණය පිළිබඳ දාර්ශනික විශ්ලේෂණයක් මෙහි අන්තර්ගත වේ. මුහාජිර්වරුන්ගේ සහ අන්සාර්වරුන්ගේ ආදර්ශය කුර්ආන් වැකිවල ආලෝකයෙන් මෙහි විමසා බලයි.",
+   "author": "ശൈഖ് നാസ്വിറുദ്ദീന്‍ അല്‍ബാനി (വിവര്‍ത്തനം: ശമീര്‍ മദീനി)",
+   "issue_date": "2017-01-21",
+   "html_url": "/si/opinion/salafi-preaching-a-theoretical-analysis-20170121-10.html",
+   "md_url": "/si/opinion/salafi-preaching-a-theoretical-analysis-20170121-10.md"
   },
   {
    "slug": "terrorism-and-religious-freedom-20170114-1",
