@@ -2,6 +2,7 @@
 from __future__ import annotations
 
 import json
+import shutil
 from pathlib import Path
 
 from .config import Config
@@ -52,6 +53,15 @@ def translate_next(store: Store, cfg: Config, llm: LLMClient, sitegen) -> bool:
     rel = art["md_rel_path"].replace("ml/", f"{lang}/", 1)
     abs_path = cfg.root / "site" / rel
     abs_path.parent.mkdir(parents=True, exist_ok=True)
+
+    # Non-destructive: back up existing translation before overwriting
+    if abs_path.exists():
+        backup_dir = cfg.root / "state" / "translation_backups"
+        backup_dir.mkdir(parents=True, exist_ok=True)
+        backup_name = f"{Path(rel).stem}_{lang}_backup.md"
+        shutil.copy2(abs_path, backup_dir / backup_name)
+        print(f"[translate] backed up existing {rel} -> {backup_name}")
+
     abs_path.write_text(build_front_matter(new_fm) + "\n\n" + t_body + "\n", encoding="utf-8")
     sitegen.render_article(cfg, rel)
 

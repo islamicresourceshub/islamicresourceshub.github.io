@@ -14,4 +14,8 @@ blockquote{border-left:4px solid var(--accent);margin:1.2em 0;padding:.2em 1em;b
 .cards a:hover{color:var(--accent)}
 .cards small{display:block;color:var(--muted);font-family:system-ui,sans-serif}
 img{max-width:100%;height:auto}
-[dir=rtl]{text-align:right}
+[dir=rtl]{text-align:right;direction:rtl}
+[dir=rtl] .top a{margin-right:0;margin-left:.4rem}
+[dir=rtl] blockquote{border-left:none;border-right:4px solid var(--accent)}
+[dir=rtl] body{font-family:'Traditional Arabic','Scheherazade New','Noto Naskh Arabic',Georgia,'Times New Roman',serif}
+.index-desc{color:var(--muted);font-family:system-ui,sans-serif;font-size:1rem;margin-top:0}

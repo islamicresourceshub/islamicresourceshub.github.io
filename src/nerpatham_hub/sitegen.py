@@ -37,7 +37,7 @@ def _og_locale(lang: str) -> str:
     return mapping.get(lang, lang)
 
 PAGE_TMPL = """<!doctype html>
-<html lang="{lang}">
+<html lang="{lang}" dir="{dir}">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -82,7 +82,7 @@ PAGE_TMPL = """<!doctype html>
 """
 
 INDEX_TMPL = """<!doctype html>
-<html lang="{lang}">
+<html lang="{lang}" dir="{dir}">
 <head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="google-site-verification" content="Av_XpCmnivIEF9qGNM-zHFQ3oaJPO9R4wBAJz8egCJY" />
 <title>{title}</title>
@@ -117,13 +117,7 @@ INDEX_TMPL = """<!doctype html>
 
 class SiteGen:
     def __init__(self, cfg: Config):
-        # single-repo (Pages) layout: static at repo root (site/ is root)
-        # two-repo layout: static in ROOT/site/. Detect automatically.
-        candidate = cfg.root / "site"
-        if (candidate / "index.html").exists() or (candidate / "index.json").exists():
-            self.site = candidate
-        else:
-            self.site = cfg.root
+        self.site = cfg.root / "site"
 
     # ------------------------------------------------------------- repo ----
     def ensure_repo(self, cfg: Config):
@@ -252,6 +246,7 @@ class SiteGen:
 
         html = PAGE_TMPL.format(
             lang=str(fm.get("lang", "ml")),
+            dir="rtl" if Config.is_rtl(str(fm.get("lang", "ml"))) else "ltr",
             lang_label=cfg.lang_name(str(fm.get("lang", "ml"))),
             title=title_str,
             site_title=site_title,
@@ -281,7 +276,6 @@ class SiteGen:
         entries = []
         for p in sorted(self.site.rglob("*.md")):
             rel = p.relative_to(self.site).as_posix()
-            # never index build sources
             if rel.startswith("src/") or rel.startswith(".github/"):
                 continue
             parts = rel.split("/")
@@ -359,7 +353,7 @@ class SiteGen:
             "inLanguage": "en"
         }, ensure_ascii=False).replace("</", "<\\/")
         self._write_page("index.html", INDEX_TMPL.format(
-            lang="en", title=site_title,
+            lang="en", dir="ltr", title=site_title,
             heading=site_title, crumb="", items="\n".join(lines),
             desc_attr=root_desc, canonical=root_canonical,
             og_locale="en_US", og_title_attr=_escape_attr(site_title),
@@ -380,7 +374,8 @@ class SiteGen:
             }, ensure_ascii=False).replace("</", "<\\/")
             items = "\n".join(self._card(e, cfg, with_cat=True) for e in entries if e["lang"] == code)
             self._write_page(f"{code}/index.html", INDEX_TMPL.format(
-                lang=code, title=f"{cfg.lang_name(code)} — {site_title}",
+                lang=code, dir="rtl" if Config.is_rtl(code) else "ltr",
+                title=f"{cfg.lang_name(code)} — {site_title}",
                 heading=cfg.lang_name(code), crumb=f' · <a href="/">home</a>', items=items or "<li>Nothing yet.</li>",
                 desc_attr=_escape_attr(lang_desc[:160]), canonical=lang_canonical,
                 og_locale=_og_locale(code), og_title_attr=_escape_attr(f"{cfg.lang_name(code)} — {site_title}"),
@@ -410,7 +405,8 @@ class SiteGen:
                 }, ensure_ascii=False).replace("</", "<\\/")
                 items = "\n".join(self._card(e, cfg) for e in sub)
                 self._write_page(f"{code}/{cat}/index.html", INDEX_TMPL.format(
-                    lang=code, title=f"{cat_name} — {cfg.lang_name(code)} | {site_title}",
+                    lang=code, dir="rtl" if Config.is_rtl(code) else "ltr",
+                    title=f"{cat_name} — {cfg.lang_name(code)} | {site_title}",
                     heading=cat_name,
                     crumb=f' · <a href="/{code}/index.html">{cfg.lang_name(code)}</a>',
                     items=items or "<li>Nothing yet.</li>",
@@ -543,7 +539,10 @@ blockquote{border-left:4px solid var(--accent);margin:1.2em 0;padding:.2em 1em;b
 .cards a:hover{color:var(--accent)}
 .cards small{display:block;color:var(--muted);font-family:system-ui,sans-serif}
 img{max-width:100%;height:auto}
-[dir=rtl]{text-align:right}
+[dir=rtl]{text-align:right;direction:rtl}
+[dir=rtl] .top a{margin-right:0;margin-left:.4rem}
+[dir=rtl] blockquote{border-left:none;border-right:4px solid var(--accent)}
+[dir=rtl] body{font-family:'Traditional Arabic','Scheherazade New','Noto Naskh Arabic',Georgia,'Times New Roman',serif}
 .index-desc{color:var(--muted);font-family:system-ui,sans-serif;font-size:1rem;margin-top:0}
 """
         (self.site / "style.css").write_text(css, encoding="utf-8")

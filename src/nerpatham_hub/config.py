@@ -10,6 +10,8 @@ from dotenv import load_dotenv
 
 ROOT = Path(__file__).resolve().parents[2]
 
+RTL_LANGS = {"ar", "ur", "fa", "ps", "ha"}
+
 
 class Config:
     def __init__(self, data: dict):
@@ -66,6 +68,10 @@ class Config:
             if l["code"] == code:
                 return l["name"]
         return code
+
+    @staticmethod
+    def is_rtl(code: str) -> bool:
+        return code in RTL_LANGS
 
 
 @lru_cache(maxsize=1)
