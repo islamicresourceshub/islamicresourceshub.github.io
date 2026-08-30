@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-30T16:11:09.315183+00:00",
+ "generated_at": "2026-08-30T16:11:35.903671+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1701,
+ "count": 1702,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -3168,6 +3168,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/en/opinion/uapa-wielding-sedition-law-20170114-9.html",
    "md_url": "/en/opinion/uapa-wielding-sedition-law-20170114-9.md"
+  },
+  {
+   "slug": "warning-signs-from-the-reconstruction-of-history-20170114-2",
+   "lang": "en",
+   "category": "opinion",
+   "title": "Warning Signs from the Reconstruction of History",
+   "summary": "This article warns against the dangerous trend of distorting historical facts to justify biased arguments. It highlights the importance of objective historical analysis and cautions against the deliberate manipulation of India's past for political agendas.",
+   "author": "എസ്‌.എ",
+   "issue_date": "2017-01-14",
+   "html_url": "/en/opinion/warning-signs-from-the-reconstruction-of-history-20170114-2.html",
+   "md_url": "/en/opinion/warning-signs-from-the-reconstruction-of-history-20170114-2.md"
   },
   {
    "slug": "when-national-tradition-is-questioned-20170121-2",
