@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-30T15:50:25.355797+00:00",
+ "generated_at": "2026-08-30T15:53:03.753201+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1670,
+ "count": 1671,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -6644,6 +6644,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/it/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.html",
    "md_url": "/it/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.md"
+  },
+  {
+   "slug": "what-to-beware-of-when-taking-sides-20170128-7",
+   "lang": "it",
+   "category": "quran",
+   "title": "Cosa osservare quando si prende parte",
+   "summary": "Alla luce del versetto 43:67 del Corano, viene spiegata l'importanza di essere cauti quando si prendono posizioni e si mantengono relazioni affettive.",
+   "author": "അബൂ അമീൻ",
+   "issue_date": "2017-01-28",
+   "html_url": "/it/quran/what-to-beware-of-when-taking-sides-20170128-7.html",
+   "md_url": "/it/quran/what-to-beware-of-when-taking-sides-20170128-7.md"
   },
   {
    "slug": "prophets-and-trials-20170325-7",
