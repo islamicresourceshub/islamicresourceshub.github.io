@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-30T16:15:55.328148+00:00",
+ "generated_at": "2026-08-30T16:16:38.267400+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1706,
+ "count": 1707,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -5412,6 +5412,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/ha/opinion/uapa-wielding-sedition-law-20170114-9.html",
    "md_url": "/ha/opinion/uapa-wielding-sedition-law-20170114-9.md"
+  },
+  {
+   "slug": "warning-signs-from-the-reconstruction-of-history-20170114-2",
+   "lang": "ha",
+   "category": "opinion",
+   "title": "Gargadi game da sake fasalta tarihi",
+   "summary": "Wannan labarin ya yi gargadi game da yadda ake karkatar da gaskiyar tarihi don biyan bukatun siyasa. Ya jaddada bukatar masu bincike su kasance masu adalci da rashin nuna bangaranci wajen rubuta tarihi.",
+   "author": "എസ്‌.എ",
+   "issue_date": "2017-01-14",
+   "html_url": "/ha/opinion/warning-signs-from-the-reconstruction-of-history-20170114-2.html",
+   "md_url": "/ha/opinion/warning-signs-from-the-reconstruction-of-history-20170114-2.md"
   },
   {
    "slug": "when-national-tradition-is-questioned-20170121-2",
