@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-30T16:01:36.894588+00:00",
+ "generated_at": "2026-08-30T16:02:12.165625+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1683,
+ "count": 1684,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -7084,6 +7084,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/ja/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.html",
    "md_url": "/ja/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.md"
+  },
+  {
+   "slug": "what-to-beware-of-when-taking-sides-20170128-7",
+   "lang": "ja",
+   "category": "quran",
+   "title": "立場を表明する際に注意すべきこと",
+   "summary": "クルアーン第43章67節の教えに基づき、派閥に加わったり人間関係を築いたりする際に、信仰者が持つべき慎重さと正義への誠実さについて解説します。",
+   "author": "അബൂ അമീൻ",
+   "issue_date": "2017-01-28",
+   "html_url": "/ja/quran/what-to-beware-of-when-taking-sides-20170128-7.html",
+   "md_url": "/ja/quran/what-to-beware-of-when-taking-sides-20170128-7.md"
   },
   {
    "slug": "prophets-and-trials-20170325-7",
