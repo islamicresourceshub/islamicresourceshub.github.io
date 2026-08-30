@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-30T16:36:14.428029+00:00",
+ "generated_at": "2026-08-30T16:37:34.966591+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1717,
+ "count": 1718,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -12166,6 +12166,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/pa/opinion/uapa-wielding-sedition-law-20170114-9.html",
    "md_url": "/pa/opinion/uapa-wielding-sedition-law-20170114-9.md"
+  },
+  {
+   "slug": "warning-signs-from-the-reconstruction-of-history-20170114-2",
+   "lang": "pa",
+   "category": "opinion",
+   "title": "ਇਤਿਹਾਸ ਦੀ ਮੁੜ-ਉਸਾਰੀ ਤੋਂ ਮਿਲਦੇ ਖਤਰੇ ਦੇ ਸੰਕੇਤ",
+   "summary": "ਇਹ ਲੇਖ ਇਤਿਹਾਸਕ ਤੱਥਾਂ ਦੇ ਸਿਰਫ਼ ਇੱਕ ਪੱਖ ਨੂੰ ਪੇਸ਼ ਕਰਕੇ ਆਪਣੇ ਤਰਕਾਂ ਨੂੰ ਸਹੀ ਸਿੱਧ ਕਰਨ ਦੀ ਪ੍ਰਵਿਰਤੀ ਵਿਰੁੱਧ ਚੇਤਾਵਨੀ ਦਿੰਦਾ ਹੈ। ਇਹ ਇਤਿਹਾਸ ਦੀ ਮੁੜ-ਉਸਾਰੀ ਨਾਲ ਜੁੜੇ ਖਤਰਨਾਕ ਸੰਕੇਤਾਂ 'ਤੇ ਚਰਚਾ ਕਰਦਾ ਹੈ।",
+   "author": "എസ്‌.എ",
+   "issue_date": "2017-01-14",
+   "html_url": "/pa/opinion/warning-signs-from-the-reconstruction-of-history-20170114-2.html",
+   "md_url": "/pa/opinion/warning-signs-from-the-reconstruction-of-history-20170114-2.md"
   },
   {
    "slug": "when-national-tradition-is-questioned-20170121-2",
