@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-30T16:07:28.032091+00:00",
+ "generated_at": "2026-08-30T16:08:20.367345+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1690,
+ "count": 1691,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -3047,6 +3047,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/en/opinion/e-writing-is-not-mere-writing-20170121-15.html",
    "md_url": "/en/opinion/e-writing-is-not-mere-writing-20170121-15.md"
+  },
+  {
+   "slug": "elections-the-stand-must-be-well-considered-20170325-10",
+   "lang": "en",
+   "category": "opinion",
+   "title": "Elections: The Stance Must Be Well-Considered",
+   "summary": "This article discusses whether Muslims living in secular democratic India should participate in the electoral process. It provides an analytical perspective on the responsibility of Muslims to contribute to the nation-building process.",
+   "author": "പി.എന്‍ അബ്ദുറഹ്മാന്‍",
+   "issue_date": "2017-03-25",
+   "html_url": "/en/opinion/elections-the-stand-must-be-well-considered-20170325-10.html",
+   "md_url": "/en/opinion/elections-the-stand-must-be-well-considered-20170325-10.md"
   },
   {
    "slug": "everyone-should-have-a-beard-20170121-3",
