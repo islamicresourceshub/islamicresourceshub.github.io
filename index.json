@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-30T16:37:34.966591+00:00",
+ "generated_at": "2026-08-30T16:38:51.547114+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1718,
+ "count": 1719,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -12606,6 +12606,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/ps/opinion/uapa-wielding-sedition-law-20170114-9.html",
    "md_url": "/ps/opinion/uapa-wielding-sedition-law-20170114-9.md"
+  },
+  {
+   "slug": "warning-signs-from-the-reconstruction-of-history-20170114-2",
+   "lang": "ps",
+   "category": "opinion",
+   "title": "د تاریخ د بیا رغونې له لوري وړاندې کېدونکي د خطر نښې",
+   "summary": "دا لیکنه د تاریخي حقایقو یوازې یو اړخ ته د پام اړولو او د خپلو ګټو لپاره د تاریخ د تحریف پر وړاندې خبرداری ورکوي. دغه مقاله د تاریخ د بیا رغونې د خطرناکو پایلو په اړه بحث کوي.",
+   "author": "എസ്‌.എ",
+   "issue_date": "2017-01-14",
+   "html_url": "/ps/opinion/warning-signs-from-the-reconstruction-of-history-20170114-2.html",
+   "md_url": "/ps/opinion/warning-signs-from-the-reconstruction-of-history-20170114-2.md"
   },
   {
    "slug": "who-should-leave-india-20170121-1",
