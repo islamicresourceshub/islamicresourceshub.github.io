@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-30T16:02:54.170626+00:00",
+ "generated_at": "2026-08-30T16:03:30.655927+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1685,
+ "count": 1686,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -7964,6 +7964,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/ko/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.html",
    "md_url": "/ko/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.md"
+  },
+  {
+   "slug": "what-to-beware-of-when-taking-sides-20170128-7",
+   "lang": "ko",
+   "category": "quran",
+   "title": "편을 가를 때 주의해야 할 점",
+   "summary": "꾸르안 43:67 구절을 바탕으로, 사람들과 관계를 맺고 편을 가를 때 지켜야 할 신중함과 정의의 중요성을 설명합니다.",
+   "author": "അബൂ അമീൻ",
+   "issue_date": "2017-01-28",
+   "html_url": "/ko/quran/what-to-beware-of-when-taking-sides-20170128-7.html",
+   "md_url": "/ko/quran/what-to-beware-of-when-taking-sides-20170128-7.md"
   },
   {
    "slug": "prophets-and-trials-20170325-7",
