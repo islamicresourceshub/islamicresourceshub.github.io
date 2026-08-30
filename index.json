@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-30T16:31:36.506495+00:00",
+ "generated_at": "2026-08-30T16:34:50.193217+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1715,
+ "count": 1716,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -11264,6 +11264,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/ne/opinion/uapa-wielding-sedition-law-20170114-9.html",
    "md_url": "/ne/opinion/uapa-wielding-sedition-law-20170114-9.md"
+  },
+  {
+   "slug": "warning-signs-from-the-reconstruction-of-history-20170114-2",
+   "lang": "ne",
+   "category": "opinion",
+   "title": "इतिहासको पुनर्निर्माणले दिने खतराका संकेतहरू",
+   "summary": "ऐतिहासिक सत्यको एउटा पक्ष मात्र देखाएर तर्कहरूलाई जायज ठहर्‍याउने प्रवृत्तिको विरोध गर्दै लेखिएको लेख। यसले इतिहासको पुनर्निर्माणबाट उत्पन्न हुने खतराका संकेतहरूमाथि चर्चा गर्दछ।",
+   "author": "എസ്‌.എ",
+   "issue_date": "2017-01-14",
+   "html_url": "/ne/opinion/warning-signs-from-the-reconstruction-of-history-20170114-2.html",
+   "md_url": "/ne/opinion/warning-signs-from-the-reconstruction-of-history-20170114-2.md"
   },
   {
    "slug": "when-national-tradition-is-questioned-20170121-2",
