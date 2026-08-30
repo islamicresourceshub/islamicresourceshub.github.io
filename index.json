@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-30T16:05:16.329723+00:00",
+ "generated_at": "2026-08-30T16:05:50.486641+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1687,
+ "count": 1688,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -10582,6 +10582,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/ms/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.html",
    "md_url": "/ms/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.md"
+  },
+  {
+   "slug": "what-to-beware-of-when-taking-sides-20170128-7",
+   "lang": "ms",
+   "category": "quran",
+   "title": "Perkara yang Perlu Diperhatikan Ketika Memihak",
+   "summary": "Artikel ini menjelaskan kepentingan untuk berwaspada ketika memilih pihak atau membina hubungan persahabatan, berdasarkan cahaya ayat 43:67 dalam al-Quran.",
+   "author": "അബൂ അമീൻ",
+   "issue_date": "2017-01-28",
+   "html_url": "/ms/quran/what-to-beware-of-when-taking-sides-20170128-7.html",
+   "md_url": "/ms/quran/what-to-beware-of-when-taking-sides-20170128-7.md"
   },
   {
    "slug": "prophets-and-trials-20170325-7",
