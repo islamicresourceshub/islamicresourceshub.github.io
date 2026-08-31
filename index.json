@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-31T10:16:53.960858+00:00",
+ "generated_at": "2026-08-31T10:21:52.241079+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2297,
+ "count": 2306,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -9715,6 +9715,17 @@
    "md_url": "/ml/dawah/getting-closer-to-the-creator-20170401-12.md"
   },
   {
+   "slug": "global-experiences-of-ramadan-memories-20190518-4",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "നോമ്പോര്‍മയുടെ ലോകാനുഭവങ്ങള്‍",
+   "summary": "റമദാൻ മാസത്തിന്റെ ആത്മീയമായ ചൈതന്യത്തെയും ലോകമെമ്പാടുമുള്ള വിശ്വാസികൾ ഈ മാസത്തെ എങ്ങനെ വരവേൽക്കുന്നു എന്നതിനെയും കുറിച്ചുള്ള ഒരു ക്രോഡീകരണമാണിത്. ആത്മസംസ്കരണത്തിനുള്ള അവസരമായി റമദാനെ കാണാൻ ലേഖനം ആഹ്വാനം ചെയ്യുന്നു.",
+   "author": "ഷാമില തിരുതാലമ്മല്‍ സൗത്ത് കൊറിയ",
+   "issue_date": "2019-05-18",
+   "html_url": "/ml/dawah/global-experiences-of-ramadan-memories-20190518-4.html",
+   "md_url": "/ml/dawah/global-experiences-of-ramadan-memories-20190518-4.md"
+  },
+  {
    "slug": "greed-leading-to-devilish-acts-20180908-4",
    "lang": "ml",
    "category": "dawah",
@@ -9845,6 +9856,17 @@
    "issue_date": "2017-02-11",
    "html_url": "/ml/dawah/maintain-faith-20170211-15.html",
    "md_url": "/ml/dawah/maintain-faith-20170211-15.md"
+  },
+  {
+   "slug": "make-fasting-a-shield-against-evils-20190518-10",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "വ്രതത്തെ തിന്മകളെ തടുക്കുന്ന പരിചയാക്കുക",
+   "summary": "വ്രതം എന്നത് കേവലം പട്ടിണി കിടക്കലല്ല, മറിച്ച് തിന്മകളിൽ നിന്ന് അകന്നുനിൽക്കാനുള്ള ഒരു പരിചയാണെന്ന് ഈ ലേഖനം ഓർമ്മിപ്പിക്കുന്നു. സ്വയം നിയന്ത്രണത്തിലൂടെ ഉന്നതമായ സ്വഭാവഗുണങ്ങൾ വളർത്താൻ വ്രതം സഹായിക്കുന്നു.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2019-05-18",
+   "html_url": "/ml/dawah/make-fasting-a-shield-against-evils-20190518-10.html",
+   "md_url": "/ml/dawah/make-fasting-a-shield-against-evils-20190518-10.md"
   },
   {
    "slug": "make-preparations-20181201-6",
@@ -10263,6 +10285,17 @@
    "issue_date": "2018-09-22",
    "html_url": "/ml/dawah/the-fragrance-of-goodness-20180922-5.html",
    "md_url": "/ml/dawah/the-fragrance-of-goodness-20180922-5.md"
+  },
+  {
+   "slug": "the-gates-of-goodness-in-ramadan-20190518-6",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "റമദാനിലെ നന്മയുടെ കവാടങ്ങള്‍",
+   "summary": "റമദാൻ മാസത്തിൽ സൽകർമ്മങ്ങൾ വർദ്ധിപ്പിക്കേണ്ടതിന്റെ ആവശ്യകതയെക്കുറിച്ച് ഈ ലേഖനം ഓർമ്മിപ്പിക്കുന്നു. വിശ്വാസികൾക്ക് പുണ്യങ്ങൾ വാരിക്കൂട്ടാൻ ലഭിക്കുന്ന സുവർണ്ണാവസരമാണ് ഈ മാസമെന്ന് ഇത് വ്യക്തമാക്കുന്നു.",
+   "author": "സയ്യിദ് സഅ്ഫര്‍ സ്വാദിക്വ് മദീനി",
+   "issue_date": "2019-05-18",
+   "html_url": "/ml/dawah/the-gates-of-goodness-in-ramadan-20190518-6.html",
+   "md_url": "/ml/dawah/the-gates-of-goodness-in-ramadan-20190518-6.md"
   },
   {
    "slug": "the-greatness-of-unity-20181215-4",
@@ -11871,6 +11904,17 @@
    "md_url": "/ml/history/ilfathul-islam-the-book-of-hamadani-20190504-3.md"
   },
   {
+   "slug": "ilfathul-islam-the-vitality-of-renaissance-20190518-2",
+   "lang": "ml",
+   "category": "history",
+   "title": "ഇല്‍ഫതുല്‍ ഇസ്ലാം: നവോത്ഥാനത്തിന്റെ ജീവശക്തി",
+   "summary": "ലോകപ്രസിദ്ധ മുസ്ലിം പരിഷ്കർത്താക്കളുടെ സംഭാവനകളെയും ഇസ്ലാമിക നവോത്ഥാനത്തിന്റെ ചരിത്രപരമായ പ്രാധാന്യത്തെയും ഈ ലേഖനം പരിശോധിക്കുന്നു. ശൈഖ് മുഹമ്മദ് മാഹിൻ ഹമദാനി തങ്ങളുടെ ജീവിതവും പ്രവർത്തനങ്ങളും ഇതിൽ പരാമർശിക്കുന്നു.",
+   "author": "ഡോ. ചേക്കുമരക്കാരകത്ത് ഷാനവാസ്, പറവണ്ണ",
+   "issue_date": "2019-05-18",
+   "html_url": "/ml/history/ilfathul-islam-the-vitality-of-renaissance-20190518-2.html",
+   "md_url": "/ml/history/ilfathul-islam-the-vitality-of-renaissance-20190518-2.md"
+  },
+  {
    "slug": "islamic-history-an-overview-20170401-5",
    "lang": "ml",
    "category": "history",
@@ -13081,6 +13125,17 @@
    "md_url": "/ml/opinion/terrorism-and-religious-freedom-20170114-1.md"
   },
   {
+   "slug": "the-ban-on-face-veils-the-hidden-facets-of-fascism-20190518-3",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "മുഖാവരണ നിരോധനം ഫാസിസത്തിന്റെ കാണാപ്പുറം",
+   "summary": "മുസ്ലിം സ്ത്രീകളുടെ വസ്ത്രധാരണത്തെക്കുറിച്ചുള്ള വിവാദങ്ങളെയും നിഖാബ് നിരോധനത്തിന് പിന്നിലെ ഫാസിസ്റ്റ് അജണ്ടകളെയും ഈ ലേഖനം വിമർശനാത്മകമായി വിശകലനം ചെയ്യുന്നു. വ്യക്തിസ്വാതന്ത്ര്യത്തിന് മേലുള്ള കടന്നുകയറ്റങ്ങളെ ഇത് തുറന്നുകാട്ടുന്നു.",
+   "author": "സുഫ്‌യാന്‍ അബ്ദുസ്സലാം",
+   "issue_date": "2019-05-18",
+   "html_url": "/ml/opinion/the-ban-on-face-veils-the-hidden-facets-of-fascism-20190518-3.html",
+   "md_url": "/ml/opinion/the-ban-on-face-veils-the-hidden-facets-of-fascism-20190518-3.md"
+  },
+  {
    "slug": "the-bursting-of-the-love-jihad-balloon-20181110-8",
    "lang": "ml",
    "category": "opinion",
@@ -13497,6 +13552,17 @@
    "issue_date": "2018-05-26",
    "html_url": "/ml/quran/al-qadr-the-decree-20180526-8.html",
    "md_url": "/ml/quran/al-qadr-the-decree-20180526-8.md"
+  },
+  {
+   "slug": "are-you-studying-the-quran-20190518-7",
+   "lang": "ml",
+   "category": "quran",
+   "title": "താങ്കള്‍ ക്വുര്‍ആന്‍ പഠിക്കുന്നുണ്ടോ?",
+   "summary": "വിശുദ്ധ ഖുർആൻ വായിക്കുന്നതിനും പഠിക്കുന്നതിനുമുള്ള പ്രാധാന്യത്തെക്കുറിച്ച് ഈ ലേഖനം ഊന്നിപ്പറയുന്നു. ഖുർആൻ പഠനത്തിലൂടെ ജീവിതത്തിൽ വരുത്തേണ്ട മാറ്റങ്ങളെക്കുറിച്ചും ഇത് ചർച്ച ചെയ്യുന്നു.",
+   "author": "മുഹമ്മദ് ശാഫി ഒറ്റപ്പാലം, ജാമിഅ അല്‍ഹിന്ദ്",
+   "issue_date": "2019-05-18",
+   "html_url": "/ml/quran/are-you-studying-the-quran-20190518-7.html",
+   "md_url": "/ml/quran/are-you-studying-the-quran-20190518-7.md"
   },
   {
    "slug": "at-tariq-the-night-comer-20181027-2",
@@ -14478,6 +14544,17 @@
    "md_url": "/ml/seerah/the-prophet-s-demise-20180512-4.md"
   },
   {
+   "slug": "the-prophet-s-migration-hijrah-20190518-5",
+   "lang": "ml",
+   "category": "seerah",
+   "title": "പ്രവാചകന്റെ പലായനം",
+   "summary": "മുഹമ്മദ് നബി(സ) മദീനയിലേക്ക് നടത്തിയ ഹിജ്റയുടെ ചരിത്രപരമായ പശ്ചാത്തലവും അതിന്റെ പ്രാധാന്യവും ഈ ലേഖനം വിവരിക്കുന്നു. വിശ്വാസികൾ തങ്ങളുടെ സമ്പത്തും ശരീരവും പ്രവാചകന് വേണ്ടി സമർപ്പിച്ചതിനെക്കുറിച്ചുള്ള ചരിത്രപാഠങ്ങൾ ഇതിലുണ്ട്.",
+   "author": "ഫദ്‌ലുല്‍ ഹഖ് ഉമരി",
+   "issue_date": "2019-05-18",
+   "html_url": "/ml/seerah/the-prophet-s-migration-hijrah-20190518-5.html",
+   "md_url": "/ml/seerah/the-prophet-s-migration-hijrah-20190518-5.md"
+  },
+  {
    "slug": "the-pure-mother-the-blessed-child-20190323-7",
    "lang": "ml",
    "category": "seerah",
@@ -14498,6 +14575,17 @@
    "issue_date": "2018-08-25",
    "html_url": "/ml/seerah/the-sacrifice-of-ideological-commitment-20180825-1.html",
    "md_url": "/ml/seerah/the-sacrifice-of-ideological-commitment-20180825-1.md"
+  },
+  {
+   "slug": "the-second-coming-of-prophet-isa-as-20190518-1",
+   "lang": "ml",
+   "category": "seerah",
+   "title": "ഈസാ നബി (അ) യുടെ പുനരാഗമനം",
+   "summary": "അന്ത്യനാളിനോട് അടുത്ത് ഈസാ നബി(അ) ഭൂമിയിലേക്ക് തിരിച്ചുവരുന്നതിനെക്കുറിച്ചുള്ള ഇസ്ലാമിക വീക്ഷണം ഈ ലേഖനം വിശദീകരിക്കുന്നു. പ്രവാചകത്വത്തിന്റെ ഭാഗമായുള്ള ഈ സംഭവത്തെ ഖുർആനിന്റെയും സുന്നത്തിന്റെയും അടിസ്ഥാനത്തിൽ വിശകലനം ചെയ്യുന്നു.",
+   "author": "ഹുസൈന്‍ സലഫി, ഷാര്‍ജ",
+   "issue_date": "2019-05-18",
+   "html_url": "/ml/seerah/the-second-coming-of-prophet-isa-as-20190518-1.html",
+   "md_url": "/ml/seerah/the-second-coming-of-prophet-isa-as-20190518-1.md"
   },
   {
    "slug": "the-second-pledge-of-aqaba-20190427-8",
@@ -15037,6 +15125,17 @@
    "issue_date": "2018-09-01",
    "html_url": "/ml/story/rainy-childhood-20180901-7.html",
    "md_url": "/ml/story/rainy-childhood-20180901-7.md"
+  },
+  {
+   "slug": "roadside-sights-during-the-fasting-season-20190518-9",
+   "lang": "ml",
+   "category": "story",
+   "title": "വ്രതകാല വഴിയോരക്കാഴ്ചകള്‍",
+   "summary": "നോമ്പുകാലത്തെ വൈകുന്നേരങ്ങളിൽ കാണുന്ന കാഴ്ചകളെയും അനുഭവങ്ങളെയും കുറിച്ചുള്ള ഒരു ലഘുവിവരണം. നോമ്പ് തുറയുടെ സമയത്തെ തിരക്കുകളും ആത്മീയമായ അന്തരീക്ഷവും ഇതിൽ പ്രതിഫലിക്കുന്നു.",
+   "author": "ഇബ്‌നു അലി എടത്തനാട്ടുകര",
+   "issue_date": "2019-05-18",
+   "html_url": "/ml/story/roadside-sights-during-the-fasting-season-20190518-9.html",
+   "md_url": "/ml/story/roadside-sights-during-the-fasting-season-20190518-9.md"
   },
   {
    "slug": "shirk-what-is-that-son-20181215-6",
