@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-31T08:48:38.109872+00:00",
+ "generated_at": "2026-08-31T08:52:08.527140+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2125,
+ "count": 2135,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -9066,6 +9066,17 @@
    "md_url": "/ml/aqeedah/to-whom-did-they-pray-20190112-2.md"
   },
   {
+   "slug": "who-is-worthy-of-worship-20190209-1",
+   "lang": "ml",
+   "category": "aqeedah",
+   "title": "ആരാണ് പ്രാര്‍ഥനക്കര്‍ഹന്‍?",
+   "summary": "പ്രപഞ്ചസൃഷ്ടാവായ അല്ലാഹുവിനെ മാത്രം ആരാധിക്കേണ്ടതിന്റെ ആവശ്യകതയെക്കുറിച്ചും ഏകദൈവ വിശ്വാസത്തിന്റെ പ്രാധാന്യത്തെക്കുറിച്ചും ഈ ലേഖനം ചർച്ച ചെയ്യുന്നു.",
+   "author": "സയ്യിദ് സഅ്ഫര്‍ സ്വാദിക്വ് മദീനി",
+   "issue_date": "2019-02-09",
+   "html_url": "/ml/aqeedah/who-is-worthy-of-worship-20190209-1.html",
+   "md_url": "/ml/aqeedah/who-is-worthy-of-worship-20190209-1.md"
+  },
+  {
    "slug": "who-is-wrong-in-ideology-20260822-2",
    "lang": "ml",
    "category": "aqeedah",
@@ -9968,6 +9979,17 @@
    "md_url": "/ml/dawah/the-undeniable-reality-20181124-2.md"
   },
   {
+   "slug": "the-virtue-of-agriculture-20190209-4",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "കാര്‍ഷികവൃത്തിയുടെ മഹത്ത്വം",
+   "summary": "കൃഷി ചെയ്യുന്നതിന്റെയും സസ്യങ്ങൾ നട്ടുപിടിപ്പിക്കുന്നതിന്റെയും പുണ്യത്തെക്കുറിച്ച് നബി വചനങ്ങളുടെ അടിസ്ഥാനത്തിൽ വിവരിക്കുന്നു.",
+   "author": "അബൂഫായിദ",
+   "issue_date": "2019-02-09",
+   "html_url": "/ml/dawah/the-virtue-of-agriculture-20190209-4.html",
+   "md_url": "/ml/dawah/the-virtue-of-agriculture-20190209-4.md"
+  },
+  {
    "slug": "those-who-turn-back-will-not-reach-the-goal-20180929-7",
    "lang": "ml",
    "category": "dawah",
@@ -10584,6 +10606,17 @@
    "md_url": "/ml/family/when-women-are-in-the-driving-seat-20180811-8.md"
   },
   {
+   "slug": "while-interacting-on-social-media-20190209-9",
+   "lang": "ml",
+   "category": "family",
+   "title": "സാമൂഹ്യമാധ്യമങ്ങളില്‍ ഇടപെടുമ്പോള്‍...",
+   "summary": "സാമൂഹ്യമാധ്യമങ്ങളുടെ അമിത ഉപയോഗം കുടുംബജീവിതത്തിൽ വരുത്തുന്ന വിള്ളലുകളെക്കുറിച്ചും പ്രവാസികളുടെ ജീവിതത്തെക്കുറിച്ചുമുള്ള സാമൂഹിക പഠനം.",
+   "author": "സീ എന്‍ ഷുഹൈബ്, മാതാംകുളം",
+   "issue_date": "2019-02-09",
+   "html_url": "/ml/family/while-interacting-on-social-media-20190209-9.html",
+   "md_url": "/ml/family/while-interacting-on-social-media-20190209-9.md"
+  },
+  {
    "slug": "alcohol-islam-s-ever-relevant-approach-20170225-6",
    "lang": "ml",
    "category": "fiqh",
@@ -10936,6 +10969,17 @@
    "md_url": "/ml/health/kidney-stones-causes-and-symptoms-20190202-5.md"
   },
   {
+   "slug": "kidney-stones-things-to-note-20190209-6",
+   "lang": "ml",
+   "category": "health",
+   "title": "മൂത്രാശയക്കല്ല്: ശ്രദ്ധിക്കേണ്ട കാര്യങ്ങള്‍",
+   "summary": "മൂത്രാശയക്കല്ല് രോഗത്തെക്കുറിച്ചും അതിന്റെ രോഗനിർണ്ണയത്തിനും ചികിത്സയ്ക്കും ശ്രദ്ധിക്കേണ്ട കാര്യങ്ങളെക്കുറിച്ചുമുള്ള ആരോഗ്യ ലേഖനം.",
+   "author": "നിസാം",
+   "issue_date": "2019-02-09",
+   "html_url": "/ml/health/kidney-stones-things-to-note-20190209-6.html",
+   "md_url": "/ml/health/kidney-stones-things-to-note-20190209-6.md"
+  },
+  {
    "slug": "know-this-for-those-caring-for-the-sick-20260822-1",
    "lang": "ml",
    "category": "health",
@@ -11187,6 +11231,17 @@
    "issue_date": "2018-05-12",
    "html_url": "/ml/history/scientific-renaissance-through-quran-20180512-1.html",
    "md_url": "/ml/history/scientific-renaissance-through-quran-20180512-1.md"
+  },
+  {
+   "slug": "the-change-brought-by-maqthi-thangal-20190209-5",
+   "lang": "ml",
+   "category": "history",
+   "title": "മക്വ്ദി തങ്ങള്‍ വരുത്തിയ മാറ്റം: മതപഠന മേഖലക്ക് മാറ്റ് കൂട്ടുന്നു",
+   "summary": "കേരളത്തിലെ മതപഠന മേഖലയിൽ മഖ്ദി തങ്ങൾ വരുത്തിയ പരിഷ്കാരങ്ങളെയും അദ്ദേഹത്തിന്റെ സംഭാവനകളെയും കുറിച്ചുള്ള ചരിത്രപരമായ ലേഖനം.",
+   "author": "ഡോ. ചേക്കുമരക്കാരകത്ത് ഷാനവാസ്, പറവണ്ണ",
+   "issue_date": "2019-02-09",
+   "html_url": "/ml/history/the-change-brought-by-maqthi-thangal-20190209-5.html",
+   "md_url": "/ml/history/the-change-brought-by-maqthi-thangal-20190209-5.md"
   },
   {
    "slug": "the-first-quran-translation-in-malayalam-20180929-5",
@@ -11695,6 +11750,17 @@
    "md_url": "/ml/opinion/legal-services-authority-act-20181027-9.md"
   },
   {
+   "slug": "materialists-and-the-re-reading-of-the-quran-20190209-2",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "ഭൗതികവാദികളും ക്വുര്‍ആനിന്റെ പുനര്‍വായനയും",
+   "summary": "ഖുർആനിനെ കാലോചിതമായി വ്യാഖ്യാനിക്കണമെന്ന വാദങ്ങളെ ഇസ്‌ലാമിക പ്രമാണങ്ങളുടെ വെളിച്ചത്തിൽ വിശകലനം ചെയ്യുന്നു. ഭൗതികവാദികളുടെ തെറ്റായ സമീപനങ്ങളെ ലേഖനം വിമർശിക്കുന്നു.",
+   "author": "ഉസ്മാന്‍ പാലക്കാഴി",
+   "issue_date": "2019-02-09",
+   "html_url": "/ml/opinion/materialists-and-the-re-reading-of-the-quran-20190209-2.html",
+   "md_url": "/ml/opinion/materialists-and-the-re-reading-of-the-quran-20190209-2.md"
+  },
+  {
    "slug": "minds-that-produce-hatred-20181117-9",
    "lang": "ml",
    "category": "opinion",
@@ -12012,6 +12078,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/ml/opinion/the-currency-no-one-accepts-20170114-3.html",
    "md_url": "/ml/opinion/the-currency-no-one-accepts-20170114-3.md"
+  },
+  {
+   "slug": "the-double-standards-in-the-citizenship-bill-20190209-8",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "പൗരത്വബില്ലിലെ ഇരട്ടത്താപ്പ്",
+   "summary": "പൗരത്വ ഭേദഗതി നിയമത്തിലെ ഇരട്ടത്താപ്പുകളെയും അത് സമൂഹത്തിൽ ചെലുത്തുന്ന പ്രത്യാഘാതങ്ങളെയും കുറിച്ചുള്ള രാഷ്ട്രീയ വിശകലനം.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2019-02-09",
+   "html_url": "/ml/opinion/the-double-standards-in-the-citizenship-bill-20190209-8.html",
+   "md_url": "/ml/opinion/the-double-standards-in-the-citizenship-bill-20190209-8.md"
   },
   {
    "slug": "the-eighteenth-step-of-women-s-freedom-or-the-call-for-relig-20181103-9",
@@ -12498,6 +12575,17 @@
    "md_url": "/ml/quran/surah-al-infitar-20190202-1.md"
   },
   {
+   "slug": "surah-an-naba-the-news-20190209-3",
+   "lang": "ml",
+   "category": "quran",
+   "title": "നബഅ് (വൃത്താന്തം)",
+   "summary": "വിശുദ്ധ ഖുർആനിലെ 78-ാം അധ്യായമായ സൂറത്തു നബഇന്റെ പരിഭാഷയും ലഘുവിശദീകരണവും നൽകുന്നു.",
+   "author": "അബ്ദുറഹ്മാന്‍ നാസിര്‍ അസ്സഅദി",
+   "issue_date": "2019-02-09",
+   "html_url": "/ml/quran/surah-an-naba-the-news-20190209-3.html",
+   "md_url": "/ml/quran/surah-an-naba-the-news-20190209-3.md"
+  },
+  {
    "slug": "surah-ash-shu-ara-the-poets-20260822-7",
    "lang": "ml",
    "category": "quran",
@@ -12795,6 +12883,17 @@
    "md_url": "/ml/seerah/prophet-sulaiman-as-part-1-20181215-7.md"
   },
   {
+   "slug": "prophet-zakariya-as-20190209-10",
+   "lang": "ml",
+   "category": "seerah",
+   "title": "സകരിയ്യാ നബി(അ)",
+   "summary": "ബനൂഇസ്രായേല്യരിലേക്ക് നിയോഗിക്കപ്പെട്ട സകരിയ്യാ നബിയുടെ ജീവിതത്തെയും ഖുർആനിലെ പരാമർശങ്ങളെയും പരിചയപ്പെടുത്തുന്നു.",
+   "author": "ഹുസൈന്‍ സലഫി, ഷാര്‍ജ",
+   "issue_date": "2019-02-09",
+   "html_url": "/ml/seerah/prophet-zakariya-as-20190209-10.html",
+   "md_url": "/ml/seerah/prophet-zakariya-as-20190209-10.md"
+  },
+  {
    "slug": "prophets-and-trials-20170325-7",
    "lang": "ml",
    "category": "seerah",
@@ -12815,6 +12914,17 @@
    "issue_date": "2017-04-01",
    "html_url": "/ml/seerah/prophets-are-humans-20170401-10.html",
    "md_url": "/ml/seerah/prophets-are-humans-20170401-10.md"
+  },
+  {
+   "slug": "public-preaching-20190209-7",
+   "lang": "ml",
+   "category": "seerah",
+   "title": "പരസ്യപ്രബോധനം",
+   "summary": "പ്രവാചകൻ മുഹമ്മദ് നബി(സ) തന്റെ പ്രബോധനം പരസ്യമാക്കിയ ചരിത്ര സന്ദർഭങ്ങളെയും അതിലെ വെല്ലുവിളികളെയും വിവരിക്കുന്നു.",
+   "author": "ഫദ്‌ലുല്‍ ഹഖ് ഉമരി",
+   "issue_date": "2019-02-09",
+   "html_url": "/ml/seerah/public-preaching-20190209-7.html",
+   "md_url": "/ml/seerah/public-preaching-20190209-7.md"
   },
   {
    "slug": "queen-bilqis-in-the-palace-of-prophet-sulaiman-as-20190112-3",
