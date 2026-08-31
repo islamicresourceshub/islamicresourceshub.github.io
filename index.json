@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-31T05:48:53.961561+00:00",
+ "generated_at": "2026-08-31T05:52:33.299374+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1974,
+ "count": 1985,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -8571,6 +8571,17 @@
    "md_url": "/ml/aqeedah/celebrating-nabi-day-is-un-islamic-20260822-5.md"
   },
   {
+   "slug": "express-love-by-following-the-prophet-20181124-7",
+   "lang": "ml",
+   "category": "aqeedah",
+   "title": "പ്രവാചകനെ അനുസരിച്ച് സ്‌നേഹം പ്രകടിപ്പിക്കുക",
+   "summary": "പ്രവാചകനെ അനുസരിക്കുക എന്നത് അല്ലാഹുവിനെ അനുസരിക്കുന്നതിന് തുല്യമാണെന്ന് ലേഖനം വ്യക്തമാക്കുന്നു. പ്രവാചകചര്യ പിൻപറ്റുന്നതിലൂടെയാണ് യഥാർത്ഥ സ്നേഹം പ്രകടിപ്പിക്കേണ്ടതെന്ന് ഇത് ഓർമ്മിപ്പിക്കുന്നു.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2018-11-24",
+   "html_url": "/ml/aqeedah/express-love-by-following-the-prophet-20181124-7.html",
+   "md_url": "/ml/aqeedah/express-love-by-following-the-prophet-20181124-7.md"
+  },
+  {
    "slug": "faith-is-the-foundation-of-islam-20170128-13",
    "lang": "ml",
    "category": "aqeedah",
@@ -8624,6 +8635,17 @@
    "issue_date": "2017-04-01",
    "html_url": "/ml/aqeedah/identify-yourself-20170401-1.html",
    "md_url": "/ml/aqeedah/identify-yourself-20170401-1.md"
+  },
+  {
+   "slug": "is-nabidinam-celebration-true-love-for-the-prophet-20181124-5",
+   "lang": "ml",
+   "category": "aqeedah",
+   "title": "നബിദിനാഘോഷം പ്രവാചകസ്‌നേഹമോ?",
+   "summary": "നബിദിനാഘോഷങ്ങൾ പ്രവാചകനോടുള്ള യഥാർത്ഥ സ്നേഹപ്രകടനമാണോ എന്ന് ലേഖനം പരിശോധിക്കുന്നു. പ്രവാചകചര്യ പിന്തുടരുകയാണ് സ്നേഹത്തിന്റെ യഥാർത്ഥ മാർഗ്ഗമെന്ന് ഇത് വാദിക്കുന്നു.",
+   "author": "മൂസ സ്വലാഹി, കാര",
+   "issue_date": "2018-11-24",
+   "html_url": "/ml/aqeedah/is-nabidinam-celebration-true-love-for-the-prophet-20181124-5.html",
+   "md_url": "/ml/aqeedah/is-nabidinam-celebration-true-love-for-the-prophet-20181124-5.md"
   },
   {
    "slug": "logic-in-islam-and-atheism-20180421-6",
@@ -8712,6 +8734,17 @@
    "issue_date": "2018-05-12",
    "html_url": "/ml/aqeedah/stand-with-the-truthful-20180512-3.html",
    "md_url": "/ml/aqeedah/stand-with-the-truthful-20180512-3.md"
+  },
+  {
+   "slug": "tawheed-and-its-categories-20181124-9",
+   "lang": "ml",
+   "category": "aqeedah",
+   "title": "തൗഹീദും അതിന്റെ ഇനങ്ങളും",
+   "summary": "തൗഹീദിന്റെ പ്രാധാന്യത്തെക്കുറിച്ചും അതിന്റെ വിവിധ വിഭാഗങ്ങളെക്കുറിച്ചുമുള്ള പഠനം. ഇസ്‌ലാമിക വിശ്വാസത്തിന്റെ അടിസ്ഥാനമായ തൗഹീദിനെക്കുറിച്ച് ആഴത്തിലുള്ള അറിവ് നേടേണ്ടതിന്റെ ആവശ്യകത ഇത് ഊന്നിപ്പറയുന്നു.",
+   "author": "ഫദ്‌ലുല്‍ ഹഖ് ഉമരി",
+   "issue_date": "2018-11-24",
+   "html_url": "/ml/aqeedah/tawheed-and-its-categories-20181124-9.html",
+   "md_url": "/ml/aqeedah/tawheed-and-its-categories-20181124-9.md"
   },
   {
    "slug": "they-want-to-see-god-20170204-2",
@@ -8833,6 +8866,17 @@
    "issue_date": "2018-05-05",
    "html_url": "/ml/dawah/death-and-patience-20180505-4.html",
    "md_url": "/ml/dawah/death-and-patience-20180505-4.md"
+  },
+  {
+   "slug": "death-is-not-far-20181124-4",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "മരണം അകലെയല്ല",
+   "summary": "മനുഷ്യന്റെ പ്രതീക്ഷകൾക്ക് അപ്പുറം മരണം എപ്പോൾ വേണമെങ്കിലും സംഭവിക്കാമെന്ന യാഥാർത്ഥ്യം ലേഖനം ഓർമ്മിപ്പിക്കുന്നു. മരണത്തെക്കുറിച്ചുള്ള ചിന്ത ജീവിതത്തെ കൂടുതൽ അർത്ഥവത്താക്കാൻ സഹായിക്കുമെന്ന് ഇത് പറയുന്നു.",
+   "author": "ശരീഫ് കാര",
+   "issue_date": "2018-11-24",
+   "html_url": "/ml/dawah/death-is-not-far-20181124-4.html",
+   "md_url": "/ml/dawah/death-is-not-far-20181124-4.md"
   },
   {
    "slug": "do-not-be-arrogant-20180421-8",
@@ -9385,6 +9429,17 @@
    "md_url": "/ml/dawah/the-natural-distinctiveness-of-islam-20181013-3.md"
   },
   {
+   "slug": "the-necessity-of-self-purification-20181124-1",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "ആത്മവിമലീകരണത്തിന്റെ അനിവാര്യത",
+   "summary": "മനുഷ്യൻ ശരീരത്തിന്റെ ആരോഗ്യത്തിന് നൽകുന്ന പ്രാധാന്യം മനസ്സിന്റെ ശുദ്ധീകരണത്തിനും നൽകേണ്ടതുണ്ടെന്ന് ലേഖനം ഓർമ്മിപ്പിക്കുന്നു. ആത്മീയമായ ഉന്നതിക്ക് ആത്മവിമലീകരണം അനിവാര്യമാണെന്ന് ഇത് സമർത്ഥിക്കുന്നു.",
+   "author": "ശമീര്‍ മദീനി",
+   "issue_date": "2018-11-24",
+   "html_url": "/ml/dawah/the-necessity-of-self-purification-20181124-1.html",
+   "md_url": "/ml/dawah/the-necessity-of-self-purification-20181124-1.md"
+  },
+  {
    "slug": "the-path-to-peace-20170225-11",
    "lang": "ml",
    "category": "dawah",
@@ -9394,6 +9449,17 @@
    "issue_date": "2017-02-25",
    "html_url": "/ml/dawah/the-path-to-peace-20170225-11.html",
    "md_url": "/ml/dawah/the-path-to-peace-20170225-11.md"
+  },
+  {
+   "slug": "the-petitioner-s-prayer-and-the-respondent-s-amen-20181124-10",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "വാദിയുടെ പ്രാര്‍ഥനക്ക് പ്രതിയുടെ ആമീന്‍",
+   "summary": "പ്രാർത്ഥനയുമായി ബന്ധപ്പെട്ട തെറ്റിദ്ധാരണകളെ തിരുത്തുന്ന ലേഖനം. പ്രാർത്ഥനയുടെ ശരിയായ രീതിയും ഇസ്‌ലാമിക വീക്ഷണവും ഇത് സംഭാഷണ രൂപത്തിൽ അവതരിപ്പിക്കുന്നു.",
+   "author": "എസ്.എ ഐദീദ് തങ്ങള്‍",
+   "issue_date": "2018-11-24",
+   "html_url": "/ml/dawah/the-petitioner-s-prayer-and-the-respondent-s-amen-20181124-10.html",
+   "md_url": "/ml/dawah/the-petitioner-s-prayer-and-the-respondent-s-amen-20181124-10.md"
   },
   {
    "slug": "the-relevance-of-cleanliness-20180428-13",
@@ -9438,6 +9504,17 @@
    "issue_date": "2018-08-18",
    "html_url": "/ml/dawah/the-ten-days-of-dhul-hijjah-and-their-virtues-20180818-4.html",
    "md_url": "/ml/dawah/the-ten-days-of-dhul-hijjah-and-their-virtues-20180818-4.md"
+  },
+  {
+   "slug": "the-undeniable-reality-20181124-2",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "അനിഷേധ്യമായ യാഥാര്‍ഥ്യം",
+   "summary": "ജീവിതത്തിന്റെ നശ്വരതയെക്കുറിച്ചും മരണാനന്തര ജീവിതത്തെക്കുറിച്ചുമുള്ള ചിന്തകൾ പങ്കുവെക്കുന്ന ലേഖനം. അപ്രതീക്ഷിതമായി സംഭവിക്കുന്ന മരണത്തെ മുൻനിർത്തി ജീവിതത്തെ ക്രമീകരിക്കാൻ ആഹ്വാനം ചെയ്യുന്നു.",
+   "author": "ഇബ്‌നു അലി എടത്തനാട്ടുകര",
+   "issue_date": "2018-11-24",
+   "html_url": "/ml/dawah/the-undeniable-reality-20181124-2.html",
+   "md_url": "/ml/dawah/the-undeniable-reality-20181124-2.md"
   },
   {
    "slug": "those-who-turn-back-will-not-reach-the-goal-20180929-7",
@@ -10936,6 +11013,17 @@
    "md_url": "/ml/opinion/realizations-from-relief-camps-20180901-1.md"
   },
   {
+   "slug": "right-to-service-act-20181124-8",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "സേവനാവകാശ നിയമം",
+   "summary": "സർക്കാർ ഓഫീസുകളിൽ പൊതുജനങ്ങൾക്ക് ലഭിക്കേണ്ട സേവനങ്ങളെക്കുറിച്ചും സേവനാവകാശ നിയമത്തിന്റെ പ്രസക്തിയെക്കുറിച്ചും ലേഖനം ചർച്ച ചെയ്യുന്നു. സാധാരണക്കാർക്ക് ഇത് എങ്ങനെ പ്രയോജനപ്പെടുമെന്ന് ഇത് വിശദീകരിക്കുന്നു.",
+   "author": "മുസാഫിര്‍",
+   "issue_date": "2018-11-24",
+   "html_url": "/ml/opinion/right-to-service-act-20181124-8.html",
+   "md_url": "/ml/opinion/right-to-service-act-20181124-8.md"
+  },
+  {
    "slug": "rohingya-muslims-victims-of-racial-hatred-20170128-10",
    "lang": "ml",
    "category": "opinion",
@@ -11475,6 +11563,17 @@
    "md_url": "/ml/quran/the-bitter-consequences-of-disobedience-20180908-1.md"
   },
   {
+   "slug": "the-quran-previous-scriptures-and-the-continuity-of-values-20181124-3",
+   "lang": "ml",
+   "category": "quran",
+   "title": "ക്വുര്‍ആനും പൂര്‍വവേദങ്ങളും മൂല്യങ്ങളുടെ നൈരന്തര്യവും",
+   "summary": "ഇസ്‌ലാമിക മൂല്യങ്ങൾ ദൈവികമാണെന്നും മുൻ പ്രവാചകന്മാരിലൂടെ വന്ന മൂല്യങ്ങളുടെ തുടർച്ചയാണ് ഖുർആൻ മുന്നോട്ടുവെക്കുന്നതെന്നും ലേഖനം വിശദീകരിക്കുന്നു. ധാർമികതയുടെ അടിത്തറ ദൈവികമാണെന്ന് ഇത് വ്യക്തമാക്കുന്നു.",
+   "author": "ഉസ്മാന്‍ പാലക്കാഴി",
+   "issue_date": "2018-11-24",
+   "html_url": "/ml/quran/the-quran-previous-scriptures-and-the-continuity-of-values-20181124-3.html",
+   "md_url": "/ml/quran/the-quran-previous-scriptures-and-the-continuity-of-values-20181124-3.md"
+  },
+  {
    "slug": "transmission-of-quran-oral-and-written-20180526-2",
    "lang": "ml",
    "category": "quran",
@@ -11849,6 +11948,17 @@
    "md_url": "/ml/seerah/who-is-khidr-as-20181027-1.md"
   },
   {
+   "slug": "winning-the-war-prophet-dawood-as-02-20181124-12",
+   "lang": "ml",
+   "category": "seerah",
+   "title": "യുദ്ധം ജയിക്കുന്നു",
+   "summary": "ദാവൂദ് നബിയുടെ ചരിത്രത്തിലെ യുദ്ധവുമായി ബന്ധപ്പെട്ട സംഭവങ്ങൾ വിവരിക്കുന്ന പരമ്പര. വിശ്വാസവും ക്ഷമയും വിജയത്തിന് എങ്ങനെ സഹായിക്കുന്നു എന്ന് ഇത് കാണിച്ചുതരുന്നു.",
+   "author": "ഹുസൈന്‍ സലഫി, ഷാര്‍ജ",
+   "issue_date": "2018-11-24",
+   "html_url": "/ml/seerah/winning-the-war-prophet-dawood-as-02-20181124-12.html",
+   "md_url": "/ml/seerah/winning-the-war-prophet-dawood-as-02-20181124-12.md"
+  },
+  {
    "slug": "yunus-as-20180421-4",
    "lang": "ml",
    "category": "seerah",
@@ -11869,6 +11979,17 @@
    "issue_date": "2018-04-28",
    "html_url": "/ml/story/a-good-death-20180428-5.html",
    "md_url": "/ml/story/a-good-death-20180428-5.md"
+  },
+  {
+   "slug": "abandon-sin-20181124-6",
+   "lang": "ml",
+   "category": "story",
+   "title": "പാപം വെടിയുക",
+   "summary": "ശരീരവും വസ്ത്രവും പോലെ മനസ്സിനെയും പാപങ്ങളിൽ നിന്ന് ശുദ്ധീകരിക്കേണ്ടതിന്റെ ആവശ്യകതയെക്കുറിച്ചുള്ള കവിത. പാപങ്ങൾ വെടിഞ്ഞ് ജീവിതം നന്നാക്കാൻ ഇത് ആഹ്വാനം ചെയ്യുന്നു.",
+   "author": "അബൂഫായിദ",
+   "issue_date": "2018-11-24",
+   "html_url": "/ml/story/abandon-sin-20181124-6.html",
+   "md_url": "/ml/story/abandon-sin-20181124-6.md"
   },
   {
    "slug": "abdullah-s-mistake-20170204-1",
