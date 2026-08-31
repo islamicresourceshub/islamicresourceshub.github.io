@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-31T09:04:47.764549+00:00",
+ "generated_at": "2026-08-31T09:05:22.463955+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2165,
+ "count": 2166,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -1177,6 +1177,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/ar/youth/what-will-the-waste-do-20170114-5.html",
    "md_url": "/ar/youth/what-will-the-waste-do-20170114-5.md"
+  },
+  {
+   "slug": "become-the-guardian-of-the-sources-20170128-9",
+   "lang": "as",
+   "category": "aqeedah",
+   "title": "প্ৰমাণসমূহৰ ৰক্ষক হৈ পৰক",
+   "summary": "ইছলামৰ প্ৰমাণসমূহৰ দৈৱিকতা, ইয়াৰ অপৰাজেয় শক্তি আৰু অন্যান্য ধৰ্মৰ পৰা ইয়াৰ স্বকীয়তাৰ বিষয়ে এই প্ৰবন্ধত আলোচনা কৰা হৈছে। লগতে কোৰআন আৰু ছুন্নাহক সুৰক্ষিত কৰি ৰখাৰ গুৰুত্বৰ ওপৰত আলোকপাত কৰা হৈছে।",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2017-01-28",
+   "html_url": "/as/aqeedah/become-the-guardian-of-the-sources-20170128-9.html",
+   "md_url": "/as/aqeedah/become-the-guardian-of-the-sources-20170128-9.md"
   },
   {
    "slug": "do-not-waver-in-trials-20170121-9",
