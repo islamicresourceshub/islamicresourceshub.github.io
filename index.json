@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-31T09:33:44.002291+00:00",
+ "generated_at": "2026-08-31T09:34:15.096168+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2190,
+ "count": 2191,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -4554,6 +4554,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/fa/youth/what-will-the-waste-do-20170114-5.html",
    "md_url": "/fa/youth/what-will-the-waste-do-20170114-5.md"
+  },
+  {
+   "slug": "become-the-guardian-of-the-sources-20170128-9",
+   "lang": "fr",
+   "category": "aqeedah",
+   "title": "Soyez les gardiens des sources",
+   "summary": "Cet article explique la nature divine et l'invulnérabilité des sources de l'Islam, tout en soulignant la distinction fondamentale entre celles-ci et les autres religions. Il rappelle aux croyants leur devoir crucial de protéger et de défendre le Coran et la Sunna face aux critiques contemporaines.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2017-01-28",
+   "html_url": "/fr/aqeedah/become-the-guardian-of-the-sources-20170128-9.html",
+   "md_url": "/fr/aqeedah/become-the-guardian-of-the-sources-20170128-9.md"
   },
   {
    "slug": "do-not-waver-in-trials-20170121-9",
