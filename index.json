@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-31T08:47:04.579415+00:00",
+ "generated_at": "2026-08-31T08:47:26.362457+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2122,
+ "count": 2123,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -18194,6 +18194,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/so/family/our-parents-20170325-4.html",
    "md_url": "/so/family/our-parents-20170325-4.md"
+  },
+  {
+   "slug": "the-methodology-of-conduct-20170128-8",
+   "lang": "so",
+   "category": "family",
+   "title": "Habka Dhaqanka",
+   "summary": "Qoraalkan oo ah taxane ku saabsan korinta ubadka, wuxuu diiradda saarayaa sifooyinka iyo hab-dhaqanka ay tahay in waalidka muslimka ah ay ku sifoobaan si ay u helaan natiijo wanaagsan.",
+   "author": "അഷ്‌റഫ്‌ എകരൂൽ",
+   "issue_date": "2017-01-28",
+   "html_url": "/so/family/the-methodology-of-conduct-20170128-8.html",
+   "md_url": "/so/family/the-methodology-of-conduct-20170128-8.md"
   },
   {
    "slug": "mosque-construction-some-points-to-note-20170325-5",
