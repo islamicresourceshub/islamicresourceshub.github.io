@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-31T10:00:20.967465+00:00",
+ "generated_at": "2026-08-31T10:01:00.169650+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2259,
+ "count": 2260,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -17039,6 +17039,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/or/youth/what-will-the-waste-do-20170114-5.html",
    "md_url": "/or/youth/what-will-the-waste-do-20170114-5.md"
+  },
+  {
+   "slug": "become-the-guardian-of-the-sources-20170128-9",
+   "lang": "pa",
+   "category": "aqeedah",
+   "title": "ਪ੍ਰਮਾਣਾਂ ਦੇ ਰਾਖੇ ਬਣੋ",
+   "summary": "ਇਹ ਲੇਖ ਇਸਲਾਮੀ ਪ੍ਰਮਾਣਾਂ ਦੀ ਬ੍ਰਹਮਤਾ, ਉਹਨਾਂ ਦੀ ਅਜਿੱਤਤਾ ਅਤੇ ਦੂਜੇ ਧਰਮਾਂ ਨਾਲੋਂ ਉਹਨਾਂ ਦੀ ਵੱਖਰਤਾ ਨੂੰ ਸਪੱਸ਼ਟ ਕਰਦਾ ਹੈ। ਇਹ ਕੁਰਾਨ ਅਤੇ ਸੁੰਨਤ ਦੀ ਰੱਖਿਆ ਕਰਨ ਦੀ ਮਹੱਤਤਾ ਨੂੰ ਯਾਦ ਦਿਵਾਉਂਦਾ ਹੈ।",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2017-01-28",
+   "html_url": "/pa/aqeedah/become-the-guardian-of-the-sources-20170128-9.html",
+   "md_url": "/pa/aqeedah/become-the-guardian-of-the-sources-20170128-9.md"
   },
   {
    "slug": "do-not-waver-in-trials-20170121-9",
