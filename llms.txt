@@ -67,6 +67,7 @@ Canonical language: ml (Malayalam)
 - Oʻzbek (uz): https://islamicresourceshub.github.io/uz/index.html
 
 ## Recent Articles (sample 30)
+- [የመረጃ ምንጮች ጠባቂ ይሁኑ](https://islamicresourceshub.github.io/am/aqeedah/become-the-guardian-of-the-sources-20170128-9.html): የእስልምና መረጃ ምንጮች የሆኑት ቁርአን እና ሐዲስ መለኮታዊ እና የማይሸነፉ መሆናቸውን ይህ ጽሁፍ ያብራራል። አማኞች እነዚህን መረጃዎች በመጠበቅ እና በመከተል ረገድ ያላቸውን ኃላፊነት ያስታውሳል። — Markdown: https://islamicresourceshub.github.io/am/aqeedah/become-the-guardian-of-the-sources-20170128-9.md
 - [በፈተናዎች ውስጥ እንዳትደናገጡ](https://islamicresourceshub.github.io/am/dawah/do-not-waver-in-trials-20170121-9.html): በከባድ ፈተናዎች ውስጥ ሳይደናገጡ ገነትን ያገኙ የነቢያት ህይወት ተተንትኗል። በድህነትም ሆነ በሀብት ጽኑ የመሆን አስፈላጊነት። — Markdown: https://islamicresourceshub.github.io/am/dawah/do-not-waver-in-trials-20170121-9.md
 - [ጃሊካቱ እና የእስልምና አመለካከት ለእንስሳት](https://islamicresourceshub.github.io/am/dawah/jallikattu-and-the-islamic-approach-to-animals-20170128-4.html): ይህ ጽሑፍ ስለ ጃሊካቱ (የበሬ ትግል) ባህል እና እስልምና ለእንስሳት ስላለው የርህራሄና የክብር አመለካከት ይዳስሳል። የአላህ ፍጥረታት የሆኑትን እንስሳት መጉዳት በእስልምና የተከለከለ መሆኑን ያብራራል። — Markdown: https://islamicresourceshub.github.io/am/dawah/jallikattu-and-the-islamic-approach-to-animals-20170128-4.md
 - [የጊዜን ዋጋ ተረድቶ መኖር](https://islamicresourceshub.github.io/am/dawah/live-knowing-the-value-of-time-20170114-8.html): አንድ አፍታ ምን ሊያከናውን ይችላል ከሚለው ጥያቄ የሚነሳው ይህ ጽሑፍ፣ የጊዜን ዋጋ ተረድቶ መኖር ያለውን አስፈላጊነት ያብራራል። — Markdown: https://islamicresourceshub.github.io/am/dawah/live-knowing-the-value-of-time-20170114-8.md
@@ -96,7 +97,6 @@ Canonical language: ml (Malayalam)
 - [የሰለፊ ዳዕዋ፡ የንድፈ ሃሳባዊ ትንተና](https://islamicresourceshub.github.io/am/opinion/salafi-preaching-a-theoretical-analysis-20170121-10.html): ይህ ጽሑፍ የሰለፊ ዳዕዋን መሰረታዊ መርሆዎች በቁርአን እና በሱና ብርሃን ይተነትናል። የሙሃጂሮችን እና የአንሷሮችን ፈለግ መከተል ለድነት ወሳኝ መሆኑን በሰፊው ያብራራል። — Markdown: https://islamicresourceshub.github.io/am/opinion/salafi-preaching-a-theoretical-analysis-20170121-10.md
 - [የሽብርተኝነት አደን እና የሃይማኖት ነፃነት](https://islamicresourceshub.github.io/am/opinion/terrorism-and-religious-freedom-20170114-1.html): ይህ መጣጥፍ ሽብርተኝነት የህብረተሰቡን ሰላም የሚነሳ የአእምሮ መዛባት እንደሆነ በመግለጽ ይጀምራል። በሽብርተኝነት አደን ስም የሚካሄዱ የሃይማኖት ነፃነት ጥሰቶችን እና የፖለቲካ አጀንዳዎችን ይተነትናል። — Markdown: https://islamicresourceshub.github.io/am/opinion/terrorism-and-religious-freedom-20170114-1.md
 - [የተጠቃሚነት ባህል ወጥመድ](https://islamicresourceshub.github.io/am/opinion/the-shackles-of-consumerist-culture-20170121-13.html): ዘመናዊው ህይወት በተጠቃሚነት ባህል (Consumerism) ውስጥ እንዴት እንደተጠመደ እና ይህ አዝማሚያ በሰው ልጅ መንፈሳዊ ህይወት ላይ የሚያስከትለውን አሉታዊ ተፅእኖ በጥልቀት ይተነትናል። — Markdown: https://islamicresourceshub.github.io/am/opinion/the-shackles-of-consumerist-culture-20170121-13.md
-- [UAPA፡ የሀገር ክህደት ህግ የተገረፈበት በትር](https://islamicresourceshub.github.io/am/opinion/uapa-wielding-sedition-law-20170114-9.html): ይህ መጣጥፍ የUAPA ህግ እና የሀገር ክህደት ህግ አላግባብ ጥቅም ላይ መዋላቸውን የሚተች ሲሆን፣ በፍትህ እና በነጻነት ላይ ከባድ ጥያቄዎችን ያስነሳል። — Markdown: https://islamicresourceshub.github.io/am/opinion/uapa-wielding-sedition-law-20170114-9.md
 
 ## Usage
 - Prefer .md URLs for training / RAG - they are cleaner than HTML.
