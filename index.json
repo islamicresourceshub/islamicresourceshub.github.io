@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-31T06:00:44.129691+00:00",
+ "generated_at": "2026-08-31T06:04:21.231607+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2002,
+ "count": 2012,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -9231,6 +9231,17 @@
    "md_url": "/ml/dawah/prayer-that-is-worship-20170325-6.md"
   },
   {
+   "slug": "promises-for-the-believers-20181208-11",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "വിശ്വാസികള്‍ക്കുള്ള വാഗ്ദാനങ്ങള്‍",
+   "summary": "സത്യവിശ്വാസിയുടെ ജീവിതം എങ്ങനെയായിരിക്കണം എന്നും സല്‍കര്‍മ്മങ്ങള്‍ക്കുള്ള പ്രതിഫലത്തെക്കുറിച്ചും ഖുര്‍ആനിക വീക്ഷണത്തില്‍ വിവരിക്കുന്ന ലേഖനം.",
+   "author": "മൂസ സ്വലാഹി, കാര",
+   "issue_date": "2018-12-08",
+   "html_url": "/ml/dawah/promises-for-the-believers-20181208-11.html",
+   "md_url": "/ml/dawah/promises-for-the-believers-20181208-11.md"
+  },
+  {
    "slug": "qualities-of-a-preacher-20180908-5",
    "lang": "ml",
    "category": "dawah",
@@ -9693,6 +9704,17 @@
    "md_url": "/ml/dawah/who-are-cultural-leaders-20180505-1.md"
   },
   {
+   "slug": "why-did-they-become-mujahids-20181208-8",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "തങ്ങളെന്ത്യേ മുജാഹിദായത്?",
+   "summary": "ഇസ്‌ലാമിക പ്രബോധന രംഗത്ത് പ്രവര്‍ത്തിക്കുന്നവരുടെ അനുഭവങ്ങളും അവര്‍ ഈ പാതയിലേക്ക് വരാനുണ്ടായ സാഹചര്യങ്ങളും വിവരിക്കുന്ന ലേഖനം.",
+   "author": "എസ്.എ ഐദീദ് തങ്ങള്‍",
+   "issue_date": "2018-12-08",
+   "html_url": "/ml/dawah/why-did-they-become-mujahids-20181208-8.html",
+   "md_url": "/ml/dawah/why-did-they-become-mujahids-20181208-8.md"
+  },
+  {
    "slug": "with-a-satisfied-soul-20180804-11",
    "lang": "ml",
    "category": "dawah",
@@ -9955,6 +9977,17 @@
    "issue_date": "2018-11-17",
    "html_url": "/ml/family/preparing-for-a-trip-20181117-10.html",
    "md_url": "/ml/family/preparing-for-a-trip-20181117-10.md"
+  },
+  {
+   "slug": "protection-of-children-from-sexual-offences-act-20181208-5",
+   "lang": "ml",
+   "category": "family",
+   "title": "ലൈംഗികാതിക്രമങ്ങളില്‍ നിന്ന് കുട്ടികള്‍ക്കുള്ള സംരക്ഷണ നിയമം",
+   "summary": "കുട്ടികള്‍ക്കെതിരെയുള്ള ലൈംഗികാതിക്രമങ്ങള്‍ തടയുന്നതിനായുള്ള നിയമങ്ങളെക്കുറിച്ചും രക്ഷിതാക്കള്‍ അറിഞ്ഞിരിക്കേണ്ട സുരക്ഷാ മുന്‍കരുതലുകളെക്കുറിച്ചുമുള്ള ലേഖനം.",
+   "author": "മുസാഫിര്‍",
+   "issue_date": "2018-12-08",
+   "html_url": "/ml/family/protection-of-children-from-sexual-offences-act-20181208-5.html",
+   "md_url": "/ml/family/protection-of-children-from-sexual-offences-act-20181208-5.md"
   },
   {
    "slug": "resolving-disputes-20181020-10",
@@ -10351,6 +10384,17 @@
    "issue_date": "2018-09-01",
    "html_url": "/ml/hadith/return-to-sunnah-20180901-9.html",
    "md_url": "/ml/hadith/return-to-sunnah-20180901-9.md"
+  },
+  {
+   "slug": "sunnah-the-commitment-of-the-companions-20181208-6",
+   "lang": "ml",
+   "category": "hadith",
+   "title": "സുന്നത്ത്: സ്വഹാബിമാരുടെ പ്രതിബദ്ധത",
+   "summary": "പ്രവാചകന്‍ മുഹമ്മദ് നബിയുടെ ചര്യകളെ സ്വഹാബികള്‍ എത്രത്തോളം കൃത്യമായി പിന്തുടര്‍ന്നിരുന്നു എന്ന് ഈ ലേഖനം വ്യക്തമാക്കുന്നു. സുന്നത്തിനോടുള്ള അവരുടെ പ്രതിബദ്ധത മാതൃകാപരമാണ്.",
+   "author": "കുഞ്ഞിമുഹമ്മദ് മദനി പറപ്പൂര്‍",
+   "issue_date": "2018-12-08",
+   "html_url": "/ml/hadith/sunnah-the-commitment-of-the-companions-20181208-6.html",
+   "md_url": "/ml/hadith/sunnah-the-commitment-of-the-companions-20181208-6.md"
   },
   {
    "slug": "food-in-ramadan-20180519-8",
@@ -11365,6 +11409,17 @@
    "md_url": "/ml/opinion/unanswered-north-kerala-20170401-13.md"
   },
   {
+   "slug": "vankum-kithabum-and-the-constitution-20181208-9",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "'വാങ്കും കിത്താബും' വിപ്ലവക്കുട്ടികള്‍ കണ്ട ഭരണഘടനയും",
+   "summary": "മതപരമായ വിഷയങ്ങളെ ആസ്പദമാക്കി പുറത്തിറങ്ങുന്ന കലാരൂപങ്ങളെയും അവയിലെ ആവിഷ്‌കാര സ്വാതന്ത്ര്യത്തെയും കുറിച്ചുള്ള ഒരു സാമൂഹിക വിശകലനം.",
+   "author": "സുഫ്‌യാന്‍ അബ്ദുസ്സലാം",
+   "issue_date": "2018-12-08",
+   "html_url": "/ml/opinion/vankum-kithabum-and-the-constitution-20181208-9.html",
+   "md_url": "/ml/opinion/vankum-kithabum-and-the-constitution-20181208-9.md"
+  },
+  {
    "slug": "warning-signs-from-the-reconstruction-of-history-20170114-2",
    "lang": "ml",
    "category": "opinion",
@@ -11429,6 +11484,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/ml/opinion/who-should-leave-india-20170121-1.html",
    "md_url": "/ml/opinion/who-should-leave-india-20170121-1.md"
+  },
+  {
+   "slug": "will-ayodhya-become-a-riot-zone-once-again-20181208-2",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "അയോധ്യ ഒരിക്കല്‍കൂടി കലാപഭൂമിയാകുമോ?",
+   "summary": "ബാബരി മസ്ജിദ് ധ്വംസനത്തിന്റെ പശ്ചാത്തലത്തില്‍ അയോധ്യയിലെ നിലവിലെ രാഷ്ട്രീയ സാഹചര്യങ്ങളെയും ആശങ്കകളെയും വിശകലനം ചെയ്യുന്ന ലേഖനം. രാജ്യത്തെ വര്‍ഗീയ ധ്രുവീകരണത്തെക്കുറിച്ചുള്ള മുന്നറിയിപ്പുകള്‍ ഇതില്‍ അടങ്ങിയിരിക്കുന്നു.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2018-12-08",
+   "html_url": "/ml/opinion/will-ayodhya-become-a-riot-zone-once-again-20181208-2.html",
+   "md_url": "/ml/opinion/will-ayodhya-become-a-riot-zone-once-again-20181208-2.md"
   },
   {
    "slug": "al-a-la-the-most-high-20181020-3",
@@ -11583,6 +11649,17 @@
    "issue_date": "2018-04-28",
    "html_url": "/ml/quran/surah-al-adiyat-the-chargers-20180428-3.html",
    "md_url": "/ml/quran/surah-al-adiyat-the-chargers-20180428-3.md"
+  },
+  {
+   "slug": "surah-al-buruj-the-constellations-20181208-3",
+   "lang": "ml",
+   "category": "quran",
+   "title": "ബുറൂജ് (നക്ഷത്ര മണ്ഡലങ്ങള്‍)",
+   "summary": "ഖുര്‍ആനിലെ 85-ാം അധ്യായമായ സൂറത്തുല്‍ ബുറൂജിന്റെ ലഘു വ്യാഖ്യാനം. വിശ്വാസികളുടെ ത്യാഗത്തെയും അല്ലാഹുവിന്റെ വാഗ്ദാനങ്ങളെയും കുറിച്ച് ഈ ഭാഗം വിവരിക്കുന്നു.",
+   "author": "അബ്ദുറഹ്മാന്‍ നാസിര്‍ അസ്സഅദി",
+   "issue_date": "2018-12-08",
+   "html_url": "/ml/quran/surah-al-buruj-the-constellations-20181208-3.html",
+   "md_url": "/ml/quran/surah-al-buruj-the-constellations-20181208-3.md"
   },
   {
    "slug": "surah-al-ghashiyah-part-2-20181013-2",
@@ -11959,6 +12036,17 @@
    "md_url": "/ml/seerah/the-journey-to-receive-the-torah-20180818-8.md"
   },
   {
+   "slug": "the-prophet-gifted-with-a-melodious-voice-dawud-as-20181208-7",
+   "lang": "ml",
+   "category": "seerah",
+   "title": "സ്വരമാധുര്യം നല്‍കപ്പെട്ട പ്രവാചകന്‍",
+   "summary": "ദാവൂദ് നബി(അ)യുടെ ജീവിതത്തെക്കുറിച്ചുള്ള പരമ്പരയിലെ നാലാം ഭാഗം. അദ്ദേഹത്തിന് അല്ലാഹു നല്‍കിയ ശബ്ദമാധുര്യത്തെയും അത് ജനങ്ങളെ സ്വാധീനിച്ച രീതിയെയും കുറിച്ച് പ്രതിപാദിക്കുന്നു.",
+   "author": "ഹുസൈന്‍ സലഫി, ഷാര്‍ജ",
+   "issue_date": "2018-12-08",
+   "html_url": "/ml/seerah/the-prophet-gifted-with-a-melodious-voice-dawud-as-20181208-7.html",
+   "md_url": "/ml/seerah/the-prophet-gifted-with-a-melodious-voice-dawud-as-20181208-7.md"
+  },
+  {
    "slug": "the-prophet-s-demise-20180512-4",
    "lang": "ml",
    "category": "seerah",
@@ -12124,6 +12212,17 @@
    "md_url": "/ml/story/an-old-man-s-sorrows-20180505-12.md"
   },
   {
+   "slug": "avadhi-the-deadline-20181208-1",
+   "lang": "ml",
+   "category": "story",
+   "title": "അവധി",
+   "summary": "മരണത്തെക്കുറിച്ചും ജീവിതത്തിന്റെ നശ്വരതയെക്കുറിച്ചും ഓര്‍മ്മിപ്പിക്കുന്ന ഒരു കവിതയാണിത്. അല്ലാഹുവിന്റെ വിധി എത്തുന്നതിന് മുമ്പ് സല്‍കര്‍മ്മങ്ങള്‍ ചെയ്യാന്‍ ഇത് ആഹ്വാനം ചെയ്യുന്നു.",
+   "author": "ജസീല്‍ കൊടിയത്തൂര്‍",
+   "issue_date": "2018-12-08",
+   "html_url": "/ml/story/avadhi-the-deadline-20181208-1.html",
+   "md_url": "/ml/story/avadhi-the-deadline-20181208-1.md"
+  },
+  {
    "slug": "broken-hearts-20170218-11",
    "lang": "ml",
    "category": "story",
@@ -12177,6 +12276,17 @@
    "issue_date": "2018-05-05",
    "html_url": "/ml/story/guardians-should-be-role-models-20180505-8.html",
    "md_url": "/ml/story/guardians-should-be-role-models-20180505-8.md"
+  },
+  {
+   "slug": "how-beautiful-is-this-earth-20181208-4",
+   "lang": "ml",
+   "category": "story",
+   "title": "എത്ര മനോഹരമീ ഭൂമി...!",
+   "summary": "പ്രകൃതിയുടെ സൗന്ദര്യത്തെയും അല്ലാഹുവിന്റെ സൃഷ്ടിപ്പിനെയും കുട്ടികള്‍ക്ക് മനസ്സിലാകും വിധം ലളിതമായി വിവരിക്കുന്ന കവിത. പ്രപഞ്ചത്തിലെ അനുഗ്രഹങ്ങളെക്കുറിച്ച് ചിന്തിക്കാന്‍ ഇത് പ്രേരിപ്പിക്കുന്നു.",
+   "author": "ഉസ്മാന്‍ പാലക്കാഴി",
+   "issue_date": "2018-12-08",
+   "html_url": "/ml/story/how-beautiful-is-this-earth-20181208-4.html",
+   "md_url": "/ml/story/how-beautiful-is-this-earth-20181208-4.md"
   },
   {
    "slug": "hunger-20181013-11",
