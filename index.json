@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-31T10:11:46.228648+00:00",
+ "generated_at": "2026-08-31T10:12:23.138966+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2284,
+ "count": 2285,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -20152,6 +20152,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/so/youth/what-will-the-waste-do-20170114-5.html",
    "md_url": "/so/youth/what-will-the-waste-do-20170114-5.md"
+  },
+  {
+   "slug": "become-the-guardian-of-the-sources-20170128-9",
+   "lang": "sq",
+   "category": "aqeedah",
+   "title": "Bëhuni mbrojtës të burimeve",
+   "summary": "Ky shkrim shpjegon natyrën hyjnore dhe pathyeshmërinë e burimeve të Islamit, duke theksuar dallimin e tyre nga fetë e tjera. Gjithashtu, përkujton rëndësinë e mbrojtjes së Kur'anit dhe Sunetit përballë sfidave bashkëkohore.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2017-01-28",
+   "html_url": "/sq/aqeedah/become-the-guardian-of-the-sources-20170128-9.html",
+   "md_url": "/sq/aqeedah/become-the-guardian-of-the-sources-20170128-9.md"
   },
   {
    "slug": "do-not-waver-in-trials-20170121-9",
