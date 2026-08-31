@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-31T06:10:00.969254+00:00",
+ "generated_at": "2026-08-31T06:10:39.350744+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2026,
+ "count": 2038,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -8571,6 +8571,17 @@
    "md_url": "/ml/aqeedah/celebrating-nabi-day-is-un-islamic-20260822-5.md"
   },
   {
+   "slug": "do-not-create-obstacles-before-the-texts-20180609-11",
+   "lang": "ml",
+   "category": "aqeedah",
+   "title": "പ്രമാണങ്ങൾക്കു മുമ്പിൽ പ്രതിബന്ധം തീരരുത്",
+   "summary": "ഇസ്ലാം പ്രമാണബദ്ധമായ മതമാണെന്നും, ഖുർആനിലും പ്രവാചകചര്യയിലും തെളിവില്ലാത്ത ഒന്നും മതമായി ആചരിക്കാൻ പാടില്ലെന്നും ലേഖനം വ്യക്തമാക്കുന്നു. പ്രവർത്തനങ്ങൾ സ്വീകരിക്കപ്പെടാൻ ഇഖ്ലാസും (ആത്മാർത്ഥത) ഇത്തിബാഉം (പ്രവാചകനെ പിൻപറ്റൽ) നിർബന്ധമാണെന്ന് വിശദീകരിക്കുന്നു.",
+   "author": "മൂസ സ്വലാഹി, കാര",
+   "issue_date": "2018-06-09",
+   "html_url": "/ml/aqeedah/do-not-create-obstacles-before-the-texts-20180609-11.html",
+   "md_url": "/ml/aqeedah/do-not-create-obstacles-before-the-texts-20180609-11.md"
+  },
+  {
    "slug": "express-love-by-following-the-prophet-20181124-7",
    "lang": "ml",
    "category": "aqeedah",
@@ -9319,6 +9330,17 @@
    "md_url": "/ml/dawah/repelling-evil-with-good-20180908-8.md"
   },
   {
+   "slug": "repentance-20180609-4",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "പശ്ചാത്താപം",
+   "summary": "ശരീരത്തെയും മനസ്സിനെയും മാലിന്യമുക്തമാക്കാൻ ഇസ്ലാം ആവശ്യപ്പെടുന്നു. തെറ്റുകുറ്റങ്ങൾ വർജ്ജിച്ചും പശ്ചാത്താപിച്ചും മനസ്സ് ശുദ്ധീകരിക്കണമെന്നും, പശ്ചാത്താപത്തിനുള്ള വാതിൽ തുറന്നുതന്നത് അല്ലാഹുവിന്റെ മഹത്തായ അനുഗ്രഹമാണെന്നും ലേഖനം വിശദീകരിക്കുന്നു.",
+   "author": "സമീർ മുണ്ടേരി",
+   "issue_date": "2018-06-09",
+   "html_url": "/ml/dawah/repentance-20180609-4.html",
+   "md_url": "/ml/dawah/repentance-20180609-4.md"
+  },
+  {
    "slug": "seeking-truth-is-not-a-crime-20170211-9",
    "lang": "ml",
    "category": "dawah",
@@ -10023,6 +10045,17 @@
    "md_url": "/ml/family/protection-of-children-from-sexual-offences-act-20181208-5.md"
   },
   {
+   "slug": "ramadan-of-reformation-20180609-3",
+   "lang": "ml",
+   "category": "family",
+   "title": "സംസ്കരണത്തിന്റെ റമദാൻ",
+   "summary": "റമദാൻ മാസം കുടുംബങ്ങളെയും കുട്ടികളെയും നന്മയിൽ സംസ്കരിച്ചെടുക്കാനുള്ള യഥാർത്ഥ സന്ദർഭമാണെന്ന് ലേഖനം പറയുന്നു. ഹൃദയശുദ്ധിക്കും സാഹോദര്യത്തിനും പ്രാധാന്യം നൽകണമെന്നും, മാതാപിതാക്കളെ ഉപദ്രവിക്കുന്നവർക്ക് റമദാൻ അധികം ഉപകാരപ്പെടില്ലെന്നും ഓർമ്മിപ്പിക്കുന്നു.",
+   "author": "ഹംസ ജമാലി",
+   "issue_date": "2018-06-09",
+   "html_url": "/ml/family/ramadan-of-reformation-20180609-3.html",
+   "md_url": "/ml/family/ramadan-of-reformation-20180609-3.md"
+  },
+  {
    "slug": "resolving-disputes-20181020-10",
    "lang": "ml",
    "category": "family",
@@ -10287,6 +10320,17 @@
    "md_url": "/ml/fiqh/motor-vehicle-laws-20180818-6.md"
   },
   {
+   "slug": "poem-funeral-rites-3-20180609-5",
+   "lang": "ml",
+   "category": "fiqh",
+   "title": "ഖണ്ഡകാവ്യം മരണ ശേഷക്രിയകൾ: 3",
+   "summary": "മയ്യിത്തിനെ കുളിപ്പിക്കേണ്ട രീതികളെക്കുറിച്ചും, ഭാര്യക്ക് ഭർത്താവിനെയും തിരിച്ചും കുളിപ്പിക്കാമെന്നതിനെക്കുറിച്ചും വിശദീകരിക്കുന്നു. ആർത്തവമുള്ള സ്ത്രീകൾക്കും മയ്യിത്തിനെ കുളിപ്പിക്കാൻ അവകാശമുണ്ടെന്നും, അജ്ഞത കാരണം പലരും ഇതിനെ തടയുന്നുവെന്നും ലേഖനം പറയുന്നു.",
+   "author": "വെള്ളില പി. അബ്ദുള്ള",
+   "issue_date": "2018-06-09",
+   "html_url": "/ml/fiqh/poem-funeral-rites-3-20180609-5.html",
+   "md_url": "/ml/fiqh/poem-funeral-rites-3-20180609-5.md"
+  },
+  {
    "slug": "post-death-rituals-20180804-9",
    "lang": "ml",
    "category": "fiqh",
@@ -10461,6 +10505,17 @@
    "issue_date": "2026-08-22",
    "html_url": "/ml/health/know-this-for-those-caring-for-the-sick-20260822-1.html",
    "md_url": "/ml/health/know-this-for-those-caring-for-the-sick-20260822-1.md"
+  },
+  {
+   "slug": "nipah-virus-infection-caution-not-fear-is-needed-20180609-7",
+   "lang": "ml",
+   "category": "health",
+   "title": "നിപ്പ വൈറസ് ബാധ; ഭയമല്ല, ജാഗ്രതയാണ് വേണ്ടത്",
+   "summary": "നിപ്പ വൈറസ് ബാധയെക്കുറിച്ചും അതിന്റെ ലക്ഷണങ്ങളെക്കുറിച്ചും പ്രതിരോധ മാർഗ്ഗങ്ങളെക്കുറിച്ചും ലേഖനം വിശദീകരിക്കുന്നു. രോഗം പടർന്നുപിടിക്കുന്നതിനെക്കുറിച്ച് തെറ്റിദ്ധാരണകളുണ്ടെന്നും, അമിതമായ പരിഭ്രാന്തി ആവശ്യമില്ലെന്നും എന്നാൽ മുൻകരുതലുകൾ എടുക്കണമെന്നും പറയുന്നു.",
+   "author": "ഡോ. അസ്ഹർ",
+   "issue_date": "2018-06-09",
+   "html_url": "/ml/health/nipah-virus-infection-caution-not-fear-is-needed-20180609-7.html",
+   "md_url": "/ml/health/nipah-virus-infection-caution-not-fear-is-needed-20180609-7.md"
   },
   {
    "slug": "nutrients-for-thyroid-health-20180505-10",
@@ -10804,6 +10859,17 @@
    "md_url": "/ml/opinion/a-glance-into-laws-20180428-6.md"
   },
   {
+   "slug": "a-muslim-s-patriotism-20180609-1",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "മുസ്ലിമിന്റെ രാജ്യസ്നേഹം",
+   "summary": "ജീവിക്കുന്ന നാടിനെ സ്നേഹിക്കേണ്ടത് ഓരോരുത്തരുടെയും കടമയാണെന്നും, സ്വന്തം നാടിനെ സ്നേഹിക്കേണ്ടത് അന്യ നാടുകളെ വെറുത്തുകൊണ്ടല്ലെന്നും ലേഖനം ഓർമ്മിപ്പിക്കുന്നു. പ്രവാചകന്റെ ജീവിതത്തിൽ നിന്നും ഉദാഹരണങ്ങൾ നിരത്തി, നാടിന്റെ ക്ഷേമത്തിനും ഐശ്വര്യത്തിനും വേണ്ടി പ്രവർത്തിക്കേണ്ടതിന്റെ പ്രാധാന്യം വിശദീകരിക്കുന്നു.",
+   "author": "ഡോ. പി.കെ അബ്ദുറസാഖ് സുല്ലമി",
+   "issue_date": "2018-06-09",
+   "html_url": "/ml/opinion/a-muslim-s-patriotism-20180609-1.html",
+   "md_url": "/ml/opinion/a-muslim-s-patriotism-20180609-1.md"
+  },
+  {
    "slug": "adultery-india-needs-a-comprehensive-law-20181013-1",
    "lang": "ml",
    "category": "opinion",
@@ -10881,6 +10947,17 @@
    "md_url": "/ml/opinion/challenges-posed-by-pseudo-nationalism-20170204-4.md"
   },
   {
+   "slug": "children-s-lesson-a-compassionate-heart-20180609-12",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "ബാലപാഠം: കരുണയുള്ള മനസ്സ്",
+   "summary": "മാലിന്യത്തിൽ ഭക്ഷണം തിരയുന്ന ഒരു കുട്ടിയെ കണ്ട സമീർ എന്ന കുട്ടിയുടെ കഥയാണിത്. അവന്റെ മനസ്സലിഞ്ഞ സമീർ, സൈക്കിൾ വാങ്ങാൻ കരുതിവെച്ച പണം ആ പാവപ്പെട്ട കുട്ടിക്ക് നൽകാൻ തീരുമാനിക്കുന്നു. ഇത് കുട്ടികളിലെ കരുണയെയും സഹാനുഭൂതിയെയും എടുത്തു കാണിക്കുന്നു.",
+   "author": "ഉസ്മാൻ പാലക്കാഴി",
+   "issue_date": "2018-06-09",
+   "html_url": "/ml/opinion/children-s-lesson-a-compassionate-heart-20180609-12.html",
+   "md_url": "/ml/opinion/children-s-lesson-a-compassionate-heart-20180609-12.md"
+  },
+  {
    "slug": "cultural-influence-of-media-20181117-3",
    "lang": "ml",
    "category": "opinion",
@@ -10923,6 +11000,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/ml/opinion/e-writing-is-not-mere-writing-20170121-15.html",
    "md_url": "/ml/opinion/e-writing-is-not-mere-writing-20170121-15.md"
+  },
+  {
+   "slug": "editorial-20180609-10",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "മുഖമൊഴി",
+   "summary": "രാജ്യസ്നേഹം, സാമൂഹിക ഐക്യം, വൈവിധ്യങ്ങൾക്കിടയിലെ സഹവർത്തിത്വം, പൗരന്റെ കടമകൾ എന്നിവയെക്കുറിച്ചാണ് മുഖപ്രസംഗം ചർച്ച ചെയ്യുന്നത്. അഴിമതി, വർഗീയത എന്നിവയെ എതിർക്കണമെന്നും, രാഷ്ട്രത്തിന്റെ നന്മക്കായി എല്ലാവരും സഹകരിക്കണമെന്നും ആഹ്വാനം ചെയ്യുന്നു.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2018-06-09",
+   "html_url": "/ml/opinion/editorial-20180609-10.html",
+   "md_url": "/ml/opinion/editorial-20180609-10.md"
   },
   {
    "slug": "elections-the-stand-must-be-well-considered-20170325-10",
@@ -11145,6 +11233,17 @@
    "md_url": "/ml/opinion/none-should-forget-the-path-they-came-from-20170225-13.md"
   },
   {
+   "slug": "path-of-law-bail-20180609-6",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "നിയമപഥം: ജാമ്യം",
+   "summary": "കേസുകൾ സാധാരണ ജാമ്യം കിട്ടാവുന്നതും അല്ലാത്തതുമായി തരംതിരിച്ചിട്ടുണ്ടെന്നും, ജാമ്യം ലഭിക്കാവുന്ന കേസുകളിൽ പോലീസിന് തന്നെ ജാമ്യത്തിൽ വിടാമെന്നും ലേഖനം വിശദീകരിക്കുന്നു. മുൻകൂർ ജാമ്യത്തെക്കുറിച്ചും വിശദീകരിക്കുന്നു.",
+   "author": "മൂസാഫിർ",
+   "issue_date": "2018-06-09",
+   "html_url": "/ml/opinion/path-of-law-bail-20180609-6.html",
+   "md_url": "/ml/opinion/path-of-law-bail-20180609-6.md"
+  },
+  {
    "slug": "permanent-lok-adalat-20181110-7",
    "lang": "ml",
    "category": "opinion",
@@ -11332,6 +11431,17 @@
    "md_url": "/ml/opinion/the-continuing-deceptions-of-evolution-20181215-8.md"
   },
   {
+   "slug": "the-cruelties-of-mob-mentality-20180609-2",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "സംഘബലത്തിന്റെ ക്രൂരതകൾ",
+   "summary": "സംഘം ചേരുമ്പോൾ മനുഷ്യർ എന്തും ചെയ്യാൻ മടിക്കുന്നില്ലെന്നും, ഇത് ഭരണകൂടങ്ങളുടെ ശക്തിപ്രകടനത്തിനും പോലീസിന്റെ ക്രൂരതകൾക്കും കാരണമാകുന്നുവെന്നും ലേഖനം പറയുന്നു. വിദ്യാർത്ഥി സമരങ്ങൾ, തൂത്തുക്കുടി സംഭവം എന്നിവ ഉദാഹരണങ്ങളായി നിരത്തി, സംഘബോധത്തിന്റെ ഉൻമാദാവസ്ഥയെ വിമർശിക്കുന്നു.",
+   "author": "എഡിറ്റർ",
+   "issue_date": "2018-06-09",
+   "html_url": "/ml/opinion/the-cruelties-of-mob-mentality-20180609-2.html",
+   "md_url": "/ml/opinion/the-cruelties-of-mob-mentality-20180609-2.md"
+  },
+  {
    "slug": "the-currency-no-one-accepts-20170114-3",
    "lang": "ml",
    "category": "opinion",
@@ -11495,6 +11605,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/ml/opinion/when-national-tradition-is-questioned-20170121-2.html",
    "md_url": "/ml/opinion/when-national-tradition-is-questioned-20170121-2.md"
+  },
+  {
+   "slug": "when-starting-education-20180609-9",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "വിദ്യാരംഭം കുറിക്കുമ്പോൾ",
+   "summary": "വിദ്യാഭ്യാസത്തിന്റെ ലക്ഷ്യമെന്താണെന്നും, അറിവ് തിന്മയ്ക്കും അധാർമ്മികതയ്ക്കും ഉപയോഗപ്പെടുത്തുന്നതിലെ അപകടങ്ങളെക്കുറിച്ചും ലേഖനം ചർച്ച ചെയ്യുന്നു. പാഠ്യപദ്ധതിയിലെ ന്യൂനതകളും ദൈവസാന്നിധ്യത്തിലേക്കുള്ള ചൂണ്ടുപലകകളാകേണ്ട വിദ്യാഭ്യാസത്തിന്റെ പ്രാധാന്യവും ഓർമ്മിപ്പിക്കുന്നു.",
+   "author": "ഷമീർ മദീനി",
+   "issue_date": "2018-06-09",
+   "html_url": "/ml/opinion/when-starting-education-20180609-9.html",
+   "md_url": "/ml/opinion/when-starting-education-20180609-9.md"
   },
   {
    "slug": "when-victims-hunt-the-me-too-predators-20181027-4",
@@ -12034,6 +12155,17 @@
    "issue_date": "2018-05-19",
    "html_url": "/ml/seerah/reaching-midian-20180519-3.html",
    "md_url": "/ml/seerah/reaching-midian-20180519-3.md"
+  },
+  {
+   "slug": "taking-up-the-mission-20180609-8",
+   "lang": "ml",
+   "category": "seerah",
+   "title": "ദൗത്യം ഏറ്റെടുക്കുന്നു",
+   "summary": "മൂസാ നബി(അ)യോട് അല്ലാഹു സംസാരിച്ചതും, അദ്ദേഹത്തിന് നൽകിയ അസാധാരണമായ ദൃഷ്ടാന്തങ്ങളെക്കുറിച്ചും ലേഖനം വിശദീകരിക്കുന്നു. ഫിർഔന്റെ അടുത്തേക്ക് പോകാനുള്ള ദൗത്യവും അതിനായുള്ള പ്രാർത്ഥനകളും വിവരിക്കുന്നു.",
+   "author": "ഹുസൈൻ സലഫി, ഷാർജ",
+   "issue_date": "2018-06-09",
+   "html_url": "/ml/seerah/taking-up-the-mission-20180609-8.html",
+   "md_url": "/ml/seerah/taking-up-the-mission-20180609-8.md"
   },
   {
    "slug": "that-lamp-has-also-extinguished-20180804-1",
