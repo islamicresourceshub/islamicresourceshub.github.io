@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-31T08:41:14.220240+00:00",
+ "generated_at": "2026-08-31T08:41:55.731920+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2100,
+ "count": 2101,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -16104,6 +16104,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/ps/family/our-parents-20170325-4.html",
    "md_url": "/ps/family/our-parents-20170325-4.md"
+  },
+  {
+   "slug": "the-methodology-of-conduct-20170128-8",
+   "lang": "ps",
+   "category": "family",
+   "title": "د چلند تګلاره",
+   "summary": "دا د هغو مؤمنانو لپاره د لړۍ دویمه برخه ده چې د ماشومانو په روزنه کې د غوره والي په لټه کې دي. په دې لیکنه کې د ماشومانو سره د چلند د غوره لارو چارو او د هغوی د روزنې د اړینو اخلاقو په اړه بحث شوی دی.",
+   "author": "അഷ്‌റഫ്‌ എകരൂൽ",
+   "issue_date": "2017-01-28",
+   "html_url": "/ps/family/the-methodology-of-conduct-20170128-8.html",
+   "md_url": "/ps/family/the-methodology-of-conduct-20170128-8.md"
   },
   {
    "slug": "mosque-construction-some-points-to-note-20170325-5",
