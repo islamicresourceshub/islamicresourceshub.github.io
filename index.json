@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-31T11:10:41.214907+00:00",
+ "generated_at": "2026-08-31T11:11:09.359927+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2399,
+ "count": 2410,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -9506,6 +9506,17 @@
    "md_url": "/ml/aqeedah/tawheed-and-its-categories-20181124-9.md"
   },
   {
+   "slug": "the-dead-end-of-neo-atheist-thoughts-20180707-1",
+   "lang": "ml",
+   "category": "aqeedah",
+   "title": "വഴിമുട്ടുന്ന നവനാസ്തിക ചിന്തകൾ",
+   "summary": "നിരീശ്വരവാദത്തിന്റെ ദാർശനികമായ പരാജയത്തെയും യുക്തിവാദികൾ ഉയർത്തുന്ന വാദങ്ങളിലെ അശാസ്ത്രീയതയെയും ഈ ലേഖനം വിശകലനം ചെയ്യുന്നു. ദൈവവിശ്വാസം മനുഷ്യന്റെ നൈസർഗികമായ പ്രകൃതമാണെന്നും യുക്തിപരമായ ചോദ്യങ്ങളെ നേരിടാൻ നവനാസ്തികതയ്ക്ക് കഴിയുന്നില്ലെന്നും ലേഖകൻ സമർത്ഥിക്കുന്നു.",
+   "author": "ഷാഹുൽ പാലക്കാട്",
+   "issue_date": "2018-07-07",
+   "html_url": "/ml/aqeedah/the-dead-end-of-neo-atheist-thoughts-20180707-1.html",
+   "md_url": "/ml/aqeedah/the-dead-end-of-neo-atheist-thoughts-20180707-1.md"
+  },
+  {
    "slug": "the-death-of-prophet-isa-as-20190525-3",
    "lang": "ml",
    "category": "aqeedah",
@@ -10958,6 +10969,17 @@
    "md_url": "/ml/dawah/to-the-opponents-of-morality-20190420-8.md"
   },
   {
+   "slug": "to-those-engrossed-in-entertainment-20180707-11",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "വിനോദങ്ങളിൽ മുഴുകുന്നവരോട്",
+   "summary": "ഇസ്‌ലാം അനുവദിച്ച വിനോദങ്ങളുടെ അതിരുകളെക്കുറിച്ചും അമിതമായ വിനോദങ്ങൾ വിശ്വാസിയുടെ ജീവിതത്തിൽ വരുത്തുന്ന വീഴ്ചകളെക്കുറിച്ചും ഈ ലേഖനം മുന്നറിയിപ്പ് നൽകുന്നു.",
+   "author": "ശമീർ മദീനി",
+   "issue_date": "2018-07-07",
+   "html_url": "/ml/dawah/to-those-engrossed-in-entertainment-20180707-11.html",
+   "md_url": "/ml/dawah/to-those-engrossed-in-entertainment-20180707-11.md"
+  },
+  {
    "slug": "to-those-who-seek-fame-20190323-10",
    "lang": "ml",
    "category": "dawah",
@@ -11948,6 +11970,17 @@
    "md_url": "/ml/fiqh/ramadan-fasting-rulings-and-prohibitions-20180519-7.md"
   },
   {
+   "slug": "return-to-the-sources-abandon-blind-following-20180707-6",
+   "lang": "ml",
+   "category": "fiqh",
+   "title": "പ്രമാണങ്ങളിലേക്ക് മടങ്ങുക; തഖ്‌ലീദ് വെടിയുക",
+   "summary": "മതപരമായ കാര്യങ്ങളിൽ അന്ധമായ അനുകരണം (തഖ്‌ലീദ്) ഒഴിവാക്കി ഖുർആനിലേക്കും സുന്നത്തിലേക്കും മടങ്ങേണ്ടതിന്റെ അനിവാര്യതയെക്കുറിച്ച് ഈ ലേഖനം ചർച്ച ചെയ്യുന്നു. പ്രമാണങ്ങളുടെ അടിസ്ഥാനത്തിൽ മാത്രം മതവിധികൾ സ്വീകരിക്കേണ്ടതിന്റെ പ്രാധാന്യം ഇതിൽ വ്യക്തമാക്കുന്നു.",
+   "author": "അലി ഗശ്ശാൻ",
+   "issue_date": "2018-07-07",
+   "html_url": "/ml/fiqh/return-to-the-sources-abandon-blind-following-20180707-6.html",
+   "md_url": "/ml/fiqh/return-to-the-sources-abandon-blind-following-20180707-6.md"
+  },
+  {
    "slug": "sacrifice-qurbani-what-we-need-to-know-20180811-3",
    "lang": "ml",
    "category": "fiqh",
@@ -12113,6 +12146,17 @@
    "md_url": "/ml/hadith/sunnah-the-commitment-of-the-companions-20181208-6.md"
   },
   {
+   "slug": "food-and-migraine-20180707-9",
+   "lang": "ml",
+   "category": "health",
+   "title": "ഭക്ഷണവും മൈഗ്രേനും",
+   "summary": "മൈഗ്രേൻ അഥവാ തലവേദനയും ഭക്ഷണരീതികളും തമ്മിലുള്ള ബന്ധത്തെക്കുറിച്ച് ഈ ലേഖനം പ്രതിപാദിക്കുന്നു. ഭക്ഷണക്രമീകരണം, ഉറക്കം, ജീവിതശൈലി എന്നിവയിലൂടെ മൈഗ്രേനെ എങ്ങനെ നിയന്ത്രിക്കാമെന്ന് ഇതിൽ നിർദ്ദേശിക്കുന്നു.",
+   "author": "അബൂഫായിദ",
+   "issue_date": "2018-07-07",
+   "html_url": "/ml/health/food-and-migraine-20180707-9.html",
+   "md_url": "/ml/health/food-and-migraine-20180707-9.md"
+  },
+  {
    "slug": "food-in-ramadan-20180519-8",
    "lang": "ml",
    "category": "health",
@@ -12188,6 +12232,17 @@
    "issue_date": "2019-07-06",
    "html_url": "/ml/health/living-to-eat-20190706-3.html",
    "md_url": "/ml/health/living-to-eat-20190706-3.md"
+  },
+  {
+   "slug": "monsoon-diseases-and-waste-management-20180707-2",
+   "lang": "ml",
+   "category": "health",
+   "title": "മഴക്കാല രോഗങ്ങളും മുഴുക്കാല മാലിന്യങ്ങളും",
+   "summary": "മഴക്കാലത്ത് പടർന്നുപിടിക്കുന്ന പകർച്ചവ്യാധികളെക്കുറിച്ചും നമ്മുടെ ചുറ്റുപാടുകളിലെ മാലിന്യ സംസ്കരണത്തിലുള്ള അലംഭാവത്തെക്കുറിച്ചും എഡിറ്റോറിയൽ മുന്നറിയിപ്പ് നൽകുന്നു. ശുചിത്വപാലനത്തിൽ വ്യക്തികളും ഭരണകൂടങ്ങളും കാണിക്കേണ്ട ജാഗ്രതയെക്കുറിച്ച് ലേഖനം ഓർമ്മിപ്പിക്കുന്നു.",
+   "author": "എഡിറ്റർ",
+   "issue_date": "2018-07-07",
+   "html_url": "/ml/health/monsoon-diseases-and-waste-management-20180707-2.html",
+   "md_url": "/ml/health/monsoon-diseases-and-waste-management-20180707-2.md"
   },
   {
    "slug": "nipah-virus-infection-caution-not-fear-is-needed-20180609-7",
@@ -12441,6 +12496,17 @@
    "issue_date": "2017-02-25",
    "html_url": "/ml/history/islamophobia-archetypes-of-ancient-history-20170225-3.html",
    "md_url": "/ml/history/islamophobia-archetypes-of-ancient-history-20170225-3.md"
+  },
+  {
+   "slug": "law-and-environmental-protection-20180707-7",
+   "lang": "ml",
+   "category": "history",
+   "title": "നിയമവും പ്രകൃതിസംരക്ഷണവും",
+   "summary": "പ്രകൃതി വിഭവങ്ങളുടെ സംരക്ഷണവും പരിസ്ഥിതി നിയമങ്ങളുടെ പ്രാധാന്യവും ഈ ലേഖനം പരിശോധിക്കുന്നു. ഭൂമി സകല ജീവജാലങ്ങൾക്കും വേണ്ടിയുള്ളതാണെന്നും അത് അടുത്ത തലമുറയ്ക്ക് കൈമാറാൻ നാം ബാധ്യസ്ഥരാണെന്നും ലേഖകൻ ഓർമ്മിപ്പിക്കുന്നു.",
+   "author": "മുസാഫിർ",
+   "issue_date": "2018-07-07",
+   "html_url": "/ml/history/law-and-environmental-protection-20180707-7.html",
+   "md_url": "/ml/history/law-and-environmental-protection-20180707-7.md"
   },
   {
    "slug": "law-and-social-reform-20181013-7",
@@ -14533,6 +14599,17 @@
    "md_url": "/ml/quran/surah-az-zalzalah-the-earthquake-tafsir-20180505-2.md"
   },
   {
+   "slug": "tafsir-of-surah-al-inshirah-20180707-4",
+   "lang": "ml",
+   "category": "quran",
+   "title": "അലം നശ്‌റഹ് ലക സ്വദ്‌റക്",
+   "summary": "വിശുദ്ധ ഖുർആനിലെ 94-ാം അധ്യായമായ അലം നശ്‌റഹ് എന്ന സൂറത്തിന്റെ ലളിതമായ തഫ്സീർ. പ്രവാചകൻ മുഹമ്മദ് നബിക്ക് അല്ലാഹു നൽകിയ അനുഗ്രഹങ്ങളെയും പ്രയാസങ്ങൾക്കിടയിലെ ആശ്വാസത്തെയും കുറിച്ച് ഈ ഭാഗം വിശദീകരിക്കുന്നു.",
+   "author": "അബ്ദുറഹ്മാൻ നാസിർ അസ്സഅദി",
+   "issue_date": "2018-07-07",
+   "html_url": "/ml/quran/tafsir-of-surah-al-inshirah-20180707-4.html",
+   "md_url": "/ml/quran/tafsir-of-surah-al-inshirah-20180707-4.md"
+  },
+  {
    "slug": "the-bitter-consequences-of-disobedience-20180908-1",
    "lang": "ml",
    "category": "quran",
@@ -14577,6 +14654,17 @@
    "md_url": "/ml/quran/the-quran-previous-scriptures-and-the-continuity-of-values-20181124-3.md"
   },
   {
+   "slug": "to-the-followers-of-the-quran-20180707-3",
+   "lang": "ml",
+   "category": "quran",
+   "title": "ഖുർആനിന്റെ അനുയായികളോട്",
+   "summary": "വിശുദ്ധ ഖുർആനിനോട് വിശ്വാസികൾ പുലർത്തേണ്ട കടമകളെക്കുറിച്ചും അത് ജീവിതത്തിൽ പകർത്തേണ്ടതിന്റെ ആവശ്യകതയെക്കുറിച്ചും ഈ ലേഖനം ഉണർത്തുന്നു. ഖുർആൻ പാരായണത്തിലും പഠനത്തിലും സമുദായം കാണിക്കുന്ന അനാസ്ഥയെ ലേഖകൻ വിമർശിക്കുന്നു.",
+   "author": "മുഹമ്മദ് അർക്കബാൻ",
+   "issue_date": "2018-07-07",
+   "html_url": "/ml/quran/to-the-followers-of-the-quran-20180707-3.html",
+   "md_url": "/ml/quran/to-the-followers-of-the-quran-20180707-3.md"
+  },
+  {
    "slug": "transmission-of-quran-oral-and-written-20180526-2",
    "lang": "ml",
    "category": "quran",
@@ -14608,6 +14696,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/ml/quran/what-to-beware-of-when-taking-sides-20170128-7.html",
    "md_url": "/ml/quran/what-to-beware-of-when-taking-sides-20170128-7.md"
+  },
+  {
+   "slug": "a-brave-intervention-20180707-10",
+   "lang": "ml",
+   "category": "seerah",
+   "title": "ധീരമായ ഇടപെടൽ",
+   "summary": "മൂസാ നബിയുടെ ചരിത്രത്തിലെ ഫിർഔനുമായുള്ള സംവാദങ്ങളും, ഫിർഔന്റെ കൊട്ടാരത്തിൽ വെച്ച് സത്യം വിളിച്ചുപറഞ്ഞ വിശ്വാസിയുടെ ധീരമായ ഇടപെടലും ഈ ലേഖനത്തിൽ വിവരിക്കുന്നു.",
+   "author": "ഹുസൈൻ സലഫി, ഷാർജ",
+   "issue_date": "2018-07-07",
+   "html_url": "/ml/seerah/a-brave-intervention-20180707-10.html",
+   "md_url": "/ml/seerah/a-brave-intervention-20180707-10.md"
   },
   {
    "slug": "a-journey-in-the-path-of-knowledge-part-24-20181013-5",
@@ -15589,6 +15688,17 @@
    "md_url": "/ml/story/abdullah-s-mistake-20170204-1.md"
   },
   {
+   "slug": "afkarun-ubrawiyyu-poem-20180707-8",
+   "lang": "ml",
+   "category": "story",
+   "title": "'അഫ്‌കാറുൻ ഉബ്‌റവിയ്യ്'",
+   "summary": "മരണാനന്തര കർമ്മങ്ങളിൽ നബിചര്യ പിന്തുടരേണ്ടതിന്റെയും അനാചാരങ്ങൾ ഒഴിവാക്കേണ്ടതിന്റെയും പ്രാധാന്യം ഊന്നിപ്പറയുന്ന ഒരു ഖണ്ഡകാവ്യം.",
+   "author": "വെള്ളില പി. അബ്ദുല്ല",
+   "issue_date": "2018-07-07",
+   "html_url": "/ml/story/afkarun-ubrawiyyu-poem-20180707-8.html",
+   "md_url": "/ml/story/afkarun-ubrawiyyu-poem-20180707-8.md"
+  },
+  {
    "slug": "against-the-flow-20190302-8",
    "lang": "ml",
    "category": "story",
@@ -16137,6 +16247,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/ml/story/the-fruit-of-ingratitude-20170121-7.html",
    "md_url": "/ml/story/the-fruit-of-ingratitude-20170121-7.md"
+  },
+  {
+   "slug": "the-fruit-with-a-black-mark-20180707-5",
+   "lang": "ml",
+   "category": "story",
+   "title": "കരുത്ത അടയാളമുള്ള പഴം",
+   "summary": "ഒരു സമ്പന്ന കുടുംബത്തിലെ കുട്ടിയുടെയും പിതാവിന്റെയും കഥയിലൂടെ, അനാവശ്യമായ മുൻവിധികളെയും തെറ്റിദ്ധാരണകളെയും എങ്ങനെ തിരുത്താമെന്ന് ഈ കഥ വിവരിക്കുന്നു.",
+   "author": "റാഷിദ ബിൻത് ഉസ്മാൻ",
+   "issue_date": "2018-07-07",
+   "html_url": "/ml/story/the-fruit-with-a-black-mark-20180707-5.html",
+   "md_url": "/ml/story/the-fruit-with-a-black-mark-20180707-5.md"
   },
   {
    "slug": "the-girl-with-the-red-scarf-20180421-3",
