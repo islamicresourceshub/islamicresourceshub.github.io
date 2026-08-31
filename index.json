@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-31T06:04:38.958587+00:00",
+ "generated_at": "2026-08-31T06:05:16.466095+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2013,
+ "count": 2014,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -20471,6 +20471,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/tr/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.html",
    "md_url": "/tr/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.md"
+  },
+  {
+   "slug": "what-to-beware-of-when-taking-sides-20170128-7",
+   "lang": "tr",
+   "category": "quran",
+   "title": "Taraf Tutarken Dikkat Edilmesi Gerekenler",
+   "summary": "Kur'an-ı Kerim'in 43:67 ayeti ışığında, taraf tutarken ve sevgi bağları kurarken takva sahibi olmanın ve adaleti gözetmenin önemi açıklanmaktadır.",
+   "author": "അബൂ അമീൻ",
+   "issue_date": "2017-01-28",
+   "html_url": "/tr/quran/what-to-beware-of-when-taking-sides-20170128-7.html",
+   "md_url": "/tr/quran/what-to-beware-of-when-taking-sides-20170128-7.md"
   },
   {
    "slug": "prophets-and-trials-20170325-7",
