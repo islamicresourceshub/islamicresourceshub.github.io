@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-31T10:06:06.816527+00:00",
+ "generated_at": "2026-08-31T10:10:41.439505+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2272,
+ "count": 2282,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -10210,6 +10210,17 @@
    "md_url": "/ml/dawah/the-declining-blessings-in-trade-20180818-2.md"
   },
   {
+   "slug": "the-etiquette-of-a-preacher-20190504-7",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "പ്രബോധകന്റെ സംസ്‌കാരം",
+   "summary": "അല്ലാഹുവിന്റെ മാർഗ്ഗത്തിലേക്ക് ക്ഷണിക്കുന്ന പ്രബോധകർ പാലിക്കേണ്ട മര്യാദകളെയും സ്വഭാവഗുണങ്ങളെയും കുറിച്ചുള്ള ലേഖനം. പ്രവാചക മാതൃകകളെ അടിസ്ഥാനമാക്കിയാണ് ഇതിലെ വിവരണം.",
+   "author": "പി.എന്‍. അബ്ദുല്ലത്വീഫ് മദനി",
+   "issue_date": "2019-05-04",
+   "html_url": "/ml/dawah/the-etiquette-of-a-preacher-20190504-7.html",
+   "md_url": "/ml/dawah/the-etiquette-of-a-preacher-20190504-7.md"
+  },
+  {
    "slug": "the-fragrance-of-goodness-20180922-5",
    "lang": "ml",
    "category": "dawah",
@@ -11288,6 +11299,17 @@
    "md_url": "/ml/fiqh/motor-vehicle-laws-20180818-6.md"
   },
   {
+   "slug": "muslim-women-s-entry-into-mosques-20190504-6",
+   "lang": "ml",
+   "category": "fiqh",
+   "title": "മുസ്ലിം സ്ത്രീകളുടെ പള്ളിപ്രവേശം കോടതി പറഞ്ഞതിനുമപ്പുറം",
+   "summary": "മുസ്‌ലിം സ്ത്രീകളുടെ പള്ളിപ്രവേശനവുമായി ബന്ധപ്പെട്ട് സുപ്രീം കോടതിയിലുള്ള ഹർജിയും ഇസ്‌ലാമിക വീക്ഷണകോണിൽ നിന്നുള്ള അതിന്റെ വിശകലനവും ഈ ലേഖനത്തിൽ പ്രതിപാദിക്കുന്നു.",
+   "author": "അബ്ദുല്‍ മാലിക് സലഫി",
+   "issue_date": "2019-05-04",
+   "html_url": "/ml/fiqh/muslim-women-s-entry-into-mosques-20190504-6.html",
+   "md_url": "/ml/fiqh/muslim-women-s-entry-into-mosques-20190504-6.md"
+  },
+  {
    "slug": "poem-funeral-rites-3-20180609-5",
    "lang": "ml",
    "category": "fiqh",
@@ -11585,6 +11607,17 @@
    "md_url": "/ml/health/nutrients-for-thyroid-health-20180505-10.md"
   },
   {
+   "slug": "rising-heat-and-water-literacy-20190504-4",
+   "lang": "ml",
+   "category": "health",
+   "title": "കനക്കുന്ന ചൂടും ജലസാക്ഷരതയും",
+   "summary": "വർദ്ധിച്ചുവരുന്ന വേനൽച്ചൂടിന്റെ പശ്ചാത്തലത്തിൽ ജലസംരക്ഷണത്തിന്റെ പ്രാധാന്യത്തെക്കുറിച്ച് ഈ ലേഖനം ചർച്ച ചെയ്യുന്നു. പ്രകൃതി വിഭവങ്ങളെ കരുതലോടെ ഉപയോഗിക്കേണ്ടതിന്റെ ആവശ്യകത ഇതിൽ ഊന്നിപ്പറയുന്നു.",
+   "author": "ഡോ. മുഹമ്മദ് റാഫി.സി",
+   "issue_date": "2019-05-04",
+   "html_url": "/ml/health/rising-heat-and-water-literacy-20190504-4.html",
+   "md_url": "/ml/health/rising-heat-and-water-literacy-20190504-4.md"
+  },
+  {
    "slug": "smoking-in-public-places-20180929-8",
    "lang": "ml",
    "category": "health",
@@ -11728,6 +11761,17 @@
    "md_url": "/ml/history/hamadani-s-institutions-and-quranic-renaissance-20190302-7.md"
   },
   {
+   "slug": "ilfathul-islam-the-book-of-hamadani-20190504-3",
+   "lang": "ml",
+   "category": "history",
+   "title": "'ഇല്‍ഫതുല്‍ ഇസ്‌ലാം' വിശ്വാസികള്‍ക്കിടയില്‍ വെളിച്ചം വിതറിയ ഹമദാനിയുടെ ഗ്രന്ഥം",
+   "summary": "മലയാളത്തിലെ ഖുർആൻ പരിഭാഷാ ചരിത്രത്തിൽ ശൈഖ് മുഹമ്മദ് മാഹിൻ ഹമദാനി തങ്ങളുടെ സംഭാവനകളെയും അദ്ദേഹത്തിന്റെ ഗ്രന്ഥത്തെയും കുറിച്ചുള്ള പഠനം.",
+   "author": "ഡോ. ചേക്കുമരക്കാരകത്ത് ഷാനവാസ്, പറവണ്ണ",
+   "issue_date": "2019-05-04",
+   "html_url": "/ml/history/ilfathul-islam-the-book-of-hamadani-20190504-3.html",
+   "md_url": "/ml/history/ilfathul-islam-the-book-of-hamadani-20190504-3.md"
+  },
+  {
    "slug": "islamic-history-an-overview-20170401-5",
    "lang": "ml",
    "category": "history",
@@ -11803,6 +11847,17 @@
    "issue_date": "2019-02-16",
    "html_url": "/ml/history/maulana-chalilakath-kunhahmed-haji-and-his-reformist-thought-20190216-6.html",
    "md_url": "/ml/history/maulana-chalilakath-kunhahmed-haji-and-his-reformist-thought-20190216-6.md"
+  },
+  {
+   "slug": "muhammad-abdurahman-sahib-and-barelvi-opposition-20190504-5",
+   "lang": "ml",
+   "category": "history",
+   "title": "മുഹമ്മദ് അബ്ദുറഹ്മാന്‍ സാഹിബും ബറേല്‍വി സമസ്തയുടെ എതിര്‍പ്പുകളും",
+   "summary": "മുഹമ്മദ് അബ്ദുറഹ്മാൻ സാഹിബിന്റെ പ്രവർത്തനങ്ങളും അക്കാലത്തെ മതപരമായ എതിർപ്പുകളും തമ്മിലുള്ള ചരിത്രപരമായ ബന്ധം ഈ ലേഖനം വിശകലനം ചെയ്യുന്നു.",
+   "author": "യൂസുഫ് സാഹിബ് നദ്‌വി ഓച്ചിറ",
+   "issue_date": "2019-05-04",
+   "html_url": "/ml/history/muhammad-abdurahman-sahib-and-barelvi-opposition-20190504-5.html",
+   "md_url": "/ml/history/muhammad-abdurahman-sahib-and-barelvi-opposition-20190504-5.md"
   },
   {
    "slug": "mujahid-ideological-conference-revitalizing-the-path-of-dawa-20181117-5",
@@ -12861,6 +12916,17 @@
    "md_url": "/ml/opinion/springs-of-hope-in-the-flood-20180908-6.md"
   },
   {
+   "slug": "sri-lanka-bombings-terrorism-has-no-religion-20190504-8",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "ശ്രീലങ്കയിലെ ചാവേറാക്രമണം: ഭീകരതയ്ക്ക് മതമില്ല",
+   "summary": "ശ്രീലങ്കയിലെ ഭീകരാക്രമണത്തെ അപലപിച്ചുകൊണ്ട് എഴുതിയ ലേഖനം. ഭീകരതയ്ക്ക് മതമില്ലെന്നും ഇത്തരം അക്രമങ്ങൾ മാനവികതയ്ക്ക് എതിരാണെന്നും ഇത് വ്യക്തമാക്കുന്നു.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2019-05-04",
+   "html_url": "/ml/opinion/sri-lanka-bombings-terrorism-has-no-religion-20190504-8.html",
+   "md_url": "/ml/opinion/sri-lanka-bombings-terrorism-has-no-religion-20190504-8.md"
+  },
+  {
    "slug": "strengthening-secular-political-unity-20170218-9",
    "lang": "ml",
    "category": "opinion",
@@ -13552,6 +13618,17 @@
    "issue_date": "2019-04-13",
    "html_url": "/ml/quran/surah-al-insan-20190413-2.html",
    "md_url": "/ml/quran/surah-al-insan-20190413-2.md"
+  },
+  {
+   "slug": "surah-al-insan-20190504-2",
+   "lang": "ml",
+   "category": "quran",
+   "title": "ഇന്‍സാന്‍ (മനുഷ്യന്‍)",
+   "summary": "വിശുദ്ധ ഖുർആനിലെ 76-ാം അധ്യായമായ സൂറത്തുൽ ഇൻസാനിന്റെ വ്യാഖ്യാനം. സ്വർഗ്ഗത്തിലെ അനുഗ്രഹങ്ങളെയും വിശ്വാസികൾക്ക് ലഭിക്കുന്ന പ്രതിഫലങ്ങളെയും കുറിച്ചുള്ള ഖുർആനിക വചനങ്ങളുടെ വിശദീകരണമാണിത്.",
+   "author": "അബ്ദുറഹ്മാന്‍ നാസിര്‍ അസ്സഅദി",
+   "issue_date": "2019-05-04",
+   "html_url": "/ml/quran/surah-al-insan-20190504-2.html",
+   "md_url": "/ml/quran/surah-al-insan-20190504-2.md"
   },
   {
    "slug": "surah-al-insan-tafsir-20190427-4",
@@ -14335,6 +14412,17 @@
    "md_url": "/ml/seerah/the-skilled-ruler-prophet-dawood-as-20181201-7.md"
   },
   {
+   "slug": "the-table-from-heaven-20190504-1",
+   "lang": "ml",
+   "category": "seerah",
+   "title": "ആകാശത്ത് നിന്നും ഭക്ഷണത്തളിക",
+   "summary": "ഈസാ നബി(അ)യുടെ ജീവിതത്തെയും പ്രബോധനങ്ങളെയും കുറിച്ചുള്ള പരമ്പരയിലെ ഭാഗമാണിത്. ഏകദൈവ വിശ്വാസത്തിലേക്ക് ജനങ്ങളെ ക്ഷണിച്ച പ്രവാചകന്റെ ചരിത്രവും അത് നേരിട്ട വെല്ലുവിളികളും ഇതില്‍ വിവരിക്കുന്നു.",
+   "author": "ഹുസൈന്‍ സലഫി, ഷാര്‍ജ",
+   "issue_date": "2019-05-04",
+   "html_url": "/ml/seerah/the-table-from-heaven-20190504-1.html",
+   "md_url": "/ml/seerah/the-table-from-heaven-20190504-1.md"
+  },
+  {
    "slug": "the-table-spread-from-heaven-20190427-1",
    "lang": "ml",
    "category": "seerah",
@@ -14443,6 +14531,17 @@
    "issue_date": "2018-11-24",
    "html_url": "/ml/seerah/winning-the-war-prophet-dawood-as-02-20181124-12.html",
    "md_url": "/ml/seerah/winning-the-war-prophet-dawood-as-02-20181124-12.md"
+  },
+  {
+   "slug": "yathrib-the-home-of-migration-20190504-11",
+   "lang": "ml",
+   "category": "seerah",
+   "title": "യഥ്‌രിബ്: പലായനത്തിന്റെ ഭവനം",
+   "summary": "പ്രവാചകൻ മുഹമ്മദ് നബി(സ)യുടെ ഹിജ്‌റയെക്കുറിച്ചുള്ള പരമ്പരയിലെ ഭാഗം. മദീന ഇസ്‌ലാമിക പ്രബോധനത്തിന്റെ കേന്ദ്രമായി മാറിയ ചരിത്ര പശ്ചാത്തലം ഇതിൽ വിവരിക്കുന്നു.",
+   "author": "ഫദ്‌ലുല്‍ ഹഖ് ഉമരി",
+   "issue_date": "2019-05-04",
+   "html_url": "/ml/seerah/yathrib-the-home-of-migration-20190504-11.html",
+   "md_url": "/ml/seerah/yathrib-the-home-of-migration-20190504-11.md"
   },
   {
    "slug": "yunus-as-20180421-4",
@@ -14894,6 +14993,17 @@
    "issue_date": "2018-12-15",
    "html_url": "/ml/story/the-burning-of-fate-20181215-10.html",
    "md_url": "/ml/story/the-burning-of-fate-20181215-10.md"
+  },
+  {
+   "slug": "the-celebration-of-clothes-20190504-10",
+   "lang": "ml",
+   "category": "story",
+   "title": "വസ്ത്രത്തിന്റെ ആഘോഷം",
+   "summary": "പ്രശസ്ത കവി ശൈഖ് സഅദിയുടെ ജീവിതത്തിലെ ഒരു സംഭവത്തെ ആസ്പദമാക്കി തയ്യാറാക്കിയ കഥ. വസ്ത്രധാരണത്തെയും വ്യക്തിത്വത്തെയും കുറിച്ചുള്ള പാഠം ഇതിൽ അടങ്ങിയിരിക്കുന്നു.",
+   "author": "ഉസ്മാന്‍ പാലക്കാഴി",
+   "issue_date": "2019-05-04",
+   "html_url": "/ml/story/the-celebration-of-clothes-20190504-10.html",
+   "md_url": "/ml/story/the-celebration-of-clothes-20190504-10.md"
   },
   {
    "slug": "the-crescent-moon-of-ramadan-20180519-9",
