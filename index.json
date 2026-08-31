@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-31T10:21:52.241079+00:00",
+ "generated_at": "2026-08-31T10:22:14.200642+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2306,
+ "count": 2307,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -21813,6 +21813,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/ta/youth/what-will-the-waste-do-20170114-5.html",
    "md_url": "/ta/youth/what-will-the-waste-do-20170114-5.md"
+  },
+  {
+   "slug": "become-the-guardian-of-the-sources-20170128-9",
+   "lang": "te",
+   "category": "aqeedah",
+   "title": "ప్రమాణాలకు కావలిగా ఉండండి",
+   "summary": "ఇస్లాం యొక్క ప్రామాణిక గ్రంథాలైన ఖురాన్ మరియు సున్నాల దైవికతను, వాటి అజేయతను మరియు ఇతర మతాల నుండి అవి ఎలా భిన్నమైనవో ఈ వ్యాసం వివరిస్తుంది. ఈ మూలాలను కాపాడుకోవాల్సిన బాధ్యత విశ్వాసులపై ఉందని ఇది గుర్తుచేస్తుంది.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2017-01-28",
+   "html_url": "/te/aqeedah/become-the-guardian-of-the-sources-20170128-9.html",
+   "md_url": "/te/aqeedah/become-the-guardian-of-the-sources-20170128-9.md"
   },
   {
    "slug": "do-not-waver-in-trials-20170121-9",
