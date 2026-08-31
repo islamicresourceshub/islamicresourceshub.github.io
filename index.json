@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-31T08:52:08.527140+00:00",
+ "generated_at": "2026-08-31T08:52:33.290705+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2135,
+ "count": 2136,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -19723,6 +19723,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/ta/family/our-parents-20170325-4.html",
    "md_url": "/ta/family/our-parents-20170325-4.md"
+  },
+  {
+   "slug": "the-methodology-of-conduct-20170128-8",
+   "lang": "ta",
+   "category": "family",
+   "title": "நடத்தைக்கான வழிமுறைகள்",
+   "summary": "சிறந்த முறையில் குழந்தைகளை வளர்க்க விரும்பும் விசுவாசிகள் தங்களுக்குள் வளர்த்துக்கொள்ள வேண்டிய பண்புகள் குறித்த தொடர் கட்டுரையின் இரண்டாம் பகுதி. குழந்தைகளுடனான அணுகுமுறை மற்றும் பழக்கவழக்கங்கள் குறித்து இதில் விவாதிக்கப்படுகிறது.",
+   "author": "അഷ്‌റഫ്‌ എകരൂൽ",
+   "issue_date": "2017-01-28",
+   "html_url": "/ta/family/the-methodology-of-conduct-20170128-8.html",
+   "md_url": "/ta/family/the-methodology-of-conduct-20170128-8.md"
   },
   {
    "slug": "mosque-construction-some-points-to-note-20170325-5",
