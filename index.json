@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-31T09:44:44.073742+00:00",
+ "generated_at": "2026-08-31T09:45:26.430314+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2225,
+ "count": 2226,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -7447,6 +7447,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/it/youth/what-will-the-waste-do-20170114-5.html",
    "md_url": "/it/youth/what-will-the-waste-do-20170114-5.md"
+  },
+  {
+   "slug": "become-the-guardian-of-the-sources-20170128-9",
+   "lang": "ja",
+   "category": "aqeedah",
+   "title": "聖典の守護者となろう",
+   "summary": "イスラームの聖典が持つ神聖さと不朽性、そして他の宗教との際立った違いを説明します。クルアーンとスンナを守り抜くことの重要性を呼びかけます。",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2017-01-28",
+   "html_url": "/ja/aqeedah/become-the-guardian-of-the-sources-20170128-9.html",
+   "md_url": "/ja/aqeedah/become-the-guardian-of-the-sources-20170128-9.md"
   },
   {
    "slug": "do-not-waver-in-trials-20170121-9",
