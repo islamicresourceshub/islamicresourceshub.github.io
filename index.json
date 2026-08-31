@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-31T09:40:02.767678+00:00",
+ "generated_at": "2026-08-31T09:43:23.546565+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2204,
+ "count": 2212,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -8879,6 +8879,17 @@
    "md_url": "/ml/aqeedah/badr-and-badris-in-islam-and-society-20180602-5.md"
   },
   {
+   "slug": "barelviism-ambiguities-and-mysteries-20190330-2",
+   "lang": "ml",
+   "category": "aqeedah",
+   "title": "ബറേല്‍വിസം: അവ്യക്തതകള്‍, ദുരൂഹതകള്‍",
+   "summary": "ബറേൽവി പ്രസ്ഥാനത്തിന്റെ ഉത്ഭവത്തെയും അവരുടെ ആശയങ്ങളിലെ അവ്യക്തതകളെയും കുറിച്ചുള്ള പഠനം. ആഗോളതലത്തിൽ ഈ പ്രസ്ഥാനം എങ്ങനെ വളർന്നു എന്ന് ലേഖനം പരിശോധിക്കുന്നു.",
+   "author": "യൂസുഫ് സാഹിബ് നദ്‌വി ഓച്ചിറ",
+   "issue_date": "2019-03-30",
+   "html_url": "/ml/aqeedah/barelviism-ambiguities-and-mysteries-20190330-2.html",
+   "md_url": "/ml/aqeedah/barelviism-ambiguities-and-mysteries-20190330-2.md"
+  },
+  {
    "slug": "basic-beliefs-of-kerala-sufis-20180825-4",
    "lang": "ml",
    "category": "aqeedah",
@@ -9526,6 +9537,17 @@
    "issue_date": "2018-09-15",
    "html_url": "/ml/dawah/finding-joy-in-prayer-20180915-4.html",
    "md_url": "/ml/dawah/finding-joy-in-prayer-20180915-4.md"
+  },
+  {
+   "slug": "forbidden-prayers-20190330-6",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "നിഷിദ്ധമായ പ്രാര്‍ഥനകള്‍",
+   "summary": "പ്രാർത്ഥന അല്ലാഹുവിനോട് മാത്രമായിരിക്കണം എന്ന ഇസ്‌ലാമിക തത്വം വിശദീകരിക്കുന്നു. സൃഷ്ടികളോട് പ്രാർത്ഥിക്കുന്നത് ഇസ്‌ലാമിക വിശ്വാസത്തിന് വിരുദ്ധമാണെന്ന് ലേഖനം ഓർമ്മിപ്പിക്കുന്നു.",
+   "author": "സയ്യിദ് സഅ്ഫര്‍ സ്വാദിക്വ് മദീനി",
+   "issue_date": "2019-03-30",
+   "html_url": "/ml/dawah/forbidden-prayers-20190330-6.html",
+   "md_url": "/ml/dawah/forbidden-prayers-20190330-6.md"
   },
   {
    "slug": "getting-closer-to-the-creator-20170401-12",
@@ -11607,6 +11629,17 @@
    "md_url": "/ml/history/the-change-brought-by-maqthi-thangal-20190209-5.md"
   },
   {
+   "slug": "the-educational-expert-who-enlightened-the-uneducated-20190330-10",
+   "lang": "ml",
+   "category": "history",
+   "title": "വിദ്യാവിഹീനരെ വിജ്ഞരാക്കിയ വിദ്യാഭ്യാസ വിശാരദന്‍",
+   "summary": "ശൈഖ് മുഹമ്മദ് മാഹിൻ ഹമദാനി തങ്ങളുടെ ജീവിതത്തെയും സേവനങ്ങളെയും കുറിച്ചുള്ള പരമ്പര. മലയാളത്തിൽ വിശുദ്ധ ക്വുർആൻ പരിഭാഷകൾക്ക് നൽകിയ സംഭാവനകളെ ഇത് പരിചയപ്പെടുത്തുന്നു.",
+   "author": "ഡോ. ചേക്കുമരക്കാരകത്ത് ഷാനവാസ്, പറവണ്ണ",
+   "issue_date": "2019-03-30",
+   "html_url": "/ml/history/the-educational-expert-who-enlightened-the-uneducated-20190330-10.html",
+   "md_url": "/ml/history/the-educational-expert-who-enlightened-the-uneducated-20190330-10.md"
+  },
+  {
    "slug": "the-first-quran-translation-in-malayalam-20180929-5",
    "lang": "ml",
    "category": "history",
@@ -11893,6 +11926,17 @@
    "md_url": "/ml/opinion/children-s-lesson-a-compassionate-heart-20180609-12.md"
   },
   {
+   "slug": "christchurch-massacre-the-ugly-face-of-racism-20190330-4",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "ക്രൈസ്റ്റ്ചര്‍ച്ച് കൂട്ടക്കൊല: വംശവെറിയുടെ ഭീകരമുഖം",
+   "summary": "ന്യൂസീലാന്റിലെ ക്രൈസ്റ്റ്ചർച്ചിൽ നടന്ന ഭീകരാക്രമണത്തെക്കുറിച്ചുള്ള വിശകലനം. വംശീയതയുടെയും ഇസ്‌ലാമോഫോബിയയുടെയും ഭീകരമുഖം ഈ ലേഖനം തുറന്നുകാട്ടുന്നു.",
+   "author": "ത്വാഹാ റഷാദ്",
+   "issue_date": "2019-03-30",
+   "html_url": "/ml/opinion/christchurch-massacre-the-ugly-face-of-racism-20190330-4.html",
+   "md_url": "/ml/opinion/christchurch-massacre-the-ugly-face-of-racism-20190330-4.md"
+  },
+  {
    "slug": "community-s-approach-to-religious-education-a-vazhakkadan-re-20190112-6",
    "lang": "ml",
    "category": "opinion",
@@ -12056,6 +12100,17 @@
    "issue_date": "2018-12-01",
    "html_url": "/ml/opinion/hartals-and-protests-violation-of-fundamental-rights-20181201-3.html",
    "md_url": "/ml/opinion/hartals-and-protests-violation-of-fundamental-rights-20181201-3.md"
+  },
+  {
+   "slug": "he-who-justifies-oppression-is-an-oppressor-himself-20190330-1",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "അക്രമെത്ത ന്യായീകരിക്കുന്നവന്‍ അക്രമി തന്നെ!",
+   "summary": "ന്യൂസീലാന്റിലെ ഭീകരാക്രമണത്തിന്റെ പശ്ചാത്തലത്തിൽ അക്രമത്തെ ന്യായീകരിക്കുന്നവരുടെ നിലപാടുകളെ വിമർശിക്കുന്ന ലേഖനം. തീവ്രവാദത്തിന്റെയും വംശീയതയുടെയും അപകടങ്ങളെ ഇത് വിശകലനം ചെയ്യുന്നു.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2019-03-30",
+   "html_url": "/ml/opinion/he-who-justifies-oppression-is-an-oppressor-himself-20190330-1.html",
+   "md_url": "/ml/opinion/he-who-justifies-oppression-is-an-oppressor-himself-20190330-1.md"
   },
   {
    "slug": "india-which-way-forward-20170325-2",
@@ -12729,6 +12784,17 @@
    "md_url": "/ml/opinion/when-starting-education-20180609-9.md"
   },
   {
+   "slug": "when-the-bugle-for-election-sounds-20190330-8",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "തിരഞ്ഞെടുപ്പിന് കാഹളം മുഴങ്ങുമ്പോള്‍",
+   "summary": "ഇന്ത്യൻ പൊതുതിരഞ്ഞെടുപ്പിന്റെ പശ്ചാത്തലത്തിൽ രാജ്യത്തിന്റെ രാഷ്ട്രീയ സാഹചര്യങ്ങളെ വിലയിരുത്തുന്ന ലേഖനം. വോട്ടർമാർ ശ്രദ്ധിക്കേണ്ട കാര്യങ്ങളെക്കുറിച്ച് ഇത് ചർച്ച ചെയ്യുന്നു.",
+   "author": "ഡോ. മുഹമ്മദ് റാഫി.സി",
+   "issue_date": "2019-03-30",
+   "html_url": "/ml/opinion/when-the-bugle-for-election-sounds-20190330-8.html",
+   "md_url": "/ml/opinion/when-the-bugle-for-election-sounds-20190330-8.md"
+  },
+  {
    "slug": "when-victims-hunt-the-me-too-predators-20181027-4",
    "lang": "ml",
    "category": "opinion",
@@ -13400,6 +13466,17 @@
    "md_url": "/ml/seerah/prophet-muhammad-pbuh-the-perfect-model-for-humanity-20181103-6.md"
   },
   {
+   "slug": "prophet-muhammad-pbuh-to-taif-20190330-5",
+   "lang": "ml",
+   "category": "seerah",
+   "title": "മുഹമ്മദ് നബി ﷺ  ത്വാഇഫിലേക്ക്",
+   "summary": "അബൂത്വാലിബിന്റെ വിയോഗത്തിന് ശേഷം പ്രവാചകൻ മുഹമ്മദ് നബി(സ) ത്വാഇഫിലേക്ക് നടത്തിയ യാത്രയെക്കുറിച്ചുള്ള വിവരണമാണിത്. പ്രവാചക ചരിത്രത്തിലെ നിർണായകമായ ഘട്ടമാണിത്.",
+   "author": "ഫദ്‌ലുല്‍ ഹഖ് ഉമരി",
+   "issue_date": "2019-03-30",
+   "html_url": "/ml/seerah/prophet-muhammad-pbuh-to-taif-20190330-5.html",
+   "md_url": "/ml/seerah/prophet-muhammad-pbuh-to-taif-20190330-5.md"
+  },
+  {
    "slug": "prophet-musa-a-s-20180428-4",
    "lang": "ml",
    "category": "seerah",
@@ -13970,6 +14047,17 @@
    "issue_date": "2019-02-23",
    "html_url": "/ml/story/did-i-become-a-role-model-20190223-5.html",
    "md_url": "/ml/story/did-i-become-a-role-model-20190223-5.md"
+  },
+  {
+   "slug": "divine-signs-20190330-3",
+   "lang": "ml",
+   "category": "story",
+   "title": "ദൈവിക ദൃഷ്ടാന്തങ്ങള്‍",
+   "summary": "ഈസാ നബി(അ)യുടെ ജനനവുമായി ബന്ധപ്പെട്ട അത്ഭുതകരമായ സംഭവങ്ങളെ വിവരിക്കുന്ന ലേഖനം. ദൈവിക ദൃഷ്ടാന്തങ്ങളുടെ പ്രാധാന്യത്തെ ഇത് എടുത്തുപറയുന്നു.",
+   "author": "ഹുസൈന്‍ സലഫി, ഷാര്‍ജ",
+   "issue_date": "2019-03-30",
+   "html_url": "/ml/story/divine-signs-20190330-3.html",
+   "md_url": "/ml/story/divine-signs-20190330-3.md"
   },
   {
    "slug": "eid-ul-adha-20180825-2",
