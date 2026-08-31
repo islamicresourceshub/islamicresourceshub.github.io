@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-31T04:24:25.987525+00:00",
+ "generated_at": "2026-08-31T04:28:15.489731+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1850,
+ "count": 1859,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -8670,6 +8670,17 @@
    "md_url": "/ml/dawah/fasting-a-shield-against-evils-20180519-13.md"
   },
   {
+   "slug": "finding-joy-in-prayer-20180915-4",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "നമസ്‌കാരത്തില്‍ ആനന്ദം കണ്ടെത്തുക",
+   "summary": "നമസ്‌കാരത്തിന്റെ പ്രാധാന്യത്തെക്കുറിച്ചും അതില്‍ എങ്ങനെ ആനന്ദം കണ്ടെത്താം എന്നതിനെക്കുറിച്ചുമുള്ള ലേഖനം. വിശ്വാസിയുടെ ജീവിതത്തില്‍ നമസ്‌കാരത്തിനുള്ള സ്ഥാനം ഇത് വ്യക്തമാക്കുന്നു.",
+   "author": "ഫദ്‌ലുല്‍ ഹഖ് ഉമരി",
+   "issue_date": "2018-09-15",
+   "html_url": "/ml/dawah/finding-joy-in-prayer-20180915-4.html",
+   "md_url": "/ml/dawah/finding-joy-in-prayer-20180915-4.md"
+  },
+  {
    "slug": "getting-closer-to-the-creator-20170401-12",
    "lang": "ml",
    "category": "dawah",
@@ -8888,6 +8899,17 @@
    "issue_date": "2017-02-11",
    "html_url": "/ml/dawah/seeking-truth-is-not-a-crime-20170211-9.html",
    "md_url": "/ml/dawah/seeking-truth-is-not-a-crime-20170211-9.md"
+  },
+  {
+   "slug": "should-treatment-be-sought-from-the-patient-20180915-6",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "രോഗത്തിന് ചികിത്സ തേടേണ്ടത് രോഗിയോടോ?",
+   "summary": "ഒരു മുജാഹിദ് സമ്മേളനത്തിനിടയിലുണ്ടായ അനുഭവത്തെ മുന്‍നിര്‍ത്തി സമൂഹത്തിലെ ചില പ്രവണതകളെ വിമര്‍ശനാത്മകമായി പരിശോധിക്കുന്ന ലേഖനം.",
+   "author": "എസ്.എ ഐദീദ് തങ്ങള്‍",
+   "issue_date": "2018-09-15",
+   "html_url": "/ml/dawah/should-treatment-be-sought-from-the-patient-20180915-6.html",
+   "md_url": "/ml/dawah/should-treatment-be-sought-from-the-patient-20180915-6.md"
   },
   {
    "slug": "showing-the-light-is-the-duty-of-scholars-20170121-14",
@@ -9306,6 +9328,17 @@
    "issue_date": "2018-09-08",
    "html_url": "/ml/family/information-technology-act-20180908-11.html",
    "md_url": "/ml/family/information-technology-act-20180908-11.md"
+  },
+  {
+   "slug": "internet-and-mobile-phones-things-to-be-careful-about-20180915-2",
+   "lang": "ml",
+   "category": "family",
+   "title": "ഇന്റര്‍നെറ്റ്, മൊബൈല്‍ ഫോണ്‍: ശ്രദ്ധിക്കേണ്ട കാര്യങ്ങള്‍",
+   "summary": "ഇന്റര്‍നെറ്റ്, മൊബൈല്‍ ഫോണ്‍ ഉപയോഗിക്കുമ്പോള്‍ ശ്രദ്ധിക്കേണ്ട സുരക്ഷാ കാര്യങ്ങളെക്കുറിച്ചുള്ള മുന്നറിയിപ്പുകള്‍. അപരിചിതരുമായുള്ള ആശയവിനിമയത്തില്‍ പുലര്‍ത്തേണ്ട ജാഗ്രതയെക്കുറിച്ച് ലേഖനം വ്യക്തമാക്കുന്നു.",
+   "author": "മുസാഫിര്‍",
+   "issue_date": "2018-09-15",
+   "html_url": "/ml/family/internet-and-mobile-phones-things-to-be-careful-about-20180915-2.html",
+   "md_url": "/ml/family/internet-and-mobile-phones-things-to-be-careful-about-20180915-2.md"
   },
   {
    "slug": "islamic-parenting-its-importance-and-purpose-20170114-4",
@@ -9825,6 +9858,17 @@
    "md_url": "/ml/history/relevance-of-vakkom-moulavi-s-thoughts-in-contemporary-socie-20180908-7.md"
   },
   {
+   "slug": "relevance-of-vakkom-moulavi-s-thoughts-in-contemporary-socie-20180915-7",
+   "lang": "ml",
+   "category": "history",
+   "title": "സമകാലീന സമൂഹത്തില്‍ വക്കംമൗലവിയുടെ ചിന്തകളുടെ പ്രസക്തി: 2",
+   "summary": "കേരള മുസ്‌ലിം നവോത്ഥാന നായകനായ വക്കം മൗലവിയുടെ ചിന്തകളുടെ പ്രസക്തിയെക്കുറിച്ചുള്ള പരമ്പര. ഉസ്മാനിയാ ഖിലാഫത്തിന്റെ തകര്‍ച്ചയും അദ്ദേഹത്തിന്റെ കാഴ്ചപ്പാടുകളും ഇതില്‍ ചര്‍ച്ച ചെയ്യുന്നു.",
+   "author": "യൂസുഫ് സാഹിബ് നദ്‌വി",
+   "issue_date": "2018-09-15",
+   "html_url": "/ml/history/relevance-of-vakkom-moulavi-s-thoughts-in-contemporary-socie-20180915-7.html",
+   "md_url": "/ml/history/relevance-of-vakkom-moulavi-s-thoughts-in-contemporary-socie-20180915-7.md"
+  },
+  {
    "slug": "scientific-renaissance-through-quran-20180512-1",
    "lang": "ml",
    "category": "history",
@@ -10089,6 +10133,17 @@
    "md_url": "/ml/opinion/is-a-safe-society-becoming-a-dream-20180428-8.md"
   },
   {
+   "slug": "is-speaking-against-the-government-treason-20180915-8",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "സര്‍ക്കാറിനെതിരെ സംസാരിക്കല്‍ രാജ്യദ്രോഹമോ?",
+   "summary": "മാവോയിസ്റ്റ് ബന്ധം ആരോപിച്ച് മനുഷ്യാവകാശ പ്രവര്‍ത്തകരെ അറസ്റ്റ് ചെയ്ത സംഭവത്തെ മുന്‍നിര്‍ത്തി, ഭരണകൂട വിമര്‍ശനവും രാജ്യദ്രോഹവും തമ്മിലുള്ള വ്യത്യാസത്തെക്കുറിച്ച് ചര്‍ച്ച ചെയ്യുന്നു.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2018-09-15",
+   "html_url": "/ml/opinion/is-speaking-against-the-government-treason-20180915-8.html",
+   "md_url": "/ml/opinion/is-speaking-against-the-government-treason-20180915-8.md"
+  },
+  {
    "slug": "join-the-party-let-the-battle-begin-20170128-6",
    "lang": "ml",
    "category": "opinion",
@@ -10287,6 +10342,17 @@
    "md_url": "/ml/opinion/the-currency-no-one-accepts-20170114-3.md"
   },
   {
+   "slug": "the-rains-of-collective-goodness-20180915-1",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "ആള്‍ക്കൂട്ട നന്മയുടെ കാലവര്‍ഷങ്ങള്‍ പെയ്തിറങ്ങിയപ്പോള്‍",
+   "summary": "കേരളത്തിലെ പ്രളയകാലത്ത് ജാതിമത ഭേദമന്യേ മലയാളികള്‍ കാണിച്ച ഐക്യത്തെയും നന്മയെയും കുറിച്ചുള്ള ലേഖനം. പ്രതിസന്ധി ഘട്ടങ്ങളില്‍ മനുഷ്യര്‍ എങ്ങനെ ഒന്നിച്ചുനില്‍ക്കുന്നു എന്ന് ഇത് വിവരിക്കുന്നു.",
+   "author": "സുഫ്‌യാന്‍ അബ്ദുസ്സലാം",
+   "issue_date": "2018-09-15",
+   "html_url": "/ml/opinion/the-rains-of-collective-goodness-20180915-1.html",
+   "md_url": "/ml/opinion/the-rains-of-collective-goodness-20180915-1.md"
+  },
+  {
    "slug": "the-sedition-law-that-wields-the-uapa-stick-20170114-9",
    "lang": "ml",
    "category": "opinion",
@@ -10461,6 +10527,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/ml/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.html",
    "md_url": "/ml/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.md"
+  },
+  {
+   "slug": "quranic-translation-a-bird-s-eye-view-20180915-10",
+   "lang": "ml",
+   "category": "quran",
+   "title": "വിശുദ്ധ ക്വുര്‍ആന്‍ ആശയവിവര്‍ത്തനം ഒരു വിഹഗ വീക്ഷണം",
+   "summary": "വിശുദ്ധ ക്വുര്‍ആനിന്റെ മലയാള വിവര്‍ത്തന ചരിത്രത്തെക്കുറിച്ചുള്ള പരമ്പര. ഇസ്‌ലാമിക വീക്ഷണത്തില്‍ ക്വുര്‍ആന്‍ വിവര്‍ത്തനത്തിന്റെ പ്രാധാന്യത്തെക്കുറിച്ച് ഇത് പ്രതിപാദിക്കുന്നു.",
+   "author": "ശൈഖ് മുഹമ്മദ് അശ്‌റഫ് അലി അല്‍മലബാരി /വിവ. അബ്ദുല്‍ ജബ്ബാര്‍ അബ്ദുല്ല",
+   "issue_date": "2018-09-15",
+   "html_url": "/ml/quran/quranic-translation-a-bird-s-eye-view-20180915-10.html",
+   "md_url": "/ml/quran/quranic-translation-a-bird-s-eye-view-20180915-10.md"
   },
   {
    "slug": "samiri-s-deception-20180825-10",
@@ -10793,6 +10870,17 @@
    "md_url": "/ml/seerah/the-sacrifice-of-ideological-commitment-20180825-1.md"
   },
   {
+   "slug": "wanderers-in-the-desert-musa-nabi-20-20180915-3",
+   "lang": "ml",
+   "category": "seerah",
+   "title": "മരുഭൂമിയില്‍ അലയുന്നവര്‍",
+   "summary": "മൂസാനബി(അ)യുടെ ചരിത്രത്തിലെ ബനൂഇസ്‌റാഈല്യരുമായുള്ള സംഭവങ്ങളെക്കുറിച്ചുള്ള പരമ്പരയിലെ ഭാഗം. അല്ലാഹുവിനെ കാണണമെന്ന് ആവശ്യപ്പെട്ട ബനൂഇസ്‌റാഈല്യരുടെ നിലപാടിനെക്കുറിച്ച് ഇത് ചര്‍ച്ച ചെയ്യുന്നു.",
+   "author": "ഹുസൈന്‍ സലഫി, ഷാര്‍ജ",
+   "issue_date": "2018-09-15",
+   "html_url": "/ml/seerah/wanderers-in-the-desert-musa-nabi-20-20180915-3.html",
+   "md_url": "/ml/seerah/wanderers-in-the-desert-musa-nabi-20-20180915-3.md"
+  },
+  {
    "slug": "yunus-as-20180421-4",
    "lang": "ml",
    "category": "seerah",
@@ -11110,6 +11198,17 @@
    "issue_date": "2018-04-21",
    "html_url": "/ml/story/the-girl-with-the-red-scarf-20180421-3.html",
    "md_url": "/ml/story/the-girl-with-the-red-scarf-20180421-3.md"
+  },
+  {
+   "slug": "the-one-who-tied-and-killed-the-cat-20180915-5",
+   "lang": "ml",
+   "category": "story",
+   "title": "പൂച്ചയെ കെട്ടിയിട്ടു കൊന്നവള്‍",
+   "summary": "ഒരു പൂച്ചയെ ഉപദ്രവിച്ചതിനെക്കുറിച്ചുള്ള കവിത. മൃഗങ്ങളോടുള്ള ക്രൂരതയുടെ പ്രത്യാഘാതങ്ങളെക്കുറിച്ച് ഇത് മുന്നറിയിപ്പ് നല്‍കുന്നു.",
+   "author": "ഉസ്മാന്‍ പാലക്കാഴി",
+   "issue_date": "2018-09-15",
+   "html_url": "/ml/story/the-one-who-tied-and-killed-the-cat-20180915-5.html",
+   "md_url": "/ml/story/the-one-who-tied-and-killed-the-cat-20180915-5.md"
   },
   {
    "slug": "the-path-of-success-20180428-12",
