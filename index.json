@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-31T07:54:13.614741+00:00",
+ "generated_at": "2026-08-31T08:01:20.502628+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2053,
+ "count": 2065,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -8747,6 +8747,17 @@
    "md_url": "/ml/aqeedah/is-there-proof-for-innovations-20181215-5.md"
   },
   {
+   "slug": "jesus-christ-in-the-quran-20181229-12",
+   "lang": "ml",
+   "category": "aqeedah",
+   "title": "യേശുക്രിസ്തു ക്വുര്‍ആനില്‍",
+   "summary": "യേശുക്രിസ്തുവിനെ (ഈസാ നബി(അ)) കുറിച്ച് ക്വുർആൻ മുന്നോട്ട് വെക്കുന്ന കാഴ്ചപ്പാടുകളെക്കുറിച്ചാണ് ഈ ലേഖനം. ജൂതരുടെയും ക്രിസ്ത്യാനികളുടെയും നിലപാടുകളെ താരതമ്യം ചെയ്ത് ഇസ്‌ലാമിക വീക്ഷണം ഇത് വിശദീകരിക്കുന്നു.",
+   "author": "സലീം പട്‌ല",
+   "issue_date": "2018-12-29",
+   "html_url": "/ml/aqeedah/jesus-christ-in-the-quran-20181229-12.html",
+   "md_url": "/ml/aqeedah/jesus-christ-in-the-quran-20181229-12.md"
+  },
+  {
    "slug": "logic-in-islam-and-atheism-20180421-6",
    "lang": "ml",
    "category": "aqeedah",
@@ -8888,6 +8899,17 @@
    "issue_date": "2018-08-18",
    "html_url": "/ml/aqeedah/wilayah-karamat-and-ghaib-a-clear-reading-20180818-11.html",
    "md_url": "/ml/aqeedah/wilayah-karamat-and-ghaib-a-clear-reading-20180818-11.md"
+  },
+  {
+   "slug": "will-the-day-of-judgment-occur-20181229-1",
+   "lang": "ml",
+   "category": "aqeedah",
+   "title": "അന്ത്യനാള്‍ സംഭവിക്കുമോ?",
+   "summary": "അന്ത്യദിനത്തെക്കുറിച്ചുള്ള ക്വുർആനിക പ്രസ്താവനകളും തെളിവുകളും ഈ ലേഖനം ചർച്ച ചെയ്യുന്നു. അന്ത്യനാളിനെ നിഷേധിക്കുന്നവർക്ക് ക്വുർആൻ നൽകുന്ന മറുപടികളും ഇതിൽ വിശദീകരിക്കുന്നു.",
+   "author": "അബൂഇഹ്‌സാന്‍",
+   "issue_date": "2018-12-29",
+   "html_url": "/ml/aqeedah/will-the-day-of-judgment-occur-20181229-1.html",
+   "md_url": "/ml/aqeedah/will-the-day-of-judgment-occur-20181229-1.md"
   },
   {
    "slug": "a-believer-should-be-humble-20181013-12",
@@ -9462,6 +9484,17 @@
    "md_url": "/ml/dawah/showing-the-light-is-the-duty-of-scholars-20170121-14.md"
   },
   {
+   "slug": "snippets-from-memory-20181229-9",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "ഓര്‍മയിലെ നുറുങ്ങുകള്‍",
+   "summary": "ദഅ്‌വാ പ്രവർത്തനങ്ങൾക്കിടയിൽ ലഭിച്ച ചിന്തോദ്ദീപകവും സന്തോഷകരവുമായ ചില അനുഭവങ്ങളെക്കുറിച്ചുള്ള ഓർമ്മക്കുറിപ്പുകളാണിത്. ദഅ്‌വാ പ്രവർത്തകരുടെ ജീവിതത്തിലെ ചില നിമിഷങ്ങൾ ഇത് പങ്കുവെക്കുന്നു.",
+   "author": "എസ്.എ ഐദീദ് തങ്ങള്‍",
+   "issue_date": "2018-12-29",
+   "html_url": "/ml/dawah/snippets-from-memory-20181229-9.html",
+   "md_url": "/ml/dawah/snippets-from-memory-20181229-9.md"
+  },
+  {
    "slug": "solution-for-divisions-20170218-3",
    "lang": "ml",
    "category": "dawah",
@@ -10010,6 +10043,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/ml/family/how-to-be-a-good-parent-part-2-20170121-4.html",
    "md_url": "/ml/family/how-to-be-a-good-parent-part-2-20170121-4.md"
+  },
+  {
+   "slug": "hurdles-in-marital-life-20181229-5",
+   "lang": "ml",
+   "category": "family",
+   "title": "ദാമ്പത്യജീവിതത്തിലെ കല്ലുകടി",
+   "summary": "ആധുനിക സമൂഹത്തിലെ ദാമ്പത്യജീവിതത്തിൽ ഉണ്ടാകുന്ന പ്രശ്നങ്ങളെയും വെല്ലുവിളികളെയും കുറിച്ചാണ് ഈ ലേഖനം. കുടുംബബന്ധങ്ങൾ ശക്തിപ്പെടുത്തുന്നതിനുള്ള മാർഗ്ഗങ്ങളെക്കുറിച്ചും ഇത് ചർച്ച ചെയ്യുന്നു.",
+   "author": "സമീഹ എം. അലി",
+   "issue_date": "2018-12-29",
+   "html_url": "/ml/family/hurdles-in-marital-life-20181229-5.html",
+   "md_url": "/ml/family/hurdles-in-marital-life-20181229-5.md"
   },
   {
    "slug": "husband-trapped-in-the-mobile-web-20170121-5",
@@ -11057,6 +11101,17 @@
    "md_url": "/ml/opinion/arrest-and-bail-20180526-10.md"
   },
   {
+   "slug": "assembly-election-results-join-hands-for-the-survival-of-sec-20181229-8",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "നിയമസഭാ തെരഞ്ഞെടുപ്പ് ഫലം: മതനിരപേക്ഷതയുടെ നിലനില്‍പിനായി കൈകോര്‍ക്കുക",
+   "summary": "ഹിന്ദി ബെൽറ്റിൽ നടന്ന നിയമസഭാ തെരഞ്ഞെടുപ്പ് ഫലങ്ങളെക്കുറിച്ചുള്ള ഒരു രാഷ്ട്രീയ വിശകലനമാണിത്. മതനിരപേക്ഷതയുടെ പ്രാധാന്യവും ജനാധിപത്യ മൂല്യങ്ങളും ഈ ലേഖനം ചർച്ച ചെയ്യുന്നു.",
+   "author": "സുഫ്‌യാന്‍ അബ്ദുസ്സലാം",
+   "issue_date": "2018-12-29",
+   "html_url": "/ml/opinion/assembly-election-results-join-hands-for-the-survival-of-sec-20181229-8.html",
+   "md_url": "/ml/opinion/assembly-election-results-join-hands-for-the-survival-of-sec-20181229-8.md"
+  },
+  {
    "slug": "challenges-posed-by-pseudo-nationalism-20170204-4",
    "lang": "ml",
    "category": "opinion",
@@ -11121,6 +11176,17 @@
    "issue_date": "2018-08-04",
    "html_url": "/ml/opinion/devalued-humans-and-valued-cows-20180804-13.html",
    "md_url": "/ml/opinion/devalued-humans-and-valued-cows-20180804-13.md"
+  },
+  {
+   "slug": "don-t-build-walls-in-the-mind-20181229-6",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "മനസ്സില്‍ 'മതിലുകള്‍' തീര്‍ക്കാതിരിക്കുക",
+   "summary": "കേരളത്തിലെ 'വനിതാ മതിൽ' എന്ന വിഷയത്തെ മുൻനിർത്തി സമൂഹത്തിൽ മതിലുകൾ തീർക്കുന്നതിനെക്കുറിച്ചുള്ള ഒരു അഭിപ്രായ ലേഖനമാണിത്. സാമൂഹിക ഐക്യത്തിന്റെ പ്രാധാന്യം ഇത് ഊന്നിപ്പറയുന്നു.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2018-12-29",
+   "html_url": "/ml/opinion/don-t-build-walls-in-the-mind-20181229-6.html",
+   "md_url": "/ml/opinion/don-t-build-walls-in-the-mind-20181229-6.md"
   },
   {
    "slug": "e-writing-is-not-mere-writing-20170121-15",
@@ -11486,6 +11552,17 @@
    "md_url": "/ml/opinion/secularism-fascism-and-resistance-20180929-6.md"
   },
   {
+   "slug": "spiritual-distortions-created-by-letters-20181229-11",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "എഴുത്തുകള്‍",
+   "summary": "NLP (ന്യൂറോ ലിംഗ്വിസ്റ്റിക് പ്രോഗ്രാം) പോലുള്ള ആശയങ്ങൾ അക്ഷരങ്ങളിലൂടെ സൃഷ്ടിക്കുന്ന ആത്മീയ വൈകൃതങ്ങളെക്കുറിച്ചുള്ള ഒരു വിമർശനാത്മക ലേഖനമാണിത്. ഇസ്‌ലാമിക കാഴ്ചപ്പാടിൽ ഈ വിഷയത്തെ ഇത് വിലയിരുത്തുന്നു.",
+   "author": "വായനക്കാർ എഴുതുന്നു",
+   "issue_date": "2018-12-29",
+   "html_url": "/ml/opinion/spiritual-distortions-created-by-letters-20181229-11.html",
+   "md_url": "/ml/opinion/spiritual-distortions-created-by-letters-20181229-11.md"
+  },
+  {
    "slug": "springs-of-hope-in-the-flood-20180908-6",
    "lang": "ml",
    "category": "opinion",
@@ -11838,6 +11915,17 @@
    "md_url": "/ml/quran/al-buruj-constellations-20181222-3.md"
   },
   {
+   "slug": "al-inshiqaq-the-sundering-20181229-4",
+   "lang": "ml",
+   "category": "quran",
+   "title": "ഇന്‍ശിഖാഖ് (പൊട്ടിപ്പിളരല്‍)",
+   "summary": "വിശുദ്ധ ക്വുർആനിലെ 84-ാം അധ്യായമായ സൂറത്തുൽ ഇൻശിഖാഖിന്റെ (പൊട്ടിപ്പിളരൽ) ആദ്യഭാഗത്തിന്റെ വിശദീകരണമാണിത്. അന്ത്യദിനത്തിലെ ആകാശഭൂമികളുടെ അവസ്ഥകളെക്കുറിച്ച് ഈ സൂറത്ത് പ്രതിപാദിക്കുന്നു.",
+   "author": "അബ്ദുറഹ്മാന്‍ നാസിര്‍ അസ്സഅദി",
+   "issue_date": "2018-12-29",
+   "html_url": "/ml/quran/al-inshiqaq-the-sundering-20181229-4.html",
+   "md_url": "/ml/quran/al-inshiqaq-the-sundering-20181229-4.md"
+  },
+  {
    "slug": "al-qadr-the-decree-20180526-8",
    "lang": "ml",
    "category": "quran",
@@ -12100,6 +12188,17 @@
    "issue_date": "2018-10-13",
    "html_url": "/ml/seerah/a-journey-in-the-path-of-knowledge-part-24-20181013-5.html",
    "md_url": "/ml/seerah/a-journey-in-the-path-of-knowledge-part-24-20181013-5.md"
+  },
+  {
+   "slug": "a-letter-with-bismillah-20181229-3",
+   "lang": "ml",
+   "category": "seerah",
+   "title": "'ബിസ്മി'കൊണ്ടൊരു കത്ത്",
+   "summary": "സുലൈമാൻ നബി(അ) ബിൽക്കീസ് രാജ്ഞിക്ക് 'ബിസ്മില്ലാഹിർറഹ്മാനിർറഹീം' എന്ന് തുടങ്ങുന്ന കത്തെഴുതിയതിനെക്കുറിച്ചാണ് ഈ ലേഖനം. ക്വുർആനിലെ സുലൈമാൻ നബിയുടെ കഥയുടെ ഭാഗമാണിത്.",
+   "author": "ഹുസൈന്‍ സലഫി, ഷാര്‍ജ",
+   "issue_date": "2018-12-29",
+   "html_url": "/ml/seerah/a-letter-with-bismillah-20181229-3.html",
+   "md_url": "/ml/seerah/a-letter-with-bismillah-20181229-3.md"
   },
   {
    "slug": "a-life-dedicated-to-the-arabic-language-20180811-2",
@@ -12443,6 +12542,17 @@
    "md_url": "/ml/seerah/the-tragedy-of-qarun-20180929-4.md"
   },
   {
+   "slug": "the-transformation-of-the-arabs-20181229-2",
+   "lang": "ml",
+   "category": "seerah",
+   "title": "അറബികളുടെ മാറ്റം",
+   "summary": "മുഹമ്മദ് നബി ﷺ യുടെ പ്രവാചകത്വത്തിലൂടെ അറബികളിലുണ്ടായ മാറ്റങ്ങളെക്കുറിച്ചാണ് ഈ ലേഖനം. അറേബ്യയിൽ ഇസ്‌ലാം എങ്ങനെ വ്യാപിച്ചു എന്നും ഇത് വിശദീകരിക്കുന്നു.",
+   "author": "ഫദ്‌ലുല്‍ ഹഖ് ഉമരി",
+   "issue_date": "2018-12-29",
+   "html_url": "/ml/seerah/the-transformation-of-the-arabs-20181229-2.html",
+   "md_url": "/ml/seerah/the-transformation-of-the-arabs-20181229-2.md"
+  },
+  {
    "slug": "the-world-teacher-prophet-muhammad-pbuh-20181215-3",
    "lang": "ml",
    "category": "seerah",
@@ -12595,6 +12705,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/ml/story/broken-hearts-20170218-11.html",
    "md_url": "/ml/story/broken-hearts-20170218-11.md"
+  },
+  {
+   "slug": "compassion-on-the-road-20181229-7",
+   "lang": "ml",
+   "category": "story",
+   "title": "നടുറോട്ടിലെ കാരുണ്യം",
+   "summary": "പ്രഭാതത്തിൽ റോഡിൽ വെച്ച് കണ്ടുമുട്ടുന്ന ഒരു സംഭവത്തെക്കുറിച്ചുള്ള ഹ്രസ്വകഥയാണിത്. മനുഷ്യർക്കിടയിലെ കാരുണ്യവും സഹാനുഭൂതിയും ഈ കഥ എടുത്തു കാണിക്കുന്നു.",
+   "author": "ഇബ്‌നു അലി എടത്തനാട്ടുകര",
+   "issue_date": "2018-12-29",
+   "html_url": "/ml/story/compassion-on-the-road-20181229-7.html",
+   "md_url": "/ml/story/compassion-on-the-road-20181229-7.md"
   },
   {
    "slug": "eid-ul-adha-20180825-2",
@@ -12837,6 +12958,17 @@
    "issue_date": "2018-04-21",
    "html_url": "/ml/story/the-agony-of-death-20180421-5.html",
    "md_url": "/ml/story/the-agony-of-death-20180421-5.md"
+  },
+  {
+   "slug": "the-almighty-20181229-10",
+   "lang": "ml",
+   "category": "story",
+   "title": "സര്‍വശക്തന്‍",
+   "summary": "വരണ്ട ഭൂമിയെയും പ്രകൃതിയെയും വർണ്ണിച്ചുകൊണ്ട് സർവശക്തനായ അല്ലാഹുവിന്റെ മഹത്വത്തെ വാഴ്ത്തുന്ന ഒരു കവിതയാണിത്. പ്രകൃതിയിലെ ദൃഷ്ടാന്തങ്ങളിലൂടെ സ്രഷ്ടാവിനെ ഓർമ്മിപ്പിക്കുന്നു.",
+   "author": "റാഷിദ.ടി.കെ",
+   "issue_date": "2018-12-29",
+   "html_url": "/ml/story/the-almighty-20181229-10.html",
+   "md_url": "/ml/story/the-almighty-20181229-10.md"
   },
   {
    "slug": "the-burning-of-fate-20181215-10",
