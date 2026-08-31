@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-31T06:05:48.913378+00:00",
+ "generated_at": "2026-08-31T06:06:28.846961+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2015,
+ "count": 2016,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -21395,6 +21395,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/uz/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.html",
    "md_url": "/uz/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.md"
+  },
+  {
+   "slug": "what-to-beware-of-when-taking-sides-20170128-7",
+   "lang": "uz",
+   "category": "quran",
+   "title": "Tomon tanishda ehtiyot bo‘lish kerak bo‘lgan jihatlar",
+   "summary": "Ushbu maqola Qur’oni Karimning 43:67-oyati asosida insonlar o‘rtasidagi do‘stlik va tomon tanlash masalalarida qanday ehtiyotkorlik va adolat tamoyillariga amal qilish kerakligini tushuntiradi.",
+   "author": "അബൂ അമീൻ",
+   "issue_date": "2017-01-28",
+   "html_url": "/uz/quran/what-to-beware-of-when-taking-sides-20170128-7.html",
+   "md_url": "/uz/quran/what-to-beware-of-when-taking-sides-20170128-7.md"
   },
   {
    "slug": "prophets-and-trials-20170325-7",
