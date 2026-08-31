@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-31T08:35:03.776464+00:00",
+ "generated_at": "2026-08-31T08:35:33.462398+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2086,
+ "count": 2087,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -13640,6 +13640,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/mr/family/our-parents-20170325-4.html",
    "md_url": "/mr/family/our-parents-20170325-4.md"
+  },
+  {
+   "slug": "the-methodology-of-conduct-20170128-8",
+   "lang": "mr",
+   "category": "family",
+   "title": "वर्तणुकीची कार्यपद्धती",
+   "summary": "पालकत्वात उत्कृष्टतेचा ध्यास घेणाऱ्या विश्वासूंनी स्वतःमध्ये रुजवण्यासारख्या गुणांवर आधारित लेखमालेचा हा पुढचा भाग आहे. यात मुलांशी वागण्याच्या पद्धती आणि सवयींवर चर्चा केली आहे.",
+   "author": "അഷ്‌റഫ്‌ എകരൂൽ",
+   "issue_date": "2017-01-28",
+   "html_url": "/mr/family/the-methodology-of-conduct-20170128-8.html",
+   "md_url": "/mr/family/the-methodology-of-conduct-20170128-8.md"
   },
   {
    "slug": "mosque-construction-some-points-to-note-20170325-5",
