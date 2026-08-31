@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-31T09:44:13.497528+00:00",
+ "generated_at": "2026-08-31T09:44:44.073742+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2214,
+ "count": 2225,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -11156,6 +11156,17 @@
    "md_url": "/ml/fiqh/post-death-rituals-20180825-5.md"
   },
   {
+   "slug": "post-death-rituals-5-20180623-10",
+   "lang": "ml",
+   "category": "fiqh",
+   "title": "മരണ ശേഷക്രിയകൾ: 5",
+   "summary": "മരണാനന്തര ചടങ്ങുകളെക്കുറിച്ചുള്ള കവിതയാണിത്. കഫൻ പുടവയുടെ പ്രാധാന്യം, ഇഹ്‌റാമിനായുള്ള വസ്ത്രം, മരണാനന്തര ശുദ്ധി എന്നിവയെക്കുറിച്ച് പറയുന്നു. ധർമ്മം ചെയ്യേണ്ടതിന്റെ ആവശ്യകതയെക്കുറിച്ചും ഇത് ഓർമ്മിപ്പിക്കുന്നു.",
+   "author": "വെള്ളില പി. അബ്ദുല്ല",
+   "issue_date": "2018-06-23",
+   "html_url": "/ml/fiqh/post-death-rituals-5-20180623-10.html",
+   "md_url": "/ml/fiqh/post-death-rituals-5-20180623-10.md"
+  },
+  {
    "slug": "ramadan-fasting-rulings-and-prohibitions-20180519-7",
    "lang": "ml",
    "category": "fiqh",
@@ -11838,6 +11849,17 @@
    "md_url": "/ml/opinion/adultery-india-needs-a-comprehensive-law-20181013-1.md"
   },
   {
+   "slug": "after-ramadan-20180623-8",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "റമദാനിനു ശേഷം...?",
+   "summary": "ഖുർആനും ഹദീഥും ജീവിതത്തിൽ പ്രാവർത്തികമാക്കേണ്ടതിന്റെ ആവശ്യകതയെക്കുറിച്ച് ലേഖനം ഓർമ്മിപ്പിക്കുന്നു. റമദാനിൽ മാത്രം ഖുർആൻ ഓതുന്നതിനെയും, സോഷ്യൽ മീഡിയയിൽ സമയം നഷ്ടപ്പെടുത്തുന്നതിനെയും വിമർശിക്കുന്നു. ഇസ്‌ലാമിക പ്രമാണങ്ങൾക്കനുസരിച്ച് ജീവിതം ചിട്ടപ്പെടുത്താൻ ഇത് പ്രേരിപ്പിക്കുന്നു.",
+   "author": "ജംഷീന, കൽപറ്റ",
+   "issue_date": "2018-06-23",
+   "html_url": "/ml/opinion/after-ramadan-20180623-8.html",
+   "md_url": "/ml/opinion/after-ramadan-20180623-8.md"
+  },
+  {
    "slug": "against-public-nuisance-20180519-5",
    "lang": "ml",
    "category": "opinion",
@@ -11904,6 +11926,17 @@
    "md_url": "/ml/opinion/arrest-and-bail-20180526-10.md"
   },
   {
+   "slug": "arrogance-is-the-enemy-of-consultation-20180623-11",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "അഹന്ത കൂടിയാലോചനയുടെ ശത്രു",
+   "summary": "കൂടിയാലോചനയുടെ പ്രാധാന്യത്തെക്കുറിച്ചും അഹങ്കാരം അതിന്റെ ശത്രുവായിരിക്കുന്നതിനെക്കുറിച്ചും ലേഖനം വിശദീകരിക്കുന്നു. ഒരു നല്ല സ്വഭാവമായി ഇസ്‌ലാം കൂടിയാലോചനയെ കാണുന്നു. അഹങ്കാരികൾ മറ്റുള്ളവരോട് കൂടിയാലോചിക്കാതെ സ്വേച്ഛാപരമായി പ്രവർത്തിക്കുന്നതിനെ വിമർശിക്കുന്നു.",
+   "author": "ശമീർ മദിനി",
+   "issue_date": "2018-06-23",
+   "html_url": "/ml/opinion/arrogance-is-the-enemy-of-consultation-20180623-11.html",
+   "md_url": "/ml/opinion/arrogance-is-the-enemy-of-consultation-20180623-11.md"
+  },
+  {
    "slug": "assembly-election-results-join-hands-for-the-survival-of-sec-20181229-8",
    "lang": "ml",
    "category": "opinion",
@@ -11968,6 +12001,17 @@
    "issue_date": "2019-01-12",
    "html_url": "/ml/opinion/community-s-approach-to-religious-education-a-vazhakkadan-re-20190112-6.html",
    "md_url": "/ml/opinion/community-s-approach-to-religious-education-a-vazhakkadan-re-20190112-6.md"
+  },
+  {
+   "slug": "court-system-20180623-4",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "കോടതി ക്രമം",
+   "summary": "ഇന്ത്യയിലെ ക്രിമിനൽ നിയമത്തിലെ അടിസ്ഥാന കോടതികളായ മജിസ്ട്രേറ്റ് കോടതികൾ, ചീഫ് ജുഡീഷ്യൽ മജിസ്ട്രേറ്റ്, സെഷൻസ് കോടതികൾ, ഹൈക്കോടതി, സുപ്രീം കോടതി എന്നിവയെക്കുറിച്ച് വിശദീകരിക്കുന്നു. കേസുകൾ എങ്ങനെ ഫയൽ ചെയ്യപ്പെടുന്നു, വിചാരണ ചെയ്യപ്പെടുന്നു എന്നതിനെക്കുറിച്ചും പറയുന്നു.",
+   "author": "മൂസാഫിർ",
+   "issue_date": "2018-06-23",
+   "html_url": "/ml/opinion/court-system-20180623-4.html",
+   "md_url": "/ml/opinion/court-system-20180623-4.md"
   },
   {
    "slug": "criminal-law-amendments-20181222-6",
@@ -12353,6 +12397,17 @@
    "issue_date": "2019-03-02",
    "html_url": "/ml/opinion/population-explosion-truth-and-myth-20190302-5.html",
    "md_url": "/ml/opinion/population-explosion-truth-and-myth-20190302-5.md"
+  },
+  {
+   "slug": "pranab-s-love-for-hedgewar-20180623-1",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "പ്രണബ്ജിയുടെ ഹെഡ്‌ഗേവാർ പ്രണയം",
+   "summary": "മുൻ രാഷ്ട്രപതി പ്രണബ് മുഖർജി നാഗ്‌പൂരിലെ ആർഎസ്എസ് സമ്മേളനത്തിൽ പങ്കെടുത്തത് മതേതര സമൂഹത്തിൽ ഞെട്ടലുണ്ടാക്കി. അദ്ദേഹത്തിന്റെ പ്രസംഗം ഇന്ത്യയുടെ ദേശീയതയെക്കുറിച്ചും മതനിരപേക്ഷതയെക്കുറിച്ചും സംസാരിച്ചെങ്കിലും, സമ്മേളനത്തിൽ പങ്കെടുക്കുന്നതിന് മുമ്പ് അദ്ദേഹം ചെയ്ത ഒരു പ്രവൃത്തി പ്രസംഗത്തിന്റെ അന്തസ്സത്തക്ക് ചേരാത്തതായിപ്പോയി.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2018-06-23",
+   "html_url": "/ml/opinion/pranab-s-love-for-hedgewar-20180623-1.html",
+   "md_url": "/ml/opinion/pranab-s-love-for-hedgewar-20180623-1.md"
   },
   {
    "slug": "rafale-alok-verma-and-the-central-government-20190126-7",
@@ -12850,6 +12905,17 @@
    "md_url": "/ml/opinion/who-should-leave-india-20170121-1.md"
   },
   {
+   "slug": "why-cry-20180623-7",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "എന്തിന് കരയണം?",
+   "summary": "കരച്ചിലിന്റെ വിവിധ കാരണങ്ങളെക്കുറിച്ചും അതിന്റെ പ്രാധാന്യത്തെക്കുറിച്ചും ലേഖനം സംസാരിക്കുന്നു. ദുനിയാവിന്റെ നഷ്ടങ്ങളെക്കുറിച്ചോർത്ത് കരയുന്നതിന് പകരം, അല്ലാഹുവിനെ ഓർത്ത് കരയുന്നതിന്റെ മഹത്വത്തെക്കുറിച്ചും പരലോക വിജയത്തിനായുള്ള മുന്നൊരുക്കങ്ങളെക്കുറിച്ചും ഇത് പറയുന്നു.",
+   "author": "സമീർ മുങ്ങേരി",
+   "issue_date": "2018-06-23",
+   "html_url": "/ml/opinion/why-cry-20180623-7.html",
+   "md_url": "/ml/opinion/why-cry-20180623-7.md"
+  },
+  {
    "slug": "why-economic-reservation-20190202-2",
    "lang": "ml",
    "category": "opinion",
@@ -12993,6 +13059,17 @@
    "md_url": "/ml/quran/conclusion-history-of-quran-translation-in-malayalam-20181117-6.md"
   },
   {
+   "slug": "divine-signs-in-raindrops-20180623-2",
+   "lang": "ml",
+   "category": "quran",
+   "title": "മഴനൂലുകളിലെ ദൈവിക ദൃഷ്ടാന്തം",
+   "summary": "ജീവിതത്തിന്റെ അടിസ്ഥാന ഘടകമായ ജലത്തിന്റെ ലഭ്യതയിലെ വിസ്മയകരവും ചിന്താർഹവുമായ കാര്യങ്ങൾ വിവരിക്കുന്നു. മഴയുടെ ഉത്ഭവം, അതിന്റെ ഗുണങ്ങൾ, ഖുർആനിക പരാമർശങ്ങൾ എന്നിവയെക്കുറിച്ച് വിശദീകരിക്കുന്നു. ചിന്തിക്കുന്ന മനുഷ്യർക്ക് സ്രഷ്ടാവിന്റെ അസ്തിത്വത്തിന് തെളിവുകൾ നൽകുന്ന കാര്യങ്ങൾ ഇതിലുണ്ട്.",
+   "author": "ഉസ്മാൻ പാലക്കാഴി",
+   "issue_date": "2018-06-23",
+   "html_url": "/ml/quran/divine-signs-in-raindrops-20180623-2.html",
+   "md_url": "/ml/quran/divine-signs-in-raindrops-20180623-2.md"
+  },
+  {
    "slug": "fajr-the-dawn-part-1-20180922-2",
    "lang": "ml",
    "category": "quran",
@@ -13035,6 +13112,28 @@
    "issue_date": "2018-05-26",
    "html_url": "/ml/quran/importance-of-quranic-study-20180526-6.html",
    "md_url": "/ml/quran/importance-of-quranic-study-20180526-6.md"
+  },
+  {
+   "slug": "iqra-read-20180623-3",
+   "lang": "ml",
+   "category": "quran",
+   "title": "ഇഖ്‌റഅ് (നീ വായിക്കുക)",
+   "summary": "സൂറത്ത് അൽ അലഖിന്റെ വിശദീകരണമാണിത്. പ്രവാചകത്വത്തിന്റെ തുടക്കത്തിൽ അവതരിച്ച ഈ സൂറ, വായനയുടെ പ്രാധാന്യം, മനുഷ്യന്റെ സൃഷ്ടിപ്പ്, അല്ലാഹുവിന്റെ ഔദാര്യം എന്നിവയെക്കുറിച്ച് പറയുന്നു. അറിവ് നേടാനും അല്ലാഹുവിലേക്ക് അടുക്കാനും ഇത് പ്രേരിപ്പിക്കുന്നു.",
+   "author": "അബ്ദുറഹ്മാൻ നാസിർ അസ്സഅദി",
+   "issue_date": "2018-06-23",
+   "html_url": "/ml/quran/iqra-read-20180623-3.html",
+   "md_url": "/ml/quran/iqra-read-20180623-3.md"
+  },
+  {
+   "slug": "parables-of-the-hypocrites-20180623-5",
+   "lang": "ml",
+   "category": "quran",
+   "title": "കപടവിശ്വാസികളുടെ ഉപമകൾ",
+   "summary": "സൂറത്ത് അൽ ബഖറയിലെ 17-20 ആയത്തുകളിൽ പറയുന്ന കപടവിശ്വാസികളെക്കുറിച്ചുള്ള ഉപമകൾ വിശദീകരിക്കുന്നു. തീ കത്തിച്ച് പ്രകാശം നേടുന്നവരും പിന്നീട് ഇരുട്ടിലാകുന്നവരും, മഴമേഘത്തിലെ അവസ്ഥയും ഇതിൽ താരതമ്യം ചെയ്യുന്നു. സത്യവിശ്വാസികൾക്ക് ലഭിക്കുന്ന പ്രകാശവും കപടവിശ്വാസികൾക്ക് നഷ്ടപ്പെടുന്ന പ്രകാശവും തമ്മിലുള്ള വ്യത്യാസം വ്യക്തമാക്കുന്നു.",
+   "author": "ശൈഖുൽ ഇസ്‌ലാം ഇബ്‌നുൽ ഖയ്യിം അൽജൗസി",
+   "issue_date": "2018-06-23",
+   "html_url": "/ml/quran/parables-of-the-hypocrites-20180623-5.html",
+   "md_url": "/ml/quran/parables-of-the-hypocrites-20180623-5.md"
   },
   {
    "slug": "praise-be-to-the-lord-of-the-worlds-20170325-9",
@@ -13299,6 +13398,17 @@
    "issue_date": "2018-08-11",
    "html_url": "/ml/seerah/a-life-dedicated-to-the-arabic-language-20180811-2.html",
    "md_url": "/ml/seerah/a-life-dedicated-to-the-arabic-language-20180811-2.md"
+  },
+  {
+   "slug": "accepting-the-challenge-20180623-9",
+   "lang": "ml",
+   "category": "seerah",
+   "title": "വെല്ലുവിളി ഏറ്റെടുക്കുന്നു",
+   "summary": "മൂസാ നബി(അ)യും ഫിർഔനും തമ്മിലുള്ള സംവാദത്തെക്കുറിച്ചാണ് ഈ ലേഖനം. ഫിർഔനിന്റെ അഹങ്കാരത്തെയും മൂസാ നബിയുടെ സത്യസന്ധമായ വാദങ്ങളെയും ഖുർആൻ വചനങ്ങളിലൂടെ വിശദീകരിക്കുന്നു. ഫിർഔൻ മൂസാ നബിയെ ഭീഷണിപ്പെടുത്തുകയും ജാലവിദ്യക്കാരെ ഉപയോഗിച്ച് പരാജയപ്പെടുത്താൻ ശ്രമിക്കുകയും ചെയ്യുന്നു.",
+   "author": "ഹുസൈൻ സലഫി, ഷാർജ",
+   "issue_date": "2018-06-23",
+   "html_url": "/ml/seerah/accepting-the-challenge-20180623-9.html",
+   "md_url": "/ml/seerah/accepting-the-challenge-20180623-9.md"
   },
   {
    "slug": "after-the-destruction-of-pharaoh-20180811-6",
@@ -13970,6 +14080,17 @@
    "issue_date": "2019-01-26",
    "html_url": "/ml/story/a-life-like-a-candle-20190126-4.html",
    "md_url": "/ml/story/a-life-like-a-candle-20190126-4.md"
+  },
+  {
+   "slug": "a-strange-experiment-20180623-6",
+   "lang": "ml",
+   "category": "story",
+   "title": "വിചിത്രമായ പരീക്ഷണം",
+   "summary": "ഒരു രാജാവ് തന്റെ പിൻഗാമിയെ തിരഞ്ഞെടുക്കാൻ നടത്തിയ വിചിത്രമായ പരീക്ഷണം വിവരിക്കുന്നു. യുവാക്കൾക്ക് വിത്തുകൾ നൽകി അവ പരിപാലിക്കാൻ ആവശ്യപ്പെടുന്നു. സത്യസന്ധതയും ആത്മാർത്ഥതയും പരീക്ഷിക്കുന്ന ഈ കഥ, ലിങ് എന്ന യുവാവിന്റെ അനുഭവത്തിലൂടെ മുന്നോട്ട് പോകുന്നു.",
+   "author": "റാഷിദ ബിൻത് ഉസ്മാൻ",
+   "issue_date": "2018-06-23",
+   "html_url": "/ml/story/a-strange-experiment-20180623-6.html",
+   "md_url": "/ml/story/a-strange-experiment-20180623-6.md"
   },
   {
    "slug": "abandon-sin-20181124-6",
