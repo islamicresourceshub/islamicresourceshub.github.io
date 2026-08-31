@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-31T12:08:59.602448+00:00",
+ "generated_at": "2026-08-31T12:46:55.161553+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2444,
+ "count": 2453,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -9121,6 +9121,17 @@
    "md_url": "/ml/aqeedah/allegations-of-deviation-and-responses-20170401-8.md"
   },
   {
+   "slug": "are-barelvis-the-heirs-of-ahlussunnah-20190810-2",
+   "lang": "ml",
+   "category": "aqeedah",
+   "title": "ബറേല്‍വികള്‍ അഹ്‌ലുസ്സുന്നയുടെ കിരീടാവകാശികളോ?",
+   "summary": "ബറേൽവി വിഭാഗത്തിന്റെ വിശ്വാസപരമായ ജീർണതകളെയും ആചാരങ്ങളിലെ കൃത്രിമത്വങ്ങളെയും കുറിച്ച് വിശകലനം ചെയ്യുന്ന ലേഖനം. അവർ അഹ്‌ലുസ്സുന്നയുടെ യഥാർത്ഥ വക്താക്കളാണോ എന്ന് പ്രമാണങ്ങളുടെ വെളിച്ചത്തിൽ പരിശോധിക്കുന്നു.",
+   "author": "മൂസ സ്വലാഹി, കാര",
+   "issue_date": "2019-08-10",
+   "html_url": "/ml/aqeedah/are-barelvis-the-heirs-of-ahlussunnah-20190810-2.html",
+   "md_url": "/ml/aqeedah/are-barelvis-the-heirs-of-ahlussunnah-20190810-2.md"
+  },
+  {
    "slug": "are-humans-born-sinners-20190406-6",
    "lang": "ml",
    "category": "aqeedah",
@@ -9935,6 +9946,17 @@
    "md_url": "/ml/dawah/do-not-waver-in-trials-20170121-9.md"
   },
   {
+   "slug": "eid-some-realizations-20190810-8",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "പെരുന്നാള്‍: ചില തിരിച്ചറിവുകള്‍",
+   "summary": "ഇബ്രാഹീം നബിയുടെ ത്യാഗസ്മരണകൾ പുതുക്കുന്ന ബലിപെരുന്നാളിന്റെ യഥാർത്ഥ ആത്മീയ വശങ്ങളെയും അതിൽ അടങ്ങിയിരിക്കുന്ന തിരിച്ചറിവുകളെയും കുറിച്ച് പ്രതിപാദിക്കുന്ന ലേഖനം.",
+   "author": "ഫൈസല്‍ പുതുപ്പറമ്പ്",
+   "issue_date": "2019-08-10",
+   "html_url": "/ml/dawah/eid-some-realizations-20190810-8.html",
+   "md_url": "/ml/dawah/eid-some-realizations-20190810-8.md"
+  },
+  {
    "slug": "ever-relevant-advices-20181027-8",
    "lang": "ml",
    "category": "dawah",
@@ -10065,6 +10087,17 @@
    "issue_date": "2018-09-08",
    "html_url": "/ml/dawah/greed-leading-to-devilish-acts-20180908-4.html",
    "md_url": "/ml/dawah/greed-leading-to-devilish-acts-20180908-4.md"
+  },
+  {
+   "slug": "hajj-the-great-gathering-of-humanity-20190810-4",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "ഹജ്ജ്: മാനവികതയുടെ മഹാസംഗമം",
+   "summary": "ലോകത്തിന്റെ വിവിധ ഭാഗങ്ങളിൽ നിന്നുള്ള ദശലക്ഷക്കണക്കിന് വിശ്വാസികൾ മക്കയിൽ ഒത്തുചേരുന്ന ഹജ്ജ് കർമ്മത്തിന്റെ പ്രാധാന്യത്തെയും അതിന്റെ മാനവിക മൂല്യങ്ങളെയും കുറിച്ച് പ്രതിപാദിക്കുന്ന ലേഖനം.",
+   "author": "നബീല്‍ പയ്യോളി",
+   "issue_date": "2019-08-10",
+   "html_url": "/ml/dawah/hajj-the-great-gathering-of-humanity-20190810-4.html",
+   "md_url": "/ml/dawah/hajj-the-great-gathering-of-humanity-20190810-4.md"
   },
   {
    "slug": "hard-work-and-sincerity-20181020-1",
@@ -11673,6 +11706,17 @@
    "md_url": "/ml/family/traffic-rules-20180825-8.md"
   },
   {
+   "slug": "understand-the-suffering-of-the-bedridden-20190810-5",
+   "lang": "ml",
+   "category": "family",
+   "title": "കിടപ്പിലായവരുടെ കഷ്ടപ്പാടറിയുക",
+   "summary": "രോഗബാധിതരായി കിടപ്പിലായ മനുഷ്യർ അനുഭവിക്കുന്ന മാനസികവും ശാരീരികവുമായ പ്രയാസങ്ങളെക്കുറിച്ചും അവരോട് കാണിക്കേണ്ട കാരുണ്യത്തെക്കുറിച്ചും ഓർമ്മിപ്പിക്കുന്ന ലേഖനം.",
+   "author": "സലാം സുറുമ എടത്തനാട്ടുകര",
+   "issue_date": "2019-08-10",
+   "html_url": "/ml/family/understand-the-suffering-of-the-bedridden-20190810-5.html",
+   "md_url": "/ml/family/understand-the-suffering-of-the-bedridden-20190810-5.md"
+  },
+  {
    "slug": "vacation-and-family-visits-20180428-2",
    "lang": "ml",
    "category": "family",
@@ -12199,6 +12243,17 @@
    "issue_date": "2019-08-03",
    "html_url": "/ml/hadith/mujtahid-scholars-and-hadith-20190803-5.html",
    "md_url": "/ml/hadith/mujtahid-scholars-and-hadith-20190803-5.md"
+  },
+  {
+   "slug": "mujtahid-scholars-and-hadiths-20190810-7",
+   "lang": "ml",
+   "category": "hadith",
+   "title": "മുജ്തഹിദുകളായ പണ്ഡിതന്മാരും ഹദീഥുകളും",
+   "summary": "ശൈഖുൽ ഇസ്‌ലാം ഇബ്‌നു തൈമിയ്യയുടെ 'റഫ്ഉൽ മലാം' എന്ന ഗ്രന്ഥത്തിന്റെ വിവർത്തനം. മുജ്തഹിദുകളായ പണ്ഡിതന്മാർ ഹദീസുകൾ സ്വീകരിക്കുന്നതിലും വ്യാഖ്യാനിക്കുന്നതിലും സ്വീകരിച്ച നിലപാടുകളെക്കുറിച്ച് ഇതിൽ ചർച്ച ചെയ്യുന്നു.",
+   "author": "ശൈഖുല്‍ ഇസ്ലാം ഇബ്‌നു തീമിയ",
+   "issue_date": "2019-08-10",
+   "html_url": "/ml/hadith/mujtahid-scholars-and-hadiths-20190810-7.html",
+   "md_url": "/ml/hadith/mujtahid-scholars-and-hadiths-20190810-7.md"
   },
   {
    "slug": "return-to-sunnah-20180901-9",
@@ -12806,6 +12861,17 @@
    "md_url": "/ml/history/the-martyrdom-of-ihsan-ilahi-zaheer-20190413-3.md"
   },
   {
+   "slug": "the-master-s-literary-wonder-20190810-6",
+   "lang": "ml",
+   "category": "history",
+   "title": "മാസ്റ്ററുടെ തൂലികാ വിസ്മയം",
+   "summary": "മലയാളത്തിലെ ഖുർആൻ വിവർത്തന ചരിത്രത്തെയും തിരൂർ സി. സെയ്ദാലിക്കുട്ടി മാസ്റ്ററുടെ സംഭാവനകളെയും കുറിച്ച് വിശദീകരിക്കുന്ന പരമ്പരയിലെ ഭാഗം.",
+   "author": "ഡോ. ചേക്കുമരക്കാരകത്ത് ഷാനവാസ്, പറവണ്ണ",
+   "issue_date": "2019-08-10",
+   "html_url": "/ml/history/the-master-s-literary-wonder-20190810-6.html",
+   "md_url": "/ml/history/the-master-s-literary-wonder-20190810-6.md"
+  },
+  {
    "slug": "the-maturity-of-translation-and-its-echoes-20180922-6",
    "lang": "ml",
    "category": "history",
@@ -13211,6 +13277,17 @@
    "issue_date": "2019-08-03",
    "html_url": "/ml/opinion/do-not-turn-colleges-into-battlegrounds-20190803-4.html",
    "md_url": "/ml/opinion/do-not-turn-colleges-into-battlegrounds-20190803-4.md"
+  },
+  {
+   "slug": "does-freedom-smell-of-subjugation-20190810-9",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "സ്വാതന്ത്ര്യത്തില്‍ പാരതന്ത്ര്യം മണക്കുന്നുവോ?",
+   "summary": "രാജ്യത്തിന്റെ 73-ാം സ്വാതന്ത്ര്യദിന പശ്ചാത്തലത്തിൽ, സമകാലിക ഇന്ത്യയിലെ സ്വാതന്ത്ര്യത്തിന്റെ അവസ്ഥയെയും നേരിടുന്ന വെല്ലുവിളികളെയും കുറിച്ച് വിശകലനം ചെയ്യുന്ന ലേഖനം.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2019-08-10",
+   "html_url": "/ml/opinion/does-freedom-smell-of-subjugation-20190810-9.html",
+   "md_url": "/ml/opinion/does-freedom-smell-of-subjugation-20190810-9.md"
   },
   {
    "slug": "don-t-build-walls-in-the-mind-20181229-6",
@@ -14300,6 +14377,17 @@
    "issue_date": "2018-12-29",
    "html_url": "/ml/quran/al-inshiqaq-the-sundering-20181229-4.html",
    "md_url": "/ml/quran/al-inshiqaq-the-sundering-20181229-4.md"
+  },
+  {
+   "slug": "al-muddaththir-the-cloaked-one-20190810-3",
+   "lang": "ml",
+   "category": "quran",
+   "title": "അല്‍മുദ്ദസ്സിര്‍ (പുതച്ചുമൂടിയവന്‍)",
+   "summary": "വിശുദ്ധ ഖുർആനിലെ 74-ാം അധ്യായമായ സൂറത്തുൽ മുദ്ദസ്സിറിന്റെ ലളിതമായ വിവർത്തനവും വിശദീകരണവും നൽകുന്ന ലേഖനം.",
+   "author": "അബ്ദുറഹ്മാന്‍ നാസിര്‍ അസ്സഅദി",
+   "issue_date": "2019-08-10",
+   "html_url": "/ml/quran/al-muddaththir-the-cloaked-one-20190810-3.html",
+   "md_url": "/ml/quran/al-muddaththir-the-cloaked-one-20190810-3.md"
   },
   {
    "slug": "al-muddaththir-the-one-wrapped-20190803-2",
@@ -15499,6 +15587,17 @@
    "issue_date": "2019-04-20",
    "html_url": "/ml/seerah/the-first-pledge-of-aqaba-20190420-6.html",
    "md_url": "/ml/seerah/the-first-pledge-of-aqaba-20190420-6.md"
+  },
+  {
+   "slug": "the-first-setback-to-arrogance-20190810-1",
+   "lang": "ml",
+   "category": "seerah",
+   "title": "അഹങ്കാരത്തിന് ആദ്യ തിരിച്ചടി",
+   "summary": "പ്രവാചകൻ മുഹമ്മദ് നബിയുടെ ജീവിതചരിത്രം വിവരിക്കുന്ന പരമ്പരയിലെ 33-ാം ഭാഗം. ബദ്ർ യുദ്ധ പശ്ചാത്തലത്തിൽ ഖുറൈശികൾ നേരിട്ട തിരിച്ചടികളെയും അവരുടെ അഹങ്കാരത്തെയും കുറിച്ച് ഈ ലേഖനത്തിൽ പ്രതിപാദിക്കുന്നു.",
+   "author": "ഫദ്‌ലുല്‍ ഹഖ് ഉമരി",
+   "issue_date": "2019-08-10",
+   "html_url": "/ml/seerah/the-first-setback-to-arrogance-20190810-1.html",
+   "md_url": "/ml/seerah/the-first-setback-to-arrogance-20190810-1.md"
   },
   {
    "slug": "the-inevitable-fall-20180804-3",
