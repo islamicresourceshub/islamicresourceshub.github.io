@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-31T10:22:48.613489+00:00",
+ "generated_at": "2026-08-31T10:23:33.416514+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2308,
+ "count": 2309,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -22770,6 +22770,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/th/youth/what-will-the-waste-do-20170114-5.html",
    "md_url": "/th/youth/what-will-the-waste-do-20170114-5.md"
+  },
+  {
+   "slug": "become-the-guardian-of-the-sources-20170128-9",
+   "lang": "tl",
+   "category": "aqeedah",
+   "title": "Maging Tagapagtanggol ng mga Pinagmulan",
+   "summary": "Ipinaliliwanag ang banal at hindi matitinag na katangian ng mga pinagmulan ng Islam, at ang pagkakaiba nito sa ibang mga relihiyon. Binibigyang-diin ang kahalagahan ng pangangalaga sa Qur'an at Sunnah.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2017-01-28",
+   "html_url": "/tl/aqeedah/become-the-guardian-of-the-sources-20170128-9.html",
+   "md_url": "/tl/aqeedah/become-the-guardian-of-the-sources-20170128-9.md"
   },
   {
    "slug": "do-not-waver-in-trials-20170121-9",
