@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-31T09:54:10.856155+00:00",
+ "generated_at": "2026-08-31T09:56:08.926629+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2248,
+ "count": 2249,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -15499,6 +15499,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/mr/youth/what-will-the-waste-do-20170114-5.html",
    "md_url": "/mr/youth/what-will-the-waste-do-20170114-5.md"
+  },
+  {
+   "slug": "become-the-guardian-of-the-sources-20170128-9",
+   "lang": "ms",
+   "category": "aqeedah",
+   "title": "Jadilah Penjaga Sumber-Sumber Wahyu",
+   "summary": "Artikel ini menjelaskan tentang sifat ketuhanan dan keunggulan sumber-sumber Islam dibandingkan agama lain. Ia juga mengingatkan pentingnya menjaga kesucian al-Quran dan as-Sunnah di tengah arus fitnah dan keraguan masa kini.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2017-01-28",
+   "html_url": "/ms/aqeedah/become-the-guardian-of-the-sources-20170128-9.html",
+   "md_url": "/ms/aqeedah/become-the-guardian-of-the-sources-20170128-9.md"
   },
   {
    "slug": "do-not-waver-in-trials-20170121-9",
