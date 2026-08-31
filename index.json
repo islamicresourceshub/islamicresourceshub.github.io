@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-31T04:30:48.308938+00:00",
+ "generated_at": "2026-08-31T04:47:56.865177+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1863,
+ "count": 1872,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -8527,6 +8527,17 @@
    "md_url": "/ml/aqeedah/ramadan-and-innovations-20180526-4.md"
   },
   {
+   "slug": "reducing-the-prophet-pbuh-to-an-ordinary-human-20180922-4",
+   "lang": "ml",
+   "category": "aqeedah",
+   "title": "നബിﷺയെ സാധാരണ മനുഷ്യനാക്കുകയോ?",
+   "summary": "പ്രവാചകന്‍ മുഹമ്മദ് നബി(സ)യെ വെറുമൊരു സാധാരണ മനുഷ്യനായി മാത്രം ചിത്രീകരിക്കുന്നതിലെ അപകടങ്ങളെയും ഇസ്‌ലാമിക വിശ്വാസത്തെയും കുറിച്ച് ചര്‍ച്ച ചെയ്യുന്നു.",
+   "author": "എസ്.എ ഐദീദ് തങ്ങള്‍",
+   "issue_date": "2018-09-22",
+   "html_url": "/ml/aqeedah/reducing-the-prophet-pbuh-to-an-ordinary-human-20180922-4.html",
+   "md_url": "/ml/aqeedah/reducing-the-prophet-pbuh-to-an-ordinary-human-20180922-4.md"
+  },
+  {
    "slug": "salafiyyah-ideology-and-stance-20170211-8",
    "lang": "ml",
    "category": "aqeedah",
@@ -8791,6 +8802,17 @@
    "md_url": "/ml/dawah/muslims-in-a-pluralistic-society-20170128-1.md"
   },
   {
+   "slug": "muslims-in-a-pluralistic-society-20180922-1",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "ബഹുസ്വര സമൂഹത്തിലെ മുസ്‌ലിം",
+   "summary": "ബഹുസ്വര സമൂഹത്തില്‍ മുസ്‌ലിംകള്‍ എങ്ങനെ ജീവിക്കണം എന്നതിനെക്കുറിച്ചുള്ള പഠനമാണിത്. ഡോ. അബ്ദുല്ല ജിബ്‌രീന്റെ ഗ്രന്ഥത്തെ ആസ്പദമാക്കി ഇസ്‌ലാമിക വീക്ഷണങ്ങള്‍ വിശദീകരിക്കുന്നു.",
+   "author": "ഡോ. സി.മുഹമ്മദ് റാഫി ചെമ്പ്ര",
+   "issue_date": "2018-09-22",
+   "html_url": "/ml/dawah/muslims-in-a-pluralistic-society-20180922-1.html",
+   "md_url": "/ml/dawah/muslims-in-a-pluralistic-society-20180922-1.md"
+  },
+  {
    "slug": "not-to-falter-in-crises-20170401-2",
    "lang": "ml",
    "category": "dawah",
@@ -8811,6 +8833,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/ml/dawah/organization-is-not-for-division-20170218-13.html",
    "md_url": "/ml/dawah/organization-is-not-for-division-20170218-13.md"
+  },
+  {
+   "slug": "pray-to-the-lord-of-the-universe-20180922-8",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "പ്രാര്‍ഥിക്കുക; പ്രപഞ്ചനാഥനോട്",
+   "summary": "പ്രാര്‍ത്ഥനയുടെ പ്രാധാന്യത്തെക്കുറിച്ചും അത് അല്ലാഹുവിനോട് മാത്രമായിരിക്കേണ്ടതിന്റെ ആവശ്യകതയെക്കുറിച്ചും ഈ ലേഖനം ഓര്‍മ്മിപ്പിക്കുന്നു.",
+   "author": "ഫദ്‌ലുല്‍ ഹഖ് ഉമരി",
+   "issue_date": "2018-09-22",
+   "html_url": "/ml/dawah/pray-to-the-lord-of-the-universe-20180922-8.html",
+   "md_url": "/ml/dawah/pray-to-the-lord-of-the-universe-20180922-8.md"
   },
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -8976,6 +9009,17 @@
    "issue_date": "2018-08-18",
    "html_url": "/ml/dawah/the-declining-blessings-in-trade-20180818-2.html",
    "md_url": "/ml/dawah/the-declining-blessings-in-trade-20180818-2.md"
+  },
+  {
+   "slug": "the-fragrance-of-goodness-20180922-5",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "നന്മയുടെ നറുമണം",
+   "summary": "പ്രളയകാലത്ത് ജാതിമത ഭേദമന്യേ ജനങ്ങള്‍ നടത്തിയ രക്ഷാപ്രവര്‍ത്തനങ്ങളെയും മാനവികതയുടെ നന്മകളെയും ഈ ലേഖനം പ്രകീർത്തിക്കുന്നു.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2018-09-22",
+   "html_url": "/ml/dawah/the-fragrance-of-goodness-20180922-5.html",
+   "md_url": "/ml/dawah/the-fragrance-of-goodness-20180922-5.md"
   },
   {
    "slug": "the-islamic-dimension-of-friendship-20180811-7",
@@ -9561,6 +9605,17 @@
    "md_url": "/ml/fiqh/human-rights-courts-20180421-7.md"
   },
   {
+   "slug": "law-against-destruction-of-public-property-20180922-7",
+   "lang": "ml",
+   "category": "fiqh",
+   "title": "പൊതുമുതല്‍ നശിപ്പിക്കുന്നത് തടയുന്ന നിയമം",
+   "summary": "സമരങ്ങളുടെ പേരില്‍ പൊതുമുതല്‍ നശിപ്പിക്കുന്നത് ഇസ്‌ലാമികമായും നിയമപരമായും തെറ്റാണെന്ന് ഈ ലേഖനം വ്യക്തമാക്കുന്നു.",
+   "author": "മുസാഫിര്‍",
+   "issue_date": "2018-09-22",
+   "html_url": "/ml/fiqh/law-against-destruction-of-public-property-20180922-7.html",
+   "md_url": "/ml/fiqh/law-against-destruction-of-public-property-20180922-7.md"
+  },
+  {
    "slug": "mosque-construction-some-points-to-note-20170325-5",
    "lang": "ml",
    "category": "fiqh",
@@ -9878,6 +9933,17 @@
    "issue_date": "2018-05-12",
    "html_url": "/ml/history/scientific-renaissance-through-quran-20180512-1.html",
    "md_url": "/ml/history/scientific-renaissance-through-quran-20180512-1.md"
+  },
+  {
+   "slug": "the-maturity-of-translation-and-its-echoes-20180922-6",
+   "lang": "ml",
+   "category": "history",
+   "title": "പരിഭാഷയുടെ പരിപക്വഘട്ടവും മാറ്റൊലികളും",
+   "summary": "മലയാളത്തില്‍ ഖുര്‍ആന്‍ വിവര്‍ത്തനങ്ങള്‍ ഉണ്ടായതിന്റെ ചരിത്രവും അതിന്റെ വികാസ പരിണാമങ്ങളും ഈ ലേഖന പരമ്പരയില്‍ വിവരിക്കുന്നു.",
+   "author": "ശൈഖ് മുഹമ്മദ് അശ്‌റഫ് അലി അല്‍മലബാരി / വിവ. അബ്ദുല്‍ ജബ്ബാര്‍ അബ്ദുല്ല",
+   "issue_date": "2018-09-22",
+   "html_url": "/ml/history/the-maturity-of-translation-and-its-echoes-20180922-6.html",
+   "md_url": "/ml/history/the-maturity-of-translation-and-its-echoes-20180922-6.md"
   },
   {
    "slug": "the-scholar-who-broke-the-edge-of-rationalism-20180811-11",
@@ -10254,6 +10320,17 @@
    "md_url": "/ml/opinion/salafi-preaching-a-theoretical-analysis-20170121-10.md"
   },
   {
+   "slug": "same-sex-relations-will-india-lose-its-soul-20180922-9",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "സ്വവര്‍ഗരതി: ഇന്ത്യയുടെ ആത്മാഭിമാനം നഷ്ടമാവുമോ?",
+   "summary": "സ്വവര്‍ഗരതിയുമായി ബന്ധപ്പെട്ട കോടതിവിധികളെയും അത് ഇന്ത്യന്‍ സാമൂഹിക-ധാര്‍മിക വ്യവസ്ഥയില്‍ ചെലുത്തുന്ന സ്വാധീനത്തെയും വിമര്‍ശനാത്മകമായി പരിശോധിക്കുന്നു.",
+   "author": "സുഫ്‌യാന്‍ അബ്ദുസ്സലാം",
+   "issue_date": "2018-09-22",
+   "html_url": "/ml/opinion/same-sex-relations-will-india-lose-its-soul-20180922-9.html",
+   "md_url": "/ml/opinion/same-sex-relations-will-india-lose-its-soul-20180922-9.md"
+  },
+  {
    "slug": "saudi-arabia-in-media-and-realities-20180421-2",
    "lang": "ml",
    "category": "opinion",
@@ -10505,6 +10582,17 @@
    "issue_date": "2018-05-26",
    "html_url": "/ml/quran/al-qadr-the-decree-20180526-8.html",
    "md_url": "/ml/quran/al-qadr-the-decree-20180526-8.md"
+  },
+  {
+   "slug": "fajr-the-dawn-part-1-20180922-2",
+   "lang": "ml",
+   "category": "quran",
+   "title": "ഫജ്ര്‍ (പ്രഭാതം), ഭാഗം: 1",
+   "summary": "വിശുദ്ധ ഖുര്‍ആനിലെ 89-ാം അധ്യായമായ സൂറത്തുല്‍ ഫജ്ര്‍ വിശദീകരിക്കുന്ന പരമ്പരയുടെ ആദ്യ ഭാഗമാണിത്. സൂക്തങ്ങളുടെ അര്‍ത്ഥവും ആശയങ്ങളും ഇവിടെ ചര്‍ച്ച ചെയ്യുന്നു.",
+   "author": "അബ്ദുറഹ്മാന്‍ നാസിര്‍ അസ്സഅദി",
+   "issue_date": "2018-09-22",
+   "html_url": "/ml/quran/fajr-the-dawn-part-1-20180922-2.html",
+   "md_url": "/ml/quran/fajr-the-dawn-part-1-20180922-2.md"
   },
   {
    "slug": "importance-of-quranic-study-20180526-6",
@@ -10868,6 +10956,17 @@
    "issue_date": "2018-08-25",
    "html_url": "/ml/seerah/the-sacrifice-of-ideological-commitment-20180825-1.html",
    "md_url": "/ml/seerah/the-sacrifice-of-ideological-commitment-20180825-1.md"
+  },
+  {
+   "slug": "those-with-hardened-hearts-20180922-3",
+   "lang": "ml",
+   "category": "seerah",
+   "title": "മനസ്സ് കടുത്തുപോയവര്‍",
+   "summary": "മൂസാനബി(അ)യുടെ കാലഘട്ടത്തിലെ ബനൂഇസ്‌റാഈല്യരുടെ ചരിത്രവും അവരുടെ കഠിനഹൃദയത്തെക്കുറിച്ചും ഈ ലേഖനം പ്രതിപാദിക്കുന്നു. അല്ലാഹുവിന്റെ അനുഗ്രഹങ്ങളെ നിഷേധിച്ചവരുടെ കഥയാണിത്.",
+   "author": "ഹുസൈന്‍ സലഫി, ഷാര്‍ജ",
+   "issue_date": "2018-09-22",
+   "html_url": "/ml/seerah/those-with-hardened-hearts-20180922-3.html",
+   "md_url": "/ml/seerah/those-with-hardened-hearts-20180922-3.md"
   },
   {
    "slug": "wanderers-in-the-desert-musa-nabi-20-20180915-3",
