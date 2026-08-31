@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-31T05:48:15.239980+00:00",
+ "generated_at": "2026-08-31T05:48:53.961561+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1973,
+ "count": 1974,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -15532,6 +15532,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/pt/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.html",
    "md_url": "/pt/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.md"
+  },
+  {
+   "slug": "what-to-beware-of-when-taking-sides-20170128-7",
+   "lang": "pt",
+   "category": "quran",
+   "title": "O que considerar ao tomar partido",
+   "summary": "Este artigo explica a importância de manter a cautela ao formar alianças e manter laços de amizade, à luz do versículo 43:67 do Alcorão.",
+   "author": "അബൂ അമീൻ",
+   "issue_date": "2017-01-28",
+   "html_url": "/pt/quran/what-to-beware-of-when-taking-sides-20170128-7.html",
+   "md_url": "/pt/quran/what-to-beware-of-when-taking-sides-20170128-7.md"
   },
   {
    "slug": "prophets-and-trials-20170325-7",
