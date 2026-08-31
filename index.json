@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-31T09:34:53.829517+00:00",
+ "generated_at": "2026-08-31T09:38:12.170545+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2192,
+ "count": 2202,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -10265,6 +10265,28 @@
    "md_url": "/ml/dawah/to-achieve-success-20180512-13.md"
   },
   {
+   "slug": "to-get-prayers-answered-20190323-9",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "പ്രാര്‍ഥനക്ക് ഉത്തരം ലഭിക്കാന്‍",
+   "summary": "പ്രാർത്ഥനകൾക്ക് ഉത്തരം ലഭിക്കാൻ സാധ്യതയുള്ള സ്ഥലങ്ങളെയും സാഹചര്യങ്ങളെയും കുറിച്ച് പ്രവാചക വചനങ്ങളുടെ അടിസ്ഥാനത്തിൽ നൽകുന്ന ഉപദേശം.",
+   "author": "സയ്യിദ് സഅ്ഫര്‍ സ്വാദിക്വ് മദീനി",
+   "issue_date": "2019-03-23",
+   "html_url": "/ml/dawah/to-get-prayers-answered-20190323-9.html",
+   "md_url": "/ml/dawah/to-get-prayers-answered-20190323-9.md"
+  },
+  {
+   "slug": "to-those-who-seek-fame-20190323-10",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "പ്രശസ്തി ആഗ്രഹിക്കുന്നവരോട്",
+   "summary": "പ്രബോധന രംഗത്ത് പ്രവർത്തിക്കുന്നവർക്ക് വന്നുചേരാവുന്ന പ്രശസ്തിയുടെ പരീക്ഷണങ്ങളെക്കുറിച്ചും ആത്മാർത്ഥതയുടെ പ്രാധാന്യത്തെക്കുറിച്ചുമുള്ള ഓർമ്മപ്പെടുത്തൽ.",
+   "author": "സമീര്‍ മുണ്ടേരി",
+   "issue_date": "2019-03-23",
+   "html_url": "/ml/dawah/to-those-who-seek-fame-20190323-10.html",
+   "md_url": "/ml/dawah/to-those-who-seek-fame-20190323-10.md"
+  },
+  {
    "slug": "unending-reward-20180825-6",
    "lang": "ml",
    "category": "dawah",
@@ -10505,6 +10527,17 @@
    "issue_date": "2018-12-01",
    "html_url": "/ml/family/fading-marital-bonds-20181201-4.html",
    "md_url": "/ml/family/fading-marital-bonds-20181201-4.md"
+  },
+  {
+   "slug": "forgotten-in-the-heat-of-exams-20190323-6",
+   "lang": "ml",
+   "category": "family",
+   "title": "പരീക്ഷയുടെ ചൂടില്‍ വിസ്മരിക്കപ്പെടുന്നത്",
+   "summary": "പരീക്ഷാക്കാലത്ത് കുട്ടികൾ അനുഭവിക്കുന്ന സമ്മർദ്ദങ്ങളെക്കുറിച്ചും രക്ഷിതാക്കൾ ശ്രദ്ധിക്കേണ്ട കാര്യങ്ങളെക്കുറിച്ചുമുള്ള ലേഖനം.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2019-03-23",
+   "html_url": "/ml/family/forgotten-in-the-heat-of-exams-20190323-6.html",
+   "md_url": "/ml/family/forgotten-in-the-heat-of-exams-20190323-6.md"
   },
   {
    "slug": "harassment-from-mother-in-law-20170204-3",
@@ -11343,6 +11376,17 @@
    "md_url": "/ml/health/when-menstruating-20260822-4.md"
   },
   {
+   "slug": "ahmed-raza-khan-barelvi-origins-and-evolution-20190323-1",
+   "lang": "ml",
+   "category": "history",
+   "title": "അഹ്മദ് രിളാഖാന്‍ ബറേല്‍വി: തുടക്കവും പരിണാമവും",
+   "summary": "ഉത്തർപ്രദേശിലെ ബറേലിയിൽ ജനിച്ച അഹ്മദ് രിളാഖാൻ ബറേൽവിയുടെ ജീവിതത്തെയും പണ്ഡിത പാരമ്പര്യത്തെയും കുറിച്ചുള്ള ലേഖനം. അദ്ദേഹത്തിന്റെ വളർച്ചയുടെയും പരിണാമത്തിന്റെയും നാൾവഴികൾ ഇതിൽ വിവരിക്കുന്നു.",
+   "author": "യൂസുഫ് സാഹിബ് നദ്‌വി ഓച്ചിറ",
+   "issue_date": "2019-03-23",
+   "html_url": "/ml/history/ahmed-raza-khan-barelvi-origins-and-evolution-20190323-1.html",
+   "md_url": "/ml/history/ahmed-raza-khan-barelvi-origins-and-evolution-20190323-1.md"
+  },
+  {
    "slug": "arabs-and-arabic-learning-in-kerala-20180908-2",
    "lang": "ml",
    "category": "history",
@@ -11563,6 +11607,17 @@
    "md_url": "/ml/history/the-maturity-of-translation-and-its-echoes-20180922-6.md"
   },
   {
+   "slug": "the-mullappoo-revolution-against-the-mullas-who-hindered-mus-20190323-5",
+   "lang": "ml",
+   "category": "history",
+   "title": "മുസ്‌ലിം വിദ്യാഭ്യാസ വഴിയില്‍ മുള്ള് വിതറിയ മുല്ലമാര്‍ക്കെതിരെ മൂലം സഭയിലെ മുല്ലപ്പൂ വിപ്ലവം",
+   "summary": "മുസ്‌ലിം വിദ്യാഭ്യാസ രംഗത്ത് തടസ്സങ്ങൾ സൃഷ്ടിച്ചവർക്കെതിരെയുള്ള പോരാട്ടങ്ങളെയും നവോത്ഥാന ശ്രമങ്ങളെയും കുറിച്ചുള്ള ചരിത്രപരമായ വിശകലനം.",
+   "author": "ഡോ. ചേക്കുമരക്കാരകത്ത് ഷാനവാസ്, പറവണ്ണ",
+   "issue_date": "2019-03-23",
+   "html_url": "/ml/history/the-mullappoo-revolution-against-the-mullas-who-hindered-mus-20190323-5.html",
+   "md_url": "/ml/history/the-mullappoo-revolution-against-the-mullas-who-hindered-mus-20190323-5.md"
+  },
+  {
    "slug": "the-role-of-non-muslims-in-quran-translation-20181103-3",
    "lang": "ml",
    "category": "history",
@@ -11781,6 +11836,17 @@
    "issue_date": "2018-12-29",
    "html_url": "/ml/opinion/assembly-election-results-join-hands-for-the-survival-of-sec-20181229-8.html",
    "md_url": "/ml/opinion/assembly-election-results-join-hands-for-the-survival-of-sec-20181229-8.md"
+  },
+  {
+   "slug": "burning-kerala-drying-water-sources-20190323-8",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "പൊള്ളുന്ന കേരളം വറ്റുന്ന കുടിവെള്ളം",
+   "summary": "കേരളം നേരിടുന്ന കടുത്ത വരൾച്ചയെയും കുടിവെള്ള ക്ഷാമത്തെയും കുറിച്ചുള്ള സാമൂഹിക വിശകലനം. പ്രകൃതി സംരക്ഷണത്തിന്റെ പ്രാധാന്യം ഇത് ഓർമ്മിപ്പിക്കുന്നു.",
+   "author": "ഉസ്മാന്‍ പാലക്കാഴി",
+   "issue_date": "2019-03-23",
+   "html_url": "/ml/opinion/burning-kerala-drying-water-sources-20190323-8.html",
+   "md_url": "/ml/opinion/burning-kerala-drying-water-sources-20190323-8.md"
   },
   {
    "slug": "challenges-posed-by-pseudo-nationalism-20170204-4",
@@ -12696,6 +12762,17 @@
    "md_url": "/ml/opinion/will-ayodhya-become-a-riot-zone-once-again-20181208-2.md"
   },
   {
+   "slug": "abasa-he-frowned-20190323-3",
+   "lang": "ml",
+   "category": "quran",
+   "title": "അബസ (മുഖം ചുളിച്ചു)",
+   "summary": "വിശുദ്ധ ഖുർആനിലെ അബസ അധ്യായത്തിന്റെ വ്യാഖ്യാനം. ഖുർആനിക വചനങ്ങളുടെ അർത്ഥവും ആശയങ്ങളും ലളിതമായി വിശദീകരിക്കുന്നു.",
+   "author": "അബ്ദുറഹ്മാന്‍ നാസിര്‍ അസ്സഅദി",
+   "issue_date": "2019-03-23",
+   "html_url": "/ml/quran/abasa-he-frowned-20190323-3.html",
+   "md_url": "/ml/quran/abasa-he-frowned-20190323-3.md"
+  },
+  {
    "slug": "al-a-la-the-most-high-20181020-3",
    "lang": "ml",
    "category": "quran",
@@ -13609,6 +13686,17 @@
    "md_url": "/ml/seerah/the-prophet-s-demise-20180512-4.md"
   },
   {
+   "slug": "the-pure-mother-the-blessed-child-20190323-7",
+   "lang": "ml",
+   "category": "seerah",
+   "title": "പരിശുദ്ധയായ മാതാവ്, അനുഗ്രഹീതനായ കുഞ്ഞ്",
+   "summary": "ഈസാ നബി(അ)യുടെയും മാതാവ് മർയം ബീവി(റ)യുടെയും ജീവിതത്തിലെ അത്ഭുതകരമായ സംഭവങ്ങളെക്കുറിച്ചുള്ള പരമ്പരയിലെ ഭാഗം.",
+   "author": "ഹുസൈന്‍ സലഫി, ഷാര്‍ജ",
+   "issue_date": "2019-03-23",
+   "html_url": "/ml/seerah/the-pure-mother-the-blessed-child-20190323-7.html",
+   "md_url": "/ml/seerah/the-pure-mother-the-blessed-child-20190323-7.md"
+  },
+  {
    "slug": "the-sacrifice-of-ideological-commitment-20180825-1",
    "lang": "ml",
    "category": "seerah",
@@ -13662,6 +13750,17 @@
    "issue_date": "2018-12-15",
    "html_url": "/ml/seerah/the-world-teacher-prophet-muhammad-pbuh-20181215-3.html",
    "md_url": "/ml/seerah/the-world-teacher-prophet-muhammad-pbuh-20181215-3.md"
+  },
+  {
+   "slug": "the-year-of-sorrow-20190323-4",
+   "lang": "ml",
+   "category": "seerah",
+   "title": "ദുഃഖത്തിന്റെ വര്‍ഷം",
+   "summary": "പ്രവാചകൻ മുഹമ്മദ് നബി(സ)യുടെ ജീവിതത്തിലെ നിർണ്ണായകമായ 'ദുഃഖത്തിന്റെ വർഷത്തെ' കുറിച്ചുള്ള വിവരണമാണിത്. അബൂത്വാലിബിന്റെ രോഗാവസ്ഥയും ആ കാലഘട്ടത്തിലെ പ്രതിസന്ധികളും ഇതിൽ പ്രതിപാദിക്കുന്നു.",
+   "author": "ഫദ്‌ലുല്‍ ഹഖ് ഉമരി",
+   "issue_date": "2019-03-23",
+   "html_url": "/ml/seerah/the-year-of-sorrow-20190323-4.html",
+   "md_url": "/ml/seerah/the-year-of-sorrow-20190323-4.md"
   },
   {
    "slug": "those-with-hardened-hearts-20180922-3",
@@ -14201,6 +14300,17 @@
    "issue_date": "2019-01-12",
    "html_url": "/ml/story/the-groom-in-the-coffin-20190112-9.html",
    "md_url": "/ml/story/the-groom-in-the-coffin-20190112-9.md"
+  },
+  {
+   "slug": "the-last-page-20190323-2",
+   "lang": "ml",
+   "category": "story",
+   "title": "അവസാനത്തെ പേജ്",
+   "summary": "ജീവിതത്തിന്റെ നശ്വരതയെയും ബാല്യം മുതൽ വാർധക്യം വരെയുള്ള കാലത്തിന്റെ ഒഴുക്കിനെയും കുറിച്ചുള്ള ഒരു കവിത.",
+   "author": "അബൂ ഫായിദ",
+   "issue_date": "2019-03-23",
+   "html_url": "/ml/story/the-last-page-20190323-2.html",
+   "md_url": "/ml/story/the-last-page-20190323-2.md"
   },
   {
    "slug": "the-lesson-taught-by-the-son-20181103-4",
