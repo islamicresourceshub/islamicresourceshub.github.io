@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-31T05:31:14.989457+00:00",
+ "generated_at": "2026-08-31T05:35:28.164695+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1939,
+ "count": 1949,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -8637,6 +8637,17 @@
    "md_url": "/ml/aqeedah/salafiyyah-ideology-and-stance-20170211-8.md"
   },
   {
+   "slug": "scriptures-and-the-believer-20181103-11",
+   "lang": "ml",
+   "category": "aqeedah",
+   "title": "വേദഗ്രന്ഥങ്ങളും വിശ്വാസിയും",
+   "summary": "ഇസ്‌ലാമിക വിശ്വാസത്തിന്റെ അടിസ്ഥാനപരമായ ഭാഗമായ വേദഗ്രന്ഥങ്ങളിലുള്ള വിശ്വാസത്തെക്കുറിച്ച് പ്രതിപാദിക്കുന്നു. അല്ലാഹു അവതരിപ്പിച്ച വേദങ്ങളെക്കുറിച്ചുള്ള ഇസ്‌ലാമിക വീക്ഷണം വ്യക്തമാക്കുന്നു.",
+   "author": "ശമീര്‍ മദീനി",
+   "issue_date": "2018-11-03",
+   "html_url": "/ml/aqeedah/scriptures-and-the-believer-20181103-11.html",
+   "md_url": "/ml/aqeedah/scriptures-and-the-believer-20181103-11.md"
+  },
+  {
    "slug": "should-we-not-pray-to-the-great-20181020-5",
    "lang": "ml",
    "category": "aqeedah",
@@ -8912,6 +8923,17 @@
    "md_url": "/ml/dawah/jallikattu-and-the-islamic-approach-to-animals-20170128-4.md"
   },
   {
+   "slug": "limitless-desires-and-limited-life-20181103-2",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "അതിരില്ലാത്ത ആഗ്രഹങ്ങളും അതിരുള്ള ജീവിതവും",
+   "summary": "മനുഷ്യന്റെ അടങ്ങാത്ത ആഗ്രഹങ്ങളെക്കുറിച്ചും അതിന് ഇസ്‌ലാം നൽകുന്ന മാർഗ്ഗനിർദ്ദേശങ്ങളെക്കുറിച്ചും പ്രതിപാദിക്കുന്നു. പ്രവാചക വചനങ്ങളുടെ വെളിച്ചത്തിൽ ജീവിതത്തെ ക്രമീകരിക്കേണ്ടതിന്റെ പ്രാധാന്യം വ്യക്തമാക്കുന്നു.",
+   "author": "ദുല്‍ക്കര്‍ഷാന്‍.എ.എ",
+   "issue_date": "2018-11-03",
+   "html_url": "/ml/dawah/limitless-desires-and-limited-life-20181103-2.html",
+   "md_url": "/ml/dawah/limitless-desires-and-limited-life-20181103-2.md"
+  },
+  {
    "slug": "live-knowing-the-value-of-time-20170114-8",
    "lang": "ml",
    "category": "dawah",
@@ -9176,6 +9198,17 @@
    "md_url": "/ml/dawah/stand-tall-20170121-8.md"
   },
   {
+   "slug": "that-day-is-not-far-20181103-1",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "ആ ദിവസം അകലെയല്ല",
+   "summary": "ഇഹലോക ജീവിതത്തിന്റെ നശ്വരതയെക്കുറിച്ചും പരലോക വിജയത്തിനായി ഒരുങ്ങേണ്ടതിന്റെ ആവശ്യകതയെക്കുറിച്ചും ഈ ലേഖനം ഓർമ്മിപ്പിക്കുന്നു. മരണാനന്തര ജീവിതത്തെ ഗൗരവമായി കാണാൻ വിശ്വാസികളെ പ്രേരിപ്പിക്കുന്നു.",
+   "author": "മൂസ സ്വലാഹി, കാര",
+   "issue_date": "2018-11-03",
+   "html_url": "/ml/dawah/that-day-is-not-far-20181103-1.html",
+   "md_url": "/ml/dawah/that-day-is-not-far-20181103-1.md"
+  },
+  {
    "slug": "the-chemistry-of-unity-20170225-2",
    "lang": "ml",
    "category": "dawah",
@@ -9427,6 +9460,17 @@
    "issue_date": "2018-05-26",
    "html_url": "/ml/dawah/what-islam-demands-20180526-3.html",
    "md_url": "/ml/dawah/what-islam-demands-20180526-3.md"
+  },
+  {
+   "slug": "when-death-comes-early-20181103-5",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "മരണം നേരത്തെയെത്തുന്ന നേരം",
+   "summary": "മരണത്തെക്കുറിച്ചുള്ള ചിന്തകളും അപ്രതീക്ഷിതമായ ജീവിതാനുഭവങ്ങളും പങ്കുവെക്കുന്ന ലേഖനം. ജീവിതത്തിന്റെ അനിശ്ചിതത്വത്തെയും ദൈവസ്മരണയുടെ ആവശ്യകതയെയും ഇത് ചർച്ച ചെയ്യുന്നു.",
+   "author": "ഇബ്‌നു അലി എടത്തനാട്ടുകര",
+   "issue_date": "2018-11-03",
+   "html_url": "/ml/dawah/when-death-comes-early-20181103-5.html",
+   "md_url": "/ml/dawah/when-death-comes-early-20181103-5.md"
   },
   {
    "slug": "who-are-cultural-leaders-20180505-1",
@@ -10287,6 +10331,17 @@
    "md_url": "/ml/history/the-maturity-of-translation-and-its-echoes-20180922-6.md"
   },
   {
+   "slug": "the-role-of-non-muslims-in-quran-translation-20181103-3",
+   "lang": "ml",
+   "category": "history",
+   "title": "ക്വുര്‍ആന്‍ വിവര്‍ത്തന രംഗത്ത് അമുസ്‌ലിംകളുടെ പങ്ക്",
+   "summary": "മലയാളത്തിൽ ഖുർആൻ വിവർത്തനങ്ങൾ നടന്നുവന്ന ചരിത്രത്തെക്കുറിച്ചുള്ള പരമ്പരയുടെ ഭാഗമാണിത്. ഖുർആൻ വിവർത്തന രംഗത്ത് അമുസ്‌ലിംകൾ നൽകിയ സംഭാവനകളെയും ഇടപെടലുകളെയും ചരിത്രപരമായി വിശകലനം ചെയ്യുന്നു.",
+   "author": "ശൈഖ് മുഹമ്മദ് അശ്‌റഫ് അലി അല്‍മലബാരി",
+   "issue_date": "2018-11-03",
+   "html_url": "/ml/history/the-role-of-non-muslims-in-quran-translation-20181103-3.html",
+   "md_url": "/ml/history/the-role-of-non-muslims-in-quran-translation-20181103-3.md"
+  },
+  {
    "slug": "the-scholar-who-broke-the-edge-of-rationalism-20180811-11",
    "lang": "ml",
    "category": "history",
@@ -10628,6 +10683,17 @@
    "md_url": "/ml/opinion/kerala-is-weeping-20180901-4.md"
   },
   {
+   "slug": "legal-literacy-20181103-7",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "നിയമ സാക്ഷരത",
+   "summary": "നിയമപരമായ അവകാശങ്ങളെക്കുറിച്ചും നിയമസേവന അതോറിറ്റികളുടെ പ്രവർത്തനങ്ങളെക്കുറിച്ചും പൊതുജനങ്ങളെ ബോധവൽക്കരിക്കുന്ന ലേഖനം. നിയമസാക്ഷരതയുടെ പ്രാധാന്യം ഇതിൽ ഊന്നിപ്പറയുന്നു.",
+   "author": "മുസാഫിര്‍",
+   "issue_date": "2018-11-03",
+   "html_url": "/ml/opinion/legal-literacy-20181103-7.html",
+   "md_url": "/ml/opinion/legal-literacy-20181103-7.md"
+  },
+  {
    "slug": "legal-services-authority-act-20181027-9",
    "lang": "ml",
    "category": "opinion",
@@ -10837,6 +10903,17 @@
    "md_url": "/ml/opinion/the-currency-no-one-accepts-20170114-3.md"
   },
   {
+   "slug": "the-eighteenth-step-of-women-s-freedom-or-the-call-for-relig-20181103-9",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "സ്ത്രീ സ്വാതന്ത്ര്യത്തിന്റെ പതിനെട്ടാം പടിയോ? മത സ്വാതന്ത്ര്യത്തിന്റെ ശരണം വിളിയോ?!",
+   "summary": "ശബരിമല വിഷയത്തെ മുൻനിർത്തി സ്ത്രീ സ്വാതന്ത്ര്യത്തെയും മതസ്വാതന്ത്ര്യത്തെയും കുറിച്ചുള്ള സമകാലിക ചർച്ചകളെ ഈ ലേഖനം വിശകലനം ചെയ്യുന്നു. കോടതിവിധികളും വിശ്വാസവും തമ്മിലുള്ള സംഘർഷങ്ങളെ രാഷ്ട്രീയ പശ്ചാത്തലത്തിൽ പരിശോധിക്കുന്നു.",
+   "author": "സുഫ്‌യാന്‍ അബ്ദുസ്സലാം",
+   "issue_date": "2018-11-03",
+   "html_url": "/ml/opinion/the-eighteenth-step-of-women-s-freedom-or-the-call-for-relig-20181103-9.html",
+   "md_url": "/ml/opinion/the-eighteenth-step-of-women-s-freedom-or-the-call-for-relig-20181103-9.md"
+  },
+  {
    "slug": "the-politics-of-conversion-and-denial-of-rights-20181020-4",
    "lang": "ml",
    "category": "opinion",
@@ -10857,6 +10934,17 @@
    "issue_date": "2018-09-15",
    "html_url": "/ml/opinion/the-rains-of-collective-goodness-20180915-1.html",
    "md_url": "/ml/opinion/the-rains-of-collective-goodness-20180915-1.md"
+  },
+  {
+   "slug": "the-secrets-of-advertisements-20181103-8",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "പരസ്യങ്ങളുടെ രഹസ്യങ്ങള്‍",
+   "summary": "പരസ്യങ്ങൾ എങ്ങനെയാണ് ഉപഭോക്താക്കളെ സ്വാധീനിക്കുന്നതെന്നും വ്യാപാരതന്ത്രങ്ങളുടെ പിന്നിലെ രഹസ്യങ്ങളെക്കുറിച്ചും ഈ ലേഖനം വിശകലനം ചെയ്യുന്നു. ഉപഭോക്തൃ സമൂഹത്തിന്റെ മനോഭാവത്തെ ഇത് വിമർശനാത്മകമായി നോക്കിക്കാണുന്നു.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2018-11-03",
+   "html_url": "/ml/opinion/the-secrets-of-advertisements-20181103-8.html",
+   "md_url": "/ml/opinion/the-secrets-of-advertisements-20181103-8.md"
   },
   {
    "slug": "the-sedition-law-that-wields-the-uapa-stick-20170114-9",
@@ -11352,6 +11440,17 @@
    "issue_date": "2017-02-25",
    "html_url": "/ml/seerah/prophet-muhammad-pbuh-life-and-message-20170225-8.html",
    "md_url": "/ml/seerah/prophet-muhammad-pbuh-life-and-message-20170225-8.md"
+  },
+  {
+   "slug": "prophet-muhammad-pbuh-the-perfect-model-for-humanity-20181103-6",
+   "lang": "ml",
+   "category": "seerah",
+   "title": "മുഹമ്മദ് നബിﷺ: മാനവതയുടെ സമ്പൂര്‍ണ മാതൃക",
+   "summary": "മുഹമ്മദ് നബി(സ)യുടെ ജീവിതം എങ്ങനെയാണ് മാനവരാശിക്ക് സമ്പൂർണ്ണ മാതൃകയാകുന്നതെന്ന് ഈ ലേഖനം വിശദീകരിക്കുന്നു. ഭരണരംഗത്തും സാമൂഹിക ജീവിതത്തിലും പ്രവാചകന്റെ മാതൃകകൾ എടുത്തുപറയുന്നു.",
+   "author": "ശരീഫ് കാര",
+   "issue_date": "2018-11-03",
+   "html_url": "/ml/seerah/prophet-muhammad-pbuh-the-perfect-model-for-humanity-20181103-6.html",
+   "md_url": "/ml/seerah/prophet-muhammad-pbuh-the-perfect-model-for-humanity-20181103-6.md"
   },
   {
    "slug": "prophet-musa-a-s-20180428-4",
@@ -11869,6 +11968,17 @@
    "issue_date": "2018-04-21",
    "html_url": "/ml/story/the-girl-with-the-red-scarf-20180421-3.html",
    "md_url": "/ml/story/the-girl-with-the-red-scarf-20180421-3.md"
+  },
+  {
+   "slug": "the-lesson-taught-by-the-son-20181103-4",
+   "lang": "ml",
+   "category": "story",
+   "title": "മകന്‍ പഠിപ്പിച്ച പാഠം",
+   "summary": "ഒരു പിതാവും മകനും തമ്മിലുള്ള സംഭാഷണത്തിലൂടെ ജീവിതത്തിലെ ലളിതമായ സത്യങ്ങളെയും മൂല്യങ്ങളെയും ബോധ്യപ്പെടുത്തുന്ന ഒരു കഥയാണിത്. സമ്പന്നതയ്ക്കും ദാരിദ്ര്യത്തിനുമപ്പുറമുള്ള കാഴ്ചപ്പാടുകൾ ഇതിൽ പങ്കുവെക്കുന്നു.",
+   "author": "ഉസ്മാന്‍ പാലക്കാഴി",
+   "issue_date": "2018-11-03",
+   "html_url": "/ml/story/the-lesson-taught-by-the-son-20181103-4.html",
+   "md_url": "/ml/story/the-lesson-taught-by-the-son-20181103-4.md"
   },
   {
    "slug": "the-one-who-tied-and-killed-the-cat-20180915-5",
