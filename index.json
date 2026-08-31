@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-31T08:58:49.875116+00:00",
+ "generated_at": "2026-08-31T08:59:29.585791+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2151,
+ "count": 2152,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -22660,6 +22660,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/uz/family/our-parents-20170325-4.html",
    "md_url": "/uz/family/our-parents-20170325-4.md"
+  },
+  {
+   "slug": "the-methodology-of-conduct-20170128-8",
+   "lang": "uz",
+   "category": "family",
+   "title": "Xulq-atvor metodologiyasi",
+   "summary": "Farzand tarbiyasida yuksaklikka intilayotgan mo‘minlar o‘zlashtirishi lozim bo‘lgan fazilatlar haqidagi turkum maqolaning davomi. Unda bolalar bilan muomala qilish usullari va odatlari muhokama qilinadi.",
+   "author": "അഷ്‌റഫ്‌ എകരൂൽ",
+   "issue_date": "2017-01-28",
+   "html_url": "/uz/family/the-methodology-of-conduct-20170128-8.html",
+   "md_url": "/uz/family/the-methodology-of-conduct-20170128-8.md"
   },
   {
    "slug": "mosque-construction-some-points-to-note-20170325-5",
