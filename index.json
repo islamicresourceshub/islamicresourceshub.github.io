@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-31T11:04:30.581867+00:00",
+ "generated_at": "2026-08-31T11:07:41.233674+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2385,
+ "count": 2395,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -9847,6 +9847,17 @@
    "md_url": "/ml/dawah/do-not-be-slaves-to-desires-20170211-11.md"
   },
   {
+   "slug": "do-not-buy-hell-with-your-tongue-20190706-8",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "നാവ് കൊണ്ട് നരകം വാങ്ങരുത്",
+   "summary": "നാവിന്റെ ഉപയോഗം വഴി മനുഷ്യന് വന്നുചേരാവുന്ന വിപത്തുകളെക്കുറിച്ചും നാവുകൊണ്ട് നരകം സമ്പാദിക്കാതിരിക്കാനുള്ള ജാഗ്രതയെക്കുറിച്ചും ഓര്‍മ്മിപ്പിക്കുന്നു.",
+   "author": "ജാസിദ് ജാമിഅ അല്‍ഹിന്ദ്",
+   "issue_date": "2019-07-06",
+   "html_url": "/ml/dawah/do-not-buy-hell-with-your-tongue-20190706-8.html",
+   "md_url": "/ml/dawah/do-not-buy-hell-with-your-tongue-20190706-8.md"
+  },
+  {
    "slug": "do-not-commit-violence-against-nature-20181110-2",
    "lang": "ml",
    "category": "dawah",
@@ -10573,6 +10584,17 @@
    "md_url": "/ml/dawah/the-beauty-of-islam-20190608-4.md"
   },
   {
+   "slug": "the-bible-and-pagan-writings-20190706-2",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "ബൈബിളും വിജാതീയ രചനകളും",
+   "summary": "ബൈബിളിന്റെ ആധികാരികതയെക്കുറിച്ചും മിഷണറി സാഹിത്യങ്ങളിലെ തെറ്റിദ്ധാരണകളെക്കുറിച്ചും ക്വുര്‍ആനിക വീക്ഷണത്തിലൂടെയുള്ള വിശകലനം.",
+   "author": "ഉസ്മാന്‍ പാലക്കാഴി",
+   "issue_date": "2019-07-06",
+   "html_url": "/ml/dawah/the-bible-and-pagan-writings-20190706-2.html",
+   "md_url": "/ml/dawah/the-bible-and-pagan-writings-20190706-2.md"
+  },
+  {
    "slug": "the-chemistry-of-unity-20170225-2",
    "lang": "ml",
    "category": "dawah",
@@ -10747,6 +10769,17 @@
    "issue_date": "2018-11-24",
    "html_url": "/ml/dawah/the-petitioner-s-prayer-and-the-respondent-s-amen-20181124-10.html",
    "md_url": "/ml/dawah/the-petitioner-s-prayer-and-the-respondent-s-amen-20181124-10.md"
+  },
+  {
+   "slug": "the-purpose-of-worship-20190706-1",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "ആരാധനകളുടെ ലക്ഷ്യം",
+   "summary": "ആരാധനകളുടെ പ്രധാന ലക്ഷ്യം മനസ്സിന്റെ സംസ്‌കരണമാണെന്ന് ലേഖനം വ്യക്തമാക്കുന്നു. ബാഹ്യമായ ആരാധനകള്‍ക്കപ്പുറം ആന്തരികമായ മാറ്റത്തിനാണ് പ്രാധാന്യം നല്‍കേണ്ടത്.",
+   "author": "സുഫ്‌യാന്‍ അബ്ദുസ്സലാം",
+   "issue_date": "2019-07-06",
+   "html_url": "/ml/dawah/the-purpose-of-worship-20190706-1.html",
+   "md_url": "/ml/dawah/the-purpose-of-worship-20190706-1.md"
   },
   {
    "slug": "the-relevance-of-cleanliness-20180428-13",
@@ -11585,6 +11618,17 @@
    "md_url": "/ml/family/water-and-life-20170225-5.md"
   },
   {
+   "slug": "ways-to-a-contented-life-20190706-10",
+   "lang": "ml",
+   "category": "family",
+   "title": "സംതൃപ്ത ജീവിതത്തിന്റെ വഴികള്‍",
+   "summary": "ജീവിതത്തില്‍ സന്തോഷവും സംതൃപ്തിയും കൈവരിക്കാനുള്ള വഴികളെക്കുറിച്ചും മാനസികമായ സന്തുലിതാവസ്ഥയെക്കുറിച്ചും പ്രതിപാദിക്കുന്നു.",
+   "author": "അജ്മല്‍ കോട്ടയം, ജാമിഅ അല്‍ഹിന്ദ്",
+   "issue_date": "2019-07-06",
+   "html_url": "/ml/family/ways-to-a-contented-life-20190706-10.html",
+   "md_url": "/ml/family/ways-to-a-contented-life-20190706-10.md"
+  },
+  {
    "slug": "welcoming-the-newborn-20170225-9",
    "lang": "ml",
    "category": "family",
@@ -12025,6 +12069,17 @@
    "md_url": "/ml/hadith/following-the-prophetic-sunnah-is-mandatory-20180825-9.md"
   },
   {
+   "slug": "khabarul-ahad-criticisms-and-facts-20190706-5",
+   "lang": "ml",
+   "category": "hadith",
+   "title": "ഖബറുല്‍ ആഹാദ്: വിമര്‍ശനങ്ങളും വസ്തുതകളും",
+   "summary": "ഇസ്‌ലാമിക പ്രമാണങ്ങളില്‍ ഒന്നായ സുന്നത്തിനെക്കുറിച്ചും 'ഖബറുല്‍ ആഹാദ്' എന്ന ഹദീസ് വിഭാഗത്തെക്കുറിച്ചുള്ള വിമര്‍ശനങ്ങള്‍ക്കുള്ള മറുപടിയും.",
+   "author": "ശമീര്‍ മദീനി",
+   "issue_date": "2019-07-06",
+   "html_url": "/ml/hadith/khabarul-ahad-criticisms-and-facts-20190706-5.html",
+   "md_url": "/ml/hadith/khabarul-ahad-criticisms-and-facts-20190706-5.md"
+  },
+  {
    "slug": "mocking-the-sunnah-20190420-5",
    "lang": "ml",
    "category": "hadith",
@@ -12122,6 +12177,17 @@
    "issue_date": "2026-08-22",
    "html_url": "/ml/health/know-this-for-those-caring-for-the-sick-20260822-1.html",
    "md_url": "/ml/health/know-this-for-those-caring-for-the-sick-20260822-1.md"
+  },
+  {
+   "slug": "living-to-eat-20190706-3",
+   "lang": "ml",
+   "category": "health",
+   "title": "ഭക്ഷിക്കുവാനായി ജീവിക്കുകയോ?",
+   "summary": "അമിതഭക്ഷണം മൂലമുണ്ടാകുന്ന ആരോഗ്യപ്രശ്നങ്ങളെക്കുറിച്ചും മിതത്വത്തിന്റെ ആവശ്യകതയെക്കുറിച്ചും പ്രതിപാദിക്കുന്നു.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2019-07-06",
+   "html_url": "/ml/health/living-to-eat-20190706-3.html",
+   "md_url": "/ml/health/living-to-eat-20190706-3.md"
   },
   {
    "slug": "nipah-virus-infection-caution-not-fear-is-needed-20180609-7",
@@ -14159,6 +14225,17 @@
    "md_url": "/ml/quran/iqra-read-20180623-3.md"
   },
   {
+   "slug": "methodology-of-quranic-interpretation-20190706-7",
+   "lang": "ml",
+   "category": "quran",
+   "title": "ക്വുര്‍ആന്‍ വ്യാഖ്യാനത്തിന്റെ രീതിശാസ്ത്രം",
+   "summary": "വിശുദ്ധ ക്വുര്‍ആന്‍ വ്യാഖ്യാനിക്കുന്നതിന് പാലിക്കേണ്ട അടിസ്ഥാന തത്വങ്ങളും രീതിശാസ്ത്രവും വിശദീകരിക്കുന്നു.",
+   "author": "അബൂബക്കര്‍ സലഫി",
+   "issue_date": "2019-07-06",
+   "html_url": "/ml/quran/methodology-of-quranic-interpretation-20190706-7.html",
+   "md_url": "/ml/quran/methodology-of-quranic-interpretation-20190706-7.md"
+  },
+  {
    "slug": "parables-of-the-hypocrites-20180623-5",
    "lang": "ml",
    "category": "quran",
@@ -14355,6 +14432,17 @@
    "issue_date": "2019-06-29",
    "html_url": "/ml/quran/surah-al-qiyamah-tafsir-part-1-20190629-1.html",
    "md_url": "/ml/quran/surah-al-qiyamah-tafsir-part-1-20190629-1.md"
+  },
+  {
+   "slug": "surah-al-qiyamah-tafsir-part-2-20190706-4",
+   "lang": "ml",
+   "category": "quran",
+   "title": "ഖിയാമ (ഉയിര്‍ത്തെഴുന്നേല്‍പ്)",
+   "summary": "വിശുദ്ധ ക്വുര്‍ആനിലെ 75-ാം അധ്യായമായ ഖിയാമയുടെ വിശദീകരണം. വചനങ്ങളുടെ അര്‍ത്ഥവും ആശയങ്ങളും ഇവിടെ ചര്‍ച്ച ചെയ്യുന്നു.",
+   "author": "അബ്ദുറഹ്മാന്‍ നാസിര്‍ അസ്സഅദി",
+   "issue_date": "2019-07-06",
+   "html_url": "/ml/quran/surah-al-qiyamah-tafsir-part-2-20190706-4.html",
+   "md_url": "/ml/quran/surah-al-qiyamah-tafsir-part-2-20190706-4.md"
   },
   {
    "slug": "surah-an-naba-tafsir-part-2-20190216-2",
@@ -14740,6 +14828,17 @@
    "issue_date": "2018-08-18",
    "html_url": "/ml/seerah/not-an-individual-but-a-movement-20180818-12.html",
    "md_url": "/ml/seerah/not-an-individual-but-a-movement-20180818-12.md"
+  },
+  {
+   "slug": "on-the-path-of-resistance-20190706-9",
+   "lang": "ml",
+   "category": "seerah",
+   "title": "പ്രതിരോധത്തിന്റെ വഴിയില്‍",
+   "summary": "പ്രവാചക ചരിത്രത്തിലെ ജിഹാദിനുള്ള അനുമതിയും അതിന്റെ പശ്ചാത്തലവും വിശദീകരിക്കുന്ന ലേഖനം.",
+   "author": "ഫദ്‌ലുല്‍ ഹഖ് ഉമരി",
+   "issue_date": "2019-07-06",
+   "html_url": "/ml/seerah/on-the-path-of-resistance-20190706-9.html",
+   "md_url": "/ml/seerah/on-the-path-of-resistance-20190706-9.md"
   },
   {
    "slug": "prophet-ilyas-as-20190302-4",
@@ -15576,6 +15675,17 @@
    "issue_date": "2019-03-30",
    "html_url": "/ml/story/divine-signs-20190330-3.html",
    "md_url": "/ml/story/divine-signs-20190330-3.md"
+  },
+  {
+   "slug": "do-some-business-too-teacher-20190706-6",
+   "lang": "ml",
+   "category": "story",
+   "title": "കുറച്ച് കച്ചവടവും പഠിക്ക് മാഷേ...!",
+   "summary": "സ്‌കൂളില്‍ വെച്ച് കച്ചവടം നടത്തിയ കുട്ടികളെക്കുറിച്ചുള്ള രസകരമായ ഒരു കഥ. കുട്ടികളുടെ നിഷ്കളങ്കതയും അധ്യാപകന്റെ ഇടപെടലും ഇതില്‍ വിവരിക്കുന്നു.",
+   "author": "സലാം സുറുമ എടത്തനാട്ടുകര",
+   "issue_date": "2019-07-06",
+   "html_url": "/ml/story/do-some-business-too-teacher-20190706-6.html",
+   "md_url": "/ml/story/do-some-business-too-teacher-20190706-6.md"
   },
   {
    "slug": "drinking-water-20190406-5",
