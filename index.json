@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-31T10:12:23.138966+00:00",
+ "generated_at": "2026-08-31T10:12:56.810853+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2285,
+ "count": 2286,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -20636,6 +20636,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/sq/youth/what-will-the-waste-do-20170114-5.html",
    "md_url": "/sq/youth/what-will-the-waste-do-20170114-5.md"
+  },
+  {
+   "slug": "become-the-guardian-of-the-sources-20170128-9",
+   "lang": "sw",
+   "category": "aqeedah",
+   "title": "Kuwa Mlinzi wa Vyanzo vya Dini",
+   "summary": "Makala hii inaelezea uungu na ushindi wa vyanzo vya Uislamu pamoja na tofauti yake na dini nyingine. Inakumbusha umuhimu wa kulinda Qur'an na Sunnah katika zama hizi.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2017-01-28",
+   "html_url": "/sw/aqeedah/become-the-guardian-of-the-sources-20170128-9.html",
+   "md_url": "/sw/aqeedah/become-the-guardian-of-the-sources-20170128-9.md"
   },
   {
    "slug": "do-not-waver-in-trials-20170121-9",
