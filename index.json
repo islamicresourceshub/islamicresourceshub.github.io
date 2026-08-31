@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-31T08:33:16.568340+00:00",
+ "generated_at": "2026-08-31T08:33:49.634362+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2083,
+ "count": 2084,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -7447,6 +7447,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/ja/family/our-parents-20170325-4.html",
    "md_url": "/ja/family/our-parents-20170325-4.md"
+  },
+  {
+   "slug": "the-methodology-of-conduct-20170128-8",
+   "lang": "ja",
+   "category": "family",
+   "title": "振る舞いの方法論",
+   "summary": "子育てにおいて卓越を目指す信仰者が、自らの内に育むべき資質についての連載記事です。子供たちに対する接し方や習慣について論じています。",
+   "author": "അഷ്‌റഫ്‌ എകരൂൽ",
+   "issue_date": "2017-01-28",
+   "html_url": "/ja/family/the-methodology-of-conduct-20170128-8.html",
+   "md_url": "/ja/family/the-methodology-of-conduct-20170128-8.md"
   },
   {
    "slug": "mosque-construction-some-points-to-note-20170325-5",
