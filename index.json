@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-31T11:12:39.344984+00:00",
+ "generated_at": "2026-08-31T11:17:12.392154+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2413,
+ "count": 2423,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -10078,6 +10078,17 @@
    "md_url": "/ml/dawah/ideology-is-paramount-20180804-2.md"
   },
   {
+   "slug": "is-suicide-a-problem-or-a-solution-20190720-1",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "ആത്മഹത്യ പ്രശ്‌നമോ പരിഹാരമോ?",
+   "summary": "വര്‍ധിച്ചുവരുന്ന ആത്മഹത്യാ പ്രവണതയെ ഇസ്‌ലാമിക വീക്ഷണകോണിലൂടെ വിശകലനം ചെയ്യുന്നു. ജീവിതത്തിലെ പ്രതിസന്ധികളെ തരണം ചെയ്യാനും മാനസികാരോഗ്യം നിലനിര്‍ത്താനും വിശ്വാസിക്ക് സാധിക്കേണ്ടതെങ്ങനെയെന്ന് ലേഖനം വിശദീകരിക്കുന്നു.",
+   "author": "നബീല്‍ പയ്യോളി",
+   "issue_date": "2019-07-20",
+   "html_url": "/ml/dawah/is-suicide-a-problem-or-a-solution-20190720-1.html",
+   "md_url": "/ml/dawah/is-suicide-a-problem-or-a-solution-20190720-1.md"
+  },
+  {
    "slug": "is-the-mobile-phone-meant-for-cheating-20190216-7",
    "lang": "ml",
    "category": "dawah",
@@ -11288,6 +11299,17 @@
    "md_url": "/ml/family/fading-marital-bonds-20181201-4.md"
   },
   {
+   "slug": "father-as-an-atm-machine-20190720-10",
+   "lang": "ml",
+   "category": "family",
+   "title": "പിതാവെന്ന എ.ടി.എം യന്ത്രം!",
+   "summary": "കുടുംബബന്ധങ്ങളിലെ വിള്ളലുകളെയും പിതാവിനെ കേവലം സാമ്പത്തിക സ്രോതസ്സായി മാത്രം കാണുന്ന പ്രവണതയെയും വിമര്‍ശിക്കുന്നു. കുടുംബത്തിലെ സ്നേഹബന്ധങ്ങളുടെ മൂല്യത്തെക്കുറിച്ച് ലേഖനം ഓര്‍മ്മിപ്പിക്കുന്നു.",
+   "author": "ഇബ്‌നു അലി എടത്തനാട്ടുകര",
+   "issue_date": "2019-07-20",
+   "html_url": "/ml/family/father-as-an-atm-machine-20190720-10.html",
+   "md_url": "/ml/family/father-as-an-atm-machine-20190720-10.md"
+  },
+  {
    "slug": "forgotten-in-the-heat-of-exams-20190323-6",
    "lang": "ml",
    "category": "family",
@@ -12012,6 +12034,17 @@
    "issue_date": "2018-08-04",
    "html_url": "/ml/fiqh/the-consumer-and-the-law-20180804-12.html",
    "md_url": "/ml/fiqh/the-consumer-and-the-law-20180804-12.md"
+  },
+  {
+   "slug": "the-danger-of-debt-20190720-5",
+   "lang": "ml",
+   "category": "fiqh",
+   "title": "കടത്തിലെ അപകടം!",
+   "summary": "ഇസ്‌ലാം സാമ്പത്തിക ഇടപാടുകളില്‍ നല്‍കുന്ന പ്രാധാന്യത്തെയും കടം വാങ്ങുന്നതിലെ ഗൗരവത്തെയും കുറിച്ച് ചര്‍ച്ച ചെയ്യുന്നു. വിശ്വാസികള്‍ സാമ്പത്തിക കാര്യങ്ങളില്‍ പുലര്‍ത്തേണ്ട സൂക്ഷ്മതയെക്കുറിച്ച് ലേഖനം മുന്നറിയിപ്പ് നല്‍കുന്നു.",
+   "author": "ടി.കെ ത്വല്‍ഹത്ത് സ്വലാഹി",
+   "issue_date": "2019-07-20",
+   "html_url": "/ml/fiqh/the-danger-of-debt-20190720-5.html",
+   "md_url": "/ml/fiqh/the-danger-of-debt-20190720-5.md"
   },
   {
    "slug": "the-limit-of-profit-in-trade-20181110-4",
@@ -13433,6 +13466,17 @@
    "md_url": "/ml/opinion/muslim-extremists-defame-islam-20170114-7.md"
   },
   {
+   "slug": "new-media-and-verbal-violence-20190720-8",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "നവമാധ്യമങ്ങളും 'വാചക പാതകവും'",
+   "summary": "നവമാധ്യമങ്ങളിലെ അസഭ്യപ്രയോഗങ്ങളെയും വിദ്വേഷ പ്രചാരണങ്ങളെയും വിമര്‍ശിക്കുന്നു. സോഷ്യല്‍ മീഡിയ ഉപയോഗിക്കുമ്പോള്‍ പാലിക്കേണ്ട മാന്യതയെക്കുറിച്ചും ധാര്‍മ്മികതയെക്കുറിച്ചും ലേഖനം ഓര്‍മ്മിപ്പിക്കുന്നു.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2019-07-20",
+   "html_url": "/ml/opinion/new-media-and-verbal-violence-20190720-8.html",
+   "md_url": "/ml/opinion/new-media-and-verbal-violence-20190720-8.md"
+  },
+  {
    "slug": "none-should-forget-the-path-they-came-from-20170225-13",
    "lang": "ml",
    "category": "opinion",
@@ -13972,6 +14016,17 @@
    "md_url": "/ml/opinion/warning-signs-from-the-reconstruction-of-history-20170114-2.md"
   },
   {
+   "slug": "warnings-are-not-to-be-ignored-20190720-6",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "മുന്നറിയിപ്പുകള്‍ അവഗണിക്കാനുള്ളതല്ല",
+   "summary": "പ്രകൃതിദുരന്തങ്ങളുടെയും മുന്നറിയിപ്പുകളുടെയും പശ്ചാത്തലത്തില്‍ മനുഷ്യന്‍ സ്വീകരിക്കേണ്ട ജാഗ്രതയെക്കുറിച്ച് പ്രതിപാദിക്കുന്നു. പ്രകൃതിയിലെ മാറ്റങ്ങളെ ഗൗരവമായി കാണേണ്ടതിന്റെ ആവശ്യകത വ്യക്തമാക്കുന്നു.",
+   "author": "മുഹമ്മദ് ശമീല്‍",
+   "issue_date": "2019-07-20",
+   "html_url": "/ml/opinion/warnings-are-not-to-be-ignored-20190720-6.html",
+   "md_url": "/ml/opinion/warnings-are-not-to-be-ignored-20190720-6.md"
+  },
+  {
    "slug": "water-murmurs-20170401-6",
    "lang": "ml",
    "category": "opinion",
@@ -14289,6 +14344,17 @@
    "issue_date": "2018-06-23",
    "html_url": "/ml/quran/iqra-read-20180623-3.html",
    "md_url": "/ml/quran/iqra-read-20180623-3.md"
+  },
+  {
+   "slug": "learning-methods-from-the-quran-20190720-9",
+   "lang": "ml",
+   "category": "quran",
+   "title": "പഠന ബോധന മാര്‍ഗങ്ങള്‍ ക്വുര്‍ആനില്‍ നിന്ന്",
+   "summary": "ഖുര്‍ആനികാധ്യാപനങ്ങളിലൂടെയുള്ള പഠനരീതികളെക്കുറിച്ചുള്ള പരമ്പരയുടെ രണ്ടാം ഭാഗം. വിവരങ്ങളെ അപ്പടി സ്വീകരിക്കാതെ ചിന്തിച്ചു പഠിക്കേണ്ടതിന്റെ ആവശ്യകതയെക്കുറിച്ച് ചര്‍ച്ച ചെയ്യുന്നു.",
+   "author": "ഡോ. അബ്ദുറസാഖ് സുല്ലമി",
+   "issue_date": "2019-07-20",
+   "html_url": "/ml/quran/learning-methods-from-the-quran-20190720-9.html",
+   "md_url": "/ml/quran/learning-methods-from-the-quran-20190720-9.md"
   },
   {
    "slug": "methodology-of-quranic-interpretation-20190706-7",
@@ -14762,6 +14828,17 @@
    "issue_date": "2018-08-11",
    "html_url": "/ml/seerah/after-the-destruction-of-pharaoh-20180811-6.html",
    "md_url": "/ml/seerah/after-the-destruction-of-pharaoh-20180811-6.md"
+  },
+  {
+   "slug": "become-the-beloved-servants-of-allah-20190720-2",
+   "lang": "ml",
+   "category": "seerah",
+   "title": "അല്ലാഹുവിന്റെ ഇഷ്ടദാസന്മാരാവുക",
+   "summary": "ഖൈബര്‍ യുദ്ധത്തിന് മുന്നോടിയായുള്ള നബി(സ)യുടെയും സ്വഹാബത്തിന്റെയും ഒരുക്കങ്ങളെക്കുറിച്ചുള്ള ചരിത്രപരമായ വിവരണം. അല്ലാഹുവിന്റെ ഇഷ്ടദാസന്മാരായി മാറാനുള്ള വഴികള്‍ ഇതിലൂടെ വ്യക്തമാക്കുന്നു.",
+   "author": "സിയാദ് വയനാട്, ജാമിഅ അല്‍ഹിന്ദ്",
+   "issue_date": "2019-07-20",
+   "html_url": "/ml/seerah/become-the-beloved-servants-of-allah-20190720-2.html",
+   "md_url": "/ml/seerah/become-the-beloved-servants-of-allah-20190720-2.md"
   },
   {
    "slug": "can-prophethood-be-attained-by-desire-20170218-1",
@@ -15556,6 +15633,17 @@
    "md_url": "/ml/seerah/to-the-tribes-with-the-message-20190413-7.md"
   },
   {
+   "slug": "towards-badr-20190720-4",
+   "lang": "ml",
+   "category": "seerah",
+   "title": "ബദ്‌റിലേക്ക്...",
+   "summary": "ഹിജ്‌റ രണ്ടാം വര്‍ഷം നടന്ന സുപ്രധാന സംഭവങ്ങളെയും ബദ്ര്‍ യുദ്ധത്തിന്റെ പശ്ചാത്തലത്തെയും കുറിച്ചുള്ള ചരിത്രപരമായ വിശകലനം. നോമ്പ് നിര്‍ബന്ധമാക്കപ്പെട്ട കാലഘട്ടത്തെക്കുറിച്ചും ഇതില്‍ പരാമര്‍ശിക്കുന്നു.",
+   "author": "ഫദ്‌ലുല്‍ ഹഖ് ഉമരി",
+   "issue_date": "2019-07-20",
+   "html_url": "/ml/seerah/towards-badr-20190720-4.html",
+   "md_url": "/ml/seerah/towards-badr-20190720-4.md"
+  },
+  {
    "slug": "wanderers-in-the-desert-musa-nabi-20-20180915-3",
    "lang": "ml",
    "category": "seerah",
@@ -16194,6 +16282,17 @@
    "md_url": "/ml/story/the-currency-that-was-not-accepted-20170114-3.md"
   },
   {
+   "slug": "the-day-of-judgment-20190720-3",
+   "lang": "ml",
+   "category": "story",
+   "title": "അന്ത്യനാള്‍",
+   "summary": "അന്ത്യനാളിനെക്കുറിച്ചും പരലോക ചിന്തയെക്കുറിച്ചും ഓര്‍മ്മിപ്പിക്കുന്ന ഒരു കാവ്യാവിഷ്കാരം. വിശ്വാസിയുടെ ഹൃദയത്തില്‍ ഈമാനിന്റെ വെളിച്ചം നിറയ്ക്കാന്‍ ഈ വരികള്‍ സഹായിക്കുന്നു.",
+   "author": "ഉസ്മാന്‍ പാലക്കാഴി",
+   "issue_date": "2019-07-20",
+   "html_url": "/ml/story/the-day-of-judgment-20190720-3.html",
+   "md_url": "/ml/story/the-day-of-judgment-20190720-3.md"
+  },
+  {
    "slug": "the-destruction-of-the-elephant-army-20181110-1",
    "lang": "ml",
    "category": "story",
@@ -16489,6 +16588,17 @@
    "issue_date": "2018-08-11",
    "html_url": "/ml/youth/for-the-learners-20180811-5.html",
    "md_url": "/ml/youth/for-the-learners-20180811-5.md"
+  },
+  {
+   "slug": "respect-the-elders-20190720-7",
+   "lang": "ml",
+   "category": "youth",
+   "title": "മുതിര്‍ന്നവരെ ആദരിക്കുക",
+   "summary": "കുട്ടികള്‍ക്ക് മുതിര്‍ന്നവരോട് എങ്ങനെ പെരുമാറണം എന്നതിനെക്കുറിച്ചുള്ള ലളിതമായ ഉപദേശം. മാതാപിതാക്കളെയും അധ്യാപകരെയും ആദരിക്കേണ്ടതിന്റെ പ്രാധാന്യം ഇതില്‍ വിവരിക്കുന്നു.",
+   "author": "സമീര്‍ മുണ്ടേരി",
+   "issue_date": "2019-07-20",
+   "html_url": "/ml/youth/respect-the-elders-20190720-7.html",
+   "md_url": "/ml/youth/respect-the-elders-20190720-7.md"
   },
   {
    "slug": "sabir-s-fast-20180519-11",
