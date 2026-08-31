@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-31T08:06:30.997624+00:00",
+ "generated_at": "2026-08-31T08:32:56.163944+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2073,
+ "count": 2082,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -8967,6 +8967,17 @@
    "md_url": "/ml/aqeedah/they-want-to-see-god-20170204-2.md"
   },
   {
+   "slug": "to-whom-did-they-pray-20190112-2",
+   "lang": "ml",
+   "category": "aqeedah",
+   "title": "അവര്‍ പ്രാര്‍ഥിച്ചത് ആരോട്?",
+   "summary": "ജിന്നുകളെയും മനുഷ്യരെയും അല്ലാഹുവിനെ ആരാധിക്കാന്‍ വേണ്ടി മാത്രമാണ് സൃഷ്ടിച്ചത് എന്ന ക്വുര്‍ആനിക വചനത്തെ അടിസ്ഥാനമാക്കി, ആരാധനയുടെ യഥാര്‍ത്ഥ അര്‍ത്ഥവും ലക്ഷ്യവും ഈ ലേഖനം ചര്‍ച്ച ചെയ്യുന്നു.",
+   "author": "മുനവര്‍ ഫൈറൂസ്",
+   "issue_date": "2019-01-12",
+   "html_url": "/ml/aqeedah/to-whom-did-they-pray-20190112-2.html",
+   "md_url": "/ml/aqeedah/to-whom-did-they-pray-20190112-2.md"
+  },
+  {
    "slug": "who-is-wrong-in-ideology-20260822-2",
    "lang": "ml",
    "category": "aqeedah",
@@ -9119,6 +9130,17 @@
    "issue_date": "2018-11-24",
    "html_url": "/ml/dawah/death-is-not-far-20181124-4.html",
    "md_url": "/ml/dawah/death-is-not-far-20181124-4.md"
+  },
+  {
+   "slug": "dignified-actions-20190112-1",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "അന്തസ്സാര്‍ന്ന പ്രവര്‍ത്തനങ്ങള്‍",
+   "summary": "അല്ലാഹുവിന്റെ നാമമായ 'അല്‍ജമീല്‍' എന്നതിനെ ആസ്പദമാക്കി, വിശ്വാസിയുടെ ജീവിതം എങ്ങനെ ഉല്‍കൃഷ്ടവും ഭംഗിയുള്ളതുമാക്കാം എന്ന് ഈ ലേഖനം വിവരിക്കുന്നു. അല്ലാഹുവിന്റെ ഗുണവിശേഷണങ്ങളെ ഉള്‍ക്കൊണ്ട് ജീവിതത്തെ ക്രമീകരിക്കേണ്ടതിന്റെ പ്രാധാന്യമാണ് ഇതിലെ പ്രതിപാദ്യം.",
+   "author": "അബൂയഹ്‌യാബിന്‍ മുഹമ്മദ് (ജാമിഅ അല്‍ഹിന്ദ്)",
+   "issue_date": "2019-01-12",
+   "html_url": "/ml/dawah/dignified-actions-20190112-1.html",
+   "md_url": "/ml/dawah/dignified-actions-20190112-1.md"
   },
   {
    "slug": "do-not-be-arrogant-20180421-8",
@@ -10276,6 +10298,17 @@
    "md_url": "/ml/family/ramadan-of-reformation-20180609-3.md"
   },
   {
+   "slug": "relationships-melting-in-the-heat-of-anger-20190112-5",
+   "lang": "ml",
+   "category": "family",
+   "title": "കോപച്ചൂടില്‍ ഉരുകുന്ന ബന്ധങ്ങള്‍",
+   "summary": "കോപം മനുഷ്യബന്ധങ്ങളെ എങ്ങനെ തകര്‍ക്കുന്നുവെന്നും, ഈ ദുഃസ്വഭാവത്തെ എങ്ങനെ നിയന്ത്രിക്കാമെന്നും ഈ ലേഖനം വിശദീകരിക്കുന്നു. കുടുംബജീവിതത്തിലും സാമൂഹിക ഇടപെടലുകളിലും കോപം വരുത്തുന്ന വിപത്തുകളെക്കുറിച്ച് മുന്നറിയിപ്പ് നല്‍കുന്നു.",
+   "author": "ഉസ്മാന്‍ പാലക്കാഴി",
+   "issue_date": "2019-01-12",
+   "html_url": "/ml/family/relationships-melting-in-the-heat-of-anger-20190112-5.html",
+   "md_url": "/ml/family/relationships-melting-in-the-heat-of-anger-20190112-5.md"
+  },
+  {
    "slug": "resolving-disputes-20181020-10",
    "lang": "ml",
    "category": "family",
@@ -10637,6 +10670,17 @@
    "issue_date": "2018-11-10",
    "html_url": "/ml/fiqh/the-limit-of-profit-in-trade-20181110-4.html",
    "md_url": "/ml/fiqh/the-limit-of-profit-in-trade-20181110-4.md"
+  },
+  {
+   "slug": "triple-talaq-and-total-talaq-20190112-7",
+   "lang": "ml",
+   "category": "fiqh",
+   "title": "മുത്ത്വലാക്വും മുഴുവന്‍ ത്വലാക്വും",
+   "summary": "മുസ്‌ലിം വ്യക്തിനിയമവുമായി ബന്ധപ്പെട്ട മുത്വലാഖ് വിഷയത്തെയും അതിലെ രാഷ്ട്രീയ ഇടപെടലുകളെയും ഈ ലേഖനം വിശകലനം ചെയ്യുന്നു. ഇസ്‌ലാമിക നിയമത്തിന്റെ കാഴ്ചപ്പാടില്‍ ഇതിനെ എങ്ങനെ കാണണം എന്ന് വ്യക്തമാക്കുന്നു.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2019-01-12",
+   "html_url": "/ml/fiqh/triple-talaq-and-total-talaq-20190112-7.html",
+   "md_url": "/ml/fiqh/triple-talaq-and-total-talaq-20190112-7.md"
   },
   {
    "slug": "zakat-a-rethinking-20180526-1",
@@ -11220,6 +11264,17 @@
    "issue_date": "2018-06-09",
    "html_url": "/ml/opinion/children-s-lesson-a-compassionate-heart-20180609-12.html",
    "md_url": "/ml/opinion/children-s-lesson-a-compassionate-heart-20180609-12.md"
+  },
+  {
+   "slug": "community-s-approach-to-religious-education-a-vazhakkadan-re-20190112-6",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "മതപഠനത്തോടുള്ള സമുദായത്തിന്റെ സമീപനം: ഒരു വാഴക്കാടന്‍ വായന",
+   "summary": "മതപഠനത്തോടുള്ള സമുദായത്തിന്റെ നിലവിലെ സമീപനങ്ങളെ വിമര്‍ശനാത്മകമായി പരിശോധിക്കുന്ന ലേഖനം. ക്വുര്‍ആനിന്റെ ചൈതന്യം ഉള്‍ക്കൊള്ളുന്നതില്‍ വരുത്തുന്ന വീഴ്ചകളെ ഇത് ചൂണ്ടിക്കാട്ടുന്നു.",
+   "author": "ഡോ. ചേക്കുമരക്കാരകത്ത് ഷാനവാസ്, പറവണ്ണ",
+   "issue_date": "2019-01-12",
+   "html_url": "/ml/opinion/community-s-approach-to-religious-education-a-vazhakkadan-re-20190112-6.html",
+   "md_url": "/ml/opinion/community-s-approach-to-religious-education-a-vazhakkadan-re-20190112-6.md"
   },
   {
    "slug": "criminal-law-amendments-20181222-6",
@@ -12014,6 +12069,17 @@
    "md_url": "/ml/quran/al-inshiqaq-the-sundering-20181229-4.md"
   },
   {
+   "slug": "al-mutaffifin-those-who-give-less-in-measure-20190112-4",
+   "lang": "ml",
+   "category": "quran",
+   "title": "മുത്വഫ്ഫീന്‍ (അളവില്‍ കമ്മി വരുത്തുന്നവര്‍)",
+   "summary": "വിശുദ്ധ ക്വുര്‍ആനിലെ 83-ാം അധ്യായമായ സൂറത്തുല്‍ മുത്വഫ്ഫിന്റെ വിവര്‍ത്തനവും ലളിതമായ വ്യാഖ്യാനവും. അളവിലും തൂക്കത്തിലും കൃത്രിമം കാണിക്കുന്നവര്‍ക്കുള്ള താക്കീതാണ് ഇതിലെ പ്രധാന വിഷയം.",
+   "author": "അബ്ദുറഹ്മാന്‍ നാസിര്‍ അസ്സഅദി",
+   "issue_date": "2019-01-12",
+   "html_url": "/ml/quran/al-mutaffifin-those-who-give-less-in-measure-20190112-4.html",
+   "md_url": "/ml/quran/al-mutaffifin-those-who-give-less-in-measure-20190112-4.md"
+  },
+  {
    "slug": "al-qadr-the-decree-20180526-8",
    "lang": "ml",
    "category": "quran",
@@ -12487,6 +12553,17 @@
    "md_url": "/ml/seerah/prophets-are-humans-20170401-10.md"
   },
   {
+   "slug": "queen-bilqis-in-the-palace-of-prophet-sulaiman-as-20190112-3",
+   "lang": "ml",
+   "category": "seerah",
+   "title": "ബില്‍ക്വീസ് രാജ്ഞി സുലൈമാന്‍ നബി(അ)യുടെ കൊട്ടാരത്തില്‍",
+   "summary": "സുലൈമാന്‍ നബി(അ)യുടെ കൊട്ടാരത്തിലേക്ക് ബില്‍ക്വീസ് രാജ്ഞി എത്തുന്നതും, അവളുടെ ബുദ്ധിശക്തി പരീക്ഷിക്കുന്നതിനായി സുലൈമാന്‍ നബി സ്വീകരിച്ച നടപടികളും ഈ ലേഖനത്തില്‍ വിവരിക്കുന്നു.",
+   "author": "ഹുസൈന്‍ സലഫി, ഷാര്‍ജ",
+   "issue_date": "2019-01-12",
+   "html_url": "/ml/seerah/queen-bilqis-in-the-palace-of-prophet-sulaiman-as-20190112-3.html",
+   "md_url": "/ml/seerah/queen-bilqis-in-the-palace-of-prophet-sulaiman-as-20190112-3.md"
+  },
+  {
    "slug": "reaching-midian-20180519-3",
    "lang": "ml",
    "category": "seerah",
@@ -12518,6 +12595,17 @@
    "issue_date": "2018-08-04",
    "html_url": "/ml/seerah/that-lamp-has-also-extinguished-20180804-1.html",
    "md_url": "/ml/seerah/that-lamp-has-also-extinguished-20180804-1.md"
+  },
+  {
+   "slug": "the-birth-of-prophet-muhammad-pbuh-20190112-8",
+   "lang": "ml",
+   "category": "seerah",
+   "title": "നബി ﷺ യുടെ ജനനം",
+   "summary": "മുഹമ്മദ് നബി(സ)യുടെ ജനനവും അബ്ദുല്‍ മുത്ത്വലിബ് അദ്ദേഹത്തിന്റെ വിവാഹത്തിനായി നടത്തിയ തയ്യാറെടുപ്പുകളും വിവരിക്കുന്ന പരമ്പരയിലെ ഭാഗം.",
+   "author": "ഫദ്‌ലുല്‍ ഹഖ് ഉമരി",
+   "issue_date": "2019-01-12",
+   "html_url": "/ml/seerah/the-birth-of-prophet-muhammad-pbuh-20190112-8.html",
+   "md_url": "/ml/seerah/the-birth-of-prophet-muhammad-pbuh-20190112-8.md"
   },
   {
    "slug": "the-death-of-prophet-musa-as-20181110-5",
@@ -13145,6 +13233,17 @@
    "issue_date": "2018-04-21",
    "html_url": "/ml/story/the-girl-with-the-red-scarf-20180421-3.html",
    "md_url": "/ml/story/the-girl-with-the-red-scarf-20180421-3.md"
+  },
+  {
+   "slug": "the-groom-in-the-coffin-20190112-9",
+   "lang": "ml",
+   "category": "story",
+   "title": "ശവപ്പെട്ടിയിലെ നവവരന്‍",
+   "summary": "ജീവിതത്തിന്റെ നശ്വരതയെയും മനുഷ്യന്റെ അനാവശ്യമായ ആഡംബരങ്ങളെയും പരിഹസിക്കുന്ന ഒരു കവിത. ശവപ്പെട്ടിയിലെ നവവരന്‍ എന്ന ബിംബത്തിലൂടെ മരണത്തിന്റെ യാഥാര്‍ത്ഥ്യം ഓര്‍മ്മിപ്പിക്കുന്നു.",
+   "author": "റിസാലുദ്ദീന്‍ എം.എം, ബഹ്‌റൈന്‍",
+   "issue_date": "2019-01-12",
+   "html_url": "/ml/story/the-groom-in-the-coffin-20190112-9.html",
+   "md_url": "/ml/story/the-groom-in-the-coffin-20190112-9.md"
   },
   {
    "slug": "the-lesson-taught-by-the-son-20181103-4",
