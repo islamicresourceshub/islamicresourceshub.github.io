@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-31T09:39:28.982362+00:00",
+ "generated_at": "2026-08-31T09:40:02.767678+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2203,
+ "count": 2204,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -6006,6 +6006,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/ha/youth/what-will-the-waste-do-20170114-5.html",
    "md_url": "/ha/youth/what-will-the-waste-do-20170114-5.md"
+  },
+  {
+   "slug": "become-the-guardian-of-the-sources-20170128-9",
+   "lang": "hi",
+   "category": "aqeedah",
+   "title": "प्रमाणों के संरक्षक बनें",
+   "summary": "यह लेख इस्लाम के मूल स्रोतों, यानी कुरान और हदीस की दिव्यता और उनकी अटलता पर प्रकाश डालता है। साथ ही, यह विश्वासियों को इन प्रमाणों की रक्षा करने और उनके प्रति अपनी जिम्मेदारी निभाने का आह्वान करता है।",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2017-01-28",
+   "html_url": "/hi/aqeedah/become-the-guardian-of-the-sources-20170128-9.html",
+   "md_url": "/hi/aqeedah/become-the-guardian-of-the-sources-20170128-9.md"
   },
   {
    "slug": "do-not-waver-in-trials-20170121-9",
