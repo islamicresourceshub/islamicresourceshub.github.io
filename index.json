@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-31T05:42:00.481269+00:00",
+ "generated_at": "2026-08-31T05:42:39.017016+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1960,
+ "count": 1961,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -5181,6 +5181,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/gu/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.html",
    "md_url": "/gu/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.md"
+  },
+  {
+   "slug": "what-to-beware-of-when-taking-sides-20170128-7",
+   "lang": "gu",
+   "category": "quran",
+   "title": "પક્ષ લેતી વખતે ધ્યાનમાં રાખવા જેવી બાબતો",
+   "summary": "કુરાન ૪૩:૬૭ ની આયતના પ્રકાશમાં, પક્ષ લેતી વખતે અને સ્નેહના સંબંધો જાળવી રાખતી વખતે સાવચેતી રાખવાનું મહત્વ સમજાવવામાં આવ્યું છે.",
+   "author": "അബൂ അമീൻ",
+   "issue_date": "2017-01-28",
+   "html_url": "/gu/quran/what-to-beware-of-when-taking-sides-20170128-7.html",
+   "md_url": "/gu/quran/what-to-beware-of-when-taking-sides-20170128-7.md"
   },
   {
    "slug": "prophets-and-trials-20170325-7",
