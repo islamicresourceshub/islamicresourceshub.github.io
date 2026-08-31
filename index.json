@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-31T09:45:26.430314+00:00",
+ "generated_at": "2026-08-31T09:46:07.596428+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2226,
+ "count": 2227,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -7931,6 +7931,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/ja/youth/what-will-the-waste-do-20170114-5.html",
    "md_url": "/ja/youth/what-will-the-waste-do-20170114-5.md"
+  },
+  {
+   "slug": "become-the-guardian-of-the-sources-20170128-9",
+   "lang": "kn",
+   "category": "aqeedah",
+   "title": "ಮೂಲಗಳ ರಕ್ಷಕರಾಗಿರಿ",
+   "summary": "ಇಸ್ಲಾಂ ಧರ್ಮದ ಮೂಲಗಳ ದೈವಿಕತೆ ಮತ್ತು ಅಜೇಯತೆಯನ್ನು ಇತರ ಧರ್ಮಗಳಿಂದ ಹೇಗೆ ಭಿನ್ನವಾಗಿದೆ ಎಂಬುದನ್ನು ವಿವರಿಸುತ್ತದೆ. ಕುರ್‌ಆನ್ ಮತ್ತು ಸುನ್ನತ್‌ಗಳನ್ನು ಸಂರಕ್ಷಿಸುವ ಮಹತ್ವವನ್ನು ನೆನಪಿಸುತ್ತದೆ.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2017-01-28",
+   "html_url": "/kn/aqeedah/become-the-guardian-of-the-sources-20170128-9.html",
+   "md_url": "/kn/aqeedah/become-the-guardian-of-the-sources-20170128-9.md"
   },
   {
    "slug": "do-not-waver-in-trials-20170121-9",
