@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-31T04:16:57.874001+00:00",
+ "generated_at": "2026-08-31T04:17:14.870371+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1834,
+ "count": 1835,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -12463,6 +12463,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/ne/story/laws-are-to-be-followed-20170128-5.html",
    "md_url": "/ne/story/laws-are-to-be-followed-20170128-5.md"
+  },
+  {
+   "slug": "the-currency-that-was-not-accepted-20170114-3",
+   "lang": "ne",
+   "category": "story",
+   "title": "नचलिने मुद्रा",
+   "summary": "जीवनभरको मिहिनेतले कमाएको धन जब नचलिने मुद्रा घोषित गरियो, तब मानिसहरूमा छाएको छटपटीको दृष्टान्त दिँदै यो लेखले परलोकका लागि गरिने कर्महरूको स्वीकार्यतामाथि प्रकाश पार्छ।",
+   "author": "കുഞ്ഞിമുഹമ്മദ്‌ മദനി പറപ്പൂർ",
+   "issue_date": "2017-01-14",
+   "html_url": "/ne/story/the-currency-that-was-not-accepted-20170114-3.html",
+   "md_url": "/ne/story/the-currency-that-was-not-accepted-20170114-3.md"
   },
   {
    "slug": "the-fruit-of-ingratitude-20170121-7",
