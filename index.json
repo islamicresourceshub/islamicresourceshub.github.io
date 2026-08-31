@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-31T03:58:12.705307+00:00",
+ "generated_at": "2026-08-31T03:58:59.341756+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1779,
+ "count": 1780,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -4719,6 +4719,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/fr/story/laws-are-to-be-followed-20170128-5.html",
    "md_url": "/fr/story/laws-are-to-be-followed-20170128-5.md"
+  },
+  {
+   "slug": "the-currency-that-was-not-accepted-20170114-3",
+   "lang": "fr",
+   "category": "story",
+   "title": "La monnaie qui n'est pas acceptée",
+   "summary": "Une parabole illustrant la confusion des gens lorsque la richesse accumulée toute une vie est soudainement déclarée comme une monnaie sans valeur, reflétant ainsi la réalité de nos actions pour l'au-delà.",
+   "author": "കുഞ്ഞിമുഹമ്മദ്‌ മദനി പറപ്പൂർ",
+   "issue_date": "2017-01-14",
+   "html_url": "/fr/story/the-currency-that-was-not-accepted-20170114-3.html",
+   "md_url": "/fr/story/the-currency-that-was-not-accepted-20170114-3.md"
   },
   {
    "slug": "the-fruit-of-ingratitude-20170121-7",
