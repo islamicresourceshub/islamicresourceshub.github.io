@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-31T06:17:05.982984+00:00",
+ "generated_at": "2026-08-31T07:45:46.654054+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2041,
+ "count": 2049,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -8670,6 +8670,17 @@
    "md_url": "/ml/aqeedah/identify-yourself-20170401-1.md"
   },
   {
+   "slug": "is-god-one-20181222-4",
+   "lang": "ml",
+   "category": "aqeedah",
+   "title": "ദൈവം ഏകനോ?",
+   "summary": "The article recounts an incident where someone read a pamphlet and questioned the concept of God's oneness. It seems to be a discussion or a narrative related to Islamic monotheism (Tawheed).",
+   "author": "എസ്.എ ഐദീദ് തങ്ങള്‍",
+   "issue_date": "2018-12-22",
+   "html_url": "/ml/aqeedah/is-god-one-20181222-4.html",
+   "md_url": "/ml/aqeedah/is-god-one-20181222-4.md"
+  },
+  {
    "slug": "is-nabidinam-celebration-true-love-for-the-prophet-20181124-5",
    "lang": "ml",
    "category": "aqeedah",
@@ -8855,6 +8866,17 @@
    "issue_date": "2018-11-17",
    "html_url": "/ml/dawah/a-question-that-pierced-the-heart-20181117-1.html",
    "md_url": "/ml/dawah/a-question-that-pierced-the-heart-20181117-1.md"
+  },
+  {
+   "slug": "ahmadis-into-a-new-crisis-20181222-2",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "അഹ്മദിയാക്കള്‍ പുതിയ പ്രതിസന്ധിയിലേക്ക്",
+   "summary": "The article discusses the Ahmadiyya Jamaat, founded by Mirza Ghulam Ahmad Qadiani who claimed prophethood after Prophet Muhammad (ﷺ). It highlights a new crisis facing the movement after 100 years.",
+   "author": "അല്‍ത്താഫ് അമ്മാട്ടിക്കുന്ന്",
+   "issue_date": "2018-12-22",
+   "html_url": "/ml/dawah/ahmadis-into-a-new-crisis-20181222-2.html",
+   "md_url": "/ml/dawah/ahmadis-into-a-new-crisis-20181222-2.md"
   },
   {
    "slug": "barakah-20181201-1",
@@ -10111,6 +10133,17 @@
    "md_url": "/ml/family/sexual-anarchy-problems-and-solutions-20170401-3.md"
   },
   {
+   "slug": "should-one-not-smile-20181222-8",
+   "lang": "ml",
+   "category": "family",
+   "title": "പുഞ്ചിരിക്കരുതെന്നോ?",
+   "summary": "The article questions whether human minds are becoming increasingly hardened. It reflects on selfishness, hatred, and sectarian thoughts, and discusses the importance of smiling and positive interactions.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2018-12-22",
+   "html_url": "/ml/family/should-one-not-smile-20181222-8.html",
+   "md_url": "/ml/family/should-one-not-smile-20181222-8.md"
+  },
+  {
    "slug": "stinking-cities-and-burning-problems-20180811-4",
    "lang": "ml",
    "category": "family",
@@ -10540,6 +10573,17 @@
    "md_url": "/ml/health/nipah-virus-infection-caution-not-fear-is-needed-20180609-7.md"
   },
   {
+   "slug": "nlp-a-pseudo-science-mired-in-exploitation-20181222-7",
+   "lang": "ml",
+   "category": "health",
+   "title": "NLP: ചൂഷണത്തില്‍ മുങ്ങിയ കപടശാസ്ത്രം",
+   "summary": "The article discusses the current human life filled with mental stress and the realization that material solutions are temporary and can lead to new problems. It critiques Neuro-Linguistic Programming (NLP) as a pseudo-science rooted in exploitation.",
+   "author": "ഇഅ്ജാസ് ബിന്‍ ഇസ്മാഈല്‍",
+   "issue_date": "2018-12-22",
+   "html_url": "/ml/health/nlp-a-pseudo-science-mired-in-exploitation-20181222-7.html",
+   "md_url": "/ml/health/nlp-a-pseudo-science-mired-in-exploitation-20181222-7.md"
+  },
+  {
    "slug": "nutrients-for-thyroid-health-20180505-10",
    "lang": "ml",
    "category": "health",
@@ -10947,6 +10991,17 @@
    "md_url": "/ml/opinion/anxieties-of-those-who-deviated-from-the-path-of-ideology-20170225-1.md"
   },
   {
+   "slug": "archaeopteryx-a-perfect-fossil-20181222-1",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "'ആര്‍ക്കിയോപ്‌റ്റെറിക്‌സ്' ലക്ഷണമൊത്ത ഫോസിലോ?",
+   "summary": "This article discusses the fossil 'Archaeopteryx' and questions its validity as a perfect fossil, referencing the 'Archaeoraptor' hoax. It delves into the scientific debate surrounding evolutionary evidence.",
+   "author": "അലി ചെമ്മാട്",
+   "issue_date": "2018-12-22",
+   "html_url": "/ml/opinion/archaeopteryx-a-perfect-fossil-20181222-1.html",
+   "md_url": "/ml/opinion/archaeopteryx-a-perfect-fossil-20181222-1.md"
+  },
+  {
    "slug": "arrest-and-bail-20180526-10",
    "lang": "ml",
    "category": "opinion",
@@ -10978,6 +11033,17 @@
    "issue_date": "2018-06-09",
    "html_url": "/ml/opinion/children-s-lesson-a-compassionate-heart-20180609-12.html",
    "md_url": "/ml/opinion/children-s-lesson-a-compassionate-heart-20180609-12.md"
+  },
+  {
+   "slug": "criminal-law-amendments-20181222-6",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "ക്രിമിനല്‍ നിയമ ഭേദഗതികള്‍",
+   "summary": "This article introduces the criminal law amendments of 2013 in India, specifically the Indian Penal Code (IPC). It begins by discussing the concept of 'private defense'.",
+   "author": "മുസാഫിര്‍",
+   "issue_date": "2018-12-22",
+   "html_url": "/ml/opinion/criminal-law-amendments-20181222-6.html",
+   "md_url": "/ml/opinion/criminal-law-amendments-20181222-6.md"
   },
   {
    "slug": "cultural-influence-of-media-20181117-3",
@@ -11717,6 +11783,17 @@
    "md_url": "/ml/quran/al-bayyinah-the-clear-proof-20180519-1.md"
   },
   {
+   "slug": "al-buruj-constellations-20181222-3",
+   "lang": "ml",
+   "category": "quran",
+   "title": "ബുറൂജ് (നക്ഷത്ര മണ്ഡലങ്ങള്‍)",
+   "summary": "This is a tafsir (exegesis) of Surah Al-Buruj (Chapter 85) of the Quran. It begins with the بسم الله الرحمن الرحيم and discusses verses 17-21, referencing the stories of Pharaoh and Thamud.",
+   "author": "അബ്ദുറഹ്മാന്‍ നാസിര്‍ അസ്സഅദി",
+   "issue_date": "2018-12-22",
+   "html_url": "/ml/quran/al-buruj-constellations-20181222-3.html",
+   "md_url": "/ml/quran/al-buruj-constellations-20181222-3.md"
+  },
+  {
    "slug": "al-qadr-the-decree-20180526-8",
    "lang": "ml",
    "category": "quran",
@@ -11770,6 +11847,17 @@
    "issue_date": "2018-09-29",
    "html_url": "/ml/quran/fajr-the-dawn-part-2-20180929-1.html",
    "md_url": "/ml/quran/fajr-the-dawn-part-2-20180929-1.md"
+  },
+  {
+   "slug": "hudhud-20181222-5",
+   "lang": "ml",
+   "category": "quran",
+   "title": "ഹുദ്ഹുദ്",
+   "summary": "This is the second part of a series on Prophet Sulaiman (AS). It describes an event during Prophet Sulaiman's (AS) journey with his army, as narrated in the Quran, involving the bird Hudhud.",
+   "author": "ഹുസൈന്‍ സലഫി, ഷാര്‍ജ",
+   "issue_date": "2018-12-22",
+   "html_url": "/ml/quran/hudhud-20181222-5.html",
+   "md_url": "/ml/quran/hudhud-20181222-5.md"
   },
   {
    "slug": "importance-of-quranic-study-20180526-6",
