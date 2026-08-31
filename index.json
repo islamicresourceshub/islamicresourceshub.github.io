@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-31T10:29:12.958247+00:00",
+ "generated_at": "2026-08-31T10:30:00.997799+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2334,
+ "count": 2335,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -25421,6 +25421,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/vi/youth/what-will-the-waste-do-20170114-5.html",
    "md_url": "/vi/youth/what-will-the-waste-do-20170114-5.md"
+  },
+  {
+   "slug": "become-the-guardian-of-the-sources-20170128-9",
+   "lang": "zh",
+   "category": "aqeedah",
+   "title": "成为教义准则的守护者",
+   "summary": "本文阐述了伊斯兰教义准则的神圣性、不可战胜性及其与其他宗教的区别。同时，文章强调了守护古兰经与圣训的重要性，并呼吁信士在面对质疑时坚定立场。",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2017-01-28",
+   "html_url": "/zh/aqeedah/become-the-guardian-of-the-sources-20170128-9.html",
+   "md_url": "/zh/aqeedah/become-the-guardian-of-the-sources-20170128-9.md"
   },
   {
    "slug": "do-not-waver-in-trials-20170121-9",
