@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-31T05:58:43.713978+00:00",
+ "generated_at": "2026-08-31T05:59:20.468116+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1999,
+ "count": 2000,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -18524,6 +18524,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/ta/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.html",
    "md_url": "/ta/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.md"
+  },
+  {
+   "slug": "what-to-beware-of-when-taking-sides-20170128-7",
+   "lang": "ta",
+   "category": "quran",
+   "title": "தரப்பு சேரும்போது கவனிக்க வேண்டியவை",
+   "summary": "திருக்குர்ஆன் 43:67-வது வசனத்தின் வெளிச்சத்தில், நாம் ஒரு தரப்பைச் சார்ந்திருக்கும்போதும் உறவுகளைப் பேணும்போதும் கடைப்பிடிக்க வேண்டிய எச்சரிக்கைகளைப் பற்றி இக்கட்டுரை விளக்குகிறது.",
+   "author": "അബൂ അമീൻ",
+   "issue_date": "2017-01-28",
+   "html_url": "/ta/quran/what-to-beware-of-when-taking-sides-20170128-7.html",
+   "md_url": "/ta/quran/what-to-beware-of-when-taking-sides-20170128-7.md"
   },
   {
    "slug": "prophets-and-trials-20170325-7",
