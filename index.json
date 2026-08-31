@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-31T10:11:05.095245+00:00",
+ "generated_at": "2026-08-31T10:11:46.228648+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2283,
+ "count": 2284,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -19668,6 +19668,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/si/youth/what-will-the-waste-do-20170114-5.html",
    "md_url": "/si/youth/what-will-the-waste-do-20170114-5.md"
+  },
+  {
+   "slug": "become-the-guardian-of-the-sources-20170128-9",
+   "lang": "so",
+   "category": "aqeedah",
+   "title": "Noqo ilaaliyaha ilaha diinta",
+   "summary": "Qoraalkani wuxuu sharxayaa muhiimadda ay leedahay ilaalinta ilaha diinta Islaamka ee Quraanka iyo Sunnada, isagoo iftiiminaya in ay yihiin kuwo xaq ah oo aan la loodin karin, isla markaana ka digaya dadaallada lagu doonayo in lagu wiiqo kalsoonida dadka ee ilahan.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2017-01-28",
+   "html_url": "/so/aqeedah/become-the-guardian-of-the-sources-20170128-9.html",
+   "md_url": "/so/aqeedah/become-the-guardian-of-the-sources-20170128-9.md"
   },
   {
    "slug": "do-not-waver-in-trials-20170121-9",
