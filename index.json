@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-31T10:48:09.265322+00:00",
+ "generated_at": "2026-08-31T10:48:46.982710+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2348,
+ "count": 2349,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -1991,6 +1991,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/bn/opinion/muslim-extremists-defame-islam-20170114-7.html",
    "md_url": "/bn/opinion/muslim-extremists-defame-islam-20170114-7.md"
+  },
+  {
+   "slug": "rohingya-muslims-victims-of-racial-hatred-20170128-10",
+   "lang": "bn",
+   "category": "opinion",
+   "title": "রোহিঙ্গা মুসলিম: জাতিবিদ্বেষের শিকার",
+   "summary": "মিয়ানমারের রোহিঙ্গা মুসলিমদের বিরুদ্ধে চলমান জাতিবিদ্বেষ ও নির্যাতনের একটি বিশ্লেষণাত্মক নিবন্ধ। এখানে তাদের ঐতিহাসিক প্রেক্ষাপট এবং আন্তর্জাতিক চাপের প্রয়োজনীয়তার ওপর আলোকপাত করা হয়েছে।",
+   "author": "ഡോ. ശബീൽ പി.എൻ",
+   "issue_date": "2017-01-28",
+   "html_url": "/bn/opinion/rohingya-muslims-victims-of-racial-hatred-20170128-10.html",
+   "md_url": "/bn/opinion/rohingya-muslims-victims-of-racial-hatred-20170128-10.md"
   },
   {
    "slug": "salafi-preaching-a-theoretical-analysis-20170121-10",
