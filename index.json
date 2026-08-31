@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-31T04:16:21.765242+00:00",
+ "generated_at": "2026-08-31T04:16:57.874001+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1823,
+ "count": 1834,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -8516,6 +8516,17 @@
    "md_url": "/ml/aqeedah/misguided-grave-visits-20180901-5.md"
   },
   {
+   "slug": "ramadan-and-innovations-20180526-4",
+   "lang": "ml",
+   "category": "aqeedah",
+   "title": "റമദാനും ബിദ്അത്തുകളും",
+   "summary": "റമദാൻ മാസത്തിൽ വിശ്വാസികൾക്കിടയിൽ കടന്നുകൂടിയ അനാചാരങ്ങളെയും പുത്തനാചാരങ്ങളെയും ഈ ലേഖനം വിമർശനാത്മകമായി പരിശോധിക്കുന്നു. പ്രമാണങ്ങളുടെ അടിസ്ഥാനത്തിൽ ആരാധനകൾ നിർവഹിക്കേണ്ടതിന്റെ പ്രാധാന്യം വ്യക്തമാക്കുന്നു.",
+   "author": "ലുക്മാനുൽ ഹകീം.ഇ",
+   "issue_date": "2018-05-26",
+   "html_url": "/ml/aqeedah/ramadan-and-innovations-20180526-4.html",
+   "md_url": "/ml/aqeedah/ramadan-and-innovations-20180526-4.md"
+  },
+  {
    "slug": "salafiyyah-ideology-and-stance-20170211-8",
    "lang": "ml",
    "category": "aqeedah",
@@ -8635,6 +8646,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/ml/dawah/do-not-waver-in-trials-20170121-9.html",
    "md_url": "/ml/dawah/do-not-waver-in-trials-20170121-9.md"
+  },
+  {
+   "slug": "fasting-a-reins-for-desires-20180526-11",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "നോമ്പ് ദേഹേച്ഛകൾക്കുള്ള കടിഞ്ഞാൺ",
+   "summary": "നോമ്പ് മനുഷ്യന്റെ ദേഹേച്ഛകളെ നിയന്ത്രിക്കാൻ എപ്രകാരം സഹായിക്കുന്നു എന്ന് ഈ ലേഖനം ചർച്ച ചെയ്യുന്നു. റമദാൻ മാസത്തിന്റെ ലക്ഷ്യവും ആത്മസംസ്കരണത്തിന്റെ പ്രാധാന്യവും ഇതിൽ വിവരിക്കുന്നു.",
+   "author": "ശമീർ മദീനി",
+   "issue_date": "2018-05-26",
+   "html_url": "/ml/dawah/fasting-a-reins-for-desires-20180526-11.html",
+   "md_url": "/ml/dawah/fasting-a-reins-for-desires-20180526-11.md"
   },
   {
    "slug": "fasting-a-shield-against-evils-20180519-13",
@@ -9000,6 +9022,17 @@
    "md_url": "/ml/dawah/unity-ideology-and-movement-20170211-2.md"
   },
   {
+   "slug": "wealth-blessing-and-trial-20180526-7",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "സമ്പത്ത്: അനുഗ്രഹവും പരീക്ഷണവും",
+   "summary": "സമ്പത്ത് അല്ലാഹു നൽകിയ അനുഗ്രഹമാണെന്നും എന്നാൽ അതൊരു വലിയ പരീക്ഷണമാണെന്നും ഈ ലേഖനം ഓർമ്മിപ്പിക്കുന്നു. ധനം അർഹരായവരിലേക്ക് എത്തിക്കുന്നതിന്റെയും അല്ലാഹുവിന്റെ മാർഗത്തിൽ ചെലവഴിക്കുന്നതിന്റെയും പ്രാധാന്യം വ്യക്തമാക്കുന്നു.",
+   "author": "ഫദ്‌ലുൽ ഹഖ് ഉമരി",
+   "issue_date": "2018-05-26",
+   "html_url": "/ml/dawah/wealth-blessing-and-trial-20180526-7.html",
+   "md_url": "/ml/dawah/wealth-blessing-and-trial-20180526-7.md"
+  },
+  {
    "slug": "what-believers-should-note-during-calamities-20180825-3",
    "lang": "ml",
    "category": "dawah",
@@ -9020,6 +9053,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/ml/dawah/what-do-we-have-for-ourselves-20170218-10.html",
    "md_url": "/ml/dawah/what-do-we-have-for-ourselves-20170218-10.md"
+  },
+  {
+   "slug": "what-islam-demands-20180526-3",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "ഇസ്‌ലാം ആവശ്യപ്പെടുന്നത്",
+   "summary": "മനുഷ്യന്റെ ധാർമിക ബോധത്തെയും സാമൂഹിക ബാധ്യതകളെയും കുറിച്ച് ഈ മുഖമൊഴി പ്രതിപാദിക്കുന്നു. അല്ലാഹുവിന്റെ അനുഗ്രഹങ്ങൾക്ക് നന്ദിയുള്ളവരായി ജീവിക്കേണ്ടതിന്റെ ആവശ്യകതയെക്കുറിച്ച് ഓർമ്മിപ്പിക്കുന്നു.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2018-05-26",
+   "html_url": "/ml/dawah/what-islam-demands-20180526-3.html",
+   "md_url": "/ml/dawah/what-islam-demands-20180526-3.md"
   },
   {
    "slug": "who-are-cultural-leaders-20180505-1",
@@ -9517,6 +9561,17 @@
    "md_url": "/ml/fiqh/the-consumer-and-the-law-20180804-12.md"
   },
   {
+   "slug": "zakat-a-rethinking-20180526-1",
+   "lang": "ml",
+   "category": "fiqh",
+   "title": "സകാത്ത് ഒരു പുനർചിന്ത",
+   "summary": "സകാത്തിന്റെ സാമൂഹികവും സാമ്പത്തികവുമായ പ്രാധാന്യത്തെക്കുറിച്ചും അത് നിർവഹിക്കേണ്ടതിന്റെ അനിവാര്യതയെക്കുറിച്ചും ഈ ലേഖനം ചർച്ച ചെയ്യുന്നു. സമ്പത്ത് ശുദ്ധീകരിക്കുന്നതിനും സമൂഹത്തിൽ തുല്യത ഉറപ്പുവരുത്തുന്നതിനും സകാത്ത് എപ്രകാരം സഹായിക്കുന്നു എന്ന് വിശദീകരിക്കുന്നു.",
+   "author": "കുഞ്ഞിമുഹമ്മദ് മദനി പറപ്പൂർ",
+   "issue_date": "2018-05-26",
+   "html_url": "/ml/fiqh/zakat-a-rethinking-20180526-1.html",
+   "md_url": "/ml/fiqh/zakat-a-rethinking-20180526-1.md"
+  },
+  {
    "slug": "control-your-mind-20170325-3",
    "lang": "ml",
    "category": "hadith",
@@ -9823,6 +9878,17 @@
    "issue_date": "2017-02-25",
    "html_url": "/ml/opinion/anxieties-of-those-who-deviated-from-the-path-of-ideology-20170225-1.html",
    "md_url": "/ml/opinion/anxieties-of-those-who-deviated-from-the-path-of-ideology-20170225-1.md"
+  },
+  {
+   "slug": "arrest-and-bail-20180526-10",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "അറസ്റ്റും ജാമ്യവും",
+   "summary": "അറസ്റ്റ്, ജാമ്യം എന്നിവയുമായി ബന്ധപ്പെട്ട നിയമവശങ്ങളെക്കുറിച്ച് ലളിതമായി വിവരിക്കുന്ന ലേഖനം. പൗരന്മാരുടെ അവകാശങ്ങളെക്കുറിച്ചും പോലീസ് നടപടികളെക്കുറിച്ചും ബോധവൽക്കരണം നൽകുന്നു.",
+   "author": "മൂസാഫിർ",
+   "issue_date": "2018-05-26",
+   "html_url": "/ml/opinion/arrest-and-bail-20180526-10.html",
+   "md_url": "/ml/opinion/arrest-and-bail-20180526-10.md"
   },
   {
    "slug": "challenges-posed-by-pseudo-nationalism-20170204-4",
@@ -10276,6 +10342,28 @@
    "md_url": "/ml/quran/al-bayyinah-the-clear-proof-20180519-1.md"
   },
   {
+   "slug": "al-qadr-the-decree-20180526-8",
+   "lang": "ml",
+   "category": "quran",
+   "title": "അൽഖദ്ർ (നിർണയം)",
+   "summary": "വിശുദ്ധ ഖുർആനിലെ 97-ാം അധ്യായമായ അൽഖദ്റിന്റെ ലഘു തഫ്സീർ. ലൈലത്തുൽ ഖദ്റിന്റെ മഹത്വത്തെയും ഖുർആൻ അവതരണത്തെയും കുറിച്ച് ഈ ലേഖനം വിശദീകരിക്കുന്നു.",
+   "author": "ഹാരിസ്ബിൻ സലീം",
+   "issue_date": "2018-05-26",
+   "html_url": "/ml/quran/al-qadr-the-decree-20180526-8.html",
+   "md_url": "/ml/quran/al-qadr-the-decree-20180526-8.md"
+  },
+  {
+   "slug": "importance-of-quranic-study-20180526-6",
+   "lang": "ml",
+   "category": "quran",
+   "title": "ഖുർആൻ പഠനത്തിന്റെ പ്രാധാന്യം",
+   "summary": "വിശുദ്ധ ഖുർആൻ പാരായണം ചെയ്യുന്നതിനും പഠിക്കുന്നതിനുമുള്ള പ്രാധാന്യത്തെക്കുറിച്ച് ഈ ലേഖനം വിശദീകരിക്കുന്നു. ഖുർആൻ പഠനം വിശ്വാസിയുടെ ജീവിതത്തിൽ വരുത്തുന്ന മാറ്റങ്ങളെയും അതിന്റെ പ്രതിഫലത്തെയും കുറിച്ച് പ്രതിപാദിക്കുന്നു.",
+   "author": "ശബീബ് സ്വലാഹി തിരൂരങ്ങാടി",
+   "issue_date": "2018-05-26",
+   "html_url": "/ml/quran/importance-of-quranic-study-20180526-6.html",
+   "md_url": "/ml/quran/importance-of-quranic-study-20180526-6.md"
+  },
+  {
    "slug": "praise-be-to-the-lord-of-the-worlds-20170325-9",
    "lang": "ml",
    "category": "quran",
@@ -10340,6 +10428,17 @@
    "issue_date": "2018-05-05",
    "html_url": "/ml/quran/surah-az-zalzalah-the-earthquake-tafsir-20180505-2.html",
    "md_url": "/ml/quran/surah-az-zalzalah-the-earthquake-tafsir-20180505-2.md"
+  },
+  {
+   "slug": "transmission-of-quran-oral-and-written-20180526-2",
+   "lang": "ml",
+   "category": "quran",
+   "title": "ഖുർആനിന്റെ കൈമാറ്റം വാമൊഴിയും വരമൊഴിയും",
+   "summary": "വിശുദ്ധ ഖുർആൻ അല്ലാഹുവിൽ നിന്ന് പ്രവാചകരിലേക്കും പിന്നീട് തലമുറകളിലേക്കും കൈമാറ്റം ചെയ്യപ്പെട്ട രീതികളെക്കുറിച്ച് ഈ ലേഖനം വിവരിക്കുന്നു. വാമൊഴിയായും വരമൊഴിയായും ഖുർആൻ സംരക്ഷിക്കപ്പെട്ടതിന്റെ ചരിത്രപരമായ തെളിവുകൾ ഇതിൽ ഉൾക്കൊള്ളുന്നു.",
+   "author": "അഷ്‌റഫ് എകരൂൽ",
+   "issue_date": "2018-05-26",
+   "html_url": "/ml/quran/transmission-of-quran-oral-and-written-20180526-2.html",
+   "md_url": "/ml/quran/transmission-of-quran-oral-and-written-20180526-2.md"
   },
   {
    "slug": "universal-calls-in-the-quran-19-truth-falsehood-and-human-fr-20260822-3",
@@ -10771,6 +10870,17 @@
    "md_url": "/ml/story/path-of-peace-20180512-7.md"
   },
   {
+   "slug": "post-death-rituals-20180526-9",
+   "lang": "ml",
+   "category": "story",
+   "title": "മരണ ശേഷക്രിയകൾ",
+   "summary": "മരണാനന്തര കർമ്മങ്ങൾ ഇസ്‌ലാമിക പ്രമാണങ്ങൾക്കനുസൃതമായി എങ്ങനെ നിർവഹിക്കണം എന്ന് ഓർമ്മിപ്പിക്കുന്ന ഒരു കവിത. അനാചാരങ്ങളെ ഒഴിവാക്കി നബിചര്യ പിന്തുടരാൻ ആഹ്വാനം ചെയ്യുന്നു.",
+   "author": "വെള്ളില പി. അബ്ദുള്ള",
+   "issue_date": "2018-05-26",
+   "html_url": "/ml/story/post-death-rituals-20180526-9.html",
+   "md_url": "/ml/story/post-death-rituals-20180526-9.md"
+  },
+  {
    "slug": "post-death-rituals-20180818-5",
    "lang": "ml",
    "category": "story",
@@ -10802,6 +10912,17 @@
    "issue_date": "2018-09-01",
    "html_url": "/ml/story/rainy-childhood-20180901-7.html",
    "md_url": "/ml/story/rainy-childhood-20180901-7.md"
+  },
+  {
+   "slug": "should-not-have-lied-20180526-5",
+   "lang": "ml",
+   "category": "story",
+   "title": "കള്ളം പറയരുതായിരുന്നു",
+   "summary": "കുട്ടികൾക്ക് നന്മയും സത്യസന്ധതയും പകർന്നുനൽകുന്ന ഒരു ലഘു കഥ. കള്ളം പറയുന്നതുകൊണ്ടുള്ള ദോഷങ്ങളെക്കുറിച്ച് ഒരു കുഞ്ഞിക്കുരുവിയുടെ അനുഭവത്തിലൂടെ വിവരിക്കുന്നു.",
+   "author": "ഉസ്മാൻ പാലക്കാഴി",
+   "issue_date": "2018-05-26",
+   "html_url": "/ml/story/should-not-have-lied-20180526-5.html",
+   "md_url": "/ml/story/should-not-have-lied-20180526-5.md"
   },
   {
    "slug": "sugar-like-gold-dust-20170128-11",
