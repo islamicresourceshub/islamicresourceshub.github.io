@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-31T09:56:08.926629+00:00",
+ "generated_at": "2026-08-31T09:59:17.722901+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2249,
+ "count": 2257,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -8956,6 +8956,17 @@
    "md_url": "/ml/aqeedah/barelviism-ambiguities-and-mysteries-20190330-2.md"
   },
   {
+   "slug": "barelwis-poisonous-stances-20190420-1",
+   "lang": "ml",
+   "category": "aqeedah",
+   "title": "ബറേല്‍വികള്‍: വിഷംവമിക്കുന്ന നിലപാടുകള്‍",
+   "summary": "ബറേല്‍വി ആശയധാരയുടെ ആദര്‍ശപരമായ പിഴവുകളെയും അവര്‍ സ്വീകരിക്കുന്ന ശത്രുതാപരമായ നിലപാടുകളെയും ഈ ലേഖനം വിശകലനം ചെയ്യുന്നു. ഇസ്‌ലാമിക പ്രമാണങ്ങളുടെ അടിസ്ഥാനത്തില്‍ ഇവരുടെ വാദങ്ങളെ ഖണ്ഡിക്കുകയാണ് ഇതില്‍.",
+   "author": "യൂസുഫ് സാഹിബ് നദ്‌വി ഓച്ചിറ",
+   "issue_date": "2019-04-20",
+   "html_url": "/ml/aqeedah/barelwis-poisonous-stances-20190420-1.html",
+   "md_url": "/ml/aqeedah/barelwis-poisonous-stances-20190420-1.md"
+  },
+  {
    "slug": "basic-beliefs-of-kerala-sufis-20180825-4",
    "lang": "ml",
    "category": "aqeedah",
@@ -9504,6 +9515,17 @@
    "issue_date": "2019-01-12",
    "html_url": "/ml/dawah/dignified-actions-20190112-1.html",
    "md_url": "/ml/dawah/dignified-actions-20190112-1.md"
+  },
+  {
+   "slug": "divine-verses-on-god-consciousness-and-hamadani-thangal-20190420-2",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "ദൈവഭക്തിയെ സംബന്ധിച്ച ദിവ്യവചനങ്ങളും ഹമദാനി തങ്ങളും",
+   "summary": "ശൈഖ് മുഹമ്മദ് മാഹിന്‍ ഹമദാനി തങ്ങളുടെ ജീവിതവും അദ്ദേഹം മുന്നോട്ടുവെച്ച നവോത്ഥാന ആശയങ്ങളും ഈ ലേഖനത്തില്‍ ചര്‍ച്ച ചെയ്യുന്നു. ദൈവഭക്തിയെക്കുറിച്ചുള്ള അദ്ദേഹത്തിന്റെ കാഴ്ചപ്പാടുകള്‍ വിദ്യാഭ്യാസ-രാഷ്ട്രീയ മേഖലകളില്‍ എപ്രകാരം സ്വാധീനം ചെലുത്തിയെന്ന് വിവരിക്കുന്നു.",
+   "author": "ഡോ. ചേക്കുമരക്കാരകത്ത് ഷാനവാസ്, പറവണ്ണ",
+   "issue_date": "2019-04-20",
+   "html_url": "/ml/dawah/divine-verses-on-god-consciousness-and-hamadani-thangal-20190420-2.html",
+   "md_url": "/ml/dawah/divine-verses-on-god-consciousness-and-hamadani-thangal-20190420-2.md"
   },
   {
    "slug": "do-not-be-arrogant-20180421-8",
@@ -10419,6 +10441,17 @@
    "md_url": "/ml/dawah/to-get-prayers-answered-20190323-9.md"
   },
   {
+   "slug": "to-the-opponents-of-morality-20190420-8",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "സദാചാര വിരോധികളോട്",
+   "summary": "മനുഷ്യന്റെ സ്വഭാവരൂപീകരണത്തില്‍ ചുറ്റുപാടുകള്‍ക്കുള്ള സ്വാധീനത്തെക്കുറിച്ച് ഈ ലേഖനം ചര്‍ച്ച ചെയ്യുന്നു. സദാചാരപരമായ മൂല്യങ്ങള്‍ ഉയര്‍ത്തിപ്പിടിക്കേണ്ടതിന്റെ ആവശ്യകതയെക്കുറിച്ചുള്ള ആഹ്വാനമാണിത്.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2019-04-20",
+   "html_url": "/ml/dawah/to-the-opponents-of-morality-20190420-8.html",
+   "md_url": "/ml/dawah/to-the-opponents-of-morality-20190420-8.md"
+  },
+  {
    "slug": "to-those-who-seek-fame-20190323-10",
    "lang": "ml",
    "category": "dawah",
@@ -10593,6 +10626,17 @@
    "issue_date": "2017-02-04",
    "html_url": "/ml/family/children-an-islamic-reading-part-4-20170204-5.html",
    "md_url": "/ml/family/children-an-islamic-reading-part-4-20170204-5.md"
+  },
+  {
+   "slug": "children-s-clothing-and-collective-responsibility-20190420-4",
+   "lang": "ml",
+   "category": "family",
+   "title": "കുട്ടിക്കുപ്പായവും കൂട്ടുത്തരവാദിത്തവും",
+   "summary": "കുടുംബബന്ധങ്ങളിലെയും കുട്ടികളുടെ വളര്‍ത്തലിലെയും ഉത്തരവാദിത്തങ്ങളെ ഒരു ലഘു കഥാ സന്ദര്‍ഭത്തിലൂടെ ഈ ലേഖനം വിശദീകരിക്കുന്നു. പരസ്പര സഹകരണത്തിന്റെ പ്രാധാന്യമാണ് ഇതിലെ പ്രമേയം.",
+   "author": "പി.എന്‍. അബ്ദുല്ലത്വീഫ് മദനി",
+   "issue_date": "2019-04-20",
+   "html_url": "/ml/family/children-s-clothing-and-collective-responsibility-20190420-4.html",
+   "md_url": "/ml/family/children-s-clothing-and-collective-responsibility-20190420-4.md"
   },
   {
    "slug": "conduct-towards-one-s-spouse-20170304-2",
@@ -11385,6 +11429,17 @@
    "issue_date": "2018-08-25",
    "html_url": "/ml/hadith/following-the-prophetic-sunnah-is-mandatory-20180825-9.html",
    "md_url": "/ml/hadith/following-the-prophetic-sunnah-is-mandatory-20180825-9.md"
+  },
+  {
+   "slug": "mocking-the-sunnah-20190420-5",
+   "lang": "ml",
+   "category": "hadith",
+   "title": "നബിചര്യയെ പരിഹസിക്കുകയോ?",
+   "summary": "നമസ്‌കാരത്തിലെ സ്വഫ്ഫുകള്‍ ശരിപ്പെടുത്തുന്നതിന്റെ പ്രാധാന്യത്തെക്കുറിച്ചും പ്രവാചകചര്യയെ അവഗണിക്കുന്നതിനെതിരെയുമുള്ള മുന്നറിയിപ്പാണ് ഈ ലേഖനം. സുന്നത്തിനെ പിന്തുടരേണ്ടതിന്റെ അനിവാര്യത ഇതില്‍ ഊന്നിപ്പറയുന്നു.",
+   "author": "മൂസ സ്വലാഹി, കാര",
+   "issue_date": "2019-04-20",
+   "html_url": "/ml/hadith/mocking-the-sunnah-20190420-5.html",
+   "md_url": "/ml/hadith/mocking-the-sunnah-20190420-5.md"
   },
   {
    "slug": "return-to-sunnah-20180901-9",
@@ -12575,6 +12630,17 @@
    "md_url": "/ml/opinion/pranab-s-love-for-hedgewar-20180623-1.md"
   },
   {
+   "slug": "pulwama-balakot-elections-and-silent-astrologers-20190420-7",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "പുല്‍വാമയും ബാലാകോട്ടും തിരഞ്ഞെടുപ്പും പിന്നെ മൗനികളായ ജ്യോത്സ്യന്മാരും",
+   "summary": "ഇന്ത്യന്‍ രാഷ്ട്രീയത്തില്‍ ജ്യോതിഷത്തിനും അന്ധവിശ്വാസങ്ങള്‍ക്കും ലഭിക്കുന്ന അമിത പ്രാധാന്യത്തെയും ഭരണകൂടത്തിന്റെ നിലപാടുകളെയും വിമര്‍ശനാത്മകമായി ഈ ലേഖനം പരിശോധിക്കുന്നു.",
+   "author": "ഉസ്മാന്‍ പാലക്കാഴി",
+   "issue_date": "2019-04-20",
+   "html_url": "/ml/opinion/pulwama-balakot-elections-and-silent-astrologers-20190420-7.html",
+   "md_url": "/ml/opinion/pulwama-balakot-elections-and-silent-astrologers-20190420-7.md"
+  },
+  {
    "slug": "rafale-alok-verma-and-the-central-government-20190126-7",
    "lang": "ml",
    "category": "opinion",
@@ -13521,6 +13587,17 @@
    "md_url": "/ml/quran/the-bitter-consequences-of-disobedience-20180908-1.md"
   },
   {
+   "slug": "the-history-of-injeel-20190420-3",
+   "lang": "ml",
+   "category": "quran",
+   "title": "ഇഞ്ചീലിന്റെ ചരിത്രം",
+   "summary": "ഈസാ നബിക്ക് അല്ലാഹു നല്‍കിയ വേദഗ്രന്ഥമായ ഇഞ്ചീലിനെക്കുറിച്ച് ക്വുര്‍ആനിക വീക്ഷണത്തില്‍ പ്രതിപാദിക്കുന്ന ലേഖനം. വേദഗ്രന്ഥങ്ങളുടെ ചരിത്രപരമായ പശ്ചാത്തലം ഇതില്‍ വിശദീകരിക്കുന്നു.",
+   "author": "ഹുസൈന്‍ സലഫി, ഷാര്‍ജ",
+   "issue_date": "2019-04-20",
+   "html_url": "/ml/quran/the-history-of-injeel-20190420-3.html",
+   "md_url": "/ml/quran/the-history-of-injeel-20190420-3.md"
+  },
+  {
    "slug": "the-quran-previous-scriptures-and-the-continuity-of-values-20181124-3",
    "lang": "ml",
    "category": "quran",
@@ -14080,6 +14157,17 @@
    "issue_date": "2018-05-05",
    "html_url": "/ml/seerah/the-departure-of-the-prophet-20180505-7.html",
    "md_url": "/ml/seerah/the-departure-of-the-prophet-20180505-7.md"
+  },
+  {
+   "slug": "the-first-pledge-of-aqaba-20190420-6",
+   "lang": "ml",
+   "category": "seerah",
+   "title": "ഒന്നാം അക്വബ ഉടമ്പടി",
+   "summary": "പ്രവാചകത്വത്തിന്റെ പതിനൊന്നാം വര്‍ഷം നടന്ന ഒന്നാം അക്വബ ഉടമ്പടിയുടെ ചരിത്രപരമായ പശ്ചാത്തലം ഈ ലേഖനം വിവരിക്കുന്നു. ഇസ്‌ലാമിക പ്രബോധന ചരിത്രത്തിലെ സുപ്രധാനമായ ഈ സംഭവത്തെക്കുറിച്ച് വിശദമായി പ്രതിപാദിക്കുന്നു.",
+   "author": "ഫദ്‌ലുല്‍ ഹഖ് ഉമരി",
+   "issue_date": "2019-04-20",
+   "html_url": "/ml/seerah/the-first-pledge-of-aqaba-20190420-6.html",
+   "md_url": "/ml/seerah/the-first-pledge-of-aqaba-20190420-6.md"
   },
   {
    "slug": "the-inevitable-fall-20180804-3",
