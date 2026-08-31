@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-31T09:05:22.463955+00:00",
+ "generated_at": "2026-08-31T09:08:34.455786+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2166,
+ "count": 2176,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -9858,6 +9858,17 @@
    "md_url": "/ml/dawah/stand-tall-20170121-8.md"
   },
   {
+   "slug": "suicide-attacks-what-islam-says-20190302-1",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "ചാവേറാക്രമണം: ഇസ്‌ലാമിന് പറയാനുള്ളത്",
+   "summary": "ചാവേറാക്രമണങ്ങൾ ഇസ്‌ലാമിക വീക്ഷണത്തിൽ എത്രത്തോളം തെറ്റാണെന്നും അത് ഇസ്‌ലാമിന് വിരുദ്ധമാണെന്നും ഈ ലേഖനം വിശദീകരിക്കുന്നു. ഇത്തരം പ്രവണതകൾക്കെതിരെ ഇസ്‌ലാം സ്വീകരിക്കുന്ന നിലപാടുകൾ ഇതിൽ ചർച്ച ചെയ്യുന്നു.",
+   "author": "അബ്ദുല്‍ മാലിക് സലഫി",
+   "issue_date": "2019-03-02",
+   "html_url": "/ml/dawah/suicide-attacks-what-islam-says-20190302-1.html",
+   "md_url": "/ml/dawah/suicide-attacks-what-islam-says-20190302-1.md"
+  },
+  {
    "slug": "that-day-is-not-far-20181103-1",
    "lang": "ml",
    "category": "dawah",
@@ -10076,6 +10087,17 @@
    "issue_date": "2019-02-09",
    "html_url": "/ml/dawah/the-virtue-of-agriculture-20190209-4.html",
    "md_url": "/ml/dawah/the-virtue-of-agriculture-20190209-4.md"
+  },
+  {
+   "slug": "things-to-note-in-prayer-20190302-10",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "പ്രാര്‍ഥനയില്‍ ശ്രദ്ധിക്കേണ്ടത്",
+   "summary": "പ്രാർത്ഥന (ദുആ) നിർവഹിക്കുമ്പോൾ ശ്രദ്ധിക്കേണ്ട മര്യാദകളെയും നിബന്ധനകളെയും കുറിച്ചുള്ള തുടർ ലേഖനം.",
+   "author": "സയ്യിദ് സഅ്ഫര്‍ സ്വാദിക്വ് മദീനി",
+   "issue_date": "2019-03-02",
+   "html_url": "/ml/dawah/things-to-note-in-prayer-20190302-10.html",
+   "md_url": "/ml/dawah/things-to-note-in-prayer-20190302-10.md"
   },
   {
    "slug": "things-to-note-in-prayer-dua-20190223-7",
@@ -11222,6 +11244,17 @@
    "md_url": "/ml/history/c-n-moulavi-s-translation-that-compromised-sources-20181013-9.md"
   },
   {
+   "slug": "hamadani-s-institutions-and-quranic-renaissance-20190302-7",
+   "lang": "ml",
+   "category": "history",
+   "title": "ക്വുര്‍ആനിക നവോത്ഥാനം സാധ്യമാക്കാന്‍ ഹമദാനി തങ്ങളുടെ സര്‍വകലാശാലകളും സംഘടനകളും",
+   "summary": "മലയാളത്തിൽ ക്വുർആൻ പരിഭാഷകൾ പ്രചരിപ്പിക്കുന്നതിൽ ഹമദാനി തങ്ങളുടെ നേതൃത്വത്തിലുള്ള സ്ഥാപനങ്ങൾ വഹിച്ച പങ്ക് ഈ ലേഖനം ചർച്ച ചെയ്യുന്നു.",
+   "author": "ഡോ. ചേക്കുമരക്കാരകത്ത് ഷാനവാസ്, പറവണ്ണ",
+   "issue_date": "2019-03-02",
+   "html_url": "/ml/history/hamadani-s-institutions-and-quranic-renaissance-20190302-7.html",
+   "md_url": "/ml/history/hamadani-s-institutions-and-quranic-renaissance-20190302-7.md"
+  },
+  {
    "slug": "islamic-history-an-overview-20170401-5",
    "lang": "ml",
    "category": "history",
@@ -11871,6 +11904,17 @@
    "md_url": "/ml/opinion/karoovalli-s-perspectives-and-successors-approaches-20180804-8.md"
   },
   {
+   "slug": "kashmir-realities-shattered-by-explosions-20190302-6",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "കശ്മീര്‍: സ്‌ഫോടനത്തില്‍ തകരുന്ന യാഥാര്‍ഥ്യങ്ങള്‍",
+   "summary": "പുൽവാമ ഭീകരാക്രമണത്തിന്റെ പശ്ചാത്തലത്തിൽ കശ്മീരിലെ നിലവിലെ രാഷ്ട്രീയ സാഹചര്യങ്ങളെയും സുരക്ഷാ ഭീഷണികളെയും വിശകലനം ചെയ്യുന്ന ലേഖനം.",
+   "author": "പി.വി.എ പ്രിംറോസ്",
+   "issue_date": "2019-03-02",
+   "html_url": "/ml/opinion/kashmir-realities-shattered-by-explosions-20190302-6.html",
+   "md_url": "/ml/opinion/kashmir-realities-shattered-by-explosions-20190302-6.md"
+  },
+  {
    "slug": "kerala-is-weeping-20180901-4",
    "lang": "ml",
    "category": "opinion",
@@ -12003,6 +12047,17 @@
    "md_url": "/ml/opinion/permanent-lok-adalat-20181110-7.md"
   },
   {
+   "slug": "population-explosion-truth-and-myth-20190302-5",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "ജനസംഖ്യാ വിസ്‌ഫോടനം: സത്യവും മിഥ്യയും",
+   "summary": "ജനസംഖ്യാ വർദ്ധനവിനെക്കുറിച്ചുള്ള തെറ്റിദ്ധാരണകളെയും യാഥാർത്ഥ്യങ്ങളെയും വിശകലനം ചെയ്യുന്നു. മലപ്പുറം ജില്ലയുടെ വികസന പശ്ചാത്തലത്തിൽ ജനസംഖ്യാ വിഷയത്തെ ശാസ്ത്രീയമായി സമീപിക്കുന്നു.",
+   "author": "ഫൈസല്‍ അനന്തപുരി, ജാമിഅ അല്‍ഹിന്ദ്",
+   "issue_date": "2019-03-02",
+   "html_url": "/ml/opinion/population-explosion-truth-and-myth-20190302-5.html",
+   "md_url": "/ml/opinion/population-explosion-truth-and-myth-20190302-5.md"
+  },
+  {
    "slug": "rafale-alok-verma-and-the-central-government-20190126-7",
    "lang": "ml",
    "category": "opinion",
@@ -12122,6 +12177,17 @@
    "issue_date": "2018-09-29",
    "html_url": "/ml/opinion/secularism-fascism-and-resistance-20180929-6.html",
    "md_url": "/ml/opinion/secularism-fascism-and-resistance-20180929-6.md"
+  },
+  {
+   "slug": "shouldn-t-these-murders-end-20190302-3",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "ഈ അരുംകൊലകള്‍ക്ക് അറുതി വേണ്ടേ?",
+   "summary": "കേരളത്തിൽ നടന്നുകൊണ്ടിരിക്കുന്ന രാഷ്ട്രീയ കൊലപാതകങ്ങളെക്കുറിച്ചുള്ള വിമർശനാത്മകമായ ലേഖനം. അക്രമരാഷ്ട്രീയത്തിന്റെ ഭവിഷ്യത്തുകളെയും സമാധാനപരമായ സഹവർത്തിത്വത്തിന്റെ ആവശ്യകതയെയും ഇത് ഓർമ്മിപ്പിക്കുന്നു.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2019-03-02",
+   "html_url": "/ml/opinion/shouldn-t-these-murders-end-20190302-3.html",
+   "md_url": "/ml/opinion/shouldn-t-these-murders-end-20190302-3.md"
   },
   {
    "slug": "spiritual-distortions-created-by-letters-20181229-11",
@@ -12773,6 +12839,17 @@
    "md_url": "/ml/quran/surah-an-naba-the-news-20190209-3.md"
   },
   {
+   "slug": "surah-an-naba-the-news-20190302-2",
+   "lang": "ml",
+   "category": "quran",
+   "title": "നബഅ് (വൃത്താന്തം)",
+   "summary": "ക്വുർആനിലെ 78-ാം അധ്യായമായ സൂറത്തു നബഇന്റെ ലളിതമായ വ്യാഖ്യാനം. പരലോകത്തെക്കുറിച്ചും അല്ലാഹുവിന്റെ ദൃഷ്ടാന്തങ്ങളെക്കുറിച്ചുമുള്ള വിവരണങ്ങൾ ഇതിൽ ഉൾക്കൊള്ളുന്നു.",
+   "author": "അബ്ദുറഹ്മാന്‍ നാസിര്‍ അസ്സഅദി",
+   "issue_date": "2019-03-02",
+   "html_url": "/ml/quran/surah-an-naba-the-news-20190302-2.html",
+   "md_url": "/ml/quran/surah-an-naba-the-news-20190302-2.md"
+  },
+  {
    "slug": "surah-ash-shu-ara-the-poets-20260822-7",
    "lang": "ml",
    "category": "quran",
@@ -13024,6 +13101,17 @@
    "issue_date": "2018-08-18",
    "html_url": "/ml/seerah/not-an-individual-but-a-movement-20180818-12.html",
    "md_url": "/ml/seerah/not-an-individual-but-a-movement-20180818-12.md"
+  },
+  {
+   "slug": "prophet-ilyas-as-20190302-4",
+   "lang": "ml",
+   "category": "seerah",
+   "title": "ഇല്‍യാസ് നബി(അ)",
+   "summary": "ക്വുർആനിൽ പരാമർശിക്കപ്പെട്ട പ്രവാചകൻ ഇൽയാസ് (അ) യുടെ ജീവിതത്തെക്കുറിച്ചുള്ള ലഘുചരിത്രം. അദ്ദേഹത്തിന്റെ പ്രബോധന പ്രവർത്തനങ്ങളെയും ചരിത്രപരമായ പശ്ചാത്തലത്തെയും ഇത് പരിചയപ്പെടുത്തുന്നു.",
+   "author": "ഹുസൈന്‍ സലഫി, ഷാര്‍ജ",
+   "issue_date": "2019-03-02",
+   "html_url": "/ml/seerah/prophet-ilyas-as-20190302-4.html",
+   "md_url": "/ml/seerah/prophet-ilyas-as-20190302-4.md"
   },
   {
    "slug": "prophet-muhammad-pbuh-life-and-message-20170225-8",
@@ -13312,6 +13400,17 @@
    "md_url": "/ml/seerah/the-journey-to-receive-the-torah-20180818-8.md"
   },
   {
+   "slug": "the-phase-of-persecution-20190302-9",
+   "lang": "ml",
+   "category": "seerah",
+   "title": "പീഡനപര്‍വം",
+   "summary": "പ്രവാചകന്മാർക്ക് തങ്ങളുടെ പ്രബോധന പാതയിൽ നേരിടേണ്ടി വന്ന പീഡനങ്ങളെയും അതിനെ അവർ നേരിട്ട രീതിയെയും കുറിച്ചുള്ള ചരിത്രപരമായ വിശകലനം.",
+   "author": "ഫദ്‌ലുല്‍ ഹഖ് ഉമരി",
+   "issue_date": "2019-03-02",
+   "html_url": "/ml/seerah/the-phase-of-persecution-20190302-9.html",
+   "md_url": "/ml/seerah/the-phase-of-persecution-20190302-9.md"
+  },
+  {
    "slug": "the-prophet-gifted-with-a-melodious-voice-dawud-as-20181208-7",
    "lang": "ml",
    "category": "seerah",
@@ -13497,6 +13596,17 @@
    "issue_date": "2017-02-04",
    "html_url": "/ml/story/abdullah-s-mistake-20170204-1.html",
    "md_url": "/ml/story/abdullah-s-mistake-20170204-1.md"
+  },
+  {
+   "slug": "against-the-flow-20190302-8",
+   "lang": "ml",
+   "category": "story",
+   "title": "ഒഴുക്കിനെതിരെ...",
+   "summary": "തിന്മകൾക്കെതിരെ പ്രതികരിക്കാനും സാമൂഹികമായ ഉത്തരവാദിത്തങ്ങൾ നിറവേറ്റാനും ആഹ്വാനം ചെയ്യുന്ന ഒരു കവിത.",
+   "author": "ഉസ്മാന്‍ പാലക്കാഴി",
+   "issue_date": "2019-03-02",
+   "html_url": "/ml/story/against-the-flow-20190302-8.html",
+   "md_url": "/ml/story/against-the-flow-20190302-8.md"
   },
   {
    "slug": "allah-is-watching-20170211-3",
