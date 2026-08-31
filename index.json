@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-31T10:28:45.658428+00:00",
+ "generated_at": "2026-08-31T10:29:12.958247+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2333,
+ "count": 2334,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -24937,6 +24937,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/uz/youth/what-will-the-waste-do-20170114-5.html",
    "md_url": "/uz/youth/what-will-the-waste-do-20170114-5.md"
+  },
+  {
+   "slug": "become-the-guardian-of-the-sources-20170128-9",
+   "lang": "vi",
+   "category": "aqeedah",
+   "title": "Hãy trở thành người bảo vệ các nguồn giáo lý",
+   "summary": "Bài viết giải thích về tính thiêng liêng, sự bất bại của các nguồn giáo lý Hồi giáo và sự khác biệt của chúng so với các tôn giáo khác. Đồng thời, bài viết nhắc nhở về tầm quan trọng của việc bảo vệ Kinh Qur'an và Sunnah.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2017-01-28",
+   "html_url": "/vi/aqeedah/become-the-guardian-of-the-sources-20170128-9.html",
+   "md_url": "/vi/aqeedah/become-the-guardian-of-the-sources-20170128-9.md"
   },
   {
    "slug": "do-not-waver-in-trials-20170121-9",
