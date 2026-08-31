@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-31T05:54:05.670081+00:00",
+ "generated_at": "2026-08-31T05:54:57.159647+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1988,
+ "count": 1989,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -17501,6 +17501,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/sq/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.html",
    "md_url": "/sq/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.md"
+  },
+  {
+   "slug": "what-to-beware-of-when-taking-sides-20170128-7",
+   "lang": "sq",
+   "category": "quran",
+   "title": "Çfarë duhet të keni parasysh kur mbani anë",
+   "summary": "Duke u bazuar në ajetin 43:67 të Kuranit, ky shkrim shpjegon rëndësinë e kujdesit gjatë mbajtjes së anëve dhe ruajtjes së lidhjeve shoqërore.",
+   "author": "അബൂ അമീൻ",
+   "issue_date": "2017-01-28",
+   "html_url": "/sq/quran/what-to-beware-of-when-taking-sides-20170128-7.html",
+   "md_url": "/sq/quran/what-to-beware-of-when-taking-sides-20170128-7.md"
   },
   {
    "slug": "prophets-and-trials-20170325-7",
