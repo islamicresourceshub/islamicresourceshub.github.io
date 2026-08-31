@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-31T10:34:32.467980+00:00",
+ "generated_at": "2026-08-31T10:48:09.265322+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2347,
+ "count": 2348,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -1496,6 +1496,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/as/opinion/muslim-extremists-defame-islam-20170114-7.html",
    "md_url": "/as/opinion/muslim-extremists-defame-islam-20170114-7.md"
+  },
+  {
+   "slug": "rohingya-muslims-victims-of-racial-hatred-20170128-10",
+   "lang": "as",
+   "category": "opinion",
+   "title": "ৰোহিংগ্যা মুছলমানসকল: জাতিগত ঘৃণাৰ বলি",
+   "summary": "ম্যানমাৰৰ ৰোহিংগ্যা মুছলমানসকলৰ বিৰুদ্ধে চলি থকা জাতিগত ঘৃণা আৰু অত্যাচাৰৰ এক বিশ্লেষণাত্মক প্ৰবন্ধ। ইয়াত তেওঁলোকৰ ঐতিহাসিক পটভূমি আৰু আন্তঃৰাষ্ট্ৰীয় হেঁচা প্ৰয়োগৰ প্ৰয়োজনীয়তাৰ ওপৰত আলোকপাত কৰা হৈছে।",
+   "author": "ഡോ. ശബീൽ പി.എൻ",
+   "issue_date": "2017-01-28",
+   "html_url": "/as/opinion/rohingya-muslims-victims-of-racial-hatred-20170128-10.html",
+   "md_url": "/as/opinion/rohingya-muslims-victims-of-racial-hatred-20170128-10.md"
   },
   {
    "slug": "salafi-preaching-a-theoretical-analysis-20170121-10",
