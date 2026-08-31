@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-31T04:30:03.585274+00:00",
+ "generated_at": "2026-08-31T04:30:48.308938+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1862,
+ "count": 1863,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -16720,6 +16720,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/sw/story/laws-are-to-be-followed-20170128-5.html",
    "md_url": "/sw/story/laws-are-to-be-followed-20170128-5.md"
+  },
+  {
+   "slug": "the-currency-that-was-not-accepted-20170114-3",
+   "lang": "sw",
+   "category": "story",
+   "title": "Sarafu Isiyokubalika",
+   "summary": "Hii ni hadithi ya kielelezo inayoelezea hali ya watu walioshtushwa pale utajiri waliouchuma kwa maisha yao yote ulipotangazwa kuwa sarafu isiyokubalika. Inatukumbusha kuwa matendo yetu ya kidunia lazima yawe na thamani mbele ya Mwenyezi Mungu ili yaweze kukubalika katika maisha ya akhera.",
+   "author": "കുഞ്ഞിമുഹമ്മദ്‌ മദനി പറപ്പൂർ",
+   "issue_date": "2017-01-14",
+   "html_url": "/sw/story/the-currency-that-was-not-accepted-20170114-3.html",
+   "md_url": "/sw/story/the-currency-that-was-not-accepted-20170114-3.md"
   },
   {
    "slug": "the-fruit-of-ingratitude-20170121-7",
