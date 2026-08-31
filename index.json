@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-31T10:23:33.416514+00:00",
+ "generated_at": "2026-08-31T10:24:16.500516+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2309,
+ "count": 2310,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -23254,6 +23254,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/tl/youth/what-will-the-waste-do-20170114-5.html",
    "md_url": "/tl/youth/what-will-the-waste-do-20170114-5.md"
+  },
+  {
+   "slug": "become-the-guardian-of-the-sources-20170128-9",
+   "lang": "tr",
+   "category": "aqeedah",
+   "title": "Vahi Kaynaklarının Muhafızı Olun",
+   "summary": "İslam'ın temel kaynaklarının ilahi niteliğini, sarsılmaz yapısını ve diğer inanç sistemlerinden farkını ele alıyoruz. Kur'an ve Sünnet'i korumanın ve onlara sımsıkı sarılmanın müminler için taşıdığı hayati önemi hatırlatıyoruz.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2017-01-28",
+   "html_url": "/tr/aqeedah/become-the-guardian-of-the-sources-20170128-9.html",
+   "md_url": "/tr/aqeedah/become-the-guardian-of-the-sources-20170128-9.md"
   },
   {
    "slug": "do-not-waver-in-trials-20170121-9",
