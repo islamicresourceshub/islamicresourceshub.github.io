@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-31T10:48:46.982710+00:00",
+ "generated_at": "2026-08-31T10:52:09.056327+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2349,
+ "count": 2358,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -9484,6 +9484,17 @@
    "md_url": "/ml/dawah/a-severe-disease-affecting-the-mind-20190427-5.md"
   },
   {
+   "slug": "after-ramadan-20190608-9",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "റമദാനിനു ശേഷം?",
+   "summary": "റമദാനിന് ശേഷവും വിശ്വാസി എങ്ങനെ ജീവിതം ക്രമീകരിക്കണം എന്ന് ഈ ലേഖനം ഉപദേശിക്കുന്നു. റമദാനില്‍ നേടിയെടുത്ത നന്മകള്‍ തുടര്‍ന്നും നിലനിര്‍ത്തേണ്ടതിന്റെ പ്രാധാന്യമാണ് ഇതിലെ വിഷയം.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2019-06-08",
+   "html_url": "/ml/dawah/after-ramadan-20190608-9.html",
+   "md_url": "/ml/dawah/after-ramadan-20190608-9.md"
+  },
+  {
    "slug": "ahmadis-into-a-new-crisis-20181222-2",
    "lang": "ml",
    "category": "dawah",
@@ -9493,6 +9504,17 @@
    "issue_date": "2018-12-22",
    "html_url": "/ml/dawah/ahmadis-into-a-new-crisis-20181222-2.html",
    "md_url": "/ml/dawah/ahmadis-into-a-new-crisis-20181222-2.md"
+  },
+  {
+   "slug": "attaining-allah-s-mercy-20190608-1",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "അല്ലാഹുവിന്റെ കാരുണ്യം നേടാന്‍",
+   "summary": "മനുഷ്യന് അല്ലാഹു നല്‍കിയ ബുദ്ധിയും സംസാരശേഷിയും ഉപയോഗിച്ച് എങ്ങനെ അവന്റെ കാരുണ്യം നേടിയെടുക്കാം എന്ന് ഈ ലേഖനം വിശദീകരിക്കുന്നു. സൃഷ്ടികളില്‍ വെച്ച് ഏറ്റവും ശ്രേഷ്ഠനായ മനുഷ്യന്റെ ഉത്തരവാദിത്തങ്ങളെക്കുറിച്ചാണ് ഇതില്‍ പ്രതിപാദിക്കുന്നത്.",
+   "author": "അബൂഹംദ അലനല്ലൂര്‍",
+   "issue_date": "2019-06-08",
+   "html_url": "/ml/dawah/attaining-allah-s-mercy-20190608-1.html",
+   "md_url": "/ml/dawah/attaining-allah-s-mercy-20190608-1.md"
   },
   {
    "slug": "barakah-20181201-1",
@@ -10362,6 +10384,17 @@
    "issue_date": "2018-11-03",
    "html_url": "/ml/dawah/that-day-is-not-far-20181103-1.html",
    "md_url": "/ml/dawah/that-day-is-not-far-20181103-1.md"
+  },
+  {
+   "slug": "the-beauty-of-islam-20190608-4",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "ഇസ്‌ലാമിന്റെ സൗന്ദര്യം",
+   "summary": "ഇസ്‌ലാമിനെയും അതിന്റെ നിയമങ്ങളെയും പരിഹസിക്കുന്ന പ്രവണതയെ വിമര്‍ശിച്ചുകൊണ്ട് ഇസ്‌ലാമിന്റെ സൗന്ദര്യവും മാഹാത്മ്യവും ഈ ലേഖനം വ്യക്തമാക്കുന്നു. വിശ്വാസികള്‍ മതത്തെ എങ്ങനെ സമീപിക്കണം എന്ന് ഇത് ഓര്‍മ്മിപ്പിക്കുന്നു.",
+   "author": "അബൂബക്കര്‍ സലഫി",
+   "issue_date": "2019-06-08",
+   "html_url": "/ml/dawah/the-beauty-of-islam-20190608-4.html",
+   "md_url": "/ml/dawah/the-beauty-of-islam-20190608-4.md"
   },
   {
    "slug": "the-chemistry-of-unity-20170225-2",
@@ -11519,6 +11552,17 @@
    "md_url": "/ml/fiqh/fitr-zakat-20180616-3.md"
   },
   {
+   "slug": "fitr-zakat-and-ajmal-s-doubts-20190608-8",
+   "lang": "ml",
+   "category": "fiqh",
+   "title": "ഫിത്വ്ര്‍ സകാത്തും അജ്മലിന്റെ സംശയങ്ങളും",
+   "summary": "ഫിത്വ്‌റ് സകാത്തിനെ സംബന്ധിച്ചുള്ള സംശയങ്ങളും അതിനുള്ള മറുപടികളും ലളിതമായി വിവരിക്കുന്നു. ഒരു കഥാപാത്രത്തിന്റെ സംശയങ്ങളിലൂടെ ഫിഖ്ഹീ വിഷയങ്ങള്‍ വായനക്കാരിലേക്ക് എത്തിക്കുന്നു.",
+   "author": "ഉസ്മാന്‍ പാലക്കാഴി",
+   "issue_date": "2019-06-08",
+   "html_url": "/ml/fiqh/fitr-zakat-and-ajmal-s-doubts-20190608-8.html",
+   "md_url": "/ml/fiqh/fitr-zakat-and-ajmal-s-doubts-20190608-8.md"
+  },
+  {
    "slug": "for-women-to-know-20181117-7",
    "lang": "ml",
    "category": "fiqh",
@@ -12034,6 +12078,17 @@
    "issue_date": "2019-03-23",
    "html_url": "/ml/history/ahmed-raza-khan-barelvi-origins-and-evolution-20190323-1.html",
    "md_url": "/ml/history/ahmed-raza-khan-barelvi-origins-and-evolution-20190323-1.md"
+  },
+  {
+   "slug": "arabic-language-and-al-bushra-magazine-20190608-2",
+   "lang": "ml",
+   "category": "history",
+   "title": "അറബി ഭാഷയും അല്‍ബുശ്‌റ മാസികയും",
+   "summary": "അരീക്കോട് നിന്നും പ്രസിദ്ധീകരിച്ച അല്‍ബുശ്‌റ മാസികയുടെ ചരിത്രവും അറബി ഭാഷാ പ്രചാരണത്തില്‍ അത് വഹിച്ച പങ്കും ഈ ലേഖനം ചര്‍ച്ച ചെയ്യുന്നു. 1963-ല്‍ ആരംഭിച്ച മാസികയുടെ നാള്‍വഴികളാണ് ഇതിലുള്ളത്.",
+   "author": "അലീഫ് ഷാന്‍ സി.എം പറവണ്ണ",
+   "issue_date": "2019-06-08",
+   "html_url": "/ml/history/arabic-language-and-al-bushra-magazine-20190608-2.html",
+   "md_url": "/ml/history/arabic-language-and-al-bushra-magazine-20190608-2.md"
   },
   {
    "slug": "arabs-and-arabic-learning-in-kerala-20180908-2",
@@ -13488,6 +13543,17 @@
    "md_url": "/ml/opinion/the-traps-behind-women-s-liberation-20180428-7.md"
   },
   {
+   "slug": "the-victory-of-pseudo-nationalism-and-communalism-20190608-5",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "കപട ദേശീയതയുടെ വിജയം; വര്‍ഗീയതയുടെയും",
+   "summary": "ഇന്ത്യയിലെ രാഷ്ട്രീയ സാഹചര്യങ്ങളെയും വര്‍ഗീയതയുടെ വളര്‍ച്ചയെയും വിശകലനം ചെയ്യുന്ന ലേഖനം. തെരഞ്ഞെടുപ്പ് ഫലങ്ങളുടെ പശ്ചാത്തലത്തില്‍ രാജ്യത്തെ രാഷ്ട്രീയ മാറ്റങ്ങളെ ഇത് വിമര്‍ശനാത്മകമായി പരിശോധിക്കുന്നു.",
+   "author": "സുഫ്‌യാന്‍ അബ്ദുസ്സലാം",
+   "issue_date": "2019-06-08",
+   "html_url": "/ml/opinion/the-victory-of-pseudo-nationalism-and-communalism-20190608-5.html",
+   "md_url": "/ml/opinion/the-victory-of-pseudo-nationalism-and-communalism-20190608-5.md"
+  },
+  {
    "slug": "trump-and-his-racism-20170211-14",
    "lang": "ml",
    "category": "opinion",
@@ -14025,6 +14091,17 @@
    "issue_date": "2019-04-27",
    "html_url": "/ml/quran/surah-al-insan-tafsir-20190427-4.html",
    "md_url": "/ml/quran/surah-al-insan-tafsir-20190427-4.md"
+  },
+  {
+   "slug": "surah-al-mursalat-20190608-3",
+   "lang": "ml",
+   "category": "quran",
+   "title": "മുര്‍സലാത്ത് (അയക്കപ്പെടുന്നവ)",
+   "summary": "ഖുര്‍ആനിലെ 77-ാം അധ്യായമായ സൂറത്തുല്‍ മുര്‍സലാത്തിന്റെ ലഘു വ്യാഖ്യാനം. അന്ത്യദിനത്തെക്കുറിച്ചും പരലോകത്തെക്കുറിച്ചുമുള്ള ഖുര്‍ആനിക മുന്നറിയിപ്പുകളാണ് ഇതില്‍ വിവരിക്കുന്നത്.",
+   "author": "അബ്ദുറഹ്മാന്‍ നാസിര്‍ അസ്സഅദി",
+   "issue_date": "2019-06-08",
+   "html_url": "/ml/quran/surah-al-mursalat-20190608-3.html",
+   "md_url": "/ml/quran/surah-al-mursalat-20190608-3.md"
   },
   {
    "slug": "surah-al-mursalat-tafsir-20190525-2",
@@ -14962,6 +15039,17 @@
    "md_url": "/ml/seerah/the-transformation-of-the-arabs-20181229-2.md"
   },
   {
+   "slug": "the-treaty-with-the-people-of-madinah-20190608-7",
+   "lang": "ml",
+   "category": "seerah",
+   "title": "മദീനക്കാരുമായുള്ള കരാര്‍",
+   "summary": "പ്രവാചകന്‍ മുഹമ്മദ് നബിയുടെ ജീവിത ചരിത്രത്തിലെ മദീന കാലഘട്ടത്തെക്കുറിച്ചുള്ള പരമ്പര. മദീനയിലെത്തിയ പ്രവാചകന്‍ അവിടെയുള്ളവരുമായി ഉണ്ടാക്കിയ കരാറുകളെയും സാമൂഹിക ക്രമീകരണങ്ങളെയും ഇത് വിവരിക്കുന്നു.",
+   "author": "ഫദ്‌ലുല്‍ ഹഖ് ഉമരി",
+   "issue_date": "2019-06-08",
+   "html_url": "/ml/seerah/the-treaty-with-the-people-of-madinah-20190608-7.html",
+   "md_url": "/ml/seerah/the-treaty-with-the-people-of-madinah-20190608-7.md"
+  },
+  {
    "slug": "the-virtues-of-makkah-20180630-1",
    "lang": "ml",
    "category": "seerah",
@@ -15543,6 +15631,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/ml/story/sugar-like-gold-dust-20170128-11.html",
    "md_url": "/ml/story/sugar-like-gold-dust-20170128-11.md"
+  },
+  {
+   "slug": "tears-of-repentance-20190608-6",
+   "lang": "ml",
+   "category": "story",
+   "title": "കുറ്റബോധത്തിന്റെ കണ്ണീര്‍കണങ്ങള്‍",
+   "summary": "റമദാന്‍ മാസത്തിലെ ഒരു പ്രഭാതത്തില്‍ നടക്കുന്ന സംഭവത്തെ ആസ്പദമാക്കി തയ്യാറാക്കിയ കഥ. കുറ്റബോധവും പശ്ചാത്താപവും ഒരു വിശ്വാസിയുടെ ജീവിതത്തില്‍ വരുത്തുന്ന മാറ്റങ്ങളെ ഇത് വരച്ചുകാട്ടുന്നു.",
+   "author": "ഇബ്‌നു അലി എടത്തനാട്ടുകര",
+   "issue_date": "2019-06-08",
+   "html_url": "/ml/story/tears-of-repentance-20190608-6.html",
+   "md_url": "/ml/story/tears-of-repentance-20190608-6.md"
   },
   {
    "slug": "the-agony-of-death-20180421-5",
