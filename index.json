@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-31T04:49:08.455361+00:00",
+ "generated_at": "2026-08-31T04:49:48.837180+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1874,
+ "count": 1875,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -18161,6 +18161,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/th/story/laws-are-to-be-followed-20170128-5.html",
    "md_url": "/th/story/laws-are-to-be-followed-20170128-5.md"
+  },
+  {
+   "slug": "the-currency-that-was-not-accepted-20170114-3",
+   "lang": "th",
+   "category": "story",
+   "title": "สกุลเงินที่ไม่มีใครรับ",
+   "summary": "เรื่องราวเปรียบเทียบที่สะท้อนให้เห็นถึงความตื่นตระหนกของผู้คน เมื่อทรัพย์สินที่ตรากตรำทำงานหามาตลอดชีวิตถูกประกาศว่าเป็นสกุลเงินที่ใช้ไม่ได้อีกต่อไป",
+   "author": "കുഞ്ഞിമുഹമ്മദ്‌ മദനി പറപ്പൂർ",
+   "issue_date": "2017-01-14",
+   "html_url": "/th/story/the-currency-that-was-not-accepted-20170114-3.html",
+   "md_url": "/th/story/the-currency-that-was-not-accepted-20170114-3.md"
   },
   {
    "slug": "the-fruit-of-ingratitude-20170121-7",
