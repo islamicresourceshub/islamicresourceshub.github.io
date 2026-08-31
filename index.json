@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-31T10:24:41.052306+00:00",
+ "generated_at": "2026-08-31T10:25:01.611649+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2321,
+ "count": 2322,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -23859,6 +23859,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/tr/youth/what-will-the-waste-do-20170114-5.html",
    "md_url": "/tr/youth/what-will-the-waste-do-20170114-5.md"
+  },
+  {
+   "slug": "become-the-guardian-of-the-sources-20170128-9",
+   "lang": "ur",
+   "category": "aqeedah",
+   "title": "مآخذ کے محافظ بنیں",
+   "summary": "یہ تحریر اسلام کے بنیادی مآخذ کی الوہی حیثیت، ان کی ناقابل تسخیر نوعیت اور دیگر مذاہب سے ان کے امتیاز کو واضح کرتی ہے۔ ساتھ ہی یہ قرآن و سنت کی حفاظت کی اہمیت کو بھی اجاگر کرتی ہے۔",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2017-01-28",
+   "html_url": "/ur/aqeedah/become-the-guardian-of-the-sources-20170128-9.html",
+   "md_url": "/ur/aqeedah/become-the-guardian-of-the-sources-20170128-9.md"
   },
   {
    "slug": "do-not-waver-in-trials-20170121-9",
