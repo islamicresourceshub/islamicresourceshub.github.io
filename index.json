@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-31T08:43:06.789425+00:00",
+ "generated_at": "2026-08-31T08:46:13.991872+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2103,
+ "count": 2112,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -9011,6 +9011,17 @@
    "md_url": "/ml/aqeedah/the-hidden-aspects-of-opposition-to-manhaj-20181201-5.md"
   },
   {
+   "slug": "the-purpose-of-human-creation-20190202-3",
+   "lang": "ml",
+   "category": "aqeedah",
+   "title": "മനുഷ്യ സൃഷ്ടിപ്പിന്റെ ലക്ഷ്യം",
+   "summary": "അല്ലാഹുവിനെ മാത്രം ആരാധിക്കുക എന്നതാണ് മനുഷ്യസൃഷ്ടിപ്പിന്റെ ലക്ഷ്യമെന്ന് ഈ ലേഖനം വ്യക്തമാക്കുന്നു. പ്രവാചകന്മാരിലൂടെ ഈ സന്ദേശം എങ്ങനെയാണ് മനുഷ്യരിലേക്ക് എത്തിയതെന്ന് വിശദീകരിക്കുന്നു.",
+   "author": "സയ്യിദ് സഅ്ഫര്‍ സ്വാദിക്വ് മദീനി",
+   "issue_date": "2019-02-02",
+   "html_url": "/ml/aqeedah/the-purpose-of-human-creation-20190202-3.html",
+   "md_url": "/ml/aqeedah/the-purpose-of-human-creation-20190202-3.md"
+  },
+  {
    "slug": "they-want-to-see-god-20170204-2",
    "lang": "ml",
    "category": "aqeedah",
@@ -9405,6 +9416,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/ml/dawah/living-with-an-awareness-of-time-s-value-20170114-8.html",
    "md_url": "/ml/dawah/living-with-an-awareness-of-time-s-value-20170114-8.md"
+  },
+  {
+   "slug": "madrasas-and-semester-systems-20190202-8",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "സെമസ്റ്റര്‍ സംവിധാനവുമായി മക്വ്ദി തങ്ങളുടെ മതപാഠശാലകള്‍",
+   "summary": "മതപഠനശാലകളിൽ സെമസ്റ്റർ സംവിധാനം നടപ്പിലാക്കുന്നതിനെക്കുറിച്ചുള്ള ലേഖനം. ഖുർആനിക വിജ്ഞാനത്തിന്റെ പ്രാധാന്യവും പഠനരീതികളിലെ മാറ്റങ്ങളും ചർച്ച ചെയ്യുന്നു.",
+   "author": "ഡോ. ചേക്കുമരക്കാരകത്ത് ഷാനവാസ്, പറവണ്ണ",
+   "issue_date": "2019-02-02",
+   "html_url": "/ml/dawah/madrasas-and-semester-systems-20190202-8.html",
+   "md_url": "/ml/dawah/madrasas-and-semester-systems-20190202-8.md"
   },
   {
    "slug": "maintain-faith-20170211-15",
@@ -10837,6 +10859,17 @@
    "md_url": "/ml/health/hazardous-hospital-waste-20180818-3.md"
   },
   {
+   "slug": "kidney-stones-causes-and-symptoms-20190202-5",
+   "lang": "ml",
+   "category": "health",
+   "title": "മൂത്രാശയക്കല്ല്: കാരണങ്ങളും ലക്ഷണങ്ങളും",
+   "summary": "മൂത്രാശയക്കല്ല് ഉണ്ടാകാനുള്ള കാരണങ്ങളും ലക്ഷണങ്ങളും ഈ ലേഖനം പ്രതിപാദിക്കുന്നു. ഭക്ഷണരീതിയും വെള്ളം കുടിക്കുന്നതിലെ കുറവും എങ്ങനെ രോഗത്തിന് കാരണമാകുന്നു എന്ന് വിശദീകരിക്കുന്നു.",
+   "author": "നിസാം",
+   "issue_date": "2019-02-02",
+   "html_url": "/ml/health/kidney-stones-causes-and-symptoms-20190202-5.html",
+   "md_url": "/ml/health/kidney-stones-causes-and-symptoms-20190202-5.md"
+  },
+  {
    "slug": "know-this-for-those-caring-for-the-sick-20260822-1",
    "lang": "ml",
    "category": "health",
@@ -11750,6 +11783,17 @@
    "md_url": "/ml/opinion/saudi-arabia-in-media-and-realities-20180421-2.md"
   },
   {
+   "slug": "secular-collective-against-communalism-20190202-10",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "വര്‍ഗീയതക്കെതിരെ മതേതര കൂട്ടായ്മ",
+   "summary": "വർഗീയതയ്‌ക്കെതിരെ മതേതര കൂട്ടായ്മയുടെ ആവശ്യകതയെക്കുറിച്ചുള്ള ലേഖനം. നീതിയുടെയും മാനവികതയുടെയും അടിസ്ഥാനത്തിൽ വർഗീയതയെ എങ്ങനെ നേരിടാം എന്ന് ചർച്ച ചെയ്യുന്നു.",
+   "author": "സുഫ്‌യാന്‍ അബ്ദുസ്സലാം",
+   "issue_date": "2019-02-02",
+   "html_url": "/ml/opinion/secular-collective-against-communalism-20190202-10.html",
+   "md_url": "/ml/opinion/secular-collective-against-communalism-20190202-10.md"
+  },
+  {
    "slug": "secular-government-and-muslim-minority-20170218-8",
    "lang": "ml",
    "category": "opinion",
@@ -12102,6 +12146,17 @@
    "md_url": "/ml/opinion/who-should-leave-india-20170121-1.md"
   },
   {
+   "slug": "why-economic-reservation-20190202-2",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "എന്തുകൊണ്ട് സാമ്പത്തിക സംവരണം?",
+   "summary": "ഇന്ത്യൻ ഭരണഘടനയിലെ സംവരണത്തെക്കുറിച്ചും സാമ്പത്തിക സംവരണത്തിന്റെ പ്രസക്തിയെക്കുറിച്ചുമുള്ള വിശകലനം. സാമൂഹിക നീതിയുടെ അടിസ്ഥാനത്തിൽ സംവരണത്തെ എങ്ങനെ നോക്കിക്കാണാം എന്ന് ലേഖനം ചർച്ച ചെയ്യുന്നു.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2019-02-02",
+   "html_url": "/ml/opinion/why-economic-reservation-20190202-2.html",
+   "md_url": "/ml/opinion/why-economic-reservation-20190202-2.md"
+  },
+  {
    "slug": "will-ayodhya-become-a-riot-zone-once-again-20181208-2",
    "lang": "ml",
    "category": "opinion",
@@ -12353,6 +12408,17 @@
    "issue_date": "2018-10-13",
    "html_url": "/ml/quran/surah-al-ghashiyah-part-2-20181013-2.html",
    "md_url": "/ml/quran/surah-al-ghashiyah-part-2-20181013-2.md"
+  },
+  {
+   "slug": "surah-al-infitar-20190202-1",
+   "lang": "ml",
+   "category": "quran",
+   "title": "ഇന്‍ഫിത്വാര്‍ (പൊട്ടിക്കീറല്‍)",
+   "summary": "ഖുർആനിലെ 82-ാം അധ്യായമായ ഇൻഫിത്വാറിന്റെ ലളിതമായ വിവർത്തനവും വ്യാഖ്യാനവും. ലോകാവസാനത്തെക്കുറിച്ചുള്ള ഭയാനകമായ ദൃശ്യങ്ങൾ ഈ അധ്യായം വിവരിക്കുന്നു.",
+   "author": "അബ്ദുറഹ്മാന്‍ നാസിര്‍ അസ്സഅദി",
+   "issue_date": "2019-02-02",
+   "html_url": "/ml/quran/surah-al-infitar-20190202-1.html",
+   "md_url": "/ml/quran/surah-al-infitar-20190202-1.md"
   },
   {
    "slug": "surah-ash-shu-ara-the-poets-20260822-7",
@@ -12685,6 +12751,17 @@
    "md_url": "/ml/seerah/reaching-midian-20180519-3.md"
   },
   {
+   "slug": "realities-realized-through-death-sulaiman-nabi-series-20190202-4",
+   "lang": "ml",
+   "category": "seerah",
+   "title": "മരണം ബോധ്യപ്പെടുത്തിയ ചില യാഥാര്‍ഥ്യങ്ങള്‍",
+   "summary": "സുലൈമാൻ നബി(അ)യുടെ ജീവിതത്തെക്കുറിച്ചുള്ള പരമ്പരയുടെ ഭാഗമാണിത്. അദ്ദേഹത്തിന്റെ ബുദ്ധിശക്തിയും അല്ലാഹു നൽകിയ അനുഗ്രഹങ്ങളും മരണത്തെക്കുറിച്ചുള്ള ചിന്തകളിലൂടെ ലേഖകൻ വിവരിക്കുന്നു.",
+   "author": "ഹുസൈന്‍ സലഫി, ഷാര്‍ജ",
+   "issue_date": "2019-02-02",
+   "html_url": "/ml/seerah/realities-realized-through-death-sulaiman-nabi-series-20190202-4.html",
+   "md_url": "/ml/seerah/realities-realized-through-death-sulaiman-nabi-series-20190202-4.md"
+  },
+  {
    "slug": "results-of-prayer-20190126-6",
    "lang": "ml",
    "category": "seerah",
@@ -12727,6 +12804,17 @@
    "issue_date": "2019-01-26",
    "html_url": "/ml/seerah/the-beginning-of-revelation-20190126-9.html",
    "md_url": "/ml/seerah/the-beginning-of-revelation-20190126-9.md"
+  },
+  {
+   "slug": "the-beginning-of-secret-dawah-20190202-6",
+   "lang": "ml",
+   "category": "seerah",
+   "title": "രഹസ്യപ്രബോധനം തുടങ്ങുന്നു",
+   "summary": "പ്രവാചകൻ മുഹമ്മദ് നബി(സ)യുടെ ജീവിതചരിത്ര പരമ്പരയുടെ ഭാഗമാണിത്. ഇസ്‌ലാമിക പ്രബോധനത്തിന്റെ തുടക്കത്തിൽ വഹ്‌യ് ലഭിച്ച രീതികളെക്കുറിച്ചും രഹസ്യപ്രബോധനത്തെക്കുറിച്ചും വിവരിക്കുന്നു.",
+   "author": "ഫദ്‌ലുല്‍ ഹഖ് ഉമരി",
+   "issue_date": "2019-02-02",
+   "html_url": "/ml/seerah/the-beginning-of-secret-dawah-20190202-6.html",
+   "md_url": "/ml/seerah/the-beginning-of-secret-dawah-20190202-6.md"
   },
   {
    "slug": "the-birth-of-prophet-muhammad-pbuh-20190112-8",
@@ -13442,6 +13530,17 @@
    "issue_date": "2018-09-08",
    "html_url": "/ml/story/the-reward-of-mercy-20180908-3.html",
    "md_url": "/ml/story/the-reward-of-mercy-20180908-3.md"
+  },
+  {
+   "slug": "the-story-of-sa-sa-ah-ibn-najiyah-20190202-7",
+   "lang": "ml",
+   "category": "story",
+   "title": "സഅ്‌സഅത്ബ്‌നു നാജിയയുടെ കഥ; മനുഷ്യത്വത്തിന്റെയും",
+   "summary": "സഅ്‌സഅത്ബ്‌നു നാജിയയുടെ ജീവിതത്തിലെ ഒരു സംഭവത്തെ ആസ്പദമാക്കിയുള്ള കഥ. മനുഷ്യത്വത്തിന്റെയും കരുണയുടെയും പാഠങ്ങൾ ഈ കഥ പങ്കുവെക്കുന്നു.",
+   "author": "പി.എന്‍. അബ്ദുല്ലത്വീഫ് മദനി",
+   "issue_date": "2019-02-02",
+   "html_url": "/ml/story/the-story-of-sa-sa-ah-ibn-najiyah-20190202-7.html",
+   "md_url": "/ml/story/the-story-of-sa-sa-ah-ibn-najiyah-20190202-7.md"
   },
   {
    "slug": "the-votive-chicken-and-the-stone-of-ayilyam-20180825-7",
