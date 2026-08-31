@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-31T05:11:11.312632+00:00",
+ "generated_at": "2026-08-31T05:11:53.943226+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1905,
+ "count": 1906,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -14421,6 +14421,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/ps/youth/an-agenda-is-needed-during-vacation-too-20170325-1.html",
    "md_url": "/ps/youth/an-agenda-is-needed-during-vacation-too-20170325-1.md"
+  },
+  {
+   "slug": "what-will-the-waste-do-20170114-5",
+   "lang": "ps",
+   "category": "youth",
+   "title": "کثافات سره څه وکړو؟",
+   "summary": "دا د شریفې په نوم د یوې هوښیارې نجلۍ کیسه ده چې د کثافاتو د مدیریت او د چاپېریال د پاک ساتلو د اهمیت په اړه ماشومانو ته درس ورکوي.",
+   "author": "അബൂഫായിദ",
+   "issue_date": "2017-01-14",
+   "html_url": "/ps/youth/what-will-the-waste-do-20170114-5.html",
+   "md_url": "/ps/youth/what-will-the-waste-do-20170114-5.md"
   },
   {
    "slug": "do-not-waver-in-trials-20170121-9",
