@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-31T05:54:57.159647+00:00",
+ "generated_at": "2026-08-31T05:58:19.381873+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1989,
+ "count": 1998,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -8747,6 +8747,17 @@
    "md_url": "/ml/aqeedah/tawheed-and-its-categories-20181124-9.md"
   },
   {
+   "slug": "the-hidden-aspects-of-opposition-to-manhaj-20181201-5",
+   "lang": "ml",
+   "category": "aqeedah",
+   "title": "മന്‍ഹജ് വിരോധത്തിന്റെ അന്തര്‍ധാരകള്‍",
+   "summary": "മൻഹജുസ്സലഫ് എന്ന ആശയത്തെക്കുറിച്ചും അതിനെതിരെയുള്ള വിമർശനങ്ങളെക്കുറിച്ചും പ്രതിപാദിക്കുന്നു. പ്രമാണങ്ങളുടെ അടിസ്ഥാനത്തിൽ ശരിയായ പാത പിന്തുടരേണ്ടതിന്റെ പ്രാധാന്യം ലേഖകൻ വ്യക്തമാക്കുന്നു.",
+   "author": "മൂസ സ്വലാഹി, കാര",
+   "issue_date": "2018-12-01",
+   "html_url": "/ml/aqeedah/the-hidden-aspects-of-opposition-to-manhaj-20181201-5.html",
+   "md_url": "/ml/aqeedah/the-hidden-aspects-of-opposition-to-manhaj-20181201-5.md"
+  },
+  {
    "slug": "they-want-to-see-god-20170204-2",
    "lang": "ml",
    "category": "aqeedah",
@@ -8800,6 +8811,17 @@
    "issue_date": "2018-11-17",
    "html_url": "/ml/dawah/a-question-that-pierced-the-heart-20181117-1.html",
    "md_url": "/ml/dawah/a-question-that-pierced-the-heart-20181117-1.md"
+  },
+  {
+   "slug": "barakah-20181201-1",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "ബര്‍കത്ത്",
+   "summary": "ജീവിതത്തിലെ അനുഗ്രഹങ്ങളെയും ബർകത്തിനെയും കുറിച്ചുള്ള ഒരു ലേഖനം. ലളിതമായ കാര്യങ്ങളിൽ പോലും അല്ലാഹുവിന്റെ അനുഗ്രഹം എങ്ങനെ കണ്ടെത്താം എന്ന് ഇത് വിശദീകരിക്കുന്നു.",
+   "author": "ഇബ്‌നു അലി എടത്തനാട്ടുകര",
+   "issue_date": "2018-12-01",
+   "html_url": "/ml/dawah/barakah-20181201-1.html",
+   "md_url": "/ml/dawah/barakah-20181201-1.md"
   },
   {
    "slug": "blessings-gratitude-and-ingratitude-20181110-3",
@@ -9088,6 +9110,17 @@
    "md_url": "/ml/dawah/maintain-faith-20170211-15.md"
   },
   {
+   "slug": "make-preparations-20181201-6",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "മുന്നൊരുക്കം നടത്തുക",
+   "summary": "ജീവിതത്തിന്റെ നശ്വരതയെക്കുറിച്ചും പരലോകത്തിന് വേണ്ടിയുള്ള ഒരുക്കങ്ങളെക്കുറിച്ചും ഓർമ്മിപ്പിക്കുന്നു. ഓരോ ദിവസവും കടന്നുപോകുമ്പോൾ നാം മരണത്തിലേക്ക് അടുക്കുകയാണെന്ന ബോധം ഉണ്ടാകണമെന്ന് ലേഖനം ഉപദേശിക്കുന്നു.",
+   "author": "അബൂ ഇഹ്‌സാന",
+   "issue_date": "2018-12-01",
+   "html_url": "/ml/dawah/make-preparations-20181201-6.html",
+   "md_url": "/ml/dawah/make-preparations-20181201-6.md"
+  },
+  {
    "slug": "make-wisdom-day-a-success-20180908-10",
    "lang": "ml",
    "category": "dawah",
@@ -9174,6 +9207,17 @@
    "issue_date": "2018-09-22",
    "html_url": "/ml/dawah/pray-to-the-lord-of-the-universe-20180922-8.html",
    "md_url": "/ml/dawah/pray-to-the-lord-of-the-universe-20180922-8.md"
+  },
+  {
+   "slug": "prayer-dua-20181201-8",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "പ്രാര്‍ഥന",
+   "summary": "മനുഷ്യജീവിതത്തിൽ പ്രാർത്ഥനയ്ക്കുള്ള പ്രാധാന്യത്തെക്കുറിച്ച് വിവരിക്കുന്നു. ആവശ്യങ്ങൾ നിറവേറ്റാനും അപകടങ്ങളിൽ നിന്ന് രക്ഷപ്പെടാനും അല്ലാഹുവിനോട് പ്രാർത്ഥിക്കേണ്ടതിന്റെ ആവശ്യകതയെക്കുറിച്ച് ലേഖനം വ്യക്തമാക്കുന്നു.",
+   "author": "കെ. ഉമര്‍ മൗലവി",
+   "issue_date": "2018-12-01",
+   "html_url": "/ml/dawah/prayer-dua-20181201-8.html",
+   "md_url": "/ml/dawah/prayer-dua-20181201-8.md"
   },
   {
    "slug": "prayer-that-is-worship-20170325-6",
@@ -9768,6 +9812,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/ml/family/don-t-worry-allah-is-with-you-20170114-10.html",
    "md_url": "/ml/family/don-t-worry-allah-is-with-you-20170114-10.md"
+  },
+  {
+   "slug": "fading-marital-bonds-20181201-4",
+   "lang": "ml",
+   "category": "family",
+   "title": "ഇഴയടുപ്പം നഷ്ടപ്പെടുന്ന ദാമ്പത്യബന്ധങ്ങള്‍",
+   "summary": "ദാമ്പത്യബന്ധങ്ങളിലെ അകൽച്ചയെക്കുറിച്ചും അത് പരിഹരിക്കേണ്ടതിന്റെ ആവശ്യകതയെക്കുറിച്ചും ചർച്ച ചെയ്യുന്നു. കുടുംബജീവിതത്തിൽ ഇഴയടുപ്പം നിലനിർത്താൻ ദമ്പതികൾ ശ്രദ്ധിക്കേണ്ട കാര്യങ്ങൾ ഇതിൽ ഉൾക്കൊള്ളുന്നു.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2018-12-01",
+   "html_url": "/ml/family/fading-marital-bonds-20181201-4.html",
+   "md_url": "/ml/family/fading-marital-bonds-20181201-4.md"
   },
   {
    "slug": "harassment-from-mother-in-law-20170204-3",
@@ -10375,6 +10430,17 @@
    "md_url": "/ml/health/thyroid-problems-20180428-10.md"
   },
   {
+   "slug": "what-is-a-heart-attack-20181201-2",
+   "lang": "ml",
+   "category": "health",
+   "title": "എന്താണ് ഹൃദയാഘാതം?",
+   "summary": "ഹൃദയാഘാതം എന്താണെന്നും അത് എങ്ങനെ സംഭവിക്കുന്നുവെന്നും ലളിതമായി വിവരിക്കുന്നു. ഹൃദയധമനികളിലെ തടസ്സങ്ങളെക്കുറിച്ചും ആരോഗ്യപരമായ മുൻകരുതലുകളെക്കുറിച്ചും ലേഖനം പ്രതിപാദിക്കുന്നു.",
+   "author": "ഡോ.യൂസുഫലി",
+   "issue_date": "2018-12-01",
+   "html_url": "/ml/health/what-is-a-heart-attack-20181201-2.html",
+   "md_url": "/ml/health/what-is-a-heart-attack-20181201-2.md"
+  },
+  {
    "slug": "when-menstruating-20260822-4",
    "lang": "ml",
    "category": "health",
@@ -10835,6 +10901,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/ml/opinion/hajj-subsidy-before-putting-the-muslim-community-in-the-dock-20170128-3.html",
    "md_url": "/ml/opinion/hajj-subsidy-before-putting-the-muslim-community-in-the-dock-20170128-3.md"
+  },
+  {
+   "slug": "hartals-and-protests-violation-of-fundamental-rights-20181201-3",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "ഹര്‍ത്താല്‍, ഘോഷയാത്ര, പ്രകടനം മൗലികാവകാശധ്വംസനം",
+   "summary": "കേരളത്തിലെ ഹർത്താലുകളും പ്രകടനങ്ങളും ജനജീവിതത്തെ എങ്ങനെ ബാധിക്കുന്നു എന്ന് ഈ ലേഖനം വിശകലനം ചെയ്യുന്നു. രാഷ്ട്രീയ ലക്ഷ്യങ്ങൾക്കായി പൊതുജനങ്ങളുടെ മൗലികാവകാശങ്ങൾ ഹനിക്കപ്പെടുന്നതിനെതിരെ ഇത് ശബ്ദമുയർത്തുന്നു.",
+   "author": "ഉസ്മാന്‍ പാലക്കാഴി",
+   "issue_date": "2018-12-01",
+   "html_url": "/ml/opinion/hartals-and-protests-violation-of-fundamental-rights-20181201-3.html",
+   "md_url": "/ml/opinion/hartals-and-protests-violation-of-fundamental-rights-20181201-3.md"
   },
   {
    "slug": "india-which-way-forward-20170325-2",
@@ -11904,6 +11981,17 @@
    "md_url": "/ml/seerah/the-sacrifice-of-ideological-commitment-20180825-1.md"
   },
   {
+   "slug": "the-skilled-ruler-prophet-dawood-as-20181201-7",
+   "lang": "ml",
+   "category": "seerah",
+   "title": "നിപുണനായ ഭരണാധികാരി",
+   "summary": "ദാവൂദ് നബി(അ)യുടെ ജീവിതത്തെയും അദ്ദേഹത്തിന് അല്ലാഹു നൽകിയ പ്രത്യേക അനുഗ്രഹങ്ങളെയും കുറിച്ചുള്ള പരമ്പരയിലെ മൂന്നാം ഭാഗം. പക്ഷികളുടെ പ്രകീർത്തനത്തെക്കുറിച്ചും അദ്ദേഹത്തിന്റെ ഭരണപാടവത്തെക്കുറിച്ചും വിവരിക്കുന്നു.",
+   "author": "ഹുസൈന്‍ സലഫി, ഷാര്‍ജ",
+   "issue_date": "2018-12-01",
+   "html_url": "/ml/seerah/the-skilled-ruler-prophet-dawood-as-20181201-7.html",
+   "md_url": "/ml/seerah/the-skilled-ruler-prophet-dawood-as-20181201-7.md"
+  },
+  {
    "slug": "the-tragedy-of-qarun-20180929-4",
    "lang": "ml",
    "category": "seerah",
@@ -11968,6 +12056,17 @@
    "issue_date": "2018-04-21",
    "html_url": "/ml/seerah/yunus-as-20180421-4.html",
    "md_url": "/ml/seerah/yunus-as-20180421-4.md"
+  },
+  {
+   "slug": "a-different-experience-20181201-10",
+   "lang": "ml",
+   "category": "story",
+   "title": "വ്യത്യസ്തമായ ഒരു അനുഭവം",
+   "summary": "പൊന്നാനിയിലെ ഒരു പുരാതന ഹിന്ദു തറവാട് സന്ദർശിച്ചപ്പോൾ ഉണ്ടായ വ്യത്യസ്തമായ അനുഭവത്തെക്കുറിച്ചുള്ള വിവരണം. മതസൗഹാർദ്ദത്തിന്റെയും മാനുഷിക ബന്ധങ്ങളുടെയും മനോഹരമായ കാഴ്ചപ്പാട് ഈ കുറിപ്പിൽ കാണാം.",
+   "author": "എസ്.എ ഐദീദ് തങ്ങള്‍",
+   "issue_date": "2018-12-01",
+   "html_url": "/ml/story/a-different-experience-20181201-10.html",
+   "md_url": "/ml/story/a-different-experience-20181201-10.md"
   },
   {
    "slug": "a-good-death-20180428-5",
