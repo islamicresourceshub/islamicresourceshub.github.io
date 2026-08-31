@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-31T09:09:31.897638+00:00",
+ "generated_at": "2026-08-31T09:10:06.034510+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2178,
+ "count": 2179,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -2629,6 +2629,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/bs/youth/what-will-the-waste-do-20170114-5.html",
    "md_url": "/bs/youth/what-will-the-waste-do-20170114-5.md"
+  },
+  {
+   "slug": "become-the-guardian-of-the-sources-20170128-9",
+   "lang": "de",
+   "category": "aqeedah",
+   "title": "Werde ein Wächter der Quellen",
+   "summary": "Dieser Beitrag erläutert die Göttlichkeit und Unbesiegbarkeit der islamischen Quellen sowie deren Einzigartigkeit gegenüber anderen Religionen. Er erinnert an die grundlegende Pflicht der Gläubigen, den Koran und die Sunna zu bewahren und zu verteidigen.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2017-01-28",
+   "html_url": "/de/aqeedah/become-the-guardian-of-the-sources-20170128-9.html",
+   "md_url": "/de/aqeedah/become-the-guardian-of-the-sources-20170128-9.md"
   },
   {
    "slug": "do-not-waver-in-trials-20170121-9",
