@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-31T08:32:56.163944+00:00",
+ "generated_at": "2026-08-31T08:33:16.568340+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2082,
+ "count": 2083,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -6974,6 +6974,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/it/family/our-parents-20170325-4.html",
    "md_url": "/it/family/our-parents-20170325-4.md"
+  },
+  {
+   "slug": "the-methodology-of-conduct-20170128-8",
+   "lang": "it",
+   "category": "family",
+   "title": "La metodologia della condotta",
+   "summary": "Questo articolo prosegue l'analisi delle qualità e delle abitudini che i genitori credenti dovrebbero interiorizzare per eccellere nell'educazione dei figli, discutendo approcci pratici e comportamenti virtuosi.",
+   "author": "അഷ്‌റഫ്‌ എകരൂൽ",
+   "issue_date": "2017-01-28",
+   "html_url": "/it/family/the-methodology-of-conduct-20170128-8.html",
+   "md_url": "/it/family/the-methodology-of-conduct-20170128-8.md"
   },
   {
    "slug": "mosque-construction-some-points-to-note-20170325-5",
