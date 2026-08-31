@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-31T10:28:21.423858+00:00",
+ "generated_at": "2026-08-31T10:28:45.658428+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2332,
+ "count": 2333,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -24453,6 +24453,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/ur/youth/what-will-the-waste-do-20170114-5.html",
    "md_url": "/ur/youth/what-will-the-waste-do-20170114-5.md"
+  },
+  {
+   "slug": "become-the-guardian-of-the-sources-20170128-9",
+   "lang": "uz",
+   "category": "aqeedah",
+   "title": "Manbalarning posboni bo‘ling",
+   "summary": "Ushbu maqolada Islom manbalarining ilohiyligi, ularning boshqa dinlardan ajralib turishi hamda Qur’on va Sunnatni himoya qilishning ahamiyati yoritilgan.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2017-01-28",
+   "html_url": "/uz/aqeedah/become-the-guardian-of-the-sources-20170128-9.html",
+   "md_url": "/uz/aqeedah/become-the-guardian-of-the-sources-20170128-9.md"
   },
   {
    "slug": "do-not-waver-in-trials-20170121-9",
