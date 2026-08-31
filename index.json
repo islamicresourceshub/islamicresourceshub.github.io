@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-31T07:46:32.188146+00:00",
+ "generated_at": "2026-08-31T07:49:25.244664+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2050,
+ "count": 2051,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -1793,6 +1793,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/bn/family/our-parents-20170325-4.html",
    "md_url": "/bn/family/our-parents-20170325-4.md"
+  },
+  {
+   "slug": "the-methodology-of-conduct-20170128-8",
+   "lang": "bn",
+   "category": "family",
+   "title": "আচরণের পদ্ধতি",
+   "summary": "প্যারেন্টিংয়ে শ্রেষ্ঠত্ব অর্জন করতে চাওয়া বিশ্বাসীদের নিজেদের মধ্যে আত্মস্থ করতে হবে এমন গুণাবলী নিয়ে ধারাবাহিক নিবন্ধ। শিশুদের সাথে আচরণের পদ্ধতি এবং অভ্যাস নিয়ে আলোচনা করা হয়েছে।",
+   "author": "അഷ്‌റഫ്‌ എകരൂൽ",
+   "issue_date": "2017-01-28",
+   "html_url": "/bn/family/the-methodology-of-conduct-20170128-8.html",
+   "md_url": "/bn/family/the-methodology-of-conduct-20170128-8.md"
   },
   {
    "slug": "mosque-construction-some-points-to-note-20170325-5",
