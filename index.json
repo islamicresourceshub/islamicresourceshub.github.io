@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-31T08:03:45.467851+00:00",
+ "generated_at": "2026-08-31T08:04:15.445220+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2069,
+ "count": 2070,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -5093,6 +5093,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/gu/family/our-parents-20170325-4.html",
    "md_url": "/gu/family/our-parents-20170325-4.md"
+  },
+  {
+   "slug": "the-methodology-of-conduct-20170128-8",
+   "lang": "gu",
+   "category": "family",
+   "title": "વર્તનની કાર્યપદ્ધતિ",
+   "summary": "ઉછેરની બાબતમાં શ્રેષ્ઠતા ઈચ્છતા મુસ્લિમ વાલીઓએ પોતાનામાં કેળવવા જેવી ગુણવત્તાઓ વિશેની આ લેખમાળાનો બીજો ભાગ છે. આ લેખમાં બાળકો સાથેના વ્યવહાર અને આદતો વિશે ચર્ચા કરવામાં આવી છે.",
+   "author": "അഷ്‌റഫ്‌ എകരൂൽ",
+   "issue_date": "2017-01-28",
+   "html_url": "/gu/family/the-methodology-of-conduct-20170128-8.html",
+   "md_url": "/gu/family/the-methodology-of-conduct-20170128-8.md"
   },
   {
    "slug": "mosque-construction-some-points-to-note-20170325-5",
