@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-31T05:10:51.736696+00:00",
+ "generated_at": "2026-08-31T05:11:11.312632+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1904,
+ "count": 1905,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -1738,6 +1738,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/bn/family/husband-trapped-in-the-mobile-web-20170121-5.html",
    "md_url": "/bn/family/husband-trapped-in-the-mobile-web-20170121-5.md"
+  },
+  {
+   "slug": "islamic-parenting-significance-and-goals-part-1-20170114-4",
+   "lang": "bn",
+   "category": "family",
+   "title": "ইসলামিক প্যারেন্টিং: গুরুত্ব ও লক্ষ্য",
+   "summary": "ইসলামিক প্যারেন্টিং বা সন্তান প্রতিপালনের গুরুত্ব ও লক্ষ্য নিয়ে আলোচনার প্রথম পর্ব। শিক্ষিত ও অশিক্ষিত নির্বিশেষে সকল অভিভাবকের জন্য প্রযোজ্য একটি গুরুত্বপূর্ণ বিষয়।",
+   "author": "അഷ്‌റഫ്‌ എകരൂൽ",
+   "issue_date": "2017-01-14",
+   "html_url": "/bn/family/islamic-parenting-significance-and-goals-part-1-20170114-4.html",
+   "md_url": "/bn/family/islamic-parenting-significance-and-goals-part-1-20170114-4.md"
   },
   {
    "slug": "our-parents-20170325-4",
