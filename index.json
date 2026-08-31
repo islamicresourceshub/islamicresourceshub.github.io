@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-31T11:11:34.290429+00:00",
+ "generated_at": "2026-08-31T11:12:02.268053+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2411,
+ "count": 2412,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -20284,6 +20284,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/ru/opinion/muslim-extremists-defame-islam-20170114-7.html",
    "md_url": "/ru/opinion/muslim-extremists-defame-islam-20170114-7.md"
+  },
+  {
+   "slug": "rohingya-muslims-victims-of-racial-hatred-20170128-10",
+   "lang": "ru",
+   "category": "opinion",
+   "title": "Мусульмане рохинджа: жертвы расовой ненависти",
+   "summary": "Статья анализирует расовую ненависть и преследования, направленные против мусульман рохинджа в Мьянме. В тексте рассматривается исторический контекст конфликта и необходимость международного давления для защиты этого народа.",
+   "author": "ഡോ. ശബീൽ പി.എൻ",
+   "issue_date": "2017-01-28",
+   "html_url": "/ru/opinion/rohingya-muslims-victims-of-racial-hatred-20170128-10.html",
+   "md_url": "/ru/opinion/rohingya-muslims-victims-of-racial-hatred-20170128-10.md"
   },
   {
    "slug": "salafi-preaching-a-theoretical-analysis-20170121-10",
