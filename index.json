@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-31T05:42:39.017016+00:00",
+ "generated_at": "2026-08-31T05:43:28.969496+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1961,
+ "count": 1962,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -5643,6 +5643,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/ha/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.html",
    "md_url": "/ha/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.md"
+  },
+  {
+   "slug": "what-to-beware-of-when-taking-sides-20170128-7",
+   "lang": "ha",
+   "category": "quran",
+   "title": "Abin da ya kamata a kula da shi wajen karkata ga wani bangare",
+   "summary": "Wannan rubutu yana bayyana mahimmancin yin taka-tsantsan wajen karkata ga wani bangare ko kiyaye alakar soyayya, bisa hasken ayar Alkur'ani ta 43:67.",
+   "author": "അബൂ അമീൻ",
+   "issue_date": "2017-01-28",
+   "html_url": "/ha/quran/what-to-beware-of-when-taking-sides-20170128-7.html",
+   "md_url": "/ha/quran/what-to-beware-of-when-taking-sides-20170128-7.md"
   },
   {
    "slug": "prophets-and-trials-20170325-7",
