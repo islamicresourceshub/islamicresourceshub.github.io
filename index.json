@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-31T03:39:14.302311+00:00",
+ "generated_at": "2026-08-31T03:39:39.578931+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1726,
+ "count": 1739,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -8296,6 +8296,17 @@
    "md_url": "/ml/aqeedah/salafiyyah-ideology-and-stance-20170211-8.md"
   },
   {
+   "slug": "stand-with-the-truthful-20180512-3",
+   "lang": "ml",
+   "category": "aqeedah",
+   "title": "സത്യസന്ധരോടൊപ്പം നിലകൊള്ളുക",
+   "summary": "സത്യസന്ധത വിശ്വാസിയുടെ അനിവാര്യമായ ഗുണമാണെന്നും, സത്യവാന്മാരോടൊപ്പം നിലകൊള്ളാൻ ഖുർആൻ കൽപ്പിക്കുന്നുണ്ടെന്നും ഈ ലേഖനം ഓർമ്മിപ്പിക്കുന്നു.",
+   "author": "മൂസ സ്വലാഹി, കാര",
+   "issue_date": "2018-05-12",
+   "html_url": "/ml/aqeedah/stand-with-the-truthful-20180512-3.html",
+   "md_url": "/ml/aqeedah/stand-with-the-truthful-20180512-3.md"
+  },
+  {
    "slug": "they-want-to-see-god-20170204-2",
    "lang": "ml",
    "category": "aqeedah",
@@ -8505,6 +8516,17 @@
    "md_url": "/ml/dawah/ramadan-in-the-age-of-social-media-20180519-10.md"
   },
   {
+   "slug": "relevance-of-religious-dialogues-20180512-2",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "മതസംവാദങ്ങളുടെ പ്രസക്തി",
+   "summary": "മതസംവാദങ്ങൾ ഇസ്‌ലാമിക പ്രബോധനത്തിന്റെ ഭാഗമാണെന്നും, അവ അസഹിഷ്ണുതയല്ല മറിച്ച് സത്യം ബോധ്യപ്പെടുത്താനുള്ള ഉപാധിയാണെന്നും ലേഖനം വ്യക്തമാക്കുന്നു.",
+   "author": "എഡിറ്റർ",
+   "issue_date": "2018-05-12",
+   "html_url": "/ml/dawah/relevance-of-religious-dialogues-20180512-2.html",
+   "md_url": "/ml/dawah/relevance-of-religious-dialogues-20180512-2.md"
+  },
+  {
    "slug": "religion-is-fearlessness-20170114-6",
    "lang": "ml",
    "category": "dawah",
@@ -8648,6 +8670,17 @@
    "md_url": "/ml/dawah/the-religion-that-rejects-terrorism-part-1-20170121-12.md"
   },
   {
+   "slug": "to-achieve-success-20180512-13",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "വിജയം കൈവരിക്കാൻ...",
+   "summary": "ജീവിതത്തിന്റെ വിവിധ മേഖലകളിൽ വിജയം കൈവരിക്കാൻ ക്ഷമയും ദൈവവിശ്വാസവും എങ്ങനെ സഹായിക്കുന്നു എന്ന് വിശദീകരിക്കുന്നു.",
+   "author": "ശമീർ മദീനി",
+   "issue_date": "2018-05-12",
+   "html_url": "/ml/dawah/to-achieve-success-20180512-13.html",
+   "md_url": "/ml/dawah/to-achieve-success-20180512-13.md"
+  },
+  {
    "slug": "unity-ideology-and-movement-20170211-2",
    "lang": "ml",
    "category": "dawah",
@@ -8679,6 +8712,17 @@
    "issue_date": "2018-05-05",
    "html_url": "/ml/dawah/who-are-cultural-leaders-20180505-1.html",
    "md_url": "/ml/dawah/who-are-cultural-leaders-20180505-1.md"
+  },
+  {
+   "slug": "a-good-family-20180512-11",
+   "lang": "ml",
+   "category": "family",
+   "title": "നല്ല കുടുംബം",
+   "summary": "ഇസ്‌ലാമിക ദാമ്പത്യത്തിന്റെ അടിസ്ഥാനങ്ങളും ഭാര്യാഭർത്താക്കന്മാർ പരസ്പരം പുലർത്തേണ്ട മര്യാദകളും വിവരിക്കുന്നു.",
+   "author": "അബൂ ഫായിദ",
+   "issue_date": "2018-05-12",
+   "html_url": "/ml/family/a-good-family-20180512-11.html",
+   "md_url": "/ml/family/a-good-family-20180512-11.md"
   },
   {
    "slug": "better-safe-than-sorry-20170401-11",
@@ -8934,6 +8978,17 @@
    "md_url": "/ml/fiqh/alcohol-islam-s-ever-relevant-approach-20170225-6.md"
   },
   {
+   "slug": "crime-and-punishment-20180512-10",
+   "lang": "ml",
+   "category": "fiqh",
+   "title": "കുറ്റവും ശിക്ഷയും",
+   "summary": "ഇന്ത്യൻ ശിക്ഷാനിയമത്തിലെ വിവിധ വകുപ്പുകളെയും കുറ്റകൃത്യങ്ങൾക്കുള്ള ശിക്ഷകളെയും കുറിച്ചുള്ള നിയമപരമായ അവലോകനം.",
+   "author": "മൂസാഫിർ",
+   "issue_date": "2018-05-12",
+   "html_url": "/ml/fiqh/crime-and-punishment-20180512-10.html",
+   "md_url": "/ml/fiqh/crime-and-punishment-20180512-10.md"
+  },
+  {
    "slug": "duties-and-rights-20180505-3",
    "lang": "ml",
    "category": "fiqh",
@@ -9066,6 +9121,17 @@
    "md_url": "/ml/health/nutrients-for-thyroid-health-20180505-10.md"
   },
   {
+   "slug": "thyroid-and-physical-changes-20180512-5",
+   "lang": "ml",
+   "category": "health",
+   "title": "തൈറോയ്ഡും ശാരീരിക മാറ്റങ്ങളും",
+   "summary": "തൈറോയ്ഡ് ഗ്രന്ഥിയുടെ പ്രവർത്തന വ്യതിയാനങ്ങൾ ശരീരഭാരത്തിൽ വരുത്തുന്ന മാറ്റങ്ങളെക്കുറിച്ചും ഭക്ഷണക്രമത്തിലൂടെ അത് എങ്ങനെ നിയന്ത്രിക്കാമെന്നും പ്രതിപാദിക്കുന്നു.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2018-05-12",
+   "html_url": "/ml/health/thyroid-and-physical-changes-20180512-5.html",
+   "md_url": "/ml/health/thyroid-and-physical-changes-20180512-5.md"
+  },
+  {
    "slug": "thyroid-problems-20180428-10",
    "lang": "ml",
    "category": "health",
@@ -9141,6 +9207,17 @@
    "issue_date": "2018-04-28",
    "html_url": "/ml/history/reclaim-the-strong-nation-20180428-9.html",
    "md_url": "/ml/history/reclaim-the-strong-nation-20180428-9.md"
+  },
+  {
+   "slug": "scientific-renaissance-through-quran-20180512-1",
+   "lang": "ml",
+   "category": "history",
+   "title": "ശാസ്ത്ര നവോത്ഥാനം ഖുർആനിലൂടെ",
+   "summary": "ഖുർആനികാധ്യാപനങ്ങളിലൂടെ പ്രചോദനം ഉൾക്കൊണ്ട് ഇസ്‌ലാമിക ലോകത്തുണ്ടായ ശാസ്ത്രീയ മുന്നേറ്റങ്ങളെയും ബാഗ്ദാദ്, കോർഡോബ തുടങ്ങിയ കേന്ദ്രങ്ങളിലെ വിജ്ഞാന വിപ്ലവത്തെയും ലേഖനം വിവരിക്കുന്നു.",
+   "author": "ഡോ. അബ്ദുറസാഖ് സുല്ലമി",
+   "issue_date": "2018-05-12",
+   "html_url": "/ml/history/scientific-renaissance-through-quran-20180512-1.html",
+   "md_url": "/ml/history/scientific-renaissance-through-quran-20180512-1.md"
   },
   {
    "slug": "the-verdict-of-babri-20170401-4",
@@ -9561,6 +9638,17 @@
    "md_url": "/ml/opinion/when-national-tradition-is-questioned-20170121-2.md"
   },
   {
+   "slug": "where-is-kerala-heading-20180512-12",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "കേരളം എങ്ങോട്ട്?",
+   "summary": "കേരളീയ സമൂഹത്തിന്റെ സാംസ്കാരിക അധഃപതനം, മാധ്യമങ്ങളുടെ സ്വാധീനം, മദ്യപാനം തുടങ്ങിയ സാമൂഹിക പ്രശ്നങ്ങളെക്കുറിച്ചുള്ള വിമർശനാത്മക പഠനം.",
+   "author": "ഉസ്മാൻ പാലക്കാഴി",
+   "issue_date": "2018-05-12",
+   "html_url": "/ml/opinion/where-is-kerala-heading-20180512-12.html",
+   "md_url": "/ml/opinion/where-is-kerala-heading-20180512-12.md"
+  },
+  {
    "slug": "who-should-leave-india-20170121-1",
    "lang": "ml",
    "category": "opinion",
@@ -9614,6 +9702,17 @@
    "issue_date": "2026-08-22",
    "html_url": "/ml/quran/surah-ash-shu-ara-the-poets-20260822-7.html",
    "md_url": "/ml/quran/surah-ash-shu-ara-the-poets-20260822-7.md"
+  },
+  {
+   "slug": "surah-az-zalzalah-exegesis-20180512-6",
+   "lang": "ml",
+   "category": "quran",
+   "title": "സൽസല (പ്രബന്ധം)",
+   "summary": "ഖുർആനിലെ 99-ാം അധ്യായമായ സൂറത്ത് സൽസലയുടെ ലളിതമായ വ്യാഖ്യാനം.",
+   "author": "ഹാരിസ്ബിൻ സലീം",
+   "issue_date": "2018-05-12",
+   "html_url": "/ml/quran/surah-az-zalzalah-exegesis-20180512-6.html",
+   "md_url": "/ml/quran/surah-az-zalzalah-exegesis-20180512-6.md"
   },
   {
    "slug": "surah-az-zalzalah-the-earthquake-tafsir-20180505-2",
@@ -9682,6 +9781,17 @@
    "md_url": "/ml/seerah/ibn-abbas-ra-a-scholar-of-knowledge-20170211-4.md"
   },
   {
+   "slug": "leaving-egypt-20180512-8",
+   "lang": "ml",
+   "category": "seerah",
+   "title": "ഈജിപ്ത് വിടുന്നു",
+   "summary": "മൂസാ നബി(അ) ഈജിപ്തിൽ നിന്ന് മദ്‌യനിലേക്ക് പലായനം ചെയ്ത ചരിത്ര സന്ദർഭങ്ങളെ ഖുർആനിക വെളിച്ചത്തിൽ വിശകലനം ചെയ്യുന്നു.",
+   "author": "ഹുസൈൻ സലഫി, ഷാർജ",
+   "issue_date": "2018-05-12",
+   "html_url": "/ml/seerah/leaving-egypt-20180512-8.html",
+   "md_url": "/ml/seerah/leaving-egypt-20180512-8.md"
+  },
+  {
    "slug": "prophet-muhammad-pbuh-life-and-message-20170225-8",
    "lang": "ml",
    "category": "seerah",
@@ -9746,6 +9856,17 @@
    "issue_date": "2018-05-05",
    "html_url": "/ml/seerah/the-departure-of-the-prophet-20180505-7.html",
    "md_url": "/ml/seerah/the-departure-of-the-prophet-20180505-7.md"
+  },
+  {
+   "slug": "the-prophet-s-demise-20180512-4",
+   "lang": "ml",
+   "category": "seerah",
+   "title": "പ്രവാചക വിയോഗം",
+   "summary": "പ്രവാചകൻ മുഹമ്മദ് നബി(സ)യുടെ അന്ത്യനാളുകളിലെ സംഭവങ്ങളും അവിടുത്തെ വിയോഗവും അനുചരന്മാരുടെ പ്രതികരണങ്ങളും വിവരിക്കുന്ന പരമ്പര.",
+   "author": "സയ്യിദ് സൽഫർ സ്വാദിഖ് മദീനി",
+   "issue_date": "2018-05-12",
+   "html_url": "/ml/seerah/the-prophet-s-demise-20180512-4.html",
+   "md_url": "/ml/seerah/the-prophet-s-demise-20180512-4.md"
   },
   {
    "slug": "yunus-as-20180421-4",
@@ -9847,6 +9968,17 @@
    "md_url": "/ml/story/guardians-should-be-role-models-20180505-8.md"
   },
   {
+   "slug": "journey-of-the-soul-20180512-9",
+   "lang": "ml",
+   "category": "story",
+   "title": "ആത്മാവിന്റെ യാത്ര",
+   "summary": "മരണാനന്തര ജീവിതത്തെയും ആത്മാവിന്റെ യാത്രയെയും കുറിച്ചുള്ള ഖണ്ഡകാവ്യം.",
+   "author": "വെള്ളില പി. അബ്ദുള്ള",
+   "issue_date": "2018-05-12",
+   "html_url": "/ml/story/journey-of-the-soul-20180512-9.html",
+   "md_url": "/ml/story/journey-of-the-soul-20180512-9.md"
+  },
+  {
    "slug": "laws-are-to-be-followed-20170128-5",
    "lang": "ml",
    "category": "story",
@@ -9878,6 +10010,17 @@
    "issue_date": "2017-04-01",
    "html_url": "/ml/story/obey-your-parents-20170401-7.html",
    "md_url": "/ml/story/obey-your-parents-20170401-7.md"
+  },
+  {
+   "slug": "path-of-peace-20180512-7",
+   "lang": "ml",
+   "category": "story",
+   "title": "ശാന്തിമാർഗ്ഗം",
+   "summary": "ദൈവിക സ്മരണയിലൂടെയും പ്രാർത്ഥനയിലൂടെയും മനസ്സിന് ലഭിക്കുന്ന ശാന്തിയെക്കുറിച്ചുള്ള കവിത.",
+   "author": "ശുക്കൂർ കടലുണ്ടി",
+   "issue_date": "2018-05-12",
+   "html_url": "/ml/story/path-of-peace-20180512-7.html",
+   "md_url": "/ml/story/path-of-peace-20180512-7.md"
   },
   {
    "slug": "sugar-like-gold-dust-20170128-11",
