@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-31T06:10:39.350744+00:00",
+ "generated_at": "2026-08-31T06:10:56.591574+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2038,
+ "count": 2039,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -22550,6 +22550,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/zh/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.html",
    "md_url": "/zh/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.md"
+  },
+  {
+   "slug": "what-to-beware-of-when-taking-sides-20170128-7",
+   "lang": "zh",
+   "category": "quran",
+   "title": "站队时需要注意的事项",
+   "summary": "本文在古兰经 43:67 的启示下，阐述了在站队和维持人际关系时保持谨慎的重要性。",
+   "author": "അബൂ അമീൻ",
+   "issue_date": "2017-01-28",
+   "html_url": "/zh/quran/what-to-beware-of-when-taking-sides-20170128-7.html",
+   "md_url": "/zh/quran/what-to-beware-of-when-taking-sides-20170128-7.md"
   },
   {
    "slug": "prophets-and-trials-20170325-7",
