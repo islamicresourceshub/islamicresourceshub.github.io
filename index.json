@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-31T10:59:15.979428+00:00",
+ "generated_at": "2026-08-31T11:02:36.379034+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2370,
+ "count": 2381,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -9319,6 +9319,17 @@
    "md_url": "/ml/aqeedah/is-nabidinam-celebration-true-love-for-the-prophet-20181124-5.md"
   },
   {
+   "slug": "is-the-creator-omnipresent-20190629-11",
+   "lang": "ml",
+   "category": "aqeedah",
+   "title": "സ്രഷ്ടാവ് സര്‍വവ്യാപിയോ?",
+   "summary": "അല്ലാഹുവിന്റെ അസ്തിത്വത്തെക്കുറിച്ചും സര്‍വ്വവ്യാപിയാണോ എന്നതിനെക്കുറിച്ചുമുള്ള ഇസ്‌ലാമിക വിശ്വാസപരമായ നിലപാട് വ്യക്തമാക്കുന്ന ലേഖനം. തെറ്റായ ധാരണകളെ തിരുത്താന്‍ ഇത് സഹായിക്കുന്നു.",
+   "author": "സയ്യിദ് സഅ്ഫര്‍ സ്വാദിക്വ് മദീനി",
+   "issue_date": "2019-06-29",
+   "html_url": "/ml/aqeedah/is-the-creator-omnipresent-20190629-11.html",
+   "md_url": "/ml/aqeedah/is-the-creator-omnipresent-20190629-11.md"
+  },
+  {
    "slug": "is-there-proof-for-innovations-20181215-5",
    "lang": "ml",
    "category": "aqeedah",
@@ -10298,6 +10309,17 @@
    "md_url": "/ml/dawah/qualities-of-a-preacher-20180908-5.md"
   },
   {
+   "slug": "quran-previous-scriptures-and-missionary-myths-20190629-4",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "ക്വുര്‍ആനും പൂര്‍വ വേദങ്ങളും മിഷണറി സാഹിത്യങ്ങളിലെ മിഥ്യകളും",
+   "summary": "വിവിധ പ്രവാചകന്മാര്‍ക്ക് ലഭിച്ച വേദഗ്രന്ഥങ്ങളെക്കുറിച്ചും അവയില്‍ കടന്നുകൂടിയ തെറ്റായ പ്രചാരണങ്ങളെക്കുറിച്ചും ഈ ലേഖനം ചര്‍ച്ച ചെയ്യുന്നു. മിഷണറി സാഹിത്യങ്ങളിലെ മിഥ്യകളെ ഖുര്‍ആനിക വീക്ഷണത്തിലൂടെ തുറന്നുകാട്ടുന്നു.",
+   "author": "ഉസ്മാന്‍ പാലക്കാഴി",
+   "issue_date": "2019-06-29",
+   "html_url": "/ml/dawah/quran-previous-scriptures-and-missionary-myths-20190629-4.html",
+   "md_url": "/ml/dawah/quran-previous-scriptures-and-missionary-myths-20190629-4.md"
+  },
+  {
    "slug": "ramadan-in-the-age-of-social-media-20180519-10",
    "lang": "ml",
    "category": "dawah",
@@ -10914,6 +10936,17 @@
    "md_url": "/ml/dawah/unity-ideology-and-movement-20170211-2.md"
   },
   {
+   "slug": "ways-to-maintain-spiritual-purity-20190629-3",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "ജീവിത വിശുദ്ധി നിലനിര്‍ത്താന്‍ ചില മാര്‍ഗങ്ങള്‍",
+   "summary": "വിശ്വാസവും തഖ്‌വയും നേടിയെടുക്കുന്നതിനേക്കാള്‍ പ്രയാസകരമാണ് അത് നിലനിര്‍ത്തുക എന്നത്. ജീവിത വിശുദ്ധി കാത്തുസൂക്ഷിക്കാന്‍ വിശ്വാസികള്‍ സ്വീകരിക്കേണ്ട മാര്‍ഗങ്ങളെക്കുറിച്ചുള്ള ഉപദേശമാണിത്.",
+   "author": "ടി.കെ.ത്വല്‍ഹത്ത് സ്വലാഹി",
+   "issue_date": "2019-06-29",
+   "html_url": "/ml/dawah/ways-to-maintain-spiritual-purity-20190629-3.html",
+   "md_url": "/ml/dawah/ways-to-maintain-spiritual-purity-20190629-3.md"
+  },
+  {
    "slug": "wealth-blessing-and-trial-20180526-7",
    "lang": "ml",
    "category": "dawah",
@@ -11132,6 +11165,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/ml/family/don-t-worry-allah-is-with-you-20170114-10.html",
    "md_url": "/ml/family/don-t-worry-allah-is-with-you-20170114-10.md"
+  },
+  {
+   "slug": "drivers-facing-criticism-20190629-9",
+   "lang": "ml",
+   "category": "family",
+   "title": "ശാപവാക്കുകള്‍ ഏറ്റുവാങ്ങുന്ന ഡ്രൈവര്‍മാര്‍",
+   "summary": "വാഹനമോടിക്കുന്നവരുടെ തൊഴിലിന്റെ പ്രാധാന്യത്തെക്കുറിച്ചും അവര്‍ നേരിടുന്ന സാമൂഹിക വിമര്‍ശനങ്ങളെക്കുറിച്ചുമുള്ള ലേഖനം. ഡ്രൈവര്‍മാരോട് സമൂഹം പുലര്‍ത്തേണ്ട മര്യാദകളെക്കുറിച്ച് ഓര്‍മ്മിപ്പിക്കുന്നു.",
+   "author": "ഇബ്‌നു അലി എടത്തനാട്ടുകര",
+   "issue_date": "2019-06-29",
+   "html_url": "/ml/family/drivers-facing-criticism-20190629-9.html",
+   "md_url": "/ml/family/drivers-facing-criticism-20190629-9.md"
   },
   {
    "slug": "drug-mafia-targeting-the-younger-generation-20181215-2",
@@ -12542,6 +12586,17 @@
    "md_url": "/ml/history/the-mullappoo-revolution-against-the-mullas-who-hindered-mus-20190323-5.md"
   },
   {
+   "slug": "the-relevance-of-hamadani-philosophy-20190629-2",
+   "lang": "ml",
+   "category": "history",
+   "title": "ഇന്നും പ്രസക്തമാകുന്ന ഹമദാനീ ദര്‍ശനം",
+   "summary": "ശൈഖ് മുഹമ്മദ് മാഹിന്‍ ഹമദാനി തങ്ങളുടെ ദര്‍ശനങ്ങളെയും കേരളീയ മുസ്ലിം പണ്ഡിത സഭകളില്‍ അദ്ദേഹത്തിന്റെ സ്വാധീനത്തെയും കുറിച്ചുള്ള ലേഖനമാണിത്. ചരിത്രപരമായ പശ്ചാത്തലത്തില്‍ അദ്ദേഹത്തിന്റെ ചിന്തകളുടെ പ്രസക്തി പരിശോധിക്കുന്നു.",
+   "author": "ഡോ. ചേക്കുമരക്കാരകത്ത് ഷാനവാസ്, പറവണ്ണ",
+   "issue_date": "2019-06-29",
+   "html_url": "/ml/history/the-relevance-of-hamadani-philosophy-20190629-2.html",
+   "md_url": "/ml/history/the-relevance-of-hamadani-philosophy-20190629-2.md"
+  },
+  {
    "slug": "the-role-of-non-muslims-in-quran-translation-20181103-3",
    "lang": "ml",
    "category": "history",
@@ -13609,6 +13664,17 @@
    "md_url": "/ml/opinion/the-kerala-story-of-honor-killing-20180616-6.md"
   },
   {
+   "slug": "the-palestine-issue-and-india-s-changing-stance-20190629-7",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "ഫലസ്തീന്‍ പ്രശ്‌നവും ഇന്ത്യയുടെ നിലപാട് മാറ്റവും",
+   "summary": "ഫലസ്തീന്‍ വിഷയത്തില്‍ ഇന്ത്യയുടെ നിലപാടുകളില്‍ വന്ന മാറ്റങ്ങളെക്കുറിച്ചുള്ള രാഷ്ട്രീയ വിശകലനം. സയണിസ്റ്റ് അധിനിവേശവും ഫലസ്തീന്‍ ജനതയുടെ ദുരിതങ്ങളും ലേഖനം ചര്‍ച്ച ചെയ്യുന്നു.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2019-06-29",
+   "html_url": "/ml/opinion/the-palestine-issue-and-india-s-changing-stance-20190629-7.html",
+   "md_url": "/ml/opinion/the-palestine-issue-and-india-s-changing-stance-20190629-7.md"
+  },
+  {
    "slug": "the-politics-of-conversion-and-denial-of-rights-20181020-4",
    "lang": "ml",
    "category": "opinion",
@@ -14258,6 +14324,17 @@
    "md_url": "/ml/quran/surah-al-mursalat-tafsir-part-2-20190601-1.md"
   },
   {
+   "slug": "surah-al-qiyamah-tafsir-part-1-20190629-1",
+   "lang": "ml",
+   "category": "quran",
+   "title": "ഖിയാമ (ഉയിര്‍ത്തെഴുന്നേല്‍പ്)",
+   "summary": "ഖുര്‍ആനിലെ 75-ാം അധ്യായമായ ഖിയാമയുടെ ആദ്യ ഭാഗത്തെക്കുറിച്ചുള്ള വിശദീകരണമാണിത്. പുനരുത്ഥാനത്തെയും മനുഷ്യന്റെ ആത്മവിചാരണയെയും കുറിച്ചുള്ള ഖുര്‍ആനിക വചനങ്ങളുടെ അര്‍ത്ഥതലങ്ങള്‍ ഇവിടെ ചര്‍ച്ച ചെയ്യുന്നു.",
+   "author": "അബ്ദുറഹ്മാന്‍ നാസിര്‍ അസ്സഅദി",
+   "issue_date": "2019-06-29",
+   "html_url": "/ml/quran/surah-al-qiyamah-tafsir-part-1-20190629-1.html",
+   "md_url": "/ml/quran/surah-al-qiyamah-tafsir-part-1-20190629-1.md"
+  },
+  {
    "slug": "surah-an-naba-tafsir-part-2-20190216-2",
    "lang": "ml",
    "category": "quran",
@@ -14599,6 +14676,17 @@
    "md_url": "/ml/seerah/karoovalli-lessons-of-a-century-20180804-6.md"
   },
   {
+   "slug": "key-events-in-madinah-the-conversion-of-abdullah-ibn-salam-20190629-5",
+   "lang": "ml",
+   "category": "seerah",
+   "title": "മദീനയിലെ ചില പ്രധാന സംഭവങ്ങള്‍",
+   "summary": "പ്രവാചക ചരിത്രത്തിലെ പ്രധാനപ്പെട്ട സംഭവങ്ങളെ വിവരിക്കുന്ന പരമ്പരയുടെ ഭാഗമാണിത്. ജൂത പണ്ഡിതനായിരുന്ന അബ്ദുല്ലാഹിബ്‌നു സലാമിന്റെ ഇസ്‌ലാം ആശ്ലേഷണത്തെക്കുറിച്ചുള്ള ചരിത്രപരമായ വിവരണം.",
+   "author": "ഫദ്‌ലുല്‍ ഹഖ് ഉമരി",
+   "issue_date": "2019-06-29",
+   "html_url": "/ml/seerah/key-events-in-madinah-the-conversion-of-abdullah-ibn-salam-20190629-5.html",
+   "md_url": "/ml/seerah/key-events-in-madinah-the-conversion-of-abdullah-ibn-salam-20190629-5.md"
+  },
+  {
    "slug": "leaving-egypt-20180512-8",
    "lang": "ml",
    "category": "seerah",
@@ -14894,6 +14982,17 @@
    "issue_date": "2018-08-04",
    "html_url": "/ml/seerah/that-lamp-has-also-extinguished-20180804-1.html",
    "md_url": "/ml/seerah/that-lamp-has-also-extinguished-20180804-1.md"
+  },
+  {
+   "slug": "the-autobiography-of-salman-al-farsi-part-2-20190629-10",
+   "lang": "ml",
+   "category": "seerah",
+   "title": "സല്‍മാനുല്‍ ഫാരിസിയുടെ ആത്മകഥ",
+   "summary": "സത്യം തേടിയുള്ള സല്‍മാനുല്‍ ഫാരിസിയുടെ യാത്രയുടെ രണ്ടാം ഭാഗം. വിവിധ പുരോഹിതന്മാരുടെ കൂടെയുള്ള അദ്ദേഹത്തിന്റെ താമസവും അനുഭവങ്ങളും ഇവിടെ വിവരിക്കുന്നു.",
+   "author": "അബ്ദുല്‍ ജബ്ബാര്‍ അബ്ദുല്ല",
+   "issue_date": "2019-06-29",
+   "html_url": "/ml/seerah/the-autobiography-of-salman-al-farsi-part-2-20190629-10.html",
+   "md_url": "/ml/seerah/the-autobiography-of-salman-al-farsi-part-2-20190629-10.md"
   },
   {
    "slug": "the-beginning-of-revelation-20190126-9",
@@ -15721,6 +15820,17 @@
    "md_url": "/ml/story/rainy-childhood-20180901-7.md"
   },
   {
+   "slug": "rainy-sights-20190629-6",
+   "lang": "ml",
+   "category": "story",
+   "title": "മഴക്കാല കാഴ്ചകള്‍",
+   "summary": "മഴക്കാലത്തിന്റെ മനോഹാരിതയെയും പ്രകൃതിയിലെ മാറ്റങ്ങളെയും വര്‍ണ്ണിക്കുന്ന ഒരു കവിതയാണിത്. മഴയോടുള്ള മനുഷ്യന്റെയും പ്രകൃതിയുടെയും പ്രതികരണങ്ങള്‍ ഇതില്‍ ആവിഷ്‌കരിക്കുന്നു.",
+   "author": "അബൂഫായിദ",
+   "issue_date": "2019-06-29",
+   "html_url": "/ml/story/rainy-sights-20190629-6.html",
+   "md_url": "/ml/story/rainy-sights-20190629-6.md"
+  },
+  {
    "slug": "roadside-sights-during-the-fasting-season-20190518-9",
    "lang": "ml",
    "category": "story",
@@ -15950,6 +16060,17 @@
    "issue_date": "2018-11-03",
    "html_url": "/ml/story/the-lesson-taught-by-the-son-20181103-4.html",
    "md_url": "/ml/story/the-lesson-taught-by-the-son-20181103-4.md"
+  },
+  {
+   "slug": "the-messenger-20190629-8",
+   "lang": "ml",
+   "category": "story",
+   "title": "റസൂല്‍",
+   "summary": "പ്രവാചകന്‍ മുഹമ്മദ് നബിയുടെ ജീവിതത്തെയും മാതൃകകളെയും പ്രകീർത്തിക്കുന്ന കവിത. അദ്ദേഹത്തിന്റെ ജീവിതം എങ്ങനെയാണ് വിശ്വാസികളുടെ മനസ്സിനെ സ്വാധീനിക്കുന്നത് എന്ന് കവിത വിവരിക്കുന്നു.",
+   "author": "ആര്‍. കെ. ശ്രീകുമാര്‍ പൂജപ്പുര",
+   "issue_date": "2019-06-29",
+   "html_url": "/ml/story/the-messenger-20190629-8.html",
+   "md_url": "/ml/story/the-messenger-20190629-8.md"
   },
   {
    "slug": "the-one-who-tied-and-killed-the-cat-20180915-5",
