@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-31T08:37:28.794289+00:00",
+ "generated_at": "2026-08-31T08:40:53.122507+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2090,
+ "count": 2099,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -8912,6 +8912,17 @@
    "md_url": "/ml/aqeedah/misguided-grave-visits-20180901-5.md"
   },
   {
+   "slug": "racism-communalism-the-quranic-stand-20190126-10",
+   "lang": "ml",
+   "category": "aqeedah",
+   "title": "വംശീയത, വര്‍ഗീയത ക്വുര്‍ആനിക നിലപാട്",
+   "summary": "വംശീയതയെയും വര്‍ഗീയതയെയും കുറിച്ചുള്ള ഇസ്‌ലാമിക വീക്ഷണം ഖുര്‍ആനിന്റെ അടിസ്ഥാനത്തില്‍ ഈ ലേഖനം വ്യക്തമാക്കുന്നു. മാനവികതയുടെയും സാഹോദര്യത്തിന്റെയും സന്ദേശമാണ് ഇതിലുള്ളത്.",
+   "author": "അബ്ദുല്‍ മാലിക് സലഫി",
+   "issue_date": "2019-01-26",
+   "html_url": "/ml/aqeedah/racism-communalism-the-quranic-stand-20190126-10.html",
+   "md_url": "/ml/aqeedah/racism-communalism-the-quranic-stand-20190126-10.md"
+  },
+  {
    "slug": "ramadan-and-innovations-20180526-4",
    "lang": "ml",
    "category": "aqeedah",
@@ -9218,6 +9229,17 @@
    "issue_date": "2018-11-10",
    "html_url": "/ml/dawah/do-not-commit-violence-against-nature-20181110-2.html",
    "md_url": "/ml/dawah/do-not-commit-violence-against-nature-20181110-2.md"
+  },
+  {
+   "slug": "do-not-make-humiliation-an-ornament-20190126-1",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "അപമാനത്തെ അലങ്കാരമാക്കരുത്",
+   "summary": "തബൂക്ക് യുദ്ധവേളയില്‍ പിന്തിരിഞ്ഞുനിന്നവരുടെ ചരിത്രത്തിലൂടെ സത്യസന്ധതയുടെയും പശ്ചാത്താപത്തിന്റെയും പ്രാധാന്യം ഈ ലേഖനം വ്യക്തമാക്കുന്നു. തെറ്റുകളെ ന്യായീകരിക്കാതെ സത്യം തുറന്നുപറയുന്നതിന്റെ മാഹാത്മ്യമാണ് ഇതിലെ പ്രതിപാദ്യം.",
+   "author": "റിയാസ് സ്വലാഹി തളിപ്പറമ്പ്",
+   "issue_date": "2019-01-26",
+   "html_url": "/ml/dawah/do-not-make-humiliation-an-ornament-20190126-1.html",
+   "md_url": "/ml/dawah/do-not-make-humiliation-an-ornament-20190126-1.md"
   },
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -10903,6 +10925,17 @@
    "md_url": "/ml/health/what-is-a-heart-attack-20181201-2.md"
   },
   {
+   "slug": "what-is-kidney-stone-20190126-3",
+   "lang": "ml",
+   "category": "health",
+   "title": "എന്താണ് മൂത്രാശയക്കല്ല്?",
+   "summary": "മൂത്രാശയക്കല്ല് എന്ന രോഗാവസ്ഥയെക്കുറിച്ചുള്ള ലളിതമായ ആരോഗ്യവിശദീകരണം. രോഗകാരണങ്ങളും പ്രതിരോധ മാര്‍ഗങ്ങളും ഇതില്‍ ചര്‍ച്ച ചെയ്യുന്നു.",
+   "author": "നിസാം",
+   "issue_date": "2019-01-26",
+   "html_url": "/ml/health/what-is-kidney-stone-20190126-3.html",
+   "md_url": "/ml/health/what-is-kidney-stone-20190126-3.md"
+  },
+  {
    "slug": "when-menstruating-20260822-4",
    "lang": "ml",
    "category": "health",
@@ -11640,6 +11673,17 @@
    "md_url": "/ml/opinion/permanent-lok-adalat-20181110-7.md"
   },
   {
+   "slug": "rafale-alok-verma-and-the-central-government-20190126-7",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "റഫാലും അലോക്‌വര്‍മയും പിന്നെ കേന്ദ്ര സര്‍ക്കാറും",
+   "summary": "സി.ബി.ഐ ഡയറക്ടറായിരുന്ന അലോക് വര്‍മയുടെ പുറത്താക്കലും റഫാല്‍ ഇടപാടുമായി ബന്ധപ്പെട്ട രാഷ്ട്രീയ വിവാദങ്ങളും ഈ ലേഖനം വിശകലനം ചെയ്യുന്നു.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2019-01-26",
+   "html_url": "/ml/opinion/rafale-alok-verma-and-the-central-government-20190126-7.html",
+   "md_url": "/ml/opinion/rafale-alok-verma-and-the-central-government-20190126-7.md"
+  },
+  {
    "slug": "realizations-from-relief-camps-20180901-1",
    "lang": "ml",
    "category": "opinion",
@@ -11781,6 +11825,17 @@
    "issue_date": "2017-03-04",
    "html_url": "/ml/opinion/superstitions-in-modern-homes-20170304-1.html",
    "md_url": "/ml/opinion/superstitions-in-modern-homes-20170304-1.md"
+  },
+  {
+   "slug": "ten-books-or-ten-measures-the-question-remains-unanswered-20190126-5",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "പത്തരമാറ്റ് പത്ത്കിതാബിനോ? മക്വ്ദി തങ്ങളുടെ ചോദ്യത്തിന് ഇന്നും ഉത്തരമില്ല",
+   "summary": "കേരളത്തിലെ ഖുര്‍ആന്‍ പഠന സംരംഭങ്ങളെക്കുറിച്ചുള്ള വിമര്‍ശനാത്മകമായ ഒരു ലേഖനം. സമുദായത്തിന്റെ നിലപാടുകളെയും പഠനരീതികളെയും ഇത് ചോദ്യം ചെയ്യുന്നു.",
+   "author": "ഡോ. ചേക്കുമരക്കാരകത്ത് ഷാനവാസ്, പറവണ്ണ",
+   "issue_date": "2019-01-26",
+   "html_url": "/ml/opinion/ten-books-or-ten-measures-the-question-remains-unanswered-20190126-5.html",
+   "md_url": "/ml/opinion/ten-books-or-ten-measures-the-question-remains-unanswered-20190126-5.md"
   },
   {
    "slug": "terror-hunting-and-religious-freedom-20170114-1",
@@ -12122,6 +12177,17 @@
    "issue_date": "2019-01-12",
    "html_url": "/ml/quran/al-mutaffifin-those-who-give-less-in-measure-20190112-4.html",
    "md_url": "/ml/quran/al-mutaffifin-those-who-give-less-in-measure-20190112-4.md"
+  },
+  {
+   "slug": "al-mutaffifin-those-who-give-short-measure-20190126-2",
+   "lang": "ml",
+   "category": "quran",
+   "title": "മുത്വഫ്ഫീന്‍ (അളവില്‍ കമ്മി വരുത്തുന്നവര്‍)",
+   "summary": "വിശുദ്ധ ഖുര്‍ആനിലെ 83-ാം അധ്യായമായ സൂറത്തുല്‍ മുത്വഫ്ഫിന്റെ വ്യാഖ്യാനമാണ് ഈ ലേഖനം. അളവിലും തൂക്കത്തിലും കൃത്യത പാലിക്കേണ്ടതിന്റെ അനിവാര്യതയെക്കുറിച്ച് ഇത് വിശദീകരിക്കുന്നു.",
+   "author": "അബ്ദുറഹ്മാന്‍ നാസിര്‍ അസ്സഅദി",
+   "issue_date": "2019-01-26",
+   "html_url": "/ml/quran/al-mutaffifin-those-who-give-short-measure-20190126-2.html",
+   "md_url": "/ml/quran/al-mutaffifin-those-who-give-short-measure-20190126-2.md"
   },
   {
    "slug": "al-qadr-the-decree-20180526-8",
@@ -12619,6 +12685,17 @@
    "md_url": "/ml/seerah/reaching-midian-20180519-3.md"
   },
   {
+   "slug": "results-of-prayer-20190126-6",
+   "lang": "ml",
+   "category": "seerah",
+   "title": "പ്രാര്‍ഥനയുടെ ഫലങ്ങള്‍",
+   "summary": "സുലൈമാന്‍ നബി(അ)യുടെ ജീവിതത്തിലെ പ്രാര്‍ഥനകളും അവയ്ക്ക് അല്ലാഹു നല്‍കിയ ഉത്തരങ്ങളും ഈ ലേഖനത്തില്‍ വിവരിക്കുന്നു. പ്രവാചക ചരിത്രത്തിലൂടെ വിശ്വാസത്തിന്റെ കരുത്ത് ഇത് കാണിച്ചുതരുന്നു.",
+   "author": "ഹുസൈന്‍ സലഫി, ഷാര്‍ജ",
+   "issue_date": "2019-01-26",
+   "html_url": "/ml/seerah/results-of-prayer-20190126-6.html",
+   "md_url": "/ml/seerah/results-of-prayer-20190126-6.md"
+  },
+  {
    "slug": "taking-up-the-mission-20180609-8",
    "lang": "ml",
    "category": "seerah",
@@ -12639,6 +12716,17 @@
    "issue_date": "2018-08-04",
    "html_url": "/ml/seerah/that-lamp-has-also-extinguished-20180804-1.html",
    "md_url": "/ml/seerah/that-lamp-has-also-extinguished-20180804-1.md"
+  },
+  {
+   "slug": "the-beginning-of-revelation-20190126-9",
+   "lang": "ml",
+   "category": "seerah",
+   "title": "വഹ്‌യിന്റെ തുടക്കം ‍",
+   "summary": "പ്രവാചകന്‍ മുഹമ്മദ് നബി(സ)ക്ക് വഹ്‌യ് അഥവാ ദിവ്യബോധനം ലഭിച്ചു തുടങ്ങിയ കാലഘട്ടത്തെക്കുറിച്ചുള്ള ചരിത്രപരമായ വിവരണം.",
+   "author": "ഫദ്‌ലുല്‍ ഹഖ് ഉമരി",
+   "issue_date": "2019-01-26",
+   "html_url": "/ml/seerah/the-beginning-of-revelation-20190126-9.html",
+   "md_url": "/ml/seerah/the-beginning-of-revelation-20190126-9.md"
   },
   {
    "slug": "the-birth-of-prophet-muhammad-pbuh-20190112-8",
@@ -12859,6 +12947,17 @@
    "issue_date": "2018-04-28",
    "html_url": "/ml/story/a-good-death-20180428-5.html",
    "md_url": "/ml/story/a-good-death-20180428-5.md"
+  },
+  {
+   "slug": "a-life-like-a-candle-20190126-4",
+   "lang": "ml",
+   "category": "story",
+   "title": "മെഴുകുതിരി പോലൊരു ജീവിതം",
+   "summary": "മറ്റുള്ളവര്‍ക്ക് വേണ്ടി സ്വയം ഉരുകിത്തീരുന്ന ഒരു ജീവിതത്തെക്കുറിച്ചുള്ള കഥയാണിത്. സാമൂഹിക പ്രതിബദ്ധതയുടെയും നന്മയുടെയും സന്ദേശം ഈ കഥ പങ്കുവെക്കുന്നു.",
+   "author": "അഫ്‌വാന ബിന്‍ത് ലത്വീഫ് (സല്‍സബീല്‍, വെങ്കിടങ്ങ്",
+   "issue_date": "2019-01-26",
+   "html_url": "/ml/story/a-life-like-a-candle-20190126-4.html",
+   "md_url": "/ml/story/a-life-like-a-candle-20190126-4.md"
   },
   {
    "slug": "abandon-sin-20181124-6",
