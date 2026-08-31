@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-31T03:58:59.341756+00:00",
+ "generated_at": "2026-08-31T04:02:52.788496+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1780,
+ "count": 1791,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -8450,6 +8450,17 @@
    "md_url": "/ml/aqeedah/who-is-wrong-in-ideology-20260822-2.md"
   },
   {
+   "slug": "wilayah-karamat-and-ghaib-a-clear-reading-20180818-11",
+   "lang": "ml",
+   "category": "aqeedah",
+   "title": "വിലായത്ത്, കറാമത്ത്, ഗൈബ്: ഒരു നേര്‍വായന",
+   "summary": "വിലായത്ത്, കറാമത്ത്, ഗൈബ് എന്നീ വിഷയങ്ങളിൽ മതത്തിന്റെ പേരിൽ നടക്കുന്ന ചൂഷണങ്ങളെയും തെറ്റിദ്ധാരണകളെയും വിശകലനം ചെയ്യുന്നു. ആത്മീയതയുടെ പേരിൽ നടക്കുന്ന തട്ടിപ്പുകളെ തുറന്നുകാട്ടുന്നു.",
+   "author": "മുഹമ്മദ് ശഹീറുദ്ദീന്‍ ചുഴലി",
+   "issue_date": "2018-08-18",
+   "html_url": "/ml/aqeedah/wilayah-karamat-and-ghaib-a-clear-reading-20180818-11.html",
+   "md_url": "/ml/aqeedah/wilayah-karamat-and-ghaib-a-clear-reading-20180818-11.md"
+  },
+  {
    "slug": "curb-extravagance-in-iftar-20180519-2",
    "lang": "ml",
    "category": "dawah",
@@ -8747,6 +8758,17 @@
    "md_url": "/ml/dawah/the-chemistry-of-unity-20170225-2.md"
   },
   {
+   "slug": "the-declining-blessings-in-trade-20180818-2",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "അനുഗ്രഹം നഷ്ടപ്പെടുന്ന കച്ചവടരംഗം‍",
+   "summary": "ആധുനിക കാലത്തെ കച്ചവട രംഗത്തെ പുരോഗതികൾക്കിടയിൽ നഷ്ടപ്പെട്ടുപോകുന്ന ധാർമ്മിക മൂല്യങ്ങളെക്കുറിച്ച് പ്രതിപാദിക്കുന്നു. കച്ചവടത്തിൽ അല്ലാഹുവിന്റെ അനുഗ്രഹം ലഭിക്കാൻ പാലിക്കേണ്ട മര്യാദകൾ ഓർമ്മിപ്പിക്കുന്നു.",
+   "author": "ഡോ. മുഹമ്മദ് റാഫി.സി",
+   "issue_date": "2018-08-18",
+   "html_url": "/ml/dawah/the-declining-blessings-in-trade-20180818-2.html",
+   "md_url": "/ml/dawah/the-declining-blessings-in-trade-20180818-2.md"
+  },
+  {
    "slug": "the-islamic-dimension-of-friendship-20180811-7",
    "lang": "ml",
    "category": "dawah",
@@ -8813,6 +8835,17 @@
    "md_url": "/ml/dawah/the-religion-that-rejects-terrorism-part-1-20170121-12.md"
   },
   {
+   "slug": "the-ten-days-of-dhul-hijjah-and-their-virtues-20180818-4",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "ദുല്‍ഹജ്ജിലെ പത്ത് ദിനരാത്രങ്ങളും അവയുടെ ശ്രേഷ്ഠതകളും‍",
+   "summary": "ദുൽഹജ്ജ് മാസത്തിലെ ആദ്യ പത്ത് ദിവസങ്ങളുടെ ശ്രേഷ്ഠതയും ആ ദിവസങ്ങളിൽ ചെയ്യേണ്ട സൽകർമ്മങ്ങളുടെ പ്രാധാന്യവും വിവരിക്കുന്നു. വിശ്വാസികൾക്ക് അല്ലാഹു നൽകുന്ന വലിയ പ്രതിഫലത്തെക്കുറിച്ച് ഓർമ്മിപ്പിക്കുന്നു.",
+   "author": "അബ്ദുല്ലത്വീഫ് സുല്ലമി മാറഞ്ചേരി",
+   "issue_date": "2018-08-18",
+   "html_url": "/ml/dawah/the-ten-days-of-dhul-hijjah-and-their-virtues-20180818-4.html",
+   "md_url": "/ml/dawah/the-ten-days-of-dhul-hijjah-and-their-virtues-20180818-4.md"
+  },
+  {
    "slug": "to-achieve-success-20180512-13",
    "lang": "ml",
    "category": "dawah",
@@ -8877,6 +8910,17 @@
    "issue_date": "2018-05-12",
    "html_url": "/ml/family/a-good-family-20180512-11.html",
    "md_url": "/ml/family/a-good-family-20180512-11.md"
+  },
+  {
+   "slug": "are-social-media-platforms-for-insulting-others-20180818-7",
+   "lang": "ml",
+   "category": "family",
+   "title": "സാമൂഹ്യമാധ്യമങ്ങള്‍ അന്യരെ അപമാനിക്കാനുള്ളതോ?‍",
+   "summary": "സാമൂഹ്യമാധ്യമങ്ങളുടെ ദുരുപയോഗവും മറ്റുള്ളവരെ അപമാനിക്കുന്ന പ്രവണതയും വർദ്ധിച്ചുവരുന്നതിനെക്കുറിച്ച് ആശങ്ക രേഖപ്പെടുത്തുന്നു. മാന്യമായ ഓൺലൈൻ ഇടപെടലുകൾക്ക് ആഹ്വാനം ചെയ്യുന്നു.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2018-08-18",
+   "html_url": "/ml/family/are-social-media-platforms-for-insulting-others-20180818-7.html",
+   "md_url": "/ml/family/are-social-media-platforms-for-insulting-others-20180818-7.md"
   },
   {
    "slug": "better-safe-than-sorry-20170401-11",
@@ -9231,6 +9275,17 @@
    "md_url": "/ml/fiqh/mosque-construction-some-points-to-note-20170325-5.md"
   },
   {
+   "slug": "motor-vehicle-laws-20180818-6",
+   "lang": "ml",
+   "category": "fiqh",
+   "title": "മോട്ടോര്‍ വാഹന നിയമങ്ങള്‍",
+   "summary": "മോട്ടോർ വാഹന നിയമങ്ങളുടെ ചരിത്രവും നിലവിലെ നിയമവ്യവസ്ഥയും സംബന്ധിച്ച വിവരങ്ങൾ നൽകുന്നു. നിയമങ്ങൾ പാലിക്കേണ്ടതിന്റെ സാമൂഹികവും മതപരവുമായ ഉത്തരവാദിത്തം ചർച്ച ചെയ്യുന്നു.",
+   "author": "മുസാഫിര്‍",
+   "issue_date": "2018-08-18",
+   "html_url": "/ml/fiqh/motor-vehicle-laws-20180818-6.html",
+   "md_url": "/ml/fiqh/motor-vehicle-laws-20180818-6.md"
+  },
+  {
    "slug": "post-death-rituals-20180804-9",
    "lang": "ml",
    "category": "fiqh",
@@ -9317,6 +9372,17 @@
    "issue_date": "2018-05-19",
    "html_url": "/ml/health/food-in-ramadan-20180519-8.html",
    "md_url": "/ml/health/food-in-ramadan-20180519-8.md"
+  },
+  {
+   "slug": "hazardous-hospital-waste-20180818-3",
+   "lang": "ml",
+   "category": "health",
+   "title": "അപകടം വിതയ്ക്കുന്ന ആശുപത്രി മാലിന്യങ്ങള്‍",
+   "summary": "ആശുപത്രി മാലിന്യങ്ങൾ കൈകാര്യം ചെയ്യുന്നതിലെ അനാസ്ഥയും അത് പൊതുജനാരോഗ്യത്തിന് വരുത്തുന്ന ഭീഷണിയും ചർച്ച ചെയ്യുന്നു. മാലിന്യ സംസ്കരണത്തിലെ ശാസ്ത്രീയമായ രീതികളെക്കുറിച്ച് അവബോധം നൽകുന്നു.",
+   "author": "ഡോ. മുഹമ്മദ് കുട്ടി കണ്ണിയന്‍",
+   "issue_date": "2018-08-18",
+   "html_url": "/ml/health/hazardous-hospital-waste-20180818-3.html",
+   "md_url": "/ml/health/hazardous-hospital-waste-20180818-3.md"
   },
   {
    "slug": "know-this-for-those-caring-for-the-sick-20260822-1",
@@ -9460,6 +9526,17 @@
    "issue_date": "2017-04-01",
    "html_url": "/ml/history/the-verdict-of-babri-20170401-4.html",
    "md_url": "/ml/history/the-verdict-of-babri-20170401-4.md"
+  },
+  {
+   "slug": "vakkom-moulavi-and-kerala-muslim-renaissance-20180818-10",
+   "lang": "ml",
+   "category": "history",
+   "title": "വക്കം മുഹമ്മദ് അബ്ദുല്‍ഖാദിര്‍ മൗലവിയും കേരള മുസ്‌ലിം നവോത്ഥാനവും‍",
+   "summary": "കേരള മുസ്‌ലിം നവോത്ഥാനത്തിന് വക്കം മുഹമ്മദ് അബ്ദുൽഖാദിർ മൗലവി നൽകിയ സംഭാവനകളെയും അദ്ദേഹത്തിന്റെ പ്രവർത്തനങ്ങളെയും കുറിച്ചുള്ള ലേഖനം.",
+   "author": "യൂസുഫ് സാഹിബ് നദ്‌വി",
+   "issue_date": "2018-08-18",
+   "html_url": "/ml/history/vakkom-moulavi-and-kerala-muslim-renaissance-20180818-10.html",
+   "md_url": "/ml/history/vakkom-moulavi-and-kerala-muslim-renaissance-20180818-10.md"
   },
   {
    "slug": "warning-signals-from-the-reconstruction-of-history-20170114-2",
@@ -9680,6 +9757,17 @@
    "issue_date": "2018-08-11",
    "html_url": "/ml/opinion/mob-violence-campus-politics-and-freedom-of-expression-20180811-1.html",
    "md_url": "/ml/opinion/mob-violence-campus-politics-and-freedom-of-expression-20180811-1.md"
+  },
+  {
+   "slug": "mob-violence-campus-politics-and-freedom-of-expression-20180818-1",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "ആള്‍കൂട്ട ഭീകരത, കലാലയ രാഷ്ട്രീയം, ആവിഷ്‌കാര സ്വാതന്ത്ര്യം‍",
+   "summary": "അഭിമന്യുവിന്റെ കൊലപാതകത്തിന്റെ പശ്ചാത്തലത്തിൽ കലാലയ രാഷ്ട്രീയത്തിന്റെ പ്രസക്തിയെയും ആവിഷ്കാര സ്വാതന്ത്ര്യത്തെയും കുറിച്ച് ചർച്ച ചെയ്യുന്നു. ആൾക്കൂട്ട ഭീകരത സമൂഹത്തിൽ ഉണ്ടാക്കുന്ന പ്രത്യാഘാതങ്ങളെ ലേഖനം വിശകലനം ചെയ്യുന്നു.",
+   "author": "സുഫ്‌യാന്‍ അബ്ദുസ്സലാം",
+   "issue_date": "2018-08-18",
+   "html_url": "/ml/opinion/mob-violence-campus-politics-and-freedom-of-expression-20180818-1.html",
+   "md_url": "/ml/opinion/mob-violence-campus-politics-and-freedom-of-expression-20180818-1.md"
   },
   {
    "slug": "muslim-extremists-defame-islam-20170114-7",
@@ -10111,6 +10199,17 @@
    "md_url": "/ml/seerah/leaving-egypt-20180512-8.md"
   },
   {
+   "slug": "not-an-individual-but-a-movement-20180818-12",
+   "lang": "ml",
+   "category": "seerah",
+   "title": "വ്യക്തിയല്ല, പ്രസ്ഥാനം",
+   "summary": "കെ.എം. മൗലവിയുടെ വ്യക്തിത്വത്തെയും അദ്ദേഹം നയിച്ച പ്രസ്ഥാനത്തിന്റെ പ്രാധാന്യത്തെയും കുറിച്ചുള്ള ഓർമ്മക്കുറിപ്പ്.",
+   "author": "കരുവള്ളി മുഹമ്മദ് മൗലവി",
+   "issue_date": "2018-08-18",
+   "html_url": "/ml/seerah/not-an-individual-but-a-movement-20180818-12.html",
+   "md_url": "/ml/seerah/not-an-individual-but-a-movement-20180818-12.md"
+  },
+  {
    "slug": "prophet-muhammad-pbuh-life-and-message-20170225-8",
    "lang": "ml",
    "category": "seerah",
@@ -10197,6 +10296,17 @@
    "issue_date": "2018-08-04",
    "html_url": "/ml/seerah/the-inevitable-fall-20180804-3.html",
    "md_url": "/ml/seerah/the-inevitable-fall-20180804-3.md"
+  },
+  {
+   "slug": "the-journey-to-receive-the-torah-20180818-8",
+   "lang": "ml",
+   "category": "seerah",
+   "title": "തൗറാത്ത് ഏറ്റുവാങ്ങാനുള്ള യാത്ര‍",
+   "summary": "മൂസാനബി(അ)യും ബനൂഇസ്‌റാഈല്യരും നടത്തിയ ചരിത്രപരമായ യാത്രയെയും തൗറാത്ത് ലഭിച്ച സന്ദർഭത്തെയും ഖുർആനിക വെളിച്ചത്തിൽ വിവരിക്കുന്നു.",
+   "author": "ഹുസൈന്‍ സലഫി, ഷാര്‍ജ",
+   "issue_date": "2018-08-18",
+   "html_url": "/ml/seerah/the-journey-to-receive-the-torah-20180818-8.html",
+   "md_url": "/ml/seerah/the-journey-to-receive-the-torah-20180818-8.md"
   },
   {
    "slug": "the-prophet-s-demise-20180512-4",
@@ -10362,6 +10472,17 @@
    "issue_date": "2018-05-12",
    "html_url": "/ml/story/path-of-peace-20180512-7.html",
    "md_url": "/ml/story/path-of-peace-20180512-7.md"
+  },
+  {
+   "slug": "post-death-rituals-20180818-5",
+   "lang": "ml",
+   "category": "story",
+   "title": "മരണ ശേഷക്രിയകള്‍",
+   "summary": "മരണാനന്തര കർമ്മങ്ങളെയും മയ്യിത്ത് സംസ്കരണത്തെയും കുറിച്ചുള്ള ലളിതമായ കാവ്യരൂപത്തിലുള്ള വിവരണം. ഇസ്‌ലാമിക നിയമങ്ങൾക്കനുസൃതമായി മയ്യിത്ത് പരിപാലനം നടത്തേണ്ടതിന്റെ ആവശ്യകത വ്യക്തമാക്കുന്നു.",
+   "author": "വെള്ളില പി. അബ്ദുല്ല",
+   "issue_date": "2018-08-18",
+   "html_url": "/ml/story/post-death-rituals-20180818-5.html",
+   "md_url": "/ml/story/post-death-rituals-20180818-5.md"
   },
   {
    "slug": "sugar-like-gold-dust-20170128-11",
