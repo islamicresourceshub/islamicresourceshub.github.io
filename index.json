@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-31T03:46:04.440868+00:00",
+ "generated_at": "2026-08-31T03:50:25.225907+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1749,
+ "count": 1762,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -8285,6 +8285,17 @@
    "md_url": "/ml/aqeedah/faith-is-the-foundation-of-islam-20170128-13.md"
   },
   {
+   "slug": "ghaib-the-key-to-faith-20180804-5",
+   "lang": "ml",
+   "category": "aqeedah",
+   "title": "ഗൈബ് വിശ്വാസത്തിന്റെ താക്കോല്‍",
+   "summary": "ഇസ്‌ലാമിക വിശ്വാസത്തിന്റെ അടിസ്ഥാനമായ 'ഗൈബ്' (മറഞ്ഞ കാര്യങ്ങള്‍) എന്ന വിഷയത്തെക്കുറിച്ചുള്ള പഠനം. അല്ലാഹുവിലുള്ള വിശ്വാസത്തിന്റെ ആണിക്കല്ലാണ് ഗൈബിലുള്ള വിശ്വാസമെന്ന് ലേഖനം സമര്‍ത്ഥിക്കുന്നു.",
+   "author": "ഡോ. സി.മുഹമ്മദ് റാഫി ചെമ്പ്ര",
+   "issue_date": "2018-08-04",
+   "html_url": "/ml/aqeedah/ghaib-the-key-to-faith-20180804-5.html",
+   "md_url": "/ml/aqeedah/ghaib-the-key-to-faith-20180804-5.md"
+  },
+  {
    "slug": "identify-yourself-20170401-1",
    "lang": "ml",
    "category": "aqeedah",
@@ -8437,6 +8448,17 @@
    "issue_date": "2017-04-01",
    "html_url": "/ml/dawah/getting-closer-to-the-creator-20170401-12.html",
    "md_url": "/ml/dawah/getting-closer-to-the-creator-20170401-12.md"
+  },
+  {
+   "slug": "ideology-is-paramount-20180804-2",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "ആദര്‍ശമാണ് പ്രധാനം",
+   "summary": "കരുവള്ളി മുഹമ്മദ് മൗലവിയുടെ ആദര്‍ശപരമായ നിലപാടുകളെയും അദ്ദേഹം ഉയര്‍ത്തിപ്പിടിച്ച മൂല്യങ്ങളെയും കുറിച്ചുള്ള ലേഖനം. അദ്ദേഹത്തിന്റെ അവസാനകാല ചിന്തകള്‍ ഇതില്‍ പങ്കുവെക്കുന്നു.",
+   "author": "കരുവള്ളി മുഹമ്മദ് മൗലവി",
+   "issue_date": "2018-08-04",
+   "html_url": "/ml/dawah/ideology-is-paramount-20180804-2.html",
+   "md_url": "/ml/dawah/ideology-is-paramount-20180804-2.md"
   },
   {
    "slug": "jallikattu-and-the-islamic-approach-to-animals-20170128-4",
@@ -8734,6 +8756,17 @@
    "issue_date": "2018-05-05",
    "html_url": "/ml/dawah/who-are-cultural-leaders-20180505-1.html",
    "md_url": "/ml/dawah/who-are-cultural-leaders-20180505-1.md"
+  },
+  {
+   "slug": "with-a-satisfied-soul-20180804-11",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "സംതൃപ്തിയടഞ്ഞ ആത്മാവുമായി",
+   "summary": "ഏകദൈവാരാധനയുടെ പ്രാധാന്യത്തെക്കുറിച്ചുള്ള ലേഖനം. വിവിധ കാലഘട്ടങ്ങളില്‍ പ്രവാചകന്മാര്‍ പഠിപ്പിച്ച തൗഹീദിന്റെ സന്ദേശത്തെ ഇത് ഓര്‍മ്മിപ്പിക്കുന്നു.",
+   "author": "എസ്.എ ഐദീദ് തങ്ങള്‍",
+   "issue_date": "2018-08-04",
+   "html_url": "/ml/dawah/with-a-satisfied-soul-20180804-11.html",
+   "md_url": "/ml/dawah/with-a-satisfied-soul-20180804-11.md"
   },
   {
    "slug": "a-good-family-20180512-11",
@@ -9066,6 +9099,17 @@
    "md_url": "/ml/fiqh/mosque-construction-some-points-to-note-20170325-5.md"
   },
   {
+   "slug": "post-death-rituals-20180804-9",
+   "lang": "ml",
+   "category": "fiqh",
+   "title": "മരണ ശേഷക്രിയകള്‍",
+   "summary": "മരണാനന്തര കര്‍മ്മങ്ങളെക്കുറിച്ചുള്ള കര്‍മ്മശാസ്ത്രപരമായ ചര്‍ച്ച. മയ്യിത്ത് നിസ്‌കാരവുമായി ബന്ധപ്പെട്ട അഭിപ്രായ വ്യത്യാസങ്ങളെയും തെളിവുകളെയും ഇത് പരിശോധിക്കുന്നു.",
+   "author": "വെള്ളില പി. അബ്ദുല്ല",
+   "issue_date": "2018-08-04",
+   "html_url": "/ml/fiqh/post-death-rituals-20180804-9.html",
+   "md_url": "/ml/fiqh/post-death-rituals-20180804-9.md"
+  },
+  {
    "slug": "ramadan-fasting-rulings-and-prohibitions-20180519-7",
    "lang": "ml",
    "category": "fiqh",
@@ -9086,6 +9130,17 @@
    "issue_date": "2017-02-11",
    "html_url": "/ml/fiqh/the-alcoholic-father-20170211-7.html",
    "md_url": "/ml/fiqh/the-alcoholic-father-20170211-7.md"
+  },
+  {
+   "slug": "the-consumer-and-the-law-20180804-12",
+   "lang": "ml",
+   "category": "fiqh",
+   "title": "ഉപഭോക്താവും നിയമവും",
+   "summary": "ആധുനിക കാലത്തെ ഉപഭോക്തൃ സംസ്‌കാരത്തെയും അതില്‍ പാലിക്കേണ്ട ഇസ്‌ലാമിക നിയമങ്ങളെയും കുറിച്ചുള്ള ലേഖനം. കച്ചവടത്തിലെ നീതിയും ഉപഭോക്താവിന്റെ അവകാശങ്ങളും ഇതില്‍ ചര്‍ച്ച ചെയ്യുന്നു.",
+   "author": "മുസാഫിര്‍",
+   "issue_date": "2018-08-04",
+   "html_url": "/ml/fiqh/the-consumer-and-the-law-20180804-12.html",
+   "md_url": "/ml/fiqh/the-consumer-and-the-law-20180804-12.md"
   },
   {
    "slug": "control-your-mind-20170325-3",
@@ -9341,6 +9396,17 @@
    "md_url": "/ml/opinion/democratic-jallikattu-20170218-5.md"
   },
   {
+   "slug": "devalued-humans-and-valued-cows-20180804-13",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "വിലയില്ലാതാകുന്ന മനുഷ്യരും വിലകൂടുന്ന ഗോക്കളും",
+   "summary": "ഇന്ത്യയിലെ വര്‍ത്തമാനകാല സാമൂഹിക സാഹചര്യങ്ങളെയും മനുഷ്യജീവന് വിലയില്ലാത്ത അവസ്ഥയെയും വിമര്‍ശനാത്മകമായി പരിശോധിക്കുന്ന ലേഖനം.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2018-08-04",
+   "html_url": "/ml/opinion/devalued-humans-and-valued-cows-20180804-13.html",
+   "md_url": "/ml/opinion/devalued-humans-and-valued-cows-20180804-13.md"
+  },
+  {
    "slug": "e-writing-is-not-mere-writing-20170121-15",
    "lang": "ml",
    "category": "opinion",
@@ -9438,6 +9504,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/ml/opinion/join-the-party-let-the-battle-begin-20170128-6.html",
    "md_url": "/ml/opinion/join-the-party-let-the-battle-begin-20170128-6.md"
+  },
+  {
+   "slug": "karoovalli-s-perspectives-and-successors-approaches-20180804-8",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "കരുവള്ളിയുടെ കാഴ്ചപ്പാടുകളും പിന്‍ഗാമികളുടെ സമീപനങ്ങളും",
+   "summary": "കരുവള്ളി മുഹമ്മദ് മൗലവിയുടെ കാഴ്ചപ്പാടുകളെ പിന്‍ഗാമികള്‍ എങ്ങനെ സമീപിക്കണം എന്നതിനെക്കുറിച്ചുള്ള ലേഖനം. അദ്ദേഹത്തിന്റെ ബഹുമുഖ വ്യക്തിത്വത്തെ ഈ ലേഖനം വിശകലനം ചെയ്യുന്നു.",
+   "author": "ടി.കെ.അശ്‌റഫ്",
+   "issue_date": "2018-08-04",
+   "html_url": "/ml/opinion/karoovalli-s-perspectives-and-successors-approaches-20180804-8.html",
+   "md_url": "/ml/opinion/karoovalli-s-perspectives-and-successors-approaches-20180804-8.md"
   },
   {
    "slug": "muslim-extremists-defame-islam-20170114-7",
@@ -9682,6 +9759,17 @@
    "md_url": "/ml/opinion/who-should-leave-india-20170121-1.md"
   },
   {
+   "slug": "al-balad-the-city-20180804-4",
+   "lang": "ml",
+   "category": "quran",
+   "title": "ബലദ് (രാജ്യം)",
+   "summary": "ഖുര്‍ആനിലെ 90-ാം അധ്യായമായ സൂറത്തുല്‍ ബലദിന്റെ ലളിതമായ വ്യാഖ്യാനം. മനുഷ്യന്റെ ജീവിതത്തിലെ കഷ്ടപ്പാടുകളെയും അല്ലാഹുവിന്റെ അനുഗ്രഹങ്ങളെയും ഇത് വിശദീകരിക്കുന്നു.",
+   "author": "അബ്ദുറഹ്മാന്‍ നാസിര്‍ അസ്സഅദി",
+   "issue_date": "2018-08-04",
+   "html_url": "/ml/quran/al-balad-the-city-20180804-4.html",
+   "md_url": "/ml/quran/al-balad-the-city-20180804-4.md"
+  },
+  {
    "slug": "al-bayyinah-the-clear-proof-20180519-1",
    "lang": "ml",
    "category": "quran",
@@ -9803,6 +9891,28 @@
    "md_url": "/ml/seerah/ibn-abbas-ra-a-scholar-of-knowledge-20170211-4.md"
   },
   {
+   "slug": "karoovalli-an-eternal-youth-20180804-7",
+   "lang": "ml",
+   "category": "seerah",
+   "title": "കരുവള്ളി ഒരു നിത്യയൗവനം",
+   "summary": "കരുവള്ളി മുഹമ്മദ് മൗലവിയുടെ കര്‍മ്മപഥത്തെയും അദ്ദേഹത്തിന്റെ നിത്യയൗവനമായ ചിന്തകളെയും കുറിച്ചുള്ള ലേഖനം. കേരളീയ മുസ്‌ലിം സമൂഹത്തിന് അദ്ദേഹം നല്‍കിയ സംഭാവനകള്‍ എടുത്തുപറയുന്നു.",
+   "author": "കുഞ്ഞിമുഹമ്മദ് മദനി പറപ്പൂര്‍",
+   "issue_date": "2018-08-04",
+   "html_url": "/ml/seerah/karoovalli-an-eternal-youth-20180804-7.html",
+   "md_url": "/ml/seerah/karoovalli-an-eternal-youth-20180804-7.md"
+  },
+  {
+   "slug": "karoovalli-lessons-of-a-century-20180804-6",
+   "lang": "ml",
+   "category": "seerah",
+   "title": "കരുവള്ളി: നൂറ്റാണ്ടിന്റെ പാഠങ്ങള്‍",
+   "summary": "കേരള മുസ്‌ലിം നവോത്ഥാന ചരിത്രത്തില്‍ കരുവള്ളി മുഹമ്മദ് മൗലവി വഹിച്ച പങ്കിനെക്കുറിച്ചുള്ള വിശകലനം. അദ്ദേഹത്തിന്റെ നേതൃപാടവവും ദീര്‍ഘവീക്ഷണവും ഇതില്‍ വിവരിക്കുന്നു.",
+   "author": "സുഫ്‌യാന്‍ അബ്ദുസ്സലാം",
+   "issue_date": "2018-08-04",
+   "html_url": "/ml/seerah/karoovalli-lessons-of-a-century-20180804-6.html",
+   "md_url": "/ml/seerah/karoovalli-lessons-of-a-century-20180804-6.md"
+  },
+  {
    "slug": "leaving-egypt-20180512-8",
    "lang": "ml",
    "category": "seerah",
@@ -9869,6 +9979,17 @@
    "md_url": "/ml/seerah/reaching-midian-20180519-3.md"
   },
   {
+   "slug": "that-lamp-has-also-extinguished-20180804-1",
+   "lang": "ml",
+   "category": "seerah",
+   "title": "ആ വിളക്കും അണഞ്ഞു",
+   "summary": "കേരള മുസ്‌ലിം നവോത്ഥാന നായകന്‍ കരുവള്ളി മുഹമ്മദ് മൗലവിയുടെ വിയോഗത്തെക്കുറിച്ചുള്ള അനുസ്മരണ ലേഖനം. അദ്ദേഹത്തിന്റെ ജീവിതവും സംഭാവനകളും ഈ ലേഖനത്തില്‍ സ്മരിക്കുന്നു.",
+   "author": "പി.എന്‍. അബ്ദുല്ലത്വീഫ് മദനി",
+   "issue_date": "2018-08-04",
+   "html_url": "/ml/seerah/that-lamp-has-also-extinguished-20180804-1.html",
+   "md_url": "/ml/seerah/that-lamp-has-also-extinguished-20180804-1.md"
+  },
+  {
    "slug": "the-departure-of-the-prophet-20180505-7",
    "lang": "ml",
    "category": "seerah",
@@ -9878,6 +9999,17 @@
    "issue_date": "2018-05-05",
    "html_url": "/ml/seerah/the-departure-of-the-prophet-20180505-7.html",
    "md_url": "/ml/seerah/the-departure-of-the-prophet-20180505-7.md"
+  },
+  {
+   "slug": "the-inevitable-fall-20180804-3",
+   "lang": "ml",
+   "category": "seerah",
+   "title": "അനിവാര്യമായ പതനം",
+   "summary": "മൂസാനബി(അ)യുടെ ചരിത്രത്തിലെ നിര്‍ണ്ണായകമായ ഒരു സന്ദര്‍ഭത്തെക്കുറിച്ചുള്ള വിവരണമാണിത്. ശത്രുക്കളുടെ മുന്നില്‍ വിശ്വാസികള്‍ നേരിട്ട പ്രതിസന്ധികളെയും അതിജീവനത്തെയും ഇത് ചര്‍ച്ച ചെയ്യുന്നു.",
+   "author": "ഹുസൈന്‍ സലഫി, ഷാര്‍ജ",
+   "issue_date": "2018-08-04",
+   "html_url": "/ml/seerah/the-inevitable-fall-20180804-3.html",
+   "md_url": "/ml/seerah/the-inevitable-fall-20180804-3.md"
   },
   {
    "slug": "the-prophet-s-demise-20180512-4",
@@ -10098,6 +10230,17 @@
    "issue_date": "2017-03-04",
    "html_url": "/ml/story/the-duty-of-the-sighted-20170304-3.html",
    "md_url": "/ml/story/the-duty-of-the-sighted-20170304-3.md"
+  },
+  {
+   "slug": "the-end-of-stinginess-20180804-10",
+   "lang": "ml",
+   "category": "story",
+   "title": "പിശുക്കിന്റെ അന്ത്യം",
+   "summary": "പിശുക്കനായ ദഹ്‌ലാന്‍ എന്ന ധനികന്റെ കഥയിലൂടെ പിശുക്കിന്റെ ദോഷഫലങ്ങളെക്കുറിച്ച് ബോധവല്‍ക്കരിക്കുന്ന ഒരു കഥ. ധനം കൊണ്ട് മറ്റുള്ളവര്‍ക്ക് ഉപകാരം ചെയ്യേണ്ടതിന്റെ പ്രാധാന്യം ഇത് വ്യക്തമാക്കുന്നു.",
+   "author": "ഉസ്മാന്‍ പാലക്കാഴി",
+   "issue_date": "2018-08-04",
+   "html_url": "/ml/story/the-end-of-stinginess-20180804-10.html",
+   "md_url": "/ml/story/the-end-of-stinginess-20180804-10.md"
   },
   {
    "slug": "the-fruit-of-ingratitude-20170121-7",
