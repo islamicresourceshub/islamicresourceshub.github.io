@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-31T04:50:44.591781+00:00",
+ "generated_at": "2026-08-31T05:01:08.678463+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1876,
+ "count": 1885,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -8615,6 +8615,17 @@
    "md_url": "/ml/dawah/dawah-obligation-and-execution-20170401-9.md"
   },
   {
+   "slug": "dealings-with-non-muslims-20180929-2",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "ഇതര മത വിശ്വാസികളുമായുള്ള ഇടപാടുകള്‍",
+   "summary": "ബഹുസ്വര സമൂഹത്തിൽ ഇതര മതവിശ്വാസികളോട് മുസ്‌ലിംകൾ പുലർത്തേണ്ട പെരുമാറ്റരീതികളെക്കുറിച്ചുള്ള പഠനം. മനുഷ്യൻ എന്ന നിലയിലുള്ള ആദരവും ഇസ്‌ലാമിക മൂല്യങ്ങളും ഇതിൽ വിവരിക്കുന്നു.",
+   "author": "ഡോ. സി.മുഹമ്മദ് റാഫി ചെമ്പ്ര",
+   "issue_date": "2018-09-29",
+   "html_url": "/ml/dawah/dealings-with-non-muslims-20180929-2.html",
+   "md_url": "/ml/dawah/dealings-with-non-muslims-20180929-2.md"
+  },
+  {
    "slug": "death-and-patience-20180505-4",
    "lang": "ml",
    "category": "dawah",
@@ -9097,6 +9108,28 @@
    "issue_date": "2018-08-18",
    "html_url": "/ml/dawah/the-ten-days-of-dhul-hijjah-and-their-virtues-20180818-4.html",
    "md_url": "/ml/dawah/the-ten-days-of-dhul-hijjah-and-their-virtues-20180818-4.md"
+  },
+  {
+   "slug": "those-who-turn-back-will-not-reach-the-goal-20180929-7",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "പിന്തിരിയുന്നവന്‍ ലക്ഷ്യം കാണില്ല",
+   "summary": "ലക്ഷ്യപ്രാപ്തിക്കായി നിരന്തരമായ പരിശ്രമം ആവശ്യമാണെന്ന് ഓർമ്മിപ്പിക്കുന്ന ലേഖനം. മാർക്കോണിയുടെ പരീക്ഷണങ്ങളെ ഉദാഹരണമായി എടുത്ത് ജീവിതത്തിലെ വിജയത്തിനായുള്ള പാഠങ്ങൾ പങ്കുവെക്കുന്നു.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2018-09-29",
+   "html_url": "/ml/dawah/those-who-turn-back-will-not-reach-the-goal-20180929-7.html",
+   "md_url": "/ml/dawah/those-who-turn-back-will-not-reach-the-goal-20180929-7.md"
+  },
+  {
+   "slug": "thoughts-during-a-journey-20180929-10",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "യാത്രയിലെ ചിന്തകള്‍",
+   "summary": "യാത്രയ്ക്കിടയിൽ ലഭിക്കുന്ന അനുഭവങ്ങളും ചിന്തകളും പങ്കുവെക്കുന്ന ലേഖനം. ഇസ്‌ലാമിക പ്രബോധന പ്രവർത്തനങ്ങളുടെ ഭാഗമായുള്ള യാത്രയിലെ ഉൾക്കാഴ്ചകൾ ഇതിൽ വിവരിക്കുന്നു.",
+   "author": "എസ്.എ ഐദീദ് തങ്ങള്‍",
+   "issue_date": "2018-09-29",
+   "html_url": "/ml/dawah/thoughts-during-a-journey-20180929-10.html",
+   "md_url": "/ml/dawah/thoughts-during-a-journey-20180929-10.md"
   },
   {
    "slug": "to-achieve-success-20180512-13",
@@ -9803,6 +9836,17 @@
    "md_url": "/ml/health/nutrients-for-thyroid-health-20180505-10.md"
   },
   {
+   "slug": "smoking-in-public-places-20180929-8",
+   "lang": "ml",
+   "category": "health",
+   "title": "പൊതുസ്ഥലങ്ങളിലെ പുകവലി",
+   "summary": "പൊതുസ്ഥലങ്ങളിലെ പുകവലി ആരോഗ്യത്തിന് വരുത്തുന്ന ദോഷങ്ങളെക്കുറിച്ചുള്ള ബോധവൽക്കരണ ലേഖനം. ഇത് വ്യക്തിക്കും സമൂഹത്തിനും ഉണ്ടാക്കുന്ന പ്രത്യാഘാതങ്ങൾ ഇതിൽ വ്യക്തമാക്കുന്നു.",
+   "author": "മുസാഫിര്‍",
+   "issue_date": "2018-09-29",
+   "html_url": "/ml/health/smoking-in-public-places-20180929-8.html",
+   "md_url": "/ml/health/smoking-in-public-places-20180929-8.md"
+  },
+  {
    "slug": "thyroid-and-physical-changes-20180512-5",
    "lang": "ml",
    "category": "health",
@@ -9933,6 +9977,17 @@
    "issue_date": "2018-05-12",
    "html_url": "/ml/history/scientific-renaissance-through-quran-20180512-1.html",
    "md_url": "/ml/history/scientific-renaissance-through-quran-20180512-1.md"
+  },
+  {
+   "slug": "the-first-quran-translation-in-malayalam-20180929-5",
+   "lang": "ml",
+   "category": "history",
+   "title": "മലയാളത്തിലെ ആദ്യ ക്വുര്‍ആന്‍ പരിഭാഷ",
+   "summary": "മലയാള ഭാഷയിൽ ഖുർആൻ പരിഭാഷകൾ ഉണ്ടായതിന്റെ ചരിത്രപരമായ നാൾവഴികൾ ഈ ലേഖനം പരിശോധിക്കുന്നു. ആദ്യകാല വിവർത്തനങ്ങളുടെ പരിമിതികളും വളർച്ചയും ഇതിൽ ചർച്ചയാകുന്നു.",
+   "author": "ശൈഖ് മുഹമ്മദ് അശ്‌റഫ് അലി അല്‍മലബാരി/വിവ. അബ്ദുല്‍ ജബ്ബാര്‍ അബ്ദുല്ല",
+   "issue_date": "2018-09-29",
+   "html_url": "/ml/history/the-first-quran-translation-in-malayalam-20180929-5.html",
+   "md_url": "/ml/history/the-first-quran-translation-in-malayalam-20180929-5.md"
   },
   {
    "slug": "the-maturity-of-translation-and-its-echoes-20180922-6",
@@ -10353,6 +10408,17 @@
    "md_url": "/ml/opinion/secular-government-and-muslim-minority-20170218-8.md"
   },
   {
+   "slug": "secularism-fascism-and-resistance-20180929-6",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "മതേതരത്വം ഫാഷിസം പ്രതിരോധം",
+   "summary": "രാജ്യത്തെ രാഷ്ട്രീയ സാഹചര്യങ്ങളെയും ഫാഷിസ്റ്റ് പ്രവണതകളെയും കുറിച്ചുള്ള വിശകലനം. മതേതര ചേരിയുടെ ഉത്തരവാദിത്തങ്ങളെക്കുറിച്ചും പ്രതിരോധത്തെക്കുറിച്ചും ലേഖനം സംസാരിക്കുന്നു.",
+   "author": "പി. സുരേന്ദ്രന്‍/അംജദ് മദനി",
+   "issue_date": "2018-09-29",
+   "html_url": "/ml/opinion/secularism-fascism-and-resistance-20180929-6.html",
+   "md_url": "/ml/opinion/secularism-fascism-and-resistance-20180929-6.md"
+  },
+  {
    "slug": "springs-of-hope-in-the-flood-20180908-6",
    "lang": "ml",
    "category": "opinion",
@@ -10593,6 +10659,17 @@
    "issue_date": "2018-09-22",
    "html_url": "/ml/quran/fajr-the-dawn-part-1-20180922-2.html",
    "md_url": "/ml/quran/fajr-the-dawn-part-1-20180922-2.md"
+  },
+  {
+   "slug": "fajr-the-dawn-part-2-20180929-1",
+   "lang": "ml",
+   "category": "quran",
+   "title": "ഫജ്ര്‍ (പ്രഭാതം), ഭാഗം: 2",
+   "summary": "സൂറത്തുൽ ഫജ്‌റിലെ വചനങ്ങളുടെ വിശദീകരണമാണ് ഈ ലേഖനം. മനുഷ്യന്റെ പരീക്ഷണങ്ങളെയും അനാഥകളോടുള്ള ബാധ്യതകളെയും സംബന്ധിച്ച ഖുർആനിക വീക്ഷണം ഇതിൽ ചർച്ച ചെയ്യുന്നു.",
+   "author": "അബ്ദുറഹ്മാന്‍ നാസിര്‍ അസ്സഅദി",
+   "issue_date": "2018-09-29",
+   "html_url": "/ml/quran/fajr-the-dawn-part-2-20180929-1.html",
+   "md_url": "/ml/quran/fajr-the-dawn-part-2-20180929-1.md"
   },
   {
    "slug": "importance-of-quranic-study-20180526-6",
@@ -10956,6 +11033,17 @@
    "issue_date": "2018-08-25",
    "html_url": "/ml/seerah/the-sacrifice-of-ideological-commitment-20180825-1.html",
    "md_url": "/ml/seerah/the-sacrifice-of-ideological-commitment-20180825-1.md"
+  },
+  {
+   "slug": "the-tragedy-of-qarun-20180929-4",
+   "lang": "ml",
+   "category": "seerah",
+   "title": "ക്വാറൂനിന്റെ ദുരന്തം",
+   "summary": "മൂസാ നബിയുടെ കാലഘട്ടത്തിലെ ഖാറൂന്റെ കഥയും അവന്റെ അഹങ്കാരവും നാശവും വിവരിക്കുന്ന ലേഖനം. ചരിത്രപരമായ പാഠങ്ങൾ ഇതിൽ ഉൾക്കൊള്ളുന്നു.",
+   "author": "ഹുസൈന്‍ സലഫി, ഷാര്‍ജ",
+   "issue_date": "2018-09-29",
+   "html_url": "/ml/seerah/the-tragedy-of-qarun-20180929-4.html",
+   "md_url": "/ml/seerah/the-tragedy-of-qarun-20180929-4.md"
   },
   {
    "slug": "those-with-hardened-hearts-20180922-3",
@@ -11352,6 +11440,17 @@
    "issue_date": "2017-02-25",
    "html_url": "/ml/story/when-the-burden-of-sin-increases-20170225-10.html",
    "md_url": "/ml/story/when-the-burden-of-sin-increases-20170225-10.md"
+  },
+  {
+   "slug": "who-created-the-beauty-20180929-3",
+   "lang": "ml",
+   "category": "story",
+   "title": "കാഴ്ചയൊരുക്കിയതാര്?",
+   "summary": "പ്രകൃതിയുടെ മനോഹാരിതയും പ്രപഞ്ചത്തിലെ അത്ഭുതങ്ങളും അല്ലാഹുവിന്റെ സൃഷ്ടിപ്പിന്റെ അടയാളങ്ങളാണെന്ന് ഓർമ്മിപ്പിക്കുന്ന കവിതയാണിത്.",
+   "author": "ഉസ്മാന്‍ പാലക്കാഴി",
+   "issue_date": "2018-09-29",
+   "html_url": "/ml/story/who-created-the-beauty-20180929-3.html",
+   "md_url": "/ml/story/who-created-the-beauty-20180929-3.md"
   },
   {
    "slug": "an-agenda-is-needed-during-vacation-too-20170325-1",
