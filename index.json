@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-31T10:05:32.061247+00:00",
+ "generated_at": "2026-08-31T10:06:06.816527+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2271,
+ "count": 2272,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -18590,6 +18590,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/pt/youth/what-will-the-waste-do-20170114-5.html",
    "md_url": "/pt/youth/what-will-the-waste-do-20170114-5.md"
+  },
+  {
+   "slug": "become-the-guardian-of-the-sources-20170128-9",
+   "lang": "ru",
+   "category": "aqeedah",
+   "title": "Станьте стражами священных текстов",
+   "summary": "В статье разъясняется божественная природа и непоколебимость исламских первоисточников, а также их отличие от других религий. Автор напоминает о важности защиты и сохранения Корана и Сунны в современных условиях.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2017-01-28",
+   "html_url": "/ru/aqeedah/become-the-guardian-of-the-sources-20170128-9.html",
+   "md_url": "/ru/aqeedah/become-the-guardian-of-the-sources-20170128-9.md"
   },
   {
    "slug": "do-not-waver-in-trials-20170121-9",
