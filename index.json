@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-31T05:04:29.416769+00:00",
+ "generated_at": "2026-08-31T05:05:14.318928+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1890,
+ "count": 1891,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -363,6 +363,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/am/family/husband-trapped-in-the-mobile-web-20170121-5.html",
    "md_url": "/am/family/husband-trapped-in-the-mobile-web-20170121-5.md"
+  },
+  {
+   "slug": "islamic-parenting-significance-and-goals-part-1-20170114-4",
+   "lang": "am",
+   "category": "family",
+   "title": "የእስላማዊ አስተዳደግ፡ አስፈላጊነት እና ግብ",
+   "summary": "የእስላማዊ አስተዳደግን አስፈላጊነት እና ግቦች የሚያብራራ የመጀመሪያው ክፍል ነው። ይህ ርዕስ የተማሩም ሆኑ ያልተማሩ ለሁሉም ወላጆች የሚመለከት ነው።",
+   "author": "അഷ്‌റഫ്‌ എകരൂൽ",
+   "issue_date": "2017-01-14",
+   "html_url": "/am/family/islamic-parenting-significance-and-goals-part-1-20170114-4.html",
+   "md_url": "/am/family/islamic-parenting-significance-and-goals-part-1-20170114-4.md"
   },
   {
    "slug": "our-parents-20170325-4",
