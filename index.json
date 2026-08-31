@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-31T08:04:15.445220+00:00",
+ "generated_at": "2026-08-31T08:04:56.131696+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2070,
+ "count": 2071,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -5566,6 +5566,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/ha/family/our-parents-20170325-4.html",
    "md_url": "/ha/family/our-parents-20170325-4.md"
+  },
+  {
+   "slug": "the-methodology-of-conduct-20170128-8",
+   "lang": "ha",
+   "category": "family",
+   "title": "Hanyar Gudanar da Halayya",
+   "summary": "Wannan wani ci gaba ne na jerin kasidu game da halayen da ya kamata iyaye muminai su koya don inganta tarbiyyar yara. Tattaunawar ta mayar da hankali kan hanyoyin mu'amala da kuma dabi'un da ya kamata a kiyaye.",
+   "author": "അഷ്‌റഫ്‌ എകരൂൽ",
+   "issue_date": "2017-01-28",
+   "html_url": "/ha/family/the-methodology-of-conduct-20170128-8.html",
+   "md_url": "/ha/family/the-methodology-of-conduct-20170128-8.md"
   },
   {
    "slug": "mosque-construction-some-points-to-note-20170325-5",
