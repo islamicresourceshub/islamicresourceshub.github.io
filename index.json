@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-31T05:59:20.468116+00:00",
+ "generated_at": "2026-08-31T05:59:57.396033+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2000,
+ "count": 2001,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -18975,6 +18975,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/te/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.html",
    "md_url": "/te/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.md"
+  },
+  {
+   "slug": "what-to-beware-of-when-taking-sides-20170128-7",
+   "lang": "te",
+   "category": "quran",
+   "title": "పక్షం వహించేటప్పుడు జాగ్రత్తలు",
+   "summary": "ఖురాన్ 43:67 వచనం వెలుగులో, మనం పక్షాలు వహించేటప్పుడు మరియు స్నేహబంధాలను కొనసాగించేటప్పుడు ఎంతటి జాగ్రత్త వహించాలో ఈ వ్యాసం వివరిస్తుంది.",
+   "author": "അബൂ അമീൻ",
+   "issue_date": "2017-01-28",
+   "html_url": "/te/quran/what-to-beware-of-when-taking-sides-20170128-7.html",
+   "md_url": "/te/quran/what-to-beware-of-when-taking-sides-20170128-7.md"
   },
   {
    "slug": "prophets-and-trials-20170325-7",
