@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-31T04:03:16.446922+00:00",
+ "generated_at": "2026-08-31T04:03:56.519722+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1792,
+ "count": 1793,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -5621,6 +5621,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/ha/story/laws-are-to-be-followed-20170128-5.html",
    "md_url": "/ha/story/laws-are-to-be-followed-20170128-5.md"
+  },
+  {
+   "slug": "the-currency-that-was-not-accepted-20170114-3",
+   "lang": "ha",
+   "category": "story",
+   "title": "Kudin da ba a karba ba",
+   "summary": "Wannan wani misali ne da ke kwatanta halin da mutane suka shiga lokacin da dukiyar da suka tara tsawon rayuwarsu ta zama kudin da ba a karba ba, wanda hakan ke nuna mana darasin rayuwa.",
+   "author": "കുഞ്ഞിമുഹമ്മദ്‌ മദനി പറപ്പൂർ",
+   "issue_date": "2017-01-14",
+   "html_url": "/ha/story/the-currency-that-was-not-accepted-20170114-3.html",
+   "md_url": "/ha/story/the-currency-that-was-not-accepted-20170114-3.md"
   },
   {
    "slug": "the-fruit-of-ingratitude-20170121-7",
