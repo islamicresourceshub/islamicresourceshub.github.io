@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-31T09:46:07.596428+00:00",
+ "generated_at": "2026-08-31T09:49:15.974957+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2227,
+ "count": 2237,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -8901,6 +8901,17 @@
    "md_url": "/ml/aqeedah/allegations-of-deviation-and-responses-20170401-8.md"
   },
   {
+   "slug": "are-humans-born-sinners-20190406-6",
+   "lang": "ml",
+   "category": "aqeedah",
+   "title": "മനുഷ്യര്‍ ജന്മനാ പാപികളോ?",
+   "summary": "മനുഷ്യന്‍ ജന്മനാ പാപിയാണെന്ന വാദത്തെ ഇസ്‌ലാമിക വീക്ഷണകോണിലൂടെ ഈ ലേഖനം ഖണ്ഡിക്കുന്നു. ഈസാ നബിയുടെ പ്രബോധനങ്ങളുടെ അടിസ്ഥാനത്തില്‍ മനുഷ്യന്റെ പ്രകൃതിയെക്കുറിച്ച് ഇത് വിശദീകരിക്കുന്നു.",
+   "author": "ഹുസൈന്‍ സലഫി, ഷാര്‍ജ",
+   "issue_date": "2019-04-06",
+   "html_url": "/ml/aqeedah/are-humans-born-sinners-20190406-6.html",
+   "md_url": "/ml/aqeedah/are-humans-born-sinners-20190406-6.md"
+  },
+  {
    "slug": "are-we-mushriks-20181110-6",
    "lang": "ml",
    "category": "aqeedah",
@@ -9383,6 +9394,17 @@
    "issue_date": "2018-11-10",
    "html_url": "/ml/dawah/blessings-gratitude-and-ingratitude-20181110-3.html",
    "md_url": "/ml/dawah/blessings-gratitude-and-ingratitude-20181110-3.md"
+  },
+  {
+   "slug": "brand-dharma-that-awakens-morality-20190406-3",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "ധാര്‍മികതയുണര്‍ത്തുന്ന 'ബ്രാന്‍ഡ് ധര്‍മ'",
+   "summary": "കൊച്ചിയില്‍ നടന്ന ഒരു സമ്മേളനത്തിന്റെ പശ്ചാത്തലത്തില്‍, സാമൂഹിക ജീവിതത്തില്‍ ധാര്‍മികതയുടെയും മൂല്യങ്ങളുടെയും പ്രാധാന്യത്തെക്കുറിച്ച് ഈ ലേഖനം ചര്‍ച്ച ചെയ്യുന്നു.",
+   "author": "ഫൈസല്‍ അനന്തപുരി, ജാമിഅ അല്‍ഹിന്ദ്",
+   "issue_date": "2019-04-06",
+   "html_url": "/ml/dawah/brand-dharma-that-awakens-morality-20190406-3.html",
+   "md_url": "/ml/dawah/brand-dharma-that-awakens-morality-20190406-3.md"
   },
   {
    "slug": "conditioning-the-mind-20180602-10",
@@ -10010,6 +10032,17 @@
    "issue_date": "2018-12-29",
    "html_url": "/ml/dawah/snippets-from-memory-20181229-9.html",
    "md_url": "/ml/dawah/snippets-from-memory-20181229-9.md"
+  },
+  {
+   "slug": "social-media-and-welfare-activities-20190406-10",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "സമൂഹമാധ്യമങ്ങളും ക്ഷേമപ്രവര്‍ത്തനങ്ങളും",
+   "summary": "സമൂഹമാധ്യമങ്ങളുടെ ഗുണദോഷങ്ങളെക്കുറിച്ചും പ്രളയകാലം പോലുള്ള പ്രതിസന്ധികളില്‍ അവ എങ്ങനെ ക്രിയാത്മകമായി ഉപയോഗിക്കാമെന്നും ഈ ലേഖനം ചര്‍ച്ച ചെയ്യുന്നു.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2019-04-06",
+   "html_url": "/ml/dawah/social-media-and-welfare-activities-20190406-10.html",
+   "md_url": "/ml/dawah/social-media-and-welfare-activities-20190406-10.md"
   },
   {
    "slug": "solution-for-divisions-20170218-3",
@@ -10969,6 +11002,17 @@
    "md_url": "/ml/family/welcoming-the-newborn-20170225-9.md"
   },
   {
+   "slug": "what-happened-to-our-girls-and-boys-20190406-8",
+   "lang": "ml",
+   "category": "family",
+   "title": "പെണ്‍കുട്ടികള്‍ക്കിതെന്തു പറ്റി, ആണ്‍കുട്ടികള്‍ക്കും?",
+   "summary": "ഇന്നത്തെ തലമുറയിലെ ആണ്‍കുട്ടികളുടെയും പെണ്‍കുട്ടികളുടെയും പെരുമാറ്റരീതികളെയും സാമൂഹിക ഇടപെടലുകളെയും കുറിച്ചുള്ള ഒരു സാമൂഹിക നിരീക്ഷണമാണിത്.",
+   "author": "ഇബ്‌നു അലി എടത്തനാട്ടുകര",
+   "issue_date": "2019-04-06",
+   "html_url": "/ml/family/what-happened-to-our-girls-and-boys-20190406-8.html",
+   "md_url": "/ml/family/what-happened-to-our-girls-and-boys-20190406-8.md"
+  },
+  {
    "slug": "when-women-are-in-the-driving-seat-20180811-8",
    "lang": "ml",
    "category": "family",
@@ -11000,6 +11044,17 @@
    "issue_date": "2017-02-25",
    "html_url": "/ml/fiqh/alcohol-islam-s-ever-relevant-approach-20170225-6.html",
    "md_url": "/ml/fiqh/alcohol-islam-s-ever-relevant-approach-20170225-6.md"
+  },
+  {
+   "slug": "bid-ahs-in-prayer-20190406-9",
+   "lang": "ml",
+   "category": "fiqh",
+   "title": "പ്രാര്‍ഥനയില്‍ സംഭവിക്കുന്ന ബിദ്അത്തുകള്‍",
+   "summary": "പ്രാര്‍ഥന (ദുആ) ആരാധനയാണെന്നും അത് പ്രവാചക ചര്യയനുസരിച്ചായിരിക്കണമെന്നും ഈ ലേഖനം ഓര്‍മ്മിപ്പിക്കുന്നു. പ്രാര്‍ഥനയില്‍ കടന്നുകൂടിയ അനാചാരങ്ങളെക്കുറിച്ച് ഇത് മുന്നറിയിപ്പ് നല്‍കുന്നു.",
+   "author": "സയ്യിദ് സഅ്ഫര്‍ സ്വാദിക്വ് മദീനി",
+   "issue_date": "2019-04-06",
+   "html_url": "/ml/fiqh/bid-ahs-in-prayer-20190406-9.html",
+   "md_url": "/ml/fiqh/bid-ahs-in-prayer-20190406-9.md"
   },
   {
    "slug": "celebrations-in-islam-20180616-4",
@@ -11475,6 +11530,17 @@
    "md_url": "/ml/health/when-menstruating-20260822-4.md"
   },
   {
+   "slug": "actions-that-provoked-the-barelwis-20190406-2",
+   "lang": "ml",
+   "category": "history",
+   "title": "ബറേല്‍വികളെ പ്രകോപിപ്പിച്ച നടപടികള്‍",
+   "summary": "സൗദി അറേബ്യയില്‍ ഇബ്‌നുസുഊദ് രാജാവ് നടപ്പിലാക്കിയ ഇസ്‌ലാമിക ശുദ്ധീകരണ പ്രവര്‍ത്തനങ്ങളും അതിനെത്തുടര്‍ന്ന് ബറേല്‍വി വിഭാഗത്തിലുണ്ടായ പ്രതികരണങ്ങളും ഈ ലേഖനം വിശകലനം ചെയ്യുന്നു.",
+   "author": "യൂസുഫ് സാഹിബ് നദ്‌വി ഓച്ചിറ",
+   "issue_date": "2019-04-06",
+   "html_url": "/ml/history/actions-that-provoked-the-barelwis-20190406-2.html",
+   "md_url": "/ml/history/actions-that-provoked-the-barelwis-20190406-2.md"
+  },
+  {
    "slug": "ahmed-raza-khan-barelvi-origins-and-evolution-20190323-1",
    "lang": "ml",
    "category": "history",
@@ -11506,6 +11572,17 @@
    "issue_date": "2018-10-13",
    "html_url": "/ml/history/c-n-moulavi-s-translation-that-compromised-sources-20181013-9.html",
    "md_url": "/ml/history/c-n-moulavi-s-translation-that-compromised-sources-20181013-9.md"
+  },
+  {
+   "slug": "fearless-before-authorities-20190406-1",
+   "lang": "ml",
+   "category": "history",
+   "title": "അധികാരികളുടെ മുമ്പില്‍ നിര്‍ഭയം",
+   "summary": "മലയാളത്തിലെ വിശുദ്ധ ഖുര്‍ആന്‍ പരിഭാഷയുടെ ചരിത്രത്തെയും ശൈഖ് മുഹമ്മദ് മാഹിന്‍ ഹമദാനി തങ്ങളുടെ സംഭാവനകളെയും ഈ ലേഖനം പരിശോധിക്കുന്നു. 1915-ലെ മലബാര്‍ പശ്ചാത്തലത്തില്‍ ഖുര്‍ആന്‍ പരിഭാഷകള്‍ക്ക് നേരിടേണ്ടി വന്ന വെല്ലുവിളികളെക്കുറിച്ച് ഇത് വിവരിക്കുന്നു.",
+   "author": "ഡോ. ചേക്കുമരക്കാരകത്ത് ഷാനവാസ്, പറവണ്ണ",
+   "issue_date": "2019-04-06",
+   "html_url": "/ml/history/fearless-before-authorities-20190406-1.html",
+   "md_url": "/ml/history/fearless-before-authorities-20190406-1.md"
   },
   {
    "slug": "hamadani-s-institutions-and-quranic-renaissance-20190302-7",
@@ -12452,6 +12529,17 @@
    "issue_date": "2018-09-01",
    "html_url": "/ml/opinion/realizations-from-relief-camps-20180901-1.html",
    "md_url": "/ml/opinion/realizations-from-relief-camps-20180901-1.md"
+  },
+  {
+   "slug": "religion-life-and-communalism-20190406-7",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "മതം, ജീവിതം, വര്‍ഗീയത",
+   "summary": "മതവിശ്വാസവും ആചാരങ്ങളും പാലിക്കുന്നത് ഒരാളെ ജനാധിപത്യവിരുദ്ധനാക്കുന്നുണ്ടോ എന്ന ചോദ്യത്തെ ഈ ലേഖനം പരിശോധിക്കുന്നു. മതവും വര്‍ഗീയതയും തമ്മിലുള്ള വ്യത്യാസങ്ങളെക്കുറിച്ച് ഇത് ചര്‍ച്ച ചെയ്യുന്നു.",
+   "author": "അഫ്താബ് കണ്ണഞ്ചേരി",
+   "issue_date": "2019-04-06",
+   "html_url": "/ml/opinion/religion-life-and-communalism-20190406-7.html",
+   "md_url": "/ml/opinion/religion-life-and-communalism-20190406-7.md"
   },
   {
    "slug": "right-to-service-act-20181124-8",
@@ -13521,6 +13609,17 @@
    "md_url": "/ml/seerah/in-the-palace-of-pharaoh-20180616-8.md"
   },
   {
+   "slug": "isra-and-mi-raj-20190406-4",
+   "lang": "ml",
+   "category": "seerah",
+   "title": "ഇസ്‌റാഉം മിഅ്‌റാജും",
+   "summary": "പ്രവാചകന്‍ മുഹമ്മദ് നബിയുടെ ഇസ്‌റാഅ്, മിഅ്‌റാജ് യാത്രകളെക്കുറിച്ചുള്ള ചരിത്രപരമായ വിവരണമാണിത്. മസ്ജിദുല്‍ ഹറാമില്‍ നിന്ന് മസ്ജിദുല്‍ അഖ്‌സയിലേക്കുള്ള പ്രയാണത്തിന്റെ പ്രാധാന്യം ഇതില്‍ വ്യക്തമാക്കുന്നു.",
+   "author": "ഫദ്‌ലുല്‍ ഹഖ് ഉമരി",
+   "issue_date": "2019-04-06",
+   "html_url": "/ml/seerah/isra-and-mi-raj-20190406-4.html",
+   "md_url": "/ml/seerah/isra-and-mi-raj-20190406-4.md"
+  },
+  {
    "slug": "karoovalli-an-eternal-youth-20180804-7",
    "lang": "ml",
    "category": "seerah",
@@ -14223,6 +14322,17 @@
    "issue_date": "2019-03-30",
    "html_url": "/ml/story/divine-signs-20190330-3.html",
    "md_url": "/ml/story/divine-signs-20190330-3.md"
+  },
+  {
+   "slug": "drinking-water-20190406-5",
+   "lang": "ml",
+   "category": "story",
+   "title": "കുടിനീര്‍",
+   "summary": "ജലക്ഷാമത്തെക്കുറിച്ചും കുടിവെള്ളത്തിനായി മനുഷ്യര്‍ നടത്തുന്ന നെട്ടോട്ടത്തെക്കുറിച്ചും പ്രതിപാദിക്കുന്ന ഒരു കവിതയാണിത്. പ്രകൃതി വിഭവങ്ങളുടെ സംരക്ഷണത്തിന്റെ ആവശ്യകതയെ ഇത് ഓര്‍മ്മിപ്പിക്കുന്നു.",
+   "author": "ഉസ്മാന്‍ പാലക്കാഴി",
+   "issue_date": "2019-04-06",
+   "html_url": "/ml/story/drinking-water-20190406-5.html",
+   "md_url": "/ml/story/drinking-water-20190406-5.md"
   },
   {
    "slug": "eid-ul-adha-20180825-2",
