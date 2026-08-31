@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-31T08:05:36.123005+00:00",
+ "generated_at": "2026-08-31T08:06:30.997624+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2072,
+ "count": 2073,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -6501,6 +6501,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/id/family/our-parents-20170325-4.html",
    "md_url": "/id/family/our-parents-20170325-4.md"
+  },
+  {
+   "slug": "the-methodology-of-conduct-20170128-8",
+   "lang": "id",
+   "category": "family",
+   "title": "Metodologi Perilaku",
+   "summary": "Artikel lanjutan mengenai sifat-sifat yang harus diinternalisasi oleh orang tua mukmin yang mendambakan keunggulan dalam pengasuhan anak. Tulisan ini membahas metode dan kebiasaan dalam berinteraksi dengan anak-anak.",
+   "author": "അഷ്‌റഫ്‌ എകരൂൽ",
+   "issue_date": "2017-01-28",
+   "html_url": "/id/family/the-methodology-of-conduct-20170128-8.html",
+   "md_url": "/id/family/the-methodology-of-conduct-20170128-8.md"
   },
   {
    "slug": "mosque-construction-some-points-to-note-20170325-5",
