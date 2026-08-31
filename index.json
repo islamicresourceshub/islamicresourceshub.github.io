@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-31T05:43:28.969496+00:00",
+ "generated_at": "2026-08-31T05:46:47.082475+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1962,
+ "count": 1971,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -8758,6 +8758,17 @@
    "md_url": "/ml/dawah/a-believer-should-be-humble-20181013-12.md"
   },
   {
+   "slug": "a-question-that-pierced-the-heart-20181117-1",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "ചങ്കില്‍ തറച്ച ചോദ്യം",
+   "summary": "മലപ്പുറത്തെ ഒരു ഉള്‍നാടന്‍ ഗ്രാമത്തിലെ ജീവിതസാഹചര്യങ്ങളെക്കുറിച്ചും അവിടെ നേരിടേണ്ടി വരുന്ന സാമൂഹിക പ്രതിസന്ധികളെക്കുറിച്ചും വിവരിക്കുന്ന ലേഖനം. സാധാരണക്കാരുടെ ജീവിതാനുഭവങ്ങളിലൂടെയുള്ള ഒരു യാത്രയാണിത്.",
+   "author": "എസ്.എ ഐദീദ് തങ്ങള്‍",
+   "issue_date": "2018-11-17",
+   "html_url": "/ml/dawah/a-question-that-pierced-the-heart-20181117-1.html",
+   "md_url": "/ml/dawah/a-question-that-pierced-the-heart-20181117-1.md"
+  },
+  {
    "slug": "blessings-gratitude-and-ingratitude-20181110-3",
    "lang": "ml",
    "category": "dawah",
@@ -9803,6 +9814,17 @@
    "md_url": "/ml/family/our-parents-20170325-4.md"
   },
   {
+   "slug": "preparing-for-a-trip-20181117-10",
+   "lang": "ml",
+   "category": "family",
+   "title": "വിനോദയാത്രക്ക് ഒരുങ്ങുമ്പോള്‍",
+   "summary": "വിനോദയാത്രകള്‍ പോകുമ്പോള്‍ ശ്രദ്ധിക്കേണ്ട കാര്യങ്ങളെക്കുറിച്ചുള്ള ലേഖനം. ചെറിയ അശ്രദ്ധകള്‍ പോലും വലിയ അപകടങ്ങള്‍ക്ക് കാരണമാകുമെന്നതിനാല്‍ ജാഗ്രത പാലിക്കേണ്ടതിന്റെ ആവശ്യകത ഓര്‍മ്മിപ്പിക്കുന്നു.",
+   "author": "മുസാഫിര്‍",
+   "issue_date": "2018-11-17",
+   "html_url": "/ml/family/preparing-for-a-trip-20181117-10.html",
+   "md_url": "/ml/family/preparing-for-a-trip-20181117-10.md"
+  },
+  {
    "slug": "resolving-disputes-20181020-10",
    "lang": "ml",
    "category": "family",
@@ -10010,6 +10032,17 @@
    "issue_date": "2018-05-19",
    "html_url": "/ml/fiqh/fasting-and-smoking-20180519-4.html",
    "md_url": "/ml/fiqh/fasting-and-smoking-20180519-4.md"
+  },
+  {
+   "slug": "for-women-to-know-20181117-7",
+   "lang": "ml",
+   "category": "fiqh",
+   "title": "സ്ത്രീകള്‍ അറിയാന്‍",
+   "summary": "പീസ് റേഡിയോയിലെ 'അല്‍ ഇജാബ' പരിപാടിയില്‍ ഉയര്‍ന്നുവന്ന പ്രധാനപ്പെട്ട ചോദ്യങ്ങളും അവയ്ക്കുള്ള പണ്ഡിതന്മാരുടെ മറുപടികളും ഉള്‍ക്കൊള്ളുന്ന ഭാഗം.",
+   "author": "പീസ് റേഡിയോ",
+   "issue_date": "2018-11-17",
+   "html_url": "/ml/fiqh/for-women-to-know-20181117-7.html",
+   "md_url": "/ml/fiqh/for-women-to-know-20181117-7.md"
   },
   {
    "slug": "human-rights-courts-20180421-7",
@@ -10342,6 +10375,17 @@
    "md_url": "/ml/history/manusmriti-and-the-caste-system-20170218-7.md"
   },
   {
+   "slug": "mujahid-ideological-conference-revitalizing-the-path-of-dawa-20181117-5",
+   "lang": "ml",
+   "category": "history",
+   "title": "പ്രബോധനവീഥിയില്‍ നവോന്മേഷം പകര്‍ന്ന് മുജാഹിദ് ആദര്‍ശ സമ്മേളനം",
+   "summary": "കേരള മുസ്‌ലിംകളുടെ നവോത്ഥാന ചരിത്രത്തില്‍ മുജാഹിദ് പ്രസ്ഥാനത്തിന്റെ പങ്ക് ഈ ലേഖനം പരിശോധിക്കുന്നു. ഇരുപതാം നൂറ്റാണ്ടിന്റെ തുടക്കത്തിലെ സാമൂഹിക സാഹചര്യങ്ങളും പ്രസ്ഥാനത്തിന്റെ ഇടപെടലുകളും വിവരിക്കുന്നു.",
+   "author": "എ.എം.എസ്",
+   "issue_date": "2018-11-17",
+   "html_url": "/ml/history/mujahid-ideological-conference-revitalizing-the-path-of-dawa-20181117-5.html",
+   "md_url": "/ml/history/mujahid-ideological-conference-revitalizing-the-path-of-dawa-20181117-5.md"
+  },
+  {
    "slug": "muslim-extremists-are-those-who-defame-islam-20170114-7",
    "lang": "ml",
    "category": "history",
@@ -10617,6 +10661,17 @@
    "md_url": "/ml/opinion/challenges-posed-by-pseudo-nationalism-20170204-4.md"
   },
   {
+   "slug": "cultural-influence-of-media-20181117-3",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "മാധ്യമങ്ങളുടെ സാംസ്‌കാരിക സ്വാധീനം",
+   "summary": "ഇരുപത്തിയൊന്നാം നൂറ്റാണ്ടിലെ മാധ്യമങ്ങളുടെ സ്വാധീനത്തെക്കുറിച്ചുള്ള വിശകലനം. മാധ്യമങ്ങള്‍ സമൂഹത്തില്‍ ചെലുത്തുന്ന ഗുണപരമായതും ദോഷകരവുമായ വശങ്ങളെക്കുറിച്ച് ലേഖനം ചര്‍ച്ച ചെയ്യുന്നു.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2018-11-17",
+   "html_url": "/ml/opinion/cultural-influence-of-media-20181117-3.html",
+   "md_url": "/ml/opinion/cultural-influence-of-media-20181117-3.md"
+  },
+  {
    "slug": "democratic-jallikattu-20170218-5",
    "lang": "ml",
    "category": "opinion",
@@ -10802,6 +10857,17 @@
    "issue_date": "2018-10-27",
    "html_url": "/ml/opinion/legal-services-authority-act-20181027-9.html",
    "md_url": "/ml/opinion/legal-services-authority-act-20181027-9.md"
+  },
+  {
+   "slug": "minds-that-produce-hatred-20181117-9",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "വെറുപ്പ് ഉല്‍പാദിപ്പിക്കുന്ന മനസ്സുകള്‍",
+   "summary": "സ്വന്തം കുടുംബത്തിലേക്ക് മാത്രം ചുരുങ്ങിപ്പോകുന്ന മനുഷ്യരുടെ മാനസികാവസ്ഥയെക്കുറിച്ചുള്ള വിമര്‍ശനാത്മകമായ ലേഖനം. സാമൂഹികമായ വെറുപ്പും വിദ്വേഷവും വളരുന്നതിനെക്കുറിച്ച് ചര്‍ച്ച ചെയ്യുന്നു.",
+   "author": "ഇബ്‌നു അലി എടത്തനാട്ടുകര",
+   "issue_date": "2018-11-17",
+   "html_url": "/ml/opinion/minds-that-produce-hatred-20181117-9.html",
+   "md_url": "/ml/opinion/minds-that-produce-hatred-20181117-9.md"
   },
   {
    "slug": "mob-violence-campus-politics-and-freedom-of-expression-20180811-1",
@@ -11255,6 +11321,17 @@
    "md_url": "/ml/quran/at-tariq-the-night-comer-20181027-2.md"
   },
   {
+   "slug": "conclusion-history-of-quran-translation-in-malayalam-20181117-6",
+   "lang": "ml",
+   "category": "quran",
+   "title": "സമാപനം",
+   "summary": "മലയാളത്തിലെ ഖുര്‍ആന്‍ വിവര്‍ത്തനങ്ങളുടെ ചരിത്രത്തെക്കുറിച്ചുള്ള പരമ്പരയുടെ സമാപന ഭാഗം. വിവര്‍ത്തന രംഗത്തെ കണ്ടെത്തലുകളും അവയുടെ ഫലങ്ങളും ഈ ലേഖനത്തില്‍ വിശകലനം ചെയ്യുന്നു.",
+   "author": "ശൈഖ് മുഹമ്മദ് അശ്‌റഫ് അലി അല്‍മലബാരി",
+   "issue_date": "2018-11-17",
+   "html_url": "/ml/quran/conclusion-history-of-quran-translation-in-malayalam-20181117-6.html",
+   "md_url": "/ml/quran/conclusion-history-of-quran-translation-in-malayalam-20181117-6.md"
+  },
+  {
    "slug": "fajr-the-dawn-part-1-20180922-2",
    "lang": "ml",
    "category": "quran",
@@ -11308,6 +11385,17 @@
    "issue_date": "2018-09-15",
    "html_url": "/ml/quran/quranic-translation-a-bird-s-eye-view-20180915-10.html",
    "md_url": "/ml/quran/quranic-translation-a-bird-s-eye-view-20180915-10.md"
+  },
+  {
+   "slug": "quranic-vision-of-life-purification-20181117-2",
+   "lang": "ml",
+   "category": "quran",
+   "title": "ജീവിതവിമലീകരണത്തിന്റെ ക്വുര്‍ആനിക ദര്‍ശനം",
+   "summary": "മനുഷ്യജീവിതത്തെ ശുദ്ധീകരിക്കുന്നതില്‍ വിശുദ്ധ ഖുര്‍ആനിനുള്ള പങ്ക് ഈ ലേഖനം വ്യക്തമാക്കുന്നു. സ്രഷ്ടാവിന്റെ മാര്‍ഗനിര്‍ദേശങ്ങള്‍ മാത്രമാണ് മനുഷ്യന് യഥാര്‍ത്ഥ മോക്ഷം നല്‍കുന്നതെന്ന് സമര്‍ത്ഥിക്കുന്നു.",
+   "author": "ഉസ്മാന്‍ പാലക്കാഴി",
+   "issue_date": "2018-11-17",
+   "html_url": "/ml/quran/quranic-vision-of-life-purification-20181117-2.html",
+   "md_url": "/ml/quran/quranic-vision-of-life-purification-20181117-2.md"
   },
   {
    "slug": "samiri-s-deception-20180825-10",
@@ -11649,6 +11737,17 @@
    "issue_date": "2018-11-10",
    "html_url": "/ml/seerah/the-death-of-prophet-musa-as-20181110-5.html",
    "md_url": "/ml/seerah/the-death-of-prophet-musa-as-20181110-5.md"
+  },
+  {
+   "slug": "the-death-of-prophet-musa-as-20181117-4",
+   "lang": "ml",
+   "category": "seerah",
+   "title": "മൂസാനബി(അ)യുടെ മരണം",
+   "summary": "മൂസാനബി(അ)യുടെ ചരിത്രത്തിലെ സുപ്രധാനമായ അന്ത്യഘട്ടത്തെക്കുറിച്ചുള്ള വിവരണമാണിത്. ഖദ്വിര്‍(അ)യുമായുള്ള സംഭവങ്ങളുമായി ബന്ധപ്പെട്ട ചരിത്രപരമായ വശങ്ങള്‍ ഇവിടെ പ്രതിപാദിക്കുന്നു.",
+   "author": "ഹുസൈന്‍ സലഫി, ഷാര്‍ജ",
+   "issue_date": "2018-11-17",
+   "html_url": "/ml/seerah/the-death-of-prophet-musa-as-20181117-4.html",
+   "md_url": "/ml/seerah/the-death-of-prophet-musa-as-20181117-4.md"
   },
   {
    "slug": "the-departure-of-the-prophet-20180505-7",
