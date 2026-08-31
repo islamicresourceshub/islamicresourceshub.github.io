@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-31T05:58:19.381873+00:00",
+ "generated_at": "2026-08-31T05:58:43.713978+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 1998,
+ "count": 1999,
  "articles": [
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -18062,6 +18062,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/sw/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.html",
    "md_url": "/sw/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.md"
+  },
+  {
+   "slug": "what-to-beware-of-when-taking-sides-20170128-7",
+   "lang": "sw",
+   "category": "quran",
+   "title": "Mambo ya kuzingatia wakati wa kuchukua misimamo",
+   "summary": "Makala haya yanaelezea umuhimu wa kuwa waangalifu wakati wa kuchukua misimamo na kudumisha uhusiano wa kirafiki, kwa kuzingatia mwongozo wa Qur'an 43:67.",
+   "author": "അബൂ അമീൻ",
+   "issue_date": "2017-01-28",
+   "html_url": "/sw/quran/what-to-beware-of-when-taking-sides-20170128-7.html",
+   "md_url": "/sw/quran/what-to-beware-of-when-taking-sides-20170128-7.md"
   },
   {
    "slug": "prophets-and-trials-20170325-7",
