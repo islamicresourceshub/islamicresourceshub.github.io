@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-08-31T11:02:36.379034+00:00",
+ "generated_at": "2026-08-31T11:02:55.986888+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2381,
+ "count": 2382,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -8404,6 +8404,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/kn/opinion/muslim-extremists-defame-islam-20170114-7.html",
    "md_url": "/kn/opinion/muslim-extremists-defame-islam-20170114-7.md"
+  },
+  {
+   "slug": "rohingya-muslims-victims-of-racial-hatred-20170128-10",
+   "lang": "kn",
+   "category": "opinion",
+   "title": "ರೋಹಿಂಗ್ಯಾ ಮುಸ್ಲಿಮರು: ಜನಾಂಗೀಯ ದ್ವೇಷದ ಬಲಿಪಶುಗಳು",
+   "summary": "ಮ್ಯಾನ್ಮಾರ್‌ನ ರೋಹಿಂಗ್ಯಾ ಮುಸ್ಲಿಮರ ವಿರುದ್ಧ ನಡೆಯುತ್ತಿರುವ ಜನಾಂಗೀಯ ದ್ವೇಷ ಮತ್ತು ದೌರ್ಜನ್ಯಗಳನ್ನು ವಿಶ್ಲೇಷಿಸುವ ಲೇಖನ. ಇದು ಅವರ ಐತಿಹಾಸಿಕ ಹಿನ್ನೆಲೆ ಮತ್ತು ಅಂತರರಾಷ್ಟ್ರೀಯ ಒತ್ತಡದ ಅಗತ್ಯತೆಯನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ.",
+   "author": "ഡോ. ശബീൽ പി.എൻ",
+   "issue_date": "2017-01-28",
+   "html_url": "/kn/opinion/rohingya-muslims-victims-of-racial-hatred-20170128-10.html",
+   "md_url": "/kn/opinion/rohingya-muslims-victims-of-racial-hatred-20170128-10.md"
   },
   {
    "slug": "salafi-preaching-a-theoretical-analysis-20170121-10",
