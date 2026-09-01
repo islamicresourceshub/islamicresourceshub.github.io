@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-01T07:41:22.682987+00:00",
+ "generated_at": "2026-09-01T07:41:57.129723+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2559,
+ "count": 2560,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -22407,6 +22407,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/si/story/laws-are-to-be-followed-20170128-5.html",
    "md_url": "/si/story/laws-are-to-be-followed-20170128-5.md"
+  },
+  {
+   "slug": "sugar-like-gold-dust-20170128-11",
+   "lang": "si",
+   "category": "story",
+   "title": "රන් කැට මෙන් සීනි",
+   "summary": "රන් කැට සහ සීනි කැට අතර ඇති සමානකමෙන් ආරම්භ වන මෙම කතාව, දුප්පත් පවුලක ජීවිතයේ අභිරහස් සහ ආහාරයේ වටිනාකම පිළිබඳව අවධාරණය කරයි. අපතේ හරින ආහාර පිළිබඳව ශුද්ධ වූ අල්-කුර්ආනයේ අනතුරු ඇඟවීම් ද මෙහි ඇතුළත් වේ.",
+   "author": "ഇബ്‌നു അലി എടത്തനാട്ടുകര",
+   "issue_date": "2017-01-28",
+   "html_url": "/si/story/sugar-like-gold-dust-20170128-11.html",
+   "md_url": "/si/story/sugar-like-gold-dust-20170128-11.md"
   },
   {
    "slug": "the-currency-that-was-not-accepted-20170114-3",
