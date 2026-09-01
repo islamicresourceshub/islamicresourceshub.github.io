@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-01T10:14:22.153005+00:00",
+ "generated_at": "2026-09-01T10:16:59.514994+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2847,
+ "count": 2848,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -23133,6 +23133,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/ps/aqeedah/become-the-guardian-of-the-sources-20170128-9.html",
    "md_url": "/ps/aqeedah/become-the-guardian-of-the-sources-20170128-9.md"
+  },
+  {
+   "slug": "they-want-to-see-god-20170204-2",
+   "lang": "ps",
+   "category": "aqeedah",
+   "title": "دوی غواړي خدای وګوري!",
+   "summary": "یوه مقاله چې په دې بحث کوي چې ولې ځینې خلک چې یوازې هغه څه مني چې په ساینسي توګه ثابت شوي، ادعا کوي چې دوی غواړي خدای وګوري. دا مقاله د باور او ساینس ترمنځ اړیکه او د خدای شتون په اړه بحث کوي. دا د خدای د لیدلو د ادعا تحلیل کوي.",
+   "author": "അബ്ദുല്ല ബാസിൽ സി.പി",
+   "issue_date": "2017-02-04",
+   "html_url": "/ps/aqeedah/they-want-to-see-god-20170204-2.html",
+   "md_url": "/ps/aqeedah/they-want-to-see-god-20170204-2.md"
   },
   {
    "slug": "do-not-waver-in-trials-20170121-9",
