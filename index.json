@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-01T09:10:00.362048+00:00",
+ "generated_at": "2026-09-01T09:10:27.271213+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2740,
+ "count": 2741,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -23815,6 +23815,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/si/aqeedah/become-the-guardian-of-the-sources-20170128-9.html",
    "md_url": "/si/aqeedah/become-the-guardian-of-the-sources-20170128-9.md"
+  },
+  {
+   "slug": "faith-is-the-foundation-of-islam-20170128-13",
+   "lang": "si",
+   "category": "aqeedah",
+   "title": "විශ්වාසය - ඉස්ලාමයේ පදනම",
+   "summary": "ඉස්ලාමීය විශ්වාසය පිළිබඳ මූලික අධ්‍යයනයක්. ඕනෑම ක්‍රියාවක පදනම වන්නේ ස්ථිර විශ්වාසය බවත්, එය ඉස්ලාමයේ හරය බවත් මෙම ලිපිය පැහැදිලි කරයි.",
+   "author": "മൂസ സ്വലാഹി കാര",
+   "issue_date": "2017-01-28",
+   "html_url": "/si/aqeedah/faith-is-the-foundation-of-islam-20170128-13.html",
+   "md_url": "/si/aqeedah/faith-is-the-foundation-of-islam-20170128-13.md"
   },
   {
    "slug": "do-not-waver-in-trials-20170121-9",
