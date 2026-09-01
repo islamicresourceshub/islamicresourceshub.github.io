@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-01T09:25:45.327002+00:00",
+ "generated_at": "2026-09-01T09:26:12.470024+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2781,
+ "count": 2782,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -9570,6 +9570,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/ko/seerah/prophets-and-trials-20170325-7.html",
    "md_url": "/ko/seerah/prophets-and-trials-20170325-7.md"
+  },
+  {
+   "slug": "abdullah-s-mistake-20170204-1",
+   "lang": "ko",
+   "category": "story",
+   "title": "압둘라의 실수",
+   "summary": "한 숙련된 목수 압둘라가 은퇴를 앞두고 마지막으로 맡은 일을 소홀히 처리했다가 겪게 되는 이야기입니다. 이 이야기는 우리가 하는 모든 일에 정성과 진심을 다해야 한다는 교훈을 전해줍니다.",
+   "author": "അറബി കഥ - പുനരാഖ്യാനം: അബൂ തൻവീൽ",
+   "issue_date": "2017-02-04",
+   "html_url": "/ko/story/abdullah-s-mistake-20170204-1.html",
+   "md_url": "/ko/story/abdullah-s-mistake-20170204-1.md"
   },
   {
    "slug": "good-intention-matters-most-20170325-8",
