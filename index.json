@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-01T07:31:20.447852+00:00",
+ "generated_at": "2026-09-01T07:34:49.228945+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2531,
+ "count": 2543,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -9484,6 +9484,17 @@
    "md_url": "/ml/aqeedah/do-not-create-obstacles-before-the-texts-20180609-11.md"
   },
   {
+   "slug": "endless-superstitions-20190921-1",
+   "lang": "ml",
+   "category": "aqeedah",
+   "title": "അറുതിയില്ലാത്ത അന്ധവിശ്വാസങ്ങള്‍",
+   "summary": "ഇസ്‌ലാമിക വിശ്വാസത്തെ വികൃതമാക്കുന്ന പുത്തനാചാരങ്ങളെയും അന്ധവിശ്വാസങ്ങളെയും കുറിച്ചുള്ള പഠനം. ഇസ്‌ലാമിന്റെ തനിസ്വരൂപം സംരക്ഷിക്കേണ്ടതിന്റെ ആവശ്യകത ലേഖനം വ്യക്തമാക്കുന്നു.",
+   "author": "മൂസ സ്വലാഹി, കാര",
+   "issue_date": "2019-09-21",
+   "html_url": "/ml/aqeedah/endless-superstitions-20190921-1.html",
+   "md_url": "/ml/aqeedah/endless-superstitions-20190921-1.md"
+  },
+  {
    "slug": "express-love-by-following-the-prophet-20181124-7",
    "lang": "ml",
    "category": "aqeedah",
@@ -10419,6 +10430,17 @@
    "md_url": "/ml/dawah/ideology-is-paramount-20180804-2.md"
   },
   {
+   "slug": "individual-organization-and-deviation-20190921-13",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "വ്യക്തി, സംഘടന, മാര്‍ഗഭ്രംശം",
+   "summary": "സംഘടനകൾ വഴിതെറ്റുന്നതിനെക്കുറിച്ചുള്ള സാമൂഹിക വീക്ഷണം. വിവിധ സംഘടനകൾക്കിടയിലുള്ള അഭിപ്രായ വ്യത്യാസങ്ങളെയും അവ കൈകാര്യം ചെയ്യേണ്ട രീതിയെയും കുറിച്ച് ചർച്ച ചെയ്യുന്നു.",
+   "author": "ടി.കെ.അശ്‌റഫ്",
+   "issue_date": "2019-09-21",
+   "html_url": "/ml/dawah/individual-organization-and-deviation-20190921-13.html",
+   "md_url": "/ml/dawah/individual-organization-and-deviation-20190921-13.md"
+  },
+  {
    "slug": "is-suicide-a-problem-or-a-solution-20190720-1",
    "lang": "ml",
    "category": "dawah",
@@ -11066,6 +11088,17 @@
    "issue_date": "2018-12-15",
    "html_url": "/ml/dawah/the-greatness-of-unity-20181215-4.html",
    "md_url": "/ml/dawah/the-greatness-of-unity-20181215-4.md"
+  },
+  {
+   "slug": "the-inner-strength-of-faith-20190921-12",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "വിശ്വാസം പകര്‍ന്നുനല്‍കുന്ന ഉള്‍ക്കരുത്ത്",
+   "summary": "സത്യവിശ്വാസം ഒരു വ്യക്തിക്ക് നൽകുന്ന മാനസിക കരുത്തിനെക്കുറിച്ചുള്ള ലേഖനം. പ്രതിസന്ധികളിൽ പതറാതെ മുന്നേറാൻ വിശ്വാസത്തിന് എങ്ങനെ സാധിക്കുമെന്ന് വിവരിക്കുന്നു.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2019-09-21",
+   "html_url": "/ml/dawah/the-inner-strength-of-faith-20190921-12.html",
+   "md_url": "/ml/dawah/the-inner-strength-of-faith-20190921-12.md"
   },
   {
    "slug": "the-islamic-dimension-of-friendship-20180811-7",
@@ -12542,6 +12575,17 @@
    "md_url": "/ml/fiqh/sacrifice-qurbani-what-we-need-to-know-20180811-3.md"
   },
   {
+   "slug": "scholarly-opinions-the-muslim-s-stance-20190921-8",
+   "lang": "ml",
+   "category": "fiqh",
+   "title": "പണ്ഡിതാഭിപ്രായങ്ങള്‍: മുസ്‌ലിമിന്റെ നിലപാട്",
+   "summary": "ശൈഖുൽ ഇസ്‌ലാം ഇബ്‌നു തീമിയയുടെ 'റഫ്ഉൽ മലാം' എന്ന ഗ്രന്ഥത്തിന്റെ വിവർത്തനം. പണ്ഡിതന്മാരോടുള്ള കടപ്പാടുകളെയും ഇസ്‌ലാമിക നിലപാടുകളെയും കുറിച്ച് ചർച്ച ചെയ്യുന്നു.",
+   "author": "ശൈഖുല്‍ ഇസ്ലാം ഇബ്‌നു തീമിയ(റഹി)",
+   "issue_date": "2019-09-21",
+   "html_url": "/ml/fiqh/scholarly-opinions-the-muslim-s-stance-20190921-8.html",
+   "md_url": "/ml/fiqh/scholarly-opinions-the-muslim-s-stance-20190921-8.md"
+  },
+  {
    "slug": "the-alcoholic-father-20170211-7",
    "lang": "ml",
    "category": "fiqh",
@@ -12806,6 +12850,17 @@
    "md_url": "/ml/health/know-this-for-those-caring-for-the-sick-20260822-1.md"
   },
   {
+   "slug": "lifestyle-and-memory-loss-20190921-6",
+   "lang": "ml",
+   "category": "health",
+   "title": "ജീവിതശൈലിയും ഓര്‍മക്കുറവും",
+   "summary": "ഓർമശക്തിയെ ബാധിക്കുന്ന തെറ്റായ ജീവിതശൈലികളെക്കുറിച്ചുള്ള ആരോഗ്യപരമായ മുന്നറിയിപ്പ്. ദുശ്ശീലങ്ങൾ നിയന്ത്രിച്ച് ആരോഗ്യകരമായ ജീവിതം നയിക്കേണ്ടതിന്റെ പ്രാധാന്യം വ്യക്തമാക്കുന്നു.",
+   "author": "അദ്‌നാന്‍. കെ",
+   "issue_date": "2019-09-21",
+   "html_url": "/ml/health/lifestyle-and-memory-loss-20190921-6.html",
+   "md_url": "/ml/health/lifestyle-and-memory-loss-20190921-6.md"
+  },
+  {
    "slug": "living-to-eat-20190706-3",
    "lang": "ml",
    "category": "health",
@@ -13013,6 +13068,17 @@
    "issue_date": "2018-10-13",
    "html_url": "/ml/history/c-n-moulavi-s-translation-that-compromised-sources-20181013-9.html",
    "md_url": "/ml/history/c-n-moulavi-s-translation-that-compromised-sources-20181013-9.md"
+  },
+  {
+   "slug": "debates-on-stage-and-in-court-20190921-9",
+   "lang": "ml",
+   "category": "history",
+   "title": "വാദപ്രതിവാദം: വേദിയിലും കോടതിയിലും",
+   "summary": "ഏറനാട്ടിലെ ഇസ്‌ലാഹി പ്രസ്ഥാനത്തിന്റെ ചരിത്രവും അക്കാലത്തെ സംവാദങ്ങളും വിവരിക്കുന്നു. പണ്ഡിതന്മാരുടെ ഇടപെടലുകളെക്കുറിച്ചുള്ള ചരിത്രപരമായ ഓർമപ്പെടുത്തൽ.",
+   "author": "പി.വി ഉമര്‍കുട്ടി ഹാജി (റഹി)",
+   "issue_date": "2019-09-21",
+   "html_url": "/ml/history/debates-on-stage-and-in-court-20190921-9.html",
+   "md_url": "/ml/history/debates-on-stage-and-in-court-20190921-9.md"
   },
   {
    "slug": "fearless-before-authorities-20190406-1",
@@ -13928,6 +13994,17 @@
    "md_url": "/ml/opinion/india-which-way-forward-20170325-2.md"
   },
   {
+   "slug": "intolerance-and-terrorism-the-atheist-s-albanian-model-20190921-2",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "അസഹിഷ്ണുത, ഭീകരത: നാസ്തികരുടെ അല്‍ബേനിയന്‍ മോഡല്‍!",
+   "summary": "മതമാണ് അസമാധാനത്തിന്റെ കാരണമെന്ന് വാദിക്കുന്ന നിരീശ്വരവാദികളുടെ നിലപാടുകളെ വിമർശനാത്മകമായി പരിശോധിക്കുന്നു. മതചിഹ്നങ്ങളെ തെറ്റായി വ്യാഖ്യാനിക്കുന്ന പ്രവണതയെ ലേഖനം തുറന്നുകാട്ടുന്നു.",
+   "author": "അബ്ദുല്ല ബാസില്‍ സി.പി",
+   "issue_date": "2019-09-21",
+   "html_url": "/ml/opinion/intolerance-and-terrorism-the-atheist-s-albanian-model-20190921-2.html",
+   "md_url": "/ml/opinion/intolerance-and-terrorism-the-atheist-s-albanian-model-20190921-2.md"
+  },
+  {
    "slug": "is-a-safe-society-becoming-a-dream-20180428-8",
    "lang": "ml",
    "category": "opinion",
@@ -14366,6 +14443,17 @@
    "issue_date": "2019-03-02",
    "html_url": "/ml/opinion/shouldn-t-these-murders-end-20190302-3.html",
    "md_url": "/ml/opinion/shouldn-t-these-murders-end-20190302-3.md"
+  },
+  {
+   "slug": "social-media-chronicles-of-racial-hatred-20190921-11",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "വംശീയ വിദ്വേഷത്തിന്റെ സോഷ്യല്‍മീഡിയാ വൃത്താന്തം",
+   "summary": "സോഷ്യൽ മീഡിയയിൽ പ്രചരിക്കുന്ന വംശീയ വിദ്വേഷത്തെക്കുറിച്ചുള്ള വിശകലനം. ഗുജറാത്ത് കലാപത്തിന്റെ പശ്ചാത്തലത്തിൽ വിദ്വേഷ പ്രചാരണങ്ങളുടെ അപകടങ്ങളെ ലേഖനം ചൂണ്ടിക്കാട്ടുന്നു.",
+   "author": "ഡോ. ആഷിക് ഷൗക്കത്ത്",
+   "issue_date": "2019-09-21",
+   "html_url": "/ml/opinion/social-media-chronicles-of-racial-hatred-20190921-11.html",
+   "md_url": "/ml/opinion/social-media-chronicles-of-racial-hatred-20190921-11.md"
   },
   {
    "slug": "spiritual-distortions-created-by-letters-20181229-11",
@@ -15490,6 +15578,17 @@
    "md_url": "/ml/quran/surah-nuh-20190907-3.md"
   },
   {
+   "slug": "surah-nuh-20190921-4",
+   "lang": "ml",
+   "category": "quran",
+   "title": "നൂഹ്",
+   "summary": "ഖുർആനിലെ 71-ാം അധ്യായമായ നൂഹ് സൂറത്തിന്റെ വിവർത്തനവും വ്യാഖ്യാനവും. പ്രവാചകൻ നൂഹ് (അ) തന്റെ ജനതയോട് നടത്തിയ പ്രബോധനങ്ങളെക്കുറിച്ചുള്ള വിവരണം.",
+   "author": "അബ്ദുറഹ്മാന്‍ നാസിര്‍ അസ്സഅദി",
+   "issue_date": "2019-09-21",
+   "html_url": "/ml/quran/surah-nuh-20190921-4.html",
+   "md_url": "/ml/quran/surah-nuh-20190921-4.md"
+  },
+  {
    "slug": "surah-nuh-part-2-20190914-2",
    "lang": "ml",
    "category": "quran",
@@ -15873,6 +15972,17 @@
    "issue_date": "2018-05-12",
    "html_url": "/ml/seerah/leaving-egypt-20180512-8.html",
    "md_url": "/ml/seerah/leaving-egypt-20180512-8.md"
+  },
+  {
+   "slug": "major-events-in-the-third-year-of-hijra-20190921-5",
+   "lang": "ml",
+   "category": "seerah",
+   "title": "ഹിജ്‌റ മൂന്നാം വര്‍ഷത്തിലെ പ്രധാന സംഭവങ്ങള്‍",
+   "summary": "ഹിജ്‌റ മൂന്നാം വർഷത്തിൽ നടന്ന ഉഹ്ദ് യുദ്ധത്തെക്കുറിച്ചുള്ള ചരിത്രപരമായ വിവരണം. പ്രവാചക ചരിത്രത്തിലെ സുപ്രധാനമായ ഈ സംഭവത്തെ ലേഖനം വിശദീകരിക്കുന്നു.",
+   "author": "ഫദ്‌ലുല്‍ ഹഖ് ഉമരി",
+   "issue_date": "2019-09-21",
+   "html_url": "/ml/seerah/major-events-in-the-third-year-of-hijra-20190921-5.html",
+   "md_url": "/ml/seerah/major-events-in-the-third-year-of-hijra-20190921-5.md"
   },
   {
    "slug": "mockery-and-false-allegations-prophet-muhammad-pbuh-part-11-20190223-6",
@@ -16799,6 +16909,17 @@
    "md_url": "/ml/story/avadhi-the-deadline-20181208-1.md"
   },
   {
+   "slug": "before-the-creator-20190921-7",
+   "lang": "ml",
+   "category": "story",
+   "title": "നാഥന്റെ മുമ്പില്‍",
+   "summary": "പരലോകത്തെക്കുറിച്ചും നാഥന്റെ മുമ്പിൽ മറുപടി പറയേണ്ടതിനെക്കുറിച്ചും ഓർമിപ്പിക്കുന്ന കവിത. ജീവിതത്തിലെ നന്മകളെക്കുറിച്ച് ചിന്തിക്കാൻ വായനക്കാരെ പ്രേരിപ്പിക്കുന്നു.",
+   "author": "അഫിദ മാലിക്",
+   "issue_date": "2019-09-21",
+   "html_url": "/ml/story/before-the-creator-20190921-7.html",
+   "md_url": "/ml/story/before-the-creator-20190921-7.md"
+  },
+  {
    "slug": "broken-hearts-20170218-11",
    "lang": "ml",
    "category": "story",
@@ -17589,6 +17710,17 @@
    "issue_date": "2018-04-21",
    "html_url": "/ml/youth/campuses-should-be-our-fields-of-cultivation-20180421-1.html",
    "md_url": "/ml/youth/campuses-should-be-our-fields-of-cultivation-20180421-1.md"
+  },
+  {
+   "slug": "can-we-have-classes-during-holidays-20190921-3",
+   "lang": "ml",
+   "category": "youth",
+   "title": "അവധിക്കാലത്തും ക്ലാസ്സ് വെക്കാമോ സാറേ?",
+   "summary": "അവധിക്കാലത്ത് സ്‌കൂളുകളിൽ ക്ലാസുകൾ നടത്തുന്നതിനെക്കുറിച്ചുള്ള വിദ്യാർത്ഥികളുടെയും രക്ഷിതാക്കളുടെയും ആശങ്കകൾ പങ്കുവെക്കുന്നു. പഠനത്തോടൊപ്പം വിശ്രമത്തിന്റെ പ്രാധാന്യവും ലേഖനം ചർച്ച ചെയ്യുന്നു.",
+   "author": "സലാം സുറുമ എടത്തനാട്ടുകര",
+   "issue_date": "2019-09-21",
+   "html_url": "/ml/youth/can-we-have-classes-during-holidays-20190921-3.html",
+   "md_url": "/ml/youth/can-we-have-classes-during-holidays-20190921-3.md"
   },
   {
    "slug": "do-not-be-greedy-20180602-3",
