@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-01T09:34:41.177688+00:00",
+ "generated_at": "2026-09-01T09:35:02.187815+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2808,
+ "count": 2809,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -29469,6 +29469,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/ur/seerah/prophets-and-trials-20170325-7.html",
    "md_url": "/ur/seerah/prophets-and-trials-20170325-7.md"
+  },
+  {
+   "slug": "abdullah-s-mistake-20170204-1",
+   "lang": "ur",
+   "category": "story",
+   "title": "عبداللہ کی غلطی",
+   "summary": "یہ ایک ماہر بڑھئی عبداللہ کی کہانی ہے جو اپنی ریٹائرمنٹ سے قبل آخری کام میں لاپرواہی برتتا ہے۔ اس کہانی کے ذریعے یہ سبق ملتا ہے کہ ہمیں اپنے ہر کام میں اخلاص اور دیانتداری برقرار رکھنی چاہیے۔",
+   "author": "അറബി കഥ - പുനരാഖ്യാനം: അബൂ തൻവീൽ",
+   "issue_date": "2017-02-04",
+   "html_url": "/ur/story/abdullah-s-mistake-20170204-1.html",
+   "md_url": "/ur/story/abdullah-s-mistake-20170204-1.md"
   },
   {
    "slug": "good-intention-matters-most-20170325-8",
