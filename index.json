@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-01T09:35:02.187815+00:00",
+ "generated_at": "2026-09-01T09:35:26.862713+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2809,
+ "count": 2810,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -29997,6 +29997,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/uz/seerah/prophets-and-trials-20170325-7.html",
    "md_url": "/uz/seerah/prophets-and-trials-20170325-7.md"
+  },
+  {
+   "slug": "abdullah-s-mistake-20170204-1",
+   "lang": "uz",
+   "category": "story",
+   "title": "Abdullohning xatosi",
+   "summary": "Ushbu hikoya o‘z ishiga mohir duradgor Abdullohning hayotidagi so‘nggi vazifasiga beparvolik bilan yondashishi va buning oqibati haqida hikoya qiladi. Bu voqea bizga har bir ishni ixlos va mas’uliyat bilan bajarish kerakligini eslatadi.",
+   "author": "അറബി കഥ - പുനരാഖ്യാനം: അബൂ തൻവീൽ",
+   "issue_date": "2017-02-04",
+   "html_url": "/uz/story/abdullah-s-mistake-20170204-1.html",
+   "md_url": "/uz/story/abdullah-s-mistake-20170204-1.md"
   },
   {
    "slug": "good-intention-matters-most-20170325-8",
