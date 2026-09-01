@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-01T09:48:07.433967+00:00",
+ "generated_at": "2026-09-01T09:49:01.964382+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2828,
+ "count": 2829,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -8811,6 +8811,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/kn/aqeedah/faith-is-the-foundation-of-islam-20170128-13.html",
    "md_url": "/kn/aqeedah/faith-is-the-foundation-of-islam-20170128-13.md"
+  },
+  {
+   "slug": "they-want-to-see-god-20170204-2",
+   "lang": "kn",
+   "category": "aqeedah",
+   "title": "ಅವರಿಗೆ ದೇವರನ್ನು ನೋಡಬೇಕಂತೆ!",
+   "summary": "ವೈಜ್ಞಾನಿಕವಾಗಿ ಸಾಬೀತುಪಡಿಸದ ಯಾವುದನ್ನೂ ಒಪ್ಪದ ಕೆಲವರು ದೇವರನ್ನು ನೋಡಬೇಕೆಂದು ವಾದಿಸುವ ಬಗ್ಗೆ ಒಂದು ಲೇಖನ. ಇದು ನಂಬಿಕೆ ಮತ್ತು ವಿಜ್ಞಾನದ ನಡುವಿನ ಸಂಬಂಧ ಮತ್ತು ದೇವರ ಅಸ್ತಿತ್ವವನ್ನು ಚರ್ಚಿಸುತ್ತದೆ. ದೇವರನ್ನು ನೋಡಬೇಕೆಂಬ ವಾದವನ್ನು ಲೇಖನ ವಿಶ್ಲೇಷಿಸುತ್ತದೆ.",
+   "author": "അബ്ദുല്ല ബാസിൽ സി.പി",
+   "issue_date": "2017-02-04",
+   "html_url": "/kn/aqeedah/they-want-to-see-god-20170204-2.html",
+   "md_url": "/kn/aqeedah/they-want-to-see-god-20170204-2.md"
   },
   {
    "slug": "do-not-waver-in-trials-20170121-9",
