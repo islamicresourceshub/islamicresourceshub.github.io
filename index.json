@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-01T07:30:43.686773+00:00",
+ "generated_at": "2026-09-01T07:31:20.447852+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2530,
+ "count": 2531,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -18128,6 +18128,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/mr/story/laws-are-to-be-followed-20170128-5.html",
    "md_url": "/mr/story/laws-are-to-be-followed-20170128-5.md"
+  },
+  {
+   "slug": "sugar-like-gold-dust-20170128-11",
+   "lang": "mr",
+   "category": "story",
+   "title": "साखरेचे दाणे जणू सोन्याचे कण",
+   "summary": "सोन्याचे कण आणि साखरेचे दाणे यांच्यातील साम्य दर्शवणारी ही एक हृदयस्पर्शी कथा आहे. छोट्या व्यापाऱ्यांच्या आणि गरिबांच्या आयुष्यातील संघर्षाचे आणि अन्नाच्या महत्त्वाची जाणीव करून देणारे हे लेखन आहे.",
+   "author": "ഇബ്‌നു അലി എടത്തനാട്ടുകര",
+   "issue_date": "2017-01-28",
+   "html_url": "/mr/story/sugar-like-gold-dust-20170128-11.html",
+   "md_url": "/mr/story/sugar-like-gold-dust-20170128-11.md"
   },
   {
    "slug": "the-currency-that-was-not-accepted-20170114-3",
