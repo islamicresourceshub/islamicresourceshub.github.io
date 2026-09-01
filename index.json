@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-01T07:52:13.003592+00:00",
+ "generated_at": "2026-09-01T07:52:33.679755+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2603,
+ "count": 2604,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -28314,6 +28314,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/vi/story/laws-are-to-be-followed-20170128-5.html",
    "md_url": "/vi/story/laws-are-to-be-followed-20170128-5.md"
+  },
+  {
+   "slug": "sugar-like-gold-dust-20170128-11",
+   "lang": "vi",
+   "category": "story",
+   "title": "Đường như những hạt vàng",
+   "summary": "Một câu chuyện cảm động về sự trân trọng từng hạt đường nhỏ bé trong cuộc sống của những người nghèo khó. Bài viết nhắc nhở chúng ta về giá trị của thực phẩm và sự lãng phí mà nhiều người thường mắc phải.",
+   "author": "ഇബ്‌നു അലി എടത്തനാട്ടുകര",
+   "issue_date": "2017-01-28",
+   "html_url": "/vi/story/sugar-like-gold-dust-20170128-11.html",
+   "md_url": "/vi/story/sugar-like-gold-dust-20170128-11.md"
   },
   {
    "slug": "the-currency-that-was-not-accepted-20170114-3",
