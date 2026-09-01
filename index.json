@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-01T09:21:56.721031+00:00",
+ "generated_at": "2026-09-01T09:22:16.272005+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2772,
+ "count": 2773,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -4829,6 +4829,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/fa/seerah/prophets-and-trials-20170325-7.html",
    "md_url": "/fa/seerah/prophets-and-trials-20170325-7.md"
+  },
+  {
+   "slug": "abdullah-s-mistake-20170204-1",
+   "lang": "fa",
+   "category": "story",
+   "title": "اشتباه عبدالله",
+   "summary": "این داستان درباره نجار ماهری به نام عبدالله است که در پایان دوران کاری خود، به دلیل بی‌دقتی در آخرین پروژه‌اش، فرصتی ارزشمند را از دست می‌دهد. این حکایت درسی مهم درباره اهمیت اخلاص و دقت در انجام هر کاری تا آخرین لحظه به ما می‌آموزد.",
+   "author": "അറബി കഥ - പുനരാഖ്യാനം: അബൂ തൻവീൽ",
+   "issue_date": "2017-02-04",
+   "html_url": "/fa/story/abdullah-s-mistake-20170204-1.html",
+   "md_url": "/fa/story/abdullah-s-mistake-20170204-1.md"
   },
   {
    "slug": "good-intention-matters-most-20170325-8",
