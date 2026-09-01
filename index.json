@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-01T09:14:41.250689+00:00",
+ "generated_at": "2026-09-01T09:15:11.434523+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2748,
+ "count": 2749,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -27929,6 +27929,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/tr/aqeedah/become-the-guardian-of-the-sources-20170128-9.html",
    "md_url": "/tr/aqeedah/become-the-guardian-of-the-sources-20170128-9.md"
+  },
+  {
+   "slug": "faith-is-the-foundation-of-islam-20170128-13",
+   "lang": "tr",
+   "category": "aqeedah",
+   "title": "İslam'ın Temeli Olarak İman",
+   "summary": "İslam'da imanın temel bir öğreti olduğu ve her türlü amelin sağlam bir inanç üzerine bina edilmesi gerektiği gerçeği açıklanmaktadır.",
+   "author": "മൂസ സ്വലാഹി കാര",
+   "issue_date": "2017-01-28",
+   "html_url": "/tr/aqeedah/faith-is-the-foundation-of-islam-20170128-13.html",
+   "md_url": "/tr/aqeedah/faith-is-the-foundation-of-islam-20170128-13.md"
   },
   {
    "slug": "do-not-waver-in-trials-20170121-9",
