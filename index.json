@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-01T09:19:51.773763+00:00",
+ "generated_at": "2026-09-01T09:20:26.078295+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2757,
+ "count": 2758,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -2739,6 +2739,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/bs/seerah/prophets-and-trials-20170325-7.html",
    "md_url": "/bs/seerah/prophets-and-trials-20170325-7.md"
+  },
+  {
+   "slug": "abdullah-s-mistake-20170204-1",
+   "lang": "bs",
+   "category": "story",
+   "title": "Abdullahova greška",
+   "summary": "U jednom selu živio je vješt stolar po imenu Abdullah. Ova priča govori o grešci koju je napravio pred kraj svoje karijere i pouci koju iz nje možemo izvući za život.",
+   "author": "അറബി കഥ - പുനരാഖ്യാനം: അബൂ തൻവീൽ",
+   "issue_date": "2017-02-04",
+   "html_url": "/bs/story/abdullah-s-mistake-20170204-1.html",
+   "md_url": "/bs/story/abdullah-s-mistake-20170204-1.md"
   },
   {
    "slug": "good-intention-matters-most-20170325-8",
