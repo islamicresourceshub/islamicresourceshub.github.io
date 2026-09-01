@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-01T09:00:39.895681+00:00",
+ "generated_at": "2026-09-01T09:01:06.201737+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2715,
+ "count": 2716,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -21516,6 +21516,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/pa/aqeedah/become-the-guardian-of-the-sources-20170128-9.html",
    "md_url": "/pa/aqeedah/become-the-guardian-of-the-sources-20170128-9.md"
+  },
+  {
+   "slug": "faith-is-the-foundation-of-islam-20170128-13",
+   "lang": "pa",
+   "category": "aqeedah",
+   "title": "ਵਿਸ਼ਵਾਸ: ਇਸਲਾਮ ਦੀ ਬੁਨਿਆਦ",
+   "summary": "ਇਸਲਾਮ ਵਿੱਚ ਵਿਸ਼ਵਾਸ ਦੇ ਮੂਲ ਸਿਧਾਂਤਾਂ ਦੀ ਵਿਆਖਿਆ। ਇਹ ਲੇਖ ਦੱਸਦਾ ਹੈ ਕਿ ਕਿਸੇ ਵੀ ਨੇਕ ਅਮਲ ਲਈ ਪੱਕਾ ਵਿਸ਼ਵਾਸ ਹੀ ਅਸਲ ਆਧਾਰ ਹੈ।",
+   "author": "മൂസ സ്വലാഹി കാര",
+   "issue_date": "2017-01-28",
+   "html_url": "/pa/aqeedah/faith-is-the-foundation-of-islam-20170128-13.html",
+   "md_url": "/pa/aqeedah/faith-is-the-foundation-of-islam-20170128-13.md"
   },
   {
    "slug": "do-not-waver-in-trials-20170121-9",
