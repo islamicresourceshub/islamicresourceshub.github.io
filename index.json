@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-01T07:26:08.287937+00:00",
+ "generated_at": "2026-09-01T07:26:42.270329+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2516,
+ "count": 2517,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -7711,6 +7711,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/it/story/laws-are-to-be-followed-20170128-5.html",
    "md_url": "/it/story/laws-are-to-be-followed-20170128-5.md"
+  },
+  {
+   "slug": "sugar-like-gold-dust-20170128-11",
+   "lang": "it",
+   "category": "story",
+   "title": "Granelli di zucchero come polvere d'oro",
+   "summary": "Una narrazione che inizia con il confronto tra granelli d'oro e granelli di zucchero, rivelando le difficoltà e la dignità nascosta nella vita delle persone comuni. Il racconto invita a riflettere sullo spreco alimentare e sulla responsabilità sociale verso chi è meno fortunato.",
+   "author": "ഇബ്‌നു അലി എടത്തനാട്ടുകര",
+   "issue_date": "2017-01-28",
+   "html_url": "/it/story/sugar-like-gold-dust-20170128-11.html",
+   "md_url": "/it/story/sugar-like-gold-dust-20170128-11.md"
   },
   {
    "slug": "the-currency-that-was-not-accepted-20170114-3",
