@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-01T07:56:34.332056+00:00",
+ "generated_at": "2026-09-01T07:57:52.655612+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2617,
+ "count": 2618,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -748,6 +748,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/ar/aqeedah/become-the-guardian-of-the-sources-20170128-9.html",
    "md_url": "/ar/aqeedah/become-the-guardian-of-the-sources-20170128-9.md"
+  },
+  {
+   "slug": "faith-is-the-foundation-of-islam-20170128-13",
+   "lang": "ar",
+   "category": "aqeedah",
+   "title": "الإيمان هو أساس الإسلام",
+   "summary": "دراسة أساسية حول الإيمان في الإسلام، توضح المبدأ القائل بأن الإيمان الراسخ هو القاعدة التي تُبنى عليها كل الأعمال الصالحة.",
+   "author": "മൂസ സ്വലാഹി കാര",
+   "issue_date": "2017-01-28",
+   "html_url": "/ar/aqeedah/faith-is-the-foundation-of-islam-20170128-13.html",
+   "md_url": "/ar/aqeedah/faith-is-the-foundation-of-islam-20170128-13.md"
   },
   {
    "slug": "do-not-waver-in-trials-20170121-9",
