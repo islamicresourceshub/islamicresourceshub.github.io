@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-01T09:25:15.203464+00:00",
+ "generated_at": "2026-09-01T09:25:45.327002+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2780,
+ "count": 2781,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -9042,6 +9042,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/kn/seerah/prophets-and-trials-20170325-7.html",
    "md_url": "/kn/seerah/prophets-and-trials-20170325-7.md"
+  },
+  {
+   "slug": "abdullah-s-mistake-20170204-1",
+   "lang": "kn",
+   "category": "story",
+   "title": "ಅಬ್ದುಲ್ಲನಿಗೆ ಸಂಭವಿಸಿದ ಎಡವಟ್ಟು",
+   "summary": "ಹಿಂದೆ ಒಂದು ಹಳ್ಳಿಯಲ್ಲಿ ಅಬ್ದುಲ್ಲ ಎಂಬ ನಿಪುಣ ಮರಗೆಲಸಗಾರನಿದ್ದನು. ತನ್ನ ಮಾಲೀಕನ ಅಡಿಯಲ್ಲಿ ಕೆಲಸ ಮಾಡುತ್ತಿದ್ದಾಗ ಅವನು ಮಾಡಿದ ಒಂದು ಸಣ್ಣ ತಪ್ಪು ಅವನ ಜೀವನದ ಪಾಠವಾಗಿ ಹೇಗೆ ಬದಲಾಯಿತು ಎಂಬುದೇ ಈ ಕಥೆ. ಈ ಕಥೆಯು ನಮ್ಮ ಕೆಲಸಗಳಲ್ಲಿ ಪ್ರಾಮಾಣಿಕತೆಯ ಮಹತ್ವವನ್ನು ಸಾರುತ್ತದೆ.",
+   "author": "അറബി കഥ - പുനരാഖ്യാനം: അബൂ തൻവീൽ",
+   "issue_date": "2017-02-04",
+   "html_url": "/kn/story/abdullah-s-mistake-20170204-1.html",
+   "md_url": "/kn/story/abdullah-s-mistake-20170204-1.md"
   },
   {
    "slug": "good-intention-matters-most-20170325-8",
