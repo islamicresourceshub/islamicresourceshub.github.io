@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-01T11:41:41.930326+00:00",
+ "generated_at": "2026-09-01T11:44:04.238765+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2880,
+ "count": 2881,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -4191,6 +4191,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/es/family/don-t-worry-allah-is-with-you-20170114-10.html",
    "md_url": "/es/family/don-t-worry-allah-is-with-you-20170114-10.md"
+  },
+  {
+   "slug": "harassment-from-mother-in-law-20170204-3",
+   "lang": "es",
+   "category": "family",
+   "title": "Maltrato por parte de la suegra",
+   "summary": "Este artículo presenta la pregunta de una mujer que sufre maltrato psicológico por parte de su suegra y la respuesta correspondiente. Aborda las dificultades físicas y emocionales que enfrenta ante la falta de soluciones por parte de su esposo, y explica cómo abordar esta situación desde la perspectiva islámica.",
+   "author": "ഹാരിസ്ബിൻ സലീം",
+   "issue_date": "2017-02-04",
+   "html_url": "/es/family/harassment-from-mother-in-law-20170204-3.html",
+   "md_url": "/es/family/harassment-from-mother-in-law-20170204-3.md"
   },
   {
    "slug": "how-to-be-a-good-parent-part-2-20170121-4",
