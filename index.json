@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-01T09:26:44.371640+00:00",
+ "generated_at": "2026-09-01T09:27:08.298879+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2783,
+ "count": 2784,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -20955,6 +20955,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/ms/seerah/prophets-and-trials-20170325-7.html",
    "md_url": "/ms/seerah/prophets-and-trials-20170325-7.md"
+  },
+  {
+   "slug": "abdullah-s-mistake-20170204-1",
+   "lang": "ms",
+   "category": "story",
+   "title": "Kesilapan Abdullah",
+   "summary": "Kisah ini menceritakan tentang seorang tukang kayu mahir bernama Abdullah yang melakukan kesilapan dalam tugasan terakhirnya sebelum bersara. Melalui kisah ini, kita dapat mengambil pengajaran berharga tentang kepentingan melakukan setiap pekerjaan dengan penuh keikhlasan dan ketelitian.",
+   "author": "അറബി കഥ - പുനരാഖ്യാനം: അബൂ തൻവീൽ",
+   "issue_date": "2017-02-04",
+   "html_url": "/ms/story/abdullah-s-mistake-20170204-1.html",
+   "md_url": "/ms/story/abdullah-s-mistake-20170204-1.md"
   },
   {
    "slug": "good-intention-matters-most-20170325-8",
