@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-01T08:11:11.624714+00:00",
+ "generated_at": "2026-09-01T08:12:17.745303+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2656,
+ "count": 2657,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -4840,6 +4840,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/fr/aqeedah/become-the-guardian-of-the-sources-20170128-9.html",
    "md_url": "/fr/aqeedah/become-the-guardian-of-the-sources-20170128-9.md"
+  },
+  {
+   "slug": "faith-is-the-foundation-of-islam-20170128-13",
+   "lang": "fr",
+   "category": "aqeedah",
+   "title": "La foi est le fondement de l'Islam",
+   "summary": "Une étude fondamentale sur la foi en Islam. Cet article explique le principe selon lequel une foi inébranlable constitue la base de toute action religieuse.",
+   "author": "മൂസ സ്വലാഹി കാര",
+   "issue_date": "2017-01-28",
+   "html_url": "/fr/aqeedah/faith-is-the-foundation-of-islam-20170128-13.html",
+   "md_url": "/fr/aqeedah/faith-is-the-foundation-of-islam-20170128-13.md"
   },
   {
    "slug": "do-not-waver-in-trials-20170121-9",
