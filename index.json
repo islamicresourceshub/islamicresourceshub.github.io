@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-01T09:16:14.218287+00:00",
+ "generated_at": "2026-09-01T09:16:50.088802+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2751,
+ "count": 2752,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -29480,6 +29480,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/vi/aqeedah/become-the-guardian-of-the-sources-20170128-9.html",
    "md_url": "/vi/aqeedah/become-the-guardian-of-the-sources-20170128-9.md"
+  },
+  {
+   "slug": "faith-is-the-foundation-of-islam-20170128-13",
+   "lang": "vi",
+   "category": "aqeedah",
+   "title": "Đức tin là nền tảng của Hồi giáo",
+   "summary": "Một bài nghiên cứu cơ bản về đức tin trong Hồi giáo. Bài viết giải thích nguyên lý rằng đức tin vững chắc chính là nền tảng cho mọi hành động.",
+   "author": "മൂസ സ്വലാഹി കാര",
+   "issue_date": "2017-01-28",
+   "html_url": "/vi/aqeedah/faith-is-the-foundation-of-islam-20170128-13.html",
+   "md_url": "/vi/aqeedah/faith-is-the-foundation-of-islam-20170128-13.md"
   },
   {
    "slug": "do-not-waver-in-trials-20170121-9",
