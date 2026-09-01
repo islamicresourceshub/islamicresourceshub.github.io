@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-01T09:47:36.418160+00:00",
+ "generated_at": "2026-09-01T09:48:07.433967+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2827,
+ "count": 2828,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -8272,6 +8272,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/ja/aqeedah/faith-is-the-foundation-of-islam-20170128-13.html",
    "md_url": "/ja/aqeedah/faith-is-the-foundation-of-islam-20170128-13.md"
+  },
+  {
+   "slug": "they-want-to-see-god-20170204-2",
+   "lang": "ja",
+   "category": "aqeedah",
+   "title": "彼らは神を見たいと言う！",
+   "summary": "科学的に証明できないものは一切認めないという人々の、神の存在に対する主張を考察した記事です。信仰と科学の関係性、そして神の存在を証明することの限界について論じています。",
+   "author": "അബ്ദുല്ല ബാസിൽ സി.പി",
+   "issue_date": "2017-02-04",
+   "html_url": "/ja/aqeedah/they-want-to-see-god-20170204-2.html",
+   "md_url": "/ja/aqeedah/they-want-to-see-god-20170204-2.md"
   },
   {
    "slug": "do-not-waver-in-trials-20170121-9",
