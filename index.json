@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-01T08:22:58.269339+00:00",
+ "generated_at": "2026-09-01T08:23:38.433920+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2685,
+ "count": 2686,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -8965,6 +8965,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/ko/aqeedah/become-the-guardian-of-the-sources-20170128-9.html",
    "md_url": "/ko/aqeedah/become-the-guardian-of-the-sources-20170128-9.md"
+  },
+  {
+   "slug": "faith-is-the-foundation-of-islam-20170128-13",
+   "lang": "ko",
+   "category": "aqeedah",
+   "title": "믿음, 이슬람의 근간",
+   "summary": "이슬람의 핵심인 믿음에 대한 기초적인 가르침을 다룹니다. 모든 행위의 바탕에는 흔들림 없는 믿음이 있어야 한다는 원칙을 설명합니다.",
+   "author": "മൂസ സ്വലാഹി കാര",
+   "issue_date": "2017-01-28",
+   "html_url": "/ko/aqeedah/faith-is-the-foundation-of-islam-20170128-13.html",
+   "md_url": "/ko/aqeedah/faith-is-the-foundation-of-islam-20170128-13.md"
   },
   {
    "slug": "do-not-waver-in-trials-20170121-9",
