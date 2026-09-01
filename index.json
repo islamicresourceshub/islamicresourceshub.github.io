@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-01T11:26:12.480811+00:00",
+ "generated_at": "2026-09-01T11:27:47.765804+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2864,
+ "count": 2865,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -913,6 +913,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/ar/family/don-t-worry-allah-is-with-you-20170114-10.html",
    "md_url": "/ar/family/don-t-worry-allah-is-with-you-20170114-10.md"
+  },
+  {
+   "slug": "harassment-from-mother-in-law-20170204-3",
+   "lang": "ar",
+   "category": "family",
+   "title": "الأذى من أم الزوج",
+   "summary": "يتناول هذا المقال سؤالاً من امرأة تعاني من الأذى النفسي من قبل والدة زوجها، مع تقديم الإجابة الشرعية والتربوية عليه. يناقش المقال الصعوبات النفسية والجسدية التي تواجهها الزوجة في ظل غياب الحلول من طرف الزوج، ويوضح كيفية التعامل مع هذه المشكلة من منظور إسلامي.",
+   "author": "ഹാരിസ്ബിൻ സലീം",
+   "issue_date": "2017-02-04",
+   "html_url": "/ar/family/harassment-from-mother-in-law-20170204-3.html",
+   "md_url": "/ar/family/harassment-from-mother-in-law-20170204-3.md"
   },
   {
    "slug": "how-to-be-a-good-parent-part-2-20170121-4",
