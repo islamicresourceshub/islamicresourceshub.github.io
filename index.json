@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-01T07:57:52.655612+00:00",
+ "generated_at": "2026-09-01T08:00:55.520368+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2618,
+ "count": 2629,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -9968,6 +9968,17 @@
    "md_url": "/ml/aqeedah/those-who-make-salawat-a-source-of-income-20191012-11.md"
   },
   {
+   "slug": "those-who-promote-shirk-in-the-name-of-ahlus-sunnah-20191102-2",
+   "lang": "ml",
+   "category": "aqeedah",
+   "title": "അഹ്‌ലുസ്സുന്നയുടെ പേരില്‍ ശിര്‍ക്കിനെ കുടിയിരുത്തുന്നവര്‍",
+   "summary": "അഹ്‌ലുസ്സുന്നയുടെ പേര് പറഞ്ഞ് അന്ധവിശ്വാസങ്ങളും ശിര്‍ക്കും പ്രചരിപ്പിക്കുന്ന പ്രവണതകളെ വിമര്‍ശിക്കുന്നു. യഥാര്‍ത്ഥ സുന്നത്തിനെയും തൗഹീദിനെയും സംരക്ഷിക്കേണ്ടതിന്റെ ആവശ്യകത വ്യക്തമാക്കുന്നു.",
+   "author": "മൂസ സ്വലാഹി, കാര",
+   "issue_date": "2019-11-02",
+   "html_url": "/ml/aqeedah/those-who-promote-shirk-in-the-name-of-ahlus-sunnah-20191102-2.html",
+   "md_url": "/ml/aqeedah/those-who-promote-shirk-in-the-name-of-ahlus-sunnah-20191102-2.md"
+  },
+  {
    "slug": "to-whom-did-they-pray-20190112-2",
    "lang": "ml",
    "category": "aqeedah",
@@ -10771,6 +10782,17 @@
    "md_url": "/ml/dawah/making-life-meaningful-20180901-3.md"
   },
   {
+   "slug": "moving-away-from-unity-20191102-5",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "കൂട്ടായ്മയില്‍നിന്ന് അകലുമ്പോള്‍...",
+   "summary": "സാമൂഹിക ജീവിതത്തിലും പ്രബോധന രംഗത്തും കൂട്ടായ്മയുടെ പ്രാധാന്യത്തെക്കുറിച്ച് ഓര്‍മ്മിപ്പിക്കുന്നു. ഐക്യത്തോടെ മുന്നോട്ട് പോകുമ്പോഴുണ്ടാകുന്ന ഗുണങ്ങളെക്കുറിച്ച് ലേഖനം പ്രതിപാദിക്കുന്നു.",
+   "author": "ടി.കെ.അശ്‌റഫ്",
+   "issue_date": "2019-11-02",
+   "html_url": "/ml/dawah/moving-away-from-unity-20191102-5.html",
+   "md_url": "/ml/dawah/moving-away-from-unity-20191102-5.md"
+  },
+  {
    "slug": "muslims-in-a-pluralistic-society-20170128-1",
    "lang": "ml",
    "category": "dawah",
@@ -11308,6 +11330,17 @@
    "issue_date": "2018-12-15",
    "html_url": "/ml/dawah/the-greatness-of-unity-20181215-4.html",
    "md_url": "/ml/dawah/the-greatness-of-unity-20181215-4.md"
+  },
+  {
+   "slug": "the-human-virtue-of-modesty-haya-20191102-6",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "ലജ്ജ എന്ന മാനുഷിക ഗുണം",
+   "summary": "ഇസ്‌ലാമിലെ ലജ്ജ എന്ന ഗുണത്തിന്റെ പ്രാധാന്യത്തെക്കുറിച്ച് നബിവചനങ്ങളുടെ അടിസ്ഥാനത്തില്‍ വിശദീകരിക്കുന്നു. അല്ലാഹുവിനോടുള്ള ലജ്ജ എങ്ങനെ ജീവിതത്തില്‍ പകര്‍ത്താമെന്ന് വ്യക്തമാക്കുന്നു.",
+   "author": "അബൂതന്‍വീല്‍",
+   "issue_date": "2019-11-02",
+   "html_url": "/ml/dawah/the-human-virtue-of-modesty-haya-20191102-6.html",
+   "md_url": "/ml/dawah/the-human-virtue-of-modesty-haya-20191102-6.md"
   },
   {
    "slug": "the-inner-strength-of-faith-20190921-12",
@@ -12553,6 +12586,17 @@
    "md_url": "/ml/fiqh/alcohol-islam-s-ever-relevant-approach-20170225-6.md"
   },
   {
+   "slug": "beware-of-prohibitions-20191102-8",
+   "lang": "ml",
+   "category": "fiqh",
+   "title": "നിഷിദ്ധങ്ങളെ സൂക്ഷിക്കുക",
+   "summary": "ശൈഖുല്‍ ഇസ്ലാം ഇബ്‌നു തീമിയയുടെ 'റഫ്ഉല്‍ മലാം' എന്ന ഗ്രന്ഥത്തിന്റെ വിവര്‍ത്തനം. പണ്ഡിതന്മാരോടുള്ള കടപ്പാടുകളെക്കുറിച്ചും നിഷിദ്ധങ്ങളെ സൂക്ഷിക്കേണ്ടതിനെക്കുറിച്ചും ചര്‍ച്ച ചെയ്യുന്നു.",
+   "author": "ശൈഖുല്‍ ഇസ്ലാം ഇബ്‌നു തീമിയ(റഹി)",
+   "issue_date": "2019-11-02",
+   "html_url": "/ml/fiqh/beware-of-prohibitions-20191102-8.html",
+   "md_url": "/ml/fiqh/beware-of-prohibitions-20191102-8.md"
+  },
+  {
    "slug": "bid-ahs-in-prayer-20190406-9",
    "lang": "ml",
    "category": "fiqh",
@@ -13521,6 +13565,17 @@
    "md_url": "/ml/history/lessons-from-the-history-of-the-arrogant-20190216-3.md"
   },
   {
+   "slug": "mahallu-activities-20191102-7",
+   "lang": "ml",
+   "category": "history",
+   "title": "മഹല്ല് പ്രവര്‍ത്തനം",
+   "summary": "ഏറനാട് മേഖലയിലെ ഇസ്‌ലാഹി പ്രസ്ഥാനത്തിന്റെ ചരിത്രവും മഹല്ല് പ്രവര്‍ത്തനങ്ങളുടെ പരിണാമവും വിവരിക്കുന്നു. പഴയകാല അനുഭവങ്ങളിലൂടെയുള്ള ഒരു യാത്രയാണിത്.",
+   "author": "പി.വി ഉമര്‍കുട്ടി ഹാജി (റഹി)",
+   "issue_date": "2019-11-02",
+   "html_url": "/ml/history/mahallu-activities-20191102-7.html",
+   "md_url": "/ml/history/mahallu-activities-20191102-7.md"
+  },
+  {
    "slug": "manusmriti-and-the-caste-system-20170218-7",
    "lang": "ml",
    "category": "history",
@@ -14333,6 +14388,17 @@
    "issue_date": "2019-10-12",
    "html_url": "/ml/opinion/gandhi-s-india-from-diversity-to-unity-20191012-5.html",
    "md_url": "/ml/opinion/gandhi-s-india-from-diversity-to-unity-20191012-5.md"
+  },
+  {
+   "slug": "granting-freedom-of-opinion-20191102-1",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "അഭിപ്രായസ്വാതന്ത്ര്യം അനുവദിച്ചുകൊടുക്കുക",
+   "summary": "വ്യക്തിസ്വാതന്ത്ര്യത്തെക്കുറിച്ചും അഭിപ്രായപ്രകടനത്തിനുള്ള അവകാശത്തെക്കുറിച്ചുമുള്ള വിശകലനം. ഭരണകൂടവും പൗരനും തമ്മിലുള്ള ബന്ധത്തെ ഇസ്‌ലാമിക വീക്ഷണകോണിലൂടെ പരിശോധിക്കുന്നു.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2019-11-02",
+   "html_url": "/ml/opinion/granting-freedom-of-opinion-20191102-1.html",
+   "md_url": "/ml/opinion/granting-freedom-of-opinion-20191102-1.md"
   },
   {
    "slug": "hajj-subsidy-before-putting-the-muslim-community-in-the-dock-20170128-3",
@@ -15215,6 +15281,17 @@
    "md_url": "/ml/opinion/vankum-kithabum-and-the-constitution-20181208-9.md"
   },
   {
+   "slug": "veer-savarkar-or-coward-savarkar-20191102-11",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "വീര സവര്‍ക്കര്‍ എന്ന ഭീരു സവര്‍ക്കര്‍",
+   "summary": "വി.ഡി സവര്‍ക്കറുടെ രാഷ്ട്രീയ ചരിത്രത്തെയും അദ്ദേഹത്തിന് ഭാരതരത്‌ന നല്‍കാനുള്ള നീക്കത്തെയും വിമര്‍ശനാത്മകമായി വിശകലനം ചെയ്യുന്നു.",
+   "author": "പി.വി.എ പ്രിംറോസ്",
+   "issue_date": "2019-11-02",
+   "html_url": "/ml/opinion/veer-savarkar-or-coward-savarkar-20191102-11.html",
+   "md_url": "/ml/opinion/veer-savarkar-or-coward-savarkar-20191102-11.md"
+  },
+  {
    "slug": "warning-signs-from-the-reconstruction-of-history-20170114-2",
    "lang": "ml",
    "category": "opinion",
@@ -15875,6 +15952,17 @@
    "md_url": "/ml/quran/surah-al-ma-arij-the-ways-of-ascent-20191026-2.md"
   },
   {
+   "slug": "surah-al-ma-arij-the-ways-of-ascent-20191102-3",
+   "lang": "ml",
+   "category": "quran",
+   "title": "മആരിജ് (കയറുന്ന വഴികള്‍)",
+   "summary": "വിശുദ്ധ ഖുര്‍ആനിലെ 70-ാം അധ്യായമായ സൂറത്തുല്‍ മആരിജിന്റെ ലഘു വ്യാഖ്യാനം. അന്ത്യദിനത്തിലെ ഭയാനകമായ അവസ്ഥകളെക്കുറിച്ചുള്ള വിവരണങ്ങള്‍ ഇതില്‍ ഉള്‍ക്കൊള്ളുന്നു.",
+   "author": "അബ്ദുറഹ്മാന്‍ നാസിര്‍ അസ്സഅദി",
+   "issue_date": "2019-11-02",
+   "html_url": "/ml/quran/surah-al-ma-arij-the-ways-of-ascent-20191102-3.html",
+   "md_url": "/ml/quran/surah-al-ma-arij-the-ways-of-ascent-20191102-3.md"
+  },
+  {
    "slug": "surah-al-muddathir-the-one-wrapped-up-part-3-20190817-2",
    "lang": "ml",
    "category": "quran",
@@ -16093,6 +16181,17 @@
    "issue_date": "2018-09-08",
    "html_url": "/ml/quran/the-bitter-consequences-of-disobedience-20180908-1.html",
    "md_url": "/ml/quran/the-bitter-consequences-of-disobedience-20180908-1.md"
+  },
+  {
+   "slug": "the-gateway-of-knowledge-opened-by-the-holy-quran-20191102-12",
+   "lang": "ml",
+   "category": "quran",
+   "title": "വിശുദ്ധ ക്വുര്‍ആന്‍ തുറക്കുന്ന വിജ്ഞാന കവാടം",
+   "summary": "വിശുദ്ധ ഖുര്‍ആന്‍ എങ്ങനെയാണ് അജ്ഞതയുടെ ഇരുളില്‍ നിന്ന് മനുഷ്യനെ വിജ്ഞാനത്തിന്റെ വെളിച്ചത്തിലേക്ക് നയിക്കുന്നതെന്ന് വിവരിക്കുന്നു.",
+   "author": "അബ്ദുല്‍ മാലിക് സലഫി",
+   "issue_date": "2019-11-02",
+   "html_url": "/ml/quran/the-gateway-of-knowledge-opened-by-the-holy-quran-20191102-12.html",
+   "md_url": "/ml/quran/the-gateway-of-knowledge-opened-by-the-holy-quran-20191102-12.md"
   },
   {
    "slug": "the-history-of-injeel-20190420-3",
@@ -18163,6 +18262,17 @@
    "md_url": "/ml/story/the-protector-20181020-8.md"
   },
   {
+   "slug": "the-refreshing-rain-of-contentment-20191102-9",
+   "lang": "ml",
+   "category": "story",
+   "title": "സംതൃപ്തിയുടെ തെളിനീര്‍ മഴ",
+   "summary": "യാത്രയ്ക്കിടയിലുണ്ടായ ഒരു അനുഭവത്തെ ആസ്പദമാക്കി തയ്യാറാക്കിയ കഥ. ജീവിതത്തിലെ സംതൃപ്തിയുടെയും സന്തോഷത്തിന്റെയും മൂല്യത്തെക്കുറിച്ച് ഇത് സംസാരിക്കുന്നു.",
+   "author": "ഇബ്‌നു അലി എടത്തനാട്ടുകര",
+   "issue_date": "2019-11-02",
+   "html_url": "/ml/story/the-refreshing-rain-of-contentment-20191102-9.html",
+   "md_url": "/ml/story/the-refreshing-rain-of-contentment-20191102-9.md"
+  },
+  {
    "slug": "the-reward-of-mercy-20180908-3",
    "lang": "ml",
    "category": "story",
@@ -18348,6 +18458,17 @@
    "issue_date": "2017-02-11",
    "html_url": "/ml/youth/e-ahamed-s-message-to-the-youth-20170211-5.html",
    "md_url": "/ml/youth/e-ahamed-s-message-to-the-youth-20170211-5.md"
+  },
+  {
+   "slug": "engineering-studies-wasted-future-and-money-20191102-4",
+   "lang": "ml",
+   "category": "youth",
+   "title": "എഞ്ചിനിയറിങ് പഠനം; പാഴാക്കുന്ന ഭാവിയും പണവും",
+   "summary": "എഞ്ചിനീയറിംഗ് പഠനരംഗത്തെ നിലവിലെ പ്രതിസന്ധികളെയും വിദ്യാര്‍ത്ഥികള്‍ നേരിടുന്ന വെല്ലുവിളികളെയും കുറിച്ച് ചര്‍ച്ച ചെയ്യുന്നു. ഉന്നത വിദ്യാഭ്യാസ തിരഞ്ഞെടുപ്പില്‍ ശ്രദ്ധിക്കേണ്ട കാര്യങ്ങള്‍ വിവരിക്കുന്നു.",
+   "author": "നബീല്‍ പയ്യോളി",
+   "issue_date": "2019-11-02",
+   "html_url": "/ml/youth/engineering-studies-wasted-future-and-money-20191102-4.html",
+   "md_url": "/ml/youth/engineering-studies-wasted-future-and-money-20191102-4.md"
   },
   {
    "slug": "for-the-learners-20180811-5",
