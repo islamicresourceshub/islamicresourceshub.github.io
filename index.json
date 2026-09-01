@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-01T09:27:35.906775+00:00",
+ "generated_at": "2026-09-01T09:28:03.504851+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2785,
+ "count": 2786,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -22011,6 +22011,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/or/seerah/prophets-and-trials-20170325-7.html",
    "md_url": "/or/seerah/prophets-and-trials-20170325-7.md"
+  },
+  {
+   "slug": "abdullah-s-mistake-20170204-1",
+   "lang": "or",
+   "category": "story",
+   "title": "ଅବଦୁଲ୍ଲାଙ୍କ ଭୁଲ",
+   "summary": "ଏହା ଜଣେ ଦକ୍ଷ ବଢ଼େଇ ଅବଦୁଲ୍ଲାଙ୍କ କାହାଣୀ, ଯିଏ ନିଜର ଶେଷ କାମରେ ଅବହେଳା କରିଥିଲେ। ଏହି କାହାଣୀରୁ ଆମେ ଜୀବନରେ ସର୍ବଦା ଆନ୍ତରିକତା ଓ ସତ୍ୟନିଷ୍ଠା ବଜାୟ ରଖିବାର ଶିକ୍ଷା ପାଇଥାଉ।",
+   "author": "അറബി കഥ - പുനരാഖ്യാനം: അബൂ തൻവീൽ",
+   "issue_date": "2017-02-04",
+   "html_url": "/or/story/abdullah-s-mistake-20170204-1.html",
+   "md_url": "/or/story/abdullah-s-mistake-20170204-1.md"
   },
   {
    "slug": "good-intention-matters-most-20170325-8",
