@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-01T09:22:16.272005+00:00",
+ "generated_at": "2026-09-01T09:22:36.980708+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2773,
+ "count": 2774,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -5357,6 +5357,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/fr/seerah/prophets-and-trials-20170325-7.html",
    "md_url": "/fr/seerah/prophets-and-trials-20170325-7.md"
+  },
+  {
+   "slug": "abdullah-s-mistake-20170204-1",
+   "lang": "fr",
+   "category": "story",
+   "title": "L'erreur d'Abdullah",
+   "summary": "Il était une fois un menuisier expert nommé Abdullah qui travaillait pour un riche propriétaire. Cette histoire raconte l'erreur qu'il a commise lors de son dernier projet et la leçon précieuse qu'il en a tirée.",
+   "author": "അറബി കഥ - പുനരാഖ്യാനം: അബൂ തൻവീൽ",
+   "issue_date": "2017-02-04",
+   "html_url": "/fr/story/abdullah-s-mistake-20170204-1.html",
+   "md_url": "/fr/story/abdullah-s-mistake-20170204-1.md"
   },
   {
    "slug": "good-intention-matters-most-20170325-8",
