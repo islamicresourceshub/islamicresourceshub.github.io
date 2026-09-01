@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-01T07:21:53.457460+00:00",
+ "generated_at": "2026-09-01T07:25:03.120068+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2503,
+ "count": 2513,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -9374,6 +9374,17 @@
    "md_url": "/ml/aqeedah/celebrating-nabi-day-is-un-islamic-20260822-5.md"
   },
   {
+   "slug": "differences-of-opinion-among-scholars-20190907-8",
+   "lang": "ml",
+   "category": "aqeedah",
+   "title": "പണ്ഡിതന്മാര്‍ക്കിടയിലെ അഭിപ്രായ വ്യത്യാസങ്ങള്‍",
+   "summary": "ശൈഖുല്‍ ഇസ്ലാം ഇബ്‌നു തീമിയയുടെ 'റഫ്ഉല്‍ മലാം' എന്ന ഗ്രന്ഥത്തിന്റെ വിവര്‍ത്തനം. പണ്ഡിതന്മാര്‍ക്കിടയിലുണ്ടാകുന്ന അഭിപ്രായ വ്യത്യാസങ്ങളെ എങ്ങനെ സമീപിക്കണം എന്ന് വിശദീകരിക്കുന്നു.",
+   "author": "ശൈഖുല്‍ ഇസ്ലാം ഇബ്‌നു തീമിയ(റഹി)",
+   "issue_date": "2019-09-07",
+   "html_url": "/ml/aqeedah/differences-of-opinion-among-scholars-20190907-8.html",
+   "md_url": "/ml/aqeedah/differences-of-opinion-among-scholars-20190907-8.md"
+  },
+  {
    "slug": "differences-of-opinion-among-scholars-part-4-20190817-4",
    "lang": "ml",
    "category": "aqeedah",
@@ -9570,6 +9581,17 @@
    "issue_date": "2018-09-01",
    "html_url": "/ml/aqeedah/misguided-grave-visits-20180901-5.html",
    "md_url": "/ml/aqeedah/misguided-grave-visits-20180901-5.md"
+  },
+  {
+   "slug": "preparation-for-the-trial-20190907-11",
+   "lang": "ml",
+   "category": "aqeedah",
+   "title": "വിചാരണക്കുള്ള ഒരുക്കം",
+   "summary": "അന്ത്യനാളിനെക്കുറിച്ചുള്ള ഖുര്‍ആനിക പരാമര്‍ശങ്ങളും ശാസ്ത്രീയ വീക്ഷണങ്ങളും. പരലോക വിചാരണയ്ക്കായി ഒരുങ്ങേണ്ടതിന്റെ പ്രാധാന്യത്തെക്കുറിച്ച് വിവരിക്കുന്നു.",
+   "author": "ഡോ. പി.കെ അബ്ദുറസാക്ക് സുല്ലമി",
+   "issue_date": "2019-09-07",
+   "html_url": "/ml/aqeedah/preparation-for-the-trial-20190907-11.html",
+   "md_url": "/ml/aqeedah/preparation-for-the-trial-20190907-11.md"
   },
   {
    "slug": "racism-communalism-the-quranic-stand-20190126-10",
@@ -10496,6 +10518,17 @@
    "md_url": "/ml/dawah/muslims-in-a-pluralistic-society-20180922-1.md"
   },
   {
+   "slug": "natural-disasters-and-atheists-20190907-9",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "പ്രകൃതിദുരന്തങ്ങളും ദൈവനിഷേധികളും",
+   "summary": "പ്രകൃതിദുരന്തങ്ങളെ വിശ്വാസിയുടെ കാഴ്ചപ്പാടില്‍ എങ്ങനെ നോക്കിക്കാണണം എന്ന് ഈ ലേഖനം വ്യക്തമാക്കുന്നു. ദൈവനിഷേധികളുടെ വാദങ്ങളെ ഖണ്ഡിച്ചുകൊണ്ട് കാരുണ്യത്തിന്റെ പാഠങ്ങള്‍ പങ്കുവെക്കുന്നു.",
+   "author": "അബ്ദുല്ല ബാസില്‍ സി.പി",
+   "issue_date": "2019-09-07",
+   "html_url": "/ml/dawah/natural-disasters-and-atheists-20190907-9.html",
+   "md_url": "/ml/dawah/natural-disasters-and-atheists-20190907-9.md"
+  },
+  {
    "slug": "not-to-falter-in-crises-20170401-2",
    "lang": "ml",
    "category": "dawah",
@@ -11365,6 +11398,17 @@
    "md_url": "/ml/dawah/when-death-comes-early-20181103-5.md"
   },
   {
+   "slug": "when-doors-of-opportunity-open-20190907-1",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "അറിയാവാതിലുകള്‍ തുറക്കപ്പെടുമ്പോള്‍",
+   "summary": "ഹജ്ജിന് പോകാനുള്ള ഒരു വ്യാപാരിയുടെ ആഗ്രഹവും അത് സാധ്യമാകുന്നതിലെ ദൈവീക ഇടപെടലുകളും ഈ ലേഖനം വിവരിക്കുന്നു. വിശ്വാസിയുടെ ജീവിതത്തിലെ പ്രതിസന്ധികളിലും അല്ലാഹുവിലുള്ള ഭരമേല്‍പ്പിക്കലിന്റെ പ്രാധാന്യമാണ് ഇതിലെ പ്രമേയം.",
+   "author": "ഇബ്‌നു അലി എടത്തനാട്ടുകര",
+   "issue_date": "2019-09-07",
+   "html_url": "/ml/dawah/when-doors-of-opportunity-open-20190907-1.html",
+   "md_url": "/ml/dawah/when-doors-of-opportunity-open-20190907-1.md"
+  },
+  {
    "slug": "who-are-cultural-leaders-20180505-1",
    "lang": "ml",
    "category": "dawah",
@@ -11627,6 +11671,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/ml/family/how-to-be-a-good-parent-part-2-20170121-4.html",
    "md_url": "/ml/family/how-to-be-a-good-parent-part-2-20170121-4.md"
+  },
+  {
+   "slug": "human-knowledge-and-experience-20190907-5",
+   "lang": "ml",
+   "category": "family",
+   "title": "മനുഷ്യന്‍, അറിവ്, അനുഭവം",
+   "summary": "വിദ്യാഭ്യാസ രംഗത്തുണ്ടായ മാറ്റങ്ങളെയും പുതിയ തലമുറയുടെ പഠന രീതികളെയും വിശകലനം ചെയ്യുന്നു. അറിവും അനുഭവവും തമ്മിലുള്ള ബന്ധത്തെക്കുറിച്ചുള്ള ചിന്തകളാണ് ഇതിലുള്ളത്.",
+   "author": "നബീല്‍ പയ്യോളി",
+   "issue_date": "2019-09-07",
+   "html_url": "/ml/family/human-knowledge-and-experience-20190907-5.html",
+   "md_url": "/ml/family/human-knowledge-and-experience-20190907-5.md"
   },
   {
    "slug": "hurdles-in-marital-life-20181229-5",
@@ -12960,6 +13015,17 @@
    "md_url": "/ml/history/maulana-chalilakath-kunhahmed-haji-and-his-reformist-thought-20190216-6.md"
   },
   {
+   "slug": "memories-of-eranad-and-the-islah-movement-20190907-4",
+   "lang": "ml",
+   "category": "history",
+   "title": "ഏറനാട്ടിലെ ഓര്‍മകളും ഇസ്വ്‌ലാഹി പ്രസ്ഥാനവും",
+   "summary": "ഏറനാടിന്റെ ചരിത്രവും അവിടെ ഇസ്‌ലാഹി പ്രസ്ഥാനം ചെലുത്തിയ സ്വാധീനവും ഈ ലേഖനം ചര്‍ച്ച ചെയ്യുന്നു. പഴയകാല ഓര്‍മകളിലൂടെ പ്രസ്ഥാനത്തിന്റെ വളര്‍ച്ചയെ അടയാളപ്പെടുത്തുന്നു.",
+   "author": "പി.വി ഉമര്‍കുട്ടി ഹാജി (റഹി)",
+   "issue_date": "2019-09-07",
+   "html_url": "/ml/history/memories-of-eranad-and-the-islah-movement-20190907-4.html",
+   "md_url": "/ml/history/memories-of-eranad-and-the-islah-movement-20190907-4.md"
+  },
+  {
    "slug": "muhammad-abdurahman-sahib-and-barelvi-opposition-20190504-5",
    "lang": "ml",
    "category": "history",
@@ -14036,6 +14102,17 @@
    "issue_date": "2019-04-06",
    "html_url": "/ml/opinion/religion-life-and-communalism-20190406-7.html",
    "md_url": "/ml/opinion/religion-life-and-communalism-20190406-7.md"
+  },
+  {
+   "slug": "religious-conversion-and-political-change-20190907-7",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "മതംമാറ്റവും പാര്‍ട്ടിമാറ്റവും",
+   "summary": "മതം മാറാനുള്ള വ്യക്തിയുടെ അവകാശത്തെക്കുറിച്ചുള്ള മദ്രാസ് ഹൈക്കോടതിയുടെ നിരീക്ഷണത്തെ മുന്‍നിര്‍ത്തിയുള്ള ലേഖനം. മതസ്വാതന്ത്ര്യത്തെക്കുറിച്ചുള്ള നിയമപരമായ വശങ്ങള്‍ ചര്‍ച്ച ചെയ്യുന്നു.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2019-09-07",
+   "html_url": "/ml/opinion/religious-conversion-and-political-change-20190907-7.html",
+   "md_url": "/ml/opinion/religious-conversion-and-political-change-20190907-7.md"
   },
   {
    "slug": "right-to-service-act-20181124-8",
@@ -15248,6 +15325,17 @@
    "md_url": "/ml/quran/surah-az-zalzalah-the-earthquake-tafsir-20180505-2.md"
   },
   {
+   "slug": "surah-nuh-20190907-3",
+   "lang": "ml",
+   "category": "quran",
+   "title": "നൂഹ്",
+   "summary": "നൂഹ് നബിയുടെ ചരിത്രവും അദ്ദേഹത്തിന്റെ ജനതയിലേക്ക് നിയോഗിക്കപ്പെട്ടതിനെക്കുറിച്ചുമുള്ള ഖുര്‍ആന്‍ അധ്യായത്തിന്റെ വിശദീകരണം. ഖുര്‍ആനിക വചനങ്ങളുടെ അര്‍ത്ഥവും ആശയവും ലളിതമായി വിവരിക്കുന്നു.",
+   "author": "അബ്ദുറഹ്മാന്‍ നാസിര്‍ അസ്സഅദി",
+   "issue_date": "2019-09-07",
+   "html_url": "/ml/quran/surah-nuh-20190907-3.html",
+   "md_url": "/ml/quran/surah-nuh-20190907-3.md"
+  },
+  {
    "slug": "tafsir-of-surah-al-inshirah-20180707-4",
    "lang": "ml",
    "category": "quran",
@@ -15532,6 +15620,17 @@
    "issue_date": "2018-10-20",
    "html_url": "/ml/seerah/impatience-and-separation-20181020-2.html",
    "md_url": "/ml/seerah/impatience-and-separation-20181020-2.md"
+  },
+  {
+   "slug": "important-events-after-badr-20190907-2",
+   "lang": "ml",
+   "category": "seerah",
+   "title": "ബദ്‌റിനു ശേഷമുണ്ടായ ചില സുപ്രധാന സംഭവങ്ങള്‍",
+   "summary": "ബദ്‌റ് യുദ്ധത്തിന് ശേഷം നടന്ന സുപ്രധാന ചരിത്ര സംഭവങ്ങളെക്കുറിച്ചുള്ള പരമ്പരയാണിത്. ഇസ്‌ലാമിക ചരിത്രത്തിലെ ആദ്യത്തെ ഈദുല്‍ ഫിത്വ്ര്‍ ആഘോഷത്തെക്കുറിച്ചുള്ള വിവരണം ഇതില്‍ ഉള്‍ക്കൊള്ളുന്നു.",
+   "author": "ഫദ്‌ലുല്‍ ഹഖ് ഉമരി",
+   "issue_date": "2019-09-07",
+   "html_url": "/ml/seerah/important-events-after-badr-20190907-2.html",
+   "md_url": "/ml/seerah/important-events-after-badr-20190907-2.md"
   },
   {
    "slug": "in-the-palace-of-pharaoh-20180616-8",
@@ -17237,6 +17336,17 @@
    "issue_date": "2019-08-24",
    "html_url": "/ml/story/truthfulness-20190824-6.html",
    "md_url": "/ml/story/truthfulness-20190824-6.md"
+  },
+  {
+   "slug": "when-death-approaches-20190907-6",
+   "lang": "ml",
+   "category": "story",
+   "title": "മരണമെത്തുമ്പോള്‍",
+   "summary": "മരണത്തെക്കുറിച്ചുള്ള ചിന്തയും പരലോക ബോധവും വിശ്വാസിയില്‍ ഉണ്ടാകേണ്ടതിന്റെ ആവശ്യകതയെക്കുറിച്ചുള്ള കവിത. അല്ലാഹുവിനെ ഓര്‍ത്ത് ജീവിക്കാനുള്ള ആഹ്വാനം ഇതിലുണ്ട്.",
+   "author": "ഷുക്കൂര്‍ കടലുണ്ടി",
+   "issue_date": "2019-09-07",
+   "html_url": "/ml/story/when-death-approaches-20190907-6.html",
+   "md_url": "/ml/story/when-death-approaches-20190907-6.md"
   },
   {
    "slug": "when-the-burden-of-sin-increases-20170225-10",
