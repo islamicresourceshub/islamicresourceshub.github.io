@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-01T11:29:52.229664+00:00",
+ "generated_at": "2026-09-01T11:31:04.509815+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2866,
+ "count": 2876,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -9913,6 +9913,17 @@
    "md_url": "/ml/aqeedah/after-death-20190427-6.md"
   },
   {
+   "slug": "allah-beyond-all-comparisons-20190615-8",
+   "lang": "ml",
+   "category": "aqeedah",
+   "title": "അല്ലാഹു: ഉപമകൾക്കതീതൻ",
+   "summary": "അല്ലാഹുവിന്റെ നാമങ്ങളെയും വിശേഷണങ്ങളെയും കുറിച്ചുള്ള ശരിയായ ഇസ്‌ലാമിക വിശ്വാസവും അവൻ സൃഷ്ടികളോട് യാതൊരുവിധത്തിലും സാമ്യമില്ലാത്തവണെന്ന യാഥാർത്ഥ്യവും വിശദീകരിക്കുന്നു.",
+   "author": "റഹ്മതുല്ല മന്നാനി പെഷ്ക്കം",
+   "issue_date": "2019-06-15",
+   "html_url": "/ml/aqeedah/allah-beyond-all-comparisons-20190615-8.html",
+   "md_url": "/ml/aqeedah/allah-beyond-all-comparisons-20190615-8.md"
+  },
+  {
    "slug": "allah-is-the-worshipped-one-for-all-20191214-1",
    "lang": "ml",
    "category": "aqeedah",
@@ -10593,6 +10604,17 @@
    "issue_date": "2018-12-01",
    "html_url": "/ml/aqeedah/the-hidden-aspects-of-opposition-to-manhaj-20181201-5.html",
    "md_url": "/ml/aqeedah/the-hidden-aspects-of-opposition-to-manhaj-20181201-5.md"
+  },
+  {
+   "slug": "the-infinite-vastness-of-the-universe-20190615-7",
+   "lang": "ml",
+   "category": "aqeedah",
+   "title": "പ്രപഞ്ചത്തിന്റെ അന്ത്യവിശാലത",
+   "summary": "പ്രപഞ്ചത്തിന്റെ അതിവിശാലതയെയും നക്ഷത്രസമൂഹങ്ങളെയും ശാസ്ത്രീയമായി വിശകലനം ചെയ്തുകൊണ്ട് സ്രഷ്ടാവിന്റെ അപാരമായ ശക്തിയെ ബോധ്യപ്പെടുത്തുന്ന ലേഖനം.",
+   "author": "ഡോ. അബൂബക്കർ സുല്ലഫി",
+   "issue_date": "2019-06-15",
+   "html_url": "/ml/aqeedah/the-infinite-vastness-of-the-universe-20190615-7.html",
+   "md_url": "/ml/aqeedah/the-infinite-vastness-of-the-universe-20190615-7.md"
   },
   {
    "slug": "the-prophet-in-mauritius-and-the-ahmadiyya-crisis-20180616-7",
@@ -11827,6 +11849,17 @@
    "md_url": "/ml/dawah/ramadan-of-charity-20190511-1.md"
   },
   {
+   "slug": "reap-profit-fear-loss-20190615-4",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "ലാഭം കൊയ്തിക്കുക; നഷ്ടത്തെ ഭയക്കുക",
+   "summary": "ഭൗതിക ലാഭനഷ്ടങ്ങൾക്കപ്പുറം പരലോകത്ത് വിജയം നൽകുന്ന യഥാർത്ഥ കച്ചവടത്തെയും പുണ്യപ്രവർത്തികളെയും കുറിച്ച് ഓർമ്മിപ്പിക്കുന്ന ലേഖനം.",
+   "author": "മുഹമ്മദ് സുലൈമാൻ കാരാ",
+   "issue_date": "2019-06-15",
+   "html_url": "/ml/dawah/reap-profit-fear-loss-20190615-4.html",
+   "md_url": "/ml/dawah/reap-profit-fear-loss-20190615-4.md"
+  },
+  {
    "slug": "relevance-of-religious-dialogues-20180512-2",
    "lang": "ml",
    "category": "dawah",
@@ -11968,6 +12001,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/ml/dawah/showing-the-light-is-the-duty-of-scholars-20170121-14.html",
    "md_url": "/ml/dawah/showing-the-light-is-the-duty-of-scholars-20170121-14.md"
+  },
+  {
+   "slug": "sincerity-in-life-and-work-20190615-2",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "ജീവിതത്തിലെ ആത്മാർത്ഥത",
+   "summary": "ജോലിയിലും ജീവിതത്തിലും പുലർത്തേണ്ട ആത്മാർത്ഥതയെയും അതിന്റെ പരലോക പ്രതിഫലങ്ങളെയും കുറിച്ച് ഖുർആന്റെയും ഹദീസിന്റെയും വെളിച്ചത്തിൽ വിശദീകരിക്കുന്ന ലേഖനം.",
+   "author": "ഷൈഖ് അബുമുഹമ്മദ് ഇബ്നുഹമ്മദ് അൽബാർദ",
+   "issue_date": "2019-06-15",
+   "html_url": "/ml/dawah/sincerity-in-life-and-work-20190615-2.html",
+   "md_url": "/ml/dawah/sincerity-in-life-and-work-20190615-2.md"
   },
   {
    "slug": "snippets-from-memory-20181229-9",
@@ -12386,6 +12430,17 @@
    "issue_date": "2019-05-11",
    "html_url": "/ml/dawah/the-spirit-of-ramadan-20190511-7.html",
    "md_url": "/ml/dawah/the-spirit-of-ramadan-20190511-7.md"
+  },
+  {
+   "slug": "the-spiritual-joy-islam-bestows-20190615-9",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "ഇസ്‌ലാം നൽകുന്ന ആത്മഹർഷം",
+   "summary": "അല്ലാഹു നൽകിയ അനുഗ്രഹങ്ങളെ തിരിച്ചറിഞ്ഞ് ജീവിക്കുന്നതിലൂടെയും ഇസ്‌ലാമിക അധ്യാപനങ്ങൾ പാലിക്കുന്നതിലൂടെയും ലഭിക്കുന്ന യഥാർത്ഥ ആത്മസംതൃപ്തിയെക്കുറിച്ച് പ്രതിപാദിക്കുന്നു.",
+   "author": "ഷമീർ മദീനി",
+   "issue_date": "2019-06-15",
+   "html_url": "/ml/dawah/the-spiritual-joy-islam-bestows-20190615-9.html",
+   "md_url": "/ml/dawah/the-spiritual-joy-islam-bestows-20190615-9.md"
   },
   {
    "slug": "the-sweetness-of-gathering-20181013-8",
@@ -12927,6 +12982,17 @@
    "md_url": "/ml/family/do-not-invite-water-scarcity-20170225-4.md"
   },
   {
+   "slug": "do-you-want-satan-s-ganja-20190615-6",
+   "lang": "ml",
+   "category": "family",
+   "title": "സാറ്റിൻ കഞ്ചാവ് വേണോ..?",
+   "summary": "കുട്ടികൾക്കിടയിലെ ലഹരി ഉപയോഗത്തിന്റെ ഭീകരതയെയും അതിനെതിരെ രക്ഷിതാക്കളും സമൂഹവും പുലർത്തേണ്ട ജാഗ്രതയെയും സ്വന്തം അനുഭവത്തിലൂടെ പങ്കുവെക്കുന്ന കുറിപ്പ്.",
+   "author": "സലാം സുറുമ എടത്തുനാട്ടുകര",
+   "issue_date": "2019-06-15",
+   "html_url": "/ml/family/do-you-want-satan-s-ganja-20190615-6.html",
+   "md_url": "/ml/family/do-you-want-satan-s-ganja-20190615-6.md"
+  },
+  {
    "slug": "don-t-worry-allah-is-with-you-20170114-10",
    "lang": "ml",
    "category": "family",
@@ -13024,6 +13090,17 @@
    "issue_date": "2019-03-23",
    "html_url": "/ml/family/forgotten-in-the-heat-of-exams-20190323-6.html",
    "md_url": "/ml/family/forgotten-in-the-heat-of-exams-20190323-6.md"
+  },
+  {
+   "slug": "give-today-for-tomorrow-20190615-10",
+   "lang": "ml",
+   "category": "family",
+   "title": "ഇന്ന് കൊടുത്തു കൂടേ, നാളെക്കു വേണ്ടി",
+   "summary": "നാളെ പരലോകത്ത് ഉപകരിക്കുന്നതിനായി ഇന്നുതന്നെ ദാനധർമ്മങ്ങൾ ചെയ്യേണ്ടതിന്റെ പ്രാധാന്യത്തെയും പിശുക്കിന്റെ ദൂഷ്യഫലങ്ങളെയും കുറിച്ച് ഓർമ്മിപ്പിക്കുന്ന ഫീച്ചർ.",
+   "author": "ഇസ്മായിൽ പച്ചക്കാടി",
+   "issue_date": "2019-06-15",
+   "html_url": "/ml/family/give-today-for-tomorrow-20190615-10.html",
+   "md_url": "/ml/family/give-today-for-tomorrow-20190615-10.md"
   },
   {
    "slug": "good-behavior-makes-married-life-pleasant-20191221-10",
@@ -14168,6 +14245,17 @@
    "issue_date": "2018-09-01",
    "html_url": "/ml/hadith/return-to-sunnah-20180901-9.html",
    "md_url": "/ml/hadith/return-to-sunnah-20180901-9.md"
+  },
+  {
+   "slug": "sahih-al-bukhari-explanations-and-facts-20190615-3",
+   "lang": "ml",
+   "category": "hadith",
+   "title": "സ്വഹീഹുൽ ബുഖാരി: വിശദീകരണവും വസ്തുതയും",
+   "summary": "സ്വഹീഹുൽ ബുഖാരിക്കെതിരെ ഉയരുന്ന വിമർശനങ്ങളെ വസ്തുതാപരമായി വിശകലനം ചെയ്യുകയും ഹദീസുകളുടെ വിശ്വസനീയതയെ പ്രമാണബദ്ധമായി സ്ഥാപിക്കുകയും ചെയ്യുന്ന പഠനം.",
+   "author": "അബ്ദുൽ മാലിക് സലഫി",
+   "issue_date": "2019-06-15",
+   "html_url": "/ml/hadith/sahih-al-bukhari-explanations-and-facts-20190615-3.html",
+   "md_url": "/ml/hadith/sahih-al-bukhari-explanations-and-facts-20190615-3.md"
   },
   {
    "slug": "sunnah-the-commitment-of-the-companions-20181208-6",
@@ -15576,6 +15664,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/ml/opinion/elections-the-stand-must-be-well-considered-20170325-10.html",
    "md_url": "/ml/opinion/elections-the-stand-must-be-well-considered-20170325-10.md"
+  },
+  {
+   "slug": "ethics-in-journalism-20190615-1",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "മാധ്യമ പ്രവർത്തനത്തിലെ നൈതികത",
+   "summary": "മാധ്യമപ്രവർത്തനത്തിലെ നൈതികതയെയും മൂല്യങ്ങളെയും കുറിച്ച് ചർച്ച ചെയ്യുന്ന ലേഖനം. ജനാധിപത്യത്തിന്റെ കാവലാളായ മാധ്യമങ്ങൾ പുലർത്തേണ്ട വിശ്വാസ്യതയെയും ഉത്തരവാദിത്തത്തെയും ഇത് ഓർമ്മിപ്പിക്കുന്നു.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2019-06-15",
+   "html_url": "/ml/opinion/ethics-in-journalism-20190615-1.html",
+   "md_url": "/ml/opinion/ethics-in-journalism-20190615-1.md"
   },
   {
    "slug": "everyone-should-have-a-beard-20170121-3",
@@ -18722,6 +18821,17 @@
    "issue_date": "2019-01-12",
    "html_url": "/ml/seerah/the-birth-of-prophet-muhammad-pbuh-20190112-8.html",
    "md_url": "/ml/seerah/the-birth-of-prophet-muhammad-pbuh-20190112-8.md"
+  },
+  {
+   "slug": "the-blessed-fruits-of-hijrah-to-madinah-20190615-5",
+   "lang": "ml",
+   "category": "seerah",
+   "title": "മദീനയിലേക്കുള്ള പലായനത്തിന്റെ ശുഭഫലങ്ങൾ",
+   "summary": "പ്രവാചകന്റെ മദീനയിലേക്കുള്ള പലായനം (ഹിജ്റ) ഇസ്‌ലാമിക ചരിത്രത്തിലും സമൂഹത്തിലും ഉണ്ടാക്കിയ വിപ്ലവകരമായ മാറ്റങ്ങളെയും അതിന്റെ ഗുണപാഠങ്ങളെയും കുറിച്ചുള്ള വിവരണം.",
+   "author": "ഫദ്ലുല്ല പാഷ ഉമരി",
+   "issue_date": "2019-06-15",
+   "html_url": "/ml/seerah/the-blessed-fruits-of-hijrah-to-madinah-20190615-5.html",
+   "md_url": "/ml/seerah/the-blessed-fruits-of-hijrah-to-madinah-20190615-5.md"
   },
   {
    "slug": "the-bravery-of-ideology-badr-20190525-1",
