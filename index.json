@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-01T08:19:21.838833+00:00",
+ "generated_at": "2026-09-01T08:22:28.476467+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2674,
+ "count": 2684,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -9759,6 +9759,17 @@
    "md_url": "/ml/aqeedah/is-allah-not-enough-for-you-20180616-1.md"
   },
   {
+   "slug": "is-blind-imitation-a-religious-command-20191130-2",
+   "lang": "ml",
+   "category": "aqeedah",
+   "title": "അന്ധമായ അനുകരണം മതശാസനയോ?",
+   "summary": "അന്ധവിശ്വാസങ്ങളെക്കുറിച്ചുള്ള പരമ്പരയുടെ ഭാഗമായി, മതപരമായ കാര്യങ്ങളില്‍ അന്ധമായ അനുകരണം പാടില്ലെന്ന് ലേഖനം വ്യക്തമാക്കുന്നു. ക്വുര്‍ആനിന്റെയും സുന്നത്തിന്റെയും അടിസ്ഥാനത്തില്‍ കാര്യങ്ങളെ വിലയിരുത്തേണ്ടതിന്റെ പ്രാധാന്യം ഇതില്‍ ചര്‍ച്ച ചെയ്യുന്നു.",
+   "author": "മൂസ സ്വലാഹി, കാര",
+   "issue_date": "2019-11-30",
+   "html_url": "/ml/aqeedah/is-blind-imitation-a-religious-command-20191130-2.html",
+   "md_url": "/ml/aqeedah/is-blind-imitation-a-religious-command-20191130-2.md"
+  },
+  {
    "slug": "is-god-one-20181222-4",
    "lang": "ml",
    "category": "aqeedah",
@@ -10584,6 +10595,17 @@
    "md_url": "/ml/dawah/ever-relevant-advices-20181027-8.md"
   },
   {
+   "slug": "extend-a-helping-hand-20191130-8",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "സഹായഹസ്തം നീട്ടുക",
+   "summary": "സഹജീവികളോട് കരുണ കാണിക്കേണ്ടതിന്റെയും സഹായിക്കേണ്ടതിന്റെയും പ്രാധാന്യം വ്യക്തമാക്കുന്ന ഹദീസ് വിശദീകരണം. അല്ലാഹുവിന്റെ പ്രീതി നേടാന്‍ ദാനധര്‍മ്മങ്ങള്‍ക്കുള്ള പങ്ക് ഇതില്‍ വിവരിക്കുന്നു.",
+   "author": "അബൂതന്‍വീല്‍",
+   "issue_date": "2019-11-30",
+   "html_url": "/ml/dawah/extend-a-helping-hand-20191130-8.html",
+   "md_url": "/ml/dawah/extend-a-helping-hand-20191130-8.md"
+  },
+  {
    "slug": "fasting-a-reins-for-desires-20180526-11",
    "lang": "ml",
    "category": "dawah",
@@ -11387,6 +11409,17 @@
    "md_url": "/ml/dawah/solution-for-divisions-20170218-3.md"
   },
   {
+   "slug": "speak-well-speak-nicely-20191130-7",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "നല്ലത് പറയുക, നന്നായി പറയുക",
+   "summary": "നാവിന്റെ ഉപയോഗത്തെക്കുറിച്ചും സംസാരത്തിലെ മാന്യതയെക്കുറിച്ചുമുള്ള ലേഖനം. അല്ലാഹു നല്‍കിയ അനുഗ്രഹമായ നാവിനെ എങ്ങനെ നല്ല കാര്യങ്ങള്‍ക്കായി ഉപയോഗിക്കാമെന്ന് ഇത് പഠിപ്പിക്കുന്നു.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2019-11-30",
+   "html_url": "/ml/dawah/speak-well-speak-nicely-20191130-7.html",
+   "md_url": "/ml/dawah/speak-well-speak-nicely-20191130-7.md"
+  },
+  {
    "slug": "specialities-of-the-month-of-ramadan-20180519-6",
    "lang": "ml",
    "category": "dawah",
@@ -12091,6 +12124,17 @@
    "md_url": "/ml/dawah/with-a-satisfied-soul-20180804-11.md"
   },
   {
+   "slug": "writing-and-reading-20191130-4",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "എഴുത്തും വായനയും",
+   "summary": "വിശുദ്ധ ക്വുര്‍ആന്‍ വിജ്ഞാന സമ്പാദനത്തിന് നല്‍കുന്ന പ്രാധാന്യത്തെക്കുറിച്ചുള്ള ലേഖനം. എഴുത്തും വായനയും മനുഷ്യജീവിതത്തില്‍ ചെലുത്തുന്ന സ്വാധീനത്തെ ക്വുര്‍ആനിക വെളിച്ചത്തില്‍ പരിശോധിക്കുന്നു.",
+   "author": "സിറാജുൽ ഇസ്‌ലാം ബാലുശ്ശേരി",
+   "issue_date": "2019-11-30",
+   "html_url": "/ml/dawah/writing-and-reading-20191130-4.html",
+   "md_url": "/ml/dawah/writing-and-reading-20191130-4.md"
+  },
+  {
    "slug": "a-good-family-20180512-11",
    "lang": "ml",
    "category": "family",
@@ -12738,6 +12782,17 @@
    "issue_date": "2019-10-05",
    "html_url": "/ml/family/the-traps-of-social-media-20191005-8.html",
    "md_url": "/ml/family/the-traps-of-social-media-20191005-8.md"
+  },
+  {
+   "slug": "the-worldly-and-hereafter-benefits-of-sexual-purity-20191130-6",
+   "lang": "ml",
+   "category": "family",
+   "title": "ലൈംഗിക വിശുദ്ധിയുടെ ഇഹപര നേട്ടം",
+   "summary": "വര്‍ധിച്ചുവരുന്ന ലൈംഗിക അതിക്രമങ്ങളുടെ പശ്ചാത്തലത്തില്‍ ലൈംഗിക വിശുദ്ധിയുടെ പ്രാധാന്യം ചര്‍ച്ച ചെയ്യുന്നു. വ്യക്തിജീവിതത്തിലും സാമൂഹിക ജീവിതത്തിലും വിശുദ്ധി പുലര്‍ത്തുന്നതുകൊണ്ടുള്ള ഗുണങ്ങളെക്കുറിച്ച് ലേഖനം വിവരിക്കുന്നു.",
+   "author": "അബൂമുജാഹിദ് വളപട്ടണം",
+   "issue_date": "2019-11-30",
+   "html_url": "/ml/family/the-worldly-and-hereafter-benefits-of-sexual-purity-20191130-6.html",
+   "md_url": "/ml/family/the-worldly-and-hereafter-benefits-of-sexual-purity-20191130-6.md"
   },
   {
    "slug": "thoughts-during-pregnancy-20170218-4",
@@ -13431,6 +13486,17 @@
    "issue_date": "2019-11-16",
    "html_url": "/ml/hadith/what-remains-forever-20191116-2.html",
    "md_url": "/ml/hadith/what-remains-forever-20191116-2.md"
+  },
+  {
+   "slug": "dental-care-in-children-things-to-note-20191130-5",
+   "lang": "ml",
+   "category": "health",
+   "title": "കുഞ്ഞുങ്ങളിലെ ദന്ത സംരക്ഷണം: ശ്രദ്ധിക്കേണ്ട ചില കാര്യങ്ങള്‍",
+   "summary": "കുട്ടികളുടെ പല്ലുകളുടെ സംരക്ഷണത്തിനായി മാതാപിതാക്കള്‍ ശ്രദ്ധിക്കേണ്ട കാര്യങ്ങളെക്കുറിച്ചുള്ള ആരോഗ്യ ലേഖനം. കൃത്യമായ ദന്തപരിചരണം കുട്ടികളുടെ ആരോഗ്യത്തിന് എത്രത്തോളം പ്രധാനമാണെന്ന് ഇതില്‍ വിശദീകരിക്കുന്നു.",
+   "author": "ഡോ. സഫ ഹിഷാം",
+   "issue_date": "2019-11-30",
+   "html_url": "/ml/health/dental-care-in-children-things-to-note-20191130-5.html",
+   "md_url": "/ml/health/dental-care-in-children-things-to-note-20191130-5.md"
   },
   {
    "slug": "food-and-migraine-20180707-9",
@@ -14775,6 +14841,28 @@
    "md_url": "/ml/opinion/he-who-justifies-oppression-is-an-oppressor-himself-20190330-1.md"
   },
   {
+   "slug": "identify-and-correct-20191130-9",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "തിരിച്ചറിയുക, തിരുത്തുക",
+   "summary": "ജീവിതത്തില്‍ സംഭവിക്കുന്ന തെറ്റുകളെ തിരിച്ചറിയാനും അവ തിരുത്താനുമുള്ള മനസ്സിനെക്കുറിച്ചുള്ള ലേഖനം. അബദ്ധങ്ങളെ ന്യായീകരിക്കാതെ അവയില്‍ നിന്ന് പാഠം ഉള്‍ക്കൊള്ളാന്‍ ആഹ്വാനം ചെയ്യുന്നു.",
+   "author": "കുഞ്ഞിമുഹമ്മദ് മദനി പറപ്പൂര്‍",
+   "issue_date": "2019-11-30",
+   "html_url": "/ml/opinion/identify-and-correct-20191130-9.html",
+   "md_url": "/ml/opinion/identify-and-correct-20191130-9.md"
+  },
+  {
+   "slug": "iit-suicide-who-are-the-real-culprits-20191130-1",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "ഐ.ഐ.ടി ആത്മഹത്യ: യഥാര്‍ഥ പ്രതികള്‍ ആര്?",
+   "summary": "ഐ.ഐ.ടി ക്യാമ്പസിലെ വിദ്യാര്‍ഥി ആത്മഹത്യകളെക്കുറിച്ചുള്ള സാമൂഹികവും മാനസികവുമായ വിശകലനം. പഠന സമ്മര്‍ദത്തിന്റെയും അധ്യാപക പീഡനത്തിന്റെയും പശ്ചാത്തലത്തില്‍ യഥാര്‍ഥ ഉത്തരവാദികളെ കണ്ടെത്താനുള്ള ശ്രമം.",
+   "author": "മുഹമ്മദ് അജ്മല്‍ സി",
+   "issue_date": "2019-11-30",
+   "html_url": "/ml/opinion/iit-suicide-who-are-the-real-culprits-20191130-1.html",
+   "md_url": "/ml/opinion/iit-suicide-who-are-the-real-culprits-20191130-1.md"
+  },
+  {
    "slug": "india-which-way-forward-20170325-2",
    "lang": "ml",
    "category": "opinion",
@@ -15906,6 +15994,17 @@
    "issue_date": "2019-11-23",
    "html_url": "/ml/quran/al-haqqah-the-inevitable-reality-20191123-3.html",
    "md_url": "/ml/quran/al-haqqah-the-inevitable-reality-20191123-3.md"
+  },
+  {
+   "slug": "al-haqqah-the-reality-part-2-20191130-3",
+   "lang": "ml",
+   "category": "quran",
+   "title": "ഹാഖ്ഖ (യഥാര്‍ഥ സംഭവം)",
+   "summary": "വിശുദ്ധ ക്വുര്‍ആനിലെ അറുപത്തിയൊമ്പതാം അധ്യായമായ സൂറത്തുല്‍ ഹാഖ്ഖയുടെ വിശദീകരണം. അന്ത്യദിനത്തെക്കുറിച്ചും പരലോകത്തെക്കുറിച്ചുമുള്ള ക്വുര്‍ആനിക പരാമര്‍ശങ്ങള്‍ ഇതില്‍ വിവരിക്കുന്നു.",
+   "author": "അബ്ദുറഹ്മാന്‍ നാസിര്‍ അസ്സഅദി",
+   "issue_date": "2019-11-30",
+   "html_url": "/ml/quran/al-haqqah-the-reality-part-2-20191130-3.html",
+   "md_url": "/ml/quran/al-haqqah-the-reality-part-2-20191130-3.md"
   },
   {
    "slug": "al-inshiqaq-the-sundering-20181229-4",
@@ -17050,6 +17149,17 @@
    "issue_date": "2019-07-06",
    "html_url": "/ml/seerah/on-the-path-of-resistance-20190706-9.html",
    "md_url": "/ml/seerah/on-the-path-of-resistance-20190706-9.md"
+  },
+  {
+   "slug": "oppressions-and-the-prophet-s-stance-20191130-10",
+   "lang": "ml",
+   "category": "seerah",
+   "title": "ഉപദ്രവങ്ങളും പ്രവാചകന്റെ നിലപാടുകളും",
+   "summary": "പ്രവാചകന്‍ മുഹമ്മദ് നബി(സ) നേരിട്ട പീഡനങ്ങളെയും അതിനെ അദ്ദേഹം നേരിട്ട രീതിയെയും കുറിച്ചുള്ള ചരിത്ര ലേഖനം. ക്വുറൈശികളുടെ പ്രലോഭനങ്ങളെയും ഭീഷണികളെയും പ്രവാചകന്‍ എങ്ങനെ അതിജീവിച്ചു എന്ന് ഇതില്‍ പ്രതിപാദിക്കുന്നു.",
+   "author": "അബ്ബാസ് ചെറുതുരുത്തി",
+   "issue_date": "2019-11-30",
+   "html_url": "/ml/seerah/oppressions-and-the-prophet-s-stance-20191130-10.html",
+   "md_url": "/ml/seerah/oppressions-and-the-prophet-s-stance-20191130-10.md"
   },
   {
    "slug": "prophet-ilyas-as-20190302-4",
