@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-01T09:23:04.104930+00:00",
+ "generated_at": "2026-09-01T09:23:25.712279+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2775,
+ "count": 2776,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -6413,6 +6413,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/ha/seerah/prophets-and-trials-20170325-7.html",
    "md_url": "/ha/seerah/prophets-and-trials-20170325-7.md"
+  },
+  {
+   "slug": "abdullah-s-mistake-20170204-1",
+   "lang": "ha",
+   "category": "story",
+   "title": "Kuskure da Abdullah ya yi",
+   "summary": "Wannan labari ne na wani gwanin kafinta mai suna Abdullah wanda ya yi aiki da wani mai gida na tsawon lokaci. Labarin ya nuna muhimmancin yin kowane aiki da gaskiya da kuma kyakkyawar niyya har zuwa karshe.",
+   "author": "അറബി കഥ - പുനരാഖ്യാനം: അബൂ തൻവീൽ",
+   "issue_date": "2017-02-04",
+   "html_url": "/ha/story/abdullah-s-mistake-20170204-1.html",
+   "md_url": "/ha/story/abdullah-s-mistake-20170204-1.md"
   },
   {
    "slug": "good-intention-matters-most-20170325-8",
