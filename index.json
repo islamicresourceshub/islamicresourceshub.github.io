@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-01T09:01:06.201737+00:00",
+ "generated_at": "2026-09-01T09:04:49.212793+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2716,
+ "count": 2726,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -9484,6 +9484,17 @@
    "md_url": "/ml/aqeedah/after-death-20190427-6.md"
   },
   {
+   "slug": "allah-is-the-worshipped-one-for-all-20191214-1",
+   "lang": "ml",
+   "category": "aqeedah",
+   "title": "അല്ലാഹു എല്ലാവരുടെയും ആരാധ്യന്‍",
+   "summary": "വിശുദ്ധ ക്വുര്‍ആനിലെ അല്‍ബക്വറ അധ്യായത്തെ ആസ്പദമാക്കി അല്ലാഹുവിന്റെ ഏകത്വത്തെയും ആരാധന അര്‍ഹിക്കുന്നവന്‍ അവന്‍ മാത്രമാണെന്നുമുള്ള ആശയത്തെ ഈ ലേഖനം വിശദീകരിക്കുന്നു.",
+   "author": "സിറാജുല്‍ ഇസ്‌ലാം ബാലുശ്ശേരി",
+   "issue_date": "2019-12-14",
+   "html_url": "/ml/aqeedah/allah-is-the-worshipped-one-for-all-20191214-1.html",
+   "md_url": "/ml/aqeedah/allah-is-the-worshipped-one-for-all-20191214-1.md"
+  },
+  {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
    "lang": "ml",
    "category": "aqeedah",
@@ -12465,6 +12476,17 @@
    "md_url": "/ml/family/forgotten-in-the-heat-of-exams-20190323-6.md"
   },
   {
+   "slug": "happily-with-the-family-20191214-5",
+   "lang": "ml",
+   "category": "family",
+   "title": "കുടുംബത്തോടൊപ്പം സന്തോഷത്തോടെ",
+   "summary": "കുടുംബജീവിതത്തില്‍ സന്തോഷവും ഐശ്വര്യവും നിലനിര്‍ത്തുന്നതിനും മാതാപിതാക്കളും മക്കളും തമ്മിലുള്ള ബന്ധം മെച്ചപ്പെടുത്തുന്നതിനുമുള്ള മാര്‍ഗനിര്‍ദേശങ്ങള്‍.",
+   "author": "കുഞ്ഞിമുഹമ്മദ് മദനി പറപ്പൂര്‍",
+   "issue_date": "2019-12-14",
+   "html_url": "/ml/family/happily-with-the-family-20191214-5.html",
+   "md_url": "/ml/family/happily-with-the-family-20191214-5.md"
+  },
+  {
    "slug": "harassment-from-mother-in-law-20170204-3",
    "lang": "ml",
    "category": "family",
@@ -13917,6 +13939,17 @@
    "md_url": "/ml/history/c-n-moulavi-s-translation-that-compromised-sources-20181013-9.md"
   },
   {
+   "slug": "compilation-of-the-quran-20191214-6",
+   "lang": "ml",
+   "category": "history",
+   "title": "ക്വുര്‍ആന്‍ ക്രോഡീകരണം",
+   "summary": "പ്രവാചക കാലഘട്ടത്തിലും തുടര്‍ന്നും വിശുദ്ധ ക്വുര്‍ആന്‍ ലിഖിത രൂപത്തിലാക്കിയ ചരിത്രപരമായ പശ്ചാത്തലം ഈ ലേഖനം വിവരിക്കുന്നു.",
+   "author": "ശമീര്‍ മദീനി",
+   "issue_date": "2019-12-14",
+   "html_url": "/ml/history/compilation-of-the-quran-20191214-6.html",
+   "md_url": "/ml/history/compilation-of-the-quran-20191214-6.md"
+  },
+  {
    "slug": "debates-on-stage-and-in-court-20190921-9",
    "lang": "ml",
    "category": "history",
@@ -13948,6 +13981,17 @@
    "issue_date": "2019-03-02",
    "html_url": "/ml/history/hamadani-s-institutions-and-quranic-renaissance-20190302-7.html",
    "md_url": "/ml/history/hamadani-s-institutions-and-quranic-renaissance-20190302-7.md"
+  },
+  {
+   "slug": "history-of-the-freedom-struggle-in-malabar-20191214-7",
+   "lang": "ml",
+   "category": "history",
+   "title": "മലബാറിലെ സ്വാതന്ത്ര്യസമര ചരിത്രം",
+   "summary": "ബ്രിട്ടീഷ് അധിനിവേശത്തിനെതിരെ മലബാര്‍ മേഖലയില്‍ നടന്ന സായുധ പോരാട്ടങ്ങളുടെയും സ്വാതന്ത്ര്യസമര ചരിത്രത്തിന്റെയും സംക്ഷിപ്ത വിവരണം.",
+   "author": "യൂസുഫ് സാഹിബ് നദ്‌വി ഓച്ചിറ",
+   "issue_date": "2019-12-14",
+   "html_url": "/ml/history/history-of-the-freedom-struggle-in-malabar-20191214-7.html",
+   "md_url": "/ml/history/history-of-the-freedom-struggle-in-malabar-20191214-7.md"
   },
   {
    "slug": "ilfathul-islam-the-book-of-hamadani-20190504-3",
@@ -14852,6 +14896,17 @@
    "md_url": "/ml/opinion/everyone-should-have-a-beard-20170121-3.md"
   },
   {
+   "slug": "failing-law-enforcement-20191214-8",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "നിലതെറ്റുന്ന നിയമപാലനം",
+   "summary": "പോലീസിന്റെ ഉത്തരവാദിത്തങ്ങളെക്കുറിച്ചും നിലവിലെ നിയമപാലന സംവിധാനങ്ങളിലെ വീഴ്ചകളെക്കുറിച്ചുമുള്ള വിമര്‍ശനാത്മകമായ ലേഖനം.",
+   "author": "നബീല്‍ പയ്യോളി",
+   "issue_date": "2019-12-14",
+   "html_url": "/ml/opinion/failing-law-enforcement-20191214-8.html",
+   "md_url": "/ml/opinion/failing-law-enforcement-20191214-8.md"
+  },
+  {
    "slug": "financial-aids-that-do-not-reach-the-target-20190216-4",
    "lang": "ml",
    "category": "opinion",
@@ -14971,6 +15026,17 @@
    "issue_date": "2019-11-30",
    "html_url": "/ml/opinion/iit-suicide-who-are-the-real-culprits-20191130-1.html",
    "md_url": "/ml/opinion/iit-suicide-who-are-the-real-culprits-20191130-1.md"
+  },
+  {
+   "slug": "india-economic-recession-and-rahul-bajaj-s-response-20191214-4",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "ഇന്ത്യ: സാമ്പത്തിക മാന്ദ്യവും രാഹുല്‍ ബജാജിന്റെ പ്രതികരണവും",
+   "summary": "ഇന്ത്യയിലെ നിലവിലെ സാമ്പത്തിക മാന്ദ്യത്തെക്കുറിച്ചും രാഹുല്‍ ബജാജിന്റെ പ്രതികരണത്തെക്കുറിച്ചുമുള്ള വിശകലനം. രാജ്യത്തിന്റെ സാമ്പത്തിക സ്ഥിതിയെക്കുറിച്ചുള്ള വിമര്‍ശനാത്മകമായ കാഴ്ചപ്പാടുകള്‍ ഇതില്‍ പങ്കുവെക്കുന്നു.",
+   "author": "സജ്ജാദ് ബിന്‍ അബ്ദു റസാക്വ്",
+   "issue_date": "2019-12-14",
+   "html_url": "/ml/opinion/india-economic-recession-and-rahul-bajaj-s-response-20191214-4.html",
+   "md_url": "/ml/opinion/india-economic-recession-and-rahul-bajaj-s-response-20191214-4.md"
   },
   {
    "slug": "india-which-way-forward-20170325-2",
@@ -15820,6 +15886,17 @@
    "md_url": "/ml/opinion/the-victory-of-pseudo-nationalism-and-communalism-20190608-5.md"
   },
   {
+   "slug": "they-are-not-playing-with-soil-they-are-eating-it-20191214-2",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "അവര്‍ മണ്ണുവാരി കളിക്കുകയല്ല; മണ്ണ് തിന്നുകയാണ്!",
+   "summary": "കേരളത്തിലെ ദാരിദ്ര്യത്തിന്റെ നേര്‍ക്കാഴ്ചയായി തിരുവനന്തപുരത്തെ ഒരു കുടുംബത്തിന്റെ ദുരവസ്ഥയെ ഈ ലേഖനം അവതരിപ്പിക്കുന്നു. സാമൂഹികമായ അവഗണനയിലേക്കും പട്ടിണിയിലേക്കും ഇത് വിരല്‍ ചൂണ്ടുന്നു.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2019-12-14",
+   "html_url": "/ml/opinion/they-are-not-playing-with-soil-they-are-eating-it-20191214-2.html",
+   "md_url": "/ml/opinion/they-are-not-playing-with-soil-they-are-eating-it-20191214-2.md"
+  },
+  {
    "slug": "those-whose-roots-are-being-uprooted-20190914-11",
    "lang": "ml",
    "category": "opinion",
@@ -16159,6 +16236,17 @@
    "issue_date": "2019-12-07",
    "html_url": "/ml/quran/al-haqqah-the-reality-20191207-2.html",
    "md_url": "/ml/quran/al-haqqah-the-reality-20191207-2.md"
+  },
+  {
+   "slug": "al-haqqah-the-reality-20191214-3",
+   "lang": "ml",
+   "category": "quran",
+   "title": "ഹാഖ്ഖ (യഥാര്‍ഥ സംഭവം)",
+   "summary": "വിശുദ്ധ ക്വുര്‍ആനിലെ 69-ാം അധ്യായമായ ഹാഖ്ഖയുടെ ലഘുവിവരണവും ആശയങ്ങളും ഈ ഭാഗത്ത് ചര്‍ച്ച ചെയ്യുന്നു.",
+   "author": "അബ്ദുറഹ്മാന്‍ നാസിര്‍ അസ്സഅദി",
+   "issue_date": "2019-12-14",
+   "html_url": "/ml/quran/al-haqqah-the-reality-20191214-3.html",
+   "md_url": "/ml/quran/al-haqqah-the-reality-20191214-3.md"
   },
   {
    "slug": "al-haqqah-the-reality-part-2-20191130-3",
@@ -17349,6 +17437,17 @@
    "md_url": "/ml/seerah/major-events-in-the-third-year-of-hijra-20190921-5.md"
   },
   {
+   "slug": "migration-is-not-escapism-20191214-9",
+   "lang": "ml",
+   "category": "seerah",
+   "title": "പലായനം ഒളിച്ചോട്ടമല്ല",
+   "summary": "പ്രവാചകന്റെ ഹിജ്റയെക്കുറിച്ചുള്ള ചരിത്രപരമായ വിശകലനം. പലായനം എന്നത് ഒളിച്ചോട്ടമല്ല, മറിച്ച് ദൗത്യനിര്‍വഹണത്തിന്റെ ഭാഗമാണെന്ന് ലേഖനം സമര്‍ത്ഥിക്കുന്നു.",
+   "author": "അബ്ബാസ് ചെറുതുരുത്തി",
+   "issue_date": "2019-12-14",
+   "html_url": "/ml/seerah/migration-is-not-escapism-20191214-9.html",
+   "md_url": "/ml/seerah/migration-is-not-escapism-20191214-9.md"
+  },
+  {
    "slug": "mockery-and-false-allegations-prophet-muhammad-pbuh-part-11-20190223-6",
    "lang": "ml",
    "category": "seerah",
@@ -17688,6 +17787,17 @@
    "issue_date": "2019-08-24",
    "html_url": "/ml/seerah/return-with-victory-lokaguru-prophet-muhammad-part-34-20190824-10.html",
    "md_url": "/ml/seerah/return-with-victory-lokaguru-prophet-muhammad-part-34-20190824-10.md"
+  },
+  {
+   "slug": "saeed-bin-aamir-al-jumahi-ra-20191214-10",
+   "lang": "ml",
+   "category": "seerah",
+   "title": "സഈദ്ബ്‌നു ആമിര്‍ അല്‍ജുമഹി(റ)",
+   "summary": "പ്രവാചക അനുചരനായ സഈദ്ബ്‌നു ആമിര്‍ അല്‍ജുമഹിയുടെ ജീവിതവും അദ്ദേഹത്തിന്റെ ഇസ്‌ലാമിലേക്കുള്ള കടന്നുവരവും വിവരിക്കുന്ന ജീവചരിത്രക്കുറിപ്പ്.",
+   "author": "ഡോ. സി.മുഹമ്മദ് റാഫി ചെമ്പ്ര",
+   "issue_date": "2019-12-14",
+   "html_url": "/ml/seerah/saeed-bin-aamir-al-jumahi-ra-20191214-10.html",
+   "md_url": "/ml/seerah/saeed-bin-aamir-al-jumahi-ra-20191214-10.md"
   },
   {
    "slug": "steadfast-in-trials-20190308-6",
