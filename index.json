@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-01T11:31:04.509815+00:00",
+ "generated_at": "2026-09-01T11:31:31.585099+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2876,
+ "count": 2877,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -2002,6 +2002,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/bn/family/don-t-worry-allah-is-with-you-20170114-10.html",
    "md_url": "/bn/family/don-t-worry-allah-is-with-you-20170114-10.md"
+  },
+  {
+   "slug": "harassment-from-mother-in-law-20170204-3",
+   "lang": "bn",
+   "category": "family",
+   "title": "শাশুড়ির পক্ষ থেকে নির্যাতন",
+   "summary": "এই নিবন্ধটি শাশুড়ির কাছ থেকে মানসিক নির্যাতনের শিকার এক নারীর প্রশ্ন এবং তার উত্তরের ওপর ভিত্তি করে রচিত। স্বামীর পক্ষ থেকে কোনো সমাধান না পেয়ে কীভাবে তিনি মানসিক ও শারীরিক কষ্টের মধ্য দিয়ে যাচ্ছেন, তা এখানে আলোচনা করা হয়েছে। ইসলামিক দৃষ্টিকোণ থেকে এই সমস্যাটিকে কীভাবে মোকাবেলা করা যায়, নিবন্ধটিতে তা ব্যাখ্যা করা হয়েছে।",
+   "author": "ഹാരിസ്ബിൻ സലീം",
+   "issue_date": "2017-02-04",
+   "html_url": "/bn/family/harassment-from-mother-in-law-20170204-3.html",
+   "md_url": "/bn/family/harassment-from-mother-in-law-20170204-3.md"
   },
   {
    "slug": "how-to-be-a-good-parent-part-2-20170121-4",
