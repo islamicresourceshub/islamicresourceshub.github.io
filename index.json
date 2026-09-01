@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-01T08:07:27.693998+00:00",
+ "generated_at": "2026-09-01T08:11:11.624714+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2647,
+ "count": 2656,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -9957,6 +9957,17 @@
    "md_url": "/ml/aqeedah/stand-with-the-truthful-20180512-3.md"
   },
   {
+   "slug": "sunnah-the-clear-model-20191116-6",
+   "lang": "ml",
+   "category": "aqeedah",
+   "title": "സുന്നത്ത്: തെളിമയാര്‍ന്ന മാതൃക",
+   "summary": "ഇസ്‌ലാമിക ജീവിതത്തില്‍ സുന്നത്തിന്റെ പ്രാധാന്യത്തെക്കുറിച്ചുള്ള ലേഖനം. പ്രവാചക ചര്യ പിന്തുടരേണ്ടതിന്റെ അനിവാര്യതയെ ഇത് ഊന്നിപ്പറയുന്നു.",
+   "author": "സയ്യിദ് സഅ്ഫര്‍ സ്വാദിഖ്",
+   "issue_date": "2019-11-16",
+   "html_url": "/ml/aqeedah/sunnah-the-clear-model-20191116-6.html",
+   "md_url": "/ml/aqeedah/sunnah-the-clear-model-20191116-6.md"
+  },
+  {
    "slug": "tawheed-and-its-categories-20181124-9",
    "lang": "ml",
    "category": "aqeedah",
@@ -10054,6 +10065,17 @@
    "issue_date": "2019-11-02",
    "html_url": "/ml/aqeedah/those-who-promote-shirk-in-the-name-of-ahlus-sunnah-20191102-2.html",
    "md_url": "/ml/aqeedah/those-who-promote-shirk-in-the-name-of-ahlus-sunnah-20191102-2.md"
+  },
+  {
+   "slug": "those-who-revive-innovations-by-freezing-sunnahs-20191116-7",
+   "lang": "ml",
+   "category": "aqeedah",
+   "title": "സുന്നത്തുകളെ മരവിപ്പിച്ച് ബിദ്അത്തുകളെ ജീവിപ്പിക്കുന്നവര്‍",
+   "summary": "സുന്നത്തുകളെ അവഗണിച്ച് അനാചാരങ്ങളെ പ്രോത്സാഹിപ്പിക്കുന്ന പ്രവണതയെ വിമര്‍ശിക്കുന്ന ലേഖനം. വിശ്വാസപരമായ കാര്യങ്ങളില്‍ പ്രവാചക ചര്യ മാത്രം പിന്തുടരണമെന്ന് ഇത് ഓര്‍മിപ്പിക്കുന്നു.",
+   "author": "മൂസ സ്വലാഹി, കാര",
+   "issue_date": "2019-11-16",
+   "html_url": "/ml/aqeedah/those-who-revive-innovations-by-freezing-sunnahs-20191116-7.html",
+   "md_url": "/ml/aqeedah/those-who-revive-innovations-by-freezing-sunnahs-20191116-7.md"
   },
   {
    "slug": "to-whom-did-they-pray-20190112-2",
@@ -10934,6 +10956,17 @@
    "issue_date": "2017-04-01",
    "html_url": "/ml/dawah/not-to-falter-in-crises-20170401-2.html",
    "md_url": "/ml/dawah/not-to-falter-in-crises-20170401-2.md"
+  },
+  {
+   "slug": "online-discussions-and-the-caution-of-a-preacher-20191116-5",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "ഓണ്‍ലൈന്‍ ചര്‍ച്ചകളും പ്രബോധകന്റെ സൂക്ഷ്മതയും",
+   "summary": "ഓണ്‍ലൈന്‍ ചര്‍ച്ചകളില്‍ പ്രബോധകര്‍ പാലിക്കേണ്ട സൂക്ഷ്മതകളെക്കുറിച്ചുള്ള ലേഖനം. സോഷ്യല്‍ മീഡിയയിലെ ഇടപെടലുകള്‍ എങ്ങനെ നന്മയിലേക്ക് നയിക്കാമെന്ന് ഇത് വിശദീകരിക്കുന്നു.",
+   "author": "ടി.കെ.അശ്‌റഫ്",
+   "issue_date": "2019-11-16",
+   "html_url": "/ml/dawah/online-discussions-and-the-caution-of-a-preacher-20191116-5.html",
+   "md_url": "/ml/dawah/online-discussions-and-the-caution-of-a-preacher-20191116-5.md"
   },
   {
    "slug": "opening-eyes-to-the-universe-20181020-6",
@@ -11979,6 +12012,17 @@
    "issue_date": "2018-08-18",
    "html_url": "/ml/family/are-social-media-platforms-for-insulting-others-20180818-7.html",
    "md_url": "/ml/family/are-social-media-platforms-for-insulting-others-20180818-7.md"
+  },
+  {
+   "slug": "be-good-neighbors-20191116-4",
+   "lang": "ml",
+   "category": "family",
+   "title": "നന്മനിറഞ്ഞ അയല്‍ക്കാരാവുക",
+   "summary": "ഇസ്‌ലാമിക വീക്ഷണത്തില്‍ അയല്‍വാസികളോടുള്ള കടമകളെക്കുറിച്ചുള്ള ലേഖനം. നല്ല അയല്‍ക്കാരനാവേണ്ടതിന്റെ ആവശ്യകതയും അതിന്റെ ഗുണങ്ങളും വിവരിക്കുന്നു.",
+   "author": "സലാം സുറുമ എടത്തനാട്ടുകര",
+   "issue_date": "2019-11-16",
+   "html_url": "/ml/family/be-good-neighbors-20191116-4.html",
+   "md_url": "/ml/family/be-good-neighbors-20191116-4.md"
   },
   {
    "slug": "better-safe-than-sorry-20170401-11",
@@ -13257,6 +13301,17 @@
    "md_url": "/ml/hadith/three-virtues-20191026-5.md"
   },
   {
+   "slug": "what-remains-forever-20191116-2",
+   "lang": "ml",
+   "category": "hadith",
+   "title": "എന്നെന്നും ബാക്കിയാകുന്നത്",
+   "summary": "മനുഷ്യന്റെ സമ്പത്ത്, കുടുംബം, കര്‍മങ്ങള്‍ എന്നിവയെക്കുറിച്ചുള്ള പ്രവാചക വചനം ഈ ലേഖനം ചര്‍ച്ച ചെയ്യുന്നു. മരണശേഷം കൂടെയുണ്ടാകുന്ന കര്‍മങ്ങളുടെ പ്രാധാന്യത്തെക്കുറിച്ച് ഇത് ഓര്‍മിപ്പിക്കുന്നു.",
+   "author": "അബൂതന്‍വീല്‍",
+   "issue_date": "2019-11-16",
+   "html_url": "/ml/hadith/what-remains-forever-20191116-2.html",
+   "md_url": "/ml/hadith/what-remains-forever-20191116-2.md"
+  },
+  {
    "slug": "food-and-migraine-20180707-9",
    "lang": "ml",
    "category": "health",
@@ -14058,6 +14113,17 @@
    "issue_date": "2018-10-27",
    "html_url": "/ml/history/translations-of-the-sufi-sect-20181027-10.html",
    "md_url": "/ml/history/translations-of-the-sufi-sect-20181027-10.md"
+  },
+  {
+   "slug": "umarkutty-haji-a-fighter-for-reform-20191116-8",
+   "lang": "ml",
+   "category": "history",
+   "title": "ഉമര്‍കുട്ടി ഹാജി: ഉത്പതിഷ്ണുത്വത്തിന്റെ പോരാളി",
+   "summary": "കേരളത്തിലെ ഇസ്‌ലാഹി പ്രസ്ഥാനത്തിന്റെ ചരിത്രത്തില്‍ പ്രധാന പങ്കുവഹിച്ച ഉമര്‍കുട്ടി ഹാജിയുടെ ജീവിതത്തെക്കുറിച്ചുള്ള ലേഖനം. അദ്ദേഹത്തിന്റെ പ്രവര്‍ത്തനങ്ങളെ ഇത് പരിചയപ്പെടുത്തുന്നു.",
+   "author": "കെ.പി.മുഹമ്മദ്ബിന്‍ അഹ്മദ്(റഹ്)",
+   "issue_date": "2019-11-16",
+   "html_url": "/ml/history/umarkutty-haji-a-fighter-for-reform-20191116-8.html",
+   "md_url": "/ml/history/umarkutty-haji-a-fighter-for-reform-20191116-8.md"
   },
   {
    "slug": "vakkom-moulavi-and-kerala-muslim-renaissance-20180818-10",
@@ -15457,6 +15523,17 @@
    "md_url": "/ml/opinion/veer-savarkar-or-coward-savarkar-20191102-11.md"
   },
   {
+   "slug": "walayar-model-crimes-are-the-causes-being-overlooked-20191116-9",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "വാളയാര്‍ മോഡല്‍ പീഡനങ്ങള്‍: കാരണങ്ങള്‍ കാണാതെ പോകുന്നുവോ?",
+   "summary": "വാളയാര്‍ സംഭവത്തിന്റെ പശ്ചാത്തലത്തില്‍ സാമൂഹികമായ കാരണങ്ങളെ വിശകലനം ചെയ്യുന്ന ലേഖനം. കുറ്റകൃത്യങ്ങള്‍ക്കെതിരായ നിയമനടപടികളിലെ പോരായ്മകളെ ഇത് ചര്‍ച്ച ചെയ്യുന്നു.",
+   "author": "റസ്റ്റം ഉസ്മാന്‍",
+   "issue_date": "2019-11-16",
+   "html_url": "/ml/opinion/walayar-model-crimes-are-the-causes-being-overlooked-20191116-9.html",
+   "md_url": "/ml/opinion/walayar-model-crimes-are-the-causes-being-overlooked-20191116-9.md"
+  },
+  {
    "slug": "warning-signs-from-the-reconstruction-of-history-20170114-2",
    "lang": "ml",
    "category": "opinion",
@@ -15928,6 +16005,17 @@
    "issue_date": "2019-11-09",
    "html_url": "/ml/quran/ma-arij-the-ways-of-ascent-20191109-2.html",
    "md_url": "/ml/quran/ma-arij-the-ways-of-ascent-20191109-2.md"
+  },
+  {
+   "slug": "ma-arij-the-ways-of-ascent-20191116-1",
+   "lang": "ml",
+   "category": "quran",
+   "title": "മആരിജ് (കയറുന്ന വഴികള്‍)",
+   "summary": "സൂറത്തുല്‍ മആരിജിന്റെ വ്യാഖ്യാനമാണ് ഈ ലേഖനം. ഖുര്‍ആനിക വചനങ്ങളുടെ അര്‍ത്ഥവും ആശയവും ലളിതമായി വിശദീകരിക്കുന്നു.",
+   "author": "അബ്ദുറഹ്മാന്‍ നാസിര്‍ അസ്സഅദി",
+   "issue_date": "2019-11-16",
+   "html_url": "/ml/quran/ma-arij-the-ways-of-ascent-20191116-1.html",
+   "md_url": "/ml/quran/ma-arij-the-ways-of-ascent-20191116-1.md"
   },
   {
    "slug": "methodology-of-quranic-interpretation-20190706-7",
@@ -16687,6 +16775,17 @@
    "issue_date": "2018-06-16",
    "html_url": "/ml/seerah/in-the-palace-of-pharaoh-20180616-8.html",
    "md_url": "/ml/seerah/in-the-palace-of-pharaoh-20180616-8.md"
+  },
+  {
+   "slug": "instances-when-the-merciful-prophet-wept-20191116-3",
+   "lang": "ml",
+   "category": "seerah",
+   "title": "കരുണയുള്ള പ്രവാചകന്‍ കരഞ്ഞ സന്ദര്‍ഭങ്ങള്‍",
+   "summary": "പ്രവാചകന്‍ മുഹമ്മദ് നബിയുടെ ജീവിതത്തിലെ വൈകാരികമായ സന്ദര്‍ഭങ്ങളെക്കുറിച്ചുള്ള ലേഖനം. അവിടുത്തെ കാരുണ്യവും മനുഷ്യത്വവും ഇതിലൂടെ വ്യക്തമാക്കുന്നു.",
+   "author": "റിയാസ് സ്വലാഹി",
+   "issue_date": "2019-11-16",
+   "html_url": "/ml/seerah/instances-when-the-merciful-prophet-wept-20191116-3.html",
+   "md_url": "/ml/seerah/instances-when-the-merciful-prophet-wept-20191116-3.md"
   },
   {
    "slug": "isra-and-mi-raj-20190406-4",
