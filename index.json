@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-01T09:39:59.778648+00:00",
+ "generated_at": "2026-09-01T09:40:34.951405+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2811,
+ "count": 2812,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -31053,6 +31053,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/zh/seerah/prophets-and-trials-20170325-7.html",
    "md_url": "/zh/seerah/prophets-and-trials-20170325-7.md"
+  },
+  {
+   "slug": "abdullah-s-mistake-20170204-1",
+   "lang": "zh",
+   "category": "story",
+   "title": "阿卜杜拉的失误",
+   "summary": "这是一个关于一位技艺精湛的木匠阿卜杜拉的故事。他在退休前最后的一项工作中因疏忽大意而草率行事，最终却发现那座房子竟是老板送给他的退休礼物，这个故事深刻地揭示了无论何时都应保持诚实与敬业的道理。",
+   "author": "അറബി കഥ - പുനരാഖ്യാനം: അബൂ തൻവീൽ",
+   "issue_date": "2017-02-04",
+   "html_url": "/zh/story/abdullah-s-mistake-20170204-1.html",
+   "md_url": "/zh/story/abdullah-s-mistake-20170204-1.md"
   },
   {
    "slug": "good-intention-matters-most-20170325-8",
