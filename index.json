@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-01T07:37:17.432932+00:00",
+ "generated_at": "2026-09-01T07:40:16.746821+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2547,
+ "count": 2556,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -9715,6 +9715,17 @@
    "md_url": "/ml/aqeedah/ramadan-and-innovations-20180526-4.md"
   },
   {
+   "slug": "reason-a-path-of-inquiry-or-ultimate-truth-20190928-10",
+   "lang": "ml",
+   "category": "aqeedah",
+   "title": "യുക്തി: അന്വേഷണ മാര്‍ഗമോ ആത്യന്തിക സത്യമോ?",
+   "summary": "യുക്തിയെക്കുറിച്ചുള്ള ദാര്‍ശനികമായ അന്വേഷണം. യുക്തി ഒരു അന്വേഷണ മാര്‍ഗമാണോ അതോ ആത്യന്തിക സത്യമാണോ എന്ന വിഷയത്തില്‍ ഇസ്‌ലാമിക വീക്ഷണം അവതരിപ്പിക്കുന്നു.",
+   "author": "അബ്ദുല്ല ബാസില്‍ സി.പി",
+   "issue_date": "2019-09-28",
+   "html_url": "/ml/aqeedah/reason-a-path-of-inquiry-or-ultimate-truth-20190928-10.html",
+   "md_url": "/ml/aqeedah/reason-a-path-of-inquiry-or-ultimate-truth-20190928-10.md"
+  },
+  {
    "slug": "reducing-the-prophet-pbuh-to-an-ordinary-human-20180922-4",
    "lang": "ml",
    "category": "aqeedah",
@@ -10373,6 +10384,17 @@
    "issue_date": "2019-06-01",
    "html_url": "/ml/dawah/global-experiences-of-ramadan-memories-vietnam-20190601-6.html",
    "md_url": "/ml/dawah/global-experiences-of-ramadan-memories-vietnam-20190601-6.md"
+  },
+  {
+   "slug": "goal-unity-and-organization-20190928-5",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "ലക്ഷ്യം, ഐക്യം, സംഘടന",
+   "summary": "ഒരു ലക്ഷ്യത്തിലേക്ക് മുന്നേറാന്‍ ഐക്യം എത്രത്തോളം അനിവാര്യമാണെന്ന് ലേഖനം വ്യക്തമാക്കുന്നു. ലക്ഷ്യത്തെക്കുറിച്ചുള്ള അഭിപ്രായവ്യത്യാസങ്ങള്‍ നിലനിര്‍ത്തിക്കൊണ്ട് മാര്‍ഗത്തില്‍ മാത്രം ഐക്യപ്പെടുന്നത് പ്രായോഗികമല്ലെന്ന് സമര്‍ത്ഥിക്കുന്നു.",
+   "author": "ടി.കെ.അശ്‌റഫ്",
+   "issue_date": "2019-09-28",
+   "html_url": "/ml/dawah/goal-unity-and-organization-20190928-5.html",
+   "md_url": "/ml/dawah/goal-unity-and-organization-20190928-5.md"
   },
   {
    "slug": "greed-leading-to-devilish-acts-20180908-4",
@@ -11110,6 +11132,17 @@
    "issue_date": "2018-08-11",
    "html_url": "/ml/dawah/the-islamic-dimension-of-friendship-20180811-7.html",
    "md_url": "/ml/dawah/the-islamic-dimension-of-friendship-20180811-7.md"
+  },
+  {
+   "slug": "the-joys-of-coincidence-20190928-1",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "ആകസ്മികതയുടെ ആനന്ദങ്ങള്‍",
+   "summary": "ജീവിതത്തിലെ അപ്രതീക്ഷിതമായ ചില സംഭവങ്ങളെയും അത് വ്യക്തിജീവിതത്തിലുണ്ടാക്കുന്ന മാറ്റങ്ങളെയും കുറിച്ചുള്ള അനുഭവക്കുറിപ്പ്. ദൈവികമായ ഇടപെടലുകളെ തിരിച്ചറിയാന്‍ ഇത്തരം സന്ദര്‍ഭങ്ങള്‍ സഹായിക്കുന്നു.",
+   "author": "ഇബ്‌നു അലി എടത്തനാട്ടുകര",
+   "issue_date": "2019-09-28",
+   "html_url": "/ml/dawah/the-joys-of-coincidence-20190928-1.html",
+   "md_url": "/ml/dawah/the-joys-of-coincidence-20190928-1.md"
   },
   {
    "slug": "the-light-of-quran-and-the-life-of-a-believer-20190601-3",
@@ -12584,6 +12617,17 @@
    "issue_date": "2019-09-21",
    "html_url": "/ml/fiqh/scholarly-opinions-the-muslim-s-stance-20190921-8.html",
    "md_url": "/ml/fiqh/scholarly-opinions-the-muslim-s-stance-20190921-8.md"
+  },
+  {
+   "slug": "should-jumu-ah-khutbah-be-in-the-mother-tongue-20190928-4",
+   "lang": "ml",
+   "category": "fiqh",
+   "title": "ജുമുഅ ഖുത്വുബ മാതൃഭാഷയിലോ?",
+   "summary": "ജുമുഅ ഖുതുബ മാതൃഭാഷയിലാക്കുന്നതിനെക്കുറിച്ചുള്ള ഇസ്‌ലാഹി പ്രസ്ഥാനത്തിന്റെ നിലപാടുകളും ചരിത്രപരമായ പശ്ചാത്തലവും ഈ ലേഖനം പരിശോധിക്കുന്നു. ഏറനാട്ടിലെ ഇസ്‌ലാഹി പ്രസ്ഥാനത്തിന്റെ വളര്‍ച്ചയെക്കുറിച്ചുള്ള പരമ്പരയുടെ ഭാഗമാണിത്.",
+   "author": "പി.വി ഉമര്‍കുട്ടി ഹാജി (റഹി)",
+   "issue_date": "2019-09-28",
+   "html_url": "/ml/fiqh/should-jumu-ah-khutbah-be-in-the-mother-tongue-20190928-4.html",
+   "md_url": "/ml/fiqh/should-jumu-ah-khutbah-be-in-the-mother-tongue-20190928-4.md"
   },
   {
    "slug": "the-alcoholic-father-20170211-7",
@@ -15611,6 +15655,17 @@
    "md_url": "/ml/quran/tafsir-of-surah-al-inshirah-20180707-4.md"
   },
   {
+   "slug": "tafsir-of-surah-al-jinn-20190928-2",
+   "lang": "ml",
+   "category": "quran",
+   "title": "ഖുല്‍ ഊഹിയ ഇലയ്യ",
+   "summary": "ഖുര്‍ആനിലെ 72-ാം അധ്യായമായ സൂറത്തുല്‍ ജിന്നിന്റെ വിശദീകരണം. ജിന്നുകള്‍ ഖുര്‍ആന്‍ കേട്ടതിനെക്കുറിച്ചും അത് അവരിലുണ്ടാക്കിയ സ്വാധീനത്തെക്കുറിച്ചും ഈ ഭാഗം ചര്‍ച്ച ചെയ്യുന്നു.",
+   "author": "അബ്ദുറഹ്മാന്‍ നാസിര്‍ അസ്സഅദി",
+   "issue_date": "2019-09-28",
+   "html_url": "/ml/quran/tafsir-of-surah-al-jinn-20190928-2.html",
+   "md_url": "/ml/quran/tafsir-of-surah-al-jinn-20190928-2.md"
+  },
+  {
    "slug": "the-bitter-consequences-of-disobedience-20180908-1",
    "lang": "ml",
    "category": "quran",
@@ -15996,6 +16051,17 @@
    "md_url": "/ml/seerah/mockery-and-false-allegations-prophet-muhammad-pbuh-part-11-20190223-6.md"
   },
   {
+   "slug": "muslims-towards-uhud-20190928-6",
+   "lang": "ml",
+   "category": "seerah",
+   "title": "മുസ്‌ലിംകള്‍ ഉഹ്ദിലേക്ക്",
+   "summary": "ഉഹ്ദ് യുദ്ധത്തിന് മുന്നോടിയായി പ്രവാചകന്‍ മുഹമ്മദ് നബി സ്വീകരിച്ച സൈനിക നടപടികളെക്കുറിച്ചുള്ള ചരിത്രവിവരണം. വിവിധ ഗോത്രങ്ങളെ അണിനിരത്തിയതിനെക്കുറിച്ചുള്ള വിവരങ്ങള്‍ ഇതില്‍ അടങ്ങിയിരിക്കുന്നു.",
+   "author": "ഫദ്‌ലുല്‍ ഹഖ് ഉമരി",
+   "issue_date": "2019-09-28",
+   "html_url": "/ml/seerah/muslims-towards-uhud-20190928-6.html",
+   "md_url": "/ml/seerah/muslims-towards-uhud-20190928-6.md"
+  },
+  {
    "slug": "not-an-individual-but-a-movement-20180818-12",
    "lang": "ml",
    "category": "seerah",
@@ -16104,6 +16170,17 @@
    "issue_date": "2018-06-02",
    "html_url": "/ml/seerah/prophet-musa-as-in-the-valley-of-tuwa-20180602-8.html",
    "md_url": "/ml/seerah/prophet-musa-as-in-the-valley-of-tuwa-20180602-8.md"
+  },
+  {
+   "slug": "prophet-of-morality-and-justice-20190928-3",
+   "lang": "ml",
+   "category": "seerah",
+   "title": "ധാര്‍മികതയുടെ പ്രവാചകന്‍; നീതിയുടെയും",
+   "summary": "ലോകത്തിന് മാതൃകയായി നിയോഗിതനായ പ്രവാചകന്‍ മുഹമ്മദ് നബിയുടെ ധാര്‍മികവും നീതിപൂര്‍വകവുമായ ജീവിതത്തെക്കുറിച്ചുള്ള ലേഖനം. സാമൂഹിക പരിഷ്കരണത്തില്‍ പ്രവാചകന്റെ ഇടപെടലുകള്‍ എങ്ങനെയെന്ന് വിവരിക്കുന്നു.",
+   "author": "ഉസ്മാന്‍ പാലക്കാഴി",
+   "issue_date": "2019-09-28",
+   "html_url": "/ml/seerah/prophet-of-morality-and-justice-20190928-3.html",
+   "md_url": "/ml/seerah/prophet-of-morality-and-justice-20190928-3.md"
   },
   {
    "slug": "prophet-sulaiman-as-part-1-20181215-7",
@@ -16247,6 +16324,17 @@
    "issue_date": "2019-02-02",
    "html_url": "/ml/seerah/realities-realized-through-death-sulaiman-nabi-series-20190202-4.html",
    "md_url": "/ml/seerah/realities-realized-through-death-sulaiman-nabi-series-20190202-4.md"
+  },
+  {
+   "slug": "reasons-behind-criticism-of-the-prophet-20190928-8",
+   "lang": "ml",
+   "category": "seerah",
+   "title": "പ്രവാചക വിമര്‍ശനങ്ങള്‍ക്ക് പിന്നിലെ കാരണങ്ങള്‍",
+   "summary": "ലോകചരിത്രത്തില്‍ ഏറ്റവും കൂടുതല്‍ വിമര്‍ശിക്കപ്പെട്ട വ്യക്തിയായ പ്രവാചകന്‍ മുഹമ്മദ് നബിക്കെതിരെയുള്ള വിമര്‍ശനങ്ങളുടെ പിന്നിലെ കാരണങ്ങളെ വിശകലനം ചെയ്യുന്നു. തെറ്റിദ്ധാരണകളും പക്ഷപാതപരമായ സമീപനങ്ങളുമാണ് ഇതിന് കാരണമെന്ന് ലേഖനം ചൂണ്ടിക്കാട്ടുന്നു.",
+   "author": "നബീല്‍ പയ്യോളി",
+   "issue_date": "2019-09-28",
+   "html_url": "/ml/seerah/reasons-behind-criticism-of-the-prophet-20190928-8.html",
+   "md_url": "/ml/seerah/reasons-behind-criticism-of-the-prophet-20190928-8.md"
   },
   {
    "slug": "results-of-prayer-20190126-6",
@@ -16687,6 +16775,17 @@
    "issue_date": "2019-08-24",
    "html_url": "/ml/seerah/tufayl-ibn-amr-ra-20190824-8.html",
    "md_url": "/ml/seerah/tufayl-ibn-amr-ra-20190824-8.md"
+  },
+  {
+   "slug": "understanding-the-life-of-the-prophet-20190928-7",
+   "lang": "ml",
+   "category": "seerah",
+   "title": "നബിജീവിതത്തെ അടുത്തറിയുക",
+   "summary": "പ്രവാചകന്‍ മുഹമ്മദ് നബിക്കെതിരെയുള്ള വിമര്‍ശനങ്ങള്‍ ചരിത്രപരമായി എങ്ങനെയാണ് തുടങ്ങിയതെന്ന് ഈ ലേഖനം പരിശോധിക്കുന്നു. വിമര്‍ശനങ്ങളെ എങ്ങനെ നേരിടണമെന്നും പ്രവാചക ജീവിതത്തെ എങ്ങനെ മനസ്സിലാക്കണമെന്നും വിവരിക്കുന്നു.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2019-09-28",
+   "html_url": "/ml/seerah/understanding-the-life-of-the-prophet-20190928-7.html",
+   "md_url": "/ml/seerah/understanding-the-life-of-the-prophet-20190928-7.md"
   },
   {
    "slug": "wanderers-in-the-desert-musa-nabi-20-20180915-3",
