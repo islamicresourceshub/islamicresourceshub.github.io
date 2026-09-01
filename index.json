@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-01T11:37:06.072196+00:00",
+ "generated_at": "2026-09-01T11:41:41.930326+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2879,
+ "count": 2880,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -3652,6 +3652,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/en/family/don-t-worry-allah-is-with-you-20170114-10.html",
    "md_url": "/en/family/don-t-worry-allah-is-with-you-20170114-10.md"
+  },
+  {
+   "slug": "harassment-from-mother-in-law-20170204-3",
+   "lang": "en",
+   "category": "family",
+   "title": "Harassment from the Mother-in-Law",
+   "summary": "This article addresses a question from a woman facing mental harassment from her mother-in-law and receiving no support or solution from her husband. It discusses the physical and mental toll of this situation and explores how to approach this issue from an Islamic perspective, including the option of divorce.",
+   "author": "ഹാരിസ്ബിൻ സലീം",
+   "issue_date": "2017-02-04",
+   "html_url": "/en/family/harassment-from-mother-in-law-20170204-3.html",
+   "md_url": "/en/family/harassment-from-mother-in-law-20170204-3.md"
   },
   {
    "slug": "how-to-be-a-good-parent-part-2-20170121-4",
