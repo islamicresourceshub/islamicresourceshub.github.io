@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-01T07:30:18.078306+00:00",
+ "generated_at": "2026-09-01T07:30:43.686773+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2529,
+ "count": 2530,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -9229,6 +9229,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/ko/story/laws-are-to-be-followed-20170128-5.html",
    "md_url": "/ko/story/laws-are-to-be-followed-20170128-5.md"
+  },
+  {
+   "slug": "sugar-like-gold-dust-20170128-11",
+   "lang": "ko",
+   "category": "story",
+   "title": "금가루 같은 설탕",
+   "summary": "금가루와 설탕 알갱이를 통해 소상공인들의 삶 속에 숨겨진 이야기를 전합니다. 음식을 낭비하는 우리들의 일상을 되돌아보고, 절약의 소중함과 나눔의 가치를 일깨워주는 글입니다.",
+   "author": "ഇബ്‌നു അലി എടത്തനാട്ടുകര",
+   "issue_date": "2017-01-28",
+   "html_url": "/ko/story/sugar-like-gold-dust-20170128-11.html",
+   "md_url": "/ko/story/sugar-like-gold-dust-20170128-11.md"
   },
   {
    "slug": "the-currency-that-was-not-accepted-20170114-3",
