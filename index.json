@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-01T09:47:10.335031+00:00",
+ "generated_at": "2026-09-01T09:47:36.418160+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2826,
+ "count": 2827,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -7733,6 +7733,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/it/aqeedah/faith-is-the-foundation-of-islam-20170128-13.html",
    "md_url": "/it/aqeedah/faith-is-the-foundation-of-islam-20170128-13.md"
+  },
+  {
+   "slug": "they-want-to-see-god-20170204-2",
+   "lang": "it",
+   "category": "aqeedah",
+   "title": "Dicono di voler vedere Dio!",
+   "summary": "Un articolo che analizza la pretesa di chi rifiuta l'esistenza di Dio perché non scientificamente dimostrabile. Il testo esplora i limiti della scienza, il rapporto tra fede e ragione e l'incoerenza di chi nega ciò che trascende la materia pur non comprendendo appieno l'universo fisico.",
+   "author": "അബ്ദുല്ല ബാസിൽ സി.പി",
+   "issue_date": "2017-02-04",
+   "html_url": "/it/aqeedah/they-want-to-see-god-20170204-2.html",
+   "md_url": "/it/aqeedah/they-want-to-see-god-20170204-2.md"
   },
   {
    "slug": "do-not-waver-in-trials-20170121-9",
