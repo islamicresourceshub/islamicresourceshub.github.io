@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-01T09:11:06.546590+00:00",
+ "generated_at": "2026-09-01T09:11:45.827249+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2742,
+ "count": 2743,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -24849,6 +24849,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/sq/aqeedah/become-the-guardian-of-the-sources-20170128-9.html",
    "md_url": "/sq/aqeedah/become-the-guardian-of-the-sources-20170128-9.md"
+  },
+  {
+   "slug": "faith-is-the-foundation-of-islam-20170128-13",
+   "lang": "sq",
+   "category": "aqeedah",
+   "title": "Besimi është themeli i Islamit",
+   "summary": "Një studim themelor mbi besimin në Islam. Shpjegohet parimi se çdo vepër ka si bazë një besim të palëkundur.",
+   "author": "മൂസ സ്വലാഹി കാര",
+   "issue_date": "2017-01-28",
+   "html_url": "/sq/aqeedah/faith-is-the-foundation-of-islam-20170128-13.html",
+   "md_url": "/sq/aqeedah/faith-is-the-foundation-of-islam-20170128-13.md"
   },
   {
    "slug": "do-not-waver-in-trials-20170121-9",
