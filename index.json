@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-01T08:23:38.433920+00:00",
+ "generated_at": "2026-09-01T08:24:19.812133+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2686,
+ "count": 2687,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -19173,6 +19173,17 @@
    "issue_date": "2018-06-16",
    "html_url": "/ml/youth/when-bidding-farewell-to-the-holy-month-20180616-9.html",
    "md_url": "/ml/youth/when-bidding-farewell-to-the-holy-month-20180616-9.md"
+  },
+  {
+   "slug": "faith-is-the-foundation-of-islam-20170128-13",
+   "lang": "mr",
+   "category": "aqeedah",
+   "title": "विश्वास: इस्लामचा पाया",
+   "summary": "इस्लाममधील विश्वासाचा मूलभूत अभ्यास. कोणत्याही कर्माचा पाया हा दृढ विश्वास असतो, हे तत्त्व यात स्पष्ट केले आहे.",
+   "author": "മൂസ സ്വലാഹി കാര",
+   "issue_date": "2017-01-28",
+   "html_url": "/mr/aqeedah/faith-is-the-foundation-of-islam-20170128-13.html",
+   "md_url": "/mr/aqeedah/faith-is-the-foundation-of-islam-20170128-13.md"
   },
   {
    "slug": "do-not-waver-in-trials-20170121-9",
