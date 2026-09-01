@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-01T11:52:22.319946+00:00",
+ "generated_at": "2026-09-01T11:55:25.027100+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2882,
+ "count": 2883,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -5280,6 +5280,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/fr/family/don-t-worry-allah-is-with-you-20170114-10.html",
    "md_url": "/fr/family/don-t-worry-allah-is-with-you-20170114-10.md"
+  },
+  {
+   "slug": "harassment-from-mother-in-law-20170204-3",
+   "lang": "fr",
+   "category": "family",
+   "title": "Maltraitance de la part de la belle-mère",
+   "summary": "Cet article présente la question d'une femme souffrant de harcèlement psychologique de la part de sa belle-mère, ainsi que la réponse apportée. Il aborde les difficultés physiques et mentales rencontrées lorsque le mari n'apporte pas de solution, et explique comment aborder ce problème selon la perspective islamique.",
+   "author": "ഹാരിസ്ബിൻ സലീം",
+   "issue_date": "2017-02-04",
+   "html_url": "/fr/family/harassment-from-mother-in-law-20170204-3.html",
+   "md_url": "/fr/family/harassment-from-mother-in-law-20170204-3.md"
   },
   {
    "slug": "how-to-be-a-good-parent-part-2-20170121-4",
