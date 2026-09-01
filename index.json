@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-01T09:30:24.368549+00:00",
+ "generated_at": "2026-09-01T09:30:47.588278+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2791,
+ "count": 2792,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -25168,6 +25168,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/so/seerah/prophets-and-trials-20170325-7.html",
    "md_url": "/so/seerah/prophets-and-trials-20170325-7.md"
+  },
+  {
+   "slug": "abdullah-s-mistake-20170204-1",
+   "lang": "so",
+   "category": "story",
+   "title": "Khaladkii Cabdullaahi",
+   "summary": "Sheekadani waxay ku saabsan tahay nijaar khabiir ah oo lagu magacaabo Cabdullaahi, kaas oo sameeyay qalad weyn markii uu gudanayay shaqadiisii ugu dambaysay ee uu u qabanayay madaxdiisa. Sheekadu waxay ina baraysaa muhiimadda ay leedahay in qofku uu shaqadiisa u qabto si daacadnimo iyo taxadar leh mar walba.",
+   "author": "അറബി കഥ - പുനരാഖ്യാനം: അബൂ തൻവീൽ",
+   "issue_date": "2017-02-04",
+   "html_url": "/so/story/abdullah-s-mistake-20170204-1.html",
+   "md_url": "/so/story/abdullah-s-mistake-20170204-1.md"
   },
   {
    "slug": "good-intention-matters-most-20170325-8",
