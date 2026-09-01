@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-01T07:45:17.534833+00:00",
+ "generated_at": "2026-09-01T07:45:43.558694+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2571,
+ "count": 2572,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -23529,6 +23529,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/sq/story/laws-are-to-be-followed-20170128-5.html",
    "md_url": "/sq/story/laws-are-to-be-followed-20170128-5.md"
+  },
+  {
+   "slug": "sugar-like-gold-dust-20170128-11",
+   "lang": "sq",
+   "category": "story",
+   "title": "Sheqer si kokrra ari",
+   "summary": "Një rrëfim që fillon me kokrra ari dhe kokrra sheqeri, duke ndarë misteret dhe vështirësitë e jetës së tregtarëve të vegjël dhe familjeve në nevojë. Një reflektim mbi vlerën e ushqimit dhe pasojat e shpërdorimit.",
+   "author": "ഇബ്‌നു അലി എടത്തനാട്ടുകര",
+   "issue_date": "2017-01-28",
+   "html_url": "/sq/story/sugar-like-gold-dust-20170128-11.html",
+   "md_url": "/sq/story/sugar-like-gold-dust-20170128-11.md"
   },
   {
    "slug": "the-currency-that-was-not-accepted-20170114-3",
