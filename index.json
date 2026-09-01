@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-01T09:19:31.185043+00:00",
+ "generated_at": "2026-09-01T09:19:51.773763+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2756,
+ "count": 2757,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -2211,6 +2211,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/bn/seerah/prophets-and-trials-20170325-7.html",
    "md_url": "/bn/seerah/prophets-and-trials-20170325-7.md"
+  },
+  {
+   "slug": "abdullah-s-mistake-20170204-1",
+   "lang": "bn",
+   "category": "story",
+   "title": "আব্দুল্লাহর ভুল",
+   "summary": "এক গ্রামে আব্দুল্লাহ নামে এক দক্ষ কাঠমিস্ত্রি ছিল। এক মালিকের অধীনে কাজ করা আব্দুল্লাহর জীবনের শেষ কাজের সময় হওয়া একটি ভুলের গল্প এটি। এই গল্পটি আমাদের জীবনে সততা ও নিষ্ঠার গুরুত্ব সম্পর্কে একটি শিক্ষা দেয়।",
+   "author": "അറബി കഥ - പുനരാഖ്യാനം: അബൂ തൻവീൽ",
+   "issue_date": "2017-02-04",
+   "html_url": "/bn/story/abdullah-s-mistake-20170204-1.html",
+   "md_url": "/bn/story/abdullah-s-mistake-20170204-1.md"
   },
   {
    "slug": "good-intention-matters-most-20170325-8",
