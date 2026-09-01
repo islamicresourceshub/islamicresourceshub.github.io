@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-01T07:46:08.610046+00:00",
+ "generated_at": "2026-09-01T07:46:42.638324+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2573,
+ "count": 2574,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -24530,6 +24530,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/ta/story/laws-are-to-be-followed-20170128-5.html",
    "md_url": "/ta/story/laws-are-to-be-followed-20170128-5.md"
+  },
+  {
+   "slug": "sugar-like-gold-dust-20170128-11",
+   "lang": "ta",
+   "category": "story",
+   "title": "தங்கத் துகள்களைப் போன்ற சர்க்கரை",
+   "summary": "தங்கத் துகள்களும் சர்க்கரைத் துகள்களும் தொடங்கும் ஒரு கதை. சிறு வியாபாரிகளின் வாழ்க்கையில் உள்ள மர்மங்களையும், உணவு வீணாக்கப்படுவதன் அவலத்தையும் இது பகிர்ந்து கொள்கிறது.",
+   "author": "ഇബ്‌നു അലി എടത്തനാട്ടുകര",
+   "issue_date": "2017-01-28",
+   "html_url": "/ta/story/sugar-like-gold-dust-20170128-11.html",
+   "md_url": "/ta/story/sugar-like-gold-dust-20170128-11.md"
   },
   {
    "slug": "the-currency-that-was-not-accepted-20170114-3",
