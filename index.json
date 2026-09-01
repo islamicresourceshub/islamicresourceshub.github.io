@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-01T07:03:04.281588+00:00",
+ "generated_at": "2026-09-01T07:03:23.594205+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2476,
+ "count": 2477,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -2167,6 +2167,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/bn/story/laws-are-to-be-followed-20170128-5.html",
    "md_url": "/bn/story/laws-are-to-be-followed-20170128-5.md"
+  },
+  {
+   "slug": "sugar-like-gold-dust-20170128-11",
+   "lang": "bn",
+   "category": "story",
+   "title": "সোনার দানার মতো চিনির দানা",
+   "summary": "সোনার দানা এবং চিনির দানার উপমায় শুরু হওয়া এই গল্পটি ছোট ব্যবসায়ীদের জীবনের গভীর রহস্য এবং দারিদ্র্যের বাস্তবতাকে তুলে ধরে। এটি আমাদের অপচয় রোধ করার এবং অভাবী মানুষের প্রতি সহানুভূতিশীল হওয়ার শিক্ষা দেয়।",
+   "author": "ഇബ്‌നു അലി എടത്തനാട്ടുകര",
+   "issue_date": "2017-01-28",
+   "html_url": "/bn/story/sugar-like-gold-dust-20170128-11.html",
+   "md_url": "/bn/story/sugar-like-gold-dust-20170128-11.md"
   },
   {
    "slug": "the-currency-that-was-not-accepted-20170114-3",
