@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-01T09:12:59.388090+00:00",
+ "generated_at": "2026-09-01T09:13:34.653386+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2745,
+ "count": 2746,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -26389,6 +26389,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/te/aqeedah/become-the-guardian-of-the-sources-20170128-9.html",
    "md_url": "/te/aqeedah/become-the-guardian-of-the-sources-20170128-9.md"
+  },
+  {
+   "slug": "faith-is-the-foundation-of-islam-20170128-13",
+   "lang": "te",
+   "category": "aqeedah",
+   "title": "విశ్వాసం ఇస్లాం యొక్క పునాది",
+   "summary": "ఇస్లాంలో విశ్వాసం యొక్క ప్రాథమిక పాఠాలు మరియు ఏ సత్కర్మకైనా దృఢమైన విశ్వాసమే పునాది అనే సత్యాన్ని ఈ వ్యాసం వివరిస్తుంది.",
+   "author": "മൂസ സ്വലാഹി കാര",
+   "issue_date": "2017-01-28",
+   "html_url": "/te/aqeedah/faith-is-the-foundation-of-islam-20170128-13.html",
+   "md_url": "/te/aqeedah/faith-is-the-foundation-of-islam-20170128-13.md"
   },
   {
    "slug": "do-not-waver-in-trials-20170121-9",
