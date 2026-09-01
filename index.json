@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-01T07:19:42.976187+00:00",
+ "generated_at": "2026-09-01T07:20:58.514793+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2500,
+ "count": 2501,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -4686,6 +4686,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/fa/story/laws-are-to-be-followed-20170128-5.html",
    "md_url": "/fa/story/laws-are-to-be-followed-20170128-5.md"
+  },
+  {
+   "slug": "sugar-like-gold-dust-20170128-11",
+   "lang": "fa",
+   "category": "story",
+   "title": "دانه‌های شکر همچون ذرات طلا",
+   "summary": "روایتی از زندگی یک خانواده تنگدست که ارزش دانه‌های شکر را همچون طلا می‌دانند و تأملی بر اسراف در جامعه امروز.",
+   "author": "ഇബ്‌നു അലി എടത്തനാട്ടുകര",
+   "issue_date": "2017-01-28",
+   "html_url": "/fa/story/sugar-like-gold-dust-20170128-11.html",
+   "md_url": "/fa/story/sugar-like-gold-dust-20170128-11.md"
   },
   {
    "slug": "the-currency-that-was-not-accepted-20170114-3",
