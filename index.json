@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-01T09:46:42.583269+00:00",
+ "generated_at": "2026-09-01T09:47:10.335031+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2825,
+ "count": 2826,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -7194,6 +7194,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/id/aqeedah/faith-is-the-foundation-of-islam-20170128-13.html",
    "md_url": "/id/aqeedah/faith-is-the-foundation-of-islam-20170128-13.md"
+  },
+  {
+   "slug": "they-want-to-see-god-20170204-2",
+   "lang": "id",
+   "category": "aqeedah",
+   "title": "Mereka Ingin Melihat Tuhan!",
+   "summary": "Artikel ini membahas argumen mereka yang menolak keberadaan Tuhan karena tidak dapat dibuktikan secara ilmiah. Tulisan ini menganalisis keterbatasan sains dalam memahami realitas fisik dan mengapa menuntut bukti visual untuk Tuhan adalah sebuah kekeliruan logika.",
+   "author": "അബ്ദുല്ല ബാസിൽ സി.പി",
+   "issue_date": "2017-02-04",
+   "html_url": "/id/aqeedah/they-want-to-see-god-20170204-2.html",
+   "md_url": "/id/aqeedah/they-want-to-see-god-20170204-2.md"
   },
   {
    "slug": "do-not-waver-in-trials-20170121-9",
