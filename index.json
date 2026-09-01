@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-01T10:00:45.251187+00:00",
+ "generated_at": "2026-09-01T10:08:14.591089+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2845,
+ "count": 2846,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -22066,6 +22066,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/or/aqeedah/faith-is-the-foundation-of-islam-20170128-13.html",
    "md_url": "/or/aqeedah/faith-is-the-foundation-of-islam-20170128-13.md"
+  },
+  {
+   "slug": "they-want-to-see-god-20170204-2",
+   "lang": "or",
+   "category": "aqeedah",
+   "title": "ସେମାନେ ଭଗବାନଙ୍କୁ ଦେଖିବାକୁ ଚାହାଁନ୍ତି!",
+   "summary": "ଯେଉଁମାନେ ବୈଜ୍ଞାନିକ ଭାବରେ ପ୍ରମାଣିତ ନୁହେଁ ତାହାକୁ ଗ୍ରହଣ କରନ୍ତି ନାହିଁ, ସେମାନେ ଭଗବାନଙ୍କୁ ଦେଖିବାକୁ ଦାବି କରୁଥିବା ବିଷୟରେ ଏକ ଆଲୋଚନା। ଏହା ବିଶ୍ୱାସ ଏବଂ ବିଜ୍ଞାନ ମଧ୍ୟରେ ସମ୍ପର୍କ ଏବଂ ଭଗବାନଙ୍କ ଅସ୍ତିତ୍ୱକୁ ଆଲୋଚନା କରେ। ଏହି ଆଲୋଚନା ଭଗବାନଙ୍କୁ ଦେଖିବାକୁ ଦାବିର ବିଶ୍ଳେଷଣ କରେ।",
+   "author": "അബ്ദുല്ല ബാസിൽ സി.പി",
+   "issue_date": "2017-02-04",
+   "html_url": "/or/aqeedah/they-want-to-see-god-20170204-2.html",
+   "md_url": "/or/aqeedah/they-want-to-see-god-20170204-2.md"
   },
   {
    "slug": "do-not-waver-in-trials-20170121-9",
