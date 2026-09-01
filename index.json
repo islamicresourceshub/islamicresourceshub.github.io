@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-01T09:27:08.298879+00:00",
+ "generated_at": "2026-09-01T09:27:35.906775+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2784,
+ "count": 2785,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -21483,6 +21483,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/ne/seerah/prophets-and-trials-20170325-7.html",
    "md_url": "/ne/seerah/prophets-and-trials-20170325-7.md"
+  },
+  {
+   "slug": "abdullah-s-mistake-20170204-1",
+   "lang": "ne",
+   "category": "story",
+   "title": "अब्दुल्लाको गल्ती",
+   "summary": "यो कथा एक कुशल सिकर्मी अब्दुल्लाको हो, जसले आफ्नो सेवा निवृत्त हुनुअघिको अन्तिम काममा लापरवाही गर्दा ठूलो अवसर गुमाउँछ। यस कथाले हामीलाई जीवनका हरेक काममा इमानदारी र लगनशीलता अपनाउनुपर्ने शिक्षा दिन्छ।",
+   "author": "അറബി കഥ - പുനരാഖ്യാനം: അബൂ തൻവീൽ",
+   "issue_date": "2017-02-04",
+   "html_url": "/ne/story/abdullah-s-mistake-20170204-1.html",
+   "md_url": "/ne/story/abdullah-s-mistake-20170204-1.md"
   },
   {
    "slug": "good-intention-matters-most-20170325-8",
