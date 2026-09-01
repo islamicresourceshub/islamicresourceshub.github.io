@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-01T09:42:14.096724+00:00",
+ "generated_at": "2026-09-01T09:42:44.314099+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2815,
+ "count": 2816,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -1837,6 +1837,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/bn/aqeedah/faith-is-the-foundation-of-islam-20170128-13.html",
    "md_url": "/bn/aqeedah/faith-is-the-foundation-of-islam-20170128-13.md"
+  },
+  {
+   "slug": "they-want-to-see-god-20170204-2",
+   "lang": "bn",
+   "category": "aqeedah",
+   "title": "তারা নাকি ঈশ্বরকে দেখতে চান!",
+   "summary": "যারা বৈজ্ঞানিক প্রমাণ ছাড়া কোনো কিছু স্বীকার করতে রাজি নন, তাদের ঈশ্বরকে দেখার দাবি নিয়ে এই নিবন্ধটি আলোচনা করে। এটি বিশ্বাস ও বিজ্ঞানের মধ্যকার সম্পর্ক এবং ঈশ্বরের অস্তিত্ব নিয়ে আলোকপাত করে ঈশ্বরকে দেখার দাবিটির যৌক্তিকতা বিশ্লেষণ করে।",
+   "author": "അബ്ദുല്ല ബാസിൽ സി.പി",
+   "issue_date": "2017-02-04",
+   "html_url": "/bn/aqeedah/they-want-to-see-god-20170204-2.html",
+   "md_url": "/bn/aqeedah/they-want-to-see-god-20170204-2.md"
   },
   {
    "slug": "do-not-waver-in-trials-20170121-9",
