@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-01T09:22:36.980708+00:00",
+ "generated_at": "2026-09-01T09:23:04.104930+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2774,
+ "count": 2775,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -5885,6 +5885,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/gu/seerah/prophets-and-trials-20170325-7.html",
    "md_url": "/gu/seerah/prophets-and-trials-20170325-7.md"
+  },
+  {
+   "slug": "abdullah-s-mistake-20170204-1",
+   "lang": "gu",
+   "category": "story",
+   "title": "અબ્દુલ્લાની ભૂલ",
+   "summary": "ઘણા સમય પહેલા એક ગામમાં અબ્દુલ્લા નામનો એક કુશળ સુથાર રહેતો હતો. એક માલિકના હાથ નીચે કામ કરતા અબ્દુલ્લાએ પોતાની નિવૃત્તિ પહેલા કરેલી એક ભૂલ વિશેની આ વાર્તા છે, જે આપણને જીવનનો એક મહત્વપૂર્ણ પાઠ શીખવે છે.",
+   "author": "അറബി കഥ - പുനരാഖ്യാനം: അബൂ തൻവീൽ",
+   "issue_date": "2017-02-04",
+   "html_url": "/gu/story/abdullah-s-mistake-20170204-1.html",
+   "md_url": "/gu/story/abdullah-s-mistake-20170204-1.md"
   },
   {
    "slug": "good-intention-matters-most-20170325-8",
