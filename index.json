@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-01T09:32:28.866128+00:00",
+ "generated_at": "2026-09-01T09:32:47.864601+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2795,
+ "count": 2796,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -27258,6 +27258,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/te/seerah/prophets-and-trials-20170325-7.html",
    "md_url": "/te/seerah/prophets-and-trials-20170325-7.md"
+  },
+  {
+   "slug": "abdullah-s-mistake-20170204-1",
+   "lang": "te",
+   "category": "story",
+   "title": "అబ్దుల్లా చేసిన పొరపాటు",
+   "summary": "ఒక గ్రామంలో నివసించే అబ్దుల్లా అనే నైపుణ్యం కలిగిన వడ్రంగి తన చివరి పనిలో చూపిన అశ్రద్ధ వల్ల ఎలా నష్టపోయాడో ఈ కథ వివరిస్తుంది. మన పనులన్నింటిలోనూ చిత్తశుద్ధి ఉండాలని ఈ కథ మనకు ఒక గొప్ప పాఠాన్ని నేర్పుతుంది.",
+   "author": "അറബി കഥ - പുനരാഖ്യാനം: അബൂ തൻവീൽ",
+   "issue_date": "2017-02-04",
+   "html_url": "/te/story/abdullah-s-mistake-20170204-1.html",
+   "md_url": "/te/story/abdullah-s-mistake-20170204-1.md"
   },
   {
    "slug": "good-intention-matters-most-20170325-8",
