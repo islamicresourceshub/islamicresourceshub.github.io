@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-01T03:35:39.676253+00:00",
+ "generated_at": "2026-09-01T03:37:03.215519+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2454,
+ "count": 2455,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -671,6 +671,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/am/story/laws-are-to-be-followed-20170128-5.html",
    "md_url": "/am/story/laws-are-to-be-followed-20170128-5.md"
+  },
+  {
+   "slug": "sugar-like-gold-dust-20170128-11",
+   "lang": "am",
+   "category": "story",
+   "title": "እንደ ወርቅ ብናኝ የከበረው ስኳር",
+   "summary": "በወርቅና በስኳር ብናኞች የሚጀምር ታሪክ። በችግር ውስጥ የሚኖሩ ምስኪን ሰዎችን የሕይወት ውጣ ውረድና እውነታዎች ያጋራል።",
+   "author": "ഇബ്‌നു അലി എടത്തനാട്ടുകര",
+   "issue_date": "2017-01-28",
+   "html_url": "/am/story/sugar-like-gold-dust-20170128-11.html",
+   "md_url": "/am/story/sugar-like-gold-dust-20170128-11.md"
   },
   {
    "slug": "the-currency-that-was-not-accepted-20170114-3",
