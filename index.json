@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-01T07:40:31.871846+00:00",
+ "generated_at": "2026-09-01T07:40:54.981994+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2557,
+ "count": 2558,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -21395,6 +21395,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/pt/story/laws-are-to-be-followed-20170128-5.html",
    "md_url": "/pt/story/laws-are-to-be-followed-20170128-5.md"
+  },
+  {
+   "slug": "sugar-like-gold-dust-20170128-11",
+   "lang": "pt",
+   "category": "story",
+   "title": "Açúcar como grãos de ouro",
+   "summary": "Uma narrativa que começa com grãos de ouro e açúcar, revelando as dificuldades e a dignidade na vida de famílias humildes. O texto reflete sobre o desperdício de alimentos e a importância da gratidão e da moderação.",
+   "author": "ഇബ്‌നു അലി എടത്തനാട്ടുകര",
+   "issue_date": "2017-01-28",
+   "html_url": "/pt/story/sugar-like-gold-dust-20170128-11.html",
+   "md_url": "/pt/story/sugar-like-gold-dust-20170128-11.md"
   },
   {
    "slug": "the-currency-that-was-not-accepted-20170114-3",
