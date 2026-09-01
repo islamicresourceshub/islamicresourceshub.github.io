@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-01T09:20:50.435671+00:00",
+ "generated_at": "2026-09-01T09:21:15.508548+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2759,
+ "count": 2760,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -3784,6 +3784,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/en/seerah/prophets-and-trials-20170325-7.html",
    "md_url": "/en/seerah/prophets-and-trials-20170325-7.md"
+  },
+  {
+   "slug": "abdullah-s-mistake-20170204-1",
+   "lang": "en",
+   "category": "story",
+   "title": "Abdullah's Mistake",
+   "summary": "Once there was a skilled carpenter named Abdullah who worked for a wealthy employer. This story recounts a mistake he made toward the end of his career and the valuable lesson he learned from it.",
+   "author": "അറബി കഥ - പുനരാഖ്യാനം: അബൂ തൻവീൽ",
+   "issue_date": "2017-02-04",
+   "html_url": "/en/story/abdullah-s-mistake-20170204-1.html",
+   "md_url": "/en/story/abdullah-s-mistake-20170204-1.md"
   },
   {
    "slug": "good-intention-matters-most-20170325-8",
