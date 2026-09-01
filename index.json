@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-01T09:26:12.470024+00:00",
+ "generated_at": "2026-09-01T09:26:44.371640+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2782,
+ "count": 2783,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -20427,6 +20427,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/mr/seerah/prophets-and-trials-20170325-7.html",
    "md_url": "/mr/seerah/prophets-and-trials-20170325-7.md"
+  },
+  {
+   "slug": "abdullah-s-mistake-20170204-1",
+   "lang": "mr",
+   "category": "story",
+   "title": "अब्दुल्लाची चूक",
+   "summary": "एका गावात अब्दुल्ला नावाचा एक कुशल सुतार राहत होता. निवृत्त होण्यापूर्वी त्याने केलेल्या शेवटच्या कामात दाखवलेल्या निष्काळजीपणामुळे त्याला एक मोठा धडा मिळाला. या कथेतून आपण आपल्या आयुष्यातील प्रत्येक कामात प्रामाणिकपणा राखण्याचे महत्त्व शिकतो.",
+   "author": "അറബി കഥ - പുനരാഖ്യാനം: അബൂ തൻവീൽ",
+   "issue_date": "2017-02-04",
+   "html_url": "/mr/story/abdullah-s-mistake-20170204-1.html",
+   "md_url": "/mr/story/abdullah-s-mistake-20170204-1.md"
   },
   {
    "slug": "good-intention-matters-most-20170325-8",
