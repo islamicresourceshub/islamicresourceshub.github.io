@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-01T09:49:01.964382+00:00",
+ "generated_at": "2026-09-01T09:50:57.587747+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2829,
+ "count": 2830,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -9350,6 +9350,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/ko/aqeedah/faith-is-the-foundation-of-islam-20170128-13.html",
    "md_url": "/ko/aqeedah/faith-is-the-foundation-of-islam-20170128-13.md"
+  },
+  {
+   "slug": "they-want-to-see-god-20170204-2",
+   "lang": "ko",
+   "category": "aqeedah",
+   "title": "그들은 신을 보고 싶어 한다!",
+   "summary": "과학적으로 증명되지 않은 것은 인정하지 않는 일부 사람들이 신을 보고 싶어 한다고 주장하는 것에 대한 글입니다. 이 글은 신앙과 과학의 관계, 그리고 신의 존재를 논합니다. 신을 보고 싶어 하는 주장을 분석합니다.",
+   "author": "അബ്ദുല്ല ബാസിൽ സി.പി",
+   "issue_date": "2017-02-04",
+   "html_url": "/ko/aqeedah/they-want-to-see-god-20170204-2.html",
+   "md_url": "/ko/aqeedah/they-want-to-see-god-20170204-2.md"
   },
   {
    "slug": "do-not-waver-in-trials-20170121-9",
