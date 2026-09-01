@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-01T07:06:27.153330+00:00",
+ "generated_at": "2026-09-01T07:07:39.527105+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2479,
+ "count": 2480,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -3674,6 +3674,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/en/story/laws-are-to-be-followed-20170128-5.html",
    "md_url": "/en/story/laws-are-to-be-followed-20170128-5.md"
+  },
+  {
+   "slug": "sugar-like-gold-dust-20170128-11",
+   "lang": "en",
+   "category": "story",
+   "title": "Sugar Like Gold Dust",
+   "summary": "This narrative begins with gold dust and sugar grains, sharing the hidden realities of the lives of small traders and the value of every single grain.",
+   "author": "ഇബ്‌നു അലി എടത്തനാട്ടുകര",
+   "issue_date": "2017-01-28",
+   "html_url": "/en/story/sugar-like-gold-dust-20170128-11.html",
+   "md_url": "/en/story/sugar-like-gold-dust-20170128-11.md"
   },
   {
    "slug": "the-currency-that-was-not-accepted-20170114-3",
