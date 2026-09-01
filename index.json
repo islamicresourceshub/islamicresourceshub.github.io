@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-01T07:35:05.140222+00:00",
+ "generated_at": "2026-09-01T07:36:17.689838+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2544,
+ "count": 2545,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -19272,6 +19272,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/ne/story/laws-are-to-be-followed-20170128-5.html",
    "md_url": "/ne/story/laws-are-to-be-followed-20170128-5.md"
+  },
+  {
+   "slug": "sugar-like-gold-dust-20170128-11",
+   "lang": "ne",
+   "category": "story",
+   "title": "सुनको कणजस्तै चिनी",
+   "summary": "सुनका कण र चिनीका दानाहरूबाट सुरु हुने यो कथा साना व्यापारीहरूको जीवनका रहस्यहरू र गरिबीको मार्मिक यथार्थलाई उजागर गर्दछ। यो लेख हामीले खेर फाल्ने खाद्य पदार्थ र त्यसको महत्त्वबारे सचेत गराउँछ।",
+   "author": "ഇബ്‌നു അലി എടത്തനാട്ടുകര",
+   "issue_date": "2017-01-28",
+   "html_url": "/ne/story/sugar-like-gold-dust-20170128-11.html",
+   "md_url": "/ne/story/sugar-like-gold-dust-20170128-11.md"
   },
   {
    "slug": "the-currency-that-was-not-accepted-20170114-3",
