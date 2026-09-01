@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-01T09:20:26.078295+00:00",
+ "generated_at": "2026-09-01T09:20:50.435671+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2758,
+ "count": 2759,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -3267,6 +3267,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/de/seerah/prophets-and-trials-20170325-7.html",
    "md_url": "/de/seerah/prophets-and-trials-20170325-7.md"
+  },
+  {
+   "slug": "abdullah-s-mistake-20170204-1",
+   "lang": "de",
+   "category": "story",
+   "title": "Abdullahs Fehler",
+   "summary": "Dies ist die Geschichte eines erfahrenen Tischlers namens Abdullah, der für seinen Arbeitgeber ein letztes Haus baute. Durch seine Nachlässigkeit bei diesem letzten Auftrag lernt er eine wertvolle Lektion über Aufrichtigkeit und Sorgfalt im Leben.",
+   "author": "അറബി കഥ - പുനരാഖ്യാനം: അബൂ തൻവീൽ",
+   "issue_date": "2017-02-04",
+   "html_url": "/de/story/abdullah-s-mistake-20170204-1.html",
+   "md_url": "/de/story/abdullah-s-mistake-20170204-1.md"
   },
   {
    "slug": "good-intention-matters-most-20170325-8",
