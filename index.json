@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-01T09:23:25.712279+00:00",
+ "generated_at": "2026-09-01T09:23:49.939776+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2776,
+ "count": 2777,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -6930,6 +6930,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/hi/seerah/prophets-and-trials-20170325-7.html",
    "md_url": "/hi/seerah/prophets-and-trials-20170325-7.md"
+  },
+  {
+   "slug": "abdullah-s-mistake-20170204-1",
+   "lang": "hi",
+   "category": "story",
+   "title": "अब्दुल्ला की एक भूल",
+   "summary": "यह एक कुशल बढ़ई अब्दुल्ला की कहानी है, जो अपने काम से सेवानिवृत्त होने से पहले एक आखिरी घर बनाने में लापरवाही बरतता है। अंत में उसे पता चलता है कि वह घर उसी का उपहार था, जो उसे जीवन में हर काम पूरी ईमानदारी और निष्ठा से करने का सबक सिखाता है।",
+   "author": "അറബി കഥ - പുനരാഖ്യാനം: അബൂ തൻവീൽ",
+   "issue_date": "2017-02-04",
+   "html_url": "/hi/story/abdullah-s-mistake-20170204-1.html",
+   "md_url": "/hi/story/abdullah-s-mistake-20170204-1.md"
   },
   {
    "slug": "good-intention-matters-most-20170325-8",
