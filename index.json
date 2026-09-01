@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-01T07:25:40.392826+00:00",
+ "generated_at": "2026-09-01T07:26:08.287937+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2515,
+ "count": 2516,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -7205,6 +7205,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/id/story/laws-are-to-be-followed-20170128-5.html",
    "md_url": "/id/story/laws-are-to-be-followed-20170128-5.md"
+  },
+  {
+   "slug": "sugar-like-gold-dust-20170128-11",
+   "lang": "id",
+   "category": "story",
+   "title": "Butiran Gula Seperti Butiran Emas",
+   "summary": "Sebuah narasi yang dimulai dengan butiran emas dan butiran gula, mengungkap misteri kehidupan para pedagang kecil. Kisah ini menyoroti pentingnya menghargai rezeki dan bahaya dari sikap boros.",
+   "author": "ഇബ്‌നു അലി എടത്തനാട്ടുകര",
+   "issue_date": "2017-01-28",
+   "html_url": "/id/story/sugar-like-gold-dust-20170128-11.html",
+   "md_url": "/id/story/sugar-like-gold-dust-20170128-11.md"
   },
   {
    "slug": "the-currency-that-was-not-accepted-20170114-3",
