@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-01T08:59:08.319356+00:00",
+ "generated_at": "2026-09-01T08:59:37.198075+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2700,
+ "count": 2701,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -20339,6 +20339,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/ne/aqeedah/become-the-guardian-of-the-sources-20170128-9.html",
    "md_url": "/ne/aqeedah/become-the-guardian-of-the-sources-20170128-9.md"
+  },
+  {
+   "slug": "faith-is-the-foundation-of-islam-20170128-13",
+   "lang": "ne",
+   "category": "aqeedah",
+   "title": "विश्वास इस्लामको आधार हो",
+   "summary": "इस्लाममा विश्वासको आधारभूत अध्ययन। यो लेखले कुनै पनि कर्मको जग बलियो विश्वासमा टिकेको हुन्छ भन्ने सिद्धान्तलाई स्पष्ट पार्छ।",
+   "author": "മൂസ സ്വലാഹി കാര",
+   "issue_date": "2017-01-28",
+   "html_url": "/ne/aqeedah/faith-is-the-foundation-of-islam-20170128-13.html",
+   "md_url": "/ne/aqeedah/faith-is-the-foundation-of-islam-20170128-13.md"
   },
   {
    "slug": "do-not-waver-in-trials-20170121-9",
