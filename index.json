@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-01T09:10:27.271213+00:00",
+ "generated_at": "2026-09-01T09:11:06.546590+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2741,
+ "count": 2742,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -24332,6 +24332,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/so/aqeedah/become-the-guardian-of-the-sources-20170128-9.html",
    "md_url": "/so/aqeedah/become-the-guardian-of-the-sources-20170128-9.md"
+  },
+  {
+   "slug": "faith-is-the-foundation-of-islam-20170128-13",
+   "lang": "so",
+   "category": "aqeedah",
+   "title": "Iimaanku waa aasaaska Islaamka",
+   "summary": "Daraasad aasaasi ah oo ku saabsan iimaanka Islaamka. Waxay sharxaysaa mabda'a ah in iimaanka adag uu yahay saldhigga ficil kasta oo wanaagsan.",
+   "author": "മൂസ സ്വലാഹി കാര",
+   "issue_date": "2017-01-28",
+   "html_url": "/so/aqeedah/faith-is-the-foundation-of-islam-20170128-13.html",
+   "md_url": "/so/aqeedah/faith-is-the-foundation-of-islam-20170128-13.md"
   },
   {
    "slug": "do-not-waver-in-trials-20170121-9",
