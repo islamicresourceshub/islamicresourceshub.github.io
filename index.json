@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-01T07:51:34.401604+00:00",
+ "generated_at": "2026-09-01T07:51:57.872231+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2590,
+ "count": 2602,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -9704,6 +9704,17 @@
    "md_url": "/ml/aqeedah/misguided-grave-visits-20180901-5.md"
   },
   {
+   "slug": "mujahids-with-aadhaar-and-samastha-without-foundation-20180721-3",
+   "lang": "ml",
+   "category": "aqeedah",
+   "title": "ആധാർ ഉള്ള മുജാഹിദുകളും ആധാരമില്ലാത്ത സമസ്തയും",
+   "summary": "മുജാഹിദ് പ്രസ്ഥാനത്തെക്കുറിച്ചുള്ള സമസ്തയുടെ വിമർശനങ്ങൾക്ക് മറുപടിയായി എഴുതിയ ലേഖനം. തൗഹീദിന്റെ അടിസ്ഥാനത്തിൽ മുജാഹിദുകൾ സ്വീകരിക്കുന്ന നിലപാടുകൾ പ്രമാണബദ്ധമാണെന്നും സമസ്തയുടെ ആചാരങ്ങൾ അടിസ്ഥാനരഹിതമാണെന്നും ലേഖകൻ വാദിക്കുന്നു.",
+   "author": "അബ്ദുൽ മാലിക് സലഫി",
+   "issue_date": "2018-07-21",
+   "html_url": "/ml/aqeedah/mujahids-with-aadhaar-and-samastha-without-foundation-20180721-3.html",
+   "md_url": "/ml/aqeedah/mujahids-with-aadhaar-and-samastha-without-foundation-20180721-3.md"
+  },
+  {
    "slug": "preparation-for-the-trial-20190907-11",
    "lang": "ml",
    "category": "aqeedah",
@@ -11178,6 +11189,17 @@
    "md_url": "/ml/dawah/the-fragrance-of-goodness-20180922-5.md"
   },
   {
+   "slug": "the-full-moon-of-culture-20180721-2",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "സംസ്കാരത്തിന്റെ നിറനിലാവ്",
+   "summary": "ഇസ്‌ലാം ലോകത്തിന് നൽകിയ സാംസ്കാരികവും നാഗരികവുമായ സംഭാവനകളെക്കുറിച്ചുള്ള മുഖലേഖനം. അറേബ്യയിൽ ഉദയം ചെയ്ത ഇസ്‌ലാമിക സന്ദേശം എങ്ങനെ ലോകമെമ്പാടും വിമോചനത്തിന്റെ വെളിച്ചം പകർന്നു എന്ന് ലേഖനം വിവരിക്കുന്നു.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2018-07-21",
+   "html_url": "/ml/dawah/the-full-moon-of-culture-20180721-2.html",
+   "md_url": "/ml/dawah/the-full-moon-of-culture-20180721-2.md"
+  },
+  {
    "slug": "the-gates-of-goodness-in-ramadan-20190518-6",
    "lang": "ml",
    "category": "dawah",
@@ -11904,6 +11926,17 @@
    "md_url": "/ml/family/expatriate-life-thoughts-on-religious-education-20190914-7.md"
   },
   {
+   "slug": "exploitation-in-confessionals-where-did-it-go-wrong-20180721-8",
+   "lang": "ml",
+   "category": "family",
+   "title": "കുമ്പസാരക്കൂടുകളിലെ ചൂഷണം: തെറ്റിയതെവിടെ?",
+   "summary": "ക്രൈസ്തവ സഭകളിലെ കുമ്പസാരവുമായി ബന്ധപ്പെട്ട വിവാദങ്ങളെ മുൻനിർത്തി, പുരോഹിതന്മാരുടെ ചൂഷണങ്ങളെയും മതപരമായ തെറ്റായ പ്രവണതകളെയും ലേഖകൻ വിശകലനം ചെയ്യുന്നു. ഏകദൈവ വിശ്വാസത്തിൽ നിന്ന് വ്യതിചലിക്കുന്നതാണ് ഇത്തരം ചൂഷണങ്ങൾക്ക് കാരണമെന്ന് ലേഖനം വാദിക്കുന്നു.",
+   "author": "ഹാഷിം കാക്കയങ്ങാട്",
+   "issue_date": "2018-07-21",
+   "html_url": "/ml/family/exploitation-in-confessionals-where-did-it-go-wrong-20180721-8.html",
+   "md_url": "/ml/family/exploitation-in-confessionals-where-did-it-go-wrong-20180721-8.md"
+  },
+  {
    "slug": "fading-marital-bonds-20181201-4",
    "lang": "ml",
    "category": "family",
@@ -12067,6 +12100,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/ml/family/islamic-parenting-significance-and-goals-part-1-20170114-4.html",
    "md_url": "/ml/family/islamic-parenting-significance-and-goals-part-1-20170114-4.md"
+  },
+  {
+   "slug": "know-the-value-of-relationships-20180721-9",
+   "lang": "ml",
+   "category": "family",
+   "title": "ബന്ധങ്ങളുടെ വിലയറിയുക",
+   "summary": "കുടുംബബന്ധങ്ങളുടെയും സൗഹൃദങ്ങളുടെയും പ്രാധാന്യത്തെക്കുറിച്ച് ഓർമ്മിപ്പിക്കുന്ന ലേഖനം. ഇസ്‌ലാം ബന്ധങ്ങൾ ചേർക്കുന്നതിന് നൽകുന്ന പ്രാധാന്യവും അത് നിലനിർത്തേണ്ടതിന്റെ ആവശ്യകതയും ഇതിൽ വിവരിക്കുന്നു.",
+   "author": "മുസ്ലിം ബിൻ ഹൈദർ",
+   "issue_date": "2018-07-21",
+   "html_url": "/ml/family/know-the-value-of-relationships-20180721-9.html",
+   "md_url": "/ml/family/know-the-value-of-relationships-20180721-9.md"
   },
   {
    "slug": "lives-lost-on-the-road-20181027-7",
@@ -12980,6 +13024,17 @@
    "issue_date": "2019-05-11",
    "html_url": "/ml/health/health-perspective-of-fasting-20190511-6.html",
    "md_url": "/ml/health/health-perspective-of-fasting-20190511-6.md"
+  },
+  {
+   "slug": "kidney-disease-and-children-20180721-4",
+   "lang": "ml",
+   "category": "health",
+   "title": "വൃക്കരോഗവും കുട്ടികളും",
+   "summary": "കുട്ടികളിൽ കണ്ടുവരുന്ന വൃക്കരോഗങ്ങളെക്കുറിച്ചും അവയുടെ ലക്ഷണങ്ങളെക്കുറിച്ചും പ്രതിപാദിക്കുന്ന ലേഖനം. രോഗങ്ങൾ നേരത്തെ കണ്ടെത്തുന്നതിന്റെ പ്രാധാന്യവും ചികിത്സാ രീതികളും ഇതിൽ വിശദീകരിക്കുന്നു.",
+   "author": "അജ്ഞാതൻ",
+   "issue_date": "2018-07-21",
+   "html_url": "/ml/health/kidney-disease-and-children-20180721-4.html",
+   "md_url": "/ml/health/kidney-disease-and-children-20180721-4.md"
   },
   {
    "slug": "kidney-stones-causes-and-symptoms-20190202-5",
@@ -14302,6 +14357,17 @@
    "md_url": "/ml/opinion/kerala-is-weeping-20180901-4.md"
   },
   {
+   "slug": "laws-against-pollution-20180721-11",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "മലിനീകരണത്തിനെതിരെയുള്ള നിയമങ്ങൾ",
+   "summary": "ഇന്ത്യയിലെ പരിസ്ഥിതി സംരക്ഷണ നിയമങ്ങളെയും മലിനീകരണ നിയന്ത്രണങ്ങളെയും കുറിച്ചുള്ള ലേഖനം. വായു, ജല മലിനീകരണങ്ങൾക്കെതിരെയുള്ള നിയമപരമായ വശങ്ങൾ ഇതിൽ ചർച്ച ചെയ്യുന്നു.",
+   "author": "മുസാഫിർ",
+   "issue_date": "2018-07-21",
+   "html_url": "/ml/opinion/laws-against-pollution-20180721-11.html",
+   "md_url": "/ml/opinion/laws-against-pollution-20180721-11.md"
+  },
+  {
    "slug": "legal-literacy-20181103-7",
    "lang": "ml",
    "category": "opinion",
@@ -14388,6 +14454,17 @@
    "issue_date": "2018-08-18",
    "html_url": "/ml/opinion/mob-violence-campus-politics-and-freedom-of-expression-20180818-1.html",
    "md_url": "/ml/opinion/mob-violence-campus-politics-and-freedom-of-expression-20180818-1.md"
+  },
+  {
+   "slug": "murder-at-maharaja-s-how-did-the-knife-reach-the-campus-20180721-1",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "മഹാരാജാസിലെ കൊല: കാമ്പസിൽ എങ്ങനെ കത്തിയെത്തി?",
+   "summary": "എറണാകുളം മഹാരാജാസ് കോളേജിലെ അഭിമന്യുവിന്റെ കൊലപാതകത്തെ മുൻനിർത്തി കാമ്പസുകളിലെ അക്രമരാഷ്ട്രീയത്തെയും തീവ്രവാദ പ്രവണതകളെയും ലേഖകൻ വിമർശിക്കുന്നു. ആശയപരമായ വിയോജിപ്പുകളെ കായികമായി നേരിടുന്ന കാടൻ സംസ്കാരത്തിനെതിരെ ശക്തമായ നിലപാട് സ്വീകരിക്കേണ്ടതുണ്ടെന്ന് ലേഖനം ഓർമ്മിപ്പിക്കുന്നു.",
+   "author": "സി.പി സലീം",
+   "issue_date": "2018-07-21",
+   "html_url": "/ml/opinion/murder-at-maharaja-s-how-did-the-knife-reach-the-campus-20180721-1.html",
+   "md_url": "/ml/opinion/murder-at-maharaja-s-how-did-the-knife-reach-the-campus-20180721-1.md"
   },
   {
    "slug": "muslim-extremists-defame-islam-20170114-7",
@@ -15248,6 +15325,17 @@
    "md_url": "/ml/quran/al-inshiqaq-the-sundering-20181229-4.md"
   },
   {
+   "slug": "al-lail-the-night-20180721-5",
+   "lang": "ml",
+   "category": "quran",
+   "title": "ലൈൽ (രാത്രി)",
+   "summary": "വിശുദ്ധ ഖുർആനിലെ ലൈൽ അധ്യായത്തിന്റെ ലഘുവായ തഫ്സീർ. രാത്രിയുടെയും പകലിന്റെയും സൃഷ്ടിപ്പിലെ യുക്തികളെയും മനുഷ്യന്റെ പ്രവർത്തനങ്ങളെയും കുറിച്ച് ഈ ഭാഗം വിശദീകരിക്കുന്നു.",
+   "author": "അബ്ദുറഹ്മാൻ നാസിർ അസ്സഅദി",
+   "issue_date": "2018-07-21",
+   "html_url": "/ml/quran/al-lail-the-night-20180721-5.html",
+   "md_url": "/ml/quran/al-lail-the-night-20180721-5.md"
+  },
+  {
    "slug": "al-muddathir-the-one-enveloped-part-4-20190824-3",
    "lang": "ml",
    "category": "quran",
@@ -15952,6 +16040,17 @@
    "md_url": "/ml/quran/what-to-beware-of-when-taking-sides-20170128-7.md"
   },
   {
+   "slug": "when-trust-is-lost-20180721-12",
+   "lang": "ml",
+   "category": "quran",
+   "title": "വിശ്വാസ്യത നഷ്ടപ്പെടുമ്പോൾ",
+   "summary": "ഖുർആനിലെ അളവിലും തൂക്കത്തിലും കൃത്യത പാലിക്കണമെന്ന നിർദ്ദേശത്തെ മുൻനിർത്തി, ഇന്നത്തെ കമ്പോളത്തിലെ വഞ്ചനകളെയും വിശ്വാസ്യതയില്ലായ്മയെയും വിമർശിക്കുന്ന ലേഖനം. പരസ്പര വിശ്വാസം നഷ്ടപ്പെടുന്നത് സമൂഹത്തിന്റെ സമാധാനത്തെ ബാധിക്കുമെന്ന് ലേഖകൻ ഓർമ്മിപ്പിക്കുന്നു.",
+   "author": "ശമീർ മദീനി",
+   "issue_date": "2018-07-21",
+   "html_url": "/ml/quran/when-trust-is-lost-20180721-12.html",
+   "md_url": "/ml/quran/when-trust-is-lost-20180721-12.md"
+  },
+  {
    "slug": "a-brave-intervention-20180707-10",
    "lang": "ml",
    "category": "seerah",
@@ -16489,6 +16588,17 @@
    "issue_date": "2019-02-09",
    "html_url": "/ml/seerah/public-preaching-20190209-7.html",
    "md_url": "/ml/seerah/public-preaching-20190209-7.md"
+  },
+  {
+   "slug": "punishments-descend-20180721-10",
+   "lang": "ml",
+   "category": "seerah",
+   "title": "ശിക്ഷകൾ വന്നിറങ്ങുന്നു",
+   "summary": "മൂസാ നബിയുടെയും ഫിർഔനിന്റെയും ചരിത്രത്തിലെ പ്രധാന ഭാഗങ്ങൾ വിവരിക്കുന്ന ലേഖനം. ഫിർഔനിന്റെ അഹങ്കാരവും അതിനെത്തുടർന്ന് അല്ലാഹു ഇറക്കിയ പരീക്ഷണങ്ങളെയും ശിക്ഷകളെയും കുറിച്ച് ഈ ഭാഗം പ്രതിപാദിക്കുന്നു.",
+   "author": "ഹുസൈൻ സലഫി, ഷാർജ",
+   "issue_date": "2018-07-21",
+   "html_url": "/ml/seerah/punishments-descend-20180721-10.html",
+   "md_url": "/ml/seerah/punishments-descend-20180721-10.md"
   },
   {
    "slug": "queen-bilqis-in-the-palace-of-prophet-sulaiman-as-20190112-3",
@@ -17162,6 +17272,17 @@
    "md_url": "/ml/story/afkarun-ubrawiyyu-poem-20180707-8.md"
   },
   {
+   "slug": "afkarun-ukhrawiyya-thoughts-on-the-hereafter-20180721-7",
+   "lang": "ml",
+   "category": "story",
+   "title": "'അഫ്കാറുൻ ഉഖ്റവിയ്യ'",
+   "summary": "മരണാനന്തര കർമ്മങ്ങളെയും മയ്യിത്ത് നിസ്കാരത്തെയും കുറിച്ചുള്ള ഇസ്‌ലാമിക നിയമങ്ങൾ വിവരിക്കുന്ന ഖണ്ഡകാവ്യം. പ്രവാചകചര്യയനുസരിച്ചുള്ള മരണാനന്തര കർമ്മങ്ങളുടെ പ്രാധാന്യം ഇതിൽ വ്യക്തമാക്കുന്നു.",
+   "author": "വെള്ളില പി. അബ്ദുുള്ള",
+   "issue_date": "2018-07-21",
+   "html_url": "/ml/story/afkarun-ukhrawiyya-thoughts-on-the-hereafter-20180721-7.html",
+   "md_url": "/ml/story/afkarun-ukhrawiyya-thoughts-on-the-hereafter-20180721-7.md"
+  },
+  {
    "slug": "after-the-sorrows-20190817-10",
    "lang": "ml",
    "category": "story",
@@ -17204,6 +17325,17 @@
    "issue_date": "2018-05-05",
    "html_url": "/ml/story/an-old-man-s-sorrows-20180505-12.html",
    "md_url": "/ml/story/an-old-man-s-sorrows-20180505-12.md"
+  },
+  {
+   "slug": "are-you-still-sleeping-20180721-6",
+   "lang": "ml",
+   "category": "story",
+   "title": "നിങ്ങളിനിയുമുറങ്ങുന്നുവോ?",
+   "summary": "കാമ്പസുകളിലെ അക്രമരാഷ്ട്രീയത്തെയും കൊലപാതകങ്ങളെയും രൂക്ഷമായി വിമർശിക്കുന്ന കവിത. സമൂഹത്തിന്റെ നിസ്സംഗതയെ ചോദ്യം ചെയ്യുന്ന വരികൾ യുവതയോട് ഉണർന്നെഴുന്നേൽക്കാൻ ആഹ്വാനം ചെയ്യുന്നു.",
+   "author": "ഉസ്മാൻ പാലക്കാഴി",
+   "issue_date": "2018-07-21",
+   "html_url": "/ml/story/are-you-still-sleeping-20180721-6.html",
+   "md_url": "/ml/story/are-you-still-sleeping-20180721-6.md"
   },
   {
    "slug": "avadhi-the-deadline-20181208-1",
