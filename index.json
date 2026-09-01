@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-01T12:03:34.149385+00:00",
+ "generated_at": "2026-09-01T12:11:52.626692+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2884,
+ "count": 2885,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -6380,6 +6380,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/ha/family/don-t-worry-allah-is-with-you-20170114-10.html",
    "md_url": "/ha/family/don-t-worry-allah-is-with-you-20170114-10.md"
+  },
+  {
+   "slug": "harassment-from-mother-in-law-20170204-3",
+   "lang": "ha",
+   "category": "family",
+   "title": "Cutarwa Daga Wajen Mahaifiyar Miji",
+   "summary": "Wannan makala ta ƙunshi tambaya da amsa daga wata mata da ke fuskantar matsaloli da cutarwa ta hankali daga wajen mahaifiyar mijinta. Tana tattaunawa ne kan yadda mace za ta fuskanci matsalolin lafiyar jiki da na hankali lokacin da miji ya gaza samar da mafita, da kuma yadda za a tunkari wannan matsala ta fuskar Musulunci.",
+   "author": "ഹാരിസ്ബിൻ സലീം",
+   "issue_date": "2017-02-04",
+   "html_url": "/ha/family/harassment-from-mother-in-law-20170204-3.html",
+   "md_url": "/ha/family/harassment-from-mother-in-law-20170204-3.md"
   },
   {
    "slug": "how-to-be-a-good-parent-part-2-20170121-4",
