@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-01T09:29:25.152423+00:00",
+ "generated_at": "2026-09-01T09:29:49.744140+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2789,
+ "count": 2790,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -24112,6 +24112,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/ru/seerah/prophets-and-trials-20170325-7.html",
    "md_url": "/ru/seerah/prophets-and-trials-20170325-7.md"
+  },
+  {
+   "slug": "abdullah-s-mistake-20170204-1",
+   "lang": "ru",
+   "category": "story",
+   "title": "Ошибка Абдуллы",
+   "summary": "Это поучительная история об искусном плотнике по имени Абдулла, который всю жизнь работал с большой ответственностью. Однако в конце своей карьеры он допустил ошибку, которая преподала ему важный урок о значимости искренности в каждом деле.",
+   "author": "അറബി കഥ - പുനരാഖ്യാനം: അബൂ തൻവീൽ",
+   "issue_date": "2017-02-04",
+   "html_url": "/ru/story/abdullah-s-mistake-20170204-1.html",
+   "md_url": "/ru/story/abdullah-s-mistake-20170204-1.md"
   },
   {
    "slug": "good-intention-matters-most-20170325-8",
