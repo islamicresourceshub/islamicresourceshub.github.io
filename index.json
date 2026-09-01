@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-01T08:12:51.461049+00:00",
+ "generated_at": "2026-09-01T08:13:35.151086+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2658,
+ "count": 2659,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -5874,6 +5874,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/ha/aqeedah/become-the-guardian-of-the-sources-20170128-9.html",
    "md_url": "/ha/aqeedah/become-the-guardian-of-the-sources-20170128-9.md"
+  },
+  {
+   "slug": "faith-is-the-foundation-of-islam-20170128-13",
+   "lang": "ha",
+   "category": "aqeedah",
+   "title": "Imani shi ne ginshikin Musulunci",
+   "summary": "Wannan darasi ne na asali kan imani a cikin Musulunci. Yana bayyana ka'idar cewa kowane aiki yana bukatar ingantaccen imani a matsayin ginshikinsa.",
+   "author": "മൂസ സ്വലാഹി കാര",
+   "issue_date": "2017-01-28",
+   "html_url": "/ha/aqeedah/faith-is-the-foundation-of-islam-20170128-13.html",
+   "md_url": "/ha/aqeedah/faith-is-the-foundation-of-islam-20170128-13.md"
   },
   {
    "slug": "do-not-waver-in-trials-20170121-9",
