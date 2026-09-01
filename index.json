@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-01T09:11:45.827249+00:00",
+ "generated_at": "2026-09-01T09:12:29.468746+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2743,
+ "count": 2744,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -25366,6 +25366,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/sw/aqeedah/become-the-guardian-of-the-sources-20170128-9.html",
    "md_url": "/sw/aqeedah/become-the-guardian-of-the-sources-20170128-9.md"
+  },
+  {
+   "slug": "faith-is-the-foundation-of-islam-20170128-13",
+   "lang": "sw",
+   "category": "aqeedah",
+   "title": "Imani ndiyo msingi wa Uislamu",
+   "summary": "Uchambuzi wa kimsingi kuhusu imani katika Uislamu. Inafafanua kanuni kwamba imani thabiti ndiyo msingi wa kila tendo la ibada.",
+   "author": "മൂസ സ്വലാഹി കാര",
+   "issue_date": "2017-01-28",
+   "html_url": "/sw/aqeedah/faith-is-the-foundation-of-islam-20170128-13.html",
+   "md_url": "/sw/aqeedah/faith-is-the-foundation-of-islam-20170128-13.md"
   },
   {
    "slug": "do-not-waver-in-trials-20170121-9",
