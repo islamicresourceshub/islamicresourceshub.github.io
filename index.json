@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-01T07:51:57.872231+00:00",
+ "generated_at": "2026-09-01T07:52:13.003592+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2602,
+ "count": 2603,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -27808,6 +27808,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/uz/story/laws-are-to-be-followed-20170128-5.html",
    "md_url": "/uz/story/laws-are-to-be-followed-20170128-5.md"
+  },
+  {
+   "slug": "sugar-like-gold-dust-20170128-11",
+   "lang": "uz",
+   "category": "story",
+   "title": "Oltin zarralari kabi shakar",
+   "summary": "Oltin va shakar zarralari bilan boshlanadigan ushbu hikoya kichik savdogarlar va muhtoj oilalarning hayotidagi sirli hamda ta'sirli voqealarni ochib beradi. Bu bizga ne'matlarning qadriga yetish va isrofgarchilikdan saqlanish haqida saboq beradi.",
+   "author": "ഇബ്‌നു അലി എടത്തനാട്ടുകര",
+   "issue_date": "2017-01-28",
+   "html_url": "/uz/story/sugar-like-gold-dust-20170128-11.html",
+   "md_url": "/uz/story/sugar-like-gold-dust-20170128-11.md"
   },
   {
    "slug": "the-currency-that-was-not-accepted-20170114-3",
