@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-01T09:00:15.104699+00:00",
+ "generated_at": "2026-09-01T09:00:39.895681+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2702,
+ "count": 2715,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -10188,6 +10188,17 @@
    "md_url": "/ml/aqeedah/those-who-revive-innovations-by-freezing-sunnahs-20191116-7.md"
   },
   {
+   "slug": "to-which-evidence-are-these-beliefs-linked-20180728-12",
+   "lang": "ml",
+   "category": "aqeedah",
+   "title": "ഈ വിശ്വാസങ്ങൾ ഏത് പ്രമാണത്തിലേക്കാണ് ലിങ്ക് ചെയ്തിട്ടുള്ളത്?",
+   "summary": "കേരളത്തിലെ ചില മതവിഭാഗങ്ങൾ പ്രചരിപ്പിക്കുന്ന അന്ധവിശ്വാസങ്ങളെയും ബിദ്അത്തുകളെയും ഖുർആൻ-സുന്നത്തിന്റെ അടിസ്ഥാനത്തിൽ വിമർശിക്കുന്ന ലേഖനം.",
+   "author": "ഫദ്‌ലുൽ ഹഖ് ഉമരി",
+   "issue_date": "2018-07-28",
+   "html_url": "/ml/aqeedah/to-which-evidence-are-these-beliefs-linked-20180728-12.html",
+   "md_url": "/ml/aqeedah/to-which-evidence-are-these-beliefs-linked-20180728-12.md"
+  },
+  {
    "slug": "to-whom-did-they-pray-20190112-2",
    "lang": "ml",
    "category": "aqeedah",
@@ -11363,6 +11374,17 @@
    "issue_date": "2019-10-26",
    "html_url": "/ml/dawah/resisting-temptations-20191026-7.html",
    "md_url": "/ml/dawah/resisting-temptations-20191026-7.md"
+  },
+  {
+   "slug": "rise-through-knowledge-20180728-11",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "അറിവിലൂടെ ഉയരുക",
+   "summary": "വിജ്ഞാനത്തിന്റെ പ്രാധാന്യത്തെക്കുറിച്ചും ഇസ്‌ലാം അറിവിന് നൽകുന്ന ഉന്നത സ്ഥാനത്തെക്കുറിച്ചും ഖുർആൻ വചനങ്ങളുടെ അടിസ്ഥാനത്തിൽ വിവരിക്കുന്ന ലേഖനം.",
+   "author": "എസ്.എ വിദ്യാനഗർ",
+   "issue_date": "2018-07-28",
+   "html_url": "/ml/dawah/rise-through-knowledge-20180728-11.html",
+   "md_url": "/ml/dawah/rise-through-knowledge-20180728-11.md"
   },
   {
    "slug": "scholars-who-lose-humility-20190223-9",
@@ -12749,6 +12771,17 @@
    "issue_date": "2018-08-11",
    "html_url": "/ml/family/stinking-cities-and-burning-problems-20180811-4.html",
    "md_url": "/ml/family/stinking-cities-and-burning-problems-20180811-4.md"
+  },
+  {
+   "slug": "students-and-value-consciousness-20180728-2",
+   "lang": "ml",
+   "category": "family",
+   "title": "വിദ്യാർഥികളും മൂല്യബോധവും",
+   "summary": "മനുഷ്യന്റെ ശ്രേഷ്ഠതയും ഉത്തരവാദിത്തങ്ങളും വിശദീകരിക്കുന്ന മുഖലേഖനം. കുട്ടികളിൽ മൂല്യബോധം വളർത്തുന്നതിൽ മാതാപിതാക്കളുടെയും അധ്യാപകരുടെയും പങ്കിനെക്കുറിച്ച് ഇത് ചർച്ച ചെയ്യുന്നു.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2018-07-28",
+   "html_url": "/ml/family/students-and-value-consciousness-20180728-2.html",
+   "md_url": "/ml/family/students-and-value-consciousness-20180728-2.md"
   },
   {
    "slug": "studying-in-other-states-are-children-going-astray-20190216-1",
@@ -14984,6 +15017,17 @@
    "md_url": "/ml/opinion/is-speaking-against-the-government-treason-20180915-8.md"
   },
   {
+   "slug": "is-there-no-one-with-wisdom-among-you-20180728-13",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "വിവേകമുള്ള ഒരുത്തനും നിങ്ങളുടെ കൂട്ടത്തിലില്ലേ?",
+   "summary": "സ്വവർഗ വിവാഹത്തെയും അതുമായി ബന്ധപ്പെട്ട നിയമപരമായ ചർച്ചകളെയും ഇസ്‌ലാമിക വീക്ഷണകോണിൽ നിന്ന് വിശകലനം ചെയ്യുന്ന ലേഖനം.",
+   "author": "പി.എൻ. അബ്ദുല്ലത്തീഫ് മദനി",
+   "issue_date": "2018-07-28",
+   "html_url": "/ml/opinion/is-there-no-one-with-wisdom-among-you-20180728-13.html",
+   "md_url": "/ml/opinion/is-there-no-one-with-wisdom-among-you-20180728-13.md"
+  },
+  {
    "slug": "is-this-the-sign-of-a-welfare-state-20190413-4",
    "lang": "ml",
    "category": "opinion",
@@ -15081,6 +15125,17 @@
    "issue_date": "2018-11-03",
    "html_url": "/ml/opinion/legal-literacy-20181103-7.html",
    "md_url": "/ml/opinion/legal-literacy-20181103-7.md"
+  },
+  {
+   "slug": "legal-protection-for-homosexuality-20180728-9",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "സ്വവർഗരതിക്ക് നിയമ പരിരക്ഷയോ?!",
+   "summary": "സ്വവർഗരതിയെ നിയമവിധേയമാക്കുന്നതിനെതിരെയുള്ള ഇസ്‌ലാമികവും സാമൂഹികവുമായ നിലപാടുകൾ വ്യക്തമാക്കുന്ന ലേഖനം.",
+   "author": "ടി.കെ.അഷ്‌റഫ്",
+   "issue_date": "2018-07-28",
+   "html_url": "/ml/opinion/legal-protection-for-homosexuality-20180728-9.html",
+   "md_url": "/ml/opinion/legal-protection-for-homosexuality-20180728-9.md"
   },
   {
    "slug": "legal-services-authority-act-20181027-9",
@@ -15235,6 +15290,17 @@
    "issue_date": "2019-03-02",
    "html_url": "/ml/opinion/population-explosion-truth-and-myth-20190302-5.html",
    "md_url": "/ml/opinion/population-explosion-truth-and-myth-20190302-5.md"
+  },
+  {
+   "slug": "post-death-rituals-20180728-8",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "മരണശേഷ ക്രിയകൾ",
+   "summary": "മരണാനന്തര കർമ്മങ്ങളിലെ അനാചാരങ്ങളെ വിമർശിച്ചുകൊണ്ടുള്ള ഖണ്ഡകാവ്യം.",
+   "author": "വെള്ളില പി. അബ്ദുല്ല",
+   "issue_date": "2018-07-28",
+   "html_url": "/ml/opinion/post-death-rituals-20180728-8.html",
+   "md_url": "/ml/opinion/post-death-rituals-20180728-8.md"
   },
   {
    "slug": "pranab-s-love-for-hedgewar-20180623-1",
@@ -16700,6 +16766,17 @@
    "md_url": "/ml/quran/surah-an-naba-the-news-20190302-2.md"
   },
   {
+   "slug": "surah-ash-shams-tafsir-20180728-6",
+   "lang": "ml",
+   "category": "quran",
+   "title": "ശംസ് (പൂർവാഹ്നം)",
+   "summary": "വിശുദ്ധ ഖുർആനിലെ 91-ാം അധ്യായമായ ശംസ് സൂറത്തിന്റെ ലളിതമായ വ്യാഖ്യാനം. പ്രപഞ്ചത്തിലെ അല്ലാഹുവിന്റെ ദൃഷ്ടാന്തങ്ങളെയും മനുഷ്യന്റെ വിജയപരാജയങ്ങളെയും ഇത് വിശദീകരിക്കുന്നു.",
+   "author": "അബ്ദുറഹ്‌മാൻ നാസിർ അസ്സഅദി",
+   "issue_date": "2018-07-28",
+   "html_url": "/ml/quran/surah-ash-shams-tafsir-20180728-6.html",
+   "md_url": "/ml/quran/surah-ash-shams-tafsir-20180728-6.md"
+  },
+  {
    "slug": "surah-ash-shu-ara-the-poets-20260822-7",
    "lang": "ml",
    "category": "quran",
@@ -16953,6 +17030,17 @@
    "md_url": "/ml/seerah/a-journey-in-the-path-of-knowledge-part-24-20181013-5.md"
   },
   {
+   "slug": "a-legend-in-the-field-of-dawah-20180728-3",
+   "lang": "ml",
+   "category": "seerah",
+   "title": "പ്രബോധന രംഗത്തെ നിറവിസ്മയം",
+   "summary": "ചെറിയമുണ്ടം അബ്ദുൽ ഹമീദ് മദനിയുടെ ജീവിതവും പ്രബോധന പ്രവർത്തനങ്ങളും വിവരിക്കുന്ന ലേഖനം. യുക്തിവാദികൾക്കെതിരായ അദ്ദേഹത്തിന്റെ വൈജ്ഞാനിക പോരാട്ടങ്ങളെയും അധ്യാപന ജീവിതത്തെയും ഇത് പരിചയപ്പെടുത്തുന്നു.",
+   "author": "കുഞ്ഞിമുഹമ്മദ് മദനി പറപ്പൂർ",
+   "issue_date": "2018-07-28",
+   "html_url": "/ml/seerah/a-legend-in-the-field-of-dawah-20180728-3.html",
+   "md_url": "/ml/seerah/a-legend-in-the-field-of-dawah-20180728-3.md"
+  },
+  {
    "slug": "a-letter-with-bismillah-20181229-3",
    "lang": "ml",
    "category": "seerah",
@@ -17017,6 +17105,28 @@
    "issue_date": "2017-02-18",
    "html_url": "/ml/seerah/can-prophethood-be-attained-by-desire-20170218-1.html",
    "md_url": "/ml/seerah/can-prophethood-be-attained-by-desire-20170218-1.md"
+  },
+  {
+   "slug": "cheriyamundam-has-departed-20180728-5",
+   "lang": "ml",
+   "category": "seerah",
+   "title": "ചെറിയമുണ്ടവും മടങ്ങി",
+   "summary": "ചെറിയമുണ്ടം അബ്ദുൽ ഹമീദ് മദനിയുടെ വിയോഗത്തിൽ അദ്ദേഹത്തിന്റെ പാണ്ഡിത്യത്തെയും പ്രബോധന ശൈലിയെയും അനുസ്മരിക്കുന്ന ലേഖനം.",
+   "author": "ടി.കെ.അഷ്‌റഫ്",
+   "issue_date": "2018-07-28",
+   "html_url": "/ml/seerah/cheriyamundam-has-departed-20180728-5.html",
+   "md_url": "/ml/seerah/cheriyamundam-has-departed-20180728-5.md"
+  },
+  {
+   "slug": "cheriyamundam-humility-wisdom-scholarship-20180728-1",
+   "lang": "ml",
+   "category": "seerah",
+   "title": "ചെറിയമുണ്ടം: വിനയം, ഡിഷണം, പാണ്ഡിത്യം",
+   "summary": "കേരളത്തിലെ പ്രമുഖ ഇസ്‌ലാമിക പണ്ഡിതനായിരുന്ന ചെറിയമുണ്ടം അബ്ദുൽ ഹമീദ് മദനിയുടെ ജീവിതത്തെയും പാണ്ഡിത്യത്തെയും അനുസ്മരിക്കുന്ന ലേഖനം. അദ്ദേഹത്തിന്റെ ബൗദ്ധിക ഔന്നത്യവും പ്രബോധന രംഗത്തെ സംഭാവനകളും ഇതിൽ വിവരിക്കുന്നു.",
+   "author": "സുഫ്‌യാൻ അബ്ദുസ്സലാം",
+   "issue_date": "2018-07-28",
+   "html_url": "/ml/seerah/cheriyamundam-humility-wisdom-scholarship-20180728-1.html",
+   "md_url": "/ml/seerah/cheriyamundam-humility-wisdom-scholarship-20180728-1.md"
   },
   {
    "slug": "crucifixion-what-is-the-truth-20190413-5",
@@ -17193,6 +17303,17 @@
    "issue_date": "2018-08-04",
    "html_url": "/ml/seerah/karoovalli-lessons-of-a-century-20180804-6.html",
    "md_url": "/ml/seerah/karoovalli-lessons-of-a-century-20180804-6.md"
+  },
+  {
+   "slug": "karuvally-muhammed-moulavi-a-century-of-renaissance-20180728-10",
+   "lang": "ml",
+   "category": "seerah",
+   "title": "കരുവള്ളി മുഹമ്മദ് മൗലവി: നൂറ്റാണ്ട് പിന്നിട്ട നവോത്ഥാന പർവ്വം",
+   "summary": "കേരളത്തിലെ മുസ്ലിം നവോത്ഥാന നായകരിൽ ഒരാളായ കരുവള്ളി മുഹമ്മദ് മൗലവിയുടെ ജീവിതവും പ്രവർത്തനങ്ങളും വിവരിക്കുന്ന പരമ്പരയുടെ ആദ്യ ഭാഗം.",
+   "author": "പി.വി.എ പ്രിൻറോസ്",
+   "issue_date": "2018-07-28",
+   "html_url": "/ml/seerah/karuvally-muhammed-moulavi-a-century-of-renaissance-20180728-10.html",
+   "md_url": "/ml/seerah/karuvally-muhammed-moulavi-a-century-of-renaissance-20180728-10.md"
   },
   {
    "slug": "key-events-in-madinah-the-conversion-of-abdullah-ibn-salam-20190629-5",
@@ -17864,6 +17985,17 @@
    "issue_date": "2018-12-01",
    "html_url": "/ml/seerah/the-skilled-ruler-prophet-dawood-as-20181201-7.html",
    "md_url": "/ml/seerah/the-skilled-ruler-prophet-dawood-as-20181201-7.md"
+  },
+  {
+   "slug": "the-small-big-man-20180728-4",
+   "lang": "ml",
+   "category": "seerah",
+   "title": "ചെറിയ വലിയ മനുഷ്യൻ",
+   "summary": "ചെറിയമുണ്ടം അബ്ദുൽ ഹമീദ് മദനിയുമായുള്ള വ്യക്തിപരമായ അനുഭവങ്ങളും അദ്ദേഹത്തിന്റെ രചനാവൈഭവത്തെയും കുറിച്ചുള്ള ഓർമ്മക്കുറിപ്പ്.",
+   "author": "പി.എൻ. അബ്ദുല്ലത്തീഫ് മദനി",
+   "issue_date": "2018-07-28",
+   "html_url": "/ml/seerah/the-small-big-man-20180728-4.html",
+   "md_url": "/ml/seerah/the-small-big-man-20180728-4.md"
   },
   {
    "slug": "the-table-from-heaven-20190504-1",
@@ -18744,6 +18876,17 @@
    "issue_date": "2019-05-04",
    "html_url": "/ml/story/the-celebration-of-clothes-20190504-10.html",
    "md_url": "/ml/story/the-celebration-of-clothes-20190504-10.md"
+  },
+  {
+   "slug": "the-child-and-the-parrot-20180728-7",
+   "lang": "ml",
+   "category": "story",
+   "title": "കുട്ടിയും പഞ്ചവർണക്കിളിയും",
+   "summary": "ഒരു കുട്ടിയും പഞ്ചവർണക്കിളിയും തമ്മിലുള്ള സംഭാഷണത്തിലൂടെ പ്രകൃതിയെയും സ്വാതന്ത്ര്യത്തെയും കുറിച്ചുള്ള സന്ദേശം നൽകുന്ന കവിത/കഥാ ശകലം.",
+   "author": "ഉസ്മാൻ പാലക്കാഴി",
+   "issue_date": "2018-07-28",
+   "html_url": "/ml/story/the-child-and-the-parrot-20180728-7.html",
+   "md_url": "/ml/story/the-child-and-the-parrot-20180728-7.md"
   },
   {
    "slug": "the-crescent-moon-of-ramadan-20180519-9",
