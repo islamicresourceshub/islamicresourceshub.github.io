@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-01T07:29:40.191624+00:00",
+ "generated_at": "2026-09-01T07:29:53.571752+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2527,
+ "count": 2528,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -8217,6 +8217,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/ja/story/laws-are-to-be-followed-20170128-5.html",
    "md_url": "/ja/story/laws-are-to-be-followed-20170128-5.md"
+  },
+  {
+   "slug": "sugar-like-gold-dust-20170128-11",
+   "lang": "ja",
+   "category": "story",
+   "title": "黄金の粒のような砂糖",
+   "summary": "黄金の粒のように大切に扱われる砂糖の物語を通して、貧困の中にある人々の切実な生活と、私たちが日常で無駄にしている食べ物への教訓を綴ります。",
+   "author": "ഇബ്‌നു അലി എടത്തനാട്ടുകര",
+   "issue_date": "2017-01-28",
+   "html_url": "/ja/story/sugar-like-gold-dust-20170128-11.html",
+   "md_url": "/ja/story/sugar-like-gold-dust-20170128-11.md"
   },
   {
    "slug": "the-currency-that-was-not-accepted-20170114-3",
