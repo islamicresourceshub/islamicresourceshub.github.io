@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-01T08:59:37.198075+00:00",
+ "generated_at": "2026-09-01T09:00:15.104699+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2701,
+ "count": 2702,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -20856,6 +20856,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/or/aqeedah/become-the-guardian-of-the-sources-20170128-9.html",
    "md_url": "/or/aqeedah/become-the-guardian-of-the-sources-20170128-9.md"
+  },
+  {
+   "slug": "faith-is-the-foundation-of-islam-20170128-13",
+   "lang": "or",
+   "category": "aqeedah",
+   "title": "ବିଶ୍ୱାସ ଇସଲାମର ମୂଳଦୁଆ",
+   "summary": "ଇସଲାମରେ ବିଶ୍ୱାସର ମୌଳିକ ଅଧ୍ୟୟନ। ଏହି ଆଲେଖ୍ୟରେ ବର୍ଣ୍ଣନା କରାଯାଇଛି ଯେ, ପ୍ରତ୍ୟେକ କର୍ମ ପଛରେ ଦୃଢ଼ ବିଶ୍ୱାସ ହିଁ ମୂଳଦୁଆ ହୋଇଥାଏ।",
+   "author": "മൂസ സ്വലാഹി കാര",
+   "issue_date": "2017-01-28",
+   "html_url": "/or/aqeedah/faith-is-the-foundation-of-islam-20170128-13.html",
+   "md_url": "/or/aqeedah/faith-is-the-foundation-of-islam-20170128-13.md"
   },
   {
    "slug": "do-not-waver-in-trials-20170121-9",
