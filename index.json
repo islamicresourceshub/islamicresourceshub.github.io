@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-01T09:24:18.155943+00:00",
+ "generated_at": "2026-09-01T09:24:52.510691+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2778,
+ "count": 2779,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -7986,6 +7986,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/it/seerah/prophets-and-trials-20170325-7.html",
    "md_url": "/it/seerah/prophets-and-trials-20170325-7.md"
+  },
+  {
+   "slug": "abdullah-s-mistake-20170204-1",
+   "lang": "it",
+   "category": "story",
+   "title": "L'errore di Abdullah",
+   "summary": "Questa è la storia di Abdullah, un esperto falegname che, giunto alla fine della sua carriera, commette un errore fatale per mancanza di dedizione. Attraverso il suo sbaglio, impariamo una lezione preziosa sull'importanza di agire sempre con sincerità e impegno.",
+   "author": "അറബി കഥ - പുനരാഖ്യാനം: അബൂ തൻവീൽ",
+   "issue_date": "2017-02-04",
+   "html_url": "/it/story/abdullah-s-mistake-20170204-1.html",
+   "md_url": "/it/story/abdullah-s-mistake-20170204-1.md"
   },
   {
    "slug": "good-intention-matters-most-20170325-8",
