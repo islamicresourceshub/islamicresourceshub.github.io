@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-01T07:36:17.689838+00:00",
+ "generated_at": "2026-09-01T07:36:45.427981+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2545,
+ "count": 2546,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -19778,6 +19778,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/or/story/laws-are-to-be-followed-20170128-5.html",
    "md_url": "/or/story/laws-are-to-be-followed-20170128-5.md"
+  },
+  {
+   "slug": "sugar-like-gold-dust-20170128-11",
+   "lang": "or",
+   "category": "story",
+   "title": "ସୁନା କଣିକା ପରି ଚିନି",
+   "summary": "ସୁନା କଣିକା ଏବଂ ଚିନି ଦାନା ମାଧ୍ୟମରେ ଆରମ୍ଭ ହେଉଥିବା ଏକ କାହାଣୀ। ଏହା କ୍ଷୁଦ୍ର ବ୍ୟବସାୟୀଙ୍କ ଜୀବନର ଗଭୀର ରହସ୍ୟ ଏବଂ ଅଭାବୀ ମଣିଷର ଜୀବନ ସଂଘର୍ଷକୁ ବର୍ଣ୍ଣନା କରେ।",
+   "author": "ഇബ്‌നു അലി എടത്തനാട്ടുകര",
+   "issue_date": "2017-01-28",
+   "html_url": "/or/story/sugar-like-gold-dust-20170128-11.html",
+   "md_url": "/or/story/sugar-like-gold-dust-20170128-11.md"
   },
   {
    "slug": "the-currency-that-was-not-accepted-20170114-3",
