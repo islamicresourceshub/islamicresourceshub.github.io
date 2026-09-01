@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-01T07:40:54.981994+00:00",
+ "generated_at": "2026-09-01T07:41:22.682987+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2558,
+ "count": 2559,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -21901,6 +21901,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/ru/story/laws-are-to-be-followed-20170128-5.html",
    "md_url": "/ru/story/laws-are-to-be-followed-20170128-5.md"
+  },
+  {
+   "slug": "sugar-like-gold-dust-20170128-11",
+   "lang": "ru",
+   "category": "story",
+   "title": "Сахар, подобный золотым крупицам",
+   "summary": "История, начинающаяся с крупиц сахара, напоминающих золото, раскрывает тайны жизни простых людей. Она призывает нас задуматься о бережном отношении к пище и предостерегает от расточительства.",
+   "author": "ഇബ്‌നു അലി എടത്തനാട്ടുകര",
+   "issue_date": "2017-01-28",
+   "html_url": "/ru/story/sugar-like-gold-dust-20170128-11.html",
+   "md_url": "/ru/story/sugar-like-gold-dust-20170128-11.md"
   },
   {
    "slug": "the-currency-that-was-not-accepted-20170114-3",
