@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-01T09:15:11.434523+00:00",
+ "generated_at": "2026-09-01T09:15:37.212669+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2749,
+ "count": 2750,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -28446,6 +28446,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/ur/aqeedah/become-the-guardian-of-the-sources-20170128-9.html",
    "md_url": "/ur/aqeedah/become-the-guardian-of-the-sources-20170128-9.md"
+  },
+  {
+   "slug": "faith-is-the-foundation-of-islam-20170128-13",
+   "lang": "ur",
+   "category": "aqeedah",
+   "title": "ایمان اسلام کی بنیاد",
+   "summary": "یہ مضمون اسلام میں ایمان کی بنیادی اہمیت پر روشنی ڈالتا ہے۔ اس میں اس اصول کی وضاحت کی گئی ہے کہ ہر عمل کی قبولیت کے لیے پختہ ایمان ہی اصل بنیاد ہے۔",
+   "author": "മൂസ സ്വലാഹി കാര",
+   "issue_date": "2017-01-28",
+   "html_url": "/ur/aqeedah/faith-is-the-foundation-of-islam-20170128-13.html",
+   "md_url": "/ur/aqeedah/faith-is-the-foundation-of-islam-20170128-13.md"
   },
   {
    "slug": "do-not-waver-in-trials-20170121-9",
