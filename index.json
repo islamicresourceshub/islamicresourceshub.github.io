@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-01T09:35:26.862713+00:00",
+ "generated_at": "2026-09-01T09:39:59.778648+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2810,
+ "count": 2811,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -30525,6 +30525,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/vi/seerah/prophets-and-trials-20170325-7.html",
    "md_url": "/vi/seerah/prophets-and-trials-20170325-7.md"
+  },
+  {
+   "slug": "abdullah-s-mistake-20170204-1",
+   "lang": "vi",
+   "category": "story",
+   "title": "Sai lầm của Abdullah",
+   "summary": "Câu chuyện kể về Abdullah, một thợ mộc lành nghề, người đã phạm sai lầm khi thực hiện công trình cuối cùng trước khi nghỉ hưu. Qua câu chuyện này, chúng ta rút ra bài học sâu sắc về sự tận tâm và trách nhiệm trong mọi việc mình làm.",
+   "author": "അറബി കഥ - പുനരാഖ്യാനം: അബൂ തൻവീൽ",
+   "issue_date": "2017-02-04",
+   "html_url": "/vi/story/abdullah-s-mistake-20170204-1.html",
+   "md_url": "/vi/story/abdullah-s-mistake-20170204-1.md"
   },
   {
    "slug": "good-intention-matters-most-20170325-8",
