@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-01T07:50:47.253582+00:00",
+ "generated_at": "2026-09-01T07:51:16.787489+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2588,
+ "count": 2589,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -26664,6 +26664,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/tr/story/laws-are-to-be-followed-20170128-5.html",
    "md_url": "/tr/story/laws-are-to-be-followed-20170128-5.md"
+  },
+  {
+   "slug": "sugar-like-gold-dust-20170128-11",
+   "lang": "tr",
+   "category": "story",
+   "title": "Altın Taneleri Gibi Şeker",
+   "summary": "Altın taneleri ve şeker taneleri üzerinden başlayan bir hikaye, küçük esnafların ve ihtiyaç sahiplerinin hayatındaki gizemleri ve zorlukları paylaşıyor. İsrafın ne kadar büyük bir kayıp olduğunu hatırlatan düşündürücü bir anlatı.",
+   "author": "ഇബ്‌നു അലി എടത്തനാട്ടുകര",
+   "issue_date": "2017-01-28",
+   "html_url": "/tr/story/sugar-like-gold-dust-20170128-11.html",
+   "md_url": "/tr/story/sugar-like-gold-dust-20170128-11.md"
   },
   {
    "slug": "the-currency-that-was-not-accepted-20170114-3",
