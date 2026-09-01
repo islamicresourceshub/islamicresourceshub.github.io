@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-01T10:51:08.265747+00:00",
+ "generated_at": "2026-09-01T10:56:43.473921+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2854,
+ "count": 2855,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -26895,6 +26895,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/ta/aqeedah/faith-is-the-foundation-of-islam-20170128-13.html",
    "md_url": "/ta/aqeedah/faith-is-the-foundation-of-islam-20170128-13.md"
+  },
+  {
+   "slug": "they-want-to-see-god-20170204-2",
+   "lang": "ta",
+   "category": "aqeedah",
+   "title": "அவர்களை கடவுளைக் காண வேண்டுமாம்!",
+   "summary": "அறிவியல் ரீதியாக நிரூபிக்கப்படாத எதையும் ஏற்காத சிலர் கடவுளைக் காண வேண்டும் என்று வாதிடுவதைப் பற்றிய கட்டுரை. இது நம்பிக்கைக்கும் அறிவியலுக்கும் இடையிலான உறவையும் கடவுளின் இருப்பையும் விவாதிக்கிறது. கடவுளைக் காண வேண்டும் என்ற வாதத்தை கட்டுரை பகுப்பாய்வு செய்கிறது.",
+   "author": "അബ്ദുല്ല ബാസിൽ സി.പി",
+   "issue_date": "2017-02-04",
+   "html_url": "/ta/aqeedah/they-want-to-see-god-20170204-2.html",
+   "md_url": "/ta/aqeedah/they-want-to-see-god-20170204-2.md"
   },
   {
    "slug": "do-not-waver-in-trials-20170121-9",
