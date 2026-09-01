@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-01T07:56:08.550731+00:00",
+ "generated_at": "2026-09-01T07:56:34.332056+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2616,
+ "count": 2617,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -231,6 +231,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/am/aqeedah/become-the-guardian-of-the-sources-20170128-9.html",
    "md_url": "/am/aqeedah/become-the-guardian-of-the-sources-20170128-9.md"
+  },
+  {
+   "slug": "faith-is-the-foundation-of-islam-20170128-13",
+   "lang": "am",
+   "category": "aqeedah",
+   "title": "እምነት የእስልምና መሠረት",
+   "summary": "በእስልምና ውስጥ የእምነት መሠረታዊ ትምህርት። ማንኛውም ተግባር የተገነባው በጽኑ እምነት ላይ እንደሆነ እና እምነት የእስልምና መሠረት መሆኑን የሚያብራራ ጽሑፍ።",
+   "author": "മൂസ സ്വലാഹി കാര",
+   "issue_date": "2017-01-28",
+   "html_url": "/am/aqeedah/faith-is-the-foundation-of-islam-20170128-13.html",
+   "md_url": "/am/aqeedah/faith-is-the-foundation-of-islam-20170128-13.md"
   },
   {
    "slug": "do-not-waver-in-trials-20170121-9",
