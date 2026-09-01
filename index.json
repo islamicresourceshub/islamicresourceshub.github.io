@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-01T07:29:53.571752+00:00",
+ "generated_at": "2026-09-01T07:30:18.078306+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2528,
+ "count": 2529,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -8723,6 +8723,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/kn/story/laws-are-to-be-followed-20170128-5.html",
    "md_url": "/kn/story/laws-are-to-be-followed-20170128-5.md"
+  },
+  {
+   "slug": "sugar-like-gold-dust-20170128-11",
+   "lang": "kn",
+   "category": "story",
+   "title": "ಬಂಗಾರದ ಕಣಗಳಂತೆ ಸಕ್ಕರೆ",
+   "summary": "ಬಂಗಾರದ ಕಣಗಳು ಮತ್ತು ಸಕ್ಕರೆಯ ಕಣಗಳ ಮೂಲಕ ಆರಂಭವಾಗುವ ಒಂದು ಕಥನ. ಸಣ್ಣ ವ್ಯಾಪಾರಿಗಳ ಜೀವನದ ಸಂಕಷ್ಟಗಳು ಮತ್ತು ಆಹಾರದ ಮೌಲ್ಯವನ್ನು ಈ ಲೇಖನವು ಹಂಚಿಕೊಳ್ಳುತ್ತದೆ.",
+   "author": "ഇബ്‌നു അലി എടത്തനാട്ടുകര",
+   "issue_date": "2017-01-28",
+   "html_url": "/kn/story/sugar-like-gold-dust-20170128-11.html",
+   "md_url": "/kn/story/sugar-like-gold-dust-20170128-11.md"
   },
   {
    "slug": "the-currency-that-was-not-accepted-20170114-3",
