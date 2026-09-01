@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-01T07:45:00.675876+00:00",
+ "generated_at": "2026-09-01T07:45:17.534833+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2570,
+ "count": 2571,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -23023,6 +23023,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/so/story/laws-are-to-be-followed-20170128-5.html",
    "md_url": "/so/story/laws-are-to-be-followed-20170128-5.md"
+  },
+  {
+   "slug": "sugar-like-gold-dust-20170128-11",
+   "lang": "so",
+   "category": "story",
+   "title": "Sonkor sida dahabka oo kale",
+   "summary": "Sheeko ku saabsan qoys sabool ah oo si taxadar leh u maareeya waxa yar ee ay haystaan, taas oo ina xusuusinaysa qiimaha cuntada iyo dhibaatada qashinka. Waxay ina xusuusinaysaa inaan ka fogaano xad-dhaafka sida uu Qur'aanka kariimka ah ina farayo.",
+   "author": "ഇബ്‌നു അലി എടത്തനാട്ടുകര",
+   "issue_date": "2017-01-28",
+   "html_url": "/so/story/sugar-like-gold-dust-20170128-11.html",
+   "md_url": "/so/story/sugar-like-gold-dust-20170128-11.md"
   },
   {
    "slug": "the-currency-that-was-not-accepted-20170114-3",
