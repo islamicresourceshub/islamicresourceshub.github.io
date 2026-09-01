@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-01T08:22:28.476467+00:00",
+ "generated_at": "2026-09-01T08:22:58.269339+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2684,
+ "count": 2685,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -8448,6 +8448,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/kn/aqeedah/become-the-guardian-of-the-sources-20170128-9.html",
    "md_url": "/kn/aqeedah/become-the-guardian-of-the-sources-20170128-9.md"
+  },
+  {
+   "slug": "faith-is-the-foundation-of-islam-20170128-13",
+   "lang": "kn",
+   "category": "aqeedah",
+   "title": "ವಿಶ್ವಾಸವೇ ಇಸ್ಲಾಮಿನ ಅಡಿಪಾಯ",
+   "summary": "ಇಸ್ಲಾಮಿನ ಮೂಲಭೂತ ನಂಬಿಕೆಯ ಕುರಿತಾದ ಅಧ್ಯಯನ. ಯಾವುದೇ ಧಾರ್ಮಿಕ ಕರ್ಮಗಳಿಗೆ ದೃಢವಾದ ವಿಶ್ವಾಸವೇ ಅಡಿಪಾಯ ಎಂಬ ತತ್ವವನ್ನು ಈ ಲೇಖನ ವಿವರಿಸುತ್ತದೆ.",
+   "author": "മൂസ സ്വലാഹി കാര",
+   "issue_date": "2017-01-28",
+   "html_url": "/kn/aqeedah/faith-is-the-foundation-of-islam-20170128-13.html",
+   "md_url": "/kn/aqeedah/faith-is-the-foundation-of-islam-20170128-13.md"
   },
   {
    "slug": "do-not-waver-in-trials-20170121-9",
