@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-01T09:31:56.849283+00:00",
+ "generated_at": "2026-09-01T09:32:28.866128+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2794,
+ "count": 2795,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -26741,6 +26741,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/ta/seerah/prophets-and-trials-20170325-7.html",
    "md_url": "/ta/seerah/prophets-and-trials-20170325-7.md"
+  },
+  {
+   "slug": "abdullah-s-mistake-20170204-1",
+   "lang": "ta",
+   "category": "story",
+   "title": "அப்துல்லாவின் தவறு",
+   "summary": "முன்பொரு காலத்தில் வாழ்ந்த திறமையான தச்சன் அப்துல்லா, தனது ஓய்வுக்கு முன் செய்த கடைசி வேலையில் காட்டிய கவனக்குறைவு அவருக்கு எத்தகைய பாடத்தைக் கற்பித்தது என்பதை இக்கதை விளக்குகிறது. நம்முடைய ஒவ்வொரு செயலும் நேர்மையுடனும் அர்ப்பணிப்புடனும் இருக்க வேண்டும் என்பதை இது உணர்த்துகிறது.",
+   "author": "അറബി കഥ - പുനരാഖ്യാനം: അബൂ തൻവീൽ",
+   "issue_date": "2017-02-04",
+   "html_url": "/ta/story/abdullah-s-mistake-20170204-1.html",
+   "md_url": "/ta/story/abdullah-s-mistake-20170204-1.md"
   },
   {
    "slug": "good-intention-matters-most-20170325-8",
