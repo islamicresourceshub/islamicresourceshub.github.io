@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-01T09:12:29.468746+00:00",
+ "generated_at": "2026-09-01T09:12:59.388090+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2744,
+ "count": 2745,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -25872,6 +25872,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/sw/youth/what-will-the-waste-do-20170114-5.html",
    "md_url": "/sw/youth/what-will-the-waste-do-20170114-5.md"
+  },
+  {
+   "slug": "faith-is-the-foundation-of-islam-20170128-13",
+   "lang": "ta",
+   "category": "aqeedah",
+   "title": "நம்பிக்கை - இஸ்லாத்தின் அடிப்படை",
+   "summary": "இஸ்லாமிய நம்பிக்கையின் அடிப்படை குறித்த ஒரு ஆய்வு. எந்தவொரு நற்செயலுக்கும் உறுதியான நம்பிக்கையே அடித்தளம் என்பதை விளக்கும் கட்டுரை.",
+   "author": "മൂസ സ്വലാഹി കാര",
+   "issue_date": "2017-01-28",
+   "html_url": "/ta/aqeedah/faith-is-the-foundation-of-islam-20170128-13.html",
+   "md_url": "/ta/aqeedah/faith-is-the-foundation-of-islam-20170128-13.md"
   },
   {
    "slug": "do-not-waver-in-trials-20170121-9",
