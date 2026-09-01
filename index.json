@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-01T08:16:56.661573+00:00",
+ "generated_at": "2026-09-01T08:17:23.271807+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2670,
+ "count": 2671,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -6391,6 +6391,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/hi/aqeedah/become-the-guardian-of-the-sources-20170128-9.html",
    "md_url": "/hi/aqeedah/become-the-guardian-of-the-sources-20170128-9.md"
+  },
+  {
+   "slug": "faith-is-the-foundation-of-islam-20170128-13",
+   "lang": "hi",
+   "category": "aqeedah",
+   "title": "ईमान: इस्लाम की बुनियाद",
+   "summary": "यह लेख इस्लाम में विश्वास यानी ईमान की बुनियादी अहमियत को स्पष्ट करता है। इसमें बताया गया है कि कैसे हर नेक अमल की जड़ में अटूट विश्वास का होना अनिवार्य है।",
+   "author": "മൂസ സ്വലാഹി കാര",
+   "issue_date": "2017-01-28",
+   "html_url": "/hi/aqeedah/faith-is-the-foundation-of-islam-20170128-13.html",
+   "md_url": "/hi/aqeedah/faith-is-the-foundation-of-islam-20170128-13.md"
   },
   {
    "slug": "do-not-waver-in-trials-20170121-9",
