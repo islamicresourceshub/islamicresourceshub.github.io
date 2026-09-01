@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-01T09:44:27.174424+00:00",
+ "generated_at": "2026-09-01T09:44:53.952675+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2820,
+ "count": 2821,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -4510,6 +4510,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/fa/aqeedah/become-the-guardian-of-the-sources-20170128-9.html",
    "md_url": "/fa/aqeedah/become-the-guardian-of-the-sources-20170128-9.md"
+  },
+  {
+   "slug": "they-want-to-see-god-20170204-2",
+   "lang": "fa",
+   "category": "aqeedah",
+   "title": "آن‌ها می‌خواهند خدا را ببینند!",
+   "summary": "این مقاله به نقد دیدگاه کسانی می‌پردازد که تنها به دلیل عدم مشاهده علمی خدا، وجود او را انکار می‌کنند. نویسنده با بررسی محدودیت‌های علم در شناخت جهان مادی و ماورای آن، استدلال می‌کند که ناتوانی در دیدن خدا با ابزارهای مادی، دلیلی بر عدم وجود او نیست.",
+   "author": "അബ്ദുല്ല ബാസിൽ സി.പി",
+   "issue_date": "2017-02-04",
+   "html_url": "/fa/aqeedah/they-want-to-see-god-20170204-2.html",
+   "md_url": "/fa/aqeedah/they-want-to-see-god-20170204-2.md"
   },
   {
    "slug": "do-not-waver-in-trials-20170121-9",
