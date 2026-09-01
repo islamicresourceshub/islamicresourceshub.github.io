@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-01T09:50:57.587747+00:00",
+ "generated_at": "2026-09-01T09:51:18.418863+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2830,
+ "count": 2842,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -10364,6 +10364,17 @@
    "md_url": "/ml/aqeedah/preparation-for-the-trial-20190907-11.md"
   },
   {
+   "slug": "pure-faith-20190119-3",
+   "lang": "ml",
+   "category": "aqeedah",
+   "title": "തെളിമയാർന്ന വിശ്വാസം",
+   "summary": "ലോകത്തിലെ പല മതങ്ങളും ഒരു മഹാശക്തിയിലുള്ള വിശ്വാസം ഉയർത്തിപ്പിടിക്കുന്നുണ്ടെങ്കിലും, ദൈവത്തെ സൃഷ്ടികളുമായി താരതമ്യം ചെയ്യുന്നതും ദുർബലനായി ചിത്രീകരിക്കുന്നതും സംശുദ്ധമായ വിശ്വാസത്തിന് തടസ്സമാകാറുണ്ട്. ഇസ്ലാം യഥാർത്ഥ ദൈവത്തെ വ്യക്തമായി പഠിപ്പിക്കുന്നു.",
+   "author": "Unknown",
+   "issue_date": "2019-01-19",
+   "html_url": "/ml/aqeedah/pure-faith-20190119-3.html",
+   "md_url": "/ml/aqeedah/pure-faith-20190119-3.md"
+  },
+  {
    "slug": "racism-communalism-the-quranic-stand-20190126-10",
    "lang": "ml",
    "category": "aqeedah",
@@ -14478,6 +14489,17 @@
    "md_url": "/ml/history/arabs-and-arabic-learning-in-kerala-20180908-2.md"
   },
   {
+   "slug": "blessings-and-trials-20190119-7",
+   "lang": "ml",
+   "category": "history",
+   "title": "അനുഗ്രഹങ്ങളും പരീക്ഷണവും",
+   "summary": "പ്രവാചകന്മാർ അല്ലാഹുവിന്റെ പരീക്ഷണങ്ങൾക്ക് വിധേയരാകാറുണ്ട്. സുലൈമാൻ നബി (അ)യുടെ ജീവിതത്തിലെ ഒരു പരീക്ഷണത്തെക്കുറിച്ചും അദ്ദേഹം അല്ലാഹുവിനോട് പൊറുക്കലിനെ ചോദിച്ചതിനെക്കുറിച്ചും ഖുർആൻ പരാമർശിക്കുന്നു.",
+   "author": "ഹുസൈൻ സലഫി",
+   "issue_date": "2019-01-19",
+   "html_url": "/ml/history/blessings-and-trials-20190119-7.html",
+   "md_url": "/ml/history/blessings-and-trials-20190119-7.md"
+  },
+  {
    "slug": "c-n-moulavi-s-translation-that-compromised-sources-20181013-9",
    "lang": "ml",
    "category": "history",
@@ -14643,6 +14665,17 @@
    "md_url": "/ml/history/lessons-from-the-history-of-the-arrogant-20190216-3.md"
   },
   {
+   "slug": "light-and-darkness-20190119-11",
+   "lang": "ml",
+   "category": "history",
+   "title": "വെളിച്ചവും ഇരുളും",
+   "summary": "പ്രവാചകൻ (സ)യുടെ വിയോഗാനന്തരം അബൂബക്കർ (റ) ഖലീഫയായപ്പോൾ മതപരിത്യാഗികളും യഹൂദ-ക്രൈസ്തവരും തലയുയർത്തി. ഈ സാഹചര്യത്തിൽ ഉസാമ (റ)യുടെ സൈന്യത്തെ ശാമിലേക്ക് അയക്കുന്നതിൽ സ്വഹാബികൾക്ക് ആശങ്കയുണ്ടായിരുന്നെങ്കിലും അബൂബക്കർ (റ) നബിചര്യ പിന്തുടർന്നു.",
+   "author": "മുഹമ്മദ് അലി വാരം",
+   "issue_date": "2019-01-19",
+   "html_url": "/ml/history/light-and-darkness-20190119-11.html",
+   "md_url": "/ml/history/light-and-darkness-20190119-11.md"
+  },
+  {
    "slug": "mahallu-activities-20191102-7",
    "lang": "ml",
    "category": "history",
@@ -14652,6 +14685,28 @@
    "issue_date": "2019-11-02",
    "html_url": "/ml/history/mahallu-activities-20191102-7.html",
    "md_url": "/ml/history/mahallu-activities-20191102-7.md"
+  },
+  {
+   "slug": "makdi-thangal-s-bitter-experiences-20190119-2",
+   "lang": "ml",
+   "category": "history",
+   "title": "മക്ദി തങ്ങളുടെ തികതാനുഭവങ്ങൾ",
+   "summary": "കേരളത്തിലെ മുസ്ലിം സമുദായത്തിൽ ഇസ്ലാമിക ജീവിതക്രമം അനുഷ്ഠിക്കുന്നതിന് ഖുർആൻ പരിജ്ഞാനം അനിവാര്യമാണെന്ന തിരിച്ചറിവ് നൽകിയതിൽ സനാഉല്ല മക്ദി തങ്ങൾ പ്രമുഖനായിരുന്നു. പ്രമാണങ്ങളെ അടിസ്ഥാനമാക്കിയുള്ള അദ്ദേഹത്തിന്റെ പരിഷ്കരണ പ്രവർത്തനങ്ങൾക്ക് കടുത്ത എതിർപ്പുകൾ നേരിടേണ്ടി വന്നു.",
+   "author": "Unknown",
+   "issue_date": "2019-01-19",
+   "html_url": "/ml/history/makdi-thangal-s-bitter-experiences-20190119-2.html",
+   "md_url": "/ml/history/makdi-thangal-s-bitter-experiences-20190119-2.md"
+  },
+  {
+   "slug": "makti-thangal-s-bitter-experiences-20190119-10",
+   "lang": "ml",
+   "category": "history",
+   "title": "മക്തി തങ്ങളുടെ തിക്താനുഭവങ്ങൾ",
+   "summary": "കേരളത്തിലെ മുസ്ലിം സമുദായത്തിൽ മതപഠന സമ്പ്രദായങ്ങളിൽ മാറ്റം വരുത്താൻ ശ്രമിച്ച മക്തി തങ്ങൾ നേരിട്ട ദുരനുഭവങ്ങളെക്കുറിച്ചാണ് ഈ ലേഖനം. സമുദായത്തിലെ പുരോഹിത-പ്രമാണി കൂട്ടുകെട്ട് അദ്ദേഹത്തിന് കടുത്ത എതിർപ്പുകൾ ഏൽപ്പിച്ചു.",
+   "author": "ഡോ. ചേകുമരക്കാരകത്ത് ഷാനവാസ്, പരവണ്ണ",
+   "issue_date": "2019-01-19",
+   "html_url": "/ml/history/makti-thangal-s-bitter-experiences-20190119-10.html",
+   "md_url": "/ml/history/makti-thangal-s-bitter-experiences-20190119-10.md"
   },
   {
    "slug": "manusmriti-and-the-caste-system-20170218-7",
@@ -15125,6 +15180,17 @@
    "issue_date": "2018-06-09",
    "html_url": "/ml/opinion/a-muslim-s-patriotism-20180609-1.html",
    "md_url": "/ml/opinion/a-muslim-s-patriotism-20180609-1.md"
+  },
+  {
+   "slug": "act-without-losing-sight-of-the-goal-20190119-9",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "ലക്ഷ്യം തെറ്റാതെ പ്രവർത്തിക്കുക",
+   "summary": "എത്ര വലിയ പ്രവർത്തനങ്ങളും ലക്ഷ്യം തെറ്റിയാൽ നിഷ്ഫലമാകും. എന്നാൽ ഉദ്ദേശ്യശുദ്ധിയോടെ ചെയ്യുന്ന ചെറിയ പ്രവർത്തനങ്ങൾ പോലും വലിയ പ്രതിഫലം നേടാൻ കാരണമാകും. ഐഹിക ലക്ഷ്യങ്ങൾ വെച്ചുള്ള പ്രവർത്തനങ്ങൾ പരലോകത്ത് ഉപകാരപ്പെടില്ല.",
+   "author": "ശരീഫ് കാര",
+   "issue_date": "2019-01-19",
+   "html_url": "/ml/opinion/act-without-losing-sight-of-the-goal-20190119-9.html",
+   "md_url": "/ml/opinion/act-without-losing-sight-of-the-goal-20190119-9.md"
   },
   {
    "slug": "adultery-india-needs-a-comprehensive-law-20181013-1",
@@ -15776,6 +15842,17 @@
    "md_url": "/ml/opinion/kerala-is-weeping-20180901-4.md"
   },
   {
+   "slug": "kerala-s-forgotten-disaster-lessons-20190119-1",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "കേരളം മറന്നുപോകുന്ന ദുരന്തപാഠങ്ങൾ",
+   "summary": "പ്രകൃതി ദുരന്തങ്ങൾ നൽകുന്ന സന്ദേശങ്ങൾ ഓർമ്മിക്കാതെ, പരിസ്ഥിതിക്ക് ദോഷകരമായ പ്രവർത്തനങ്ങൾക്ക് അനുമതി നൽകുന്നത് വേദനാജനകമാണ്. ഗാഡ്ഗിൽ, കസ്തൂരിരംഗൻ റിപ്പോർട്ടുകളെ ഗൗരവത്തിലെടുത്ത് പശ്ചിമഘട്ടത്തെ സംരക്ഷിക്കാൻ തയ്യാറാകുന്നില്ലെങ്കിൽ കേരളം വലിയ ദുരന്തങ്ങളെ നേരിടേണ്ടി വരും.",
+   "author": "സുഫ്‌യാൻ അബ്ദുസ്സലാം",
+   "issue_date": "2019-01-19",
+   "html_url": "/ml/opinion/kerala-s-forgotten-disaster-lessons-20190119-1.html",
+   "md_url": "/ml/opinion/kerala-s-forgotten-disaster-lessons-20190119-1.md"
+  },
+  {
    "slug": "laws-against-pollution-20180721-11",
    "lang": "ml",
    "category": "opinion",
@@ -15829,6 +15906,17 @@
    "issue_date": "2019-02-23",
    "html_url": "/ml/opinion/let-s-see-insha-allah-20190223-4.html",
    "md_url": "/ml/opinion/let-s-see-insha-allah-20190223-4.md"
+  },
+  {
+   "slug": "let-weapons-of-mass-destruction-stand-aside-20190119-5",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "മാരാകായുധങ്ങൾ മാറി നിൽക്കട്ടെ",
+   "summary": "പുതുമകൾക്ക് പ്രാധാന്യം നൽകുന്ന ഇന്നത്തെ കാലത്ത്, വിവാഹം പോലുള്ള കാര്യങ്ങളിൽ പോലും ഉപദ്രവകരവും ആഭാസകരവുമായ പരീക്ഷണങ്ങൾ നടക്കുന്നു. ശവപ്പെട്ടി മണവാളൻ പോലുള്ള വികൃത പരീക്ഷണങ്ങൾ ദുഃഖകരമാണ്.",
+   "author": "Unknown",
+   "issue_date": "2019-01-19",
+   "html_url": "/ml/opinion/let-weapons-of-mass-destruction-stand-aside-20190119-5.html",
+   "md_url": "/ml/opinion/let-weapons-of-mass-destruction-stand-aside-20190119-5.md"
   },
   {
    "slug": "major-environmental-laws-implemented-in-india-20180714-5",
@@ -16005,6 +16093,17 @@
    "issue_date": "2019-01-26",
    "html_url": "/ml/opinion/rafale-alok-verma-and-the-central-government-20190126-7.html",
    "md_url": "/ml/opinion/rafale-alok-verma-and-the-central-government-20190126-7.md"
+  },
+  {
+   "slug": "readers-write-20190119-6",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "വായനക്കാർ എഴുതുന്നു",
+   "summary": "യുവതലമുറ കല്യാണം, വസ്ത്രധാരണം, മറ്റ് കാര്യങ്ങളിൽ പോലും പരീക്ഷണങ്ങൾ നടത്തുകയാണ്. ഇത് പൊതുജനങ്ങളുടെ ക്ഷമയെ പരീക്ഷിക്കുന്നു. ദിശാബോധം നഷ്ടപ്പെടുന്നവർക്ക് ഉന്നതമായ മൂല്യങ്ങൾ പകർന്നു നൽകേണ്ടതുണ്ട്.",
+   "author": "മുസ്‌ലിം ബിൻ ഹൈദർ",
+   "issue_date": "2019-01-19",
+   "html_url": "/ml/opinion/readers-write-20190119-6.html",
+   "md_url": "/ml/opinion/readers-write-20190119-6.md"
   },
   {
    "slug": "realizations-from-relief-camps-20180901-1",
@@ -16973,6 +17072,17 @@
    "issue_date": "2019-08-03",
    "html_url": "/ml/quran/al-muddaththir-the-one-wrapped-20190803-2.html",
    "md_url": "/ml/quran/al-muddaththir-the-one-wrapped-20190803-2.md"
+  },
+  {
+   "slug": "al-mutaffifin-part-2-20190119-8",
+   "lang": "ml",
+   "category": "quran",
+   "title": "മുത്വിഫ്ഫിഫീൻ, ഭാഗം: 2",
+   "summary": "സൂറത്ത് മുത്വിഫ്ഫിഫീനിലെ 13 മുതൽ 28 വരെയുള്ള വചനങ്ങളുടെ തഫ്‌സീർ. സത്യത്തെ നിഷേധിക്കുന്നവർക്കുള്ള ശിക്ഷയെക്കുറിച്ചും പുണ്യാത്മാക്കൾക്കുള്ള സ്വർഗ്ഗീയ അനുഗ്രഹങ്ങളെക്കുറിച്ചും ഇത് വിശദീകരിക്കുന്നു.",
+   "author": "വിവ: ഹാരിസ് ബിൻ സലീം",
+   "issue_date": "2019-01-19",
+   "html_url": "/ml/quran/al-mutaffifin-part-2-20190119-8.html",
+   "md_url": "/ml/quran/al-mutaffifin-part-2-20190119-8.md"
   },
   {
    "slug": "al-mutaffifin-those-who-give-less-in-measure-20190112-4",
@@ -18128,6 +18238,17 @@
    "issue_date": "2019-12-14",
    "html_url": "/ml/seerah/migration-is-not-escapism-20191214-9.html",
    "md_url": "/ml/seerah/migration-is-not-escapism-20191214-9.md"
+  },
+  {
+   "slug": "miraculous-incidents-in-childhood-20190119-4",
+   "lang": "ml",
+   "category": "seerah",
+   "title": "ശൈശവത്തിലെ അത്ഭുത സംഭവങ്ങൾ",
+   "summary": "പ്രവാചകൻ മുഹമ്മദ് നബി (സ)യുടെ ശൈശവകാലത്തെ അത്ഭുത സംഭവങ്ങളെക്കുറിച്ചാണ് ഈ ലേഖനം. ഹലീമ സഅദിയ്യയുടെ വീട്ടിൽ വെച്ച് നടന്ന സംഭവങ്ങളും, അദ്ദേഹത്തിന്റെ ഹൃദയം പിളർത്തപ്പെട്ടതും പ്രവാചകത്വത്തിനുള്ള ഒരുക്കങ്ങളായിരുന്നു.",
+   "author": "ഫദ്ലുൽ ഹഖ് ഉമരി",
+   "issue_date": "2019-01-19",
+   "html_url": "/ml/seerah/miraculous-incidents-in-childhood-20190119-4.html",
+   "md_url": "/ml/seerah/miraculous-incidents-in-childhood-20190119-4.md"
   },
   {
    "slug": "mockery-and-false-allegations-prophet-muhammad-pbuh-part-11-20190223-6",
@@ -19349,6 +19470,17 @@
    "issue_date": "2018-05-05",
    "html_url": "/ml/story/guardians-should-be-role-models-20180505-8.html",
    "md_url": "/ml/story/guardians-should-be-role-models-20180505-8.md"
+  },
+  {
+   "slug": "holy-makkah-20190119-12",
+   "lang": "ml",
+   "category": "story",
+   "title": "വിശുദ്ധ മക്ക",
+   "summary": "വിശുദ്ധ മക്കയുടെ ചരിത്രപരമായ പ്രാധാന്യത്തെയും ഇസ്മായിൽ നബി (അ)യുടെ കാലം മുതൽക്കുള്ള അതിന്റെ പവിത്രതയെയും കവിതയിൽ വർണ്ണിക്കുന്നു.",
+   "author": "അബ്ദുൽ അഹദ് മണലായ",
+   "issue_date": "2019-01-19",
+   "html_url": "/ml/story/holy-makkah-20190119-12.html",
+   "md_url": "/ml/story/holy-makkah-20190119-12.md"
   },
   {
    "slug": "how-beautiful-is-this-earth-20181208-4",
