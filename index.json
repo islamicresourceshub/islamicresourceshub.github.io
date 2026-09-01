@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-01T08:06:48.802264+00:00",
+ "generated_at": "2026-09-01T08:07:27.693998+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2646,
+ "count": 2647,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -3817,6 +3817,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/es/aqeedah/become-the-guardian-of-the-sources-20170128-9.html",
    "md_url": "/es/aqeedah/become-the-guardian-of-the-sources-20170128-9.md"
+  },
+  {
+   "slug": "faith-is-the-foundation-of-islam-20170128-13",
+   "lang": "es",
+   "category": "aqeedah",
+   "title": "La fe es el fundamento del Islam",
+   "summary": "Un estudio fundamental sobre la fe en el Islam. Explica el principio de que una fe firme es la base de toda acción y cómo esta convicción distingue al creyente de las falsas ideologías.",
+   "author": "മൂസ സ്വലാഹി കാര",
+   "issue_date": "2017-01-28",
+   "html_url": "/es/aqeedah/faith-is-the-foundation-of-islam-20170128-13.html",
+   "md_url": "/es/aqeedah/faith-is-the-foundation-of-islam-20170128-13.md"
   },
   {
    "slug": "do-not-waver-in-trials-20170121-9",
