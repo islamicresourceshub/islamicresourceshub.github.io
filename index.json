@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-01T09:51:18.418863+00:00",
+ "generated_at": "2026-09-01T09:54:32.267745+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2842,
+ "count": 2843,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -20449,6 +20449,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/mr/aqeedah/faith-is-the-foundation-of-islam-20170128-13.html",
    "md_url": "/mr/aqeedah/faith-is-the-foundation-of-islam-20170128-13.md"
+  },
+  {
+   "slug": "they-want-to-see-god-20170204-2",
+   "lang": "mr",
+   "category": "aqeedah",
+   "title": "त्यांना देव बघायचा आहे!",
+   "summary": "जे लोक वैज्ञानिकदृष्ट्या सिद्ध न झालेल्या गोष्टींवर विश्वास ठेवत नाहीत, त्यांना देव का बघायचा आहे याबद्दलचा लेख. हा लेख श्रद्धा आणि विज्ञान यांच्यातील संबंधांवर आणि देवाच्या अस्तित्वावर चर्चा करतो. देव बघण्याच्या मागणीचे विश्लेषण लेखात केले आहे.",
+   "author": "അബ്ദുല്ല ബാസിൽ സി.പി",
+   "issue_date": "2017-02-04",
+   "html_url": "/mr/aqeedah/they-want-to-see-god-20170204-2.html",
+   "md_url": "/mr/aqeedah/they-want-to-see-god-20170204-2.md"
   },
   {
    "slug": "do-not-waver-in-trials-20170121-9",
