@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-01T08:13:35.151086+00:00",
+ "generated_at": "2026-09-01T08:16:56.661573+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2659,
+ "count": 2670,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -10595,6 +10595,17 @@
    "md_url": "/ml/dawah/few-are-the-successful-20191026-11.md"
   },
   {
+   "slug": "financial-transparency-of-an-organizer-20191123-9",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "സംഘാടകന്റെ സാമ്പത്തിക സുതാര്യത",
+   "summary": "പ്രബോധന പ്രവര്‍ത്തനങ്ങളില്‍ സാമ്പത്തിക സുതാര്യത പാലിക്കേണ്ടതിന്റെ പ്രാധാന്യത്തെക്കുറിച്ച് ഈ ലേഖനം സംസാരിക്കുന്നു. ബഡ്ജറ്റ് തയ്യാറാക്കുന്നതിലും ചെലവഴിക്കുന്നതിലും പാലിക്കേണ്ട സൂക്ഷ്മതകളെക്കുറിച്ച് വിവരിക്കുന്നു.",
+   "author": "ടി.കെ.അശ്‌റഫ്",
+   "issue_date": "2019-11-23",
+   "html_url": "/ml/dawah/financial-transparency-of-an-organizer-20191123-9.html",
+   "md_url": "/ml/dawah/financial-transparency-of-an-organizer-20191123-9.md"
+  },
+  {
    "slug": "finding-joy-in-prayer-20180915-4",
    "lang": "ml",
    "category": "dawah",
@@ -11387,6 +11398,17 @@
    "md_url": "/ml/dawah/the-beauty-of-islam-20190608-4.md"
   },
   {
+   "slug": "the-believer-is-grateful-20191123-4",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "കൃതജ്ഞതയുള്ളവനാണ് സത്യവിശ്വാസി",
+   "summary": "അല്ലാഹു നല്‍കിയ എണ്ണിയാലൊടുങ്ങാത്ത അനുഗ്രഹങ്ങള്‍ക്ക് നന്ദി കാണിക്കേണ്ടതിന്റെ പ്രാധാന്യത്തെക്കുറിച്ച് ഈ ലേഖനം ഓര്‍മിപ്പിക്കുന്നു. സത്യവിശ്വാസിയുടെ ജീവിതത്തില്‍ കൃതജ്ഞതക്കുള്ള സ്ഥാനം വ്യക്തമാക്കുന്നു.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2019-11-23",
+   "html_url": "/ml/dawah/the-believer-is-grateful-20191123-4.html",
+   "md_url": "/ml/dawah/the-believer-is-grateful-20191123-4.md"
+  },
+  {
    "slug": "the-bible-and-pagan-writings-20190706-2",
    "lang": "ml",
    "category": "dawah",
@@ -12003,6 +12025,17 @@
    "md_url": "/ml/dawah/why-did-they-become-mujahids-20181208-8.md"
   },
   {
+   "slug": "wisdom-in-dawah-prophet-s-approach-20191123-8",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "പ്രബോധനത്തിലെ യുക്തിദീക്ഷ: പ്രവാചകന്റെ നിലപാടുകള്‍",
+   "summary": "പ്രവാചകന്‍ മുഹമ്മദ് നബി (സ) പ്രബോധന പ്രവര്‍ത്തനങ്ങളില്‍ സ്വീകരിച്ച യുക്തിദീക്ഷയും മാതൃകകളും ഈ ലേഖനം വിശകലനം ചെയ്യുന്നു. ആധുനിക കാലത്ത് പ്രബോധകര്‍ക്ക് ഇത് എങ്ങനെ പ്രയോജനപ്പെടുത്താം എന്ന് വ്യക്തമാക്കുന്നു.",
+   "author": "അബ്ബാസ് ചെറുതുരുത്തി",
+   "issue_date": "2019-11-23",
+   "html_url": "/ml/dawah/wisdom-in-dawah-prophet-s-approach-20191123-8.html",
+   "md_url": "/ml/dawah/wisdom-in-dawah-prophet-s-approach-20191123-8.md"
+  },
+  {
    "slug": "with-a-satisfied-soul-20180804-11",
    "lang": "ml",
    "category": "dawah",
@@ -12474,6 +12507,17 @@
    "issue_date": "2018-06-09",
    "html_url": "/ml/family/ramadan-of-reformation-20180609-3.html",
    "md_url": "/ml/family/ramadan-of-reformation-20180609-3.md"
+  },
+  {
+   "slug": "reflect-religion-in-life-20191123-6",
+   "lang": "ml",
+   "category": "family",
+   "title": "മതത്തെ ജീവിതത്തില്‍ പ്രതിഫലിപ്പിക്കുക",
+   "summary": "മതം കേവലം ആചാരങ്ങളിലൊതുങ്ങാതെ ജീവിതത്തിന്റെ ഭാഗമാക്കേണ്ടതിന്റെ ആവശ്യകതയെക്കുറിച്ച് സഹോദരിമാരെ ഉണര്‍ത്തുന്നു. സ്വന്തം ജീവിതത്തെ വിലയിരുത്താന്‍ ഈ ലേഖനം പ്രേരിപ്പിക്കുന്നു.",
+   "author": "ജംഷീന കല്‍പ്പറ്റ",
+   "issue_date": "2019-11-23",
+   "html_url": "/ml/family/reflect-religion-in-life-20191123-6.html",
+   "md_url": "/ml/family/reflect-religion-in-life-20191123-6.md"
   },
   {
    "slug": "relationships-melting-in-the-heat-of-anger-20190112-5",
@@ -14368,6 +14412,17 @@
    "md_url": "/ml/opinion/authorities-and-intolerance-20190831-1.md"
   },
   {
+   "slug": "ayodhya-verdict-inside-and-out-20191123-2",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "അയോധ്യാ വിധി: അകവും പുറവും",
+   "summary": "അയോധ്യ കേസിലെ സുപ്രീം കോടതി വിധി മതേതര ഇന്ത്യക്ക് നല്‍കുന്ന സന്ദേശങ്ങളെക്കുറിച്ചുള്ള വിശകലനം. നീതിയുടെയും നിയമത്തിന്റെയും അടിസ്ഥാനത്തില്‍ വിധിയെ എങ്ങനെ നോക്കിക്കാണണം എന്ന് ലേഖനം ചര്‍ച്ച ചെയ്യുന്നു.",
+   "author": "സുഫ്‌യാന്‍ അബ്ദുസ്സലാം",
+   "issue_date": "2019-11-23",
+   "html_url": "/ml/opinion/ayodhya-verdict-inside-and-out-20191123-2.html",
+   "md_url": "/ml/opinion/ayodhya-verdict-inside-and-out-20191123-2.md"
+  },
+  {
    "slug": "burning-kerala-drying-water-sources-20190323-8",
    "lang": "ml",
    "category": "opinion",
@@ -15798,6 +15853,17 @@
    "md_url": "/ml/quran/al-buruj-constellations-20181222-3.md"
   },
   {
+   "slug": "al-haqqah-the-inevitable-reality-20191123-3",
+   "lang": "ml",
+   "category": "quran",
+   "title": "ഹാഖ്ഖ (യഥാര്‍ഥ സംഭവം)",
+   "summary": "വിശുദ്ധ ഖുര്‍ആനിലെ 69-ാം അധ്യായമായ സൂറത്തുല്‍ ഹാഖയുടെ ലളിതമായ വ്യാഖ്യാനം. അന്ത്യദിനത്തെക്കുറിച്ചും മുന്‍കാല സമുദായങ്ങള്‍ക്ക് സംഭവിച്ച കാര്യങ്ങളെക്കുറിച്ചും ഈ ഭാഗം വിവരിക്കുന്നു.",
+   "author": "അബ്ദുറഹ്മാന്‍ നാസിര്‍ അസ്സഅദി",
+   "issue_date": "2019-11-23",
+   "html_url": "/ml/quran/al-haqqah-the-inevitable-reality-20191123-3.html",
+   "md_url": "/ml/quran/al-haqqah-the-inevitable-reality-20191123-3.md"
+  },
+  {
    "slug": "al-inshiqaq-the-sundering-20181229-4",
    "lang": "ml",
    "category": "quran",
@@ -16566,6 +16632,17 @@
    "issue_date": "2026-08-22",
    "html_url": "/ml/quran/universal-calls-in-the-quran-19-truth-falsehood-and-human-fr-20260822-3.html",
    "md_url": "/ml/quran/universal-calls-in-the-quran-19-truth-falsehood-and-human-fr-20260822-3.md"
+  },
+  {
+   "slug": "what-quran-says-about-itself-20191123-5",
+   "lang": "ml",
+   "category": "quran",
+   "title": "ക്വുര്‍ആനിനെക്കുറിച്ച് ക്വുര്‍ആനില്‍ പറയുന്നത്",
+   "summary": "വിശുദ്ധ ഖുര്‍ആന്‍ എന്താണെന്നും അത് എങ്ങനെയാണ് മനുഷ്യര്‍ക്ക് വഴികാട്ടിയാകുന്നതെന്നും ഖുര്‍ആനിക വചനങ്ങളുടെ അടിസ്ഥാനത്തില്‍ ഈ ലേഖനം വിശദീകരിക്കുന്നു.",
+   "author": "അബ്ദുല്‍ ജബ്ബാര്‍ അബ്ദുല്ല",
+   "issue_date": "2019-11-23",
+   "html_url": "/ml/quran/what-quran-says-about-itself-20191123-5.html",
+   "md_url": "/ml/quran/what-quran-says-about-itself-20191123-5.md"
   },
   {
    "slug": "what-to-beware-of-when-taking-sides-20170128-7",
@@ -17679,6 +17756,17 @@
    "md_url": "/ml/seerah/war-is-near-20190803-11.md"
   },
   {
+   "slug": "who-are-the-noble-20191123-1",
+   "lang": "ml",
+   "category": "seerah",
+   "title": "ആരാണ് മഹത്ത്വമുള്ളവര്‍?",
+   "summary": "അനിസ്‌ലാമിക കാലത്തെ അഹന്തകളും വംശീയതയും ഇസ്‌ലാം എങ്ങനെയാണ് അവസാനിപ്പിച്ചതെന്ന് ഈ ലേഖനം വിശദീകരിക്കുന്നു. മനുഷ്യന്റെ മഹത്ത്വം കുലമഹിമയിലല്ല, മറിച്ച് ദൈവഭക്തിയിലാണെന്ന് പ്രവാചക വചനങ്ങളുടെ അടിസ്ഥാനത്തില്‍ വിവരിക്കുന്നു.",
+   "author": "അബൂതന്‍വീല്‍",
+   "issue_date": "2019-11-23",
+   "html_url": "/ml/seerah/who-are-the-noble-20191123-1.html",
+   "md_url": "/ml/seerah/who-are-the-noble-20191123-1.md"
+  },
+  {
    "slug": "who-is-khidr-as-20181027-1",
    "lang": "ml",
    "category": "seerah",
@@ -18647,6 +18735,17 @@
    "md_url": "/ml/story/the-washed-away-village-20190914-5.md"
   },
   {
+   "slug": "those-who-hate-sweat-20191123-12",
+   "lang": "ml",
+   "category": "story",
+   "title": "വിയര്‍പ്പിനെ വെറുക്കുന്നവര്‍",
+   "summary": "കഠിനാധ്വാനത്തെയും വിയര്‍പ്പിനെയും അവജ്ഞയോടെ കാണുന്ന സമൂഹത്തിന്റെ മനോഭാവത്തെ തുറന്നുകാട്ടുന്ന ഒരു കഥ.",
+   "author": "ഇബ്‌നു അലി എടത്തനാട്ടുകര",
+   "issue_date": "2019-11-23",
+   "html_url": "/ml/story/those-who-hate-sweat-20191123-12.html",
+   "md_url": "/ml/story/those-who-hate-sweat-20191123-12.md"
+  },
+  {
    "slug": "three-poems-20181027-5",
    "lang": "ml",
    "category": "story",
@@ -18667,6 +18766,17 @@
    "issue_date": "2019-04-13",
    "html_url": "/ml/story/to-the-youth-20190413-11.html",
    "md_url": "/ml/story/to-the-youth-20190413-11.md"
+  },
+  {
+   "slug": "towards-the-light-20191123-11",
+   "lang": "ml",
+   "category": "story",
+   "title": "വെളിച്ചത്തിലേക്ക്...",
+   "summary": "പ്രവാചകത്വത്തിന്റെ ആഗമനത്തെയും അത് ലോകത്തുണ്ടാക്കിയ മാറ്റങ്ങളെയും കുറിച്ചുള്ള കവിത.",
+   "author": "ഷറീന തയ്യില്‍, എടത്തനാട്ടുകര",
+   "issue_date": "2019-11-23",
+   "html_url": "/ml/story/towards-the-light-20191123-11.html",
+   "md_url": "/ml/story/towards-the-light-20191123-11.md"
   },
   {
    "slug": "truthfulness-20190824-6",
@@ -18799,6 +18909,17 @@
    "issue_date": "2019-11-02",
    "html_url": "/ml/youth/engineering-studies-wasted-future-and-money-20191102-4.html",
    "md_url": "/ml/youth/engineering-studies-wasted-future-and-money-20191102-4.md"
+  },
+  {
+   "slug": "football-meeting-and-children-s-message-20191123-7",
+   "lang": "ml",
+   "category": "youth",
+   "title": "ഫുട്ബോള്‍ മീറ്റിംഗും കുട്ടികള്‍ സമൂഹത്തിന് നല്‍കുന്ന സന്ദേശവും",
+   "summary": "നിലമ്പൂരിലെ കുട്ടികള്‍ ഫുട്ബോള്‍ വാങ്ങാന്‍ നടത്തിയ മാതൃകാപരമായ ഇടപെടലിനെക്കുറിച്ചുള്ള കുറിപ്പ്. കുട്ടികളില്‍ നിന്ന് സമൂഹത്തിന് പഠിക്കാനുള്ള പാഠങ്ങളെ ഇത് ചര്‍ച്ച ചെയ്യുന്നു.",
+   "author": "നബീല്‍ പയ്യോളി",
+   "issue_date": "2019-11-23",
+   "html_url": "/ml/youth/football-meeting-and-children-s-message-20191123-7.html",
+   "md_url": "/ml/youth/football-meeting-and-children-s-message-20191123-7.md"
   },
   {
    "slug": "for-the-learners-20180811-5",
