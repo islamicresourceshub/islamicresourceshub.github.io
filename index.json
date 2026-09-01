@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-01T09:30:47.588278+00:00",
+ "generated_at": "2026-09-01T09:31:18.757267+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2792,
+ "count": 2793,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -25696,6 +25696,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/sq/seerah/prophets-and-trials-20170325-7.html",
    "md_url": "/sq/seerah/prophets-and-trials-20170325-7.md"
+  },
+  {
+   "slug": "abdullah-s-mistake-20170204-1",
+   "lang": "sq",
+   "category": "story",
+   "title": "Gabimi i Abdullahut",
+   "summary": "Në një fshat jetonte një marangoz i aftë i quajtur Abdullah, i cili punonte për një pronar të pasur. Kjo histori tregon për një gabim që ai bëri në fund të karrierës së tij dhe mësimin e vlefshëm që nxori prej tij.",
+   "author": "അറബി കഥ - പുനരാഖ്യാനം: അബൂ തൻവീൽ",
+   "issue_date": "2017-02-04",
+   "html_url": "/sq/story/abdullah-s-mistake-20170204-1.html",
+   "md_url": "/sq/story/abdullah-s-mistake-20170204-1.md"
   },
   {
    "slug": "good-intention-matters-most-20170325-8",
