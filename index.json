@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-01T07:36:45.427981+00:00",
+ "generated_at": "2026-09-01T07:37:17.432932+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2546,
+ "count": 2547,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -20284,6 +20284,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/pa/story/laws-are-to-be-followed-20170128-5.html",
    "md_url": "/pa/story/laws-are-to-be-followed-20170128-5.md"
+  },
+  {
+   "slug": "sugar-like-gold-dust-20170128-11",
+   "lang": "pa",
+   "category": "story",
+   "title": "ਸੋਨੇ ਦੇ ਕਣਾਂ ਵਰਗੀ ਖੰਡ",
+   "summary": "ਸੋਨੇ ਦੇ ਕਣਾਂ ਅਤੇ ਖੰਡ ਦੇ ਦਾਣਿਆਂ ਨਾਲ ਸ਼ੁਰੂ ਹੁੰਦੀ ਇੱਕ ਕਹਾਣੀ, ਜੋ ਗਰੀਬ ਪਰਿਵਾਰਾਂ ਦੇ ਜੀਵਨ ਦੀਆਂ ਮੁਸ਼ਕਲਾਂ ਅਤੇ ਸਾਡੇ ਦੁਆਰਾ ਭੋਜਨ ਦੀ ਬਰਬਾਦੀ ਬਾਰੇ ਸੋਚਣ ਲਈ ਮਜਬੂਰ ਕਰਦੀ ਹੈ।",
+   "author": "ഇബ്‌നു അലി എടത്തനാട്ടുകര",
+   "issue_date": "2017-01-28",
+   "html_url": "/pa/story/sugar-like-gold-dust-20170128-11.html",
+   "md_url": "/pa/story/sugar-like-gold-dust-20170128-11.md"
   },
   {
    "slug": "the-currency-that-was-not-accepted-20170114-3",
