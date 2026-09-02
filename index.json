@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-02T07:25:28.103581+00:00",
+ "generated_at": "2026-09-02T07:25:54.714159+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2912,
+ "count": 2913,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -29172,6 +29172,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/tl/family/don-t-worry-allah-is-with-you-20170114-10.html",
    "md_url": "/tl/family/don-t-worry-allah-is-with-you-20170114-10.md"
+  },
+  {
+   "slug": "harassment-from-mother-in-law-20170204-3",
+   "lang": "tl",
+   "category": "family",
+   "title": "Pagmamaltrato mula sa biyenang babae",
+   "summary": "Ang artikulong ito ay tumatalakay sa tanong ng isang babaeng nakararanas ng mental na pagpapahirap mula sa kanyang biyenan. Sinusuri nito ang isyu sa pananaw ng Islam, lalo na kung walang aksyon ang asawa, at nagbibigay ng payo tungkol sa pagtitiis at paghahanap ng solusyon.",
+   "author": "ഹാരിസ്ബിൻ സലീം",
+   "issue_date": "2017-02-04",
+   "html_url": "/tl/family/harassment-from-mother-in-law-20170204-3.html",
+   "md_url": "/tl/family/harassment-from-mother-in-law-20170204-3.md"
   },
   {
    "slug": "how-to-be-a-good-parent-part-2-20170121-4",
