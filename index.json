@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-02T05:09:51.306880+00:00",
+ "generated_at": "2026-09-02T06:28:08.961458+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2900,
+ "count": 2901,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -22066,6 +22066,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/ne/family/don-t-worry-allah-is-with-you-20170114-10.html",
    "md_url": "/ne/family/don-t-worry-allah-is-with-you-20170114-10.md"
+  },
+  {
+   "slug": "harassment-from-mother-in-law-20170204-3",
+   "lang": "ne",
+   "category": "family",
+   "title": "सासबाटको मानसिक यातना",
+   "summary": "एक महिला लंबे समय से विवाहित है, मगर सासबाटबाट मानसिक यातना अनुभव गर्दछ, पतिबाट पनि उनीहरूको मद्दत नसकेपछि उनीहरूको शारीरिक र मानसिक कष्ट छ। इस्लामिको दृष्टिकोण अनुसार, यसरीको समस्या कसरी समाधान गरी सकिन्छ र पत्नीको अधिकार कति छ यो लेख स्पष्ट गर्दछ।",
+   "author": "ഹാരിസ്ബിൻ സലീം",
+   "issue_date": "2017-02-04",
+   "html_url": "/ne/family/harassment-from-mother-in-law-20170204-3.html",
+   "md_url": "/ne/family/harassment-from-mother-in-law-20170204-3.md"
   },
   {
    "slug": "how-to-be-a-good-parent-part-2-20170121-4",
