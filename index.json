@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-02T07:38:04.003387+00:00",
+ "generated_at": "2026-09-02T07:38:36.286964+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2949,
+ "count": 2950,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -22506,6 +22506,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/ne/hadith/criteria-for-accepting-hadith-20170128-2.html",
    "md_url": "/ne/hadith/criteria-for-accepting-hadith-20170128-2.md"
+  },
+  {
+   "slug": "challenges-posed-by-pseudo-nationalism-20170204-4",
+   "lang": "ne",
+   "category": "opinion",
+   "title": "छद्म राष्ट्रवादले खडा गरेका चुनौतीहरू",
+   "summary": "यो लेखले आफ्नो देश र देशवासीप्रति भावनात्मक लगाव हुनु मानिसको स्वाभाविक गुण भएको बताउँछ। यद्यपि, यसले छद्म राष्ट्रवादले समाजमा खडा गरेका चुनौतीहरू, यसबाट उत्पन्न हुने समस्याहरू र त्यसका गम्भीर परिणामहरूको विश्लेषण गर्दछ।",
+   "author": "സുഫ്‌യാന്‍ അബ്ദുസ്സലാം - റിയാദ്‌",
+   "issue_date": "2017-02-04",
+   "html_url": "/ne/opinion/challenges-posed-by-pseudo-nationalism-20170204-4.html",
+   "md_url": "/ne/opinion/challenges-posed-by-pseudo-nationalism-20170204-4.md"
   },
   {
    "slug": "e-writing-is-not-mere-writing-20170121-15",
