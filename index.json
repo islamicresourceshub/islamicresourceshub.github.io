@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-02T11:25:58.361443+00:00",
+ "generated_at": "2026-09-02T11:29:23.956261+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3225,
+ "count": 3226,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -8690,6 +8690,17 @@
    "issue_date": "2017-02-04",
    "html_url": "/id/story/abdullah-s-mistake-20170204-1.html",
    "md_url": "/id/story/abdullah-s-mistake-20170204-1.md"
+  },
+  {
+   "slug": "allah-is-watching-20170211-3",
+   "lang": "id",
+   "category": "story",
+   "title": "Allah Maha Melihat",
+   "summary": "Ini adalah sebuah kisah yang mengajarkan kejujuran dan ketakwaan melalui kehidupan seorang petani bernama Hasan. Kesadaran bahwa pengawasan Allah selalu menyertai kita akan menuntun manusia menuju kebaikan.",
+   "author": "തന്‍വീര്‍",
+   "issue_date": "2017-02-11",
+   "html_url": "/id/story/allah-is-watching-20170211-3.html",
+   "md_url": "/id/story/allah-is-watching-20170211-3.md"
   },
   {
    "slug": "good-intention-matters-most-20170325-8",
