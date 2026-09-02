@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-02T08:47:25.504372+00:00",
+ "generated_at": "2026-09-02T08:47:47.293819+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3036,
+ "count": 3037,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -30954,6 +30954,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/tr/dawah/the-religion-that-rejects-terrorism-part-1-20170121-12.html",
    "md_url": "/tr/dawah/the-religion-that-rejects-terrorism-part-1-20170121-12.md"
+  },
+  {
+   "slug": "children-an-islamic-reading-part-4-20170204-5",
+   "lang": "tr",
+   "category": "family",
+   "title": "Çocuklar: İslami Bir Okuma",
+   "summary": "İslami ebeveynlik görevini üstlenenlerin, çocukların kim olduğunu ve ne anlama geldiğini doğru bir şekilde anlamaları gerektiğini vurgulayan bu yazı, çocuklarla ilgili İslami bakış açısını ele alan serinin dördüncü bölümüdür. Çocukların önemi ve yetiştirilme biçimleri üzerine odaklanmaktadır.",
+   "author": "അഷ്‌റഫ്‌ എകരൂൽ",
+   "issue_date": "2017-02-04",
+   "html_url": "/tr/family/children-an-islamic-reading-part-4-20170204-5.html",
+   "md_url": "/tr/family/children-an-islamic-reading-part-4-20170204-5.md"
   },
   {
    "slug": "don-t-worry-allah-is-with-you-20170114-10",
