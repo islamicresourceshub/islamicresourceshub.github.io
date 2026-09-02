@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-02T07:57:18.826073+00:00",
+ "generated_at": "2026-09-02T07:57:49.348689+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2983,
+ "count": 2984,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -1496,6 +1496,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/as/dawah/the-religion-that-rejects-terrorism-part-1-20170121-12.html",
    "md_url": "/as/dawah/the-religion-that-rejects-terrorism-part-1-20170121-12.md"
+  },
+  {
+   "slug": "children-an-islamic-reading-part-4-20170204-5",
+   "lang": "as",
+   "category": "family",
+   "title": "সন্তান: এক ইসলামী পাঠ",
+   "summary": "ইসলামী প্যারেন্টিং বা সন্তান লালন-পালনের দায়িত্ব গ্রহণকারীদের জন্য সন্তান আসলে কারা এবং কী, তা সঠিকভাবে বোঝা জরুরি। এই নিবন্ধটি সন্তানদের বিষয়ে ইসলামী দৃষ্টিভঙ্গি ব্যাখ্যা করার ধারাবাহিক সিরিজের চতুর্থ পর্ব। এখানে সন্তানদের গুরুত্ব এবং তাদের লালন-পালনের সঠিক পদ্ধতি নিয়ে আলোচনা করা হয়েছে।",
+   "author": "അഷ്‌റഫ്‌ എകരൂൽ",
+   "issue_date": "2017-02-04",
+   "html_url": "/as/family/children-an-islamic-reading-part-4-20170204-5.html",
+   "md_url": "/as/family/children-an-islamic-reading-part-4-20170204-5.md"
   },
   {
    "slug": "don-t-worry-allah-is-with-you-20170114-10",
