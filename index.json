@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-02T08:11:29.683259+00:00",
+ "generated_at": "2026-09-02T08:11:56.992487+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2987,
+ "count": 2988,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -3773,6 +3773,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/en/dawah/the-religion-that-rejects-terrorism-part-1-20170121-12.html",
    "md_url": "/en/dawah/the-religion-that-rejects-terrorism-part-1-20170121-12.md"
+  },
+  {
+   "slug": "children-an-islamic-reading-part-4-20170204-5",
+   "lang": "en",
+   "category": "family",
+   "title": "Children: An Islamic Reading",
+   "summary": "This article, the fourth in a series on Islamic perspectives regarding children, emphasizes that those who take on the mission of Islamic parenting must truly understand the nature and significance of children. It explores the status of children as a divine gift and the responsibilities parents hold in raising them.",
+   "author": "അഷ്‌റഫ്‌ എകരൂൽ",
+   "issue_date": "2017-02-04",
+   "html_url": "/en/family/children-an-islamic-reading-part-4-20170204-5.html",
+   "md_url": "/en/family/children-an-islamic-reading-part-4-20170204-5.md"
   },
   {
    "slug": "don-t-worry-allah-is-with-you-20170114-10",
