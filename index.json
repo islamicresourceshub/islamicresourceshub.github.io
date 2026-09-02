@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-02T07:09:40.219858+00:00",
+ "generated_at": "2026-09-02T07:12:22.760548+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2902,
+ "count": 2903,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -23694,6 +23694,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/ps/family/don-t-worry-allah-is-with-you-20170114-10.html",
    "md_url": "/ps/family/don-t-worry-allah-is-with-you-20170114-10.md"
+  },
+  {
+   "slug": "harassment-from-mother-in-law-20170204-3",
+   "lang": "ps",
+   "category": "family",
+   "title": "د خواښې له خوا ځورونه",
+   "summary": "دا مقاله د یوې داسې مېرمنې پوښتنه او ځواب دی چې د خپلې خواښې له خوا رواني ځورونې سره مخ ده. دا د هغو رواني او فزیکي ستونزو په اړه بحث کوي چې هغه ورسره مخ ده، په داسې حال کې چې د مېړه له خوا ورته حل نه موندل کیږي. مقاله په دې اړه وضاحت ورکوي چې دا ستونزه د اسلامي لیدلوري له مخې څنګه حل کیدی شي.",
+   "author": "ഹാരിസ്ബിൻ സലീം",
+   "issue_date": "2017-02-04",
+   "html_url": "/ps/family/harassment-from-mother-in-law-20170204-3.html",
+   "md_url": "/ps/family/harassment-from-mother-in-law-20170204-3.md"
   },
   {
    "slug": "how-to-be-a-good-parent-part-2-20170121-4",
