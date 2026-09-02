@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-02T08:47:03.505591+00:00",
+ "generated_at": "2026-09-02T08:47:25.504372+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3035,
+ "count": 3036,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -30382,6 +30382,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/tl/dawah/the-religion-that-rejects-terrorism-part-1-20170121-12.html",
    "md_url": "/tl/dawah/the-religion-that-rejects-terrorism-part-1-20170121-12.md"
+  },
+  {
+   "slug": "children-an-islamic-reading-part-4-20170204-5",
+   "lang": "tl",
+   "category": "family",
+   "title": "Mga Anak: Isang Islamikong Pagbasa",
+   "summary": "Binibigyang-diin ng artikulong ito na ang mga magulang ay dapat magkaroon ng malalim na pag-unawa sa kung sino at ano ang mga anak ayon sa pananaw ng Islam. Ito ang ikaapat na bahagi ng serye na tumatalakay sa kahalagahan ng mga anak at ang tamang paraan ng pagpapalaki sa kanila.",
+   "author": "അഷ്‌റഫ്‌ എകരൂൽ",
+   "issue_date": "2017-02-04",
+   "html_url": "/tl/family/children-an-islamic-reading-part-4-20170204-5.html",
+   "md_url": "/tl/family/children-an-islamic-reading-part-4-20170204-5.md"
   },
   {
    "slug": "don-t-worry-allah-is-with-you-20170114-10",
