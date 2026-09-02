@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-02T10:49:40.850671+00:00",
+ "generated_at": "2026-09-02T10:56:48.984737+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3218,
+ "count": 3219,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -4400,6 +4400,17 @@
    "issue_date": "2017-02-04",
    "html_url": "/en/story/abdullah-s-mistake-20170204-1.html",
    "md_url": "/en/story/abdullah-s-mistake-20170204-1.md"
+  },
+  {
+   "slug": "allah-is-watching-20170211-3",
+   "lang": "en",
+   "category": "story",
+   "title": "Allah Sees",
+   "summary": "This is a story that imparts lessons of honesty and God-consciousness through the life of a farmer named Hassan. The awareness that Allah is always watching guides a person towards goodness.",
+   "author": "തന്‍വീര്‍",
+   "issue_date": "2017-02-11",
+   "html_url": "/en/story/allah-is-watching-20170211-3.html",
+   "md_url": "/en/story/allah-is-watching-20170211-3.md"
   },
   {
    "slug": "good-intention-matters-most-20170325-8",
