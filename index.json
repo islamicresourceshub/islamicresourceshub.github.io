@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-02T08:12:21.418846+00:00",
+ "generated_at": "2026-09-02T08:12:46.882396+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2989,
+ "count": 2990,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -4895,6 +4895,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/fa/dawah/the-religion-that-rejects-terrorism-part-1-20170121-12.html",
    "md_url": "/fa/dawah/the-religion-that-rejects-terrorism-part-1-20170121-12.md"
+  },
+  {
+   "slug": "children-an-islamic-reading-part-4-20170204-5",
+   "lang": "fa",
+   "category": "family",
+   "title": "فرزندان: نگاهی از منظر اسلامی",
+   "summary": "این مقاله به عنوان بخش چهارم از سلسله مباحث دیدگاه اسلامی درباره فرزندان، تأکید می‌کند که والدین برای انجام وظیفه خطیر تربیت اسلامی، باید ماهیت و جایگاه فرزندان را از منظر وحیانی درک کنند. این نوشتار به بررسی اهمیت فرزندان، نگاه قرآن و سنت به آن‌ها و نحوه برخورد با این امانت‌های الهی می‌پردازد.",
+   "author": "അഷ്‌റഫ്‌ എകരൂൽ",
+   "issue_date": "2017-02-04",
+   "html_url": "/fa/family/children-an-islamic-reading-part-4-20170204-5.html",
+   "md_url": "/fa/family/children-an-islamic-reading-part-4-20170204-5.md"
   },
   {
    "slug": "don-t-worry-allah-is-with-you-20170114-10",
