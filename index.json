@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-02T11:14:59.526310+00:00",
+ "generated_at": "2026-09-02T11:20:59.503059+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3222,
+ "count": 3223,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -6853,6 +6853,17 @@
    "issue_date": "2017-02-04",
    "html_url": "/gu/story/abdullah-s-mistake-20170204-1.html",
    "md_url": "/gu/story/abdullah-s-mistake-20170204-1.md"
+  },
+  {
+   "slug": "allah-is-watching-20170211-3",
+   "lang": "gu",
+   "category": "story",
+   "title": "અલ્લાહ જોઈ રહ્યો છે",
+   "summary": "આ હસન નામના એક ખેડૂતના જીવન દ્વારા પ્રામાણિકતા અને અલ્લાહના ડરનો પાઠ આપતી એક વાર્તા છે. અલ્લાહ હંમેશાં આપણને જોઈ રહ્યો છે તેવો અહેસાસ મનુષ્યને ભલાઈના માર્ગે દોરી જાય છે.",
+   "author": "തന്‍വീര്‍",
+   "issue_date": "2017-02-11",
+   "html_url": "/gu/story/allah-is-watching-20170211-3.html",
+   "md_url": "/gu/story/allah-is-watching-20170211-3.md"
   },
   {
    "slug": "good-intention-matters-most-20170325-8",
