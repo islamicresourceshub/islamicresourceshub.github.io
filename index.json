@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-02T08:16:45.676340+00:00",
+ "generated_at": "2026-09-02T08:17:15.325530+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3009,
+ "count": 3010,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -10032,6 +10032,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/ko/dawah/the-religion-that-rejects-terrorism-part-1-20170121-12.html",
    "md_url": "/ko/dawah/the-religion-that-rejects-terrorism-part-1-20170121-12.md"
+  },
+  {
+   "slug": "children-an-islamic-reading-part-4-20170204-5",
+   "lang": "ko",
+   "category": "family",
+   "title": "자녀: 이슬람적 읽기",
+   "summary": "이슬람식 육아라는 사명을 짊어진 이들에게 자녀가 누구이며 무엇인지 올바르게 이해하는 것은 필수적입니다. 본 글은 자녀에 대한 이슬람의 관점을 다루는 연재의 네 번째 편으로, 자녀의 중요성과 그들을 양육하는 올바른 방식에 대해 논합니다.",
+   "author": "അഷ്‌റഫ്‌ എകരൂൽ",
+   "issue_date": "2017-02-04",
+   "html_url": "/ko/family/children-an-islamic-reading-part-4-20170204-5.html",
+   "md_url": "/ko/family/children-an-islamic-reading-part-4-20170204-5.md"
   },
   {
    "slug": "don-t-worry-allah-is-with-you-20170114-10",
