@@ -1,0 +1,71 @@
+---
+title: Pagkakaisa, Ideolohiya, at Kilusan
+author: ടി.കെ.അശ്‌റഫ്
+lang: tl
+category: dawah
+kind: article
+tags:
+- unity
+- peace
+- ideology
+summary: Tinatalakay ng artikulong ito kung paano dapat magkaisa ang mga kilusang Islamiko upang labanan ang terorismo na nagbabanta sa pandaigdigang kapayapaan. Ang pangunahing tema ay ang kahalagahan ng pagkakaisa sa ideolohiya.
+source:
+  magazine: Nerpatham Weekly
+  issue_date: '2017-02-11'
+  pdf_url: http://nerpatham.com/vol-no-01/images/archives/Nerpatham-2017Feb11.pdf
+date_processed: '2026-08-27T16:06:45Z'
+slug: unity-ideology-and-movement-20170211-2
+translation_of: unity-ideology-and-movement-20170211-2
+---
+
+# Pagkakaisa, Ideolohiya, at Kilusan
+
+Nakatira tayo sa isang panahon kung saan ang pagkakaisa at pagkakaisa ay lubos na kinakailangan. Ang pagkakaisa ng mga tagapagtaguyod ng kapayapaan ay mahalaga laban sa terorismo na nagbabanta sa mismong pandaigdigang kapayapaan. Ito ay matagal nang panahon para sa kamalayang pandaigdig na maunawaan ang mga kalupitan na isinasagawa ng mga imperyalistang kapangyarihan sa pamamagitan ng paggamit ng mga nagpapanggap na Muslim bilang mga instrumento upang sirain ang Islam, ang relihiyon ng kapayapaan, sa pamamagitan ng paglikha ng mga teroristang grupo tulad ng ISIS. Ang nakatagong agenda ng media laban sa Islam ay malinaw mula sa kanilang pagtatangkang ibintang ang mga gawain ng ISIS sa Islam, habang hindi tinatawag na Buddhist terrorism ang pagpatay ng lahi ng mga Muslim na Rohingya ng gobyerno ng Myanmar na nakabatay sa Budismo.
+
+## Malawakang Pagkakaisa na Hinahanap ng India
+
+Sa gitna ng mga pagsisikap ng mga pasistang pwersang sekta na sirain ang pagkakaisa sa pagkakaiba-iba, ang hangin ng buhay ng India, gamit ang kapangyarihan ng awtoridad, at ikulong ang bansa sa isang monolitikong selda, ang panahon ay humihingi sa atin ng malawakang pagkakaisa at pagkakaisa ng mga mamamayan ng India na nagnanais ng kapayapaan. Hindi natin dapat hayaang hatiin ang ating bansa sa sekta. Ang lahat ng mga mananampalataya ay dapat lumaban laban sa sekta ng bansa. Ang mga pinuno ng relihiyon ay dapat na ihiwalay ang mga taong nagsisikap na lumikha ng pagkakabaha-bahagi sa pamamagitan ng paggamit ng relihiyon para sa mga layuning pampulitika. Ang mga pangunahing partidong pampulitika ay dapat magbalangkas ng mga pinagsamang plano ng pagkilos upang mapanatili ang mapayapang kapaligiran ng bansa, sa halip na mabulok sa mga panloob na hidwaan.
+
+## Ang Kerala na Nagpapahalaga sa Pagkakaisa ng Komunidad
+
+Ang isang pinagsamang kilusan ay mahalaga upang ihiwalay ang mga naghihintay na maghasik ng mga binhi ng sekta sa pamamagitan ng paggulo sa mapayapang lupa ng Kerala, na ligtas na nakatayo sa India. Ang pagpatay kay Faisal sa Koodalayi, Tirurangadi, at ang mga hakbang ng ilang opisyal ng pulisya laban sa ilang mga mangangaral ay nagpapaalala sa atin ng lalim ng banta na nakataas laban sa Islam, ang pangangaral nito, at ang mga mangangaral. Ang debate tungkol sa Uniform Civil Code ay isang pagpapatuloy lamang ng mga hakbang na naglalayong pagwatak-watakin ang minorya at pag-isahin ang mayorya. Sa kontekstong ito, ang mga organisasyong Muslim ay dapat sumunod sa landas ng karunungan.
+
+## Itigil ang Akusasyon ng Terorismo
+
+Kung ang pagkaantala sa pagpigil sa akusasyon ng terorismo laban sa mga Salafi ng ilang mga tagapagsalita sa Samastha ay magpapatuloy, magbabayad tayo ng malaking halaga sa hinaharap. Maaaring tanungin ng sinuman ang isang ideya na salungat sa mga teksto. Ang mga nauugnay na partido ay may obligasyong magbigay ng paliwanag. Bukod dito, hindi malamang na kahit ang mga ordinaryong miyembro ng Samastha ay maniniwala na ang mga aktibidad ng mga miyembro ng Mujahid sa Kerala ay inakusahan ng terorismo sa pamamagitan ng pagsasama-sama ng ilang mga natuklasan na kinuha mula sa mga haka-haka sa buong mundo. Hindi ba't ang mga Mujahid ay hindi nagtangkang ilagay ang Samastha sa akusasyon sa pamamagitan ng paggamit ng pagkakahuli kay Thadiyantavida Nazeer sa akusasyon ng terorismo.
+
+Ang pamunuan ng Jama'at-e-Islami ay hindi na dapat maghintay upang tanggihan ang mga ideyang salungat sa mga teksto at radikal na nilalaman sa mga aklat ng mga tulad ni Maududi, at upang bawiin ang mga aklat. Hangga't ang mga aklat ni Maududi ay ibinebenta, hindi makatwiran na bigyang-kahulugan ang pagpuna sa mga radikal na ideya sa mga ito bilang akusasyon ng terorismo.
+
+Ang pangangaso laban sa mga mangangaral ng Islam ay hindi dapat tingnan bilang isang hakbang laban sa mga Muslim lamang. Ito rin ay isang paglabag sa mga pangunahing karapatan sa ating Saligang Batas. Sa madaling salita, ito ay isang bukas na digmaan laban sa Saligang Batas. Ito ay isang pag-aalsa laban sa pluralismo ng bansa. Hindi lamang nito maaapektuhan ang mga Muslim. Ito ay isang palakol na pumapatay sa lahat ng indibidwal na may sariling opinyon. Ito ay lumipat na patungo sa mga artista at mga pampublikong pigura. Ang kawalan ng pagpaparaya na ito ay mabilis na kakalat patungo sa kumpletong pagkawasak ng lipunan.
+
+Ito ang panahon kung kailan ang mga minorya ay dapat kumilos nang nagkakaisa upang dalhin ang isyung ito sa atensyon ng sekular na lipunan. Ang mga organisasyon ng komunidad ay dapat manguna dito. Dapat tayong makapagkaisa laban sa isang karaniwang banta habang pinapanatili ang mga pagkakaiba sa ideolohiya. Mayroon tayong kasaysayan sa harap natin kung saan, habang ang lahat ng mga relihiyosong grupo ay nagkaisa para sa bansa noong dekada 1930, ang mga Muslim ay nagkaisa para sa proteksyon ng Sharia. Ang panahon ay humihingi sa atin ng pag-uulit ng kasaysayan. Ang mga may pag-iisip ay hindi dapat masunog na parang mga paru-paro sa apoy na sinindihan ng karaniwang kaaway sa pamamagitan ng pag-aaway sa isa't isa. Ang kailangan natin ay ang sumulong nang nagkakaisa upang malampasan ang mga hamon na kinakaharap ng komunidad at ng bansa.
+
+## Upang Magkatotoo ang Pagkakaisa ng Mujahid
+
+Gaano man tayo magsikap, si Allah ang magbibigay ng tagumpay. Si Allah ay tutulong lamang sa mga nagpapanatili ng mga hangganan ni Allah. Kung itatapon natin ang ating pananampalataya at ang ating relihiyosong katumpakan sa ngalan ng hamon ng bansa, itatapon din tayo ni Allah.
+
+Ang pagkakaisa sa pagitan ng mga Mujahid sa Kerala ay dapat suriin sa pamamagitan ng pagtuon sa puntong ito.
+
+Walang sinuman ang hindi nalulungkot sa pagkakabaha-bahagi ng **Kerala Nadwathul Mujahideen** na nagpasiklab ng pagbabagong-buhay sa Kerala noong 2002. Walang sinuman ang hindi nagnanais na makita itong magkaisa. Samakatuwid, ang balita ng pagkakaisa ng mga Mujahid ay nagdudulot ng kagalakan. Gayunpaman, ang pagkakaisa na ito ay hindi dapat maging isang pansamantalang kababalaghan. Dapat itong maging isang katotohanan. Ito ang nais ng mga nagmamahal sa ideolohiya at sa kilusan. Ang lahat ay nakakaalam na ang paghihiwalay sa nakalipas na labinlimang taon ay dahil sa mga kadahilanang ideolohikal. Kapansin-pansin na binanggit sa araw ng pagkakaisa na tumagal ng labing-isang buwan upang talakayin ang mga usaping ideolohikal. Gayunpaman, nakalulungkot sabihin na ang mga opisyal na pahayag na ginawa pagkatapos ng pagkakaisa ay nakakadismaya sa mga may kamalayan sa ideolohiya at nagtaksil sa mga yumakap sa pagkakaisa.
+
+## Pagkakaisa at Press Conference
+
+Ang balita ng pagkakaisa ay unang lumabas sa isang press conference na ginanap sa Kozhikode noong Disyembre 5, 2016. Matapos ipaalam ang resolusyon ng pagkakaisa sa mga mamamahayag, sinabi ni T.P. Abdullakoya Madani na may pagkakataon na magtanong.
+
+## Ang Alitan Tungkol sa Sihr
+
+Bilang ang paksa na nangingibabaw sa mga nakaraang kontrobersiya, unang nagtanong ang mga mamamahayag tungkol dito. Sihr! Ang grupo ng Madavoor ay nagtalo na kung ito ay pinaniniwalaan na gumagana, ito ay Shirk, habang ang grupo ni T.P. ay tumutol dito. Ang paliwanag sa lahat ng oras ay na si Sihr ay gumagana, ngunit ang paggawa nito ay isang malaking kasalanan. Ano ang magiging opisyal na posisyon ng organisasyon sa isyu ng Sihr, dahil ang mga usaping ideolohikal ay napagpasyahan na? Ito ang tanong ng mamamahayag. Sa konteksto ng pagpapahayag ng pagkakaisa sa Qur'an at Sunnah sa mga usaping may pagkakaiba, ang tanong na ito ay madaling masasagot. Ang tamang sagot ay may katotohanan si Sihr, ngunit hindi ito dapat gawin. Ito ay malinaw na nakasulat sa pagsasalin ng Banal na Qur'an ni Amaní Maulavi bago ang 2002. Bukod dito, ang mga desisyon ng Kerala Jam'iyyathul Ulama ay nagbanggit ng mga ebidensya na ang demonyong impluwensya ay totoo. Bukod dito, ito ay isang paksa na itinuturo sa mga bata sa mga aklat-aralin sa Madrasa.
+
+Sa halip na linawin ito, sinabi ni T.P. bilang tugon na ang isyu ng Sihr ay muling pagpapasyahan ng Jam'iyyathul Ulama. Malinaw na ang mga usaping ideolohikal, bagaman maaaring napag-usapan, ay hindi pa napagpasyahan. Nang muling tanungin, lumihis siya sa pamamagitan ng pagsasabi na ito ay ipapahayag sa pagtitipon ng pagkakaisa na gaganapin sa Kozhikode beach noong Disyembre 20.
+
+## Pagsusuri, Paliwanag, at Pagbibitiw ni Asgarali
+
+Sa pagtitipon ng pagkakaisa sa Kozhikode, ang mga posisyon sa ideolohiya sa mga isyu tulad ng Sihr ay hindi tahasang ipinahayag. Kalaunan ay nalaman na ang desisyon ay hindi pagtalakay sa mga ganitong isyu sa labas. Gayunpaman, sa paglabag sa kasunduan ng pagkakaisa, ang Vichinthanam, na inilabas noong Pebrero 3, ay napilitang magbigay ng paliwanag sa pangalan ng mga mastermind ng grupo ng Madavoor, sina Gnab A. Asgarali at M. Abdul Rahiman Salafi. Ang krisis ay lumala sa pamamagitan ng paliwanag. Ang isa pang sulat at ang pagbibitiw ni Asgarali Sahib, ang kasalukuyang Organisasyon Secretary, laban sa paliwanag sa Vichinthanam ay ebidensya ng lumalalang krisis. Sa pamamagitan nito, ang katotohanan na ang pagkakaisa ay nakamit sa pamamagitan ng pagsasaayos, hindi sa pamamagitan ng pagkakaisa sa ideolohiya, ay napatunayan nang may awtoridad.
+
+Ayon sa bagong paliwanag, dalawang ideya ang nananatili pa rin sa pagitan ng dalawang grupo. Isinulat ng Vichinthanam na ang paniniwala na si Sihr ay gumagana ay hindi Shirk, at walang alitan tungkol dito sa mga nauna o sa mga susunod. Gayunpaman, nang si Asgarali Sahib ay tumugon dito sa susunod na araw, naging malinaw na may dalawang opinyon sa paksang ito. Nangangahulugan ito na sa kabila ng labing-isang buwan ng talakayan, walang pagkakaisa sa isang mahalagang isyu. Malinaw na ang grupo ng Madavoor ay nagkaisa nang hindi binabago ang ideolohiya, tulad ng sinabi ni Ali Madani sa kanilang konseho. Ngayon, ang mga miyembro ba ang dapat maniwala sa isinulat ng Vichinthanam? Kung iyon ang opisyal na posisyon, sapat na bang tanggapin ang pagbibitiw ni Asgarali Sahib? Hindi ba dapat nilang sabihin na mali ang isinulat ni Asgarali laban sa Vichinthanam? Maaari bang manatili sa kanilang mga posisyon ang mga opisyal na hayagang sumalungat sa Vichinthanam sa mga online media? O hihingi sila ng paumanhin?
+
+Kung hindi, kung ang isinulat ng Vichinthanam ay mali at ang sulat ni Asgarali ay tama, kung gayon ay dapat aminin na ang KNM ay nagbago ng posisyon at lumipat sa ideolohiya ng Madavoor. Bukod dito, kinakailangan na gumawa ng aksyon laban kay Asgarali at Salafi, na naglathala ng artikulong ito pagkatapos i-hijack ang KJU.
+
+Kung hindi tayo handang talikuran ang mga paunang paghuhusga at rationalism at bumalik sa mga teksto sa mga pangunahing isyu, hindi lamang ang pagkakaisa ang mabibigo, kundi haharapin din natin ang malalaking pagsubok.
+
+(Wakas)
