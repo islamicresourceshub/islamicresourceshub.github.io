@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-02T08:14:22.264567+00:00",
+ "generated_at": "2026-09-02T08:14:50.244443+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3004,
+ "count": 3005,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -7172,6 +7172,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/hi/dawah/the-religion-that-rejects-terrorism-part-1-20170121-12.html",
    "md_url": "/hi/dawah/the-religion-that-rejects-terrorism-part-1-20170121-12.md"
+  },
+  {
+   "slug": "children-an-islamic-reading-part-4-20170204-5",
+   "lang": "hi",
+   "category": "family",
+   "title": "संतान: एक इस्लामी दृष्टिकोण",
+   "summary": "यह लेख इस्लामी पालन-पोषण के मिशन को समझने के लिए बच्चों के वास्तविक स्वरूप और उनके प्रति इस्लामी दृष्टिकोण को स्पष्ट करता है। यह श्रृंखला का चौथा भाग है, जो बच्चों के महत्व और उनके पालन-पोषण के सही तरीकों पर चर्चा करता है।",
+   "author": "അഷ്‌റഫ്‌ എകരൂൽ",
+   "issue_date": "2017-02-04",
+   "html_url": "/hi/family/children-an-islamic-reading-part-4-20170204-5.html",
+   "md_url": "/hi/family/children-an-islamic-reading-part-4-20170204-5.md"
   },
   {
    "slug": "don-t-worry-allah-is-with-you-20170114-10",
