@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-02T09:26:58.842421+00:00",
+ "generated_at": "2026-09-02T09:27:30.660709+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3150,
+ "count": 3151,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -1573,6 +1573,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/as/dawah/the-religion-that-rejects-terrorism-part-1-20170121-12.html",
    "md_url": "/as/dawah/the-religion-that-rejects-terrorism-part-1-20170121-12.md"
+  },
+  {
+   "slug": "unity-ideology-and-movement-20170211-2",
+   "lang": "as",
+   "category": "dawah",
+   "title": "ঐক্য, আদৰ্শ আৰু আন্দোলন",
+   "summary": "এই প্ৰবন্ধটোৱে বিশ্বশান্তিৰ বাবে ভাবুকি স্বৰূপ সন্ত্ৰাসবাদক প্ৰতিহত কৰিবলৈ ইছলামিক আন্দোলনসমূহ কেনেকৈ ঐক্যবদ্ধ হ’ব লাগে, সেই বিষয়ে আলোচনা কৰে। আদৰ্শগত ঐক্যৰ গুৰুত্বই হৈছে ইয়াৰ মূল বিষয়বস্তু।",
+   "author": "ടി.കെ.അശ്‌റഫ്",
+   "issue_date": "2017-02-11",
+   "html_url": "/as/dawah/unity-ideology-and-movement-20170211-2.html",
+   "md_url": "/as/dawah/unity-ideology-and-movement-20170211-2.md"
   },
   {
    "slug": "children-an-islamic-reading-part-4-20170204-5",
