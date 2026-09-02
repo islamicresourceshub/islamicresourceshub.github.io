@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-02T07:39:06.154921+00:00",
+ "generated_at": "2026-09-02T07:39:31.110584+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2951,
+ "count": 2964,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -10529,6 +10529,17 @@
    "md_url": "/ml/aqeedah/faith-is-the-foundation-of-islam-20170128-13.md"
   },
   {
+   "slug": "faith-origin-logic-and-relevance-20191019-4",
+   "lang": "ml",
+   "category": "aqeedah",
+   "title": "വിശ്വാസം: ഉൽപത്തി, യുക്തി, പ്രസക്തി",
+   "summary": "വിശ്വാസത്തിന്റെ ഉത്ഭവത്തെക്കുറിച്ചുള്ള ഭൗതികവാദികളുടെ വാദങ്ങളെ ഖണ്ഡിക്കുകയും ഇസ്‌ലാമിക വീക്ഷണത്തിൽ വിശ്വാസത്തിന്റെ യുക്തിയും പ്രസക്തിയും ലേഖകൻ വിശദീകരിക്കുകയും ചെയ്യുന്നു.",
+   "author": "അബ്ദുല്ല ബസിൽ സി.പി",
+   "issue_date": "2019-10-19",
+   "html_url": "/ml/aqeedah/faith-origin-logic-and-relevance-20191019-4.html",
+   "md_url": "/ml/aqeedah/faith-origin-logic-and-relevance-20191019-4.md"
+  },
+  {
    "slug": "fasting-and-monotheism-20190511-11",
    "lang": "ml",
    "category": "aqeedah",
@@ -10758,6 +10769,17 @@
    "issue_date": "2018-07-21",
    "html_url": "/ml/aqeedah/mujahids-with-aadhaar-and-samastha-without-foundation-20180721-3.html",
    "md_url": "/ml/aqeedah/mujahids-with-aadhaar-and-samastha-without-foundation-20180721-3.md"
+  },
+  {
+   "slug": "precision-in-accepting-evidence-20191019-5",
+   "lang": "ml",
+   "category": "aqeedah",
+   "title": "തെളിവുകൾ സ്വീകരിക്കുന്നതിലെ കണിശത",
+   "summary": "മതപരമായ തെളിവുകൾ സ്വീകരിക്കുന്നതിലും അവയെ വിശകലനം ചെയ്യുന്നതിലും പാലിക്കേണ്ട കണിശതയെക്കുറിച്ച് ഇബ്നു തൈമിയ്യയുടെ വീക്ഷണങ്ങൾ ഈ ലേഖനം പങ്കുവെക്കുന്നു.",
+   "author": "ശൈഖുൽ ഇസ്‌ലാം ഇബ്നു തൈമിയ(റഹി)",
+   "issue_date": "2019-10-19",
+   "html_url": "/ml/aqeedah/precision-in-accepting-evidence-20191019-5.html",
+   "md_url": "/ml/aqeedah/precision-in-accepting-evidence-20191019-5.md"
   },
   {
    "slug": "preparation-for-the-trial-20190907-11",
@@ -11629,6 +11651,17 @@
    "md_url": "/ml/dawah/forbidden-prayers-20190330-6.md"
   },
   {
+   "slug": "friendships-of-solace-20191019-13",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "സാന്ത്വന സൗഹൃദങ്ങൾ",
+   "summary": "സമൂഹത്തിലെ അഗതികളെ സഹായിക്കുന്നതിനായി രൂപപ്പെട്ട സൗഹൃദങ്ങളെക്കുറിച്ചും ആ കൂട്ടായ്മയുടെ പ്രവർത്തനങ്ങളെക്കുറിച്ചും ലേഖകൻ പങ്കുവെക്കുന്നു.",
+   "author": "ഇബ്നു അലി എടത്തനാട്ടുകര",
+   "issue_date": "2019-10-19",
+   "html_url": "/ml/dawah/friendships-of-solace-20191019-13.html",
+   "md_url": "/ml/dawah/friendships-of-solace-20191019-13.md"
+  },
+  {
    "slug": "getting-closer-to-the-creator-20170401-12",
    "lang": "ml",
    "category": "dawah",
@@ -11858,6 +11891,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/ml/dawah/jallikattu-and-the-islamic-approach-to-animals-20170128-4.html",
    "md_url": "/ml/dawah/jallikattu-and-the-islamic-approach-to-animals-20170128-4.md"
+  },
+  {
+   "slug": "leadership-is-not-an-ornament-20191019-7",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "നേതൃത്വം അലങ്കാരമല്ല",
+   "summary": "നേതൃത്വം എന്നത് ഒരു അലങ്കാരമല്ലെന്നും അതൊരു വലിയ ഉത്തരവാദിത്തമാണെന്നും ലേഖകൻ ഓർമ്മിപ്പിക്കുന്നു. സംഘടനകളിലും സമൂഹത്തിലും നേതൃത്വം വഹിക്കുന്നവർ പുലർത്തേണ്ട ജാഗ്രതയെക്കുറിച്ച് ലേഖനം സംസാരിക്കുന്നു.",
+   "author": "ടി.കെ അഷ്റഫ്",
+   "issue_date": "2019-10-19",
+   "html_url": "/ml/dawah/leadership-is-not-an-ornament-20191019-7.html",
+   "md_url": "/ml/dawah/leadership-is-not-an-ornament-20191019-7.md"
   },
   {
    "slug": "let-us-be-loving-20180616-2",
@@ -13675,6 +13719,17 @@
    "md_url": "/ml/family/maintaining-relationships-20190308-1.md"
   },
   {
+   "slug": "marriage-age-critics-with-biased-glasses-20191019-2",
+   "lang": "ml",
+   "category": "family",
+   "title": "വിവാഹപ്രായം: മഞ്ഞക്കണ്ണടവെച്ച വിമർശകർ",
+   "summary": "വിവാഹപ്രായത്തെക്കുറിച്ചുള്ള ഇസ്‌ലാമിക നിലപാടുകളെയും അതിനെതിരെയുള്ള വിമർശനങ്ങളെയും ശാസ്ത്രീയവും ചരിത്രപരവുമായ തെളിവുകൾ നിരത്തി ലേഖകൻ വിശകലനം ചെയ്യുന്നു. വിവാഹപ്രായം സംബന്ധിച്ച ആഗോള സാഹചര്യങ്ങളും ലേഖനത്തിൽ ചർച്ച ചെയ്യുന്നു.",
+   "author": "ഡോ. ജാസൽ",
+   "issue_date": "2019-10-19",
+   "html_url": "/ml/family/marriage-age-critics-with-biased-glasses-20191019-2.html",
+   "md_url": "/ml/family/marriage-age-critics-with-biased-glasses-20191019-2.md"
+  },
+  {
    "slug": "our-parents-20170325-4",
    "lang": "ml",
    "category": "family",
@@ -14467,6 +14522,17 @@
    "md_url": "/ml/fiqh/should-jumu-ah-khutbah-be-in-the-mother-tongue-20190928-4.md"
   },
   {
+   "slug": "special-salawat-on-friday-20191019-6",
+   "lang": "ml",
+   "category": "fiqh",
+   "title": "വെള്ളിയാഴ്ചയിലെ പ്രത്യേക സ്വലാത്ത്",
+   "summary": "വെള്ളിയാഴ്ചകളിൽ സ്വലാത്ത് ചൊല്ലുന്നതിന്റെ പ്രാധാന്യവും എന്നാൽ അതിൽ കടന്നുകൂടിയ അനാചാരങ്ങളെയും ലേഖകൻ വിമർശനാത്മകമായി പരിശോധിക്കുന്നു.",
+   "author": "മൂസ സ്വലാഹി, കാര",
+   "issue_date": "2019-10-19",
+   "html_url": "/ml/fiqh/special-salawat-on-friday-20191019-6.html",
+   "md_url": "/ml/fiqh/special-salawat-on-friday-20191019-6.md"
+  },
+  {
    "slug": "the-alcoholic-father-20170211-7",
    "lang": "ml",
    "category": "fiqh",
@@ -14839,6 +14905,17 @@
    "issue_date": "2019-07-06",
    "html_url": "/ml/health/living-to-eat-20190706-3.html",
    "md_url": "/ml/health/living-to-eat-20190706-3.md"
+  },
+  {
+   "slug": "memory-and-the-brain-20191019-10",
+   "lang": "ml",
+   "category": "health",
+   "title": "ഓർമയും മസ്തിഷ്കവും",
+   "summary": "മനുഷ്യന്റെ ഓർമ്മശക്തി എങ്ങനെയാണ് മസ്തിഷ്കത്തിൽ പ്രവർത്തിക്കുന്നതെന്നും വിവരങ്ങൾ എങ്ങനെ ശേഖരിക്കപ്പെടുന്നുവെന്നും ശാസ്ത്രീയമായി വിശദീകരിക്കുന്നു.",
+   "author": "അബ്ദുൽ മുസവ്വിർ",
+   "issue_date": "2019-10-19",
+   "html_url": "/ml/health/memory-and-the-brain-20191019-10.html",
+   "md_url": "/ml/health/memory-and-the-brain-20191019-10.md"
   },
   {
    "slug": "monsoon-diseases-and-waste-management-20180707-2",
@@ -15268,6 +15345,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/ml/history/manusmriti-and-the-caste-system-20170218-7.html",
    "md_url": "/ml/history/manusmriti-and-the-caste-system-20170218-7.md"
+  },
+  {
+   "slug": "mashallah-riot-20191019-12",
+   "lang": "ml",
+   "category": "history",
+   "title": "മാഷല്ല ലഹള",
+   "summary": "മലബാർ കലാപകാലത്തെ തന്റെ ഓർമ്മകളും അന്നത്തെ സാമൂഹിക-രാഷ്ട്രീയ സാഹചര്യങ്ങളും ലേഖകൻ വിവരിക്കുന്നു.",
+   "author": "പി.വി ഉമർകുട്ടി ഹാജി (റഹി)",
+   "issue_date": "2019-10-19",
+   "html_url": "/ml/history/mashallah-riot-20191019-12.html",
+   "md_url": "/ml/history/mashallah-riot-20191019-12.md"
   },
   {
    "slug": "maulana-chalilakath-kunhahammed-haji-who-are-the-true-heirs-20190223-3",
@@ -16269,6 +16357,17 @@
    "issue_date": "2019-11-30",
    "html_url": "/ml/opinion/iit-suicide-who-are-the-real-culprits-20191130-1.html",
    "md_url": "/ml/opinion/iit-suicide-who-are-the-real-culprits-20191130-1.md"
+  },
+  {
+   "slug": "increasing-murders-a-sign-of-culture-20191019-1",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "വർധിക്കുന്ന കൊലപാതകങ്ങളോ സംസ്കാരത്തിന്റെ അടയാളം?",
+   "summary": "സമൂഹത്തിൽ വർധിച്ചുവരുന്ന കൊലപാതകങ്ങളെക്കുറിച്ചും അതിന്റെ പിന്നിലെ ധാർമ്മികമായ തകർച്ചയെക്കുറിച്ചും എഡിറ്റോറിയൽ ചർച്ച ചെയ്യുന്നു. സ്വാർത്ഥതാൽപര്യങ്ങൾക്കും നിസ്സാര കാരണങ്ങൾക്കും വേണ്ടി ജീവൻ ഇല്ലാതാക്കുന്ന പ്രവണത ആശങ്കാജനകമാണെന്ന് ലേഖനം ചൂണ്ടിക്കാട്ടുന്നു.",
+   "author": "എഡിറ്റർ",
+   "issue_date": "2019-10-19",
+   "html_url": "/ml/opinion/increasing-murders-a-sign-of-culture-20191019-1.html",
+   "md_url": "/ml/opinion/increasing-murders-a-sign-of-culture-20191019-1.md"
   },
   {
    "slug": "india-economic-recession-and-rahul-bajaj-s-response-20191214-4",
@@ -17512,6 +17611,17 @@
    "issue_date": "2019-10-05",
    "html_url": "/ml/opinion/wisdom-dialogue-a-timely-intellectual-mission-20191005-10.html",
    "md_url": "/ml/opinion/wisdom-dialogue-a-timely-intellectual-mission-20191005-10.md"
+  },
+  {
+   "slug": "you-have-power-i-have-principles-20191019-11",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "'നിങ്ങൾക്ക് അധികാരമുണ്ട്, എനിക്ക് തത്വദീക്ഷയും'",
+   "summary": "സമൂഹത്തിലെ അനീതികൾക്കെതിരെ പ്രതികരിക്കുന്ന സാംസ്കാരിക പ്രവർത്തകരുടെ നിലപാടുകളെക്കുറിച്ചും അധികാരവും തത്വദീക്ഷയും തമ്മിലുള്ള സംഘർഷത്തെക്കുറിച്ചും ലേഖനം ചർച്ച ചെയ്യുന്നു.",
+   "author": "പി.വി.എ പ്രിംറോസ്",
+   "issue_date": "2019-10-19",
+   "html_url": "/ml/opinion/you-have-power-i-have-principles-20191019-11.html",
+   "md_url": "/ml/opinion/you-have-power-i-have-principles-20191019-11.md"
   },
   {
    "slug": "zakariyya-salah-a-person-of-integrity-20190803-7",
@@ -18975,6 +19085,17 @@
    "issue_date": "2019-11-30",
    "html_url": "/ml/seerah/oppressions-and-the-prophet-s-stance-20191130-10.html",
    "md_url": "/ml/seerah/oppressions-and-the-prophet-s-stance-20191130-10.md"
+  },
+  {
+   "slug": "post-war-uhud-20191019-3",
+   "lang": "ml",
+   "category": "seerah",
+   "title": "യുദ്ധാനന്തര ഉഹ്ദ്",
+   "summary": "ഉഹ്ദ് യുദ്ധത്തിന് ശേഷമുള്ള സംഭവവികാസങ്ങളും പ്രവാചകൻ മുഹമ്മദ് നബി(സ)യും സ്വഹാബികളും നേരിട്ട പ്രതിസന്ധികളും ഈ ലേഖനം വിവരിക്കുന്നു. ശത്രുക്കളുടെ നീക്കങ്ങളും വിശ്വാസികളുടെ ധീരതയും ഇതിൽ പ്രതിപാദിക്കുന്നു.",
+   "author": "ഫദ്‌ലുൽ ഹഖ് ഉമരി",
+   "issue_date": "2019-10-19",
+   "html_url": "/ml/seerah/post-war-uhud-20191019-3.html",
+   "md_url": "/ml/seerah/post-war-uhud-20191019-3.md"
   },
   {
    "slug": "prophet-ilyas-as-20190302-4",
@@ -20759,6 +20880,17 @@
    "md_url": "/ml/story/the-path-of-success-20180428-12.md"
   },
   {
+   "slug": "the-prophet-who-carried-the-burden-20191019-8",
+   "lang": "ml",
+   "category": "story",
+   "title": "ചുമലേറ്റിയ പ്രവാചകൻ",
+   "summary": "ഒരു വൃദ്ധയുടെ ചുമട് ഏറ്റുവാങ്ങിയ പ്രവാചകന്റെ കാരുണ്യത്തെക്കുറിച്ചുള്ള കവിത.",
+   "author": "ഉസ്മാൻ പാലക്കാഴി",
+   "issue_date": "2019-10-19",
+   "html_url": "/ml/story/the-prophet-who-carried-the-burden-20191019-8.html",
+   "md_url": "/ml/story/the-prophet-who-carried-the-burden-20191019-8.md"
+  },
+  {
    "slug": "the-protector-20181020-8",
    "lang": "ml",
    "category": "story",
@@ -21076,6 +21208,17 @@
    "issue_date": "2018-07-14",
    "html_url": "/ml/youth/four-children-s-poems-20180714-3.html",
    "md_url": "/ml/youth/four-children-s-poems-20180714-3.md"
+  },
+  {
+   "slug": "little-ants-20191019-9",
+   "lang": "ml",
+   "category": "youth",
+   "title": "കുഞ്ഞനുറുമ്പുകൾ",
+   "summary": "ഉറുമ്പുകളുടെ ജീവിതരീതിയിൽ നിന്ന് പാഠങ്ങൾ ഉൾക്കൊള്ളുന്ന കുട്ടികൾക്കുള്ള കവിത.",
+   "author": "ഉസ്മാൻ പാലക്കാഴി",
+   "issue_date": "2019-10-19",
+   "html_url": "/ml/youth/little-ants-20191019-9.html",
+   "md_url": "/ml/youth/little-ants-20191019-9.md"
   },
   {
    "slug": "respect-the-elders-20190720-7",
