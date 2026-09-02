@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-02T09:21:49.519704+00:00",
+ "generated_at": "2026-09-02T09:22:12.255670+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3138,
+ "count": 3139,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -29249,6 +29249,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/sw/opinion/everyone-should-have-a-beard-20170121-3.html",
    "md_url": "/sw/opinion/everyone-should-have-a-beard-20170121-3.md"
+  },
+  {
+   "slug": "freedom-of-speech-should-not-be-one-sided-20170211-1",
+   "lang": "sw",
+   "category": "opinion",
+   "title": "Uhuru wa kutoa maoni haupaswi kuwa wa upande mmoja",
+   "summary": "Hii ni makala ya kiuchambuzi kuhusu jinsi serikali inavyokandamiza uhuru wa kutoa maoni wa raia. Inajadili haki ya kutokubaliana katika mfumo wa kidemokrasia.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2017-02-11",
+   "html_url": "/sw/opinion/freedom-of-speech-should-not-be-one-sided-20170211-1.html",
+   "md_url": "/sw/opinion/freedom-of-speech-should-not-be-one-sided-20170211-1.md"
   },
   {
    "slug": "hajj-subsidy-before-putting-the-muslim-community-in-the-dock-20170128-3",
