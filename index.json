@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-02T14:35:20.070083+00:00",
+ "generated_at": "2026-09-02T14:36:08.048921+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3234,
+ "count": 3235,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -26059,6 +26059,17 @@
    "issue_date": "2017-02-04",
    "html_url": "/pa/story/abdullah-s-mistake-20170204-1.html",
    "md_url": "/pa/story/abdullah-s-mistake-20170204-1.md"
+  },
+  {
+   "slug": "allah-is-watching-20170211-3",
+   "lang": "pa",
+   "category": "story",
+   "title": "ਅੱਲ੍ਹਾ ਦੇਖਦਾ ਹੈ",
+   "summary": "ਇਹ ਇੱਕ ਕਿਸਾਨ, ਹਸਨ ਦੀ ਕਹਾਣੀ ਹੈ ਜੋ ਸੱਚਾਈ ਅਤੇ ਰੱਬ ਦੇ ਡਰ ਦੇ ਸਬਕ ਸਿਖਾਉਂਦੀ ਹੈ। ਇਹ ਅਹਿਸਾਸ ਕਿ ਅੱਲ੍ਹਾ ਹਮੇਸ਼ਾ ਨਿਗਰਾਨੀ ਕਰ ਰਿਹਾ ਹੈ, ਮਨੁੱਖ ਨੂੰ ਚੰਗਿਆਈ ਵੱਲ ਪ੍ਰੇਰਿਤ ਕਰਦਾ ਹੈ।",
+   "author": "തന്‍വീര്‍",
+   "issue_date": "2017-02-11",
+   "html_url": "/pa/story/allah-is-watching-20170211-3.html",
+   "md_url": "/pa/story/allah-is-watching-20170211-3.md"
   },
   {
    "slug": "good-intention-matters-most-20170325-8",
