@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-02T12:19:18.947742+00:00",
+ "generated_at": "2026-09-02T14:35:20.070083+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3233,
+ "count": 3234,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -25443,6 +25443,17 @@
    "issue_date": "2017-02-04",
    "html_url": "/or/story/abdullah-s-mistake-20170204-1.html",
    "md_url": "/or/story/abdullah-s-mistake-20170204-1.md"
+  },
+  {
+   "slug": "allah-is-watching-20170211-3",
+   "lang": "or",
+   "category": "story",
+   "title": "ଅଲ୍ଲାହ୍ ଦେଖନ୍ତି",
+   "summary": "ଏହା ହାସାନ୍ ନାମକ ଜଣେ କୃଷକଙ୍କ ଜୀବନ ମାଧ୍ୟମରେ ସଚ୍ଚୋଟତା ଏବଂ ଈଶ୍ୱରଭୟର ଶିକ୍ଷା ପ୍ରଦାନ କରୁଥିବା ଏକ କାହାଣୀ। ଅଲ୍ଲାହ୍‌ଙ୍କ ନିରୀକ୍ଷଣ ସର୍ବଦା ଆମ ସହିତ ଅଛି ବୋଲି ଜ୍ଞାନ ମନୁଷ୍ୟକୁ ଭଲ କାର୍ଯ୍ୟ କରିବାକୁ ପ୍ରେରିତ କରେ।",
+   "author": "തന്‍വീര്‍",
+   "issue_date": "2017-02-11",
+   "html_url": "/or/story/allah-is-watching-20170211-3.html",
+   "md_url": "/or/story/allah-is-watching-20170211-3.md"
   },
   {
    "slug": "good-intention-matters-most-20170325-8",
