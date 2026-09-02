@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-02T08:42:45.969355+00:00",
+ "generated_at": "2026-09-02T08:43:08.841336+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3016,
+ "count": 3017,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -25146,6 +25146,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/pt/dawah/the-religion-that-rejects-terrorism-part-1-20170121-12.html",
    "md_url": "/pt/dawah/the-religion-that-rejects-terrorism-part-1-20170121-12.md"
+  },
+  {
+   "slug": "children-an-islamic-reading-part-4-20170204-5",
+   "lang": "pt",
+   "category": "family",
+   "title": "Filhos: Uma leitura islâmica",
+   "summary": "Este artigo, a quarta parte de uma série sobre a perspectiva islâmica em relação aos filhos, destaca que aqueles que assumem a missão da educação islâmica precisam compreender profundamente a natureza e o valor das crianças. O texto explora como o Islã define os filhos, a importância do afeto e a responsabilidade dos pais diante do Criador.",
+   "author": "അഷ്‌റഫ്‌ എകരൂൽ",
+   "issue_date": "2017-02-04",
+   "html_url": "/pt/family/children-an-islamic-reading-part-4-20170204-5.html",
+   "md_url": "/pt/family/children-an-islamic-reading-part-4-20170204-5.md"
   },
   {
    "slug": "don-t-worry-allah-is-with-you-20170114-10",
