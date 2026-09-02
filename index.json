@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-02T08:49:08.240242+00:00",
+ "generated_at": "2026-09-02T08:49:34.375691+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3040,
+ "count": 3041,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -33242,6 +33242,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/zh/dawah/the-religion-that-rejects-terrorism-part-1-20170121-12.html",
    "md_url": "/zh/dawah/the-religion-that-rejects-terrorism-part-1-20170121-12.md"
+  },
+  {
+   "slug": "children-an-islamic-reading-part-4-20170204-5",
+   "lang": "zh",
+   "category": "family",
+   "title": "子女：一种伊斯兰视角的解读",
+   "summary": "本文是关于伊斯兰育儿系列文章的第四篇，探讨了子女在伊斯兰教义中的定位。文章强调，为人父母者应当从信仰的源头理解子女的本质，并以正确的态度对待这一真主的恩赐。",
+   "author": "അഷ്‌റഫ്‌ എകരൂൽ",
+   "issue_date": "2017-02-04",
+   "html_url": "/zh/family/children-an-islamic-reading-part-4-20170204-5.html",
+   "md_url": "/zh/family/children-an-islamic-reading-part-4-20170204-5.md"
   },
   {
    "slug": "don-t-worry-allah-is-with-you-20170114-10",
