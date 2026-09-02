@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-02T08:44:56.576303+00:00",
+ "generated_at": "2026-09-02T08:45:24.242268+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3021,
+ "count": 3022,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -28006,6 +28006,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/sw/dawah/the-religion-that-rejects-terrorism-part-1-20170121-12.html",
    "md_url": "/sw/dawah/the-religion-that-rejects-terrorism-part-1-20170121-12.md"
+  },
+  {
+   "slug": "children-an-islamic-reading-part-4-20170204-5",
+   "lang": "sw",
+   "category": "family",
+   "title": "Watoto: Mtazamo wa Kiislamu",
+   "summary": "Makala hii inasisitiza umuhimu wa wazazi kuelewa vyema asili na nafasi ya watoto katika malezi ya Kiislamu. Hii ni sehemu ya nne ya mfululizo unaochunguza mtazamo wa Uislamu kuhusu watoto, haki zao, na namna bora ya kuwalea.",
+   "author": "അഷ്‌റഫ്‌ എകരൂൽ",
+   "issue_date": "2017-02-04",
+   "html_url": "/sw/family/children-an-islamic-reading-part-4-20170204-5.html",
+   "md_url": "/sw/family/children-an-islamic-reading-part-4-20170204-5.md"
   },
   {
    "slug": "don-t-worry-allah-is-with-you-20170114-10",
