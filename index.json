@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-02T07:54:19.819107+00:00",
+ "generated_at": "2026-09-02T07:54:47.502436+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2977,
+ "count": 2978,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -31020,6 +31020,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/ur/hadith/criteria-for-accepting-hadith-20170128-2.html",
    "md_url": "/ur/hadith/criteria-for-accepting-hadith-20170128-2.md"
+  },
+  {
+   "slug": "challenges-posed-by-pseudo-nationalism-20170204-4",
+   "lang": "ur",
+   "category": "opinion",
+   "title": "جعلی قوم پرستی سے پیدا ہونے والے چیلنجز",
+   "summary": "یہ مضمون اس بات پر بحث کرتا ہے کہ اپنے وطن اور ہم وطنوں سے جذباتی لگاؤ ایک فطری انسانی جذبہ ہے، لیکن جعلی قوم پرستی معاشرے میں کس طرح کے سنگین مسائل اور چیلنجز پیدا کر رہی ہے۔ یہ تحریر ان اثرات کا تجزیہ کرتی ہے جو زبردستی مسلط کردہ حب الوطنی کے نام پر معاشرتی ہم آہنگی کو نقصان پہنچا رہے ہیں۔",
+   "author": "സുഫ്‌യാന്‍ അബ്ദുസ്സലാം - റിയാദ്‌",
+   "issue_date": "2017-02-04",
+   "html_url": "/ur/opinion/challenges-posed-by-pseudo-nationalism-20170204-4.html",
+   "md_url": "/ur/opinion/challenges-posed-by-pseudo-nationalism-20170204-4.md"
   },
   {
    "slug": "e-writing-is-not-mere-writing-20170121-15",
