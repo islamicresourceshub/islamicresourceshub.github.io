@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-02T09:31:11.957131+00:00",
+ "generated_at": "2026-09-02T09:31:42.472832+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3158,
+ "count": 3159,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -6380,6 +6380,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/gu/dawah/the-religion-that-rejects-terrorism-part-1-20170121-12.html",
    "md_url": "/gu/dawah/the-religion-that-rejects-terrorism-part-1-20170121-12.md"
+  },
+  {
+   "slug": "unity-ideology-and-movement-20170211-2",
+   "lang": "gu",
+   "category": "dawah",
+   "title": "એકતા, આદર્શ અને આંદોલન",
+   "summary": "આ લેખ સમજાવે છે કે વિશ્વ શાંતિ માટે ખતરો બનેલા આતંકવાદનો સામનો કરવા માટે ઇસ્લામિક સંગઠનોએ કેવી રીતે એક થવું જોઈએ. આમાં આદર્શગત એકતાનું મહત્વ મુખ્ય વિષય છે.",
+   "author": "ടി.കെ.അശ്‌റഫ്",
+   "issue_date": "2017-02-11",
+   "html_url": "/gu/dawah/unity-ideology-and-movement-20170211-2.html",
+   "md_url": "/gu/dawah/unity-ideology-and-movement-20170211-2.md"
   },
   {
    "slug": "children-an-islamic-reading-part-4-20170204-5",
