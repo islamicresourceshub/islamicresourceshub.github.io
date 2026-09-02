@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-02T07:12:22.760548+00:00",
+ "generated_at": "2026-09-02T07:15:02.513598+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2903,
+ "count": 2904,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -24244,6 +24244,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/pt/family/don-t-worry-allah-is-with-you-20170114-10.html",
    "md_url": "/pt/family/don-t-worry-allah-is-with-you-20170114-10.md"
+  },
+  {
+   "slug": "harassment-from-mother-in-law-20170204-3",
+   "lang": "pt",
+   "category": "family",
+   "title": "Assédio da Sogra",
+   "summary": "Este artigo apresenta a pergunta de uma mulher que sofre assédio psicológico da sogra e a resposta a ela. Discute as dificuldades mentais e físicas enfrentadas quando o marido não oferece uma solução. O artigo explica como abordar este problema sob a perspectiva islâmica.",
+   "author": "ഹാരിസ്ബിൻ സലീം",
+   "issue_date": "2017-02-04",
+   "html_url": "/pt/family/harassment-from-mother-in-law-20170204-3.html",
+   "md_url": "/pt/family/harassment-from-mother-in-law-20170204-3.md"
   },
   {
    "slug": "how-to-be-a-good-parent-part-2-20170121-4",
