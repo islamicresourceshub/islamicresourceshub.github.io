@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-02T08:41:47.340784+00:00",
+ "generated_at": "2026-09-02T08:42:15.590023+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3014,
+ "count": 3015,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -24013,6 +24013,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/pa/dawah/the-religion-that-rejects-terrorism-part-1-20170121-12.html",
    "md_url": "/pa/dawah/the-religion-that-rejects-terrorism-part-1-20170121-12.md"
+  },
+  {
+   "slug": "children-an-islamic-reading-part-4-20170204-5",
+   "lang": "pa",
+   "category": "family",
+   "title": "ਔਲਾਦ: ਇੱਕ ਇਸਲਾਮੀ ਦ੍ਰਿਸ਼ਟੀਕੋਣ",
+   "summary": "ਇਹ ਲੇਖ ਇਸਲਾਮੀ ਪਾਲਣ-ਪੋਸ਼ਣ ਦੇ ਮਹੱਤਵਪੂਰਨ ਪਹਿਲੂਆਂ 'ਤੇ ਚਰਚਾ ਕਰਦਾ ਹੈ ਅਤੇ ਦੱਸਦਾ ਹੈ ਕਿ ਮਾਪਿਆਂ ਨੂੰ ਇਹ ਸਮਝਣਾ ਚਾਹੀਦਾ ਹੈ ਕਿ ਔਲਾਦ ਅੱਲ੍ਹਾ ਦੀ ਅਮਾਨਤ ਹੈ। ਇਹ ਲੜੀ ਦਾ ਚੌਥਾ ਭਾਗ ਹੈ ਜੋ ਬੱਚਿਆਂ ਦੀ ਅਹਿਮੀਅਤ ਅਤੇ ਉਨ੍ਹਾਂ ਦੇ ਪਾਲਣ-ਪੋਸ਼ਣ ਦੇ ਇਸਲਾਮੀ ਤਰੀਕਿਆਂ ਬਾਰੇ ਵਿਸਥਾਰ ਨਾਲ ਦੱਸਦਾ ਹੈ।",
+   "author": "അഷ്‌റഫ്‌ എകരൂൽ",
+   "issue_date": "2017-02-04",
+   "html_url": "/pa/family/children-an-islamic-reading-part-4-20170204-5.html",
+   "md_url": "/pa/family/children-an-islamic-reading-part-4-20170204-5.md"
   },
   {
    "slug": "don-t-worry-allah-is-with-you-20170114-10",
