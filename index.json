@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-02T07:38:36.286964+00:00",
+ "generated_at": "2026-09-02T07:39:06.154921+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2950,
+ "count": 2951,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -23056,6 +23056,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/or/hadith/criteria-for-accepting-hadith-20170128-2.html",
    "md_url": "/or/hadith/criteria-for-accepting-hadith-20170128-2.md"
+  },
+  {
+   "slug": "challenges-posed-by-pseudo-nationalism-20170204-4",
+   "lang": "or",
+   "category": "opinion",
+   "title": "ଛଦ୍ମ ଜାତୀୟତାବାଦ ସୃଷ୍ଟି କରୁଥିବା ଆହ୍ୱାନ",
+   "summary": "ଏହି ପ୍ରବନ୍ଧଟି ବର୍ଣ୍ଣନା କରେ ଯେ ନିଜ ଦେଶ ଓ ଦେଶବାସୀଙ୍କ ପ୍ରତି ଭାବପ୍ରବଣତା ମଣିଷର ଏକ ସ୍ୱାଭାବିକ ଗୁଣ। ତେବେ, ଏହା ଛଦ୍ମ ଜାତୀୟତାବାଦ ଦ୍ୱାରା ସୃଷ୍ଟି ହେଉଥିବା ଆହ୍ୱାନ, ସମାଜରେ ଏହାର ପ୍ରଭାବ ଏବଂ ଏହାର ପରିଣାମ ସମ୍ପର୍କରେ ଗଭୀର ବିଶ୍ଳେଷଣ କରେ।",
+   "author": "സുഫ്‌യാന്‍ അബ്ദുസ്സലാം - റിയാദ്‌",
+   "issue_date": "2017-02-04",
+   "html_url": "/or/opinion/challenges-posed-by-pseudo-nationalism-20170204-4.html",
+   "md_url": "/or/opinion/challenges-posed-by-pseudo-nationalism-20170204-4.md"
   },
   {
    "slug": "e-writing-is-not-mere-writing-20170121-15",
