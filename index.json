@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-02T09:38:20.701606+00:00",
+ "generated_at": "2026-09-02T09:38:51.062772+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3183,
+ "count": 3184,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -25905,6 +25905,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/ps/dawah/the-religion-that-rejects-terrorism-part-1-20170121-12.html",
    "md_url": "/ps/dawah/the-religion-that-rejects-terrorism-part-1-20170121-12.md"
+  },
+  {
+   "slug": "unity-ideology-and-movement-20170211-2",
+   "lang": "ps",
+   "category": "dawah",
+   "title": "یووالی، تګلاره او غورځنګ",
+   "summary": "دا لیکنه په دې اړه بحث کوي چې څنګه اسلامي غورځنګونه د نړۍ د سولې لپاره د ګواښ په توګه د ترهګرۍ پر وړاندې یو موټی شي. د دې لیکنې اصلي موضوع د فکري او تګلاریز یووالي اهمیت دی.",
+   "author": "ടി.കെ.അശ്‌റഫ്",
+   "issue_date": "2017-02-11",
+   "html_url": "/ps/dawah/unity-ideology-and-movement-20170211-2.html",
+   "md_url": "/ps/dawah/unity-ideology-and-movement-20170211-2.md"
   },
   {
    "slug": "children-an-islamic-reading-part-4-20170204-5",
