@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-02T07:24:11.934760+00:00",
+ "generated_at": "2026-09-02T07:24:34.135153+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2909,
+ "count": 2910,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -27533,6 +27533,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/ta/family/don-t-worry-allah-is-with-you-20170114-10.html",
    "md_url": "/ta/family/don-t-worry-allah-is-with-you-20170114-10.md"
+  },
+  {
+   "slug": "harassment-from-mother-in-law-20170204-3",
+   "lang": "ta",
+   "category": "family",
+   "title": "மாமியாருடனான மனக்கசப்பு",
+   "summary": "மாமியாரின் மனரீதியான துன்புறுத்தல்களை எதிர்கொள்ளும் ஒரு பெண், தனது கணவரிடமிருந்து தீர்வு கிடைக்காத சூழலில் விவாகரத்து கோருவது குறித்து எழுப்பும் கேள்விக்கான இஸ்லாமிய வழிகாட்டல் இந்த கட்டுரையில் விவரிக்கப்படுகிறது.",
+   "author": "ഹാരിസ്ബിൻ സലീം",
+   "issue_date": "2017-02-04",
+   "html_url": "/ta/family/harassment-from-mother-in-law-20170204-3.html",
+   "md_url": "/ta/family/harassment-from-mother-in-law-20170204-3.md"
   },
   {
    "slug": "how-to-be-a-good-parent-part-2-20170121-4",
