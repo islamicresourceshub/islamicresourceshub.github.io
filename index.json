@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-02T10:10:42.015741+00:00",
+ "generated_at": "2026-09-02T10:11:31.845191+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3212,
+ "count": 3213,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -737,6 +737,17 @@
    "issue_date": "2017-02-04",
    "html_url": "/am/story/abdullah-s-mistake-20170204-1.html",
    "md_url": "/am/story/abdullah-s-mistake-20170204-1.md"
+  },
+  {
+   "slug": "allah-is-watching-20170211-3",
+   "lang": "am",
+   "category": "story",
+   "title": "አላህ ያያል",
+   "summary": "ይህ የሐሰን የተባለ ገበሬ ሕይወትን መሠረት በማድረግ ስለ ታማኝነትና አላህን የመፍራት ትምህርት የሚያስተምር ታሪክ ነው። አላህ ሁልጊዜ እንደሚመለከተን ማወቃችን ወደ መልካም ነገር ይመራናል።",
+   "author": "തന്‍വീര്‍",
+   "issue_date": "2017-02-11",
+   "html_url": "/am/story/allah-is-watching-20170211-3.html",
+   "md_url": "/am/story/allah-is-watching-20170211-3.md"
   },
   {
    "slug": "good-intention-matters-most-20170325-8",
