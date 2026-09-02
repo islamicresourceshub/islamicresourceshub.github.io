@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-02T08:52:05.210383+00:00",
+ "generated_at": "2026-09-02T08:52:34.571720+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3047,
+ "count": 3048,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -3795,6 +3795,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/en/dawah/religion-is-fearlessness-20170114-6.html",
    "md_url": "/en/dawah/religion-is-fearlessness-20170114-6.md"
+  },
+  {
+   "slug": "religious-preachers-must-be-exemplary-20170204-6",
+   "lang": "en",
+   "category": "dawah",
+   "title": "Religious Preachers Must Be Exemplary",
+   "summary": "This article explains that Allah has sent prophets since the time of Adam (peace be upon him) to propagate His religion. It emphasizes that for religious preachers, living an exemplary life is essential for the success of their mission.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2017-02-04",
+   "html_url": "/en/dawah/religious-preachers-must-be-exemplary-20170204-6.html",
+   "md_url": "/en/dawah/religious-preachers-must-be-exemplary-20170204-6.md"
   },
   {
    "slug": "showing-the-light-is-the-duty-of-scholars-20170121-14",
