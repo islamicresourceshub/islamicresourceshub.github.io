@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-02T09:34:41.679847+00:00",
+ "generated_at": "2026-09-02T09:35:10.043094+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3176,
+ "count": 3177,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -9999,6 +9999,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/kn/dawah/the-religion-that-rejects-terrorism-part-1-20170121-12.html",
    "md_url": "/kn/dawah/the-religion-that-rejects-terrorism-part-1-20170121-12.md"
+  },
+  {
+   "slug": "unity-ideology-and-movement-20170211-2",
+   "lang": "kn",
+   "category": "dawah",
+   "title": "ಐಕ್ಯತೆ, ಆದರ್ಶ ಮತ್ತು ಸಂಘಟನೆ",
+   "summary": "ವಿಶ್ವಶಾಂತಿಗೆ ಬೆದರಿಕೆಯಾಗಿರುವ ಭಯೋತ್ಪಾದನೆಯನ್ನು ಎದುರಿಸಲು ಇಸ್ಲಾಮಿಕ್ ಸಂಘಟನೆಗಳು ಹೇಗೆ ಒಂದಾಗಬೇಕು ಎಂಬುದನ್ನು ಈ ಲೇಖನ ವಿವರಿಸುತ್ತದೆ. ಸೈದ್ಧಾಂತಿಕ ಒಮ್ಮತದ ಮಹತ್ವವೇ ಇದರ ಮುಖ್ಯ ವಿಷಯವಾಗಿದೆ.",
+   "author": "ടി.കെ.അശ്‌റഫ്",
+   "issue_date": "2017-02-11",
+   "html_url": "/kn/dawah/unity-ideology-and-movement-20170211-2.html",
+   "md_url": "/kn/dawah/unity-ideology-and-movement-20170211-2.md"
   },
   {
    "slug": "children-an-islamic-reading-part-4-20170204-5",
