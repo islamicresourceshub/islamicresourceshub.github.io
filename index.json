@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-02T07:58:18.210674+00:00",
+ "generated_at": "2026-09-02T07:58:45.654968+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2985,
+ "count": 2986,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -2629,6 +2629,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/bs/dawah/the-religion-that-rejects-terrorism-part-1-20170121-12.html",
    "md_url": "/bs/dawah/the-religion-that-rejects-terrorism-part-1-20170121-12.md"
+  },
+  {
+   "slug": "children-an-islamic-reading-part-4-20170204-5",
+   "lang": "bs",
+   "category": "family",
+   "title": "Djeca: Islamsko čitanje",
+   "summary": "Ovaj članak, četvrti dio serijala o islamskom odgoju, naglašava važnost razumijevanja prirode djece iz perspektive vjere. Autor istražuje kako roditelji trebaju gledati na svoju djecu kao na emanet od Allaha, ističući njihovu ulogu u životu i odgovornost koju roditelji nose.",
+   "author": "അഷ്‌റഫ്‌ എകരൂൽ",
+   "issue_date": "2017-02-04",
+   "html_url": "/bs/family/children-an-islamic-reading-part-4-20170204-5.html",
+   "md_url": "/bs/family/children-an-islamic-reading-part-4-20170204-5.md"
   },
   {
    "slug": "don-t-worry-allah-is-with-you-20170114-10",
