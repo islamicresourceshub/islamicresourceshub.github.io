@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-02T07:32:53.432657+00:00",
+ "generated_at": "2026-09-02T07:33:27.533738+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2939,
+ "count": 2940,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -6039,6 +6039,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/gu/hadith/criteria-for-accepting-hadith-20170128-2.html",
    "md_url": "/gu/hadith/criteria-for-accepting-hadith-20170128-2.md"
+  },
+  {
+   "slug": "challenges-posed-by-pseudo-nationalism-20170204-4",
+   "lang": "gu",
+   "category": "opinion",
+   "title": "છદ્મ રાષ્ટ્રવાદ દ્વારા ઊભા થતા પડકારો",
+   "summary": "આ લેખ ચર્ચા કરે છે કે પોતાના દેશ અને દેશવાસીઓ પ્રત્યેનો લાગણીશીલ સંબંધ મનુષ્યનો સ્વાભાવિક ગુણ છે, પરંતુ છદ્મ રાષ્ટ્રવાદ કેવી રીતે સમાજમાં ગંભીર પડકારો અને સમસ્યાઓ ઊભી કરે છે. તે આ પ્રવૃત્તિઓના પરિણામોનું વિશ્લેષણ કરે છે.",
+   "author": "സുഫ്‌യാന്‍ അബ്ദുസ്സലാം - റിയാദ്‌",
+   "issue_date": "2017-02-04",
+   "html_url": "/gu/opinion/challenges-posed-by-pseudo-nationalism-20170204-4.html",
+   "md_url": "/gu/opinion/challenges-posed-by-pseudo-nationalism-20170204-4.md"
   },
   {
    "slug": "e-writing-is-not-mere-writing-20170121-15",
