@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-02T07:27:42.210213+00:00",
+ "generated_at": "2026-09-02T07:28:07.506785+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2928,
+ "count": 2929,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -32043,6 +32043,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/zh/family/don-t-worry-allah-is-with-you-20170114-10.html",
    "md_url": "/zh/family/don-t-worry-allah-is-with-you-20170114-10.md"
+  },
+  {
+   "slug": "harassment-from-mother-in-law-20170204-3",
+   "lang": "zh",
+   "category": "family",
+   "title": "遭受婆婆的虐待",
+   "summary": "本文针对一位遭受婆婆精神虐待且丈夫未能提供解决方案的女性提出的问题进行了解答。文章探讨了在伊斯兰视角下如何处理此类家庭矛盾，并分析了在面对婚姻困境时，耐心与离婚选择之间的权衡。",
+   "author": "ഹാരിസ്ബിൻ സലീം",
+   "issue_date": "2017-02-04",
+   "html_url": "/zh/family/harassment-from-mother-in-law-20170204-3.html",
+   "md_url": "/zh/family/harassment-from-mother-in-law-20170204-3.md"
   },
   {
    "slug": "how-to-be-a-good-parent-part-2-20170121-4",
