@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-02T08:57:01.916677+00:00",
+ "generated_at": "2026-09-02T08:57:21.646255+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3059,
+ "count": 3069,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -10683,6 +10683,17 @@
    "md_url": "/ml/aqeedah/allah-is-the-worshipped-one-for-all-20191214-1.md"
   },
   {
+   "slug": "allah-s-names-and-attributes-the-stance-of-ahlus-sunnah-20200111-6",
+   "lang": "ml",
+   "category": "aqeedah",
+   "title": "അല്ലാഹുവിന്റെ നാമ, ഗുണ വിശേഷണങ്ങൾ: അഹ്ലുസ്സുന്നയുടെ നിലപാട്",
+   "summary": "അല്ലാഹുവിന്റെ നാമങ്ങളെയും ഗുണവിശേഷണങ്ങളെയും സംബന്ധിച്ച അഹ്ലുസ്സുന്നത്തി വൽജമാഅത്തിന്റെ വിശ്വാസപരമായ നിലപാടുകൾ വിശദീകരിക്കുന്നു.",
+   "author": "ശൈഖ് മുഹമ്മദ്‌ബിനു സ്വാലിഹുബ്നു ഉഥൈമീൻ",
+   "issue_date": "2020-01-11",
+   "html_url": "/ml/aqeedah/allah-s-names-and-attributes-the-stance-of-ahlus-sunnah-20200111-6.html",
+   "md_url": "/ml/aqeedah/allah-s-names-and-attributes-the-stance-of-ahlus-sunnah-20200111-6.md"
+  },
+  {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
    "lang": "ml",
    "category": "aqeedah",
@@ -12058,6 +12069,17 @@
    "md_url": "/ml/dawah/finding-joy-in-prayer-20180915-4.md"
   },
   {
+   "slug": "food-20200111-5",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "അന്നം",
+   "summary": "ഭക്ഷണത്തിന്റെ വിലയെക്കുറിച്ചും അത് പാഴാക്കാതെ സൂക്ഷിക്കേണ്ടതിന്റെ ആവശ്യകതയെക്കുറിച്ചും ഒരു ചെറിയ അനുഭവത്തിലൂടെ വിവരിക്കുന്ന ലേഖനം.",
+   "author": "ഫൈസൽ അനന്തപുരി",
+   "issue_date": "2020-01-11",
+   "html_url": "/ml/dawah/food-20200111-5.html",
+   "md_url": "/ml/dawah/food-20200111-5.md"
+  },
+  {
    "slug": "forbidden-prayers-20190330-6",
    "lang": "ml",
    "category": "dawah",
@@ -12322,6 +12344,17 @@
    "md_url": "/ml/dawah/leadership-is-not-an-ornament-20191019-7.md"
   },
   {
+   "slug": "let-us-be-grateful-for-blessings-20200111-8",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "അനുഗ്രഹങ്ങളിൽ നന്ദി കാണിക്കുക നാം",
+   "summary": "അല്ലാഹു നൽകിയ അനുഗ്രഹങ്ങൾക്ക് നന്ദി കാണിക്കേണ്ടതിന്റെ പ്രാധാന്യത്തെക്കുറിച്ചും, നിർഭയത്വം എന്ന അനുഗ്രഹത്തെക്കുറിച്ചും ഖുർആനിക വീക്ഷണത്തിൽ പ്രതിപാദിക്കുന്നു.",
+   "author": "സലീം സുല്ലമി വെളളേരി",
+   "issue_date": "2020-01-11",
+   "html_url": "/ml/dawah/let-us-be-grateful-for-blessings-20200111-8.html",
+   "md_url": "/ml/dawah/let-us-be-grateful-for-blessings-20200111-8.md"
+  },
+  {
    "slug": "let-us-be-loving-20180616-2",
    "lang": "ml",
    "category": "dawah",
@@ -12441,6 +12474,17 @@
    "issue_date": "2018-09-01",
    "html_url": "/ml/dawah/making-life-meaningful-20180901-3.html",
    "md_url": "/ml/dawah/making-life-meaningful-20180901-3.md"
+  },
+  {
+   "slug": "minds-washed-by-the-flood-20200111-3",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "പ്രളയം കഴുകിയ മനസ്സുകൾ",
+   "summary": "കേരളത്തിലെ പ്രളയകാലത്ത് ജാതി-മത ഭേദമന്യേ ജനങ്ങൾ കാണിച്ച ഐക്യത്തെയും മാനവികതയെയും കുറിച്ച് പ്രതിപാദിക്കുന്നു. ദുരന്തങ്ങൾ മനുഷ്യഹൃദയങ്ങളെ ശുദ്ധീകരിക്കാൻ സഹായിച്ചുവെന്ന് ലേഖകൻ ഓർമ്മിപ്പിക്കുന്നു.",
+   "author": "കുഞ്ഞിമുഹമ്മദ് മദനി പറപ്പൂർ",
+   "issue_date": "2020-01-11",
+   "html_url": "/ml/dawah/minds-washed-by-the-flood-20200111-3.html",
+   "md_url": "/ml/dawah/minds-washed-by-the-flood-20200111-3.md"
   },
   {
    "slug": "moving-away-from-unity-20191102-5",
@@ -15193,6 +15237,17 @@
    "md_url": "/ml/hadith/return-to-sunnah-20180901-9.md"
   },
   {
+   "slug": "sacrifices-of-predecessors-in-preserving-hadith-20200111-4",
+   "lang": "ml",
+   "category": "hadith",
+   "title": "ഹദീസ് സംരക്ഷണത്തിൽ പൂർവികരുടെ ത്യാഗപരിശ്രമങ്ങൾ",
+   "summary": "പ്രവാചകചര്യയായ ഹദീസ് സംരക്ഷിക്കുന്നതിനായി മുൻഗാമികളായ പണ്ഡിതന്മാർ നടത്തിയ കഠിനമായ പരിശ്രമങ്ങളെയും ത്യാഗങ്ങളെയും കുറിച്ചുള്ള വിവരണം.",
+   "author": "ഇമാം ജലാലുദ്ദീൻ അബ്ദുർറഹ്മാൻ സുയൂത്തി",
+   "issue_date": "2020-01-11",
+   "html_url": "/ml/hadith/sacrifices-of-predecessors-in-preserving-hadith-20200111-4.html",
+   "md_url": "/ml/hadith/sacrifices-of-predecessors-in-preserving-hadith-20200111-4.md"
+  },
+  {
    "slug": "sahih-al-bukhari-explanations-and-facts-20190615-3",
    "lang": "ml",
    "category": "hadith",
@@ -16282,6 +16337,17 @@
    "md_url": "/ml/history/why-did-swami-vivekananda-call-kerala-a-lunatic-asylum-20190308-5.md"
   },
   {
+   "slug": "why-medieval-indian-history-20200111-1",
+   "lang": "ml",
+   "category": "history",
+   "title": "എന്തുകൊണ്ട് മധ്യകാല ഇന്ത്യാചരിത്രം?",
+   "summary": "ഇന്ത്യൻ ചരിത്രത്തെ വർഗീയമായി വിഭജിച്ചതിലൂടെ മധ്യകാല ചരിത്രം എങ്ങനെ വക്രീകരിക്കപ്പെട്ടുവെന്ന് ലേഖനം പരിശോധിക്കുന്നു. ഔറംഗസീബ്, ജിസ്യ തുടങ്ങിയ വിഷയങ്ങളിലെ തെറ്റിദ്ധാരണകളെ വസ്തുനിഷ്ഠമായി വിശകലനം ചെയ്യുന്നു.",
+   "author": "സജ്ജാദ് ബിൻ അബ്ദുറസാഖ്",
+   "issue_date": "2020-01-11",
+   "html_url": "/ml/history/why-medieval-indian-history-20200111-1.html",
+   "md_url": "/ml/history/why-medieval-indian-history-20200111-1.md"
+  },
+  {
    "slug": "world-civilizations-before-the-prophet-20180714-1",
    "lang": "ml",
    "category": "history",
@@ -16731,6 +16797,17 @@
    "issue_date": "2019-12-14",
    "html_url": "/ml/opinion/failing-law-enforcement-20191214-8.html",
    "md_url": "/ml/opinion/failing-law-enforcement-20191214-8.md"
+  },
+  {
+   "slug": "falsehood-is-on-the-throne-20200111-2",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "അസത്യം സിംഹാസനത്തിലാണ്",
+   "summary": "ഇന്ത്യയിലെ നിലവിലെ രാഷ്ട്രീയ സാഹചര്യങ്ങളെയും പൗരത്വ ഭേദഗതി നിയമത്തെയും വിമർശനാത്മകമായി വിലയിരുത്തുന്ന മുഖലേഖനം. ഭരണകൂടം മതേതരത്വത്തെയും ജനാധിപത്യത്തെയും തകർക്കാൻ ശ്രമിക്കുന്നുവെന്ന് ഇത് വാദിക്കുന്നു.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2020-01-11",
+   "html_url": "/ml/opinion/falsehood-is-on-the-throne-20200111-2.html",
+   "md_url": "/ml/opinion/falsehood-is-on-the-throne-20200111-2.md"
   },
   {
    "slug": "financial-aids-that-do-not-reach-the-target-20190216-4",
@@ -18425,6 +18502,17 @@
    "issue_date": "2019-12-21",
    "html_url": "/ml/quran/al-qalam-the-pen-20191221-3.html",
    "md_url": "/ml/quran/al-qalam-the-pen-20191221-3.md"
+  },
+  {
+   "slug": "al-qalam-the-pen-part-4-20200111-9",
+   "lang": "ml",
+   "category": "quran",
+   "title": "ഖലം (പേന), ഭാഗം: 4",
+   "summary": "ഖുർആനിലെ അൽ-ഖലം അധ്യായത്തിന്റെ നാലാം ഭാഗം തഫ്സീർ.",
+   "author": "അബ്ദുറഹ്മാൻ നാസിർ അസ്സഅദി",
+   "issue_date": "2020-01-11",
+   "html_url": "/ml/quran/al-qalam-the-pen-part-4-20200111-9.html",
+   "md_url": "/ml/quran/al-qalam-the-pen-part-4-20200111-9.md"
   },
   {
    "slug": "are-you-studying-the-quran-20190518-7",
@@ -21001,6 +21089,17 @@
    "md_url": "/ml/story/laylatul-qadr-i-tikaf-and-ajmal-s-doubts-20190601-4.md"
   },
   {
+   "slug": "life-s-journey-20200111-7",
+   "lang": "ml",
+   "category": "story",
+   "title": "ജീവിതയാത്ര",
+   "summary": "പരലോക വിജയത്തിനായി നന്മകൾ ചെയ്യാൻ പ്രേരിപ്പിക്കുന്ന ഒരു കവിത.",
+   "author": "ആബിദ",
+   "issue_date": "2020-01-11",
+   "html_url": "/ml/story/life-s-journey-20200111-7.html",
+   "md_url": "/ml/story/life-s-journey-20200111-7.md"
+  },
+  {
    "slug": "loss-of-stars-20181027-6",
    "lang": "ml",
    "category": "story",
@@ -21637,6 +21736,17 @@
    "issue_date": "2019-11-23",
    "html_url": "/ml/story/towards-the-light-20191123-11.html",
    "md_url": "/ml/story/towards-the-light-20191123-11.md"
+  },
+  {
+   "slug": "tricolor-20200111-10",
+   "lang": "ml",
+   "category": "story",
+   "title": "ത്രിവർണം",
+   "summary": "ഇന്ത്യയുടെ മതേതരത്വത്തെയും ഐക്യത്തെയും വാഴ്ത്തുന്ന കവിത.",
+   "author": "സീനത്ത് അലി, എടത്തനാട്ടുകര",
+   "issue_date": "2020-01-11",
+   "html_url": "/ml/story/tricolor-20200111-10.html",
+   "md_url": "/ml/story/tricolor-20200111-10.md"
   },
   {
    "slug": "truthfulness-20190824-6",
