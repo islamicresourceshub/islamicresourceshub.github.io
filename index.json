@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-02T08:11:56.992487+00:00",
+ "generated_at": "2026-09-02T08:12:21.418846+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2988,
+ "count": 2989,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -4334,6 +4334,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/es/dawah/the-religion-that-rejects-terrorism-part-1-20170121-12.html",
    "md_url": "/es/dawah/the-religion-that-rejects-terrorism-part-1-20170121-12.md"
+  },
+  {
+   "slug": "children-an-islamic-reading-part-4-20170204-5",
+   "lang": "es",
+   "category": "family",
+   "title": "Los hijos: una lectura islámica",
+   "summary": "Este artículo sostiene que quienes asumen la misión de la crianza islámica deben comprender profundamente qué son los hijos y cuál es su naturaleza. Es la cuarta parte de una serie que explora la perspectiva islámica sobre la importancia de los hijos y la manera correcta de educarlos.",
+   "author": "അഷ്‌റഫ്‌ എകരൂൽ",
+   "issue_date": "2017-02-04",
+   "html_url": "/es/family/children-an-islamic-reading-part-4-20170204-5.html",
+   "md_url": "/es/family/children-an-islamic-reading-part-4-20170204-5.md"
   },
   {
    "slug": "don-t-worry-allah-is-with-you-20170114-10",
