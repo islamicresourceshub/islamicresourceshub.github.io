@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-02T11:40:35.908801+00:00",
+ "generated_at": "2026-09-02T12:00:01.914491+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3228,
+ "count": 3229,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -10538,6 +10538,17 @@
    "issue_date": "2017-02-04",
    "html_url": "/kn/story/abdullah-s-mistake-20170204-1.html",
    "md_url": "/kn/story/abdullah-s-mistake-20170204-1.md"
+  },
+  {
+   "slug": "allah-is-watching-20170211-3",
+   "lang": "kn",
+   "category": "story",
+   "title": "ಅಲ್ಲಾಹನು ನೋಡುತ್ತಿದ್ದಾನೆ",
+   "summary": "ಇದು ಹಸನ್ ಎಂಬ ರೈತನ ಜೀವನದ ಮೂಲಕ ಪ್ರಾಮಾಣಿಕತೆ ಮತ್ತು ದೈವಭಕ್ತಿಯ ಪಾಠಗಳನ್ನು ಕಲಿಸುವ ಕಥೆಯಾಗಿದೆ. ಅಲ್ಲಾಹನ ನಿಗಾ ಯಾವಾಗಲೂ ನಮ್ಮ ಮೇಲಿದೆ ಎಂಬ ಪ್ರಜ್ಞೆಯು ಮನುಷ್ಯನನ್ನು ಸನ್ಮಾರ್ಗದತ್ತ ಮುನ್ನಡೆಸುತ್ತದೆ.",
+   "author": "തന്‍വീര്‍",
+   "issue_date": "2017-02-11",
+   "html_url": "/kn/story/allah-is-watching-20170211-3.html",
+   "md_url": "/kn/story/allah-is-watching-20170211-3.md"
   },
   {
    "slug": "good-intention-matters-most-20170325-8",
