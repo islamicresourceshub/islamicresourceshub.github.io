@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-02T09:04:24.058069+00:00",
+ "generated_at": "2026-09-02T09:04:51.777038+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3081,
+ "count": 3082,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -29073,6 +29073,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/ta/dawah/religion-is-fearlessness-20170114-6.html",
    "md_url": "/ta/dawah/religion-is-fearlessness-20170114-6.md"
+  },
+  {
+   "slug": "religious-preachers-must-be-exemplary-20170204-6",
+   "lang": "ta",
+   "category": "dawah",
+   "title": "மதப் பிரச்சாரகர்கள் முன்மாதிரியானவர்களாக இருக்க வேண்டும்",
+   "summary": "ஆதம் நபி (அலை) அவர்கள் முதல் அல்லாஹ் இறைத்தூதர்களை அனுப்பியது மார்க்கத்தைப் பிரச்சாரம் செய்வதற்காகவே என்று இந்த கட்டுரை கூறுகிறது. மதப் பிரச்சாரகர்கள் முன்மாதிரியானவர்களாக இருக்க வேண்டியதன் அவசியத்தை இது வலியுறுத்துகிறது. பிரச்சாரப் பணிகளின் வெற்றிக்கு முன்மாதிரியான வாழ்க்கை மிக அவசியம் என்பதை இது விளக்குகிறது.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2017-02-04",
+   "html_url": "/ta/dawah/religious-preachers-must-be-exemplary-20170204-6.html",
+   "md_url": "/ta/dawah/religious-preachers-must-be-exemplary-20170204-6.md"
   },
   {
    "slug": "showing-the-light-is-the-duty-of-scholars-20170121-14",
