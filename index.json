@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-01T16:36:36.467240+00:00",
+ "generated_at": "2026-09-02T04:08:16.978857+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2888,
+ "count": 2889,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -8569,6 +8569,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/ja/family/don-t-worry-allah-is-with-you-20170114-10.html",
    "md_url": "/ja/family/don-t-worry-allah-is-with-you-20170114-10.md"
+  },
+  {
+   "slug": "harassment-from-mother-in-law-20170204-3",
+   "lang": "ja",
+   "category": "family",
+   "title": "義母からの虐待",
+   "summary": "このブログ記事は、義母から精神的な虐待を受けている女性からの質問と、それに対する回答です。夫からの解決策が得られない状況で、精神的・肉体的な困難に直面していることについて論じています。この記事では、イスラムの観点からこの問題にどのように対処すべきかを説明しています。",
+   "author": "ഹാരിസ്ബിൻ സലീം",
+   "issue_date": "2017-02-04",
+   "html_url": "/ja/family/harassment-from-mother-in-law-20170204-3.html",
+   "md_url": "/ja/family/harassment-from-mother-in-law-20170204-3.md"
   },
   {
    "slug": "how-to-be-a-good-parent-part-2-20170121-4",
