@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-02T08:12:46.882396+00:00",
+ "generated_at": "2026-09-02T08:13:05.992414+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2990,
+ "count": 3001,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -11585,6 +11585,17 @@
    "md_url": "/ml/dawah/do-not-forget-in-worldly-life-20190803-1.md"
   },
   {
+   "slug": "do-not-forget-yourself-20191228-2",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "സ്വന്തത്തെ മറക്കാതിരിക്കുക",
+   "summary": "ചെയ്ത സൽകർമ്മങ്ങൾ അഹങ്കാരം, പരദൂഷണം തുടങ്ങിയവയിലൂടെ നഷ്ടപ്പെടുത്താതിരിക്കാൻ വിശ്വാസികൾ ശ്രദ്ധിക്കേണ്ട കാര്യങ്ങളെക്കുറിച്ചുള്ള ലേഖനം.",
+   "author": "കുഞ്ഞിമുഹമ്മദ് മദനി പറപ്പൂർ",
+   "issue_date": "2019-12-28",
+   "html_url": "/ml/dawah/do-not-forget-yourself-20191228-2.html",
+   "md_url": "/ml/dawah/do-not-forget-yourself-20191228-2.md"
+  },
+  {
    "slug": "do-not-make-humiliation-an-ornament-20190126-1",
    "lang": "ml",
    "category": "dawah",
@@ -13829,6 +13840,17 @@
    "md_url": "/ml/family/marriage-age-critics-with-biased-glasses-20191019-2.md"
   },
   {
+   "slug": "neglected-parents-20191228-4",
+   "lang": "ml",
+   "category": "family",
+   "title": "അവഗണിക്കപ്പെടുന്ന മാതാപിതാക്കൾ",
+   "summary": "വൃദ്ധസദനങ്ങൾ വർദ്ധിച്ചുവരുന്ന സാഹചര്യത്തിൽ മാതാപിതാക്കളോടുള്ള മക്കളുടെ കടമകളെയും ഇസ്‌ലാമിക കാഴ്ചപ്പാടിനെയും കുറിച്ചുള്ള ലേഖനം.",
+   "author": "സിറാജുൽ ഇസ്‌ലാം ബാലുശ്ശേരി",
+   "issue_date": "2019-12-28",
+   "html_url": "/ml/family/neglected-parents-20191228-4.html",
+   "md_url": "/ml/family/neglected-parents-20191228-4.md"
+  },
+  {
    "slug": "our-parents-20170325-4",
    "lang": "ml",
    "category": "family",
@@ -14564,6 +14586,17 @@
    "issue_date": "2019-04-13",
    "html_url": "/ml/fiqh/prayer-and-straightening-the-rows-20190413-6.html",
    "md_url": "/ml/fiqh/prayer-and-straightening-the-rows-20190413-6.md"
+  },
+  {
+   "slug": "qunut-during-times-of-crisis-20191228-9",
+   "lang": "ml",
+   "category": "fiqh",
+   "title": "പ്രതിസന്ധി ഘട്ടങ്ങളിലെ ഖുനൂത്ത്",
+   "summary": "പ്രതിസന്ധി ഘട്ടങ്ങളിൽ നമസ്കാരങ്ങളിൽ നിർവഹിക്കേണ്ട 'ഖുനൂത്തു നാസില'യെക്കുറിച്ചുള്ള കർമ്മശാസ്ത്രപരമായ വിശദീകരണം.",
+   "author": "അബൂ ആദിൽ",
+   "issue_date": "2019-12-28",
+   "html_url": "/ml/fiqh/qunut-during-times-of-crisis-20191228-9.html",
+   "md_url": "/ml/fiqh/qunut-during-times-of-crisis-20191228-9.md"
   },
   {
    "slug": "ramadan-fasting-rulings-and-prohibitions-20180519-7",
@@ -15655,6 +15688,17 @@
    "md_url": "/ml/history/the-first-quran-translation-in-malayalam-20180929-5.md"
   },
   {
+   "slug": "the-history-of-muslims-is-one-of-survival-20191228-7",
+   "lang": "ml",
+   "category": "history",
+   "title": "മുസ്‌ലിംകളുടെ ചരിത്രം അതിജീവനത്തിന്റേതാണ്",
+   "summary": "പ്രതിസന്ധികളെ അതിജീവിച്ച പ്രവാചകന്മാരുടെയും മുൻഗാമികളുടെയും ചരിത്രം ഉദ്ധരിച്ചുകൊണ്ട്, വർത്തമാനകാലത്തെ വെല്ലുവിളികളെ നേരിടാനുള്ള ആത്മവിശ്വാസം നൽകുന്ന ലേഖനം.",
+   "author": "അബ്ദു മാലിക് സലഫി",
+   "issue_date": "2019-12-28",
+   "html_url": "/ml/history/the-history-of-muslims-is-one-of-survival-20191228-7.html",
+   "md_url": "/ml/history/the-history-of-muslims-is-one-of-survival-20191228-7.md"
+  },
+  {
    "slug": "the-holy-quran-and-the-first-generation-20191207-12",
    "lang": "ml",
    "category": "history",
@@ -16139,6 +16183,17 @@
    "md_url": "/ml/opinion/christchurch-massacre-the-ugly-face-of-racism-20190330-4.md"
   },
   {
+   "slug": "citizenship-bill-and-gandhian-protest-methods-20191228-8",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "പൗരത്വബില്ലും ഗാന്ധിയൻ സമരമാർഗങ്ങളും",
+   "summary": "പൗരത്വ നിയമ ഭേദഗതിക്കെതിരായ സമരങ്ങൾ അഹിംസാത്മകവും ജനാധിപത്യപരവുമായിരിക്കേണ്ടതിന്റെ ആവശ്യകതയെക്കുറിച്ചുള്ള ലേഖനം.",
+   "author": "നബീൽ പയ്യോളി",
+   "issue_date": "2019-12-28",
+   "html_url": "/ml/opinion/citizenship-bill-and-gandhian-protest-methods-20191228-8.html",
+   "md_url": "/ml/opinion/citizenship-bill-and-gandhian-protest-methods-20191228-8.md"
+  },
+  {
    "slug": "community-s-approach-to-religious-education-a-vazhakkadan-re-20190112-6",
    "lang": "ml",
    "category": "opinion",
@@ -16368,6 +16423,17 @@
    "issue_date": "2017-02-11",
    "html_url": "/ml/opinion/freedom-of-speech-should-not-be-one-sided-20170211-1.html",
    "md_url": "/ml/opinion/freedom-of-speech-should-not-be-one-sided-20170211-1.md"
+  },
+  {
+   "slug": "fulfill-your-responsibility-20191228-11",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "ഉത്തരവാദിത്തം നിറവേറ്റുക",
+   "summary": "തൊഴിലിടങ്ങളിലും പൊതുജീവിതത്തിലും ഉത്തരവാദിത്തബോധത്തോടെ പെരുമാറേണ്ടതിന്റെ പ്രാധാന്യം ഒരു അനുഭവക്കുറിപ്പിലൂടെ വിവരിക്കുന്നു.",
+   "author": "സലാം സുറുമ എടത്തനാട്ടുകര",
+   "issue_date": "2019-12-28",
+   "html_url": "/ml/opinion/fulfill-your-responsibility-20191228-11.html",
+   "md_url": "/ml/opinion/fulfill-your-responsibility-20191228-11.md"
   },
   {
    "slug": "gandhi-s-india-from-diversity-to-unity-20191012-5",
@@ -17580,6 +17646,17 @@
    "md_url": "/ml/opinion/water-murmurs-20170401-6.md"
   },
   {
+   "slug": "we-will-overcome-this-trial-too-20191228-1",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "ഈ പരീക്ഷത്തെയും നാം അതിജീവിക്കും",
+   "summary": "ഇന്ത്യയിലെ നിലവിലെ പൗരത്വ നിയമ ഭേദഗതിയുമായി ബന്ധപ്പെട്ട ആശങ്കകളെയും, വിശ്വാസികൾ ഇത്തരം പ്രതിസന്ധികളെ എങ്ങനെ നേരിടണം എന്നതിനെയും കുറിച്ചുള്ള മുഖപ്രസംഗം.",
+   "author": "എഡിറ്റർ",
+   "issue_date": "2019-12-28",
+   "html_url": "/ml/opinion/we-will-overcome-this-trial-too-20191228-1.html",
+   "md_url": "/ml/opinion/we-will-overcome-this-trial-too-20191228-1.md"
+  },
+  {
    "slug": "when-national-tradition-is-questioned-20170121-2",
    "lang": "ml",
    "category": "opinion",
@@ -18163,6 +18240,17 @@
    "md_url": "/ml/quran/methodology-of-quranic-interpretation-20190706-7.md"
   },
   {
+   "slug": "naskh-what-do-the-sources-say-20191228-3",
+   "lang": "ml",
+   "category": "quran",
+   "title": "നസ്ഖ്: പ്രമാണങ്ങൾ എന്തു പറയുന്നു?",
+   "summary": "ഖുർആനിലെ നസ്ഖ് (നിയമഭേദഗതി) എന്ന വിഷയത്തെക്കുറിച്ചുള്ള തെറ്റിദ്ധാരണകൾ നീക്കി അതിന്റെ യുക്തിയും ദൈവികതയും വിശദീകരിക്കുന്ന ലേഖനം.",
+   "author": "ഫൈസൽ പുതുപ്പറമ്പ്",
+   "issue_date": "2019-12-28",
+   "html_url": "/ml/quran/naskh-what-do-the-sources-say-20191228-3.html",
+   "md_url": "/ml/quran/naskh-what-do-the-sources-say-20191228-3.md"
+  },
+  {
    "slug": "parables-of-the-hypocrites-20180623-5",
    "lang": "ml",
    "category": "quran",
@@ -18238,6 +18326,17 @@
    "issue_date": "2018-11-17",
    "html_url": "/ml/quran/quranic-vision-of-life-purification-20181117-2.html",
    "md_url": "/ml/quran/quranic-vision-of-life-purification-20181117-2.md"
+  },
+  {
+   "slug": "quranic-vision-the-pen-20191228-10",
+   "lang": "ml",
+   "category": "quran",
+   "title": "ഖുർആൻ ദർശനം: ഖലം (പേന)",
+   "summary": "സൂറത്തുൽ ഖലമിലെ വചനങ്ങളുടെ വ്യാഖ്യാനം, പ്രത്യേകിച്ച് ദുസ്വഭാവങ്ങളെയും അഹങ്കാരത്തെയും കുറിച്ചുള്ള മുന്നറിയിപ്പുകൾ.",
+   "author": "അബ്ദുറഹ്മാൻ നാസിർ അസ്സഅദി",
+   "issue_date": "2019-12-28",
+   "html_url": "/ml/quran/quranic-vision-the-pen-20191228-10.html",
+   "md_url": "/ml/quran/quranic-vision-the-pen-20191228-10.md"
   },
   {
    "slug": "samiri-s-deception-20180825-10",
@@ -19780,6 +19879,17 @@
    "md_url": "/ml/seerah/the-prophet-s-migration-hijrah-20190518-5.md"
   },
   {
+   "slug": "the-prophet-s-wise-stances-20191228-6",
+   "lang": "ml",
+   "category": "seerah",
+   "title": "പ്രവാചകന്റെ വിവേകപൂർണമായ നിലപാടുകൾ",
+   "summary": "മദീനയിലെ പ്രവാചകന്റെ ഭരണകാലത്ത് അദ്ദേഹം സ്വീകരിച്ച നയതന്ത്രപരമായ തീരുമാനങ്ങളെയും യുദ്ധതന്ത്രങ്ങളെയും കുറിച്ചുള്ള ചരിത്രപരമായ വിശകലനം.",
+   "author": "അബ്ബാസ് ചെറുതുരുത്തി",
+   "issue_date": "2019-12-28",
+   "html_url": "/ml/seerah/the-prophet-s-wise-stances-20191228-6.html",
+   "md_url": "/ml/seerah/the-prophet-s-wise-stances-20191228-6.md"
+  },
+  {
    "slug": "the-pure-mother-the-blessed-child-20190323-7",
    "lang": "ml",
    "category": "seerah",
@@ -21241,6 +21351,17 @@
    "issue_date": "2019-09-21",
    "html_url": "/ml/youth/can-we-have-classes-during-holidays-20190921-3.html",
    "md_url": "/ml/youth/can-we-have-classes-during-holidays-20190921-3.md"
+  },
+  {
+   "slug": "devalued-examination-assessment-20191228-5",
+   "lang": "ml",
+   "category": "youth",
+   "title": "മൂല്യം നഷ്ടപ്പെട്ട പരീക്ഷാ മൂല്യനിർണയം",
+   "summary": "മാർക്കുകൾക്കും ഗ്രേഡുകൾക്കും അമിത പ്രാധാന്യം നൽകുന്ന ആധുനിക വിദ്യാഭ്യാസ രീതിയിലെ പോരായ്മകളെയും കുട്ടികളുടെ മാനസിക സമ്മർദ്ദത്തെയും കുറിച്ചുള്ള വിമർശനം.",
+   "author": "സജ്ജാദ് ബിൻ അബ്ദു റസാഖ്",
+   "issue_date": "2019-12-28",
+   "html_url": "/ml/youth/devalued-examination-assessment-20191228-5.html",
+   "md_url": "/ml/youth/devalued-examination-assessment-20191228-5.md"
   },
   {
    "slug": "do-not-be-greedy-20180602-3",
