@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-02T11:09:44.769657+00:00",
+ "generated_at": "2026-09-02T11:10:18.434106+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3220,
+ "count": 3221,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -5621,6 +5621,17 @@
    "issue_date": "2017-02-04",
    "html_url": "/fa/story/abdullah-s-mistake-20170204-1.html",
    "md_url": "/fa/story/abdullah-s-mistake-20170204-1.md"
+  },
+  {
+   "slug": "allah-is-watching-20170211-3",
+   "lang": "fa",
+   "category": "story",
+   "title": "خدا می‌بیند",
+   "summary": "این داستانی است که از طریق زندگی کشاورزی به نام حسن، درس‌های صداقت و ترس از خدا را منتقل می‌کند. آگاهی از اینکه خدا همیشه ناظر است، انسان را به سوی نیکی هدایت می‌کند.",
+   "author": "തന്‍വീര്‍",
+   "issue_date": "2017-02-11",
+   "html_url": "/fa/story/allah-is-watching-20170211-3.html",
+   "md_url": "/fa/story/allah-is-watching-20170211-3.md"
   },
   {
    "slug": "good-intention-matters-most-20170325-8",
