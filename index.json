@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-02T07:22:45.554223+00:00",
+ "generated_at": "2026-09-02T07:24:11.934760+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2908,
+ "count": 2909,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -26994,6 +26994,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/sw/family/don-t-worry-allah-is-with-you-20170114-10.html",
    "md_url": "/sw/family/don-t-worry-allah-is-with-you-20170114-10.md"
+  },
+  {
+   "slug": "harassment-from-mother-in-law-20170204-3",
+   "lang": "sw",
+   "category": "family",
+   "title": "Unyanyasaji kutoka kwa mama mkwe",
+   "summary": "Makala haya yanajibu swali la mwanamke anayepata mateso ya kisaikolojia kutoka kwa mama mkwe wake, huku mumewe akishindwa kutoa suluhu. Inajadili jinsi ya kukabiliana na hali hii kwa mtazamo wa Kiislamu, ikizingatia haki za mke na umuhimu wa subira.",
+   "author": "ഹാരിസ്ബിൻ സലീം",
+   "issue_date": "2017-02-04",
+   "html_url": "/sw/family/harassment-from-mother-in-law-20170204-3.html",
+   "md_url": "/sw/family/harassment-from-mother-in-law-20170204-3.md"
   },
   {
    "slug": "how-to-be-a-good-parent-part-2-20170121-4",
