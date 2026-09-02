@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-02T08:54:34.127644+00:00",
+ "generated_at": "2026-09-02T08:54:58.662976+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3053,
+ "count": 3054,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -7271,6 +7271,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/hi/dawah/religion-is-fearlessness-20170114-6.html",
    "md_url": "/hi/dawah/religion-is-fearlessness-20170114-6.md"
+  },
+  {
+   "slug": "religious-preachers-must-be-exemplary-20170204-6",
+   "lang": "hi",
+   "category": "dawah",
+   "title": "धर्म प्रचारकों को आदर्श प्रस्तुत करना चाहिए",
+   "summary": "यह लेख बताता है कि आदम (अ) से लेकर अल्लाह ने पैगंबरों को धर्म के प्रचार के लिए भेजा था। यह इस बात पर जोर देता है कि धर्म प्रचारकों का जीवन आदर्श होना चाहिए, क्योंकि प्रचार की सफलता के लिए एक अनुकरणीय जीवन अनिवार्य है।",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2017-02-04",
+   "html_url": "/hi/dawah/religious-preachers-must-be-exemplary-20170204-6.html",
+   "md_url": "/hi/dawah/religious-preachers-must-be-exemplary-20170204-6.md"
   },
   {
    "slug": "showing-the-light-is-the-duty-of-scholars-20170121-14",
