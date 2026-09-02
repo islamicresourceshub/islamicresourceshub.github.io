@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-02T07:34:30.083953+00:00",
+ "generated_at": "2026-09-02T07:34:56.885983+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2942,
+ "count": 2943,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -7711,6 +7711,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/id/hadith/criteria-for-accepting-hadith-20170128-2.html",
    "md_url": "/id/hadith/criteria-for-accepting-hadith-20170128-2.md"
+  },
+  {
+   "slug": "challenges-posed-by-pseudo-nationalism-20170204-4",
+   "lang": "id",
+   "category": "opinion",
+   "title": "Tantangan yang Ditimbulkan oleh Nasionalisme Semu",
+   "summary": "Artikel ini menjelaskan bahwa ikatan emosional dengan tanah air adalah sifat alami manusia, namun menyoroti tantangan yang muncul akibat nasionalisme semu. Tulisan ini menganalisis masalah dan dampak yang ditimbulkan oleh fenomena tersebut dalam masyarakat.",
+   "author": "സുഫ്‌യാന്‍ അബ്ദുസ്സലാം - റിയാദ്‌",
+   "issue_date": "2017-02-04",
+   "html_url": "/id/opinion/challenges-posed-by-pseudo-nationalism-20170204-4.html",
+   "md_url": "/id/opinion/challenges-posed-by-pseudo-nationalism-20170204-4.md"
   },
   {
    "slug": "e-writing-is-not-mere-writing-20170121-15",
