@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-02T09:09:55.333876+00:00",
+ "generated_at": "2026-09-02T09:10:13.766380+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3094,
+ "count": 3104,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -10958,6 +10958,17 @@
    "md_url": "/ml/aqeedah/evidences-and-scholars-20191012-9.md"
   },
   {
+   "slug": "exaggerated-praises-of-the-prophet-20200118-3",
+   "lang": "ml",
+   "category": "aqeedah",
+   "title": "പരിധിവിടുന്ന പ്രവാചക പ്രശംസകൾ",
+   "summary": "പ്രവാചകനെ അമിതമായി പ്രശംസിക്കുന്നതും ഇസ്‌ലാമിക പ്രമാണങ്ങൾക്ക് വിരുദ്ധമായി അദ്ദേഹത്തിന് ദൈവിക പരിവേഷം നൽകുന്നതും ശിർക്കിലേക്ക് നയിക്കുമെന്ന് ഈ ലേഖനം മുന്നറിയിപ്പ് നൽകുന്നു. പ്രവാചകനോടുള്ള സ്നേഹം ഇസ്‌ലാമിക അതിരുകൾക്കുള്ളിൽ നിന്നായിരിക്കണമെന്ന് ഇത് വ്യക്തമാക്കുന്നു.",
+   "author": "മൂസ സ്വലാഹി, കാര",
+   "issue_date": "2020-01-18",
+   "html_url": "/ml/aqeedah/exaggerated-praises-of-the-prophet-20200118-3.html",
+   "md_url": "/ml/aqeedah/exaggerated-praises-of-the-prophet-20200118-3.md"
+  },
+  {
    "slug": "express-love-by-following-the-prophet-20181124-7",
    "lang": "ml",
    "category": "aqeedah",
@@ -11462,6 +11473,17 @@
    "issue_date": "2019-06-15",
    "html_url": "/ml/aqeedah/the-infinite-vastness-of-the-universe-20190615-7.html",
    "md_url": "/ml/aqeedah/the-infinite-vastness-of-the-universe-20190615-7.md"
+  },
+  {
+   "slug": "the-meaning-and-scope-of-the-testimony-of-faith-20200118-7",
+   "lang": "ml",
+   "category": "aqeedah",
+   "title": "സാക്ഷ്യവാക്യങ്ങളുടെ അർഥവ്യാപ്തി",
+   "summary": "ഇസ്‌ലാമിന്റെ അടിസ്ഥാനമായ ശഹാദത്ത് കലിമയുടെ അർത്ഥവും അതിന്റെ പ്രായോഗിക ജീവിതത്തിലെ പ്രാധാന്യവും ഈ ലേഖനം വിശദീകരിക്കുന്നു. ഏകദൈവാരാധനയുടെ അനിവാര്യതയാണ് ഇതിൽ ഊന്നൽ നൽകുന്നത്.",
+   "author": "ശമീർ മദീനി",
+   "issue_date": "2020-01-18",
+   "html_url": "/ml/aqeedah/the-meaning-and-scope-of-the-testimony-of-faith-20200118-7.html",
+   "md_url": "/ml/aqeedah/the-meaning-and-scope-of-the-testimony-of-faith-20200118-7.md"
   },
   {
    "slug": "the-prophet-in-mauritius-and-the-ahmadiyya-crisis-20180616-7",
@@ -12575,6 +12597,17 @@
    "md_url": "/ml/dawah/natural-disasters-and-atheists-20190907-9.md"
   },
   {
+   "slug": "noble-character-taught-by-islam-20200118-8",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "ഇസ്‌ലാം പഠിപ്പിക്കുന്ന ഉത്തമ സ്വഭാവങ്ങൾ",
+   "summary": "ഒരു വിശ്വാസി ജീവിതത്തിൽ പുലർത്തേണ്ട ഉത്തമ സ്വഭാവങ്ങളെക്കുറിച്ചും അവയുടെ മഹത്വത്തെക്കുറിച്ചും ഖുർആൻ-സുന്നത്ത് പ്രമാണങ്ങളുടെ അടിസ്ഥാനത്തിൽ ഈ ലേഖനം വിവരിക്കുന്നു.",
+   "author": "അബ്ദുൽ ജബ്ബാർ മദീനി",
+   "issue_date": "2020-01-18",
+   "html_url": "/ml/dawah/noble-character-taught-by-islam-20200118-8.html",
+   "md_url": "/ml/dawah/noble-character-taught-by-islam-20200118-8.md"
+  },
+  {
    "slug": "not-to-falter-in-crises-20170401-2",
    "lang": "ml",
    "category": "dawah",
@@ -13079,6 +13112,17 @@
    "issue_date": "2019-07-06",
    "html_url": "/ml/dawah/the-bible-and-pagan-writings-20190706-2.html",
    "md_url": "/ml/dawah/the-bible-and-pagan-writings-20190706-2.md"
+  },
+  {
+   "slug": "the-book-of-life-20200118-2",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "ആയുസ്സിന്റെ പുസ്തകം",
+   "summary": "ജീവിതത്തിന്റെ നശ്വരതയെക്കുറിച്ചും പ്രതിസന്ധി ഘട്ടങ്ങളിൽ ഒരു വിശ്വാസി സ്വീകരിക്കേണ്ട നിലപാടുകളെക്കുറിച്ചും ഈ മുഖലേഖനം ഓർമ്മിപ്പിക്കുന്നു. വിധിയെ പഴിച്ച് ഇരിക്കാതെ സ്രഷ്ടാവിൽ ഭരമേൽപ്പിച്ച് കർമ്മനിരതരാകാൻ ഇത് ആഹ്വാനം ചെയ്യുന്നു.",
+   "author": "എഡിറ്റർ",
+   "issue_date": "2020-01-18",
+   "html_url": "/ml/dawah/the-book-of-life-20200118-2.html",
+   "md_url": "/ml/dawah/the-book-of-life-20200118-2.md"
   },
   {
    "slug": "the-chemistry-of-unity-20170225-2",
@@ -14465,6 +14509,17 @@
    "issue_date": "2018-06-02",
    "html_url": "/ml/family/tastes-of-the-month-of-fasting-20180602-4.html",
    "md_url": "/ml/family/tastes-of-the-month-of-fasting-20180602-4.md"
+  },
+  {
+   "slug": "the-burdens-created-by-customs-20200118-5",
+   "lang": "ml",
+   "category": "family",
+   "title": "മാമൂലുകൾ തീർക്കുന്ന മാറാപ്പുകൾ",
+   "summary": "വിവാഹം ഉൾപ്പെടെയുള്ള ചടങ്ങുകളിൽ കടന്നുകൂടിയ അനാചാരങ്ങളും അമിതവ്യയവും സമൂഹത്തിന് വരുത്തുന്ന ദോഷങ്ങളെക്കുറിച്ച് ഈ ലേഖനം വിമർശനാത്മകമായി പ്രതിപാദിക്കുന്നു. മതപരമായ അടിത്തറയില്ലാത്ത ഇത്തരം മാമൂലുകൾ ഉപേക്ഷിക്കേണ്ടതിന്റെ ആവശ്യകത ഇത് ഊന്നിപ്പറയുന്നു.",
+   "author": "നാഷിദ് കല്ലമ്പാറ",
+   "issue_date": "2020-01-18",
+   "html_url": "/ml/family/the-burdens-created-by-customs-20200118-5.html",
+   "md_url": "/ml/family/the-burdens-created-by-customs-20200118-5.md"
   },
   {
    "slug": "the-elderly-are-not-to-be-neglected-20190803-6",
@@ -16667,6 +16722,17 @@
    "md_url": "/ml/opinion/community-s-approach-to-religious-education-a-vazhakkadan-re-20190112-6.md"
   },
   {
+   "slug": "country-draped-in-tricolor-in-protests-20200118-1",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "പ്രതിഷേധങ്ങളിൽ ത്രിവർണമണിഞ്ഞ് രാജ്യം",
+   "summary": "പൗരത്വ ഭേദഗതി നിയമത്തിനെതിരായ പ്രതിഷേധങ്ങൾ രാജ്യത്തെ ജനങ്ങളെ എങ്ങനെ ഒന്നിപ്പിക്കുന്നുവെന്നും, ദേശീയ പതാകയുടെ പ്രാധാന്യത്തെക്കുറിച്ചും ഈ ലേഖനം ചർച്ച ചെയ്യുന്നു. ഫാസിസ്റ്റ് വിരുദ്ധ പോരാട്ടത്തിൽ വൈവിധ്യങ്ങൾക്കപ്പുറം ഇന്ത്യൻ ഐഡന്റിറ്റി ഉയർത്തിപ്പിടിക്കുന്നതിനെക്കുറിച്ചാണ് ഇതിൽ പറയുന്നത്.",
+   "author": "നബീൽ പയ്യോളി",
+   "issue_date": "2020-01-18",
+   "html_url": "/ml/opinion/country-draped-in-tricolor-in-protests-20200118-1.html",
+   "md_url": "/ml/opinion/country-draped-in-tricolor-in-protests-20200118-1.md"
+  },
+  {
    "slug": "court-system-20180623-4",
    "lang": "ml",
    "category": "opinion",
@@ -18867,6 +18933,17 @@
    "md_url": "/ml/quran/quranic-vision-the-pen-20191228-10.md"
   },
   {
+   "slug": "quranic-vision-the-pen-20200118-9",
+   "lang": "ml",
+   "category": "quran",
+   "title": "ഖുർആൻ ദർശനം: ഖലം (പേന)",
+   "summary": "ഖുർആനിലെ സൂറത്തുൽ ഖലം ഭാഗം 5-ന്റെ വിശദീകരണമാണ് ഈ ലേഖനം. പ്രവാചകന്റെ ജീവിതത്തിലെ പരീക്ഷണങ്ങളും അല്ലാഹുവിന്റെ സഹായവും ഇതിൽ ചർച്ച ചെയ്യുന്നു.",
+   "author": "അബ്ദുറഹ്മാൻ നാസിർ അസ്സുഅദി",
+   "issue_date": "2020-01-18",
+   "html_url": "/ml/quran/quranic-vision-the-pen-20200118-9.html",
+   "md_url": "/ml/quran/quranic-vision-the-pen-20200118-9.md"
+  },
+  {
    "slug": "samiri-s-deception-20180825-10",
    "lang": "ml",
    "category": "quran",
@@ -19338,6 +19415,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/ml/quran/what-to-beware-of-when-taking-sides-20170128-7.html",
    "md_url": "/ml/quran/what-to-beware-of-when-taking-sides-20170128-7.md"
+  },
+  {
+   "slug": "when-man-becomes-an-animal-20200118-4",
+   "lang": "ml",
+   "category": "quran",
+   "title": "മനുഷ്യൻ മൃഗമാകുമ്പോൾ",
+   "summary": "ചിന്താശേഷിയും വിവേകവുമുള്ള മനുഷ്യൻ സ്രഷ്ടാവിന്റെ മാർഗ്ഗത്തിൽ നിന്ന് വ്യതിചലിക്കുമ്പോൾ മൃഗങ്ങളെക്കാൾ അധഃപതിക്കുമെന്ന് ഖുർആൻ വചനങ്ങളുടെ അടിസ്ഥാനത്തിൽ ഈ ലേഖനം വിശദീകരിക്കുന്നു.",
+   "author": "സിറാജുൽ ഇസ്‌ലാം ബാലുശ്ശേരി",
+   "issue_date": "2020-01-18",
+   "html_url": "/ml/quran/when-man-becomes-an-animal-20200118-4.html",
+   "md_url": "/ml/quran/when-man-becomes-an-animal-20200118-4.md"
   },
   {
    "slug": "when-trust-is-lost-20180721-12",
@@ -20935,6 +21023,17 @@
    "md_url": "/ml/story/broken-hearts-20170218-11.md"
   },
   {
+   "slug": "citizenship-is-a-right-20200118-10",
+   "lang": "ml",
+   "category": "story",
+   "title": "പൗരത്വം അവകാശമാണ്",
+   "summary": "പൗരത്വ ഭേദഗതി നിയമത്തിനെതിരായ പ്രതിഷേധത്തെയും ഇന്ത്യൻ ജനതയുടെ ഐക്യത്തെയും പ്രമേയമാക്കിയുള്ള കവിത.",
+   "author": "ഉസ്മാൻ പാലക്കാഴി",
+   "issue_date": "2020-01-18",
+   "html_url": "/ml/story/citizenship-is-a-right-20200118-10.html",
+   "md_url": "/ml/story/citizenship-is-a-right-20200118-10.md"
+  },
+  {
    "slug": "compassion-on-the-road-20181229-7",
    "lang": "ml",
    "category": "story",
@@ -22033,6 +22132,17 @@
    "issue_date": "2019-12-21",
    "html_url": "/ml/youth/see-challenges-as-opportunities-20191221-13.html",
    "md_url": "/ml/youth/see-challenges-as-opportunities-20191221-13.md"
+  },
+  {
+   "slug": "student-protests-cannot-be-suppressed-20200118-6",
+   "lang": "ml",
+   "category": "youth",
+   "title": "വിദ്യാർഥി പ്രതിഷേധങ്ങളെ അടിച്ചമർത്താനാവില്ല",
+   "summary": "ജെ.എൻ.യു ക്യാമ്പസിൽ വിദ്യാർത്ഥികൾക്ക് നേരെ നടന്ന അക്രമങ്ങളെയും അവകാശങ്ങൾക്കായി ശബ്ദിക്കുന്ന വിദ്യാർത്ഥി സമൂഹത്തെ അടിച്ചമർത്താനുള്ള ഭരണകൂട ശ്രമങ്ങളെയും ഈ ലേഖനം അപലപിക്കുന്നു.",
+   "author": "അർഷദ് താനൂർ",
+   "issue_date": "2020-01-18",
+   "html_url": "/ml/youth/student-protests-cannot-be-suppressed-20200118-6.html",
+   "md_url": "/ml/youth/student-protests-cannot-be-suppressed-20200118-6.md"
   },
   {
    "slug": "the-child-with-goodness-20190727-6",
