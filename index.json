@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-02T09:10:33.509569+00:00",
+ "generated_at": "2026-09-02T09:10:53.854908+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3105,
+ "count": 3106,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -3487,6 +3487,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/de/opinion/everyone-should-have-a-beard-20170121-3.html",
    "md_url": "/de/opinion/everyone-should-have-a-beard-20170121-3.md"
+  },
+  {
+   "slug": "freedom-of-speech-should-not-be-one-sided-20170211-1",
+   "lang": "de",
+   "category": "opinion",
+   "title": "Meinungsfreiheit darf nicht einseitig sein",
+   "summary": "Ein kritischer Artikel über die Unterdrückung der Meinungsfreiheit durch staatliche Stellen. Er erörtert das Recht auf abweichende Meinungen in einer Demokratie.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2017-02-11",
+   "html_url": "/de/opinion/freedom-of-speech-should-not-be-one-sided-20170211-1.html",
+   "md_url": "/de/opinion/freedom-of-speech-should-not-be-one-sided-20170211-1.md"
   },
   {
    "slug": "hajj-subsidy-before-putting-the-muslim-community-in-the-dock-20170128-3",
