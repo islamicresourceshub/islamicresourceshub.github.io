@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-02T07:29:39.099120+00:00",
+ "generated_at": "2026-09-02T07:30:07.719968+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2932,
+ "count": 2933,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -2134,6 +2134,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/bn/hadith/criteria-for-accepting-hadith-20170128-2.html",
    "md_url": "/bn/hadith/criteria-for-accepting-hadith-20170128-2.md"
+  },
+  {
+   "slug": "challenges-posed-by-pseudo-nationalism-20170204-4",
+   "lang": "bn",
+   "category": "opinion",
+   "title": "ছদ্ম-জাতীয়তাবাদের চ্যালেঞ্জসমূহ",
+   "summary": "নিজের দেশ ও দেশবাসীর প্রতি আবেগ থাকা মানুষের সহজাত প্রবৃত্তি। তবে এই নিবন্ধটি ছদ্ম-জাতীয়তাবাদের উত্থান এবং এটি সমাজে যে চ্যালেঞ্জ ও নেতিবাচক প্রভাব তৈরি করছে, তা বিশ্লেষণ করে।",
+   "author": "സുഫ്‌യാന്‍ അബ്ദുസ്സലാം - റിയാദ്‌",
+   "issue_date": "2017-02-04",
+   "html_url": "/bn/opinion/challenges-posed-by-pseudo-nationalism-20170204-4.html",
+   "md_url": "/bn/opinion/challenges-posed-by-pseudo-nationalism-20170204-4.md"
   },
   {
    "slug": "e-writing-is-not-mere-writing-20170121-15",
