@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-02T08:43:32.140724+00:00",
+ "generated_at": "2026-09-02T08:44:02.841777+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3018,
+ "count": 3019,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -26290,6 +26290,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/si/dawah/the-religion-that-rejects-terrorism-part-1-20170121-12.html",
    "md_url": "/si/dawah/the-religion-that-rejects-terrorism-part-1-20170121-12.md"
+  },
+  {
+   "slug": "children-an-islamic-reading-part-4-20170204-5",
+   "lang": "si",
+   "category": "family",
+   "title": "දරුවන්: ඉස්ලාමීය කියවීමක්",
+   "summary": "ඉස්ලාමීය දරුවන් ඇති දැඩි කිරීමේ වගකීම භාරගන්නා දෙමාපියන්, දරුවන් යනු කවුරුන්ද සහ ඔවුන්ගේ ස්වභාවය කුමක්ද යන්න නිවැරදිව වටහා ගත යුතු බව මෙම ලිපිය පෙන්වා දෙයි. දරුවන් පිළිබඳ ඉස්ලාමීය දෘෂ්ටිකෝණයන් විග්‍රහ කරන මෙම ලිපි මාලාවේ සිව්වන කොටස, දරුවන්ගේ වැදගත්කම සහ ඔවුන් හැඩගැස්විය යුතු ආකාරය පිළිබඳව සාකච්ඡා කරයි.",
+   "author": "അഷ്‌റഫ്‌ എകരൂൽ",
+   "issue_date": "2017-02-04",
+   "html_url": "/si/family/children-an-islamic-reading-part-4-20170204-5.html",
+   "md_url": "/si/family/children-an-islamic-reading-part-4-20170204-5.md"
   },
   {
    "slug": "don-t-worry-allah-is-with-you-20170114-10",
