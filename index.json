@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-02T08:41:11.907662+00:00",
+ "generated_at": "2026-09-02T08:41:47.340784+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3013,
+ "count": 3014,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -23452,6 +23452,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/or/dawah/the-religion-that-rejects-terrorism-part-1-20170121-12.html",
    "md_url": "/or/dawah/the-religion-that-rejects-terrorism-part-1-20170121-12.md"
+  },
+  {
+   "slug": "children-an-islamic-reading-part-4-20170204-5",
+   "lang": "or",
+   "category": "family",
+   "title": "ସନ୍ତାନ: ଏକ ଇସଲାମୀୟ ଦୃଷ୍ଟିକୋଣ",
+   "summary": "ଇସଲାମୀୟ ପିତୃତ୍ୱ ବା ପାରେଣ୍ଟିଂର ଦାୟିତ୍ୱ ଗ୍ରହଣ କରୁଥିବା ବ୍ୟକ୍ତିମାନେ ସନ୍ତାନମାନେ ପ୍ରକୃତରେ କିଏ ଏବଂ ସେମାନଙ୍କର ମହତ୍ତ୍ୱ କ'ଣ, ତାହା ବୁଝିବା ଆବଶ୍ୟକ। ଏହି ଲେଖାଟି ସନ୍ତାନମାନଙ୍କୁ ନେଇ ଇସଲାମୀୟ ଦୃଷ୍ଟିକୋଣ ଏବଂ ସେମାନଙ୍କୁ କିପରି ଲାଳନପାଳନ କରିବା ଉଚିତ, ସେ ସମ୍ପର୍କରେ ଆଲୋଚନା କରୁଥିବା ସିରିଜର ଚତୁର୍ଥ ଭାଗ ଅଟେ।",
+   "author": "അഷ്‌റഫ്‌ എകരൂൽ",
+   "issue_date": "2017-02-04",
+   "html_url": "/or/family/children-an-islamic-reading-part-4-20170204-5.html",
+   "md_url": "/or/family/children-an-islamic-reading-part-4-20170204-5.md"
   },
   {
    "slug": "don-t-worry-allah-is-with-you-20170114-10",
