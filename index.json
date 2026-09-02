@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-02T09:05:29.716673+00:00",
+ "generated_at": "2026-09-02T09:05:54.457588+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3083,
+ "count": 3084,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -30228,6 +30228,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/th/dawah/religion-is-fearlessness-20170114-6.html",
    "md_url": "/th/dawah/religion-is-fearlessness-20170114-6.md"
+  },
+  {
+   "slug": "religious-preachers-must-be-exemplary-20170204-6",
+   "lang": "th",
+   "category": "dawah",
+   "title": "ผู้เผยแผ่ศาสนาต้องเป็นแบบอย่างที่ดี",
+   "summary": "บทความนี้กล่าวถึงการที่อัลลอฮ์ทรงส่งบรรดาศาสดามาตั้งแต่สมัยนบีอาดัมเพื่อเผยแผ่ศาสนา โดยเน้นย้ำว่าผู้เผยแผ่ศาสนาจำเป็นต้องเป็นแบบอย่างที่ดีในการดำเนินชีวิต เพื่อให้การเผยแผ่ประสบความสำเร็จและมีความน่าเชื่อถือ",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2017-02-04",
+   "html_url": "/th/dawah/religious-preachers-must-be-exemplary-20170204-6.html",
+   "md_url": "/th/dawah/religious-preachers-must-be-exemplary-20170204-6.md"
   },
   {
    "slug": "showing-the-light-is-the-duty-of-scholars-20170121-14",
