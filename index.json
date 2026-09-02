@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-02T09:41:27.680928+00:00",
+ "generated_at": "2026-09-02T09:42:09.439141+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3189,
+ "count": 3190,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -29535,6 +29535,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/sw/dawah/the-religion-that-rejects-terrorism-part-1-20170121-12.html",
    "md_url": "/sw/dawah/the-religion-that-rejects-terrorism-part-1-20170121-12.md"
+  },
+  {
+   "slug": "unity-ideology-and-movement-20170211-2",
+   "lang": "sw",
+   "category": "dawah",
+   "title": "Umoja, Itikadi, na Harakati",
+   "summary": "Makala haya yanaelezea jinsi harakati za Kiislamu zinavyopaswa kuungana kukabiliana na ugaidi unaotishia amani ya dunia. Msingi mkuu wa makala haya ni umuhimu wa umoja wa kiitikadi.",
+   "author": "ടി.കെ.അശ്‌റഫ്",
+   "issue_date": "2017-02-11",
+   "html_url": "/sw/dawah/unity-ideology-and-movement-20170211-2.html",
+   "md_url": "/sw/dawah/unity-ideology-and-movement-20170211-2.md"
   },
   {
    "slug": "children-an-islamic-reading-part-4-20170204-5",
