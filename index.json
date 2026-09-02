@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-02T07:27:05.854214+00:00",
+ "generated_at": "2026-09-02T07:27:24.338902+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2916,
+ "count": 2927,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -12520,6 +12520,17 @@
    "md_url": "/ml/dawah/the-natural-distinctiveness-of-islam-20181013-3.md"
   },
   {
+   "slug": "the-necessity-of-a-patient-life-20190727-2",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "സഹന ജീവിതത്തിന്റെ അനിവാര്യത",
+   "summary": "ജീവിതത്തിലെ പ്രതിസന്ധികളിൽ ക്ഷമ കൈക്കൊള്ളേണ്ടതിന്റെയും വിധിയെ വിശ്വാസത്തോടെ സ്വീകരിക്കേണ്ടതിന്റെയും പ്രാധാന്യം വിവരിക്കുന്നു.",
+   "author": "എഡിറ്റർ",
+   "issue_date": "2019-07-27",
+   "html_url": "/ml/dawah/the-necessity-of-a-patient-life-20190727-2.html",
+   "md_url": "/ml/dawah/the-necessity-of-a-patient-life-20190727-2.md"
+  },
+  {
    "slug": "the-necessity-of-self-purification-20181124-1",
    "lang": "ml",
    "category": "dawah",
@@ -12650,6 +12661,17 @@
    "issue_date": "2019-02-09",
    "html_url": "/ml/dawah/the-virtue-of-agriculture-20190209-4.html",
    "md_url": "/ml/dawah/the-virtue-of-agriculture-20190209-4.md"
+  },
+  {
+   "slug": "the-virtues-of-the-ten-days-of-dhul-hijjah-20190727-9",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "ദുൽഹജ്ജ് മാസത്തിലെ പത്ത് ദിവസങ്ങളുടെ ശ്രേഷ്ഠതകൾ",
+   "summary": "ദുൽഹജ്ജ് മാസത്തിലെ ആദ്യ പത്ത് ദിവസങ്ങളുടെ പ്രാധാന്യത്തെയും ആ ദിവസങ്ങളിൽ ചെയ്യേണ്ട സൽക്കർമ്മങ്ങളെയും കുറിച്ചുള്ള പഠനം.",
+   "author": "ഹംസ ജമാലി",
+   "issue_date": "2019-07-27",
+   "html_url": "/ml/dawah/the-virtues-of-the-ten-days-of-dhul-hijjah-20190727-9.html",
+   "md_url": "/ml/dawah/the-virtues-of-the-ten-days-of-dhul-hijjah-20190727-9.md"
   },
   {
    "slug": "they-tried-to-burn-it-it-ignited-hearts-20191221-2",
@@ -13719,6 +13741,17 @@
    "md_url": "/ml/family/the-worldly-and-hereafter-benefits-of-sexual-purity-20191130-6.md"
   },
   {
+   "slug": "this-is-the-vacation-season-for-expatriates-20190727-5",
+   "lang": "ml",
+   "category": "family",
+   "title": "പ്രവാസത്തിന്റെ ഇത് അവധിക്കാലം",
+   "summary": "പ്രവാസ ജീവിതത്തിലെ അവധിക്കാലത്ത് കുട്ടികളുടെ മാനസികവും സാമൂഹികവുമായ വളർച്ചയിൽ മാതാപിതാക്കൾ ശ്രദ്ധിക്കേണ്ട കാര്യങ്ങളെക്കുറിച്ചുള്ള ഉപദേശം.",
+   "author": "അബു അബ്ദുല്ല",
+   "issue_date": "2019-07-27",
+   "html_url": "/ml/family/this-is-the-vacation-season-for-expatriates-20190727-5.html",
+   "md_url": "/ml/family/this-is-the-vacation-season-for-expatriates-20190727-5.md"
+  },
+  {
    "slug": "thoughts-during-pregnancy-20170218-4",
    "lang": "ml",
    "category": "family",
@@ -14388,6 +14421,17 @@
    "issue_date": "2019-08-03",
    "html_url": "/ml/hadith/mujtahid-scholars-and-hadith-20190803-5.html",
    "md_url": "/ml/hadith/mujtahid-scholars-and-hadith-20190803-5.md"
+  },
+  {
+   "slug": "mujtahid-scholars-and-hadiths-20190727-10",
+   "lang": "ml",
+   "category": "hadith",
+   "title": "മുജ്തഹിദായ പണ്ഡിതന്മാരും ഹദീസുകളും",
+   "summary": "ഇബ്നു തീമിയയുടെ 'റഫ്ഉൽ മലാം' എന്ന ഗ്രന്ഥത്തിന്റെ വിവർത്തനം. പണ്ഡിതന്മാർ ഹദീസുകൾ സ്വീകരിക്കുന്നതിലെയും വ്യാഖ്യാനിക്കുന്നതിലെയും രീതിശാസ്ത്രം ചർച്ച ചെയ്യുന്നു.",
+   "author": "ശൈഖുൽ ഇസ്‌ലാം ഇബ്നു തീമിയ",
+   "issue_date": "2019-07-27",
+   "html_url": "/ml/hadith/mujtahid-scholars-and-hadiths-20190727-10.html",
+   "md_url": "/ml/hadith/mujtahid-scholars-and-hadiths-20190727-10.md"
   },
   {
    "slug": "mujtahid-scholars-and-hadiths-20190810-7",
@@ -16370,6 +16414,17 @@
    "md_url": "/ml/opinion/path-of-law-bail-20180609-6.md"
   },
   {
+   "slug": "people-destroyed-by-alcohol-vs-government-making-money-from-20190727-4",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "മദ്യപിച്ച് നശിക്കുന്ന മനുഷ്യരോ മദ്യംവിട്ട് പണമുണ്ടാക്കുന്ന സർക്കാറുമോ",
+   "summary": "കേരളത്തിലെ മദ്യപാനത്തിന്റെ കണക്കുകളും സാമൂഹിക പ്രത്യാഘാതങ്ങളും വിശകലനം ചെയ്യുന്ന ലേഖനം. മദ്യനിരോധനത്തിൽ സർക്കാരിന്റെ ഇരട്ടത്താപ്പിനെ ഇത് ചോദ്യം ചെയ്യുന്നു.",
+   "author": "നബീൽ പയ്യോളി",
+   "issue_date": "2019-07-27",
+   "html_url": "/ml/opinion/people-destroyed-by-alcohol-vs-government-making-money-from-20190727-4.html",
+   "md_url": "/ml/opinion/people-destroyed-by-alcohol-vs-government-making-money-from-20190727-4.md"
+  },
+  {
    "slug": "permanent-lok-adalat-20181110-7",
    "lang": "ml",
    "category": "opinion",
@@ -16821,6 +16876,17 @@
    "md_url": "/ml/opinion/the-eighteenth-step-of-women-s-freedom-or-the-call-for-relig-20181103-9.md"
   },
   {
+   "slug": "the-government-that-promotes-liquor-sales-while-ignoring-alc-20190727-1",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "മദ്യവിച്ഛന്ദം നിറക്കുന്ന നേരുദ്ധരമായി മദ്യവിൽപ്പന പനമടയ്ക്കുന്ന സർക്കാറും",
+   "summary": "മദ്യപാനത്തെ പ്രോത്സാഹിപ്പിക്കുന്ന സർക്കാർ നയങ്ങളെയും മദ്യവിൽപ്പനയിലൂടെ പണമുണ്ടാക്കുന്ന ഭരണകൂടത്തിന്റെ വൈരുദ്ധ്യത്തെയും വിമർശിക്കുന്ന ലേഖനം.",
+   "author": "കെ.കെ സകരിയ്യ സലാഹി",
+   "issue_date": "2019-07-27",
+   "html_url": "/ml/opinion/the-government-that-promotes-liquor-sales-while-ignoring-alc-20190727-1.html",
+   "md_url": "/ml/opinion/the-government-that-promotes-liquor-sales-while-ignoring-alc-20190727-1.md"
+  },
+  {
    "slug": "the-kerala-story-of-honor-killing-20180616-6",
    "lang": "ml",
    "category": "opinion",
@@ -16984,6 +17050,17 @@
    "issue_date": "2019-12-14",
    "html_url": "/ml/opinion/they-are-not-playing-with-soil-they-are-eating-it-20191214-2.html",
    "md_url": "/ml/opinion/they-are-not-playing-with-soil-they-are-eating-it-20191214-2.md"
+  },
+  {
+   "slug": "those-preparing-to-harvest-what-they-did-not-sow-20190727-11",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "വിതക്കാത്തത് കൊയ്യാൻ ഒരുങ്ങുന്നവർ",
+   "summary": "വൃദ്ധമന്ദിരത്തിലെ ഒരു അന്തേവാസിയുടെ കഥയിലൂടെ കുടുംബബന്ധങ്ങളുടെ തകർച്ചയെയും ഉത്തരവാദിത്തങ്ങളെയും കുറിച്ചുള്ള ചിന്തകൾ.",
+   "author": "ഇബ്നു അലി എടത്തനാട്ടുകര",
+   "issue_date": "2019-07-27",
+   "html_url": "/ml/opinion/those-preparing-to-harvest-what-they-did-not-sow-20190727-11.html",
+   "md_url": "/ml/opinion/those-preparing-to-harvest-what-they-did-not-sow-20190727-11.md"
   },
   {
    "slug": "those-whose-roots-are-being-uprooted-20190914-11",
@@ -18515,6 +18592,17 @@
    "md_url": "/ml/seerah/isra-and-mi-raj-20190406-4.md"
   },
   {
+   "slug": "k-k-zakariya-memorial-the-scholar-who-loved-knowledge-20190727-3",
+   "lang": "ml",
+   "category": "seerah",
+   "title": "കെ.കെ. സക്കറിയ സ്മാരകം: അറിവിനെ സ്നേഹിച്ച പണ്ഡിതൻ",
+   "summary": "കെ.കെ. സക്കറിയ സ്വലാഹിയുടെ ജീവിതത്തെയും അറിവിനോടുള്ള അദ്ദേഹത്തിന്റെ അഭിനിവേശത്തെയും കുറിച്ചുള്ള അനുസ്മരണക്കുറിപ്പ്.",
+   "author": "ഹൈദൻ മാലി പുതുപ്പണ്ണി",
+   "issue_date": "2019-07-27",
+   "html_url": "/ml/seerah/k-k-zakariya-memorial-the-scholar-who-loved-knowledge-20190727-3.html",
+   "md_url": "/ml/seerah/k-k-zakariya-memorial-the-scholar-who-loved-knowledge-20190727-3.md"
+  },
+  {
    "slug": "karoovalli-an-eternal-youth-20180804-7",
    "lang": "ml",
    "category": "seerah",
@@ -18623,6 +18711,17 @@
    "issue_date": "2019-06-22",
    "html_url": "/ml/seerah/moulavi-abdulla-arakkal-20190622-2.html",
    "md_url": "/ml/seerah/moulavi-abdulla-arakkal-20190622-2.md"
+  },
+  {
+   "slug": "mujahids-at-badr-20190727-8",
+   "lang": "ml",
+   "category": "seerah",
+   "title": "മുജാഹിദുകൾ ബദറിൽ",
+   "summary": "ബദർ യുദ്ധത്തിന്റെ ചരിത്രവും പ്രവാചകൻ സ്വഹാബികളെ യുദ്ധത്തിനായി സജ്ജമാക്കിയ രീതിയും വിവരിക്കുന്ന പരമ്പര.",
+   "author": "മുഹമ്മദ് നബി: 31",
+   "issue_date": "2019-07-27",
+   "html_url": "/ml/seerah/mujahids-at-badr-20190727-8.html",
+   "md_url": "/ml/seerah/mujahids-at-badr-20190727-8.md"
   },
   {
    "slug": "musa-as-and-khidr-as-20181006-10",
@@ -20605,6 +20704,17 @@
    "md_url": "/ml/story/truthfulness-20190824-6.md"
   },
   {
+   "slug": "wasted-dream-20190727-7",
+   "lang": "ml",
+   "category": "story",
+   "title": "പാഴ്ക്കിനാവ്",
+   "summary": "പ്രകൃതിയുടെ നാശത്തെയും മനുഷ്യന്റെ അക്രമങ്ങളെയും കുറിച്ചുള്ള ഒരു കവിത.",
+   "author": "ഉസ്മാൻ പാലക്കാഴി",
+   "issue_date": "2019-07-27",
+   "html_url": "/ml/story/wasted-dream-20190727-7.html",
+   "md_url": "/ml/story/wasted-dream-20190727-7.md"
+  },
+  {
    "slug": "what-the-gray-hair-says-20191109-6",
    "lang": "ml",
    "category": "story",
@@ -20801,6 +20911,17 @@
    "issue_date": "2019-12-21",
    "html_url": "/ml/youth/see-challenges-as-opportunities-20191221-13.html",
    "md_url": "/ml/youth/see-challenges-as-opportunities-20191221-13.md"
+  },
+  {
+   "slug": "the-child-with-goodness-20190727-6",
+   "lang": "ml",
+   "category": "youth",
+   "title": "നനയുള്ള മകൾ",
+   "summary": "കുട്ടികൾക്ക് മാതൃകയാക്കാവുന്ന ഒരു കൊച്ചു കഥ.",
+   "author": "അബ്ദുമന്ദിൽ, അലന്തൂർ",
+   "issue_date": "2019-07-27",
+   "html_url": "/ml/youth/the-child-with-goodness-20190727-6.html",
+   "md_url": "/ml/youth/the-child-with-goodness-20190727-6.md"
   },
   {
    "slug": "the-righteous-ruler-20190622-6",
