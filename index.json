@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-02T07:43:39.910074+00:00",
+ "generated_at": "2026-09-02T07:44:06.413950+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2973,
+ "count": 2974,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -28776,6 +28776,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/te/hadith/criteria-for-accepting-hadith-20170128-2.html",
    "md_url": "/te/hadith/criteria-for-accepting-hadith-20170128-2.md"
+  },
+  {
+   "slug": "challenges-posed-by-pseudo-nationalism-20170204-4",
+   "lang": "te",
+   "category": "opinion",
+   "title": "కపట జాతీయవాదం సృష్టిస్తున్న సవాళ్లు",
+   "summary": "సొంత దేశం మరియు దేశ ప్రజల పట్ల అనుబంధం కలిగి ఉండటం సహజమని, అయితే కపట జాతీయవాదం సమాజంలో సృష్టిస్తున్న సవాళ్లను, దాని వల్ల కలిగే దుష్ప్రభావాలను ఈ వ్యాసం విశ్లేషిస్తుంది.",
+   "author": "സുഫ്‌യാന്‍ അബ്ദുസ്സലാം - റിയാദ്‌",
+   "issue_date": "2017-02-04",
+   "html_url": "/te/opinion/challenges-posed-by-pseudo-nationalism-20170204-4.html",
+   "md_url": "/te/opinion/challenges-posed-by-pseudo-nationalism-20170204-4.md"
   },
   {
    "slug": "e-writing-is-not-mere-writing-20170121-15",
