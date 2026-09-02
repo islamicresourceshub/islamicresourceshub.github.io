@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-02T09:27:30.660709+00:00",
+ "generated_at": "2026-09-02T09:27:55.977751+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3151,
+ "count": 3152,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -2167,6 +2167,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/bn/dawah/the-religion-that-rejects-terrorism-part-1-20170121-12.html",
    "md_url": "/bn/dawah/the-religion-that-rejects-terrorism-part-1-20170121-12.md"
+  },
+  {
+   "slug": "unity-ideology-and-movement-20170211-2",
+   "lang": "bn",
+   "category": "dawah",
+   "title": "ঐক্য, আদর্শ ও আন্দোলন",
+   "summary": "এই নিবন্ধটি ব্যাখ্যা করে যে বিশ্বশান্তির জন্য হুমকি হয়ে ওঠা সন্ত্রাসবাদ মোকাবিলায় কীভাবে ইসলামী আন্দোলনগুলোকে ঐক্যবদ্ধ হতে হবে। এখানে আদর্শিক ঐক্যের গুরুত্বকে প্রধান বিষয় হিসেবে তুলে ধরা হয়েছে।",
+   "author": "ടി.കെ.അശ്‌റഫ്",
+   "issue_date": "2017-02-11",
+   "html_url": "/bn/dawah/unity-ideology-and-movement-20170211-2.html",
+   "md_url": "/bn/dawah/unity-ideology-and-movement-20170211-2.md"
   },
   {
    "slug": "children-an-islamic-reading-part-4-20170204-5",
