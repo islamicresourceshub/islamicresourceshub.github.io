@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-02T09:31:42.472832+00:00",
+ "generated_at": "2026-09-02T09:32:29.808835+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3159,
+ "count": 3160,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -6985,6 +6985,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/ha/dawah/the-religion-that-rejects-terrorism-part-1-20170121-12.html",
    "md_url": "/ha/dawah/the-religion-that-rejects-terrorism-part-1-20170121-12.md"
+  },
+  {
+   "slug": "unity-ideology-and-movement-20170211-2",
+   "lang": "ha",
+   "category": "dawah",
+   "title": "Hadin kai, Akida, da Kungiya",
+   "summary": "Wannan makala tana bayyana yadda kungiyoyin Musulunci ya kamata su hada kai don tunkarar ta'addancin da ke barazana ga zaman lafiyar duniya. Babban jigon maganar shi ne muhimmancin cimma matsaya daya a kan akida.",
+   "author": "ടി.കെ.അശ്‌റഫ്",
+   "issue_date": "2017-02-11",
+   "html_url": "/ha/dawah/unity-ideology-and-movement-20170211-2.html",
+   "md_url": "/ha/dawah/unity-ideology-and-movement-20170211-2.md"
   },
   {
    "slug": "children-an-islamic-reading-part-4-20170204-5",
