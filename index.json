@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-02T09:13:20.402841+00:00",
+ "generated_at": "2026-09-02T09:13:44.230497+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3112,
+ "count": 3113,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -7612,6 +7612,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/hi/opinion/everyone-should-have-a-beard-20170121-3.html",
    "md_url": "/hi/opinion/everyone-should-have-a-beard-20170121-3.md"
+  },
+  {
+   "slug": "freedom-of-speech-should-not-be-one-sided-20170211-1",
+   "lang": "hi",
+   "category": "opinion",
+   "title": "अभिव्यक्ति की स्वतंत्रता एकतरफा नहीं होनी चाहिए",
+   "summary": "यह लेख नागरिकों की अभिव्यक्ति की स्वतंत्रता को दबाने वाली सरकारी नीतियों की आलोचना करता है। यह लोकतंत्र में असहमति के अधिकार और कानून के दोहरे मापदंडों पर चर्चा करता है।",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2017-02-11",
+   "html_url": "/hi/opinion/freedom-of-speech-should-not-be-one-sided-20170211-1.html",
+   "md_url": "/hi/opinion/freedom-of-speech-should-not-be-one-sided-20170211-1.md"
   },
   {
    "slug": "hajj-subsidy-before-putting-the-muslim-community-in-the-dock-20170128-3",
