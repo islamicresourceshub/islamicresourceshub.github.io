@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-02T07:28:37.185198+00:00",
+ "generated_at": "2026-09-02T07:29:08.064814+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2930,
+ "count": 2931,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -1023,6 +1023,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/ar/hadith/criteria-for-accepting-hadith-20170128-2.html",
    "md_url": "/ar/hadith/criteria-for-accepting-hadith-20170128-2.md"
+  },
+  {
+   "slug": "challenges-posed-by-pseudo-nationalism-20170204-4",
+   "lang": "ar",
+   "category": "opinion",
+   "title": "تحديات القومية الزائفة",
+   "summary": "يناقش هذا المقال مفهوم الوطنية كنزعة إنسانية فطرية، محذراً في الوقت ذاته من مخاطر القومية الزائفة التي تُفرض قسراً. كما يحلل المقال التداعيات الاجتماعية والسياسية لهذه النزعات التي تهدد قيم التنوع والحرية الفردية.",
+   "author": "സുഫ്‌യാന്‍ അബ്ദുസ്സലാം - റിയാദ്‌",
+   "issue_date": "2017-02-04",
+   "html_url": "/ar/opinion/challenges-posed-by-pseudo-nationalism-20170204-4.html",
+   "md_url": "/ar/opinion/challenges-posed-by-pseudo-nationalism-20170204-4.md"
   },
   {
    "slug": "e-writing-is-not-mere-writing-20170121-15",
