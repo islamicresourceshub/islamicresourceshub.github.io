@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-02T07:31:03.029881+00:00",
+ "generated_at": "2026-09-02T07:31:29.975192+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2935,
+ "count": 2936,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -3817,6 +3817,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/en/hadith/criteria-for-accepting-hadith-20170128-2.html",
    "md_url": "/en/hadith/criteria-for-accepting-hadith-20170128-2.md"
+  },
+  {
+   "slug": "challenges-posed-by-pseudo-nationalism-20170204-4",
+   "lang": "en",
+   "category": "opinion",
+   "title": "The Challenges Posed by Pseudo-Nationalism",
+   "summary": "This article discusses how an emotional connection to one's homeland is a natural human trait, while highlighting the dangers of pseudo-nationalism. It analyzes the societal problems and consequences arising from the forced imposition of nationalistic symbols.",
+   "author": "സുഫ്‌യാന്‍ അബ്ദുസ്സലാം - റിയാദ്‌",
+   "issue_date": "2017-02-04",
+   "html_url": "/en/opinion/challenges-posed-by-pseudo-nationalism-20170204-4.html",
+   "md_url": "/en/opinion/challenges-posed-by-pseudo-nationalism-20170204-4.md"
   },
   {
    "slug": "e-writing-is-not-mere-writing-20170121-15",
