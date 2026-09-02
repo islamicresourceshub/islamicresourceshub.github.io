@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-02T10:03:49.422990+00:00",
+ "generated_at": "2026-09-02T10:07:07.156276+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3196,
+ "count": 3197,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -33748,6 +33748,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/uz/dawah/the-religion-that-rejects-terrorism-part-1-20170121-12.html",
    "md_url": "/uz/dawah/the-religion-that-rejects-terrorism-part-1-20170121-12.md"
+  },
+  {
+   "slug": "unity-ideology-and-movement-20170211-2",
+   "lang": "uz",
+   "category": "dawah",
+   "title": "Birlik, ideologiya va harakat",
+   "summary": "Ushbu maqolada islomiy harakatlar jahon tinchligiga tahdid solayotgan terrorizmga qarshi qanday birlashishi kerakligi tushuntiriladi. G'oyaviy kelishuvning ahamiyati asosiy mavzu hisoblanadi.",
+   "author": "ടി.കെ.അശ്‌റഫ്",
+   "issue_date": "2017-02-11",
+   "html_url": "/uz/dawah/unity-ideology-and-movement-20170211-2.html",
+   "md_url": "/uz/dawah/unity-ideology-and-movement-20170211-2.md"
   },
   {
    "slug": "children-an-islamic-reading-part-4-20170204-5",
