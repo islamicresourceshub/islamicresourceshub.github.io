@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-02T08:46:19.010120+00:00",
+ "generated_at": "2026-09-02T08:46:45.235257+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3024,
+ "count": 3025,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -29700,6 +29700,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/th/dawah/the-religion-that-rejects-terrorism-part-1-20170121-12.html",
    "md_url": "/th/dawah/the-religion-that-rejects-terrorism-part-1-20170121-12.md"
+  },
+  {
+   "slug": "children-an-islamic-reading-part-4-20170204-5",
+   "lang": "th",
+   "category": "family",
+   "title": "ลูกหลาน: มุมมองตามหลักอิสลาม",
+   "summary": "บทความนี้กล่าวถึงภารกิจของการเป็นพ่อแม่ตามแนวทางอิสลาม โดยเน้นย้ำถึงความสำคัญของการทำความเข้าใจธรรมชาติและสถานะของลูกหลานตามมุมมองของอัลกุรอานและแบบอย่างของท่านนบี นี่เป็นตอนที่ 4 ของซีรีส์ที่ว่าด้วยการเลี้ยงดูลูกหลานตามหลักการอิสลาม",
+   "author": "അഷ്‌റഫ്‌ എകരൂൽ",
+   "issue_date": "2017-02-04",
+   "html_url": "/th/family/children-an-islamic-reading-part-4-20170204-5.html",
+   "md_url": "/th/family/children-an-islamic-reading-part-4-20170204-5.md"
   },
   {
    "slug": "don-t-worry-allah-is-with-you-20170114-10",
