@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-02T08:52:56.531689+00:00",
+ "generated_at": "2026-09-02T08:53:21.414424+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3049,
+ "count": 3050,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -4939,6 +4939,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/fa/dawah/religion-is-fearlessness-20170114-6.html",
    "md_url": "/fa/dawah/religion-is-fearlessness-20170114-6.md"
+  },
+  {
+   "slug": "religious-preachers-must-be-exemplary-20170204-6",
+   "lang": "fa",
+   "category": "dawah",
+   "title": "مبلغان دینی باید الگوی عملی باشند",
+   "summary": "این مقاله بیان می‌کند که خداوند از زمان حضرت آدم (ع) پیامبران را برای تبلیغ دین فرستاد و تأکید می‌کند که مبلغان دینی باید با زندگی الگومحور خود، مروج ارزش‌های اسلامی باشند. موفقیت در فعالیت‌های تبلیغی مستلزم هماهنگی میان گفتار و کردار مبلغ است.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2017-02-04",
+   "html_url": "/fa/dawah/religious-preachers-must-be-exemplary-20170204-6.html",
+   "md_url": "/fa/dawah/religious-preachers-must-be-exemplary-20170204-6.md"
   },
   {
    "slug": "showing-the-light-is-the-duty-of-scholars-20170121-14",
