@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-02T07:29:08.064814+00:00",
+ "generated_at": "2026-09-02T07:29:39.099120+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2931,
+ "count": 2932,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -1584,6 +1584,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/as/hadith/criteria-for-accepting-hadith-20170128-2.html",
    "md_url": "/as/hadith/criteria-for-accepting-hadith-20170128-2.md"
+  },
+  {
+   "slug": "challenges-posed-by-pseudo-nationalism-20170204-4",
+   "lang": "as",
+   "category": "opinion",
+   "title": "মিথ্যা জাতীয়তাবাদে সৃষ্ট প্ৰত্যাহ্বানসমূহ",
+   "summary": "নিজ দেশ আৰু দেশবাসীৰ প্ৰতি থকা আৱেগিক বান্ধোন মানুহৰ এক স্বাভাৱিক গুণ। কিন্তু এই প্ৰবন্ধটোৱে মিথ্যা জাতীয়তাবাদে সমাজত সৃষ্টি কৰা প্ৰত্যাহ্বান আৰু ইয়াৰ ভয়াবহ পৰিণতিসমূহৰ ওপৰত আলোকপাত কৰিছে।",
+   "author": "സുഫ്‌യാന്‍ അബ്ദുസ്സലാം - റിയാദ്‌",
+   "issue_date": "2017-02-04",
+   "html_url": "/as/opinion/challenges-posed-by-pseudo-nationalism-20170204-4.html",
+   "md_url": "/as/opinion/challenges-posed-by-pseudo-nationalism-20170204-4.md"
   },
   {
    "slug": "e-writing-is-not-mere-writing-20170121-15",
