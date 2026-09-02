@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-02T08:51:43.082097+00:00",
+ "generated_at": "2026-09-02T08:52:05.210383+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3046,
+ "count": 3047,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -3212,6 +3212,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/de/dawah/religion-is-fearlessness-20170114-6.html",
    "md_url": "/de/dawah/religion-is-fearlessness-20170114-6.md"
+  },
+  {
+   "slug": "religious-preachers-must-be-exemplary-20170204-6",
+   "lang": "de",
+   "category": "dawah",
+   "title": "Religionsvermittler müssen ein Vorbild sein",
+   "summary": "Der Artikel erläutert, dass Allah seit dem Propheten Adam (a) Propheten entsandt hat, um die Religion zu verkünden. Er betont, dass Religionsvermittler ein vorbildliches Leben führen müssen, da dies für den Erfolg ihrer Mission unerlässlich ist.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2017-02-04",
+   "html_url": "/de/dawah/religious-preachers-must-be-exemplary-20170204-6.html",
+   "md_url": "/de/dawah/religious-preachers-must-be-exemplary-20170204-6.md"
   },
   {
    "slug": "showing-the-light-is-the-duty-of-scholars-20170121-14",
