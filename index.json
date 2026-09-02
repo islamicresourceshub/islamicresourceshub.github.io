@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-02T07:37:07.040087+00:00",
+ "generated_at": "2026-09-02T07:37:35.921742+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2947,
+ "count": 2948,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -21395,6 +21395,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/mr/hadith/criteria-for-accepting-hadith-20170128-2.html",
    "md_url": "/mr/hadith/criteria-for-accepting-hadith-20170128-2.md"
+  },
+  {
+   "slug": "challenges-posed-by-pseudo-nationalism-20170204-4",
+   "lang": "mr",
+   "category": "opinion",
+   "title": "बनावटी राष्ट्रवाद से उत्पन्न चुनौतियां",
+   "summary": "यह लेख बताता है कि अपने देश और देशवासियों के प्रति भावनात्मक लगाव मनुष्य का एक स्वाभाविक गुण है। हालाँकि, यह लेख बनावटी राष्ट्रवाद द्वारा उत्पन्न चुनौतियों पर चर्चा करता है और समाज में इसके द्वारा पैदा की जाने वाली समस्याओं और परिणामों का विश्लेषण करता है।",
+   "author": "സുഫ്‌യാന്‍ അബ്ദുസ്സലാം - റിയാദ്‌",
+   "issue_date": "2017-02-04",
+   "html_url": "/mr/opinion/challenges-posed-by-pseudo-nationalism-20170204-4.html",
+   "md_url": "/mr/opinion/challenges-posed-by-pseudo-nationalism-20170204-4.md"
   },
   {
    "slug": "e-writing-is-not-mere-writing-20170121-15",
