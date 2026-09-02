@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-02T10:07:07.156276+00:00",
+ "generated_at": "2026-09-02T10:09:36.127192+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3197,
+ "count": 3198,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -34353,6 +34353,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/vi/dawah/the-religion-that-rejects-terrorism-part-1-20170121-12.html",
    "md_url": "/vi/dawah/the-religion-that-rejects-terrorism-part-1-20170121-12.md"
+  },
+  {
+   "slug": "unity-ideology-and-movement-20170211-2",
+   "lang": "vi",
+   "category": "dawah",
+   "title": "Sự thống nhất, Lý tưởng và Phong trào",
+   "summary": "Bài viết này giải thích cách các phong trào Hồi giáo cần đoàn kết để đối phó với nạn khủng bố đang đe dọa hòa bình thế giới. Chủ đề chính là tầm quan trọng của sự thống nhất về mặt lý tưởng.",
+   "author": "ടി.കെ.അശ്‌റഫ്",
+   "issue_date": "2017-02-11",
+   "html_url": "/vi/dawah/unity-ideology-and-movement-20170211-2.html",
+   "md_url": "/vi/dawah/unity-ideology-and-movement-20170211-2.md"
   },
   {
    "slug": "children-an-islamic-reading-part-4-20170204-5",
