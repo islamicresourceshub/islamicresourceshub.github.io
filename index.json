@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-02T07:17:06.224404+00:00",
+ "generated_at": "2026-09-02T07:19:52.145535+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2906,
+ "count": 2907,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -25894,6 +25894,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/so/family/don-t-worry-allah-is-with-you-20170114-10.html",
    "md_url": "/so/family/don-t-worry-allah-is-with-you-20170114-10.md"
+  },
+  {
+   "slug": "harassment-from-mother-in-law-20170204-3",
+   "lang": "so",
+   "category": "family",
+   "title": "Dhibaatooyinka ay geysato soddohda",
+   "summary": "Maqaalkani waxa uu ka jawaabayaa su'aal ay soo gudbisay haweeney la kulanta dhibaato nafsi ah oo ka timaadda soddohdeed. Waxa uu ka hadlayaa dhibaatooyinka nafsiga ah iyo kuwa jireed ee ay la kulanto marka ninkeedu aanu xal u helin. Maqaalku waxa uu sharxayaa sida loo wajaho arrintan marka loo eego aragtida Islaamka.",
+   "author": "ഹാരിസ്ബിൻ സലീം",
+   "issue_date": "2017-02-04",
+   "html_url": "/so/family/harassment-from-mother-in-law-20170204-3.html",
+   "md_url": "/so/family/harassment-from-mother-in-law-20170204-3.md"
   },
   {
    "slug": "how-to-be-a-good-parent-part-2-20170121-4",
