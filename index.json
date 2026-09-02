@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-02T09:15:53.437982+00:00",
+ "generated_at": "2026-09-02T09:16:17.663776+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3118,
+ "count": 3119,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -22649,6 +22649,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/mr/opinion/everyone-should-have-a-beard-20170121-3.html",
    "md_url": "/mr/opinion/everyone-should-have-a-beard-20170121-3.md"
+  },
+  {
+   "slug": "freedom-of-speech-should-not-be-one-sided-20170211-1",
+   "lang": "mr",
+   "category": "opinion",
+   "title": "अभिव्यक्ती स्वातंत्र्य एकतर्फी नसावे",
+   "summary": "राज्यसंस्थेकडून नागरिकांच्या अभिव्यक्ती स्वातंत्र्याचा संकोच केला जात असल्याबद्दलचा हा एक चिकित्सक लेख आहे. लोकशाहीमध्ये मतभेदांच्या अधिकाराचे महत्त्व यात अधोरेखित केले आहे.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2017-02-11",
+   "html_url": "/mr/opinion/freedom-of-speech-should-not-be-one-sided-20170211-1.html",
+   "md_url": "/mr/opinion/freedom-of-speech-should-not-be-one-sided-20170211-1.md"
   },
   {
    "slug": "hajj-subsidy-before-putting-the-muslim-community-in-the-dock-20170128-3",
