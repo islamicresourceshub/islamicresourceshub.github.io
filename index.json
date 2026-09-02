@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-02T08:52:34.571720+00:00",
+ "generated_at": "2026-09-02T08:52:56.531689+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3048,
+ "count": 3049,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -4367,6 +4367,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/es/dawah/religion-is-fearlessness-20170114-6.html",
    "md_url": "/es/dawah/religion-is-fearlessness-20170114-6.md"
+  },
+  {
+   "slug": "religious-preachers-must-be-exemplary-20170204-6",
+   "lang": "es",
+   "category": "dawah",
+   "title": "Los predicadores religiosos deben ser un modelo a seguir",
+   "summary": "El artículo explica que, desde el Profeta Adán (la paz sea con él), Al-lah ha enviado profetas para difundir la religión. Se enfatiza la importancia de que los predicadores sean modelos ejemplares, subrayando que una vida coherente es esencial para el éxito de la labor de invitación al islam.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2017-02-04",
+   "html_url": "/es/dawah/religious-preachers-must-be-exemplary-20170204-6.html",
+   "md_url": "/es/dawah/religious-preachers-must-be-exemplary-20170204-6.md"
   },
   {
    "slug": "showing-the-light-is-the-duty-of-scholars-20170121-14",
