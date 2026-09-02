@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-02T08:46:45.235257+00:00",
+ "generated_at": "2026-09-02T08:47:03.505591+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3025,
+ "count": 3035,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -11057,6 +11057,17 @@
    "md_url": "/ml/aqeedah/reducing-the-prophet-pbuh-to-an-ordinary-human-20180922-4.md"
   },
   {
+   "slug": "religious-aversion-some-basic-causes-20200104-7",
+   "lang": "ml",
+   "category": "aqeedah",
+   "title": "മതവിമുഖത: ചില അടിസ്ഥാന കാരണങ്ങൾ",
+   "summary": "ഇസ്‌ലാമിനോടുള്ള വിമുഖതയുടെയും മതനിരാസത്തിന്റെയും കാരണങ്ങൾ വിശകലനം ചെയ്യുന്ന ലേഖനം. ഭൗതികവാദവും തെറ്റിദ്ധാരണകളുമാണ് ഇതിന് പ്രധാന കാരണമെന്ന് ഇത് സമർത്ഥിക്കുന്നു.",
+   "author": "മൂസ സ്വലാഹി, കാര",
+   "issue_date": "2020-01-04",
+   "html_url": "/ml/aqeedah/religious-aversion-some-basic-causes-20200104-7.html",
+   "md_url": "/ml/aqeedah/religious-aversion-some-basic-causes-20200104-7.md"
+  },
+  {
    "slug": "resurrection-and-the-hereafter-20190831-11",
    "lang": "ml",
    "category": "aqeedah",
@@ -12410,6 +12421,17 @@
    "md_url": "/ml/dawah/promises-for-the-believers-20181208-11.md"
   },
   {
+   "slug": "prophetic-visions-in-times-of-injustice-20200104-1",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "നീതിനിഷേധ കാലത്തെ പ്രവാചക ദർശനങ്ങൾ",
+   "summary": "നീതിനിഷേധം നേരിടുമ്പോൾ വിശ്വാസി എങ്ങനെ പ്രതികരിക്കണമെന്നും പ്രവാചക ജീവിതത്തിൽ നിന്ന് എന്ത് മാതൃക സ്വീകരിക്കണമെന്നും ഈ ലേഖനം വിശദീകരിക്കുന്നു. സാമൂഹിക നീതിയുടെ പ്രാധാന്യവും പ്രവാചകന്റെ ക്ഷമയും സഹനവും ഇവിടെ ചർച്ച ചെയ്യുന്നു.",
+   "author": "സുഫ്‌യാൻ അബ്ദുസ്സലാം",
+   "issue_date": "2020-01-04",
+   "html_url": "/ml/dawah/prophetic-visions-in-times-of-injustice-20200104-1.html",
+   "md_url": "/ml/dawah/prophetic-visions-in-times-of-injustice-20200104-1.md"
+  },
+  {
    "slug": "purifying-the-soul-through-repentance-20190601-8",
    "lang": "ml",
    "category": "dawah",
@@ -13048,6 +13070,17 @@
    "md_url": "/ml/dawah/the-religion-that-rejects-terrorism-part-1-20170121-12.md"
   },
   {
+   "slug": "the-smiling-merchant-20200104-5",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "ചിരിക്കുന്ന കച്ചവടക്കാരൻ",
+   "summary": "ഒരു മതപണ്ഡിതൻ കച്ചവട രംഗത്തേക്ക് കടന്നുവന്നതും, പ്രതിസന്ധികളെ തരണം ചെയ്ത് വിജയത്തിലെത്തിയതുമായ ജീവിതാനുഭവം വിവരിക്കുന്ന ലേഖനം.",
+   "author": "ഇബ്നു അലി എടത്തനാട്ടുകര",
+   "issue_date": "2020-01-04",
+   "html_url": "/ml/dawah/the-smiling-merchant-20200104-5.html",
+   "md_url": "/ml/dawah/the-smiling-merchant-20200104-5.md"
+  },
+  {
    "slug": "the-spirit-of-ramadan-20190511-7",
    "lang": "ml",
    "category": "dawah",
@@ -13321,6 +13354,17 @@
    "issue_date": "2019-06-29",
    "html_url": "/ml/dawah/ways-to-maintain-spiritual-purity-20190629-3.html",
    "md_url": "/ml/dawah/ways-to-maintain-spiritual-purity-20190629-3.md"
+  },
+  {
+   "slug": "we-are-from-the-same-parents-20200104-10",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "ഒരേ മാതാപിതാക്കളിൽനിന്നും ഉണ്ടായവർ നാം",
+   "summary": "മനുഷ്യർക്കിടയിലുള്ള വിവേചനങ്ങളെയും കലഹങ്ങളെയും ഖുർആനിക വീക്ഷണത്തിലൂടെ വിശകലനം ചെയ്യുന്ന ലേഖനം. മനുഷ്യരെല്ലാം ഒരേ മാതാപിതാക്കളിൽ നിന്നുള്ളവരാണെന്ന ബോധം ഐക്യത്തിന് അനിവാര്യമാണെന്ന് ഇത് ഓർമ്മിപ്പിക്കുന്നു.",
+   "author": "സിറാജുൽ ഇസ്ലാം ബാലുശ്ശേരി",
+   "issue_date": "2020-01-04",
+   "html_url": "/ml/dawah/we-are-from-the-same-parents-20200104-10.html",
+   "md_url": "/ml/dawah/we-are-from-the-same-parents-20200104-10.md"
   },
   {
    "slug": "we-take-nothing-with-us-20190831-6",
@@ -15402,6 +15446,17 @@
    "md_url": "/ml/history/fearless-before-authorities-20190406-1.md"
   },
   {
+   "slug": "finally-they-came-looking-for-chalilakath-too-20200104-6",
+   "lang": "ml",
+   "category": "history",
+   "title": "അവസാനം അവർ ചാലിലകത്തിനെ തേടിയുമെത്തി!",
+   "summary": "കേരള മുസ്ലിം നവോത്ഥാന നായകനായ ചാലിലകത്ത് കുഞ്ഞഹമ്മദ് ഹാജിയുടെ ചരിത്രത്തെ ചില സംഘടനകൾ തങ്ങളുടേതാക്കി മാറ്റാൻ ശ്രമിക്കുന്നതിനെ വിമർശിക്കുന്ന ലേഖനം.",
+   "author": "അബ്ദുൽ മാലിക് സലഫി",
+   "issue_date": "2020-01-04",
+   "html_url": "/ml/history/finally-they-came-looking-for-chalilakath-too-20200104-6.html",
+   "md_url": "/ml/history/finally-they-came-looking-for-chalilakath-too-20200104-6.md"
+  },
+  {
    "slug": "hamadani-s-institutions-and-quranic-renaissance-20190302-7",
    "lang": "ml",
    "category": "history",
@@ -16656,6 +16711,17 @@
    "md_url": "/ml/opinion/india-which-way-forward-20170325-2.md"
   },
   {
+   "slug": "indian-youth-as-a-ray-of-hope-20200104-2",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "പ്രതീക്ഷയുടെ പൊൻകിരണമായി ഇന്ത്യൻ യുവത",
+   "summary": "പൗരത്വ ഭേദഗതി നിയമത്തിനെതിരെ ഇന്ത്യൻ യുവത നടത്തുന്ന സമരങ്ങളെക്കുറിച്ചുള്ള മുഖലേഖനം. രാജ്യത്തിന്റെ മതേതരത്വവും ജനാധിപത്യവും സംരക്ഷിക്കാൻ യുവതലമുറ കാണിക്കുന്ന പ്രതിബദ്ധതയെ ഇത് പ്രശംസിക്കുന്നു.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2020-01-04",
+   "html_url": "/ml/opinion/indian-youth-as-a-ray-of-hope-20200104-2.html",
+   "md_url": "/ml/opinion/indian-youth-as-a-ray-of-hope-20200104-2.md"
+  },
+  {
    "slug": "intolerance-and-terrorism-the-atheist-s-albanian-model-20190921-2",
    "lang": "ml",
    "category": "opinion",
@@ -16731,6 +16797,17 @@
    "issue_date": "2018-10-13",
    "html_url": "/ml/opinion/islam-mosque-and-court-verdicts-20181013-4.html",
    "md_url": "/ml/opinion/islam-mosque-and-court-verdicts-20181013-4.md"
+  },
+  {
+   "slug": "jharkhand-adding-color-to-hopes-20200104-8",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "പ്രതീക്ഷകൾക്ക് നിറം പകർന്ന് ഝാർഖണ്ഡ്",
+   "summary": "ഝാർഖണ്ഡ് നിയമസഭാ തിരഞ്ഞെടുപ്പ് ഫലങ്ങളെക്കുറിച്ചുള്ള വിശകലനം. ബിജെപിയുടെ പരാജയവും പ്രതിപക്ഷ സഖ്യത്തിന്റെ വിജയവും രാഷ്ട്രീയമായി എങ്ങനെ വിലയിരുത്താമെന്ന് ഇത് ചർച്ച ചെയ്യുന്നു.",
+   "author": "നബീൽ പയ്യോളി",
+   "issue_date": "2020-01-04",
+   "html_url": "/ml/opinion/jharkhand-adding-color-to-hopes-20200104-8.html",
+   "md_url": "/ml/opinion/jharkhand-adding-color-to-hopes-20200104-8.md"
   },
   {
    "slug": "join-the-party-let-the-battle-begin-20170128-6",
@@ -17281,6 +17358,17 @@
    "issue_date": "2019-05-04",
    "html_url": "/ml/opinion/sri-lanka-bombings-terrorism-has-no-religion-20190504-8.html",
    "md_url": "/ml/opinion/sri-lanka-bombings-terrorism-has-no-religion-20190504-8.md"
+  },
+  {
+   "slug": "stand-together-resist-and-defeat-20200104-4",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "ചേർന്ന് നിൽക്കുക; ചെറുത്ത് തോൽപ്പിക്കുക",
+   "summary": "പൗരത്വ ഭേദഗതി നിയമത്തിന്റെ അപകടങ്ങളെക്കുറിച്ചും അതിനെതിരെ മതേതര സമൂഹം ഒന്നിച്ചു നിൽക്കേണ്ടതിന്റെ ആവശ്യകതയെക്കുറിച്ചുമുള്ള ലേഖനം. വിഭജന രാഷ്ട്രീയത്തെ ചെറുക്കാൻ ഐക്യം അനിവാര്യമാണെന്ന് ഇത് ഓർമ്മിപ്പിക്കുന്നു.",
+   "author": "ടി.കെ.അഷ്റഫ്",
+   "issue_date": "2020-01-04",
+   "html_url": "/ml/opinion/stand-together-resist-and-defeat-20200104-4.html",
+   "md_url": "/ml/opinion/stand-together-resist-and-defeat-20200104-4.md"
   },
   {
    "slug": "strengthening-secular-political-unity-20170218-9",
@@ -18381,6 +18469,17 @@
    "issue_date": "2019-04-13",
    "html_url": "/ml/quran/prophets-prayers-in-the-quran-20190413-8.html",
    "md_url": "/ml/quran/prophets-prayers-in-the-quran-20190413-8.md"
+  },
+  {
+   "slug": "qalam-the-pen-part-3-20200104-9",
+   "lang": "ml",
+   "category": "quran",
+   "title": "ഖലം (പേന), ഭാഗം: 3",
+   "summary": "സൂറത്തുൽ ഖലമിലെ വചനങ്ങളുടെ തഫ്സീർ. തോട്ടം ഉടമകളുടെ കഥയിലൂടെ അഹങ്കാരത്തിന്റെയും പിശുക്കിന്റെയും പരിണിതഫലങ്ങൾ ഈ ഭാഗം വിശദീകരിക്കുന്നു.",
+   "author": "അബ്ദുറഹ്മാൻ നാസിർ അസ്സഅദി",
+   "issue_date": "2020-01-04",
+   "html_url": "/ml/quran/qalam-the-pen-part-3-20200104-9.html",
+   "md_url": "/ml/quran/qalam-the-pen-part-3-20200104-9.md"
   },
   {
    "slug": "qul-uhiya-ilayya-tafsir-of-surah-al-jinn-20191012-3",
@@ -19558,6 +19657,17 @@
    "issue_date": "2019-06-01",
    "html_url": "/ml/seerah/prophetic-advices-to-the-army-20190601-9.html",
    "md_url": "/ml/seerah/prophetic-advices-to-the-army-20190601-9.md"
+  },
+  {
+   "slug": "prophetic-formula-for-conflict-resolution-20200104-3",
+   "lang": "ml",
+   "category": "seerah",
+   "title": "പ്രശ്ന പരിഹാരത്തിന്റെ പ്രവാചക ഫോർമുല",
+   "summary": "കഅ്ബ പുനർനിർമ്മാണ വേളയിൽ ഹജറുൽ അസ്‌വദ് സ്ഥാപിക്കുന്നതുമായി ബന്ധപ്പെട്ട് ഉണ്ടായ തർക്കം പ്രവാചകൻ പരിഹരിച്ച രീതിയെക്കുറിച്ചുള്ള ലേഖനം. അഭിപ്രായ ഭിന്നതകൾ പരിഹരിക്കാൻ പ്രവാചക മാതൃക എങ്ങനെ ഉപയോഗിക്കാമെന്ന് ഇത് വ്യക്തമാക്കുന്നു.",
+   "author": "കുഞ്ഞിമുഹമ്മദ് മദനി പറപ്പൂർ",
+   "issue_date": "2020-01-04",
+   "html_url": "/ml/seerah/prophetic-formula-for-conflict-resolution-20200104-3.html",
+   "md_url": "/ml/seerah/prophetic-formula-for-conflict-resolution-20200104-3.md"
   },
   {
    "slug": "prophets-and-trials-20170325-7",
