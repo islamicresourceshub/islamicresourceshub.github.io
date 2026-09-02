@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-02T09:25:00.516973+00:00",
+ "generated_at": "2026-09-02T09:25:27.110359+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3146,
+ "count": 3147,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -33979,6 +33979,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/vi/opinion/everyone-should-have-a-beard-20170121-3.html",
    "md_url": "/vi/opinion/everyone-should-have-a-beard-20170121-3.md"
+  },
+  {
+   "slug": "freedom-of-speech-should-not-be-one-sided-20170211-1",
+   "lang": "vi",
+   "category": "opinion",
+   "title": "Tự do ngôn luận không nên là con đường một chiều",
+   "summary": "Một bài viết phê phán việc chính quyền đàn áp quyền tự do ngôn luận của công dân. Bài viết thảo luận về quyền được bất đồng chính kiến trong một nền dân chủ.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2017-02-11",
+   "html_url": "/vi/opinion/freedom-of-speech-should-not-be-one-sided-20170211-1.html",
+   "md_url": "/vi/opinion/freedom-of-speech-should-not-be-one-sided-20170211-1.md"
   },
   {
    "slug": "hajj-subsidy-before-putting-the-muslim-community-in-the-dock-20170128-3",
