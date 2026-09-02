@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-02T08:56:18.397860+00:00",
+ "generated_at": "2026-09-02T08:56:40.943873+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3057,
+ "count": 3058,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -9592,6 +9592,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/kn/dawah/religion-is-fearlessness-20170114-6.html",
    "md_url": "/kn/dawah/religion-is-fearlessness-20170114-6.md"
+  },
+  {
+   "slug": "religious-preachers-must-be-exemplary-20170204-6",
+   "lang": "kn",
+   "category": "dawah",
+   "title": "ಧರ್ಮ ಪ್ರಚಾರಕರು ಮಾದರಿಯಾಗಿರಬೇಕು",
+   "summary": "ಆದಮ್ (ಅ) ಅವರಿಂದ ಹಿಡಿದು ಅಂತಿಮ ಪ್ರವಾದಿಯವರವರೆಗೆ ಅಲ್ಲಾಹನು ಪ್ರವಾದಿಗಳನ್ನು ಕಳುಹಿಸಿದ್ದು ಧರ್ಮ ಪ್ರಸಾರಕ್ಕಾಗಿ ಎಂದು ಈ ಲೇಖನ ವಿವರಿಸುತ್ತದೆ. ಧರ್ಮ ಪ್ರಚಾರಕರು ತಮ್ಮ ಜೀವನದಲ್ಲಿ ಮಾದರಿಯಾಗಿರಬೇಕಾದ ಅಗತ್ಯವನ್ನು ಮತ್ತು ಪ್ರಚಾರ ಕಾರ್ಯದ ಯಶಸ್ಸಿಗೆ ಪ್ರಾಮಾಣಿಕತೆ ಎಷ್ಟು ಮುಖ್ಯ ಎಂಬುದನ್ನು ಇದು ಒತ್ತಿಹೇಳುತ್ತದೆ.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2017-02-04",
+   "html_url": "/kn/dawah/religious-preachers-must-be-exemplary-20170204-6.html",
+   "md_url": "/kn/dawah/religious-preachers-must-be-exemplary-20170204-6.md"
   },
   {
    "slug": "showing-the-light-is-the-duty-of-scholars-20170121-14",
