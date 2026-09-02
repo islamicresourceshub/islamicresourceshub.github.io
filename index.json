@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-02T04:08:16.978857+00:00",
+ "generated_at": "2026-09-02T04:11:49.478175+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2889,
+ "count": 2890,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -9119,6 +9119,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/kn/family/don-t-worry-allah-is-with-you-20170114-10.html",
    "md_url": "/kn/family/don-t-worry-allah-is-with-you-20170114-10.md"
+  },
+  {
+   "slug": "harassment-from-mother-in-law-20170204-3",
+   "lang": "kn",
+   "category": "family",
+   "title": "ಅತ್ತೆಯಿಂದ ಎದುರಿಸುತ್ತಿರುವ ಕಿರುಕುಳ",
+   "summary": "ಈ ಲೇಖನವು ಅತ್ತೆಯಿಂದ ಮಾನಸಿಕ ಕಿರುಕುಳವನ್ನು ಅನುಭವಿಸುತ್ತಿರುವ ಮಹಿಳೆಯೊಬ್ಬರ ಪ್ರಶ್ನೆ ಮತ್ತು ಅದಕ್ಕೆ ನೀಡಲಾದ ಉತ್ತರವಾಗಿದೆ. ಪತಿಯ ಕಡೆಯಿಂದ ಯಾವುದೇ ಪರಿಹಾರ ಸಿಗದ ಪರಿಸ್ಥಿತಿಯಲ್ಲಿ ಮಾನಸಿಕ ಮತ್ತು ದೈಹಿಕ ತೊಂದರೆಗಳನ್ನು ಎದುರಿಸುವುದರ ಕುರಿತು ಇದು ಚರ್ಚಿಸುತ್ತದೆ. ಇಸ್ಲಾಮಿಕ್ ದೃಷ್ಟಿಕೋನದಲ್ಲಿ ಈ ಸಮಸ್ಯೆಯನ್ನು ಹೇಗೆ ಪರಿಹರಿಸಬಹುದು ಎಂಬುದನ್ನು ಲೇಖನವು ವಿವರಿಸುತ್ತದೆ.",
+   "author": "ഹാരിസ്ബിൻ സലീം",
+   "issue_date": "2017-02-04",
+   "html_url": "/kn/family/harassment-from-mother-in-law-20170204-3.html",
+   "md_url": "/kn/family/harassment-from-mother-in-law-20170204-3.md"
   },
   {
    "slug": "how-to-be-a-good-parent-part-2-20170121-4",
