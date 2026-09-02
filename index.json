@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-02T07:36:03.342578+00:00",
+ "generated_at": "2026-09-02T07:36:34.001910+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2945,
+ "count": 2946,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -9394,6 +9394,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/kn/hadith/criteria-for-accepting-hadith-20170128-2.html",
    "md_url": "/kn/hadith/criteria-for-accepting-hadith-20170128-2.md"
+  },
+  {
+   "slug": "challenges-posed-by-pseudo-nationalism-20170204-4",
+   "lang": "kn",
+   "category": "opinion",
+   "title": "ಕಪಟ ರಾಷ್ಟ್ರೀಯತೆ ಒಡ್ಡುವ ಸವಾಲುಗಳು",
+   "summary": "ತನ್ನ ದೇಶ ಮತ್ತು ದೇಶವಾಸಿಗಳೊಂದಿಗಿನ ಭಾವನಾತ್ಮಕ ಸಂಬಂಧವು ಮನುಷ್ಯನ ಸಹಜ ಗುಣವಾಗಿದೆ ಎಂದು ಈ ಲೇಖನ ಹೇಳುತ್ತದೆ. ಆದರೆ, ಕಪಟ ರಾಷ್ಟ್ರೀಯತೆಯು ಸಮಾಜದಲ್ಲಿ ಸೃಷ್ಟಿಸುವ ಸವಾಲುಗಳು, ಸಮಸ್ಯೆಗಳು ಮತ್ತು ಅದರ ಪರಿಣಾಮಗಳನ್ನು ಈ ಲೇಖನ ವಿಶ್ಲೇಷಿಸುತ್ತದೆ.",
+   "author": "സുഫ്‌യാന്‍ അബ്ദുസ്സലാം - റിയാദ്‌",
+   "issue_date": "2017-02-04",
+   "html_url": "/kn/opinion/challenges-posed-by-pseudo-nationalism-20170204-4.html",
+   "md_url": "/kn/opinion/challenges-posed-by-pseudo-nationalism-20170204-4.md"
   },
   {
    "slug": "e-writing-is-not-mere-writing-20170121-15",
