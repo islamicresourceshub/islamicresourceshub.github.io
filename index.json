@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-02T07:56:51.672610+00:00",
+ "generated_at": "2026-09-02T07:57:18.826073+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2982,
+ "count": 2983,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -924,6 +924,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/ar/dawah/the-religion-that-rejects-terrorism-part-1-20170121-12.html",
    "md_url": "/ar/dawah/the-religion-that-rejects-terrorism-part-1-20170121-12.md"
+  },
+  {
+   "slug": "children-an-islamic-reading-part-4-20170204-5",
+   "lang": "ar",
+   "category": "family",
+   "title": "الأبناء: قراءة إسلامية",
+   "summary": "يؤكد هذا المقال -وهو الجزء الرابع من سلسلة تتناول الرؤية الإسلامية للأبناء- على ضرورة فهم حقيقة الأبناء ومكانتهم في الإسلام لمن يتصدى لمهمة التربية الإسلامية. يستعرض المقال أهمية الأبناء وكيفية التعامل معهم وفقاً للمنظور القرآني والنبوي.",
+   "author": "അഷ്‌റഫ്‌ എകരൂൽ",
+   "issue_date": "2017-02-04",
+   "html_url": "/ar/family/children-an-islamic-reading-part-4-20170204-5.html",
+   "md_url": "/ar/family/children-an-islamic-reading-part-4-20170204-5.md"
   },
   {
    "slug": "don-t-worry-allah-is-with-you-20170114-10",
