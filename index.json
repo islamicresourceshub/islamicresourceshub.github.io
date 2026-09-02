@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-02T09:28:57.238477+00:00",
+ "generated_at": "2026-09-02T09:29:25.046776+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3154,
+ "count": 3155,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -3982,6 +3982,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/en/dawah/the-religion-that-rejects-terrorism-part-1-20170121-12.html",
    "md_url": "/en/dawah/the-religion-that-rejects-terrorism-part-1-20170121-12.md"
+  },
+  {
+   "slug": "unity-ideology-and-movement-20170211-2",
+   "lang": "en",
+   "category": "dawah",
+   "title": "Unity, Ideology, and the Movement",
+   "summary": "This article explores how Islamic movements must unite to confront terrorism, which poses a threat to global peace. It emphasizes that ideological alignment is the essential foundation for such unity.",
+   "author": "ടി.കെ.അശ്‌റഫ്",
+   "issue_date": "2017-02-11",
+   "html_url": "/en/dawah/unity-ideology-and-movement-20170211-2.html",
+   "md_url": "/en/dawah/unity-ideology-and-movement-20170211-2.md"
   },
   {
    "slug": "children-an-islamic-reading-part-4-20170204-5",
