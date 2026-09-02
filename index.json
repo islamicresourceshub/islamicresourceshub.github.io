@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-02T07:36:34.001910+00:00",
+ "generated_at": "2026-09-02T07:37:07.040087+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2946,
+ "count": 2947,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -9944,6 +9944,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/ko/hadith/criteria-for-accepting-hadith-20170128-2.html",
    "md_url": "/ko/hadith/criteria-for-accepting-hadith-20170128-2.md"
+  },
+  {
+   "slug": "challenges-posed-by-pseudo-nationalism-20170204-4",
+   "lang": "ko",
+   "category": "opinion",
+   "title": "가짜 민족주의가 제기하는 도전들",
+   "summary": "이 글은 자신의 조국과 동포에 대한 애착은 인간의 본성임을 인정하면서도, 오늘날 사회에 만연한 가짜 민족주의가 초래하는 위험과 그로 인한 사회적 갈등을 분석합니다. 또한 국가가 강요하는 맹목적인 애국심이 어떻게 파시즘적 사고방식으로 이어지는지 경고합니다.",
+   "author": "സുഫ്‌യാന്‍ അബ്ദുസ്സലാം - റിയാദ്‌",
+   "issue_date": "2017-02-04",
+   "html_url": "/ko/opinion/challenges-posed-by-pseudo-nationalism-20170204-4.html",
+   "md_url": "/ko/opinion/challenges-posed-by-pseudo-nationalism-20170204-4.md"
   },
   {
    "slug": "e-writing-is-not-mere-writing-20170121-15",
