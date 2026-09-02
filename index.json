@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-02T08:50:50.083821+00:00",
+ "generated_at": "2026-09-02T08:51:15.309998+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3044,
+ "count": 3045,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -2046,6 +2046,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/bn/dawah/religion-is-fearlessness-20170114-6.html",
    "md_url": "/bn/dawah/religion-is-fearlessness-20170114-6.md"
+  },
+  {
+   "slug": "religious-preachers-must-be-exemplary-20170204-6",
+   "lang": "bn",
+   "category": "dawah",
+   "title": "ধর্ম প্রচারকদের অবশ্যই আদর্শবান হতে হবে",
+   "summary": "এই নিবন্ধটি আলোচনা করে যে আদম (আঃ) থেকে শুরু করে আল্লাহ তাআলা নবী-রাসূলদের প্রেরণ করেছিলেন তাঁর দ্বীন প্রচারের জন্য। নিবন্ধটি জোর দিয়ে বলে যে, ধর্ম প্রচারকদের জন্য আদর্শ চরিত্র হওয়া অপরিহার্য, কারণ প্রচারণার সাফল্যের জন্য একজন প্রচারকের জীবনই সবচেয়ে বড় প্রমাণ।",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2017-02-04",
+   "html_url": "/bn/dawah/religious-preachers-must-be-exemplary-20170204-6.html",
+   "md_url": "/bn/dawah/religious-preachers-must-be-exemplary-20170204-6.md"
   },
   {
    "slug": "showing-the-light-is-the-duty-of-scholars-20170121-14",
