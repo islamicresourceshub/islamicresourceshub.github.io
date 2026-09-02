@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-02T08:16:14.664113+00:00",
+ "generated_at": "2026-09-02T08:16:45.676340+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3008,
+ "count": 3009,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -9460,6 +9460,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/kn/dawah/the-religion-that-rejects-terrorism-part-1-20170121-12.html",
    "md_url": "/kn/dawah/the-religion-that-rejects-terrorism-part-1-20170121-12.md"
+  },
+  {
+   "slug": "children-an-islamic-reading-part-4-20170204-5",
+   "lang": "kn",
+   "category": "family",
+   "title": "ಮಕ್ಕಳು: ಒಂದು ಇಸ್ಲಾಮೀ ಓದು",
+   "summary": "ಇಸ್ಲಾಮೀ ಪಾಲನೆಯ ಜವಾಬ್ದಾರಿಯನ್ನು ಹೊತ್ತವರು ಮಕ್ಕಳು ಎಂದರೆ ಯಾರು ಮತ್ತು ಅವರ ಸ್ವರೂಪವೇನು ಎಂಬುದನ್ನು ಸರಿಯಾಗಿ ಅರ್ಥಮಾಡಿಕೊಳ್ಳಬೇಕೆಂದು ಈ ಲೇಖನ ವಿವರಿಸುತ್ತದೆ. ಮಕ್ಕಳ ಕುರಿತಾದ ಇಸ್ಲಾಮೀ ದೃಷ್ಟಿಕೋನಗಳನ್ನು ವಿವರಿಸುವ ಈ ಸರಣಿಯ ನಾಲ್ಕನೇ ಭಾಗ ಇದಾಗಿದ್ದು, ಮಕ್ಕಳ ಮಹತ್ವ ಮತ್ತು ಅವರನ್ನು ಬೆಳೆಸಬೇಕಾದ ವಿಧಾನಗಳ ಬಗ್ಗೆ ಇದು ಚರ್ಚಿಸುತ್ತದೆ.",
+   "author": "അഷ്‌റഫ്‌ എകരൂൽ",
+   "issue_date": "2017-02-04",
+   "html_url": "/kn/family/children-an-islamic-reading-part-4-20170204-5.html",
+   "md_url": "/kn/family/children-an-islamic-reading-part-4-20170204-5.md"
   },
   {
    "slug": "don-t-worry-allah-is-with-you-20170114-10",
