@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-02T08:44:30.904324+00:00",
+ "generated_at": "2026-09-02T08:44:56.576303+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3020,
+ "count": 3021,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -27434,6 +27434,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/sq/dawah/the-religion-that-rejects-terrorism-part-1-20170121-12.html",
    "md_url": "/sq/dawah/the-religion-that-rejects-terrorism-part-1-20170121-12.md"
+  },
+  {
+   "slug": "children-an-islamic-reading-part-4-20170204-5",
+   "lang": "sq",
+   "category": "family",
+   "title": "Fëmijët: Një lexim islam",
+   "summary": "Ky artikull, pjesa e katërt e një serie mbi këndvështrimin islam për fëmijët, thekson se ata që marrin përsipër detyrën e prindërimit islam duhet të kuptojnë thellësisht natyrën dhe rëndësinë e fëmijëve. Ai shpjegon se si duhet t'i vlerësojmë dhe t'i edukojmë ata sipas mësimeve hyjnore.",
+   "author": "അഷ്‌റഫ്‌ എകരൂൽ",
+   "issue_date": "2017-02-04",
+   "html_url": "/sq/family/children-an-islamic-reading-part-4-20170204-5.html",
+   "md_url": "/sq/family/children-an-islamic-reading-part-4-20170204-5.md"
   },
   {
    "slug": "don-t-worry-allah-is-with-you-20170114-10",
