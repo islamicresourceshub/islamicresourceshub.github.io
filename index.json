@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-02T04:11:49.478175+00:00",
+ "generated_at": "2026-09-02T05:09:51.306880+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2890,
+ "count": 2900,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -10529,6 +10529,17 @@
    "md_url": "/ml/aqeedah/malak-angel-20190216-5.md"
   },
   {
+   "slug": "man-the-wonderful-creation-20190622-8",
+   "lang": "ml",
+   "category": "aqeedah",
+   "title": "മനുഷ്യൻ എന്ന വിസ്മയ സൃഷ്ടി",
+   "summary": "അല്ലാഹു മനുഷ്യനെ സൃഷ്ടിച്ച വിധവും മനുഷ്യശരീരത്തിന്റെ നിസ്തുലമായ ഘടനയും വിശദീകരിക്കുന്ന ലേഖനം. ഖുർആനിലെ വിവിധ സൂക്തങ്ങൾ ഉദ്ധരിച്ച് മനുഷ്യന്റെ പ്രത്യേക സ്ഥാനവും സവിശേഷ കഴിവുകളും ചൂണ്ടിക്കാണിക്കുന്നു.",
+   "author": "മുഹമ്മദ് അമേൽ",
+   "issue_date": "2019-06-22",
+   "html_url": "/ml/aqeedah/man-the-wonderful-creation-20190622-8.html",
+   "md_url": "/ml/aqeedah/man-the-wonderful-creation-20190622-8.md"
+  },
+  {
    "slug": "misguided-grave-visits-20180901-5",
    "lang": "ml",
    "category": "aqeedah",
@@ -14423,6 +14434,17 @@
    "md_url": "/ml/hadith/sunnah-the-commitment-of-the-companions-20181208-6.md"
   },
   {
+   "slug": "the-stance-of-the-predecessors-towards-sahih-al-bukhari-20190622-7",
+   "lang": "ml",
+   "category": "hadith",
+   "title": "സ്വഫീഹാത്ത് ബുഖാരിയോടൊപ്പം പൂർവ്വികരുടെ നീലപ്പട്",
+   "summary": "സ്വഹീഹുൽ ബുഖാരിയിലെ ഹദീസുകളെ ഖുർആനുമായി യോജിക്കുന്നില്ലെന്ന പേരിൽ തള്ളിക്കളയുന്ന പ്രവണതയ്ക്കെതിരെ പൂർവ്വിക പണ്ഡിതന്മാരുടെ നിലപാട് വിശദീകരിക്കുന്നു. മൗദൂദിയും ജമാഅത്തെ ഇസ്‌ലാമിയും ഉന്നയിച്ച വിമർശനങ്ങൾക്ക് മറുപടി നൽകുന്നു.",
+   "author": "അബ്ദുസ്സലാം മാലിക് സഖഫി",
+   "issue_date": "2019-06-22",
+   "html_url": "/ml/hadith/the-stance-of-the-predecessors-towards-sahih-al-bukhari-20190622-7.html",
+   "md_url": "/ml/hadith/the-stance-of-the-predecessors-towards-sahih-al-bukhari-20190622-7.md"
+  },
+  {
    "slug": "three-virtues-20191026-5",
    "lang": "ml",
    "category": "hadith",
@@ -14883,6 +14905,17 @@
    "issue_date": "2019-09-14",
    "html_url": "/ml/history/islahi-movements-in-othayi-20190914-6.html",
    "md_url": "/ml/history/islahi-movements-in-othayi-20190914-6.md"
+  },
+  {
+   "slug": "islamic-civilization-blooming-in-the-petals-of-iftat-al-isla-20190622-9",
+   "lang": "ml",
+   "category": "history",
+   "title": "ഇൽഫത്തുൽ ഇസ്ലാദിന്റെ ഇതളുകളിൽ വിരിയുന്ന ഇസ്ലാദിക സമാജം",
+   "summary": "കേരളത്തിലെ ഇസ്‌ലാമിക സാമൂഹിക പുനർനിർമ്മാണ പ്രസ്ഥാനങ്ങളുടെ ചരിത്രം വിശകലനം ചെയ്യുന്നു. ഇൽഫത്തുൽ ഇസ്‌ലാം പ്രസ്ഥാനത്തിന്റെ വിദ്യാഭ്യാസ-സാമൂഹിക സംഭാവനകളും സഅ്‌ഖാവി ഹമാനിയുടെ പ്രവർത്തനങ്ങളും വിവരിക്കുന്നു.",
+   "author": "ഡോ. ചെക്കിഴുക്കരക്കത്ത് ഷൗക്കത്ത്, പാവറട്ട",
+   "issue_date": "2019-06-22",
+   "html_url": "/ml/history/islamic-civilization-blooming-in-the-petals-of-iftat-al-isla-20190622-9.html",
+   "md_url": "/ml/history/islamic-civilization-blooming-in-the-petals-of-iftat-al-isla-20190622-9.md"
   },
   {
    "slug": "islamic-history-an-overview-20170401-5",
@@ -15433,6 +15466,17 @@
    "issue_date": "2018-07-14",
    "html_url": "/ml/history/world-civilizations-before-the-prophet-20180714-1.html",
    "md_url": "/ml/history/world-civilizations-before-the-prophet-20180714-1.md"
+  },
+  {
+   "slug": "a-fruitful-life-20190622-10",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "കഫല ജീവിതം",
+   "summary": "കാഴ്ച പംക്തിയിലെ സാമൂഹിക വിമർശന ലേഖനം. വിവാഹ രജിസ്ട്രേഷൻ, യുവതലമുറയുടെ ഉത്തരവാദിത്വങ്ങൾ, സമൂഹത്തിന്റെ കാഴ്ചപ്പാട് എന്നിവയെക്കുറിച്ചുള്ള അഭിപ്രായ പ്രകടനം.",
+   "author": "ഇബ്നു അലി എടനക്കാട്ടുകര",
+   "issue_date": "2019-06-22",
+   "html_url": "/ml/opinion/a-fruitful-life-20190622-10.html",
+   "md_url": "/ml/opinion/a-fruitful-life-20190622-10.md"
   },
   {
    "slug": "a-glance-into-laws-20180428-6",
@@ -16117,6 +16161,17 @@
    "md_url": "/ml/opinion/kashmir-realities-shattered-by-explosions-20190302-6.md"
   },
   {
+   "slug": "kathua-the-verdict-that-lifted-the-soul-of-the-judiciary-20190622-4",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "കത്തു: ജുമുഅക്കിയരുടെ ആത്മാവൈയെന്തിയ വിഡി",
+   "summary": "കത്തുവിലെ എട്ടു വയസ്സുകാരിയുടെ ബലാൽസംഗ-കൊലക്കേസിൽ സുപ്രിംകോടതി പാത്തൻകോട്ടിലേക്ക് കേസ് മാറ്റിയ വിധിയുടെ വിശകലനം. മുസ്ലിം യൂത്ത് ലീഗിന്റെ നിയമസഹായവും സമുദായത്തിന്റെ പോരാട്ടവും വർഗീയ പശ്ചാത്തലവും വിവരിക്കുന്ന ലേഖനം നീതിന്യായ വ്യവസ്ഥിതിയുടെ വിജയമായി വിലയിരുത്തുന്നു.",
+   "author": "സുഫ്യാൻ അബ്ദുസ്സലാം",
+   "issue_date": "2019-06-22",
+   "html_url": "/ml/opinion/kathua-the-verdict-that-lifted-the-soul-of-the-judiciary-20190622-4.html",
+   "md_url": "/ml/opinion/kathua-the-verdict-that-lifted-the-soul-of-the-judiciary-20190622-4.md"
+  },
+  {
    "slug": "kerala-is-weeping-20180901-4",
    "lang": "ml",
    "category": "opinion",
@@ -16775,6 +16830,17 @@
    "issue_date": "2018-06-16",
    "html_url": "/ml/opinion/the-kerala-story-of-honor-killing-20180616-6.html",
    "md_url": "/ml/opinion/the-kerala-story-of-honor-killing-20180616-6.md"
+  },
+  {
+   "slug": "the-message-of-rampant-immorality-20190622-1",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "ജോറാകുന്ന ഫുൾജോറുകൾ നൽകുന്ന സന്ദേശം",
+   "summary": "മാറ്റത്തിന്റെ പേരിൽ മലയാളി സമൂഹം കേൾവി സംസ്കാരത്തിൽ അപകടകരമായ വ്യതിയാനങ്ങൾ വരുത്തുന്നതിനെക്കുറിച്ചുള്ള മുഖമൊഴി. പുറമെ നിന്നുള്ള തെറ്റായ സ്വാധീനങ്ങൾ നമ്മുടെ പാരമ്പര്യവും സംസ്കാരവും തകർക്കുമ്പോൾ ഉണ്ടാകുന്ന ദൂഷ്യഫലങ്ങൾ ചൂണ്ടിക്കാണിക്കുന്നു.",
+   "author": "എഡിറ്റർ",
+   "issue_date": "2019-06-22",
+   "html_url": "/ml/opinion/the-message-of-rampant-immorality-20190622-1.html",
+   "md_url": "/ml/opinion/the-message-of-rampant-immorality-20190622-1.md"
   },
   {
    "slug": "the-palestine-issue-and-india-s-changing-stance-20190629-7",
@@ -18548,6 +18614,17 @@
    "md_url": "/ml/seerah/mockery-and-false-allegations-prophet-muhammad-pbuh-part-11-20190223-6.md"
   },
   {
+   "slug": "moulavi-abdulla-arakkal-20190622-2",
+   "lang": "ml",
+   "category": "seerah",
+   "title": "മൗലവി അബ്ദുല്ല അറക്കൽ",
+   "summary": "കണ്ണൂരിൽ തൗഹീദ് പ്രബോധനത്തിലൂടെ 45 വർഷം പ്രവർത്തിച്ച അറബി അധ്യാപകനായിരുന്ന മൗലവി അബ്ദുല്ല അറക്കലിന്റെ അനുസ്മരണ ലേഖനം. കെ. ഇമ്മി മൗലവിയുടെ പ്രേരണയാൽ മുജാഹിദ് പ്രസ്ഥാനത്തിൽ സജീവമായ അദ്ദേഹത്തിന്റെ ജീവിതത്തിലെ പ്രധാന വഴിത്തിരിവുകളും സേവനങ്ങളും വിവരിക്കുന്നു.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2019-06-22",
+   "html_url": "/ml/seerah/moulavi-abdulla-arakkal-20190622-2.html",
+   "md_url": "/ml/seerah/moulavi-abdulla-arakkal-20190622-2.md"
+  },
+  {
    "slug": "musa-as-and-khidr-as-20181006-10",
    "lang": "ml",
    "category": "seerah",
@@ -18900,6 +18977,17 @@
    "md_url": "/ml/seerah/saeed-bin-aamir-al-jumahi-ra-20191214-10.md"
   },
   {
+   "slug": "some-important-events-20190622-3",
+   "lang": "ml",
+   "category": "seerah",
+   "title": "ചില പ്രധാന സംഭവങ്ങൾ",
+   "summary": "നബി ﷺ യുടെ ജീവിതത്തിലെ രണ്ട് പ്രധാന സംഭവങ്ങളെക്കുറിച്ചുള്ള ലേഖനം. ആഇശ ﷺ യുമായുള്ള വിവാഹത്തിന്റെ പശ്ചാത്തലവും ബാങ്ക് നിയമമാക്കപ്പെട്ട സംഭവവും ബുഖാറി-മുസ്‌ലിം ഹദീസ് തെളിവുകളോടെ വിശദീകരിക്കുന്നു.",
+   "author": "ഫർഖ്ഖാൻ ഹഷ് മൂരി",
+   "issue_date": "2019-06-22",
+   "html_url": "/ml/seerah/some-important-events-20190622-3.html",
+   "md_url": "/ml/seerah/some-important-events-20190622-3.md"
+  },
+  {
    "slug": "steadfast-in-trials-20190308-6",
    "lang": "ml",
    "category": "seerah",
@@ -18931,6 +19019,17 @@
    "issue_date": "2018-08-04",
    "html_url": "/ml/seerah/that-lamp-has-also-extinguished-20180804-1.html",
    "md_url": "/ml/seerah/that-lamp-has-also-extinguished-20180804-1.md"
+  },
+  {
+   "slug": "the-autobiography-of-salman-al-farisi-20190622-5",
+   "lang": "ml",
+   "category": "seerah",
+   "title": "സൽമാനുൽ ഫാരിസിയുടെ ആത്മകഥ",
+   "summary": "ഇസ്‌ലാമിന്റെ മഹാ സഹാബിയായ സൽമാനുൽ ഫാരിസിയുടെ ജീവിതയാത്ര. പേർഷ്യയിലെ മജൂസി കുടുംബത്തിൽ നിന്ന് ക്രിസ്തുമതത്തിലേക്കും പിന്നീട് ഇസ്‌ലാമിലേക്കും എത്തിയ അദ്ദേഹത്തിന്റെ തിരയൽ യാത്രയും സ്വപ്ന സാക്ഷാത്കാരവും വിവരിക്കുന്നു.",
+   "author": "അബ്ദുൾ ജബ്ബാർ അബ്ദുള്ണ്ണ",
+   "issue_date": "2019-06-22",
+   "html_url": "/ml/seerah/the-autobiography-of-salman-al-farisi-20190622-5.html",
+   "md_url": "/ml/seerah/the-autobiography-of-salman-al-farisi-20190622-5.md"
   },
   {
    "slug": "the-autobiography-of-salman-al-farsi-part-2-20190629-10",
@@ -20702,6 +20801,17 @@
    "issue_date": "2019-12-21",
    "html_url": "/ml/youth/see-challenges-as-opportunities-20191221-13.html",
    "md_url": "/ml/youth/see-challenges-as-opportunities-20191221-13.md"
+  },
+  {
+   "slug": "the-righteous-ruler-20190622-6",
+   "lang": "ml",
+   "category": "youth",
+   "title": "സമന്നനായ ഭരണൻ",
+   "summary": "ഐശ്വര്യവാനായ ഒരു വൃദ്ധൻ മരണക്കടത്തിൽ 'ഞാൻ ദരിദ്രനാണ്' എന്ന് പരിതപിക്കുന്ന ബാലപഥം കഥ. പണഡിതൻ വന്ന് പരലോകത്തിനുവേണ്ടി കർമ്മങ്ങൾ ചെയ്യാത്തതാണ് യഥാർത്ഥ ദാരിദ്ര്യം എന്ന ഉപദേശം നൽകുന്നു.",
+   "author": "ഉസ്മാൻ പാലക്കാടി",
+   "issue_date": "2019-06-22",
+   "html_url": "/ml/youth/the-righteous-ruler-20190622-6.html",
+   "md_url": "/ml/youth/the-righteous-ruler-20190622-6.md"
   },
   {
    "slug": "value-erosion-misleading-the-younger-generation-20180505-13",
