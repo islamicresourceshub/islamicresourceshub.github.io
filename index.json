@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-02T07:28:07.506785+00:00",
+ "generated_at": "2026-09-02T07:28:37.185198+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 2929,
+ "count": 2930,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -473,6 +473,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/am/hadith/criteria-for-accepting-hadith-20170128-2.html",
    "md_url": "/am/hadith/criteria-for-accepting-hadith-20170128-2.md"
+  },
+  {
+   "slug": "challenges-posed-by-pseudo-nationalism-20170204-4",
+   "lang": "am",
+   "category": "opinion",
+   "title": "የሐሰተኛ ብሔርተኝነት ፈተናዎች",
+   "summary": "ይህ መጣጥፍ ለሀገር እና ለሀገር ወገኖች ያለው ስሜታዊ ትስስር የሰው ልጅ ተፈጥሯዊ ባህሪ መሆኑን ይገልጻል። ሆኖም፣ በዘመናችን እየተንሰራፋ ያለውን የሐሰተኛ ብሔርተኝነት አደጋዎች፣ በህብረተሰቡ ላይ የሚያስከትለውን ተጽዕኖ እና የሚያመጣቸውን ፈተናዎች በጥልቀት ይተነትናል።",
+   "author": "സുഫ്‌യാന്‍ അബ്ദുസ്സലാം - റിയാദ്‌",
+   "issue_date": "2017-02-04",
+   "html_url": "/am/opinion/challenges-posed-by-pseudo-nationalism-20170204-4.html",
+   "md_url": "/am/opinion/challenges-posed-by-pseudo-nationalism-20170204-4.md"
   },
   {
    "slug": "e-writing-is-not-mere-writing-20170121-15",
