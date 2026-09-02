@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-02T09:33:26.025878+00:00",
+ "generated_at": "2026-09-02T09:33:45.170615+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3162,
+ "count": 3174,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -11057,6 +11057,17 @@
    "md_url": "/ml/aqeedah/allegations-of-deviation-and-responses-20170401-8.md"
   },
   {
+   "slug": "amanah-trust-20200201-10",
+   "lang": "ml",
+   "category": "aqeedah",
+   "title": "അമാനത്ത്",
+   "summary": "വിശ്വാസിയുടെ ജീവിതത്തിൽ അമാനത്തിന് (വിശ്വസ്തത) ഉള്ള പ്രാധാന്യത്തെക്കുറിച്ചുള്ള ലേഖനം. ബാധ്യതകൾ നിറവേറ്റുന്നതിലും കരാറുകൾ പാലിക്കുന്നതിലും വിശ്വാസി കാണിക്കേണ്ട സൂക്ഷ്മതയെക്കുറിച്ച് ലേഖകൻ ഓർമ്മിപ്പിക്കുന്നു.",
+   "author": "അബ്ദുൽ ജബ്ബാർ മദീനി",
+   "issue_date": "2020-02-01",
+   "html_url": "/ml/aqeedah/amanah-trust-20200201-10.html",
+   "md_url": "/ml/aqeedah/amanah-trust-20200201-10.md"
+  },
+  {
    "slug": "are-barelvis-the-heirs-of-ahlussunnah-20190810-2",
    "lang": "ml",
    "category": "aqeedah",
@@ -11187,6 +11198,17 @@
    "issue_date": "2018-07-14",
    "html_url": "/ml/aqeedah/can-coincidence-be-a-creator-20180714-4.html",
    "md_url": "/ml/aqeedah/can-coincidence-be-a-creator-20180714-4.md"
+  },
+  {
+   "slug": "can-saints-perform-miracles-at-will-20200201-2",
+   "lang": "ml",
+   "category": "aqeedah",
+   "title": "ഔലിയാക്കൾ ഇഷ്ടപ്രകാരം കറാമത്ത് കാണിക്കുമെന്നോ?",
+   "summary": "ഔലിയാക്കളുടെ കറാമത്തുകളെക്കുറിച്ചുള്ള തെറ്റിദ്ധാരണകൾ തിരുത്തുന്ന ലേഖനം. കറാമത്ത് എന്നത് അല്ലാഹുവിന്റെ ഔദാര്യമാണെന്നും അത് ഔലിയാക്കൾക്ക് ഇഷ്ടാനുസരണം കാണിക്കാൻ കഴിയുന്ന ഒന്നല്ലെന്നും ഖുർആൻ വചനങ്ങളുടെ അടിസ്ഥാനത്തിൽ ലേഖകൻ സമർത്ഥിക്കുന്നു.",
+   "author": "മൂസ സ്വലാഹി, കാര",
+   "issue_date": "2020-02-01",
+   "html_url": "/ml/aqeedah/can-saints-perform-miracles-at-will-20200201-2.html",
+   "md_url": "/ml/aqeedah/can-saints-perform-miracles-at-will-20200201-2.md"
   },
   {
    "slug": "celebrating-nabi-day-is-un-islamic-20260822-5",
@@ -12100,6 +12122,17 @@
    "issue_date": "2019-04-06",
    "html_url": "/ml/dawah/brand-dharma-that-awakens-morality-20190406-3.html",
    "md_url": "/ml/dawah/brand-dharma-that-awakens-morality-20190406-3.md"
+  },
+  {
+   "slug": "cannot-defeat-the-determined-20200201-1",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "തോൽപ്പിക്കാൻ കഴിയില്ല; ജയിക്കാനുറച്ചവനെ",
+   "summary": "ജീവിതത്തിലെ പ്രതിസന്ധികളെ തരണം ചെയ്യാൻ മനക്കരുത്തും സത്യവിശ്വാസവും അനിവാര്യമാണെന്ന് ഈ മുഖലേഖനം ഓർമ്മിപ്പിക്കുന്നു. ഇഹലോകത്തെ സൽകർമ്മങ്ങൾ മാത്രമാണ് പരലോകത്ത് രക്ഷയേകുക എന്ന ബോധ്യം ജീവിതത്തിൽ വിജയമുണ്ടാക്കുമെന്ന് ലേഖകൻ വ്യക്തമാക്കുന്നു.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2020-02-01",
+   "html_url": "/ml/dawah/cannot-defeat-the-determined-20200201-1.html",
+   "md_url": "/ml/dawah/cannot-defeat-the-determined-20200201-1.md"
   },
   {
    "slug": "characteristics-of-the-wise-20190831-2",
@@ -14027,6 +14060,17 @@
    "md_url": "/ml/dawah/unity-ideology-and-movement-20170211-2.md"
   },
   {
+   "slug": "wake-up-from-dreamland-to-the-land-of-action-20200201-8",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "സ്വപ്ന ഭൂമിയിൽനിന്ന് കർമഭൂമിയിലേക്ക് ഉണരുക",
+   "summary": "പൗരത്വ ഭേദഗതി നിയമത്തിനെതിരെയുള്ള സമരങ്ങളിൽ സമുദായം ജാഗ്രതയോടെ ഇടപെടണമെന്ന് ലേഖകൻ ആഹ്വാനം ചെയ്യുന്നു. ഇത് കേവലം ഒരു സമുദായത്തിന്റെ പ്രശ്നമല്ലെന്നും മതേതര ഇന്ത്യയുടെ നിലനിൽപ്പിനായുള്ള പോരാട്ടമാണെന്നും ലേഖനം വ്യക്തമാക്കുന്നു.",
+   "author": "ടി.കെ.അഷ്റഫ്",
+   "issue_date": "2020-02-01",
+   "html_url": "/ml/dawah/wake-up-from-dreamland-to-the-land-of-action-20200201-8.html",
+   "md_url": "/ml/dawah/wake-up-from-dreamland-to-the-land-of-action-20200201-8.md"
+  },
+  {
    "slug": "ways-to-maintain-spiritual-purity-20190629-3",
    "lang": "ml",
    "category": "dawah",
@@ -14399,6 +14443,17 @@
    "issue_date": "2019-05-25",
    "html_url": "/ml/family/eid-and-shopping-20190525-10.html",
    "md_url": "/ml/family/eid-and-shopping-20190525-10.md"
+  },
+  {
+   "slug": "exam-heat-and-the-warmth-of-sulaimani-20200201-3",
+   "lang": "ml",
+   "category": "family",
+   "title": "പരീക്ഷാ ചൂടും സ്നേഹചൂടുള്ള സുലൈമാനിയും",
+   "summary": "പരീക്ഷാക്കാലത്ത് മാതാപിതാക്കൾ നൽകുന്ന കരുതലിനെയും സ്നേഹത്തെയും കുറിച്ചുള്ള ഹൃദ്യമായ ഓർമ്മക്കുറിപ്പ്. മക്കളുടെ വിജയത്തിനായി ഉറക്കമൊഴിക്കുന്ന മാതാപിതാക്കളുടെ സ്നേഹത്തെ തിരിച്ചറിയാൻ ലേഖകൻ ആഹ്വാനം ചെയ്യുന്നു.",
+   "author": "അർഷദ് താനൂർ",
+   "issue_date": "2020-02-01",
+   "html_url": "/ml/family/exam-heat-and-the-warmth-of-sulaimani-20200201-3.html",
+   "md_url": "/ml/family/exam-heat-and-the-warmth-of-sulaimani-20200201-3.md"
   },
   {
    "slug": "expatriate-life-thoughts-on-religious-education-20190914-7",
@@ -17261,6 +17316,17 @@
    "md_url": "/ml/opinion/everyone-should-have-a-beard-20170121-3.md"
   },
   {
+   "slug": "extremism-20200201-7",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "തീവ്രവാദം",
+   "summary": "തീവ്രവാദം എന്ന പദത്തിന്റെ അർത്ഥതലങ്ങളെയും ചരിത്രപരമായ പശ്ചാത്തലത്തെയും വിശകലനം ചെയ്യുന്ന ലേഖനം. മതത്തിന്റെ പേരിൽ നടക്കുന്ന തീവ്രവാദത്തെയും ഫാസിസത്തെയും ലേഖകൻ വിമർശിക്കുന്നു.",
+   "author": "എ.എ.ഹമീദ് കൊച്ചി",
+   "issue_date": "2020-02-01",
+   "html_url": "/ml/opinion/extremism-20200201-7.html",
+   "md_url": "/ml/opinion/extremism-20200201-7.md"
+  },
+  {
    "slug": "failing-law-enforcement-20191214-8",
    "lang": "ml",
    "category": "opinion",
@@ -17468,6 +17534,17 @@
    "issue_date": "2020-01-04",
    "html_url": "/ml/opinion/indian-youth-as-a-ray-of-hope-20200104-2.html",
    "md_url": "/ml/opinion/indian-youth-as-a-ray-of-hope-20200104-2.md"
+  },
+  {
+   "slug": "internet-less-digital-india-20200201-5",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "ഇന്റർനെറ്റ് രഹിത ഡിജിറ്റൽ ഇന്ത്യ!",
+   "summary": "ഡിജിറ്റൽ ഇന്ത്യ എന്ന മുദ്രാവാക്യം മുഴക്കുമ്പോഴും കശ്മീരിലും മറ്റും ഇന്റർനെറ്റ് നിരോധനം ഏർപ്പെടുത്തുന്ന ഭരണകൂടത്തിന്റെ ഇരട്ടത്താപ്പിനെ ലേഖകൻ വിമർശിക്കുന്നു. ഇന്റർനെറ്റ് മൗലികാവകാശമാണെന്ന സുപ്രീം കോടതി നിരീക്ഷണത്തെയും ലേഖനം പരാമർശിക്കുന്നു.",
+   "author": "നബീൽ പയ്യോളി",
+   "issue_date": "2020-02-01",
+   "html_url": "/ml/opinion/internet-less-digital-india-20200201-5.html",
+   "md_url": "/ml/opinion/internet-less-digital-india-20200201-5.md"
   },
   {
    "slug": "intolerance-and-terrorism-the-atheist-s-albanian-model-20190921-2",
@@ -18603,6 +18680,17 @@
    "md_url": "/ml/opinion/we-will-overcome-this-trial-too-20191228-1.md"
   },
   {
+   "slug": "when-citizenship-rights-are-questioned-20200201-4",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "പൗരാവകാശം ചോദ്യം ചെയ്യപ്പെടുമ്പോൾ",
+   "summary": "പൗരത്വ ഭേദഗതി നിയമം ഭരണഘടനയുടെ മതേതര മൂല്യങ്ങൾക്ക് വിരുദ്ധമാണെന്ന് ലേഖകൻ വാദിക്കുന്നു. ജനാധിപത്യപരമായ പ്രതിഷേധങ്ങളിലൂടെ മാത്രമേ ഇത്തരം കരിനിയമങ്ങളെ പ്രതിരോധിക്കാൻ സാധിക്കൂ എന്ന് ലേഖനം ഓർമ്മിപ്പിക്കുന്നു.",
+   "author": "അൽത്താഫ് അമ്മാട്ടിക്കുന്ന്",
+   "issue_date": "2020-02-01",
+   "html_url": "/ml/opinion/when-citizenship-rights-are-questioned-20200201-4.html",
+   "md_url": "/ml/opinion/when-citizenship-rights-are-questioned-20200201-4.md"
+  },
+  {
    "slug": "when-national-tradition-is-questioned-20170121-2",
    "lang": "ml",
    "category": "opinion",
@@ -19208,6 +19296,17 @@
    "md_url": "/ml/quran/methodology-of-quranic-interpretation-20190706-7.md"
   },
   {
+   "slug": "mulk-dominion-part-2-20200201-11",
+   "lang": "ml",
+   "category": "quran",
+   "title": "മുൽക്ക് (ആധിപത്യം), ഭാഗം: 2",
+   "summary": "സൂറത്തുൽ മുൽക്കിന്റെ വ്യാഖ്യാനം. നരകത്തിന്റെ ഭീകരതയെക്കുറിച്ചും അല്ലാഹുവിനെ ഭയപ്പെടുന്നവർക്കുള്ള പ്രതിഫലത്തെക്കുറിച്ചും ഈ ഭാഗം വിശദീകരിക്കുന്നു.",
+   "author": "അബ്ദുറഹ്മാൻ നാസിർ അസ്സഅദി",
+   "issue_date": "2020-02-01",
+   "html_url": "/ml/quran/mulk-dominion-part-2-20200201-11.html",
+   "md_url": "/ml/quran/mulk-dominion-part-2-20200201-11.md"
+  },
+  {
    "slug": "naskh-what-do-the-sources-say-20191228-3",
    "lang": "ml",
    "category": "quran",
@@ -19745,6 +19844,17 @@
    "issue_date": "2018-11-24",
    "html_url": "/ml/quran/the-quran-previous-scriptures-and-the-continuity-of-values-20181124-3.html",
    "md_url": "/ml/quran/the-quran-previous-scriptures-and-the-continuity-of-values-20181124-3.md"
+  },
+  {
+   "slug": "the-totality-of-islam-20200201-9",
+   "lang": "ml",
+   "category": "quran",
+   "title": "ഇസ്‌ലാമിന്റെ സമഗ്രത",
+   "summary": "ഇസ്‌ലാം കേവലം വിശ്വാസത്തിൽ മാത്രം ഒതുങ്ങുന്നതല്ലെന്നും സാമൂഹികവും സാംസ്കാരികവുമായ ഇടപെടലുകൾ അതിൽ അനിവാര്യമാണെന്നും ഖുർആൻ വചനങ്ങളുടെ അടിസ്ഥാനത്തിൽ ലേഖകൻ വിശദീകരിക്കുന്നു.",
+   "author": "സിറാജുൽ ഇസ്‌ലാം ബാലുശ്ശേരി",
+   "issue_date": "2020-02-01",
+   "html_url": "/ml/quran/the-totality-of-islam-20200201-9.html",
+   "md_url": "/ml/quran/the-totality-of-islam-20200201-9.md"
   },
   {
    "slug": "to-the-followers-of-the-quran-20180707-3",
@@ -22211,6 +22321,17 @@
    "md_url": "/ml/story/the-story-of-sa-sa-ah-ibn-najiyah-20190202-7.md"
   },
   {
+   "slug": "the-tea-shop-by-the-roadside-20200201-12",
+   "lang": "ml",
+   "category": "story",
+   "title": "വഴിവക്കിലെ ചായമക്കാനി",
+   "summary": "ജീവിത പ്രതിസന്ധികളെ അതിജീവിച്ച ഒരു സ്ത്രീയുടെ കഥ. സഹായം സ്വീകരിക്കുന്നതിനേക്കാൾ സ്വന്തം അധ്വാനത്തിലൂടെ ജീവിതം കെട്ടിപ്പടുക്കാൻ ആഗ്രഹിച്ച ഒരു സ്ത്രീയുടെ ആത്മവിശ്വാസത്തെ ഈ കഥ വരച്ചുകാട്ടുന്നു.",
+   "author": "ഇബ്നു അലി എടത്തനാട്ടുകര",
+   "issue_date": "2020-02-01",
+   "html_url": "/ml/story/the-tea-shop-by-the-roadside-20200201-12.html",
+   "md_url": "/ml/story/the-tea-shop-by-the-roadside-20200201-12.md"
+  },
+  {
    "slug": "the-votive-chicken-and-the-stone-of-ayilyam-20180825-7",
    "lang": "ml",
    "category": "story",
@@ -22231,6 +22352,17 @@
    "issue_date": "2019-09-14",
    "html_url": "/ml/story/the-washed-away-village-20190914-5.html",
    "md_url": "/ml/story/the-washed-away-village-20190914-5.md"
+  },
+  {
+   "slug": "this-is-the-land-we-were-born-in-20200201-6",
+   "lang": "ml",
+   "category": "story",
+   "title": "നാം പിറന്ന നാടിത്",
+   "summary": "പൗരത്വ ഭേദഗതി നിയമത്തിനെതിരെയുള്ള പ്രതിഷേധം പ്രമേയമാക്കിയ കവിത. ഇന്ത്യയുടെ മതേതര പാരമ്പര്യത്തെയും സ്വാതന്ത്ര്യസമര ചരിത്രത്തെയും കവിത ഓർമ്മിപ്പിക്കുന്നു.",
+   "author": "ഉസ്മാൻ പാലക്കാഴി",
+   "issue_date": "2020-02-01",
+   "html_url": "/ml/story/this-is-the-land-we-were-born-in-20200201-6.html",
+   "md_url": "/ml/story/this-is-the-land-we-were-born-in-20200201-6.md"
   },
   {
    "slug": "those-who-hate-sweat-20191123-12",
