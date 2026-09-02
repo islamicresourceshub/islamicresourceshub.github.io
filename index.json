@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-02T08:42:15.590023+00:00",
+ "generated_at": "2026-09-02T08:42:45.969355+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3015,
+ "count": 3016,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -24574,6 +24574,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/ps/dawah/the-religion-that-rejects-terrorism-part-1-20170121-12.html",
    "md_url": "/ps/dawah/the-religion-that-rejects-terrorism-part-1-20170121-12.md"
+  },
+  {
+   "slug": "children-an-islamic-reading-part-4-20170204-5",
+   "lang": "ps",
+   "category": "family",
+   "title": "اولاد: یو اسلامي لوست",
+   "summary": "دا لیکنه په دې ټینګار کوي چې د اسلامي روزنې دنده ترسره کوونکي باید په سمه توګه پوه شي چې اولادونه څوک دي او څه ارزښت لري. دا د اولادونو په اړه د اسلامي لیدلورو د لړۍ څلورمه برخه ده چې د اولادونو په اهمیت او د هغوی د پالنې په طریقو بحث کوي.",
+   "author": "അഷ്‌റഫ്‌ എകരൂൽ",
+   "issue_date": "2017-02-04",
+   "html_url": "/ps/family/children-an-islamic-reading-part-4-20170204-5.html",
+   "md_url": "/ps/family/children-an-islamic-reading-part-4-20170204-5.md"
   },
   {
    "slug": "don-t-worry-allah-is-with-you-20170114-10",
