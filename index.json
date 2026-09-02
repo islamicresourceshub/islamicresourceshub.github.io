@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-02T08:56:40.943873+00:00",
+ "generated_at": "2026-09-02T08:57:01.916677+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3058,
+ "count": 3059,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -10175,6 +10175,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/ko/dawah/religion-is-fearlessness-20170114-6.html",
    "md_url": "/ko/dawah/religion-is-fearlessness-20170114-6.md"
+  },
+  {
+   "slug": "religious-preachers-must-be-exemplary-20170204-6",
+   "lang": "ko",
+   "category": "dawah",
+   "title": "종교 전파자는 모범이 되어야 한다",
+   "summary": "이 글은 아담(평화가 깃들기를) 이후 알라께서 예언자들을 보내신 목적이 종교를 전파하기 위함이었음을 상기시킵니다. 또한 종교 전파자가 자신의 삶을 통해 모범을 보이는 것이 전파 활동의 성공을 위해 얼마나 필수적인지 강조합니다.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2017-02-04",
+   "html_url": "/ko/dawah/religious-preachers-must-be-exemplary-20170204-6.html",
+   "md_url": "/ko/dawah/religious-preachers-must-be-exemplary-20170204-6.md"
   },
   {
    "slug": "showing-the-light-is-the-duty-of-scholars-20170121-14",
