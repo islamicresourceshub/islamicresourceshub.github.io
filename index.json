@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-02T08:15:44.804287+00:00",
+ "generated_at": "2026-09-02T08:16:14.664113+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3007,
+ "count": 3008,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -8888,6 +8888,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/ja/dawah/the-religion-that-rejects-terrorism-part-1-20170121-12.html",
    "md_url": "/ja/dawah/the-religion-that-rejects-terrorism-part-1-20170121-12.md"
+  },
+  {
+   "slug": "children-an-islamic-reading-part-4-20170204-5",
+   "lang": "ja",
+   "category": "family",
+   "title": "子供たち：イスラーム的読解",
+   "summary": "イスラーム的な子育てという使命を担う者は、子供とは何者であるかを正しく理解する必要があります。本稿は、子供に関するイスラームの視点を解説する連載の第4回であり、子供の重要性と彼らを育てるべき方法について論じています。",
+   "author": "അഷ്‌റഫ്‌ എകരൂൽ",
+   "issue_date": "2017-02-04",
+   "html_url": "/ja/family/children-an-islamic-reading-part-4-20170204-5.html",
+   "md_url": "/ja/family/children-an-islamic-reading-part-4-20170204-5.md"
   },
   {
    "slug": "don-t-worry-allah-is-with-you-20170114-10",
