@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-02T09:40:21.038344+00:00",
+ "generated_at": "2026-09-02T09:40:56.896840+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3187,
+ "count": 3188,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -28325,6 +28325,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/so/dawah/the-religion-that-rejects-terrorism-part-1-20170121-12.html",
    "md_url": "/so/dawah/the-religion-that-rejects-terrorism-part-1-20170121-12.md"
+  },
+  {
+   "slug": "unity-ideology-and-movement-20170211-2",
+   "lang": "so",
+   "category": "dawah",
+   "title": "Midnimada, Mabda' iyo Dhaqdhaqaaqa",
+   "summary": "Maqaalkani wuxuu sharxayaa sida dhaqdhaqaaqyada Islaamiga ah ay u midoobi karaan si ay u wajahaan xagjirnimada khatarta ku ah nabadda adduunka. Mawduuca ugu weyn ee halkan lagu falanqeynayo waa muhiimadda ay leedahay midnimada ku dhisan mabda'a saxda ah.",
+   "author": "ടി.കെ.അശ്‌റഫ്",
+   "issue_date": "2017-02-11",
+   "html_url": "/so/dawah/unity-ideology-and-movement-20170211-2.html",
+   "md_url": "/so/dawah/unity-ideology-and-movement-20170211-2.md"
   },
   {
    "slug": "children-an-islamic-reading-part-4-20170204-5",
