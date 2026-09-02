@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-02T09:21:12.787223+00:00",
+ "generated_at": "2026-09-02T09:21:32.517723+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3128,
+ "count": 3137,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -11673,6 +11673,17 @@
    "md_url": "/ml/aqeedah/they-want-to-see-god-20170204-2.md"
   },
   {
+   "slug": "those-who-cherish-sufism-20200125-3",
+   "lang": "ml",
+   "category": "aqeedah",
+   "title": "സൂഫിസത്തെ താലോലിക്കുന്നവർ",
+   "summary": "സൂഫിസത്തിന്റെ ഉത്ഭവത്തെയും അത് ഇസ്‌ലാമിക പ്രമാണങ്ങളിൽ നിന്ന് എങ്ങനെ വ്യതിചലിക്കുന്നു എന്നതിനെയും വിമർശനാത്മകമായി പരിശോധിക്കുന്ന ലേഖനം. അന്ധവിശ്വാസങ്ങൾക്കെതിരെയുള്ള ഇസ്‌ലാഹി പ്രസ്ഥാനത്തിന്റെ നിലപാടുകൾ ഇതിൽ വ്യക്തമാക്കുന്നു.",
+   "author": "മൂസ സ്വലാഹി, കാര",
+   "issue_date": "2020-01-25",
+   "html_url": "/ml/aqeedah/those-who-cherish-sufism-20200125-3.html",
+   "md_url": "/ml/aqeedah/those-who-cherish-sufism-20200125-3.md"
+  },
+  {
    "slug": "those-who-make-salawat-a-source-of-income-20191012-11",
    "lang": "ml",
    "category": "aqeedah",
@@ -11858,6 +11869,17 @@
    "issue_date": "2019-06-08",
    "html_url": "/ml/dawah/attaining-allah-s-mercy-20190608-1.html",
    "md_url": "/ml/dawah/attaining-allah-s-mercy-20190608-1.md"
+  },
+  {
+   "slug": "back-pages-of-life-20200125-4",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "ജീവിതത്തിലെ ബാക്ക് പേജുകൾ",
+   "summary": "ജീവിതത്തിലെ തെറ്റുകുറ്റങ്ങളെ 'ബാക്ക് പേപ്പറുകൾ' എന്ന് വിശേഷിപ്പിച്ച്, അവ തിരുത്താനും അല്ലാഹുവിലേക്ക് മടങ്ങാനും ലഭിക്കുന്ന അവസരങ്ങളെക്കുറിച്ച് ഓർമ്മിപ്പിക്കുന്ന ലേഖനം.",
+   "author": "അബൂഫഹാൻ, ആലത്തിയൂർ",
+   "issue_date": "2020-01-25",
+   "html_url": "/ml/dawah/back-pages-of-life-20200125-4.html",
+   "md_url": "/ml/dawah/back-pages-of-life-20200125-4.md"
   },
   {
    "slug": "barakah-20181201-1",
@@ -12144,6 +12166,17 @@
    "issue_date": "2019-01-26",
    "html_url": "/ml/dawah/do-not-make-humiliation-an-ornament-20190126-1.html",
    "md_url": "/ml/dawah/do-not-make-humiliation-an-ornament-20190126-1.md"
+  },
+  {
+   "slug": "do-not-perish-by-being-hasty-20200125-5",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "ദ്യുതികാനിച്ച് നശിക്കരുത്",
+   "summary": "കാര്യങ്ങളിൽ ധൃതി കാണിക്കുന്നത് മനുഷ്യന്റെ വീഴ്ചയ്ക്ക് കാരണമാകുമെന്ന് ഓർമ്മിപ്പിക്കുന്ന ലേഖനം. നമസ്കാരം, പ്രാർത്ഥന, വാർത്തകൾ കൈകാര്യം ചെയ്യൽ തുടങ്ങിയ വിഷയങ്ങളിൽ അവധാനത പാലിക്കേണ്ടതിന്റെ പ്രാധാന്യം ഇത് വിശദീകരിക്കുന്നു.",
+   "author": "മുഹമ്മദ് സ്യാദിബ് മദീനി",
+   "issue_date": "2020-01-25",
+   "html_url": "/ml/dawah/do-not-perish-by-being-hasty-20200125-5.html",
+   "md_url": "/ml/dawah/do-not-perish-by-being-hasty-20200125-5.md"
   },
   {
    "slug": "do-not-waver-in-trials-20170121-9",
@@ -12562,6 +12595,17 @@
    "issue_date": "2019-10-19",
    "html_url": "/ml/dawah/leadership-is-not-an-ornament-20191019-7.html",
    "md_url": "/ml/dawah/leadership-is-not-an-ornament-20191019-7.md"
+  },
+  {
+   "slug": "learn-to-love-not-to-hate-20200125-2",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "വെറുക്കുവാനല്ല; സ്നേഹിക്കുവാൻ ശീലിക്കുക",
+   "summary": "മുസ്‌ലിംകൾ വെറുപ്പിന് പകരം സ്നേഹം പ്രചരിപ്പിക്കേണ്ടതിന്റെ ആവശ്യകതയെക്കുറിച്ചുള്ള മുഖലേഖനം. പുഞ്ചിരിയും നല്ല പെരുമാറ്റവും ഇസ്‌ലാമിക ജീവിതത്തിന്റെ ഭാഗമാണെന്ന് ഇത് ഓർമ്മിപ്പിക്കുന്നു.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2020-01-25",
+   "html_url": "/ml/dawah/learn-to-love-not-to-hate-20200125-2.html",
+   "md_url": "/ml/dawah/learn-to-love-not-to-hate-20200125-2.md"
   },
   {
    "slug": "let-us-be-grateful-for-blessings-20200111-8",
@@ -14256,6 +14300,17 @@
    "issue_date": "2019-03-23",
    "html_url": "/ml/family/forgotten-in-the-heat-of-exams-20190323-6.html",
    "md_url": "/ml/family/forgotten-in-the-heat-of-exams-20190323-6.md"
+  },
+  {
+   "slug": "friendship-20200125-6",
+   "lang": "ml",
+   "category": "family",
+   "title": "ചങ്ങാത്തം",
+   "summary": "ഇസ്‌ലാം പഠിപ്പിക്കുന്ന ഉത്തമ സ്വഭാവങ്ങളിൽ ഒന്നായ സൗഹൃദത്തെയും ഐക്യത്തെയും കുറിച്ചുള്ള ലേഖനം. വിശ്വാസികൾ തമ്മിലുള്ള ബാധ്യതകളെയും സലാം വ്യാപിപ്പിക്കേണ്ടതിന്റെ പ്രാധാന്യത്തെയും ഇത് വിവരിക്കുന്നു.",
+   "author": "അബ്ദുൽ ജബ്ബാർ മദീനി",
+   "issue_date": "2020-01-25",
+   "html_url": "/ml/family/friendship-20200125-6.html",
+   "md_url": "/ml/family/friendship-20200125-6.md"
   },
   {
    "slug": "give-today-for-tomorrow-20190615-10",
@@ -18108,6 +18163,17 @@
    "md_url": "/ml/opinion/the-palestine-issue-and-india-s-changing-stance-20190629-7.md"
   },
   {
+   "slug": "the-place-of-those-who-forgot-history-is-in-the-dustbin-of-h-20200125-1",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "ചരിത്രം മറന്നവരുടെ ഇടം ചരിത്രത്തിന്റെ ചവറ്റുകുനയിൽ!",
+   "summary": "ഇന്ത്യയിൽ നടക്കുന്ന പൗരത്വ ഭേദഗതി നിയമത്തിനെതിരായ പ്രതിഷേധങ്ങളെയും ഭരണകൂടത്തിന്റെ നിലപാടുകളെയും വിശകലനം ചെയ്യുന്ന ലേഖനം. ചരിത്രപരമായ പശ്ചാത്തലത്തിൽ രാജ്യത്തിന്റെ മതേതര മൂല്യങ്ങളെ സംരക്ഷിക്കേണ്ടതിന്റെ ആവശ്യകതയെക്കുറിച്ച് ഇത് ചർച്ച ചെയ്യുന്നു.",
+   "author": "ഡോ. സി.മുഹമ്മദ് റാഫി ചെമ്പ്ര",
+   "issue_date": "2020-01-25",
+   "html_url": "/ml/opinion/the-place-of-those-who-forgot-history-is-in-the-dustbin-of-h-20200125-1.html",
+   "md_url": "/ml/opinion/the-place-of-those-who-forgot-history-is-in-the-dustbin-of-h-20200125-1.md"
+  },
+  {
    "slug": "the-politics-of-conversion-and-denial-of-rights-20181020-4",
    "lang": "ml",
    "category": "opinion",
@@ -18713,6 +18779,17 @@
    "md_url": "/ml/quran/al-muddaththir-the-one-wrapped-20190803-2.md"
   },
   {
+   "slug": "al-mulk-the-sovereignty-20200125-8",
+   "lang": "ml",
+   "category": "quran",
+   "title": "മുൽക് (ആധിപത്യം)",
+   "summary": "വിശുദ്ധ ഖുർആനിലെ 67-ാം അധ്യായമായ സൂറത്തുൽ മുൽക്കിന്റെ ലളിതമായ വ്യാഖ്യാനം. അല്ലാഹുവിന്റെ ആധിപത്യത്തെയും സൃഷ്ടിപ്പിനെയും കുറിച്ചുള്ള വചനങ്ങളുടെ വിശദീകരണം.",
+   "author": "അബ്ദുറഹ്മാൻ നാസിർ അസ്സഅദി",
+   "issue_date": "2020-01-25",
+   "html_url": "/ml/quran/al-mulk-the-sovereignty-20200125-8.html",
+   "md_url": "/ml/quran/al-mulk-the-sovereignty-20200125-8.md"
+  },
+  {
    "slug": "al-mutaffifin-part-2-20190119-8",
    "lang": "ml",
    "category": "quran",
@@ -19052,6 +19129,17 @@
    "issue_date": "2019-10-05",
    "html_url": "/ml/quran/qul-uhiya-ilayya-tafsir-surah-al-jinn-20191005-1.html",
    "md_url": "/ml/quran/qul-uhiya-ilayya-tafsir-surah-al-jinn-20191005-1.md"
+  },
+  {
+   "slug": "quran-is-guidance-for-mankind-20200125-9",
+   "lang": "ml",
+   "category": "quran",
+   "title": "ഖുർആൻ മാനവർക്ക് മാർഗദർശനം",
+   "summary": "വിശുദ്ധ ഖുർആൻ മനുഷ്യർക്ക് നൽകുന്ന സന്ദേശങ്ങളെയും മുന്നറിയിപ്പുകളെയും കുറിച്ചുള്ള ലേഖനം. സ്രഷ്ടാവിന്റെ സന്ദേശം എന്ന നിലയിൽ ഖുർആനിനെ സമീപിക്കേണ്ട രീതിയെക്കുറിച്ച് ഇത് ചർച്ച ചെയ്യുന്നു.",
+   "author": "സിറാജുൽ ഇസ്ലാം ബാലുശ്ശേരി",
+   "issue_date": "2020-01-25",
+   "html_url": "/ml/quran/quran-is-guidance-for-mankind-20200125-9.html",
+   "md_url": "/ml/quran/quran-is-guidance-for-mankind-20200125-9.md"
   },
   {
    "slug": "quranic-translation-a-bird-s-eye-view-20180915-10",
@@ -22242,6 +22330,17 @@
    "issue_date": "2018-07-14",
    "html_url": "/ml/youth/four-children-s-poems-20180714-3.html",
    "md_url": "/ml/youth/four-children-s-poems-20180714-3.md"
+  },
+  {
+   "slug": "learn-history-create-history-20200125-7",
+   "lang": "ml",
+   "category": "youth",
+   "title": "ചരിത്രം പഠിക്കുക, ചരിത്രം രചിക്കുക",
+   "summary": "പൗരത്വ ഭേദഗതി നിയമത്തിനെതിരെ വിദ്യാർത്ഥികൾ നടത്തുന്ന സമരങ്ങളെയും അവരുടെ പോരാട്ടവീര്യത്തെയും പ്രകീർത്തിക്കുന്ന ലേഖനം. ചരിത്രത്തിൽ വിദ്യാർത്ഥികൾക്ക് വലിയ പങ്കുണ്ടെന്ന് ഇത് ഓർമ്മിപ്പിക്കുന്നു.",
+   "author": "അർഷദ് താനൂർ",
+   "issue_date": "2020-01-25",
+   "html_url": "/ml/youth/learn-history-create-history-20200125-7.html",
+   "md_url": "/ml/youth/learn-history-create-history-20200125-7.md"
   },
   {
    "slug": "little-ants-20191019-9",
