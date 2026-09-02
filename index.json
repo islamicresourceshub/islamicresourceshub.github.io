@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-02T09:03:59.131270+00:00",
+ "generated_at": "2026-09-02T09:04:24.058069+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3080,
+ "count": 3081,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -28501,6 +28501,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/sw/dawah/religion-is-fearlessness-20170114-6.html",
    "md_url": "/sw/dawah/religion-is-fearlessness-20170114-6.md"
+  },
+  {
+   "slug": "religious-preachers-must-be-exemplary-20170204-6",
+   "lang": "sw",
+   "category": "dawah",
+   "title": "Wanaohubiri dini wanapaswa kuwa kielelezo chema",
+   "summary": "Makala hii inaeleza kuwa tangu zama za Nabii Adam (amani iwe juu yake), Mwenyezi Mungu amekuwa akituma Mitume ili kuhubiri dini yake. Inasisitiza umuhimu wa wahubiri wa dini kuwa vielelezo vyema, ikibainisha kuwa maisha ya kuigwa ni muhimu kwa mafanikio ya kazi ya da'wah.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2017-02-04",
+   "html_url": "/sw/dawah/religious-preachers-must-be-exemplary-20170204-6.html",
+   "md_url": "/sw/dawah/religious-preachers-must-be-exemplary-20170204-6.md"
   },
   {
    "slug": "showing-the-light-is-the-duty-of-scholars-20170121-14",
