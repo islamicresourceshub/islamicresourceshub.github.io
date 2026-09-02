@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-02T09:25:54.095388+00:00",
+ "generated_at": "2026-09-02T09:26:28.170905+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3148,
+ "count": 3149,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -374,6 +374,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/am/dawah/the-religion-that-rejects-terrorism-part-1-20170121-12.html",
    "md_url": "/am/dawah/the-religion-that-rejects-terrorism-part-1-20170121-12.md"
+  },
+  {
+   "slug": "unity-ideology-and-movement-20170211-2",
+   "lang": "am",
+   "category": "dawah",
+   "title": "አንድነት፣ መርህ እና ንቅናቄ",
+   "summary": "ይህ መጣጥፍ ለዓለም ሰላም ስጋት የሆነውን አሸባሪነት ለመከላከል እስላማዊ ንቅናቄዎች እንዴት አንድ መሆን እንዳለባቸው ይዳስሳል። የርዕዮተ ዓለም ስምምነት ለዚህ አንድነት ወሳኝ መሆኑን አበክሮ ያሳያል።",
+   "author": "ടി.കെ.അശ്‌റഫ്",
+   "issue_date": "2017-02-11",
+   "html_url": "/am/dawah/unity-ideology-and-movement-20170211-2.html",
+   "md_url": "/am/dawah/unity-ideology-and-movement-20170211-2.md"
   },
   {
    "slug": "children-an-islamic-reading-part-4-20170204-5",
