@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-02T09:24:33.009071+00:00",
+ "generated_at": "2026-09-02T09:25:00.516973+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3145,
+ "count": 3146,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -33385,6 +33385,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/uz/opinion/everyone-should-have-a-beard-20170121-3.html",
    "md_url": "/uz/opinion/everyone-should-have-a-beard-20170121-3.md"
+  },
+  {
+   "slug": "freedom-of-speech-should-not-be-one-sided-20170211-1",
+   "lang": "uz",
+   "category": "opinion",
+   "title": "So‘z erkinligi bir tomonlama bo‘lmasligi kerak",
+   "summary": "Ushbu maqola davlat tomonidan fuqarolarning so‘z erkinligini bostirilishini tanqid qiladi. Unda demokratik jamiyatda qarama-qarshi fikrlarni bildirish huquqi muhokama qilinadi.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2017-02-11",
+   "html_url": "/uz/opinion/freedom-of-speech-should-not-be-one-sided-20170211-1.html",
+   "md_url": "/uz/opinion/freedom-of-speech-should-not-be-one-sided-20170211-1.md"
   },
   {
    "slug": "hajj-subsidy-before-putting-the-muslim-community-in-the-dock-20170128-3",
