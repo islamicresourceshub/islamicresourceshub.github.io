@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-03T09:29:42.664499+00:00",
+ "generated_at": "2026-09-03T09:30:09.230476+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3329,
+ "count": 3330,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -5896,6 +5896,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/fa/youth/an-agenda-is-needed-during-vacation-too-20170325-1.html",
    "md_url": "/fa/youth/an-agenda-is-needed-during-vacation-too-20170325-1.md"
+  },
+  {
+   "slug": "e-ahamed-s-message-to-the-youth-20170211-5",
+   "lang": "fa",
+   "category": "youth",
+   "title": "پیام ای. احمد به نسل جوان",
+   "summary": "این مقاله به بررسی دیدگاه‌های زندگی و توصیه‌های ای. احمد، سیاستمدار برجسته، به نسل جوان می‌پردازد. او در این نوشتار بر اهمیت زندگی پرکار و خدمت به خلق تأکید می‌کند.",
+   "author": "ഡോ. സി.എം സാബിര്‍ നവാസ്",
+   "issue_date": "2017-02-11",
+   "html_url": "/fa/youth/e-ahamed-s-message-to-the-youth-20170211-5.html",
+   "md_url": "/fa/youth/e-ahamed-s-message-to-the-youth-20170211-5.md"
   },
   {
    "slug": "what-will-the-waste-do-20170114-5",
