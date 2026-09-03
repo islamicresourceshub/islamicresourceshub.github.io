@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-03T10:03:18.147141+00:00",
+ "generated_at": "2026-09-03T10:03:50.322544+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3408,
+ "count": 3409,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -24662,6 +24662,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/mr/fiqh/mosque-construction-some-points-to-note-20170325-5.html",
    "md_url": "/mr/fiqh/mosque-construction-some-points-to-note-20170325-5.md"
+  },
+  {
+   "slug": "the-alcoholic-father-20170211-7",
+   "lang": "mr",
+   "category": "fiqh",
+   "title": "मद्यपी पिता",
+   "summary": "मद्यपी वडिलांना मुलगा जो पैसा देतो, त्या पैशातून ते दारू विकत घेतात. अशा परिस्थितीत मुलाने पैसे देणे योग्य आहे का, या फिकहच्या प्रश्नाचे उत्तर येथे दिले आहे.",
+   "author": "ഹാരിസ്ബിന്‍ സലീം",
+   "issue_date": "2017-02-11",
+   "html_url": "/mr/fiqh/the-alcoholic-father-20170211-7.html",
+   "md_url": "/mr/fiqh/the-alcoholic-father-20170211-7.md"
   },
   {
    "slug": "control-your-mind-20170325-3",
