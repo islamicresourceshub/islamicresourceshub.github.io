@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-03T09:08:06.544122+00:00",
+ "generated_at": "2026-09-03T09:08:40.333417+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3312,
+ "count": 3313,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -31614,6 +31614,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/ta/quran/what-to-beware-of-when-taking-sides-20170128-7.html",
    "md_url": "/ta/quran/what-to-beware-of-when-taking-sides-20170128-7.md"
+  },
+  {
+   "slug": "ibn-abbas-ra-a-scholar-of-knowledge-20170211-4",
+   "lang": "ta",
+   "category": "seerah",
+   "title": "அறிவை வாழ்வின் மூலம் வெளிப்படுத்திய இப்னு அப்பாஸ் (ரலி)",
+   "summary": "அறிவின் ஊற்றாகத் திகழ்ந்த இப்னு அப்பாஸ் (ரலி) அவர்களின் வாழ்க்கை வரலாற்றையும், அவர் கல்விக்கு அளித்த முக்கியத்துவத்தையும் இந்த கட்டுரை விவரிக்கிறது. அவரது வாழ்க்கை முறை வாசகர்களுக்கு ஒரு சிறந்த முன்மாதிரியாகும்.",
+   "author": "അര്‍ഷദ് താനൂര്‍",
+   "issue_date": "2017-02-11",
+   "html_url": "/ta/seerah/ibn-abbas-ra-a-scholar-of-knowledge-20170211-4.html",
+   "md_url": "/ta/seerah/ibn-abbas-ra-a-scholar-of-knowledge-20170211-4.md"
   },
   {
    "slug": "prophets-and-trials-20170325-7",
