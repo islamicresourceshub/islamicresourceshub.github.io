@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-03T08:37:39.406202+00:00",
+ "generated_at": "2026-09-03T08:38:12.499281+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3278,
+ "count": 3279,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -4444,6 +4444,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/en/quran/what-to-beware-of-when-taking-sides-20170128-7.html",
    "md_url": "/en/quran/what-to-beware-of-when-taking-sides-20170128-7.md"
+  },
+  {
+   "slug": "ibn-abbas-ra-a-scholar-of-knowledge-20170211-4",
+   "lang": "en",
+   "category": "seerah",
+   "title": "Ibn Abbas (ra): A Scholar Who Embodied Knowledge in His Life",
+   "summary": "This article explores the life of Ibn Abbas (ra), a fountainhead of knowledge, and the immense importance he placed on learning. His history serves as a profound model for readers today.",
+   "author": "അര്‍ഷദ് താനൂര്‍",
+   "issue_date": "2017-02-11",
+   "html_url": "/en/seerah/ibn-abbas-ra-a-scholar-of-knowledge-20170211-4.html",
+   "md_url": "/en/seerah/ibn-abbas-ra-a-scholar-of-knowledge-20170211-4.md"
   },
   {
    "slug": "prophets-and-trials-20170325-7",
