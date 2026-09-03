@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-03T09:48:16.463506+00:00",
+ "generated_at": "2026-09-03T09:48:53.443547+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3380,
+ "count": 3381,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -37389,6 +37389,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/zh/youth/an-agenda-is-needed-during-vacation-too-20170325-1.html",
    "md_url": "/zh/youth/an-agenda-is-needed-during-vacation-too-20170325-1.md"
+  },
+  {
+   "slug": "e-ahamed-s-message-to-the-youth-20170211-5",
+   "lang": "zh",
+   "category": "youth",
+   "title": "E. 阿赫迈德给年轻一代的寄语",
+   "summary": "本文探讨了 E. 阿赫迈德先生的人生观及其对年轻一代的教诲，强调了投身社会服务与勤奋工作的重要性。",
+   "author": "ഡോ. സി.എം സാബിര്‍ നവാസ്",
+   "issue_date": "2017-02-11",
+   "html_url": "/zh/youth/e-ahamed-s-message-to-the-youth-20170211-5.html",
+   "md_url": "/zh/youth/e-ahamed-s-message-to-the-youth-20170211-5.md"
   },
   {
    "slug": "what-will-the-waste-do-20170114-5",
