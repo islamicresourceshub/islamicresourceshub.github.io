@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-03T09:56:33.754195+00:00",
+ "generated_at": "2026-09-03T09:56:49.913942+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3402,
+ "count": 3403,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -8217,6 +8217,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/hi/fiqh/mosque-construction-some-points-to-note-20170325-5.html",
    "md_url": "/hi/fiqh/mosque-construction-some-points-to-note-20170325-5.md"
+  },
+  {
+   "slug": "the-alcoholic-father-20170211-7",
+   "lang": "hi",
+   "category": "fiqh",
+   "title": "शराबी पिता",
+   "summary": "यह लेख एक ऐसे बेटे के सवाल का जवाब देता है जो अपने शराबी पिता को घर के खर्च के लिए पैसे भेजता है, लेकिन उसे डर है कि पिता उन पैसों का उपयोग शराब खरीदने में करते हैं। इसमें इस्लामी दृष्टिकोण से इस स्थिति को संभालने और पिता को सुधारने के तरीकों पर चर्चा की गई है।",
+   "author": "ഹാരിസ്ബിന്‍ സലീം",
+   "issue_date": "2017-02-11",
+   "html_url": "/hi/fiqh/the-alcoholic-father-20170211-7.html",
+   "md_url": "/hi/fiqh/the-alcoholic-father-20170211-7.md"
   },
   {
    "slug": "control-your-mind-20170325-3",
