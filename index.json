@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-03T09:05:44.897376+00:00",
+ "generated_at": "2026-09-03T09:06:04.570593+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3307,
+ "count": 3308,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -28523,6 +28523,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/ru/quran/what-to-beware-of-when-taking-sides-20170128-7.html",
    "md_url": "/ru/quran/what-to-beware-of-when-taking-sides-20170128-7.md"
+  },
+  {
+   "slug": "ibn-abbas-ra-a-scholar-of-knowledge-20170211-4",
+   "lang": "ru",
+   "category": "seerah",
+   "title": "Ибн Аббас (да будет доволен им Аллах): воплощение знаний в жизни",
+   "summary": "Эта статья рассказывает о жизни Ибн Аббаса (да будет доволен им Аллах), который был величайшим знатоком исламских наук, и о том, какое огромное значение он придавал приобретению знаний. Его биография служит прекрасным примером для каждого верующего.",
+   "author": "അര്‍ഷദ് താനൂര്‍",
+   "issue_date": "2017-02-11",
+   "html_url": "/ru/seerah/ibn-abbas-ra-a-scholar-of-knowledge-20170211-4.html",
+   "md_url": "/ru/seerah/ibn-abbas-ra-a-scholar-of-knowledge-20170211-4.md"
   },
   {
    "slug": "prophets-and-trials-20170325-7",
