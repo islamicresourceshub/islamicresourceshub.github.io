@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-03T09:14:35.292552+00:00",
+ "generated_at": "2026-09-03T09:15:40.933874+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3314,
+ "count": 3315,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -32857,6 +32857,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/th/quran/what-to-beware-of-when-taking-sides-20170128-7.html",
    "md_url": "/th/quran/what-to-beware-of-when-taking-sides-20170128-7.md"
+  },
+  {
+   "slug": "ibn-abbas-ra-a-scholar-of-knowledge-20170211-4",
+   "lang": "th",
+   "category": "seerah",
+   "title": "อิบนุ อับบาส (ร.ฎ.) ผู้แสดงให้เห็นถึงความรู้ผ่านการดำเนินชีวิต",
+   "summary": "บทความนี้บอกเล่าเรื่องราวชีวิตของอิบนุ อับบาส (ร.ฎ.) ผู้เปรียบเสมือนคลังแห่งความรู้ และความสำคัญที่ท่านมอบให้กับวิชาการ ชีวิตของท่านถือเป็นแบบอย่างอันยิ่งใหญ่สำหรับผู้อ่านทุกคน",
+   "author": "അര്‍ഷദ് താനൂര്‍",
+   "issue_date": "2017-02-11",
+   "html_url": "/th/seerah/ibn-abbas-ra-a-scholar-of-knowledge-20170211-4.html",
+   "md_url": "/th/seerah/ibn-abbas-ra-a-scholar-of-knowledge-20170211-4.md"
   },
   {
    "slug": "prophets-and-trials-20170325-7",
