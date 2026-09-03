@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-03T08:35:36.757297+00:00",
+ "generated_at": "2026-09-03T08:36:10.830301+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3274,
+ "count": 3275,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -1958,6 +1958,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/as/quran/what-to-beware-of-when-taking-sides-20170128-7.html",
    "md_url": "/as/quran/what-to-beware-of-when-taking-sides-20170128-7.md"
+  },
+  {
+   "slug": "ibn-abbas-ra-a-scholar-of-knowledge-20170211-4",
+   "lang": "as",
+   "category": "seerah",
+   "title": "জ্ঞানৰ জৰিয়তে জীৱন গঢ়া ইবনে আব্বাছ (ৰঃ)",
+   "summary": "জ্ঞানৰ ভঁৰাল স্বৰূপ ইবনে আব্বাছ (ৰঃ)-ৰ জীৱন আৰু তেওঁ জ্ঞানৰ প্ৰতি প্ৰদৰ্শন কৰা গুৰুত্ব এই প্ৰবন্ধত বৰ্ণনা কৰা হৈছে। তেওঁৰ জীৱনচৰিত আমাৰ সকলোৰে বাবে এক মহান আদৰ্শ।",
+   "author": "അര്‍ഷദ് താനൂര്‍",
+   "issue_date": "2017-02-11",
+   "html_url": "/as/seerah/ibn-abbas-ra-a-scholar-of-knowledge-20170211-4.html",
+   "md_url": "/as/seerah/ibn-abbas-ra-a-scholar-of-knowledge-20170211-4.md"
   },
   {
    "slug": "prophets-and-trials-20170325-7",
