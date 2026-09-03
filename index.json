@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-03T12:15:53.282390+00:00",
+ "generated_at": "2026-09-03T12:22:44.001864+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3535,
+ "count": 3536,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -33957,6 +33957,17 @@
    "issue_date": "2017-02-04",
    "html_url": "/te/dawah/religious-preachers-must-be-exemplary-20170204-6.html",
    "md_url": "/te/dawah/religious-preachers-must-be-exemplary-20170204-6.md"
+  },
+  {
+   "slug": "seeking-truth-is-not-a-crime-20170211-9",
+   "lang": "te",
+   "category": "dawah",
+   "title": "సత్యాన్వేషణ నేరం కాదు",
+   "summary": "మానవుని ప్రాథమిక అవసరాలు మరియు సత్యాన్వేషణ గురించి ఈ వ్యాసం చర్చిస్తుంది. సత్యాన్ని అన్వేషించడం నేరం కాదని, అది మానవ హక్కు అని ఇది నొక్కి చెబుతుంది.",
+   "author": "ഡോ.മീന",
+   "issue_date": "2017-02-11",
+   "html_url": "/te/dawah/seeking-truth-is-not-a-crime-20170211-9.html",
+   "md_url": "/te/dawah/seeking-truth-is-not-a-crime-20170211-9.md"
   },
   {
    "slug": "showing-the-light-is-the-duty-of-scholars-20170121-14",
