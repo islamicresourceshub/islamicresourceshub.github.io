@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-03T08:36:10.830301+00:00",
+ "generated_at": "2026-09-03T08:36:43.081170+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3275,
+ "count": 3276,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -2574,6 +2574,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/bn/quran/what-to-beware-of-when-taking-sides-20170128-7.html",
    "md_url": "/bn/quran/what-to-beware-of-when-taking-sides-20170128-7.md"
+  },
+  {
+   "slug": "ibn-abbas-ra-a-scholar-of-knowledge-20170211-4",
+   "lang": "bn",
+   "category": "seerah",
+   "title": "জ্ঞানের আলোয় জীবন রাঙানো ইবনে আব্বাস (রা.)",
+   "summary": "জ্ঞানের ভাণ্ডার হিসেবে পরিচিত সাহাবি ইবনে আব্বাস (রা.)-এর জীবন এবং জ্ঞানের প্রতি তাঁর গভীর অনুরাগ এই নিবন্ধে তুলে ধরা হয়েছে। তাঁর জীবনচরিত আমাদের জন্য এক অনন্য আদর্শ।",
+   "author": "അര്‍ഷദ് താനൂര്‍",
+   "issue_date": "2017-02-11",
+   "html_url": "/bn/seerah/ibn-abbas-ra-a-scholar-of-knowledge-20170211-4.html",
+   "md_url": "/bn/seerah/ibn-abbas-ra-a-scholar-of-knowledge-20170211-4.md"
   },
   {
    "slug": "prophets-and-trials-20170325-7",
