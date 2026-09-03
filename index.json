@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-03T09:06:36.194789+00:00",
+ "generated_at": "2026-09-03T09:07:10.543173+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3309,
+ "count": 3310,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -29766,6 +29766,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/so/quran/what-to-beware-of-when-taking-sides-20170128-7.html",
    "md_url": "/so/quran/what-to-beware-of-when-taking-sides-20170128-7.md"
+  },
+  {
+   "slug": "ibn-abbas-ra-a-scholar-of-knowledge-20170211-4",
+   "lang": "so",
+   "category": "seerah",
+   "title": "Ibn Cabbaas (RC) oo aqoontiisa ku muujiyay noloshiisa",
+   "summary": "Maqaalkani wuxuu ka hadlayaa noloshii Ibn Cabbaas (RC) oo ahaa badweyn aqooneed, iyo muhiimadda uu aqoonta siin jiray. Taariikhdiisu waa tusaale weyn oo ay tahay inaan ku dayanno.",
+   "author": "അര്‍ഷദ് താനൂര്‍",
+   "issue_date": "2017-02-11",
+   "html_url": "/so/seerah/ibn-abbas-ra-a-scholar-of-knowledge-20170211-4.html",
+   "md_url": "/so/seerah/ibn-abbas-ra-a-scholar-of-knowledge-20170211-4.md"
   },
   {
    "slug": "prophets-and-trials-20170325-7",
