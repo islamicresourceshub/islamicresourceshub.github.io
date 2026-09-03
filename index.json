@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-03T08:41:55.901863+00:00",
+ "generated_at": "2026-09-03T08:51:35.024029+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3285,
+ "count": 3286,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -8811,6 +8811,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/id/quran/what-to-beware-of-when-taking-sides-20170128-7.html",
    "md_url": "/id/quran/what-to-beware-of-when-taking-sides-20170128-7.md"
+  },
+  {
+   "slug": "ibn-abbas-ra-a-scholar-of-knowledge-20170211-4",
+   "lang": "id",
+   "category": "seerah",
+   "title": "Ibnu Abbas (ra), Sosok yang Mewujudkan Ilmu dalam Kehidupan",
+   "summary": "Artikel ini mengulas kehidupan Ibnu Abbas (ra), seorang sahabat Nabi yang dikenal sebagai samudera ilmu. Kisah hidupnya menjadi teladan luar biasa bagi kita dalam memandang pentingnya menuntut ilmu dan adab terhadap para ulama.",
+   "author": "അര്‍ഷദ് താനൂര്‍",
+   "issue_date": "2017-02-11",
+   "html_url": "/id/seerah/ibn-abbas-ra-a-scholar-of-knowledge-20170211-4.html",
+   "md_url": "/id/seerah/ibn-abbas-ra-a-scholar-of-knowledge-20170211-4.md"
   },
   {
    "slug": "prophets-and-trials-20170325-7",
