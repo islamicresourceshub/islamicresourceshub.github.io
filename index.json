@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-03T09:07:37.241771+00:00",
+ "generated_at": "2026-09-03T09:08:06.544122+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3311,
+ "count": 3312,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -31009,6 +31009,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/sw/quran/what-to-beware-of-when-taking-sides-20170128-7.html",
    "md_url": "/sw/quran/what-to-beware-of-when-taking-sides-20170128-7.md"
+  },
+  {
+   "slug": "ibn-abbas-ra-a-scholar-of-knowledge-20170211-4",
+   "lang": "sw",
+   "category": "seerah",
+   "title": "Ibn Abbas (RA): Mwanachuoni aliyeishi elimu yake",
+   "summary": "Makala hii inaelezea maisha ya Ibn Abbas (RA), ambaye alikuwa hazina ya elimu, na jinsi alivyotoa kipaumbele kikubwa kwa elimu. Historia yake ni mfano bora kwa wasomaji wote.",
+   "author": "അര്‍ഷദ് താനൂര്‍",
+   "issue_date": "2017-02-11",
+   "html_url": "/sw/seerah/ibn-abbas-ra-a-scholar-of-knowledge-20170211-4.html",
+   "md_url": "/sw/seerah/ibn-abbas-ra-a-scholar-of-knowledge-20170211-4.md"
   },
   {
    "slug": "prophets-and-trials-20170325-7",
