@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-03T08:37:07.400895+00:00",
+ "generated_at": "2026-09-03T08:37:39.406202+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3277,
+ "count": 3278,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -3828,6 +3828,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/de/quran/what-to-beware-of-when-taking-sides-20170128-7.html",
    "md_url": "/de/quran/what-to-beware-of-when-taking-sides-20170128-7.md"
+  },
+  {
+   "slug": "ibn-abbas-ra-a-scholar-of-knowledge-20170211-4",
+   "lang": "de",
+   "category": "seerah",
+   "title": "Ibn Abbas (ra), der das Wissen durch sein Leben verkörperte",
+   "summary": "Dieser Artikel beschreibt das Leben von Ibn Abbas (ra), einem wahren Leuchtturm des Wissens, und die immense Bedeutung, die er der Bildung beimaß. Seine Lebensgeschichte dient als großes Vorbild für alle Suchenden.",
+   "author": "അര്‍ഷദ് താനൂര്‍",
+   "issue_date": "2017-02-11",
+   "html_url": "/de/seerah/ibn-abbas-ra-a-scholar-of-knowledge-20170211-4.html",
+   "md_url": "/de/seerah/ibn-abbas-ra-a-scholar-of-knowledge-20170211-4.md"
   },
   {
    "slug": "prophets-and-trials-20170325-7",
