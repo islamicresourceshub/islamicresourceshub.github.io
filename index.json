@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-03T10:28:04.180558+00:00",
+ "generated_at": "2026-09-03T10:28:23.574532+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3424,
+ "count": 3433,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -12795,6 +12795,17 @@
    "md_url": "/ml/aqeedah/those-who-find-refuge-in-misinterpretations-20200307-10.md"
   },
   {
+   "slug": "those-who-ignore-the-proofs-20200328-7",
+   "lang": "ml",
+   "category": "aqeedah",
+   "title": "പ്രമാണങ്ങളെ അവഗണിക്കുന്നവർ",
+   "summary": "സൂഫിസത്തിലെ ചില ആചാരങ്ങളെ ഇസ്‌ലാമിക പ്രമാണങ്ങളുടെ അടിസ്ഥാനത്തിൽ വിമർശിക്കുന്ന ലേഖന പരമ്പരയുടെ ഭാഗം. ഖുർആനിന്റെയും സുന്നത്തിന്റെയും അടിസ്ഥാനത്തിൽ മാത്രം ആരാധനകൾ നിർവഹിക്കേണ്ടതിന്റെ ആവശ്യകത ഊന്നിപ്പറയുന്നു.",
+   "author": "ശൈഖ് സഅദ് ബിൻ നാസർ അശ്ശത്രീ",
+   "issue_date": "2020-03-28",
+   "html_url": "/ml/aqeedah/those-who-ignore-the-proofs-20200328-7.html",
+   "md_url": "/ml/aqeedah/those-who-ignore-the-proofs-20200328-7.md"
+  },
+  {
    "slug": "those-who-make-salawat-a-source-of-income-20191012-11",
    "lang": "ml",
    "category": "aqeedah",
@@ -12848,6 +12859,17 @@
    "issue_date": "2019-01-12",
    "html_url": "/ml/aqeedah/to-whom-did-they-pray-20190112-2.html",
    "md_url": "/ml/aqeedah/to-whom-did-they-pray-20190112-2.md"
+  },
+  {
+   "slug": "using-the-pandemic-as-a-cover-for-atheism-20200328-5",
+   "lang": "ml",
+   "category": "aqeedah",
+   "title": "മതനിഷേധത്തിന് മഹാമാരിയെ മറയാക്കുകയോ?",
+   "summary": "മഹാമാരിയുടെ കാലത്ത് മതത്തെ പരിഹസിക്കാൻ യുക്തിവാദികൾ ശ്രമിക്കുന്നതിനെ വിമർശിക്കുന്ന ലേഖനം. പ്രതിസന്ധി ഘട്ടങ്ങളിൽ ഇസ്‌ലാം സ്വീകരിക്കുന്ന മനുഷ്യപക്ഷ നിലപാടുകളെയും ആരാധനകളിലെ ഇളവുകളെയും വിശദീകരിക്കുന്നു.",
+   "author": "അബ്ദുൽ മാലിക് സലഫി",
+   "issue_date": "2020-03-28",
+   "html_url": "/ml/aqeedah/using-the-pandemic-as-a-cover-for-atheism-20200328-5.html",
+   "md_url": "/ml/aqeedah/using-the-pandemic-as-a-cover-for-atheism-20200328-5.md"
   },
   {
    "slug": "weighty-deeds-20200314-3",
@@ -13673,6 +13695,17 @@
    "issue_date": "2020-02-15",
    "html_url": "/ml/dawah/how-weak-is-man-20200215-2.html",
    "md_url": "/ml/dawah/how-weak-is-man-20200215-2.md"
+  },
+  {
+   "slug": "humans-we-are-one-20200328-1",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "മനുഷ്യരേ, നാം ഒന്നാണ്",
+   "summary": "മനുഷ്യർക്കിടയിലുള്ള ഭിന്നിപ്പുകൾ സമൂഹത്തിന് ദോഷകരമാണെന്നും, ഐക്യത്തോടെ ജീവിക്കേണ്ടതിന്റെ ആവശ്യകതയെക്കുറിച്ചും ലേഖനം ഓർമ്മിപ്പിക്കുന്നു. ഇസ്‌ലാമിക വീക്ഷണത്തിൽ മനുഷ്യരെല്ലാം തുല്യരാണെന്നും വർഗ്ഗ-വർണ്ണ വിവേചനങ്ങൾ പാടില്ലെന്നും ഖുർആൻ സൂക്തങ്ങളുടെ അടിസ്ഥാനത്തിൽ വിശദീകരിക്കുന്നു.",
+   "author": "ടി.കെ.അഷ്റഫ്",
+   "issue_date": "2020-03-28",
+   "html_url": "/ml/dawah/humans-we-are-one-20200328-1.html",
+   "md_url": "/ml/dawah/humans-we-are-one-20200328-1.md"
   },
   {
    "slug": "humility-20200307-7",
@@ -15303,6 +15336,17 @@
    "md_url": "/ml/dawah/why-profcon-20200314-2.md"
   },
   {
+   "slug": "wisdom-and-patience-20200328-6",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "യുക്തിദീക്ഷയും സഹനശീലവും",
+   "summary": "ജീവിതത്തിൽ ഹിക്മത്ത് (വിവേകം) പാലിക്കേണ്ടതിന്റെയും സഹനശീലം കൈക്കൊള്ളേണ്ടതിന്റെയും പ്രാധാന്യം പ്രവാചക ചരിത്രത്തിലൂടെയും ഖുർആൻ വചനങ്ങളിലൂടെയും ലേഖകൻ വിവരിക്കുന്നു.",
+   "author": "അബ്ദുൽ ജബ്ബാർ മദീനി",
+   "issue_date": "2020-03-28",
+   "html_url": "/ml/dawah/wisdom-and-patience-20200328-6.html",
+   "md_url": "/ml/dawah/wisdom-and-patience-20200328-6.md"
+  },
+  {
    "slug": "wisdom-in-dawah-prophet-s-approach-20191123-8",
    "lang": "ml",
    "category": "dawah",
@@ -15829,6 +15873,17 @@
    "issue_date": "2019-10-19",
    "html_url": "/ml/family/marriage-age-critics-with-biased-glasses-20191019-2.html",
    "md_url": "/ml/family/marriage-age-critics-with-biased-glasses-20191019-2.md"
+  },
+  {
+   "slug": "married-life-what-believers-should-note-20200328-3",
+   "lang": "ml",
+   "category": "family",
+   "title": "ദാമ്പത്യജീവിതം: വിശ്വാസികൾ ശ്രദ്ധിക്കേണ്ടത്",
+   "summary": "ദാമ്പത്യജീവിതം സന്തോഷകരമാക്കാൻ ദമ്പതികൾ ശ്രദ്ധിക്കേണ്ട കാര്യങ്ങളെക്കുറിച്ചുള്ള ലേഖനം. പരസ്പര സഹകരണവും ഇസ്‌ലാമിക മൂല്യങ്ങളും ദാമ്പത്യത്തെ എങ്ങനെ ഊഷ്മളമാക്കുന്നു എന്ന് വിവരിക്കുന്നു.",
+   "author": "മജീദ് ബസ്താക്, കണ്ണൂർ",
+   "issue_date": "2020-03-28",
+   "html_url": "/ml/family/married-life-what-believers-should-note-20200328-3.html",
+   "md_url": "/ml/family/married-life-what-believers-should-note-20200328-3.md"
   },
   {
    "slug": "neglected-parents-20191228-4",
@@ -18603,6 +18658,17 @@
    "md_url": "/ml/opinion/fascism-democracy-secularism-20200321-4.md"
   },
   {
+   "slug": "fascism-democracy-secularism-20200328-2",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "ഫാഷിസം, ജനാധിപത്യം, മതനിരപേക്ഷത",
+   "summary": "ഇന്ത്യയിലെ സമകാലിക രാഷ്ട്രീയ സാഹചര്യങ്ങളെയും ഷഹീൻബാഗ് സമരത്തെയും മുൻനിർത്തി ഫാഷിസത്തെയും ജനാധിപത്യത്തെയും കുറിച്ച് നടത്തുന്ന അഭിമുഖം. ജുഡീഷ്യറിയുടെ നിലപാടുകളും പൊതുബോധത്തിലുണ്ടായ മാറ്റങ്ങളും ഇതിൽ ചർച്ച ചെയ്യുന്നു.",
+   "author": "കെ.ഇ.എൻ കുഞ്ഞഹമ്മദ്, ഡോ. സി. മുഹമ്മദ് റാഫി",
+   "issue_date": "2020-03-28",
+   "html_url": "/ml/opinion/fascism-democracy-secularism-20200328-2.html",
+   "md_url": "/ml/opinion/fascism-democracy-secularism-20200328-2.md"
+  },
+  {
    "slug": "fascism-is-history-repeating-itself-20200208-1",
    "lang": "ml",
    "category": "opinion",
@@ -19393,6 +19459,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/ml/opinion/rohingya-muslims-victims-of-racial-hatred-20170128-10.html",
    "md_url": "/ml/opinion/rohingya-muslims-victims-of-racial-hatred-20170128-10.md"
+  },
+  {
+   "slug": "rulers-who-do-not-listen-to-the-people-20200328-4",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "ജനങ്ങളെ കേൾക്കാത്ത ഭരണാധികാരികൾ",
+   "summary": "ഭരണാധികാരികൾ ജനങ്ങളുടെ ശബ്ദം കേൾക്കാൻ തയ്യാറാകണമെന്നതിന്റെ പ്രാധാന്യം ലിസിപ്രിയ എന്ന പെൺകുട്ടിയുടെ അനുഭവത്തിലൂടെ ലേഖകൻ വ്യക്തമാക്കുന്നു. ജനാധിപത്യത്തിൽ ജനങ്ങളുടെ അഭിപ്രായങ്ങൾക്ക് നൽകേണ്ട പരിഗണനയെക്കുറിച്ച് ചർച്ച ചെയ്യുന്നു.",
+   "author": "നബീൽ പയ്യോളി",
+   "issue_date": "2020-03-28",
+   "html_url": "/ml/opinion/rulers-who-do-not-listen-to-the-people-20200328-4.html",
+   "md_url": "/ml/opinion/rulers-who-do-not-listen-to-the-people-20200328-4.md"
   },
   {
    "slug": "salafi-preaching-a-theoretical-analysis-20170121-10",
@@ -20878,6 +20955,17 @@
    "issue_date": "2018-09-15",
    "html_url": "/ml/quran/quranic-translation-a-bird-s-eye-view-20180915-10.html",
    "md_url": "/ml/quran/quranic-translation-a-bird-s-eye-view-20180915-10.md"
+  },
+  {
+   "slug": "quranic-vision-divorce-20200328-8",
+   "lang": "ml",
+   "category": "quran",
+   "title": "ഖുർആൻ ദർശനം: ത്വലാഖ്",
+   "summary": "വിവാഹമോചനവുമായി ബന്ധപ്പെട്ട ഖുർആൻ സൂക്തങ്ങളുടെ തഫ്‌സീർ. ഇദ്ദ, ചെലവ് നൽകൽ, കുട്ടികളുടെ സംരക്ഷണം തുടങ്ങിയ വിഷയങ്ങളിൽ ഇസ്‌ലാം നൽകുന്ന നിർദ്ദേശങ്ങൾ വിശദീകരിക്കുന്നു.",
+   "author": "അബ്ദുറഹ്മാൻ നാസിർ അസ്സഅദി",
+   "issue_date": "2020-03-28",
+   "html_url": "/ml/quran/quranic-vision-divorce-20200328-8.html",
+   "md_url": "/ml/quran/quranic-vision-divorce-20200328-8.md"
   },
   {
    "slug": "quranic-vision-of-life-purification-20181117-2",
@@ -23573,6 +23661,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/ml/story/sugar-like-gold-dust-20170128-11.html",
    "md_url": "/ml/story/sugar-like-gold-dust-20170128-11.md"
+  },
+  {
+   "slug": "summer-vacation-with-the-smell-of-cashew-fruit-20200328-9",
+   "lang": "ml",
+   "category": "story",
+   "title": "പറങ്കിമാങ്ങാമണമുള്ള വേനലവധിക്കാലം",
+   "summary": "തന്റെ കുട്ടിക്കാലത്തെ വേനലവധിക്കാല ഓർമ്മകളെക്കുറിച്ചുള്ള ഒരു ലഘു വിവരണം. ഗ്രാമീണ ജീവിതത്തിലെ കളികളും അനുഭവങ്ങളും ഇതിൽ പങ്കുവെക്കുന്നു.",
+   "author": "ഇബ്നു അലി എടത്തനാട്ടുകര",
+   "issue_date": "2020-03-28",
+   "html_url": "/ml/story/summer-vacation-with-the-smell-of-cashew-fruit-20200328-9.html",
+   "md_url": "/ml/story/summer-vacation-with-the-smell-of-cashew-fruit-20200328-9.md"
   },
   {
    "slug": "tears-of-repentance-20190608-6",
