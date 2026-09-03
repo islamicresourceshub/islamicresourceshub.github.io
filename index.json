@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-03T11:07:59.957333+00:00",
+ "generated_at": "2026-09-03T11:08:19.950106+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3453,
+ "count": 3462,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -12597,6 +12597,17 @@
    "md_url": "/ml/aqeedah/misguided-grave-visits-20180901-5.md"
   },
   {
+   "slug": "modesty-20200404-6",
+   "lang": "ml",
+   "category": "aqeedah",
+   "title": "ലജ്ജാശീലം",
+   "summary": "ഇസ്‌ലാം പഠിപ്പിക്കുന്ന ഉത്തമ സ്വഭാവങ്ങളിൽ ഒന്നായ ലജ്ജയുടെ (ഹയാഅ്) പ്രാധാന്യത്തെക്കുറിച്ചും അത് വിശ്വാസത്തിന്റെ ഭാഗമാണെന്നും ഖുർആൻ-സുന്നത്ത് പ്രമാണങ്ങളുടെ അടിസ്ഥാനത്തിൽ വിശദീകരിക്കുന്നു.",
+   "author": "അബ്ദുൽ ജബ്ബാർ മദീനി",
+   "issue_date": "2020-04-04",
+   "html_url": "/ml/aqeedah/modesty-20200404-6.html",
+   "md_url": "/ml/aqeedah/modesty-20200404-6.md"
+  },
+  {
    "slug": "mujahids-with-aadhaar-and-samastha-without-foundation-20180721-3",
    "lang": "ml",
    "category": "aqeedah",
@@ -13807,6 +13818,17 @@
    "md_url": "/ml/dawah/governance-and-leadership-is-a-responsibility-20191026-1.md"
   },
   {
+   "slug": "great-lessons-from-the-pandemic-20200404-1",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "മഹാമാരി നൽകുന്ന മഹാപാഠങ്ങൾ",
+   "summary": "കോവിഡ് 19 മഹാമാരി മനുഷ്യന്റെ ദുർബലതയെയും ശാസ്ത്രപുരോഗതിയുടെ പരിമിതികളെയും ഓർമ്മിപ്പിക്കുന്നു. പ്രകൃതിയിലെ മാറ്റങ്ങളും മനുഷ്യന്റെ ഇടപെടലുകളും ഇത്തരം പകർച്ചവ്യാധികൾക്ക് കാരണമാകുന്നതിനെക്കുറിച്ചും ഇസ്‌ലാമിക വീക്ഷണത്തിൽ ഇതിനെ എങ്ങനെ കാണണമെന്നും ലേഖനം ചർച്ച ചെയ്യുന്നു.",
+   "author": "സുഫ്‌യാൻ അബ്ദുസ്സലാം",
+   "issue_date": "2020-04-04",
+   "html_url": "/ml/dawah/great-lessons-from-the-pandemic-20200404-1.html",
+   "md_url": "/ml/dawah/great-lessons-from-the-pandemic-20200404-1.md"
+  },
+  {
    "slug": "greed-leading-to-devilish-acts-20180908-4",
    "lang": "ml",
    "category": "dawah",
@@ -14707,6 +14729,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/ml/dawah/stand-tall-20170121-8.html",
    "md_url": "/ml/dawah/stand-tall-20170121-8.md"
+  },
+  {
+   "slug": "strong-relationships-20200404-9",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "ബലമുള്ള ബന്ധങ്ങൾ",
+   "summary": "വ്യക്തിബന്ധങ്ങളുടെ പ്രാധാന്യത്തെക്കുറിച്ചും സ്നേഹവും വിശ്വാസവും അടിസ്ഥാനമാക്കിയുള്ള സൗഹൃദങ്ങളെക്കുറിച്ചുമുള്ള ഒരു അനുഭവക്കുറിപ്പ്.",
+   "author": "ഇബ്നു അലി എടത്തനാട്ടുകര",
+   "issue_date": "2020-04-04",
+   "html_url": "/ml/dawah/strong-relationships-20200404-9.html",
+   "md_url": "/ml/dawah/strong-relationships-20200404-9.md"
   },
   {
    "slug": "suicide-attacks-what-islam-says-20190302-1",
@@ -15875,6 +15908,17 @@
    "md_url": "/ml/family/harassment-from-mother-in-law-20170204-3.md"
   },
   {
+   "slug": "home-life-during-corona-times-20200404-5",
+   "lang": "ml",
+   "category": "family",
+   "title": "കൊറോണ കാലത്തെ ഗൃഹവാസം",
+   "summary": "ലോക്ക്ഡൗൺ കാലത്ത് വീടുകളിൽ കഴിയുമ്പോൾ കുടുംബാംഗങ്ങൾക്കിടയിൽ പാലിക്കേണ്ട ഇസ്‌ലാമിക മര്യാദകളെയും ക്രിയാത്മകമായി സമയം ചെലവഴിക്കേണ്ട രീതികളെയും കുറിച്ച് ലേഖനം വിവരിക്കുന്നു.",
+   "author": "അഷ്‌റഫ് എകരൂൽ",
+   "issue_date": "2020-04-04",
+   "html_url": "/ml/family/home-life-during-corona-times-20200404-5.html",
+   "md_url": "/ml/family/home-life-during-corona-times-20200404-5.md"
+  },
+  {
    "slug": "house-construction-are-expatriates-forgetting-the-goal-20190824-7",
    "lang": "ml",
    "category": "family",
@@ -16808,6 +16852,17 @@
    "issue_date": "2019-04-13",
    "html_url": "/ml/fiqh/prayer-and-straightening-the-rows-20190413-6.html",
    "md_url": "/ml/fiqh/prayer-and-straightening-the-rows-20190413-6.md"
+  },
+  {
+   "slug": "purification-glory-and-etiquettes-20200404-7",
+   "lang": "ml",
+   "category": "fiqh",
+   "title": "ശുദ്ധീകരണം: മഹത്വവും മര്യാദകളും",
+   "summary": "ഇസ്‌ലാമിലെ ശുദ്ധീകരണത്തിന്റെ പ്രാധാന്യത്തെയും ശാരീരികവും മാനസികവുമായ ശുദ്ധി പാലിക്കേണ്ടതിന്റെ ആവശ്യകതയെയും കർമ്മശാസ്ത്രപരമായ മര്യാദകളെയും കുറിച്ച് പ്രതിപാദിക്കുന്നു.",
+   "author": "മൂസ സലാഹി, കാര",
+   "issue_date": "2020-04-04",
+   "html_url": "/ml/fiqh/purification-glory-and-etiquettes-20200404-7.html",
+   "md_url": "/ml/fiqh/purification-glory-and-etiquettes-20200404-7.md"
   },
   {
    "slug": "qunut-during-times-of-crisis-20191228-9",
@@ -18592,6 +18647,17 @@
    "md_url": "/ml/opinion/community-s-approach-to-religious-education-a-vazhakkadan-re-20190112-6.md"
   },
   {
+   "slug": "corona-alcohol-and-a-safe-society-20200404-4",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "കൊറോണയും മദ്യവും സുരക്ഷിത സമൂഹവും",
+   "summary": "കോവിഡ് കാലത്ത് മദ്യവിൽപനയും മദ്യപാനവും സമൂഹത്തിൽ ഉണ്ടാക്കുന്ന പ്രത്യാഘാതങ്ങളെക്കുറിച്ച് ലേഖനം ചർച്ച ചെയ്യുന്നു. സർക്കാരിന്റെ മദ്യനയത്തെയും മദ്യം മൂലമുണ്ടാകുന്ന സാമൂഹിക വിപത്തുകളെയും ഇതിൽ വിമർശിക്കുന്നു.",
+   "author": "നബീൽ പയ്യോളി",
+   "issue_date": "2020-04-04",
+   "html_url": "/ml/opinion/corona-alcohol-and-a-safe-society-20200404-4.html",
+   "md_url": "/ml/opinion/corona-alcohol-and-a-safe-society-20200404-4.md"
+  },
+  {
    "slug": "country-draped-in-tricolor-in-protests-20200118-1",
    "lang": "ml",
    "category": "opinion",
@@ -18810,6 +18876,17 @@
    "issue_date": "2020-01-11",
    "html_url": "/ml/opinion/falsehood-is-on-the-throne-20200111-2.html",
    "md_url": "/ml/opinion/falsehood-is-on-the-throne-20200111-2.md"
+  },
+  {
+   "slug": "fascism-democracy-and-secularism-20200404-3",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "ഫാഷിസം, ജനാധിപത്യം, മതനിരപേക്ഷത",
+   "summary": "ഇന്ത്യൻ രാഷ്ട്രീയ സാഹചര്യത്തിൽ ഫാഷിസത്തിന്റെ വളർച്ചയെയും ജനാധിപത്യ-മതനിരപേക്ഷ മൂല്യങ്ങൾ നേരിടുന്ന വെല്ലുവിളികളെയും കുറിച്ചുള്ള അഭിമുഖം. സംഘപരിവാർ അജണ്ടകളെയും ചരിത്രപരമായ വശങ്ങളെയും ഇതിൽ വിശകലനം ചെയ്യുന്നു.",
+   "author": "കെ.ഇ.എൻ കുഞ്ഞഹമ്മദ്, ഡോ. സി. മുഹമ്മദ് റാഫി",
+   "issue_date": "2020-04-04",
+   "html_url": "/ml/opinion/fascism-democracy-and-secularism-20200404-3.html",
+   "md_url": "/ml/opinion/fascism-democracy-and-secularism-20200404-3.md"
   },
   {
    "slug": "fascism-democracy-secularism-20200321-4",
@@ -19393,6 +19470,17 @@
    "issue_date": "2019-07-20",
    "html_url": "/ml/opinion/new-media-and-verbal-violence-20190720-8.html",
    "md_url": "/ml/opinion/new-media-and-verbal-violence-20190720-8.md"
+  },
+  {
+   "slug": "nirbhaya-execution-of-killers-and-reactions-20200404-2",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "നിർഭയ: ഘാതകരുടെ വധശിക്ഷയും പ്രതികരണങ്ങളും",
+   "summary": "നിർഭയ കേസിലെ പ്രതികളുടെ വധശിക്ഷ നടപ്പിലാക്കിയ പശ്ചാത്തലത്തിൽ, രാജ്യത്തെ നിയമവ്യവസ്ഥയിലെ പോരായ്മകളെയും കുറ്റകൃത്യങ്ങൾക്കെതിരായ ശിക്ഷാ നടപടികളുടെ അപര്യാപ്തതയെയും ഈ മുഖലേഖനം വിമർശനാത്മകമായി പരിശോധിക്കുന്നു.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2020-04-04",
+   "html_url": "/ml/opinion/nirbhaya-execution-of-killers-and-reactions-20200404-2.html",
+   "md_url": "/ml/opinion/nirbhaya-execution-of-killers-and-reactions-20200404-2.md"
   },
   {
    "slug": "none-should-forget-the-path-they-came-from-20170225-13",
@@ -21538,6 +21626,17 @@
    "issue_date": "2020-03-21",
    "html_url": "/ml/quran/talaq-divorce-20200321-8.html",
    "md_url": "/ml/quran/talaq-divorce-20200321-8.md"
+  },
+  {
+   "slug": "talaq-divorce-tafsir-20200404-8",
+   "lang": "ml",
+   "category": "quran",
+   "title": "ത്വലാഖ് (വിവാഹമോചനം)",
+   "summary": "ഖുർആനിലെ 65-ാം അധ്യായമായ ത്വലാഖിന്റെ വ്യാഖ്യാനം. മുൻകാല സമുദായങ്ങളുടെ ചരിത്രത്തിൽ നിന്നുള്ള പാഠങ്ങളും അല്ലാഹുവിന്റെ കൽപ്പനകളും ഇതിൽ വിശദീകരിക്കുന്നു.",
+   "author": "അബ്ദുറഹ്മാൻ നാസിർ അസ്സഅദി",
+   "issue_date": "2020-04-04",
+   "html_url": "/ml/quran/talaq-divorce-tafsir-20200404-8.html",
+   "md_url": "/ml/quran/talaq-divorce-tafsir-20200404-8.md"
   },
   {
    "slug": "the-bitter-consequences-of-disobedience-20180908-1",
