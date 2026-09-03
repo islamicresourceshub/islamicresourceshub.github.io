@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-03T11:12:42.867492+00:00",
+ "generated_at": "2026-09-03T11:13:16.308227+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3470,
+ "count": 3471,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -28083,6 +28083,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/ps/aqeedah/become-the-guardian-of-the-sources-20170128-9.html",
    "md_url": "/ps/aqeedah/become-the-guardian-of-the-sources-20170128-9.md"
+  },
+  {
+   "slug": "salafiyyah-ideology-and-stance-20170211-8",
+   "lang": "ps",
+   "category": "aqeedah",
+   "title": "سلفیت: تګلاره او دریځونه",
+   "summary": "دا لیکنه د سلفي تګلارې پر بنسټیزو اصولو او دریځونو رڼا اچوي. دا په ډاګه کوي چې څنګه قرآن او سنت د روحاني تیارو په لرې کولو کې مرسته کوي.",
+   "author": "അബ്ദുല്‍ മാലിക് സലഫി",
+   "issue_date": "2017-02-11",
+   "html_url": "/ps/aqeedah/salafiyyah-ideology-and-stance-20170211-8.html",
+   "md_url": "/ps/aqeedah/salafiyyah-ideology-and-stance-20170211-8.md"
   },
   {
    "slug": "they-want-to-see-god-20170204-2",
