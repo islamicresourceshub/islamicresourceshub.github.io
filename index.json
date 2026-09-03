@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-03T09:43:36.264553+00:00",
+ "generated_at": "2026-09-03T09:44:05.643235+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3361,
+ "count": 3362,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -31559,6 +31559,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/sw/youth/an-agenda-is-needed-during-vacation-too-20170325-1.html",
    "md_url": "/sw/youth/an-agenda-is-needed-during-vacation-too-20170325-1.md"
+  },
+  {
+   "slug": "e-ahamed-s-message-to-the-youth-20170211-5",
+   "lang": "sw",
+   "category": "youth",
+   "title": "Ujumbe wa E. Ahamed kwa kizazi kipya",
+   "summary": "Makala hii inachunguza mtazamo wa maisha wa E. Ahamed na ushauri wake kwa vijana. Inasisitiza umuhimu wa maisha yaliyojaa utendaji na huduma kwa jamii.",
+   "author": "ഡോ. സി.എം സാബിര്‍ നവാസ്",
+   "issue_date": "2017-02-11",
+   "html_url": "/sw/youth/e-ahamed-s-message-to-the-youth-20170211-5.html",
+   "md_url": "/sw/youth/e-ahamed-s-message-to-the-youth-20170211-5.md"
   },
   {
    "slug": "what-will-the-waste-do-20170114-5",
