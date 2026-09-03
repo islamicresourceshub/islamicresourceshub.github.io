@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-03T04:19:03.486383+00:00",
+ "generated_at": "2026-09-03T04:20:54.050261+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3247,
+ "count": 3248,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -27401,6 +27401,17 @@
    "issue_date": "2017-02-04",
    "html_url": "/pt/story/abdullah-s-mistake-20170204-1.html",
    "md_url": "/pt/story/abdullah-s-mistake-20170204-1.md"
+  },
+  {
+   "slug": "allah-is-watching-20170211-3",
+   "lang": "pt",
+   "category": "story",
+   "title": "Alá observa",
+   "summary": "Esta é uma história que transmite lições de honestidade e temor a Deus através da vida de um agricultor chamado Hassan. A consciência de que Alá está sempre observando leva o ser humano à retidão.",
+   "author": "തന്‍വീര്‍",
+   "issue_date": "2017-02-11",
+   "html_url": "/pt/story/allah-is-watching-20170211-3.html",
+   "md_url": "/pt/story/allah-is-watching-20170211-3.md"
   },
   {
    "slug": "good-intention-matters-most-20170325-8",
