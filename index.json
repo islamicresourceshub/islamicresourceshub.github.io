@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-03T09:07:10.543173+00:00",
+ "generated_at": "2026-09-03T09:07:37.241771+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3310,
+ "count": 3311,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -30382,6 +30382,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/sq/quran/what-to-beware-of-when-taking-sides-20170128-7.html",
    "md_url": "/sq/quran/what-to-beware-of-when-taking-sides-20170128-7.md"
+  },
+  {
+   "slug": "ibn-abbas-ra-a-scholar-of-knowledge-20170211-4",
+   "lang": "sq",
+   "category": "seerah",
+   "title": "Ibn Abbas (r), ai që e shndërroi dijen në jetë",
+   "summary": "Ky artikull përshkruan jetën e Ibn Abbasit (r), një dijetar i shquar i cili ishte një burim i pashtershëm diturie, dhe thekson rëndësinë që ai i kushtoi kërkimit të dijes. Historia e tij shërben si një shembull frymëzues për të gjithë kërkuesit e dijes.",
+   "author": "അര്‍ഷദ് താനൂര്‍",
+   "issue_date": "2017-02-11",
+   "html_url": "/sq/seerah/ibn-abbas-ra-a-scholar-of-knowledge-20170211-4.html",
+   "md_url": "/sq/seerah/ibn-abbas-ra-a-scholar-of-knowledge-20170211-4.md"
   },
   {
    "slug": "prophets-and-trials-20170325-7",
