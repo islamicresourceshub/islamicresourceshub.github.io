@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-03T11:02:50.103819+00:00",
+ "generated_at": "2026-09-03T11:03:24.381905+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3444,
+ "count": 3445,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -4180,6 +4180,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/en/aqeedah/faith-is-the-foundation-of-islam-20170128-13.html",
    "md_url": "/en/aqeedah/faith-is-the-foundation-of-islam-20170128-13.md"
+  },
+  {
+   "slug": "salafiyyah-ideology-and-stance-20170211-8",
+   "lang": "en",
+   "category": "aqeedah",
+   "title": "Salafiyyah: Ideology and Stances",
+   "summary": "This article explains the fundamental principles and stances of the Salafi ideology. It clarifies how the Quran and Sunnah serve as guiding lights to dispel spiritual darkness.",
+   "author": "അബ്ദുല്‍ മാലിക് സലഫി",
+   "issue_date": "2017-02-11",
+   "html_url": "/en/aqeedah/salafiyyah-ideology-and-stance-20170211-8.html",
+   "md_url": "/en/aqeedah/salafiyyah-ideology-and-stance-20170211-8.md"
   },
   {
    "slug": "they-want-to-see-god-20170204-2",
