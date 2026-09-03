@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-03T08:30:08.098622+00:00",
+ "generated_at": "2026-09-03T08:31:22.889691+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3256,
+ "count": 3257,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -34738,6 +34738,17 @@
    "issue_date": "2017-02-04",
    "html_url": "/uz/story/abdullah-s-mistake-20170204-1.html",
    "md_url": "/uz/story/abdullah-s-mistake-20170204-1.md"
+  },
+  {
+   "slug": "allah-is-watching-20170211-3",
+   "lang": "uz",
+   "category": "story",
+   "title": "Alloh koʻradi",
+   "summary": "Bu Hasan ismli dehqonning hayoti orqali halollik va Allohdan qoʻrqish darslarini beruvchi hikoyadir. Allohning doimiy nazorati borligi haqidagi ong insonni yaxshilikka yetaklaydi.",
+   "author": "തന്‍വീര്‍",
+   "issue_date": "2017-02-11",
+   "html_url": "/uz/story/allah-is-watching-20170211-3.html",
+   "md_url": "/uz/story/allah-is-watching-20170211-3.md"
   },
   {
    "slug": "good-intention-matters-most-20170325-8",
