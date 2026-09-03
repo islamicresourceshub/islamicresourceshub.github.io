@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-03T09:56:06.158930+00:00",
+ "generated_at": "2026-09-03T09:56:33.754195+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3393,
+ "count": 3402,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -12003,6 +12003,17 @@
    "md_url": "/ml/aqeedah/can-saints-perform-miracles-at-will-20200201-2.md"
   },
   {
+   "slug": "can-saints-receive-revelation-20200321-7",
+   "lang": "ml",
+   "category": "aqeedah",
+   "title": "വലിയുങ്കൾക്ക് വഹ്‌യ് കിട്ടുമെന്നോ?",
+   "summary": "സൂഫിസത്തിലെ ചില പിഴച്ച വിശ്വാസങ്ങളെയും ഔലിയാക്കൾക്ക് വഹ്‌യ് ലഭിക്കുമെന്ന വാദത്തെയും ഈ ലേഖനം ഖണ്ഡിക്കുന്നു. പ്രവാചകത്വത്തിന്റെ സമാപ്തിയെക്കുറിച്ചും ഇസ്‌ലാമിക ശരീഅത്തിന്റെ പൂർണ്ണതയെക്കുറിച്ചും ഖുർആൻ തെളിവുകൾ നിരത്തി വിശദീകരിക്കുന്നു.",
+   "author": "ശൈഖ് സഅദ് ബിൻ നാസർ അശ്ശത്രീ",
+   "issue_date": "2020-03-21",
+   "html_url": "/ml/aqeedah/can-saints-receive-revelation-20200321-7.html",
+   "md_url": "/ml/aqeedah/can-saints-receive-revelation-20200321-7.md"
+  },
+  {
    "slug": "celebrating-nabi-day-is-un-islamic-20260822-5",
    "lang": "ml",
    "category": "aqeedah",
@@ -13202,6 +13213,17 @@
    "md_url": "/ml/dawah/do-not-commit-violence-against-nature-20181110-2.md"
   },
   {
+   "slug": "do-not-complain-in-trials-20200321-2",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "പരീക്ഷണങ്ങളിൽ പരിഭവിക്കരുത്",
+   "summary": "ജീവിതത്തിലെ പരീക്ഷണങ്ങളെ വിശ്വാസി എങ്ങനെ നേരിടണം എന്ന് ഈ ലേഖനം വിശദീകരിക്കുന്നു. പ്രയാസങ്ങൾ അല്ലാഹുവിന്റെ തീരുമാനമാണെന്നും അവയിൽ ക്ഷമ കൈക്കൊള്ളുന്നവർക്ക് പ്രതിഫലമുണ്ടെന്നും ഖുർആൻ വചനങ്ങളുടെ അടിസ്ഥാനത്തിൽ ലേഖകൻ വ്യക്തമാക്കുന്നു.",
+   "author": "മൂസ സ്വലാഹി, കാര",
+   "issue_date": "2020-03-21",
+   "html_url": "/ml/dawah/do-not-complain-in-trials-20200321-2.html",
+   "md_url": "/ml/dawah/do-not-complain-in-trials-20200321-2.md"
+  },
+  {
    "slug": "do-not-despair-20180630-11",
    "lang": "ml",
    "category": "dawah",
@@ -13508,6 +13530,17 @@
    "issue_date": "2019-09-28",
    "html_url": "/ml/dawah/goal-unity-and-organization-20190928-5.html",
    "md_url": "/ml/dawah/goal-unity-and-organization-20190928-5.md"
+  },
+  {
+   "slug": "good-thoughts-20200321-6",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "സൽവിചാരം",
+   "summary": "സഹജീവികളെക്കുറിച്ച് നല്ലത് മാത്രം വിചാരിക്കുക എന്ന ഇസ്‌ലാമിക അധ്യാപനത്തെക്കുറിച്ച് ഈ ലേഖനം പ്രതിപാദിക്കുന്നു. ഊഹങ്ങൾ ഒഴിവാക്കാനും പരദൂഷണം ഉപേക്ഷിക്കാനും ഖുർആൻ വചനങ്ങളുടെ വെളിച്ചത്തിൽ വിശ്വാസികളെ ഉപദേശിക്കുന്നു.",
+   "author": "അബ്ദുൽ ജബ്ബാർ മദീനി",
+   "issue_date": "2020-03-21",
+   "html_url": "/ml/dawah/good-thoughts-20200321-6.html",
+   "md_url": "/ml/dawah/good-thoughts-20200321-6.md"
   },
   {
    "slug": "governance-and-leadership-is-a-responsibility-20191026-1",
@@ -14883,6 +14916,17 @@
    "issue_date": "2019-02-23",
    "html_url": "/ml/dawah/things-to-note-in-prayer-dua-20190223-7.html",
    "md_url": "/ml/dawah/things-to-note-in-prayer-dua-20190223-7.md"
+  },
+  {
+   "slug": "this-fleeting-life-20200321-3",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "ക്ഷണികമീ ജീവിതം",
+   "summary": "ഐഹിക ജീവിതത്തിന്റെ നശ്വരതയെക്കുറിച്ചും പരലോക ജീവിതത്തിന്റെ പ്രാധാന്യത്തെക്കുറിച്ചും ഈ ലേഖനം ഓർമ്മിപ്പിക്കുന്നു. ദുൻയാവിനെ ഒരു യാത്രക്കാരന്റെ വിശ്രമകേന്ദ്രമായി കണ്ട് പാരത്രിക വിജയത്തിനായി പരിശ്രമിക്കാൻ വിശ്വാസികളെ പ്രേരിപ്പിക്കുന്നു.",
+   "author": "മെഹബൂബ് മദനി ഒറ്റപ്പാലം",
+   "issue_date": "2020-03-21",
+   "html_url": "/ml/dawah/this-fleeting-life-20200321-3.html",
+   "md_url": "/ml/dawah/this-fleeting-life-20200321-3.md"
   },
   {
    "slug": "those-who-mock-religion-20191005-5",
@@ -17085,6 +17129,17 @@
    "md_url": "/ml/health/what-is-migraine-20180630-9.md"
   },
   {
+   "slug": "when-corona-spreads-20200321-1",
+   "lang": "ml",
+   "category": "health",
+   "title": "കൊറോണ പടർന്നു പിടിക്കുമ്പോൾ",
+   "summary": "കൊറോണ വൈറസ് ബാധയെക്കുറിച്ചുള്ള ആശങ്കകൾക്കിടയിൽ സർക്കാർ നിർദ്ദേശങ്ങൾ പാലിക്കേണ്ടതിന്റെയും വ്യാജവാർത്തകൾ തള്ളിക്കളയേണ്ടതിന്റെയും ആവശ്യകത ഈ ലേഖനം ഓർമ്മിപ്പിക്കുന്നു. രോഗം പകരുന്ന രീതികളെക്കുറിച്ചും പ്രതിരോധ മാർഗ്ഗങ്ങളെക്കുറിച്ചും ആരോഗ്യ വിദഗ്ധരുടെ നിർദ്ദേശങ്ങൾ ഇതിൽ ഉൾക്കൊള്ളിച്ചിരിക്കുന്നു.",
+   "author": "എഡിറ്റർ",
+   "issue_date": "2020-03-21",
+   "html_url": "/ml/health/when-corona-spreads-20200321-1.html",
+   "md_url": "/ml/health/when-corona-spreads-20200321-1.md"
+  },
+  {
    "slug": "when-menstruating-20260822-4",
    "lang": "ml",
    "category": "health",
@@ -18207,6 +18262,17 @@
    "md_url": "/ml/opinion/christchurch-massacre-the-ugly-face-of-racism-20190330-4.md"
   },
   {
+   "slug": "citizenship-amendment-act-what-fascism-aims-for-20200321-5",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "പൗരത്വഭേദഗതി നിയമം: ഫാഷിസം ലക്ഷ്യം വെക്കുന്നത്",
+   "summary": "പൗരത്വ ഭേദഗതി നിയമം (CAA), NRC, NPR എന്നിവ തമ്മിലുള്ള ബന്ധത്തെയും അവയിലെ അപകടങ്ങളെയും ഈ ലേഖനം തുറന്നുകാട്ടുന്നു. മതം അടിസ്ഥാനമാക്കി പൗരത്വത്തെ വിഭജിക്കാനുള്ള നീക്കങ്ങൾ ജനാധിപത്യത്തിന് ഭീഷണിയാണെന്ന് ലേഖകൻ വാദിക്കുന്നു.",
+   "author": "ഡോ.സബീൽ പട്ടാമ്പി",
+   "issue_date": "2020-03-21",
+   "html_url": "/ml/opinion/citizenship-amendment-act-what-fascism-aims-for-20200321-5.html",
+   "md_url": "/ml/opinion/citizenship-amendment-act-what-fascism-aims-for-20200321-5.md"
+  },
+  {
    "slug": "citizenship-bill-and-gandhian-protest-methods-20191228-8",
    "lang": "ml",
    "category": "opinion",
@@ -18458,6 +18524,17 @@
    "issue_date": "2020-01-11",
    "html_url": "/ml/opinion/falsehood-is-on-the-throne-20200111-2.html",
    "md_url": "/ml/opinion/falsehood-is-on-the-throne-20200111-2.md"
+  },
+  {
+   "slug": "fascism-democracy-secularism-20200321-4",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "ഫാഷിസം, ജനാധിപത്യം, മതനിരപേക്ഷത",
+   "summary": "പൗരത്വ ഭേദഗതി നിയമത്തിന്റെ പശ്ചാത്തലത്തിൽ ഇന്ത്യയിലെ ഫാഷിസ്റ്റ് പ്രവണതകളെയും ജനാധിപത്യ മൂല്യങ്ങളെയും ഈ ലേഖനം വിശകലനം ചെയ്യുന്നു. ഷഹീൻബാഗ് സമരത്തിന്റെ പ്രാധാന്യത്തെയും ഗാന്ധിജിയുടെ മതമൈത്രി സങ്കൽപ്പങ്ങളെയും ഇതിൽ ചർച്ച ചെയ്യുന്നു.",
+   "author": "കെ.ഇ.എൻ കുഞ്ഞഹമ്മദ് / ഡോ. സി മുഹമ്മദ് റാഫി",
+   "issue_date": "2020-03-21",
+   "html_url": "/ml/opinion/fascism-democracy-secularism-20200321-4.html",
+   "md_url": "/ml/opinion/fascism-democracy-secularism-20200321-4.md"
   },
   {
    "slug": "fascism-is-history-repeating-itself-20200208-1",
@@ -21133,6 +21210,17 @@
    "md_url": "/ml/quran/tafsir-surah-at-tahrim-part-3-20200314-9.md"
   },
   {
+   "slug": "talaq-divorce-20200321-8",
+   "lang": "ml",
+   "category": "quran",
+   "title": "ത്വലാഖ് (വിവാഹമോചനം)",
+   "summary": "വിവാഹമോചനവുമായി ബന്ധപ്പെട്ട ഖുർആൻ അധ്യായത്തിന്റെ തഫ്‌സീർ ഈ ലേഖനത്തിൽ നൽകുന്നു. ഇദ്ദ കാലത്തെ നിയമങ്ങളും വിവാഹമോചനത്തിൽ പാലിക്കേണ്ട മര്യാദകളും അല്ലാഹുവിനെ സൂക്ഷിക്കേണ്ടതിന്റെ ആവശ്യകതയും ഇതിൽ വിവരിക്കുന്നു.",
+   "author": "അബ്ദുറഹ്മാൻ നാസിർ അസ്സഅദി",
+   "issue_date": "2020-03-21",
+   "html_url": "/ml/quran/talaq-divorce-20200321-8.html",
+   "md_url": "/ml/quran/talaq-divorce-20200321-8.md"
+  },
+  {
    "slug": "the-bitter-consequences-of-disobedience-20180908-1",
    "lang": "ml",
    "category": "quran",
@@ -23089,6 +23177,17 @@
    "issue_date": "2018-12-08",
    "html_url": "/ml/story/how-beautiful-is-this-earth-20181208-4.html",
    "md_url": "/ml/story/how-beautiful-is-this-earth-20181208-4.md"
+  },
+  {
+   "slug": "how-insignificant-we-are-20200321-9",
+   "lang": "ml",
+   "category": "story",
+   "title": "നാമെത്ര നിസ്സാരർ!",
+   "summary": "കൊറോണ കാലത്തെ ഭീതിയെയും മനുഷ്യന്റെ നിസ്സാരതയെയും കുറിച്ചുള്ള ഒരു കവിത. പ്രാർത്ഥനയിലൂടെയും ശുചിത്വത്തിലൂടെയും ഈ മഹാമാരിയെ നേരിടാൻ കവി ആഹ്വാനം ചെയ്യുന്നു.",
+   "author": "ഉസ്മാൻ പാലക്കാഴി",
+   "issue_date": "2020-03-21",
+   "html_url": "/ml/story/how-insignificant-we-are-20200321-9.html",
+   "md_url": "/ml/story/how-insignificant-we-are-20200321-9.md"
   },
   {
    "slug": "hunger-20181013-11",
