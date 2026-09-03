@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-03T11:08:19.950106+00:00",
+ "generated_at": "2026-09-03T11:08:45.923663+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3462,
+ "count": 3463,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -10087,6 +10087,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/ja/aqeedah/faith-is-the-foundation-of-islam-20170128-13.html",
    "md_url": "/ja/aqeedah/faith-is-the-foundation-of-islam-20170128-13.md"
+  },
+  {
+   "slug": "salafiyyah-ideology-and-stance-20170211-8",
+   "lang": "ja",
+   "category": "aqeedah",
+   "title": "サラフィー主義：理念と姿勢",
+   "summary": "サラフィー主義の基本原則と姿勢を解説する記事です。コーランとスンナがどのように精神的な闇を払い、正しい道へと導くのかを明らかにします。",
+   "author": "അബ്ദുല്‍ മാലിക് സലഫി",
+   "issue_date": "2017-02-11",
+   "html_url": "/ja/aqeedah/salafiyyah-ideology-and-stance-20170211-8.html",
+   "md_url": "/ja/aqeedah/salafiyyah-ideology-and-stance-20170211-8.md"
   },
   {
    "slug": "they-want-to-see-god-20170204-2",
