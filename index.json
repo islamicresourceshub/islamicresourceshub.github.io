@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-03T08:52:49.445348+00:00",
+ "generated_at": "2026-09-03T08:53:16.189883+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3288,
+ "count": 3289,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -10692,6 +10692,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/kn/quran/what-to-beware-of-when-taking-sides-20170128-7.html",
    "md_url": "/kn/quran/what-to-beware-of-when-taking-sides-20170128-7.md"
+  },
+  {
+   "slug": "ibn-abbas-ra-a-scholar-of-knowledge-20170211-4",
+   "lang": "kn",
+   "category": "seerah",
+   "title": "ಜ್ಞಾನವನ್ನು ಜೀವನದ ಮೂಲಕ ತೋರಿಸಿಕೊಟ್ಟ ಇಬ್ನು ಅಬ್ಬಾಸ್ (ರ)",
+   "summary": "ಜ್ಞಾನದ ಆಗರವಾಗಿದ್ದ ಇಬ್ನು ಅಬ್ಬಾಸ್ (ರ) ಅವರ ಜೀವನ ಮತ್ತು ಅವರು ಜ್ಞಾನಕ್ಕೆ ನೀಡಿದ ಮಹತ್ವವನ್ನು ಈ ಲೇಖನ ವಿವರಿಸುತ್ತದೆ. ಅವರ ಇತಿಹಾಸವು ಓದುಗರಿಗೆ ದೊಡ್ಡ ಮಾದರಿಯಾಗಿದೆ.",
+   "author": "അര്‍ഷദ് താനൂര്‍",
+   "issue_date": "2017-02-11",
+   "html_url": "/kn/seerah/ibn-abbas-ra-a-scholar-of-knowledge-20170211-4.html",
+   "md_url": "/kn/seerah/ibn-abbas-ra-a-scholar-of-knowledge-20170211-4.md"
   },
   {
    "slug": "prophets-and-trials-20170325-7",
