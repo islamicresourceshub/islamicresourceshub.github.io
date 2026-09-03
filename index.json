@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-03T13:44:07.137437+00:00",
+ "generated_at": "2026-09-03T14:10:57.810106+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3556,
+ "count": 3557,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -1837,6 +1837,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/as/family/our-parents-20170325-4.html",
    "md_url": "/as/family/our-parents-20170325-4.md"
+  },
+  {
+   "slug": "school-annual-day-experiences-20170211-10",
+   "lang": "as",
+   "category": "family",
+   "title": "বিদ্যালয়ৰ বাৰ্ষিক অনুষ্ঠানৰ অভিজ্ঞতা",
+   "summary": "বিদ্যালয়ৰ বাৰ্ষিক অনুষ্ঠানত অংশগ্ৰহণ কৰাৰ সময়ত লাভ কৰা অভিজ্ঞতাৰ বিষয়ে এটি চমু টোকা। ইয়াত শিশুসকলৰ প্ৰতিভাক উৎসাহিত কৰাৰ প্ৰয়োজনীয়তাৰ বিষয়ে আলোচনা কৰা হৈছে।",
+   "author": "ഇബ്‌നു അലി എടത്തനാട്ടുകര",
+   "issue_date": "2017-02-11",
+   "html_url": "/as/family/school-annual-day-experiences-20170211-10.html",
+   "md_url": "/as/family/school-annual-day-experiences-20170211-10.md"
   },
   {
    "slug": "the-methodology-of-conduct-20170128-8",
