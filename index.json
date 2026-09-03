@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-03T11:06:27.625107+00:00",
+ "generated_at": "2026-09-03T11:07:05.996499+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3450,
+ "count": 3451,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -8118,6 +8118,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/hi/aqeedah/faith-is-the-foundation-of-islam-20170128-13.html",
    "md_url": "/hi/aqeedah/faith-is-the-foundation-of-islam-20170128-13.md"
+  },
+  {
+   "slug": "salafiyyah-ideology-and-stance-20170211-8",
+   "lang": "hi",
+   "category": "aqeedah",
+   "title": "सलाफियत: आदर्श और दृष्टिकोण",
+   "summary": "यह लेख सलाफी विचारधारा के मूल सिद्धांतों और दृष्टिकोणों की व्याख्या करता है। इसमें बताया गया है कि कैसे कुरान और सुन्नत आध्यात्मिक अंधकार को दूर करने में मदद करते हैं।",
+   "author": "അബ്ദുല്‍ മാലിക് സലഫി",
+   "issue_date": "2017-02-11",
+   "html_url": "/hi/aqeedah/salafiyyah-ideology-and-stance-20170211-8.html",
+   "md_url": "/hi/aqeedah/salafiyyah-ideology-and-stance-20170211-8.md"
   },
   {
    "slug": "they-want-to-see-god-20170204-2",
