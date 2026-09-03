@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-03T09:30:09.230476+00:00",
+ "generated_at": "2026-09-03T09:30:41.721236+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3330,
+ "count": 3341,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -11728,6 +11728,17 @@
    "md_url": "/ml/aqeedah/become-the-guardian-of-the-sources-20170128-9.md"
   },
   {
+   "slug": "belief-in-angels-and-scriptures-20200307-4",
+   "lang": "ml",
+   "category": "aqeedah",
+   "title": "മലക്കുകളിലും വേദഗ്രന്ഥങ്ങളിലുമുള്ള വിശ്വാസം",
+   "summary": "മലക്കുകളിലും അല്ലാഹു അവതരിപ്പിച്ച വേദഗ്രന്ഥങ്ങളിലും വിശ്വസിക്കേണ്ടതിന്റെ പ്രാധാന്യത്തെക്കുറിച്ചുള്ള പഠനം. ഇസ്‌ലാമിക വിശ്വാസത്തിന്റെ അടിസ്ഥാനങ്ങളെയും അതിൽ കടന്നുകൂടിയ അന്ധവിശ്വാസങ്ങളെയും ലേഖകൻ വിശകലനം ചെയ്യുന്നു.",
+   "author": "ശൈഖ് സഅദ് ബിൻ നാസർ അശ്ശത്രീ",
+   "issue_date": "2020-03-07",
+   "html_url": "/ml/aqeedah/belief-in-angels-and-scriptures-20200307-4.html",
+   "md_url": "/ml/aqeedah/belief-in-angels-and-scriptures-20200307-4.md"
+  },
+  {
    "slug": "can-coincidence-be-a-creator-20180714-4",
    "lang": "ml",
    "category": "aqeedah",
@@ -12452,6 +12463,17 @@
    "issue_date": "2020-01-25",
    "html_url": "/ml/aqeedah/those-who-cherish-sufism-20200125-3.html",
    "md_url": "/ml/aqeedah/those-who-cherish-sufism-20200125-3.md"
+  },
+  {
+   "slug": "those-who-find-refuge-in-misinterpretations-20200307-10",
+   "lang": "ml",
+   "category": "aqeedah",
+   "title": "ദുർവ്യാഖ്യാനങ്ങളിൽ അഭയം കണ്ടെത്തുന്നവർ",
+   "summary": "മതപരമായ വിഷയങ്ങളിൽ തെറ്റായ വ്യാഖ്യാനങ്ങൾ നൽകുന്നവരെയും കെട്ടുകഥകളെ തെളിവായി ഉപയോഗിക്കുന്നവരെയും വിമർശിക്കുന്ന ലേഖനം.",
+   "author": "മൂസ സ്വലാഹി, കാര",
+   "issue_date": "2020-03-07",
+   "html_url": "/ml/aqeedah/those-who-find-refuge-in-misinterpretations-20200307-10.html",
+   "md_url": "/ml/aqeedah/those-who-find-refuge-in-misinterpretations-20200307-10.md"
   },
   {
    "slug": "those-who-make-salawat-a-source-of-income-20191012-11",
@@ -13288,6 +13310,17 @@
    "issue_date": "2020-02-15",
    "html_url": "/ml/dawah/how-weak-is-man-20200215-2.html",
    "md_url": "/ml/dawah/how-weak-is-man-20200215-2.md"
+  },
+  {
+   "slug": "humility-20200307-7",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "വിനയം",
+   "summary": "ഇസ്‌ലാം പഠിപ്പിക്കുന്ന ഉത്തമ സ്വഭാവങ്ങളിൽ ഒന്നായ വിനയത്തിന്റെ പ്രാധാന്യത്തെക്കുറിച്ചുള്ള ലേഖനം. പ്രവാചകന്റെയും സ്വഹാബത്തിന്റെയും ജീവിതത്തിൽ നിന്ന് വിനയത്തിന്റെ ഉദാഹരണങ്ങൾ ലേഖകൻ നിരത്തുന്നു.",
+   "author": "അബ്ദുൽ ജബ്ബാർ മദീനി",
+   "issue_date": "2020-03-07",
+   "html_url": "/ml/dawah/humility-20200307-7.html",
+   "md_url": "/ml/dawah/humility-20200307-7.md"
   },
   {
    "slug": "iblis-s-slogan-20181027-3",
@@ -16975,6 +17008,17 @@
    "md_url": "/ml/history/ilfathul-islam-the-vitality-of-renaissance-20190518-2.md"
   },
   {
+   "slug": "indian-constitution-and-dr-ambedkar-20200307-6",
+   "lang": "ml",
+   "category": "history",
+   "title": "ഇന്ത്യൻ ഭരണഘടനയും ഡോ. അംബേദ്കറും",
+   "summary": "ഇന്ത്യൻ ഭരണഘടനയുടെ ശില്പി ഡോ. ബി.ആർ. അംബേദ്കറുടെ ജീവിതത്തെയും ഭരണഘടനയുടെ പ്രാധാന്യത്തെയും കുറിച്ചുള്ള ലേഖനം. ഭരണഘടന നേരിടുന്ന വെല്ലുവിളികളെക്കുറിച്ച് ഇത് ചർച്ച ചെയ്യുന്നു.",
+   "author": "ഡോ.സബീൽ പട്ടാമ്പി",
+   "issue_date": "2020-03-07",
+   "html_url": "/ml/history/indian-constitution-and-dr-ambedkar-20200307-6.html",
+   "md_url": "/ml/history/indian-constitution-and-dr-ambedkar-20200307-6.md"
+  },
+  {
    "slug": "islahi-movements-in-othayi-20190914-6",
    "lang": "ml",
    "category": "history",
@@ -17888,6 +17932,17 @@
    "md_url": "/ml/opinion/citizenship-bill-and-gandhian-protest-methods-20191228-8.md"
   },
   {
+   "slug": "citizenship-protest-beware-of-those-building-walls-of-lies-20200307-1",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "പൗരത്വ സമരം: ‘നുണമതിൽ’ പണിയുന്നവരെ കരുതിയിരിക്കുക",
+   "summary": "പൗരത്വ ഭേദഗതി നിയമത്തിനെതിരായ സമരങ്ങളെ അടിച്ചമർത്താൻ സംഘപരിവാർ നടത്തുന്ന വ്യാജ പ്രചാരണങ്ങളെയും നുണകളെയും കരുതിയിരിക്കണമെന്ന് ലേഖകൻ ഓർമ്മിപ്പിക്കുന്നു. ജനകീയ സമരങ്ങളെ വർഗീയവൽക്കരിക്കാനുള്ള ശ്രമങ്ങളെ ജനാധിപത്യപരമായ പക്വതയോടെ നേരിടേണ്ടതിന്റെ ആവശ്യകതയെക്കുറിച്ച് ലേഖനം ചർച്ച ചെയ്യുന്നു.",
+   "author": "നബീൽ പയ്യോളി",
+   "issue_date": "2020-03-07",
+   "html_url": "/ml/opinion/citizenship-protest-beware-of-those-building-walls-of-lies-20200307-1.html",
+   "md_url": "/ml/opinion/citizenship-protest-beware-of-those-building-walls-of-lies-20200307-1.md"
+  },
+  {
    "slug": "community-s-approach-to-religious-education-a-vazhakkadan-re-20190112-6",
    "lang": "ml",
    "category": "opinion",
@@ -18722,6 +18777,17 @@
    "issue_date": "2018-11-10",
    "html_url": "/ml/opinion/permanent-lok-adalat-20181110-7.html",
    "md_url": "/ml/opinion/permanent-lok-adalat-20181110-7.md"
+  },
+  {
+   "slug": "planned-riot-in-the-capital-city-20200307-2",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "തലസ്ഥാന നഗരിയിൽ ആസൂത്രിത കലാപം!",
+   "summary": "ദില്ലിയിൽ നടന്ന കലാപങ്ങൾ സംഘപരിവാർ ആസൂത്രണം ചെയ്തതാണെന്നും, ഭരണകൂടത്തിന്റെ മൗനാനുവാദത്തോടെയാണ് ഇത് നടന്നതെന്നും എഡിറ്റോറിയൽ കുറ്റപ്പെടുത്തുന്നു. വർഗീയ ധ്രുവീകരണത്തിലൂടെ രാഷ്ട്രീയ നേട്ടമുണ്ടാക്കാനുള്ള ശ്രമങ്ങളെ തുറന്നുകാട്ടുന്നു.",
+   "author": "എഡിറ്റർ",
+   "issue_date": "2020-03-07",
+   "html_url": "/ml/opinion/planned-riot-in-the-capital-city-20200307-2.html",
+   "md_url": "/ml/opinion/planned-riot-in-the-capital-city-20200307-2.md"
   },
   {
    "slug": "poisoning-water-bodies-affects-all-fish-20200229-6",
@@ -20231,6 +20297,17 @@
    "md_url": "/ml/quran/mulk-dominion-part-2-20200201-11.md"
   },
   {
+   "slug": "mulk-dominion-part-5-20200307-11",
+   "lang": "ml",
+   "category": "quran",
+   "title": "മുൽക് (ആധിപത്യം), ഭാഗം: 5",
+   "summary": "ഖുർആനിലെ സൂറത്തു തഹ്‌രീമിന്റെ വ്യാഖ്യാനം. അല്ലാഹുവിന്റെ കൽപ്പനകളും വിശ്വാസികളുടെ ജീവിതരീതികളും ഇതിൽ വിശദീകരിക്കുന്നു.",
+   "author": "അബ്ദുറഹ്മാൻ നാസിർ അസ്സഅദി",
+   "issue_date": "2020-03-07",
+   "html_url": "/ml/quran/mulk-dominion-part-5-20200307-11.html",
+   "md_url": "/ml/quran/mulk-dominion-part-5-20200307-11.md"
+  },
+  {
    "slug": "mulk-sovereignty-20200215-10",
    "lang": "ml",
    "category": "quran",
@@ -21164,6 +21241,17 @@
    "issue_date": "2019-09-14",
    "html_url": "/ml/seerah/important-events-after-the-battle-of-badr-20190914-1.html",
    "md_url": "/ml/seerah/important-events-after-the-battle-of-badr-20190914-1.md"
+  },
+  {
+   "slug": "in-the-court-of-the-king-of-kings-20200307-3",
+   "lang": "ml",
+   "category": "seerah",
+   "title": "‘രാജാധിരാജന്റെ’ രാജസന്നിധിയിൽ",
+   "summary": "ദുബൈ ഭരണാധികാരി ശൈഖ് മുഹമ്മദ് ബിൻ റാഷിദ് അൽമക്തൂമിന്റെ ആത്മകഥയിൽ നിന്നുള്ള ഭാഗം. തന്റെ പിതാവ് ശൈഖ് റാഷിദിന്റെ ഭരണശൈലിയെയും ലളിത ജീവിതത്തെയും കുറിച്ച് അദ്ദേഹം വിവരിക്കുന്നു.",
+   "author": "ശൈഖ് മുഹമ്മദ്‌ബിൻ റാഷിദ് അൽമക്തൂം",
+   "issue_date": "2020-03-07",
+   "html_url": "/ml/seerah/in-the-court-of-the-king-of-kings-20200307-3.html",
+   "md_url": "/ml/seerah/in-the-court-of-the-king-of-kings-20200307-3.md"
   },
   {
    "slug": "in-the-palace-of-pharaoh-20180616-8",
@@ -22442,6 +22530,17 @@
    "md_url": "/ml/story/against-the-flow-20190302-8.md"
   },
   {
+   "slug": "algerian-rose-20200307-9",
+   "lang": "ml",
+   "category": "story",
+   "title": "ബൽജീരിയൻ റോസ്",
+   "summary": "പലിശ ഇടപാടുകളെക്കുറിച്ചും അത് ജീവിതത്തിൽ വരുത്തുന്ന മാറ്റങ്ങളെക്കുറിച്ചും ചർച്ച ചെയ്യുന്ന ഒരു ചെറുകഥ.",
+   "author": "മുന്തസിർ പെരിങ്ങത്തൂർ",
+   "issue_date": "2020-03-07",
+   "html_url": "/ml/story/algerian-rose-20200307-9.html",
+   "md_url": "/ml/story/algerian-rose-20200307-9.md"
+  },
+  {
    "slug": "allah-is-watching-20170211-3",
    "lang": "ml",
    "category": "story",
@@ -23124,6 +23223,17 @@
    "md_url": "/ml/story/the-farmer-and-the-black-stones-20190525-6.md"
   },
   {
+   "slug": "the-final-moments-20200307-5",
+   "lang": "ml",
+   "category": "story",
+   "title": "അവസാന നിമിഷങ്ങൾ",
+   "summary": "മരണത്തിന്റെ അനിവാര്യതയെക്കുറിച്ചും ജീവിതത്തിന്റെ അവസാന നിമിഷങ്ങളിൽ പശ്ചാത്താപത്തിന്റെ പ്രാധാന്യത്തെക്കുറിച്ചും ഓർമ്മിപ്പിക്കുന്ന കവിത.",
+   "author": "ജംഷീർ ഇബ്നു ഹൈദ്രോസ്",
+   "issue_date": "2020-03-07",
+   "html_url": "/ml/story/the-final-moments-20200307-5.html",
+   "md_url": "/ml/story/the-final-moments-20200307-5.md"
+  },
+  {
    "slug": "the-fruit-of-ingratitude-20170121-7",
    "lang": "ml",
    "category": "story",
@@ -23672,6 +23782,17 @@
    "issue_date": "2019-10-19",
    "html_url": "/ml/youth/little-ants-20191019-9.html",
    "md_url": "/ml/youth/little-ants-20191019-9.md"
+  },
+  {
+   "slug": "lives-trapped-in-smartphones-20200307-12",
+   "lang": "ml",
+   "category": "youth",
+   "title": "സ്മാർട്ട്ഫോണിൽ കുരുങ്ങുന്ന ജീവിതങ്ങൾ",
+   "summary": "സ്മാർട്ട്ഫോണുകൾക്ക് അടിമപ്പെടുന്ന ഇന്നത്തെ തലമുറയുടെ ജീവിതശൈലിയെയും അതിന്റെ ദൂഷ്യഫലങ്ങളെയും കുറിച്ചുള്ള വിമർശനാത്മക ലേഖനം.",
+   "author": "ശംസുദ്ദീൻ എടത്തനാട്ടുകര",
+   "issue_date": "2020-03-07",
+   "html_url": "/ml/youth/lives-trapped-in-smartphones-20200307-12.html",
+   "md_url": "/ml/youth/lives-trapped-in-smartphones-20200307-12.md"
   },
   {
    "slug": "respect-the-elders-20190720-7",
