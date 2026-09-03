@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-03T11:03:24.381905+00:00",
+ "generated_at": "2026-09-03T11:04:02.486852+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3445,
+ "count": 3446,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -4829,6 +4829,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/es/aqeedah/faith-is-the-foundation-of-islam-20170128-13.html",
    "md_url": "/es/aqeedah/faith-is-the-foundation-of-islam-20170128-13.md"
+  },
+  {
+   "slug": "salafiyyah-ideology-and-stance-20170211-8",
+   "lang": "es",
+   "category": "aqeedah",
+   "title": "Salafiyyah: Ideología y Posturas",
+   "summary": "Un artículo que explica los principios fundamentales y las posturas de la ideología Salafi. Se detalla cómo el Corán y la Sunnah sirven como guía para disipar las oscuridades espirituales.",
+   "author": "അബ്ദുല്‍ മാലിക് സലഫി",
+   "issue_date": "2017-02-11",
+   "html_url": "/es/aqeedah/salafiyyah-ideology-and-stance-20170211-8.html",
+   "md_url": "/es/aqeedah/salafiyyah-ideology-and-stance-20170211-8.md"
   },
   {
    "slug": "they-want-to-see-god-20170204-2",
