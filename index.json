@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-03T08:33:13.849164+00:00",
+ "generated_at": "2026-09-03T08:33:47.738366+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3258,
+ "count": 3259,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -35970,6 +35970,17 @@
    "issue_date": "2017-02-04",
    "html_url": "/zh/story/abdullah-s-mistake-20170204-1.html",
    "md_url": "/zh/story/abdullah-s-mistake-20170204-1.md"
+  },
+  {
+   "slug": "allah-is-watching-20170211-3",
+   "lang": "zh",
+   "category": "story",
+   "title": "真主在注视",
+   "summary": "这是一个通过农夫哈桑的生活，传达诚实与敬畏真主之教诲的故事。时刻意识到真主的监察，能引导人走向善行。",
+   "author": "തന്‍വീര്‍",
+   "issue_date": "2017-02-11",
+   "html_url": "/zh/story/allah-is-watching-20170211-3.html",
+   "md_url": "/zh/story/allah-is-watching-20170211-3.md"
   },
   {
    "slug": "good-intention-matters-most-20170325-8",
