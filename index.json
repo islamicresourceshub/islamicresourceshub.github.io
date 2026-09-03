@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-03T07:03:19.241925+00:00",
+ "generated_at": "2026-09-03T07:03:58.783259+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3251,
+ "count": 3252,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -31658,6 +31658,17 @@
    "issue_date": "2017-02-04",
    "html_url": "/te/story/abdullah-s-mistake-20170204-1.html",
    "md_url": "/te/story/abdullah-s-mistake-20170204-1.md"
+  },
+  {
+   "slug": "allah-is-watching-20170211-3",
+   "lang": "te",
+   "category": "story",
+   "title": "అల్లాహ్ చూస్తున్నాడు",
+   "summary": "హసన్ అనే రైతు తన పిల్లలకు నేర్పిన పాఠం ద్వారా నిజాయితీ మరియు దైవభీతి యొక్క ప్రాముఖ్యతను ఈ కథ వివరిస్తుంది. అల్లాహ్ నిరంతరం మనల్ని గమనిస్తున్నాడనే స్పృహ మనిషిని సన్మార్గంలో నడిపిస్తుంది.",
+   "author": "തന്‍വീര്‍",
+   "issue_date": "2017-02-11",
+   "html_url": "/te/story/allah-is-watching-20170211-3.html",
+   "md_url": "/te/story/allah-is-watching-20170211-3.md"
   },
   {
    "slug": "good-intention-matters-most-20170325-8",
