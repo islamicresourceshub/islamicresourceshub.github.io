@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-03T09:44:05.643235+00:00",
+ "generated_at": "2026-09-03T09:44:29.173048+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3362,
+ "count": 3372,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -11838,6 +11838,17 @@
    "md_url": "/ml/aqeedah/belief-in-angels-and-scriptures-20200307-4.md"
   },
   {
+   "slug": "belief-in-prophets-20200314-6",
+   "lang": "ml",
+   "category": "aqeedah",
+   "title": "പ്രവാചകൻമാരിലുള്ള വിശ്വാസം",
+   "summary": "പ്രവാചകന്മാരിലുള്ള വിശ്വാസത്തിന്റെ അനിവാര്യതയും, പ്രവാചകന്മാരെക്കുറിച്ചുള്ള തെറ്റായ വിശ്വാസങ്ങളെ ഖുർആനിക തെളിവുകൾ നിരത്തി തിരുത്തുന്നതുമായ ലേഖനം.",
+   "author": "ശൈഖ് സഅദ് ബിൻ നാസർ അശ്ശത്രി",
+   "issue_date": "2020-03-14",
+   "html_url": "/ml/aqeedah/belief-in-prophets-20200314-6.html",
+   "md_url": "/ml/aqeedah/belief-in-prophets-20200314-6.md"
+  },
+  {
    "slug": "can-coincidence-be-a-creator-20180714-4",
    "lang": "ml",
    "category": "aqeedah",
@@ -12630,6 +12641,17 @@
    "md_url": "/ml/aqeedah/to-whom-did-they-pray-20190112-2.md"
   },
   {
+   "slug": "weighty-deeds-20200314-3",
+   "lang": "ml",
+   "category": "aqeedah",
+   "title": "കനം തൂങ്ങുന്ന കർമ്മങ്ങൾ",
+   "summary": "പരലോകത്ത് കർമ്മങ്ങൾ തൂക്കിനോക്കുന്ന മീസാനിന്റെ പ്രാധാന്യത്തെക്കുറിച്ചും, വിശ്വാസിയുടെ തുലാസിൽ നന്മയുടെ ഭാരം വർദ്ധിപ്പിക്കുന്ന പ്രത്യേക കർമ്മങ്ങളെക്കുറിച്ചുമുള്ള പഠനം.",
+   "author": "മുഹമ്മദ് സ്വാദിഖ് മദീനി",
+   "issue_date": "2020-03-14",
+   "html_url": "/ml/aqeedah/weighty-deeds-20200314-3.html",
+   "md_url": "/ml/aqeedah/weighty-deeds-20200314-3.md"
+  },
+  {
    "slug": "who-is-worthy-of-worship-20190209-1",
    "lang": "ml",
    "category": "aqeedah",
@@ -12859,6 +12881,17 @@
    "issue_date": "2019-08-31",
    "html_url": "/ml/dawah/characteristics-of-the-wise-20190831-2.html",
    "md_url": "/ml/dawah/characteristics-of-the-wise-20190831-2.md"
+  },
+  {
+   "slug": "charity-and-generosity-20200314-8",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "ദാനശീലവും ഔദാര്യവും",
+   "summary": "ഇസ്‌ലാം പ്രോത്സാഹിപ്പിക്കുന്ന ദാനശീലത്തിന്റെയും ഔദാര്യത്തിന്റെയും മഹത്വത്തെക്കുറിച്ചും, മരണശേഷവും പ്രതിഫലം ലഭിക്കുന്ന കർമ്മങ്ങളെക്കുറിച്ചുമുള്ള പഠനം.",
+   "author": "അബ്ദുൽ ജബ്ബാർ മദീനി",
+   "issue_date": "2020-03-14",
+   "html_url": "/ml/dawah/charity-and-generosity-20200314-8.html",
+   "md_url": "/ml/dawah/charity-and-generosity-20200314-8.md"
   },
   {
    "slug": "conditioning-the-mind-20180602-10",
@@ -15015,6 +15048,17 @@
    "issue_date": "2018-12-08",
    "html_url": "/ml/dawah/why-did-they-become-mujahids-20181208-8.html",
    "md_url": "/ml/dawah/why-did-they-become-mujahids-20181208-8.md"
+  },
+  {
+   "slug": "why-profcon-20200314-2",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "എന്തുകൊണ്ട് ‘പ്രൊഫ്‌കോൺ?’",
+   "summary": "വിദ്യാർത്ഥികളെ ധാർമ്മിക ബോധമുള്ളവരും സാമൂഹിക പ്രതിബദ്ധതയുള്ളവരുമായി വളർത്താൻ ലക്ഷ്യമിട്ടുള്ള 'പ്രൊഫ്‌കോൺ' എന്ന സംരംഭത്തിന്റെ പ്രസക്തിയെക്കുറിച്ചുള്ള മുഖലേഖനം.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2020-03-14",
+   "html_url": "/ml/dawah/why-profcon-20200314-2.html",
+   "md_url": "/ml/dawah/why-profcon-20200314-2.md"
   },
   {
    "slug": "wisdom-in-dawah-prophet-s-approach-20191123-8",
@@ -17206,6 +17250,17 @@
    "md_url": "/ml/history/light-and-darkness-20190119-11.md"
   },
   {
+   "slug": "light-of-a-village-20200314-7",
+   "lang": "ml",
+   "category": "history",
+   "title": "ഒരു ഗ്രാമത്തിന്റെ വെളിച്ചം",
+   "summary": "സാധാരണക്കാരനായി ജീവിച്ച് തന്റെ ഗ്രാമത്തിന് വെളിച്ചമേകിയ ഒരു വ്യക്തിയുടെ ജീവിതാനുഭവങ്ങളും അദ്ദേഹത്തിന്റെ സാമൂഹിക ഇടപെടലുകളും വിവരിക്കുന്ന ലേഖനം.",
+   "author": "ഇബ്നു അലി എടത്തനാട്ടുകര",
+   "issue_date": "2020-03-14",
+   "html_url": "/ml/history/light-of-a-village-20200314-7.html",
+   "md_url": "/ml/history/light-of-a-village-20200314-7.md"
+  },
+  {
    "slug": "mahallu-activities-20191102-7",
    "lang": "ml",
    "category": "history",
@@ -18988,6 +19043,17 @@
    "md_url": "/ml/opinion/realizations-left-behind-by-the-flood-20190831-9.md"
   },
   {
+   "slug": "religion-and-politics-in-cow-slaughter-ban-20200314-4",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "ഗോവധനിരോധനത്തിലെ മതവും രാഷ്ട്രീയവും",
+   "summary": "ഗോവധ നിരോധനത്തിന്റെ പേരിൽ നടക്കുന്ന അക്രമങ്ങളെയും അതിന് പിന്നിലെ രാഷ്ട്രീയത്തെയും വിശകലനം ചെയ്യുന്നു. പുരാതന ഹൈന്ദവ ഗ്രന്ഥങ്ങളുടെയും സ്വാമി വിവേകാനന്ദന്റെ നിലപാടുകളുടെയും അടിസ്ഥാനത്തിൽ ഗോവധം നിഷിദ്ധമല്ലെന്ന് ലേഖകൻ സമർത്ഥിക്കുന്നു.",
+   "author": "ഡോ. സബീൽ പട്ടാമ്പി",
+   "issue_date": "2020-03-14",
+   "html_url": "/ml/opinion/religion-and-politics-in-cow-slaughter-ban-20200314-4.html",
+   "md_url": "/ml/opinion/religion-and-politics-in-cow-slaughter-ban-20200314-4.md"
+  },
+  {
    "slug": "religion-atheism-and-the-constitution-20191109-4",
    "lang": "ml",
    "category": "opinion",
@@ -20165,6 +20231,17 @@
    "md_url": "/ml/quran/al-qalam-the-pen-part-4-20200111-9.md"
   },
   {
+   "slug": "are-the-learned-and-the-unlearned-equal-20200314-5",
+   "lang": "ml",
+   "category": "quran",
+   "title": "അറിവുള്ളവരും അറിവില്ലാത്തവരും സമമാകുമോ?",
+   "summary": "വിജ്ഞാനത്തിന്റെ പ്രാധാന്യത്തെക്കുറിച്ചും അറിവുള്ളവരും അല്ലാത്തവരും തമ്മിലുള്ള വ്യത്യാസത്തെക്കുറിച്ചും ഖുർആനിക വചനങ്ങളുടെ അടിസ്ഥാനത്തിലുള്ള വിശദീകരണം.",
+   "author": "സിറാജുൽ ഇസ്‌ലാം ബാലുശ്ശേരി",
+   "issue_date": "2020-03-14",
+   "html_url": "/ml/quran/are-the-learned-and-the-unlearned-equal-20200314-5.html",
+   "md_url": "/ml/quran/are-the-learned-and-the-unlearned-equal-20200314-5.md"
+  },
+  {
    "slug": "are-you-studying-the-quran-20190518-7",
    "lang": "ml",
    "category": "quran",
@@ -20911,6 +20988,17 @@
    "issue_date": "2019-01-05",
    "html_url": "/ml/quran/tafsir-surah-al-inshiqaq-part-2-20190105-3.html",
    "md_url": "/ml/quran/tafsir-surah-al-inshiqaq-part-2-20190105-3.md"
+  },
+  {
+   "slug": "tafsir-surah-at-tahrim-part-3-20200314-9",
+   "lang": "ml",
+   "category": "quran",
+   "title": "തഫ്‌സീർ (നിഷിദ്ധമാക്കൽ), ഭാഗം: 3",
+   "summary": "സൂറത്തു തഹ്‌രീമിലെ വചനങ്ങളുടെ വിശദീകരണം. സത്യവിശ്വാസികൾക്കുള്ള താക്കീതുകളും പ്രവാചക പത്നിമാരെക്കുറിച്ചുള്ള ഉദാഹരണങ്ങളും ഇതിൽ ചർച്ച ചെയ്യുന്നു.",
+   "author": "അബ്ദുറഹ്മാൻ നാസിർ അശ്ശഅദി",
+   "issue_date": "2020-03-14",
+   "html_url": "/ml/quran/tafsir-surah-at-tahrim-part-3-20200314-9.html",
+   "md_url": "/ml/quran/tafsir-surah-at-tahrim-part-3-20200314-9.md"
   },
   {
    "slug": "the-bitter-consequences-of-disobedience-20180908-1",
@@ -22739,6 +22827,17 @@
    "md_url": "/ml/story/compassion-on-the-road-20181229-7.md"
   },
   {
+   "slug": "delhi-is-crying-20200314-10",
+   "lang": "ml",
+   "category": "story",
+   "title": "ദില്ലി കരയുന്നു",
+   "summary": "ഡൽഹി കലാപത്തിന്റെ പശ്ചാത്തലത്തിൽ മനുഷ്യത്വമില്ലാത്ത അക്രമങ്ങൾക്കെതിരെ രചിച്ച കവിത.",
+   "author": "ഉസ്മാൻ പാലക്കാഴി",
+   "issue_date": "2020-03-14",
+   "html_url": "/ml/story/delhi-is-crying-20200314-10.html",
+   "md_url": "/ml/story/delhi-is-crying-20200314-10.md"
+  },
+  {
    "slug": "did-i-become-a-role-model-20190223-5",
    "lang": "ml",
    "category": "story",
@@ -23947,6 +24046,17 @@
    "issue_date": "2020-01-18",
    "html_url": "/ml/youth/student-protests-cannot-be-suppressed-20200118-6.html",
    "md_url": "/ml/youth/student-protests-cannot-be-suppressed-20200118-6.md"
+  },
+  {
+   "slug": "student-world-and-sense-of-purpose-20200314-1",
+   "lang": "ml",
+   "category": "youth",
+   "title": "വിദ്യാർത്ഥിലോകവും ലക്ഷ്യബോധവും",
+   "summary": "വിദ്യാഭ്യാസരംഗത്തെ കുതിച്ചുചാട്ടത്തിനിടയിലും വിദ്യാർത്ഥികളിൽ നഷ്ടപ്പെട്ടുപോകുന്ന ലക്ഷ്യബോധത്തെയും ധാർമ്മികതയെയും കുറിച്ചുള്ള വിശകലനം. ക്യാമ്പസുകളിലെ സമ്മർദ്ദങ്ങളും ആത്മഹത്യാ പ്രവണതകളും തടയാൻ ധാർമ്മിക ബോധം അനിവാര്യമാണെന്ന് ലേഖനം ഓർമ്മിപ്പിക്കുന്നു.",
+   "author": "നബീൽ പയ്യോളി",
+   "issue_date": "2020-03-14",
+   "html_url": "/ml/youth/student-world-and-sense-of-purpose-20200314-1.html",
+   "md_url": "/ml/youth/student-world-and-sense-of-purpose-20200314-1.md"
   },
   {
    "slug": "the-child-with-goodness-20190727-6",
