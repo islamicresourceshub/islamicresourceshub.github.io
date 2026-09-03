@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-03T08:52:14.323102+00:00",
+ "generated_at": "2026-09-03T08:52:49.445348+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3287,
+ "count": 3288,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -10065,6 +10065,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/ja/quran/what-to-beware-of-when-taking-sides-20170128-7.html",
    "md_url": "/ja/quran/what-to-beware-of-when-taking-sides-20170128-7.md"
+  },
+  {
+   "slug": "ibn-abbas-ra-a-scholar-of-knowledge-20170211-4",
+   "lang": "ja",
+   "category": "seerah",
+   "title": "知識を自らの生き様で示したイブン・アッバース（アッラーのご加護あれ）",
+   "summary": "知識の宝庫であったイブン・アッバース（アッラーのご加護あれ）の生涯と、彼が知識に対して抱いていた深い敬意について解説します。彼の歴史は、現代を生きる私たちにとって大きな模範となります。",
+   "author": "അര്‍ഷദ് താനൂര്‍",
+   "issue_date": "2017-02-11",
+   "html_url": "/ja/seerah/ibn-abbas-ra-a-scholar-of-knowledge-20170211-4.html",
+   "md_url": "/ja/seerah/ibn-abbas-ra-a-scholar-of-knowledge-20170211-4.md"
   },
   {
    "slug": "prophets-and-trials-20170325-7",
