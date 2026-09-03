@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-03T11:08:45.923663+00:00",
+ "generated_at": "2026-09-03T11:09:22.171942+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3463,
+ "count": 3464,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -10747,6 +10747,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/kn/aqeedah/faith-is-the-foundation-of-islam-20170128-13.html",
    "md_url": "/kn/aqeedah/faith-is-the-foundation-of-islam-20170128-13.md"
+  },
+  {
+   "slug": "salafiyyah-ideology-and-stance-20170211-8",
+   "lang": "kn",
+   "category": "aqeedah",
+   "title": "ಸಲಫಿಯ್ಯತ್: ಆದರ್ಶ ಮತ್ತು ನಿಲುವುಗಳು",
+   "summary": "ಸಲಫಿ ಆದರ್ಶದ ಮೂಲ ತತ್ವಗಳು ಮತ್ತು ನಿಲುವುಗಳನ್ನು ವಿವರಿಸುವ ಲೇಖನವಿದು. ಆಧ್ಯಾತ್ಮಿಕ ಕತ್ತಲೆಯನ್ನು ಹೋಗಲಾಡಿಸಲು ಕುರ್‌ಆನ್ ಮತ್ತು ಸುನ್ನತ್ ಹೇಗೆ ಸಹಕಾರಿಯಾಗಿದೆ ಎಂಬುದನ್ನು ಇದು ಸ್ಪಷ್ಟಪಡಿಸುತ್ತದೆ.",
+   "author": "അബ്ദുല്‍ മാലിക് സലഫി",
+   "issue_date": "2017-02-11",
+   "html_url": "/kn/aqeedah/salafiyyah-ideology-and-stance-20170211-8.html",
+   "md_url": "/kn/aqeedah/salafiyyah-ideology-and-stance-20170211-8.md"
   },
   {
    "slug": "they-want-to-see-god-20170204-2",
