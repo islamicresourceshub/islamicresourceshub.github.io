@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-03T09:05:13.635060+00:00",
+ "generated_at": "2026-09-03T09:05:44.897376+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3297,
+ "count": 3307,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -11915,6 +11915,17 @@
    "md_url": "/ml/aqeedah/is-there-proof-for-innovations-20181215-5.md"
   },
   {
+   "slug": "istighatha-and-companions-deception-by-clerics-20200229-3",
+   "lang": "ml",
+   "category": "aqeedah",
+   "title": "ഇസ്തിഗാസയും സ്വഹാബത്തും പുരോഹിതന്മാരുടെ കബളിപ്പിക്കലും",
+   "summary": "അല്ലാഹുവല്ലാത്തവരോട് സഹായം തേടുന്നത് ശിർക്കാണെന്ന് ഖുർആൻ പഠിപ്പിക്കുന്നു. നബി (സ) അല്ലാഹുവോട് മാത്രമാണ് സഹായം തേടിയിരുന്നത്. എന്നാൽ ചില പുരോഹിതന്മാർ സ്വഹാബത്തും നബി (സ) യോട് ജീവിതകാലത്തും മരണശേഷവും ഇസ്തിഗാസ നടത്തിയിരുന്നതായി തെറ്റായി വ്യാഖ്യാനിക്കുന്നു എന്ന് ലേഖനം സ്ഥാപിക്കുന്നു.",
+   "author": "മൂസ സ്വലാഹി, കാര",
+   "issue_date": "2020-02-29",
+   "html_url": "/ml/aqeedah/istighatha-and-companions-deception-by-clerics-20200229-3.html",
+   "md_url": "/ml/aqeedah/istighatha-and-companions-deception-by-clerics-20200229-3.md"
+  },
+  {
    "slug": "jesus-christ-in-the-quran-20181229-12",
    "lang": "ml",
    "category": "aqeedah",
@@ -12727,6 +12738,17 @@
    "issue_date": "2018-11-24",
    "html_url": "/ml/dawah/death-is-not-far-20181124-4.html",
    "md_url": "/ml/dawah/death-is-not-far-20181124-4.md"
+  },
+  {
+   "slug": "dedication-and-cooperation-20200229-5",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "സമർപ്പണം, സഹകരണം",
+   "summary": "ഇസ്‌ലാം പഠിപ്പിക്കുന്ന ഉത്തമ സ്വഭാവങ്ങളിൽ ഒന്നായ സമർപ്പണത്തെക്കുറിച്ചും സഹകരണത്തെക്കുറിച്ചും വിശദീകരിക്കുന്നു. ഇബ്‌റാഹീം നബി (അ)യുടെയും സ്വഹാബികളുടെയും ജീവിതത്തിൽ നിന്ന് ഉദാഹരണങ്ങൾ നൽകുന്നു.",
+   "author": "അബ്ദുൽ ജബ്ബാർ മദീനി",
+   "issue_date": "2020-02-29",
+   "html_url": "/ml/dawah/dedication-and-cooperation-20200229-5.html",
+   "md_url": "/ml/dawah/dedication-and-cooperation-20200229-5.md"
   },
   {
    "slug": "dignified-actions-20190112-1",
@@ -17283,6 +17305,17 @@
    "md_url": "/ml/history/the-mullappoo-revolution-against-the-mullas-who-hindered-mus-20190323-5.md"
   },
   {
+   "slug": "the-organized-form-of-hindutva-20200229-4",
+   "lang": "ml",
+   "category": "history",
+   "title": "ഹിന്ദുത്വത്തിന്റെ സംഘടിത രൂപം",
+   "summary": "ഹിന്ദുത്വത്തിന്റെ സംഘടിത രൂപമായ ആർ.എസ്.എസ്സിന്റെ രൂപീകരണവും ലക്ഷ്യങ്ങളും വിശദീകരിക്കുന്നു. ഫാസിസവുമായുള്ള ബന്ധവും, അതിന്റെ വളർച്ചയും, വിവിധ പോഷക സംഘടനകളെക്കുറിച്ചും ലേഖനം പറയുന്നു.",
+   "author": "ഡോ. സബീൽ പട്ടാമ്പി",
+   "issue_date": "2020-02-29",
+   "html_url": "/ml/history/the-organized-form-of-hindutva-20200229-4.html",
+   "md_url": "/ml/history/the-organized-form-of-hindutva-20200229-4.md"
+  },
+  {
    "slug": "the-past-of-the-village-20191012-6",
    "lang": "ml",
    "category": "history",
@@ -18504,6 +18537,17 @@
    "md_url": "/ml/opinion/mob-violence-campus-politics-and-freedom-of-expression-20180818-1.md"
   },
   {
+   "slug": "moderation-is-the-hallmark-of-islam-20200229-2",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "മിതത്വം ഇസ്‌ലാമിന്റെ മുഖമുദ്ര",
+   "summary": "ഇസ്‌ലാമിനെ തീവ്രവാദവുമായി ബന്ധപ്പെടുത്തി ചിത്രീകരിക്കുന്നവർക്ക് മറുപടിയായി, ഇസ്‌ലാം മിതത്വത്തിന്റെ മതമാണെന്ന് ഈ ലേഖനം സ്ഥാപിക്കുന്നു. വിശ്വാസം, ആരാധന, ജീവിതശൈലി എന്നിവയിലെല്ലാം മിതത്വം പാലിക്കാൻ ഇസ്‌ലാം ആവശ്യപ്പെടുന്നതായി ഖുർആൻ സൂക്തങ്ങൾ ഉദ്ധരിച്ച് വിശദീകരിക്കുന്നു.",
+   "author": "എഡിറ്റർ",
+   "issue_date": "2020-02-29",
+   "html_url": "/ml/opinion/moderation-is-the-hallmark-of-islam-20200229-2.html",
+   "md_url": "/ml/opinion/moderation-is-the-hallmark-of-islam-20200229-2.md"
+  },
+  {
    "slug": "murder-at-maharaja-s-how-did-the-knife-reach-the-campus-20180721-1",
    "lang": "ml",
    "category": "opinion",
@@ -18579,6 +18623,17 @@
    "issue_date": "2018-11-10",
    "html_url": "/ml/opinion/permanent-lok-adalat-20181110-7.html",
    "md_url": "/ml/opinion/permanent-lok-adalat-20181110-7.md"
+  },
+  {
+   "slug": "poisoning-water-bodies-affects-all-fish-20200229-6",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "ജലാശയം വിഷമയമാക്കുന്നത് എല്ലാ മത്സ്യങ്ങളെയും ബാധിക്കും",
+   "summary": "പൗരത്വ ഭേദഗതി നിയമത്തിനെതിരായ പ്രക്ഷോഭങ്ങളെക്കുറിച്ചും, രാജ്യത്തിന്റെ മതേതരത്വത്തെയും ജനാധിപത്യത്തെയും സംരക്ഷിക്കേണ്ടതിന്റെ ആവശ്യകതയെക്കുറിച്ചും ലേഖനം സംസാരിക്കുന്നു. ഇത് എല്ലാവരെയും ബാധിക്കുന്ന പ്രശ്നമാണെന്ന് ഊന്നിപ്പറയുന്നു.",
+   "author": "ടി.കെ. അഷ്‌റഫ്",
+   "issue_date": "2020-02-29",
+   "html_url": "/ml/opinion/poisoning-water-bodies-affects-all-fish-20200229-6.html",
+   "md_url": "/ml/opinion/poisoning-water-bodies-affects-all-fish-20200229-6.md"
   },
   {
    "slug": "population-explosion-truth-and-myth-20190302-5",
@@ -19096,6 +19151,17 @@
    "issue_date": "2019-06-22",
    "html_url": "/ml/opinion/the-message-of-rampant-immorality-20190622-1.html",
    "md_url": "/ml/opinion/the-message-of-rampant-immorality-20190622-1.md"
+  },
+  {
+   "slug": "the-painful-sight-of-hunger-20200229-8",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "വിശപ്പിന്റെ വേദനപ്പിക്കുന്ന കാഴ്ച",
+   "summary": "ഒരു വ്യക്തിയുടെ ദയനീയമായ അവസ്ഥയെക്കുറിച്ചുള്ള ഓർമ്മപ്പെടുത്തൽ. വിശപ്പും ദാരിദ്ര്യവും കാരണം തെരുവിൽ അലയുന്ന ഒരാളുടെ ദുരിതപൂർണ്ണമായ ജീവിതത്തെക്കുറിച്ചുള്ള ഹൃദയസ്പർശിയായ അനുഭവം.",
+   "author": "സലാം സുറുമ എടത്തനാട്ടുകര",
+   "issue_date": "2020-02-29",
+   "html_url": "/ml/opinion/the-painful-sight-of-hunger-20200229-8.html",
+   "md_url": "/ml/opinion/the-painful-sight-of-hunger-20200229-8.md"
   },
   {
    "slug": "the-palestine-issue-and-india-s-changing-stance-20190629-7",
@@ -19846,6 +19912,17 @@
    "md_url": "/ml/quran/are-you-studying-the-quran-20190518-7.md"
   },
   {
+   "slug": "at-tahrim-prohibition-20200229-7",
+   "lang": "ml",
+   "category": "quran",
+   "title": "തഹ്‌രീം (നിഷിദ്ധമാക്കൽ)",
+   "summary": "ഖുർആനിലെ സൂറത്ത് തഹ്‌രീമിന്റെ ഒന്നാം ഭാഗത്തിന്റെ തഫ്‌സീർ. പ്രവാചകൻ (സ) തനിക്ക് അനുവദിക്കപ്പെട്ട ഒന്നിനെ ഭാര്യമാരുടെ പ്രീതിക്കായി നിഷിദ്ധമാക്കിയതിനെക്കുറിച്ചും അതിലെ മതപരമായ വിധികൾ വിശദീകരിക്കുന്നു.",
+   "author": "അബ്ദുറഹ്മാൻ നാസിർ അസ്സഅദി",
+   "issue_date": "2020-02-29",
+   "html_url": "/ml/quran/at-tahrim-prohibition-20200229-7.html",
+   "md_url": "/ml/quran/at-tahrim-prohibition-20200229-7.md"
+  },
+  {
    "slug": "at-tariq-the-night-comer-20181027-2",
    "lang": "ml",
    "category": "quran",
@@ -20572,6 +20649,17 @@
    "md_url": "/ml/quran/the-bitter-consequences-of-disobedience-20180908-1.md"
   },
   {
+   "slug": "the-ever-forgiving-allah-20200229-9",
+   "lang": "ml",
+   "category": "quran",
+   "title": "ഏറെ പൊറുക്കുന്ന അല്ലാഹു",
+   "summary": "മനുഷ്യസഹജമായ തെറ്റുകൾ സംഭവിച്ചാലും അല്ലാഹുവിന്റെ കാരുണ്യത്തെക്കുറിച്ച് നിരാശപ്പെടരുതെന്ന് ഈ ലേഖനം ഓർമ്മിപ്പിക്കുന്നു. അല്ലാഹു പാപങ്ങൾ പൊറുക്കുന്നവനും കരുണാനിധിയുമാണെന്ന് ഖുർആൻ സൂക്തങ്ങൾ ഉദ്ധരിച്ച് വിശദീകരിക്കുന്നു.",
+   "author": "സിറാജുൽ ഇസ്‌ലാം ബാലുശ്ശേരി",
+   "issue_date": "2020-02-29",
+   "html_url": "/ml/quran/the-ever-forgiving-allah-20200229-9.html",
+   "md_url": "/ml/quran/the-ever-forgiving-allah-20200229-9.md"
+  },
+  {
    "slug": "the-gateway-of-knowledge-opened-by-the-holy-quran-20191102-12",
    "lang": "ml",
    "category": "quran",
@@ -20614,6 +20702,28 @@
    "issue_date": "2018-11-24",
    "html_url": "/ml/quran/the-quran-previous-scriptures-and-the-continuity-of-values-20181124-3.html",
    "md_url": "/ml/quran/the-quran-previous-scriptures-and-the-continuity-of-values-20181124-3.md"
+  },
+  {
+   "slug": "the-sun-through-quranic-references-20200229-1",
+   "lang": "ml",
+   "category": "quran",
+   "title": "സൂര്യൻ ഖുർആനിക പരാമർശങ്ങളിലൂടെ",
+   "summary": "സൂര്യൻ സൃഷ്ടിപ്പിന്റെ അത്ഭുതങ്ങളിൽ ഒന്നാണെന്നും, അതിന്റെ ഊർജ്ജ സ്രോതസ്സ്, സവിശേഷതകൾ എന്നിവയെക്കുറിച്ചും ഖുർആനിക പരാമർശങ്ങളിലൂടെ വിശദീകരിക്കുന്നു. ദൈവികവും ശാസ്ത്രീയവുമായ കാഴ്ചപ്പാടിൽ സൂര്യനെ അടുത്തറിയാനുള്ള ശ്രമമാണിത്.",
+   "author": "ഡോ. പി.കെ അബ്ദുസാക്ക് സുല്ലമി",
+   "issue_date": "2020-02-29",
+   "html_url": "/ml/quran/the-sun-through-quranic-references-20200229-1.html",
+   "md_url": "/ml/quran/the-sun-through-quranic-references-20200229-1.md"
+  },
+  {
+   "slug": "the-sun-through-quranic-references-20200229-10",
+   "lang": "ml",
+   "category": "quran",
+   "title": "സൂര്യൻ ക്വുർആനിക പരാമർശങ്ങളിലൂടെ",
+   "summary": "സൂര്യന്റെ അടിസ്ഥാന വിവരങ്ങൾ, ഊർജ്ജോത്പാദനം, ചലനങ്ങൾ, പ്രകാശത്തിന്റെ സ്വഭാവം എന്നിവയെക്കുറിച്ചുള്ള ശാസ്ത്രീയ വിവരങ്ങൾ ഖുർആനിക പരാമർശങ്ങളുമായി ബന്ധപ്പെടുത്തി വിശദീകരിക്കുന്നു. സൂര്യൻ അല്ലാഹുവിന്റെ ദൃഷ്ടാന്തമാണെന്ന് സ്ഥാപിക്കുന്നു.",
+   "author": "ഡോ. പി.കെ അബ്ദുറസാക്ക് സുല്ലമി",
+   "issue_date": "2020-02-29",
+   "html_url": "/ml/quran/the-sun-through-quranic-references-20200229-10.html",
+   "md_url": "/ml/quran/the-sun-through-quranic-references-20200229-10.md"
   },
   {
    "slug": "the-totality-of-islam-20200201-9",
