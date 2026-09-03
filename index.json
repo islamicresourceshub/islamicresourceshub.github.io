@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-03T14:13:54.554093+00:00",
+ "generated_at": "2026-09-03T14:16:50.358038+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3558,
+ "count": 3559,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -3190,6 +3190,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/bs/family/our-parents-20170325-4.html",
    "md_url": "/bs/family/our-parents-20170325-4.md"
+  },
+  {
+   "slug": "school-annual-day-experiences-20170211-10",
+   "lang": "bs",
+   "category": "family",
+   "title": "Iskustva sa školskih priredbi",
+   "summary": "Osvrt na iskustva stečena tokom učešća na godišnjim školskim priredbama. Tekst govori o važnosti podsticanja dječijih talenata i prepoznavanju blagodati koje posjedujemo.",
+   "author": "ഇബ്‌നു അലി എടത്തനാട്ടുകര",
+   "issue_date": "2017-02-11",
+   "html_url": "/bs/family/school-annual-day-experiences-20170211-10.html",
+   "md_url": "/bs/family/school-annual-day-experiences-20170211-10.md"
   },
   {
    "slug": "the-methodology-of-conduct-20170128-8",
