@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-03T11:22:54.843081+00:00",
+ "generated_at": "2026-09-03T11:23:37.849293+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3494,
+ "count": 3495,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -1012,6 +1012,17 @@
    "issue_date": "2017-02-04",
    "html_url": "/ar/dawah/religious-preachers-must-be-exemplary-20170204-6.html",
    "md_url": "/ar/dawah/religious-preachers-must-be-exemplary-20170204-6.md"
+  },
+  {
+   "slug": "seeking-truth-is-not-a-crime-20170211-9",
+   "lang": "ar",
+   "category": "dawah",
+   "title": "البحث عن الحقيقة ليس جريمة",
+   "summary": "يتناول هذا المقال الاحتياجات الأساسية للإنسان وأهمية البحث عن الحقيقة، مؤكداً أن السعي وراء المعرفة والحقيقة هو حق أصيل من حقوق الإنسان ولا ينبغي تجريمه أو اعتباره خطيئة.",
+   "author": "ഡോ.മീന",
+   "issue_date": "2017-02-11",
+   "html_url": "/ar/dawah/seeking-truth-is-not-a-crime-20170211-9.html",
+   "md_url": "/ar/dawah/seeking-truth-is-not-a-crime-20170211-9.md"
   },
   {
    "slug": "stand-tall-20170121-8",
