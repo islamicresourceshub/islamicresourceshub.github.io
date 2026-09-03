@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-03T11:22:16.686934+00:00",
+ "generated_at": "2026-09-03T11:22:54.843081+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3493,
+ "count": 3494,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -341,6 +341,17 @@
    "issue_date": "2017-02-04",
    "html_url": "/am/dawah/religious-preachers-must-be-exemplary-20170204-6.html",
    "md_url": "/am/dawah/religious-preachers-must-be-exemplary-20170204-6.md"
+  },
+  {
+   "slug": "seeking-truth-is-not-a-crime-20170211-9",
+   "lang": "am",
+   "category": "dawah",
+   "title": "እውነትን መፈለግ ወንጀል አይደለም",
+   "summary": "ይህ ጽሑፍ የሰውን ልጅ መሠረታዊ ፍላጎቶች እና እውነትን የመፈለግ መብት ይዳስሳል። እውነትን መፈለግ ወንጀል ሳይሆን የሰው ልጅ ተፈጥሯዊ መብት እንደሆነ እና ኢስላምን በተመለከተ ያሉ የተሳሳቱ አመለካከቶችን ይተነትናል።",
+   "author": "ഡോ.മീന",
+   "issue_date": "2017-02-11",
+   "html_url": "/am/dawah/seeking-truth-is-not-a-crime-20170211-9.html",
+   "md_url": "/am/dawah/seeking-truth-is-not-a-crime-20170211-9.md"
   },
   {
    "slug": "showing-the-light-is-the-duty-of-scholars-20170121-14",
