@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-03T10:26:09.543034+00:00",
+ "generated_at": "2026-09-03T10:26:37.959381+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3420,
+ "count": 3421,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -32373,6 +32373,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/ta/fiqh/mosque-construction-some-points-to-note-20170325-5.html",
    "md_url": "/ta/fiqh/mosque-construction-some-points-to-note-20170325-5.md"
+  },
+  {
+   "slug": "the-alcoholic-father-20170211-7",
+   "lang": "ta",
+   "category": "fiqh",
+   "title": "மதுப்பழக்கമുള്ള தந்தை",
+   "summary": "மது அருந்தும் பழக்கமுள்ள தந்தைக்கு மகன் அனுப்பும் பணத்தை அவர் மது வாங்கப் பயன்படுத்துவது குறித்து இஸ்லாமிய சட்ட ரீதியான விளக்கம் மற்றும் தீர்வு.",
+   "author": "ഹാരിസ്ബിന്‍ സലീം",
+   "issue_date": "2017-02-11",
+   "html_url": "/ta/fiqh/the-alcoholic-father-20170211-7.html",
+   "md_url": "/ta/fiqh/the-alcoholic-father-20170211-7.md"
   },
   {
    "slug": "control-your-mind-20170325-3",
