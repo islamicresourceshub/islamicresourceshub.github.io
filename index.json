@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-03T08:31:22.889691+00:00",
+ "generated_at": "2026-09-03T08:33:13.849164+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3257,
+ "count": 3258,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -35354,6 +35354,17 @@
    "issue_date": "2017-02-04",
    "html_url": "/vi/story/abdullah-s-mistake-20170204-1.html",
    "md_url": "/vi/story/abdullah-s-mistake-20170204-1.md"
+  },
+  {
+   "slug": "allah-is-watching-20170211-3",
+   "lang": "vi",
+   "category": "story",
+   "title": "Allah nhìn thấy",
+   "summary": "Đây là câu chuyện truyền tải những bài học về sự trung thực và lòng kính sợ Allah thông qua cuộc đời của người nông dân Hasan. Nhận thức rằng Allah luôn quan sát sẽ dẫn dắt con người đến với những điều tốt đẹp.",
+   "author": "തന്‍വീര്‍",
+   "issue_date": "2017-02-11",
+   "html_url": "/vi/story/allah-is-watching-20170211-3.html",
+   "md_url": "/vi/story/allah-is-watching-20170211-3.md"
   },
   {
    "slug": "good-intention-matters-most-20170325-8",
