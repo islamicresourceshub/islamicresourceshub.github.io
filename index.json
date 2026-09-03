@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-03T10:28:42.717807+00:00",
+ "generated_at": "2026-09-03T10:29:09.036293+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3434,
+ "count": 3435,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -35706,6 +35706,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/ur/fiqh/mosque-construction-some-points-to-note-20170325-5.html",
    "md_url": "/ur/fiqh/mosque-construction-some-points-to-note-20170325-5.md"
+  },
+  {
+   "slug": "the-alcoholic-father-20170211-7",
+   "lang": "ur",
+   "category": "fiqh",
+   "title": "شرابی والد",
+   "summary": "شراب نوش والد کو بیٹے کی طرف سے دی جانے والی رقم سے شراب خریدنے کے مسئلے پر فقہی نقطہ نظر سے جواب۔",
+   "author": "ഹാരിസ്ബിന്‍ സലീം",
+   "issue_date": "2017-02-11",
+   "html_url": "/ur/fiqh/the-alcoholic-father-20170211-7.html",
+   "md_url": "/ur/fiqh/the-alcoholic-father-20170211-7.md"
   },
   {
    "slug": "control-your-mind-20170325-3",
