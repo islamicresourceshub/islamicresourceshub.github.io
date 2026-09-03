@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-03T10:26:37.959381+00:00",
+ "generated_at": "2026-09-03T10:27:10.098749+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3421,
+ "count": 3422,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -33011,6 +33011,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/te/fiqh/mosque-construction-some-points-to-note-20170325-5.html",
    "md_url": "/te/fiqh/mosque-construction-some-points-to-note-20170325-5.md"
+  },
+  {
+   "slug": "the-alcoholic-father-20170211-7",
+   "lang": "te",
+   "category": "fiqh",
+   "title": "మద్యపాన వ్యసనం ఉన్న తండ్రి",
+   "summary": "మద్యపాన వ్యసనం ఉన్న తండ్రికి పంపే డబ్బును ఆయన మద్యం కోసం ఉపయోగిస్తుంటే, ఆ విషయంలో కొడుకు బాధ్యత ఏమిటి మరియు ఇస్లామీయ దృక్పథంలో దీని పరిష్కారం ఏమిటి అనే అంశంపై వివరణ.",
+   "author": "ഹാരിസ്ബിന്‍ സലീം",
+   "issue_date": "2017-02-11",
+   "html_url": "/te/fiqh/the-alcoholic-father-20170211-7.html",
+   "md_url": "/te/fiqh/the-alcoholic-father-20170211-7.md"
   },
   {
    "slug": "control-your-mind-20170325-3",
