@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-03T11:24:52.600686+00:00",
+ "generated_at": "2026-09-03T11:25:34.466485+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3497,
+ "count": 3498,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -3003,6 +3003,17 @@
    "issue_date": "2017-02-04",
    "html_url": "/bs/dawah/religious-preachers-must-be-exemplary-20170204-6.html",
    "md_url": "/bs/dawah/religious-preachers-must-be-exemplary-20170204-6.md"
+  },
+  {
+   "slug": "seeking-truth-is-not-a-crime-20170211-9",
+   "lang": "bs",
+   "category": "dawah",
+   "title": "Traganje za istinom nije zločin",
+   "summary": "Članak govori o osnovnim ljudskim potrebama i važnosti traganja za istinom. Autor ističe da potraga za smislom života nije kažnjivo djelo, već temeljno ljudsko pravo.",
+   "author": "ഡോ.മീന",
+   "issue_date": "2017-02-11",
+   "html_url": "/bs/dawah/seeking-truth-is-not-a-crime-20170211-9.html",
+   "md_url": "/bs/dawah/seeking-truth-is-not-a-crime-20170211-9.md"
   },
   {
    "slug": "showing-the-light-is-the-duty-of-scholars-20170121-14",
