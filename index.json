@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-03T09:38:15.577705+00:00",
+ "generated_at": "2026-09-03T09:38:49.972365+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3352,
+ "count": 3353,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -25872,6 +25872,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/ne/youth/an-agenda-is-needed-during-vacation-too-20170325-1.html",
    "md_url": "/ne/youth/an-agenda-is-needed-during-vacation-too-20170325-1.md"
+  },
+  {
+   "slug": "e-ahamed-s-message-to-the-youth-20170211-5",
+   "lang": "ne",
+   "category": "youth",
+   "title": "ई. अहमद युवा पुस्तालाई के भन्दै हुनुहुन्छ",
+   "summary": "यो लेख ई. अहमद साहेबको जीवन दर्शन र युवा पुस्ताका लागि उहाँका उपदेशहरूबारे छ। उहाँले आफ्नो जीवनभर सक्रिय सेवाको महत्त्वलाई जोड दिनुभएको छ।",
+   "author": "ഡോ. സി.എം സാബിര്‍ നവാസ്",
+   "issue_date": "2017-02-11",
+   "html_url": "/ne/youth/e-ahamed-s-message-to-the-youth-20170211-5.html",
+   "md_url": "/ne/youth/e-ahamed-s-message-to-the-youth-20170211-5.md"
   },
   {
    "slug": "what-will-the-waste-do-20170114-5",
