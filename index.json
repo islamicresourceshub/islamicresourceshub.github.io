@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-03T11:35:14.161468+00:00",
+ "generated_at": "2026-09-03T11:35:41.395533+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3511,
+ "count": 3522,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -13972,6 +13972,17 @@
    "md_url": "/ml/dawah/friendships-of-solace-20191019-13.md"
   },
   {
+   "slug": "gentleness-20200418-9",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "സൗമ്യത",
+   "summary": "ജീവിതത്തിന്റെ എല്ലാ മേഖലകളിലും സൗമ്യതയും മൃദുലതയും പാലിക്കേണ്ടതിന്റെ പ്രാധാന്യത്തെ തിരുവചനങ്ങളുടെ അടിസ്ഥാനത്തിൽ വിവരിക്കുന്നു.",
+   "author": "അബ്ദുൽ ജബ്ബാർ മദ്‌നി",
+   "issue_date": "2020-04-18",
+   "html_url": "/ml/dawah/gentleness-20200418-9.html",
+   "md_url": "/ml/dawah/gentleness-20200418-9.md"
+  },
+  {
    "slug": "getting-closer-to-the-creator-20170401-12",
    "lang": "ml",
    "category": "dawah",
@@ -14234,6 +14245,17 @@
    "issue_date": "2019-09-14",
    "html_url": "/ml/dawah/islam-and-human-harmony-20190914-4.html",
    "md_url": "/ml/dawah/islam-and-human-harmony-20190914-4.md"
+  },
+  {
+   "slug": "islam-is-goodness-20200418-10",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "ഇസ്‌ലാം നന്മയാണ്",
+   "summary": "മരണത്തെക്കുറിച്ചുള്ള ചിന്തയും ജീവിതത്തിന്റെ ലക്ഷ്യവും ഇസ്‌ലാം എങ്ങനെ നോക്കിക്കാണുന്നു എന്ന് വിശദീകരിക്കുന്ന ലേഖനം.",
+   "author": "നബീൽ പയ്യോളി",
+   "issue_date": "2020-04-18",
+   "html_url": "/ml/dawah/islam-is-goodness-20200418-10.html",
+   "md_url": "/ml/dawah/islam-is-goodness-20200418-10.md"
   },
   {
    "slug": "islam-the-path-of-fearlessness-20191221-4",
@@ -14894,6 +14916,17 @@
    "issue_date": "2019-06-15",
    "html_url": "/ml/dawah/sincerity-in-life-and-work-20190615-2.html",
    "md_url": "/ml/dawah/sincerity-in-life-and-work-20190615-2.md"
+  },
+  {
+   "slug": "six-basic-things-to-observe-during-difficult-times-20200418-3",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "പ്രയാസഘട്ടത്തിൽ ശ്രദ്ധിക്കേണ്ട അടിസ്ഥാന ആറ് കാര്യങ്ങൾ",
+   "summary": "പ്രയാസകരമായ സാഹചര്യങ്ങളിൽ ഒരു വിശ്വാസി സ്വീകരിക്കേണ്ട ആറ് അടിസ്ഥാനപരമായ കാര്യങ്ങളെ ഖുർആനിന്റെയും സുന്നത്തിന്റെയും വെളിച്ചത്തിൽ വിശദീകരിക്കുന്നു.",
+   "author": "സ്വാലിഹ് ഇബ്നു അബ്ദുല്ലാഹ് ഇബ്നുഹമദ് അൽ ഉസൈമി",
+   "issue_date": "2020-04-18",
+   "html_url": "/ml/dawah/six-basic-things-to-observe-during-difficult-times-20200418-3.html",
+   "md_url": "/ml/dawah/six-basic-things-to-observe-during-difficult-times-20200418-3.md"
   },
   {
    "slug": "snippets-from-memory-20181229-9",
@@ -17459,6 +17492,17 @@
    "md_url": "/ml/hadith/what-remains-forever-20191116-2.md"
   },
   {
+   "slug": "corona-virus-an-overview-20200418-4",
+   "lang": "ml",
+   "category": "health",
+   "title": "കൊറോണ വൈറസ്: ഒരൊത്തിനോട്ടം",
+   "summary": "കൊറോണ വൈറസിന്റെ ഉത്ഭവം, വ്യാപന രീതികൾ, രോഗലക്ഷണങ്ങൾ, ചികിത്സാ മാർഗ്ഗങ്ങൾ എന്നിവയെക്കുറിച്ചുള്ള ശാസ്ത്രീയമായ അവലോകനം.",
+   "author": "ഡോ.യാസിർ",
+   "issue_date": "2020-04-18",
+   "html_url": "/ml/health/corona-virus-an-overview-20200418-4.html",
+   "md_url": "/ml/health/corona-virus-an-overview-20200418-4.md"
+  },
+  {
    "slug": "dental-care-in-children-things-to-note-20191130-5",
    "lang": "ml",
    "category": "health",
@@ -18966,6 +19010,17 @@
    "md_url": "/ml/opinion/court-system-20180623-4.md"
   },
   {
+   "slug": "covid-spread-who-is-responsible-20200418-1",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "കോവിഡ് വ്യാപനം: ഉത്തരവാദിത്തം ആർക്ക്?",
+   "summary": "കോവിഡ് വ്യാപനത്തിന്റെ പശ്ചാത്തലത്തിൽ ഇന്ത്യയിലെ സാഹചര്യങ്ങളെയും ഭരണകൂടങ്ങളുടെയും ജനങ്ങളുടെയും ഉത്തരവാദിത്തങ്ങളെയും വിശകലനം ചെയ്യുന്ന ലേഖനം. ഒരു പ്രത്യേക വിഭാഗത്തെ മാത്രം കുറ്റപ്പെടുത്തുന്ന പ്രവണതയെ ഇത് വിമർശിക്കുന്നു.",
+   "author": "സുഫ്‌യാൻ അബ്ദുസ്സലാം",
+   "issue_date": "2020-04-18",
+   "html_url": "/ml/opinion/covid-spread-who-is-responsible-20200418-1.html",
+   "md_url": "/ml/opinion/covid-spread-who-is-responsible-20200418-1.md"
+  },
+  {
    "slug": "crimes-and-media-exaggeration-20191026-3",
    "lang": "ml",
    "category": "opinion",
@@ -19206,6 +19261,17 @@
    "issue_date": "2020-03-28",
    "html_url": "/ml/opinion/fascism-democracy-secularism-20200328-2.html",
    "md_url": "/ml/opinion/fascism-democracy-secularism-20200328-2.md"
+  },
+  {
+   "slug": "fascism-democracy-secularism-20200418-6",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "ഫാഷിസം, ജനാധിപത്യം, മതനിരപേക്ഷത",
+   "summary": "ഇന്ത്യയിലെ ഫാഷിസ്റ്റ് പ്രവണതകളെയും ജനാധിപത്യത്തെയും മതനിരപേക്ഷതയെയും കുറിച്ച് കെ.ഇ.എൻ കുഞ്ഞഹമ്മദുമായി നടത്തിയ അഭിമുഖം.",
+   "author": "കെ.ഇ.എൻ കുഞ്ഞഹമ്മദ് / ഡോ. സി. മുഹമ്മദ് റാഫി",
+   "issue_date": "2020-04-18",
+   "html_url": "/ml/opinion/fascism-democracy-secularism-20200418-6.html",
+   "md_url": "/ml/opinion/fascism-democracy-secularism-20200418-6.md"
   },
   {
    "slug": "fascism-is-history-repeating-itself-20200208-1",
@@ -19536,6 +19602,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/ml/opinion/join-the-party-let-the-battle-begin-20170128-6.html",
    "md_url": "/ml/opinion/join-the-party-let-the-battle-begin-20170128-6.md"
+  },
+  {
+   "slug": "karnataka-s-stubbornness-20200418-2",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "കർണാടകയുടെ കടുംപിടിത്തം",
+   "summary": "ലോക്ക്ഡൗൺ കാലത്ത് കേരളത്തിലേക്കുള്ള പാതകൾ അടച്ച കർണാടക സർക്കാരിന്റെ മനുഷ്യവിരുദ്ധമായ നിലപാടിനെ വിമർശിക്കുന്ന മുഖലേഖനം.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2020-04-18",
+   "html_url": "/ml/opinion/karnataka-s-stubbornness-20200418-2.html",
+   "md_url": "/ml/opinion/karnataka-s-stubbornness-20200418-2.md"
   },
   {
    "slug": "karoovalli-s-perspectives-and-successors-approaches-20180804-8",
@@ -23718,6 +23795,17 @@
    "md_url": "/ml/story/avadhi-the-deadline-20181208-1.md"
   },
   {
+   "slug": "be-merciful-o-rahim-20200418-8",
+   "lang": "ml",
+   "category": "story",
+   "title": "കനിയു റഹീമേ...",
+   "summary": "അല്ലാഹുവിനോട് പാപമോചനവും കാരുണ്യവും തേടിക്കൊണ്ടുള്ള പ്രാർത്ഥനാപരമായ കവിത.",
+   "author": "വി.ടി അബ്ദുസ്സലാം",
+   "issue_date": "2020-04-18",
+   "html_url": "/ml/story/be-merciful-o-rahim-20200418-8.html",
+   "md_url": "/ml/story/be-merciful-o-rahim-20200418-8.md"
+  },
+  {
    "slug": "beautiful-sights-20200222-13",
    "lang": "ml",
    "category": "story",
@@ -23947,6 +24035,17 @@
    "issue_date": "2019-06-01",
    "html_url": "/ml/story/iftar-in-hiding-places-20190601-7.html",
    "md_url": "/ml/story/iftar-in-hiding-places-20190601-7.md"
+  },
+  {
+   "slug": "it-is-time-20200418-7",
+   "lang": "ml",
+   "category": "story",
+   "title": "നേരമായി",
+   "summary": "ജീവിതത്തിന്റെ നശ്വരതയെയും പരലോകത്തെക്കുറിച്ചുള്ള ചിന്തയെയും ഓർമ്മിപ്പിക്കുന്ന കവിത.",
+   "author": "വി.ടി അബ്ദുസ്സലാം",
+   "issue_date": "2020-04-18",
+   "html_url": "/ml/story/it-is-time-20200418-7.html",
+   "md_url": "/ml/story/it-is-time-20200418-7.md"
   },
   {
    "slug": "journey-of-the-soul-20180512-9",
@@ -24224,6 +24323,17 @@
    "md_url": "/ml/story/silent-crying-20191207-5.md"
   },
   {
+   "slug": "sorrows-of-a-covid-19-patient-20200418-11",
+   "lang": "ml",
+   "category": "story",
+   "title": "ഒരു 'കോവിഡ് 19' രോഗിയുടെ സങ്കടങ്ങൾ",
+   "summary": "കോവിഡ് ബാധിതനായി ഐസൊലേഷനിൽ കഴിയുന്ന ഒരാളുടെ പശ്ചാത്താപവും സങ്കടവും പ്രകടിപ്പിക്കുന്ന കവിത.",
+   "author": "ഉസ്മാൻ പാലക്കാഴി",
+   "issue_date": "2020-04-18",
+   "html_url": "/ml/story/sorrows-of-a-covid-19-patient-20200418-11.html",
+   "md_url": "/ml/story/sorrows-of-a-covid-19-patient-20200418-11.md"
+  },
+  {
    "slug": "sugar-like-gold-dust-20170128-11",
    "lang": "ml",
    "category": "story",
@@ -24453,6 +24563,17 @@
    "issue_date": "2019-10-12",
    "html_url": "/ml/story/the-handsome-and-the-ugly-20191012-10.html",
    "md_url": "/ml/story/the-handsome-and-the-ugly-20191012-10.md"
+  },
+  {
+   "slug": "the-innocent-deceived-20200418-5",
+   "lang": "ml",
+   "category": "story",
+   "title": "ചതിക്കപ്പെടുന്ന നിഷ്കളങ്കർ",
+   "summary": "മറ്റൊരാളുടെ ബിസിനസ് ആവശ്യങ്ങൾക്കായി തന്റെ രേഖകൾ നൽകി ചതിക്കപ്പെട്ട ഒരു സാധാരണക്കാരന്റെ ദയനീയമായ അവസ്ഥയെക്കുറിച്ചുള്ള കഥ.",
+   "author": "ഇബ്നു അലി എടത്തനാട്ടുകര",
+   "issue_date": "2020-04-18",
+   "html_url": "/ml/story/the-innocent-deceived-20200418-5.html",
+   "md_url": "/ml/story/the-innocent-deceived-20200418-5.md"
   },
   {
    "slug": "the-joy-of-moon-sighting-20190511-8",
