@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-03T11:30:18.404699+00:00",
+ "generated_at": "2026-09-03T11:31:10.075657+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3507,
+ "count": 3508,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -9680,6 +9680,17 @@
    "issue_date": "2017-02-04",
    "html_url": "/it/dawah/religious-preachers-must-be-exemplary-20170204-6.html",
    "md_url": "/it/dawah/religious-preachers-must-be-exemplary-20170204-6.md"
+  },
+  {
+   "slug": "seeking-truth-is-not-a-crime-20170211-9",
+   "lang": "it",
+   "category": "dawah",
+   "title": "La ricerca della verità non è un crimine",
+   "summary": "Un articolo che riflette sui bisogni fondamentali dell'essere umano e sull'importanza della ricerca della verità. Sostiene che cercare la verità non sia un atto criminale, ma un diritto inalienabile di ogni persona.",
+   "author": "ഡോ.മീന",
+   "issue_date": "2017-02-11",
+   "html_url": "/it/dawah/seeking-truth-is-not-a-crime-20170211-9.html",
+   "md_url": "/it/dawah/seeking-truth-is-not-a-crime-20170211-9.md"
   },
   {
    "slug": "showing-the-light-is-the-duty-of-scholars-20170121-14",
