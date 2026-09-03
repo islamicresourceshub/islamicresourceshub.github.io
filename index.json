@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-03T09:33:45.999413+00:00",
+ "generated_at": "2026-09-03T09:34:17.180246+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3347,
+ "count": 3348,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -10351,6 +10351,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/ja/youth/an-agenda-is-needed-during-vacation-too-20170325-1.html",
    "md_url": "/ja/youth/an-agenda-is-needed-during-vacation-too-20170325-1.md"
+  },
+  {
+   "slug": "e-ahamed-s-message-to-the-youth-20170211-5",
+   "lang": "ja",
+   "category": "youth",
+   "title": "E・アハメドが次世代に伝えること",
+   "summary": "E・アハメド氏の人生観と、彼が次世代の若者たちに残した教訓についての記事です。絶え間ない献身と奉仕に捧げた彼の生涯から、私たちが学ぶべき姿勢を紐解きます。",
+   "author": "ഡോ. സി.എം സാബിര്‍ നവാസ്",
+   "issue_date": "2017-02-11",
+   "html_url": "/ja/youth/e-ahamed-s-message-to-the-youth-20170211-5.html",
+   "md_url": "/ja/youth/e-ahamed-s-message-to-the-youth-20170211-5.md"
   },
   {
    "slug": "what-will-the-waste-do-20170114-5",
