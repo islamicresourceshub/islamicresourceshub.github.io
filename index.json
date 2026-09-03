@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-03T04:23:34.554861+00:00",
+ "generated_at": "2026-09-03T05:45:20.647315+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3249,
+ "count": 3250,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -29843,6 +29843,17 @@
    "issue_date": "2017-02-04",
    "html_url": "/sq/story/abdullah-s-mistake-20170204-1.html",
    "md_url": "/sq/story/abdullah-s-mistake-20170204-1.md"
+  },
+  {
+   "slug": "allah-is-watching-20170211-3",
+   "lang": "sq",
+   "category": "story",
+   "title": "Allah vëzhgijon",
+   "summary": "Një historinë e Hasan farmerit, ku mësoni të drejtat e vërtetës dhe bashkëqeverisja e Zotit; ku bashkëbënja e Zotit gjithmonë ndikon njerin e mirë.",
+   "author": "തന്‍വീര്‍",
+   "issue_date": "2017-02-11",
+   "html_url": "/sq/story/allah-is-watching-20170211-3.html",
+   "md_url": "/sq/story/allah-is-watching-20170211-3.md"
   },
   {
    "slug": "good-intention-matters-most-20170325-8",
