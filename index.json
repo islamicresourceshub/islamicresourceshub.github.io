@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-03T11:20:21.824107+00:00",
+ "generated_at": "2026-09-03T11:20:41.015650+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3483,
+ "count": 3490,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -14236,6 +14236,17 @@
    "md_url": "/ml/dawah/making-life-meaningful-20180901-3.md"
   },
   {
+   "slug": "mercy-20200411-5",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "കാരുണ്യം",
+   "summary": "ഇസ്‌ലാം പഠിപ്പിക്കുന്ന ഉത്തമ സ്വഭാവങ്ങളിൽ ഒന്നായ കാരുണ്യത്തെക്കുറിച്ചും പ്രവാചകന്റെ ജീവിതത്തിലെ കാരുണ്യനിർഭരമായ സംഭവങ്ങളെക്കുറിച്ചുമുള്ള ലേഖനം.",
+   "author": "അബ്ദുൽ ജബ്ബാർ മദീനി",
+   "issue_date": "2020-04-11",
+   "html_url": "/ml/dawah/mercy-20200411-5.html",
+   "md_url": "/ml/dawah/mercy-20200411-5.md"
+  },
+  {
    "slug": "minds-washed-by-the-flood-20200111-3",
    "lang": "ml",
    "category": "dawah",
@@ -14784,6 +14795,17 @@
    "issue_date": "2019-03-02",
    "html_url": "/ml/dawah/suicide-attacks-what-islam-says-20190302-1.html",
    "md_url": "/ml/dawah/suicide-attacks-what-islam-says-20190302-1.md"
+  },
+  {
+   "slug": "ten-advices-to-protect-from-pandemics-20200411-3",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "പകർച്ചവ്യാധികളിൽ നിന്ന് രക്ഷനേടാൻ പത്ത് ഉപദേശങ്ങൾ",
+   "summary": "പകർച്ചവ്യാധികളിൽ നിന്ന് സംരക്ഷണം ലഭിക്കാൻ വിശ്വാസികൾ സ്വീകരിക്കേണ്ട പ്രാർത്ഥനകളും സൽകർമ്മങ്ങളും ഉൾക്കൊള്ളുന്ന പത്ത് ഉപദേശങ്ങൾ.",
+   "author": "ശൈഖ് അബ്ദുറസ്സാഖ് ബിൻ അബ്ദുൽ മുഹ്‌സിൻ അൽബദർ",
+   "issue_date": "2020-04-11",
+   "html_url": "/ml/dawah/ten-advices-to-protect-from-pandemics-20200411-3.html",
+   "md_url": "/ml/dawah/ten-advices-to-protect-from-pandemics-20200411-3.md"
   },
   {
    "slug": "that-day-is-not-far-20181103-1",
@@ -16755,6 +16777,17 @@
    "md_url": "/ml/fiqh/is-organizing-eidgah-against-the-sunnah-20190914-3.md"
   },
   {
+   "slug": "islamic-guidelines-in-healthcare-20200411-2",
+   "lang": "ml",
+   "category": "fiqh",
+   "title": "ആരോഗ്യസംരക്ഷണ രംഗത്തെ ഇസ്‌ലാമിക നിർദേശങ്ങൾ",
+   "summary": "രോഗപ്രതിരോധം, വ്യക്തിശുചിത്വം, പകർച്ചവ്യാധികൾക്കെതിരെയുള്ള മുൻകരുതലുകൾ എന്നിവയിൽ ഇസ്‌ലാം നൽകുന്ന നിർദേശങ്ങളെക്കുറിച്ച് ഈ ലേഖനം പ്രതിപാദിക്കുന്നു.",
+   "author": "മുഹമ്മദ് സാദിഖ് മദീനി",
+   "issue_date": "2020-04-11",
+   "html_url": "/ml/fiqh/islamic-guidelines-in-healthcare-20200411-2.html",
+   "md_url": "/ml/fiqh/islamic-guidelines-in-healthcare-20200411-2.md"
+  },
+  {
    "slug": "juvenile-justice-act-20181006-11",
    "lang": "ml",
    "category": "fiqh",
@@ -17943,6 +17976,17 @@
    "md_url": "/ml/history/muslim-extremists-are-those-who-defame-islam-20170114-7.md"
   },
   {
+   "slug": "pandemics-seen-by-the-world-20200411-1",
+   "lang": "ml",
+   "category": "history",
+   "title": "ലോകം കണ്ട മഹാമാരികൾ",
+   "summary": "പുരാതന കാലം മുതൽ ലോകം നേരിട്ട വിവിധ മഹാമാരികളുടെ ചരിത്രവും അവയുടെ പ്രത്യാഘാതങ്ങളും ഈ ലേഖനം വിവരിക്കുന്നു. കൊറോണ ഉൾപ്പെടെയുള്ള പകർച്ചവ്യാധികളെക്കുറിച്ചുള്ള സംക്ഷിപ്ത ചരിത്രരേഖയാണിത്.",
+   "author": "ഡോ.സബീൽ പട്ടാമ്പി",
+   "issue_date": "2020-04-11",
+   "html_url": "/ml/history/pandemics-seen-by-the-world-20200411-1.html",
+   "md_url": "/ml/history/pandemics-seen-by-the-world-20200411-1.md"
+  },
+  {
    "slug": "public-activities-20191109-7",
    "lang": "ml",
    "category": "history",
@@ -18691,6 +18735,17 @@
    "md_url": "/ml/opinion/corona-alcohol-and-a-safe-society-20200404-4.md"
   },
   {
+   "slug": "corona-some-thoughts-20200411-6",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "കൊറോണ: ചില ചിന്തകൾ",
+   "summary": "കൊറോണ കാലത്തെ മനുഷ്യന്റെ നിസ്സഹായാവസ്ഥയെക്കുറിച്ചും പ്രവാചകാധ്യാപനങ്ങളിലെ ശുചിത്വ പാഠങ്ങളുടെ പ്രസക്തിയെക്കുറിച്ചുമുള്ള ചിന്തകൾ.",
+   "author": "മുബാറക് ബിൻ ഉമർ",
+   "issue_date": "2020-04-11",
+   "html_url": "/ml/opinion/corona-some-thoughts-20200411-6.html",
+   "md_url": "/ml/opinion/corona-some-thoughts-20200411-6.md"
+  },
+  {
    "slug": "country-draped-in-tricolor-in-protests-20200118-1",
    "lang": "ml",
    "category": "opinion",
@@ -18920,6 +18975,17 @@
    "issue_date": "2020-04-04",
    "html_url": "/ml/opinion/fascism-democracy-and-secularism-20200404-3.html",
    "md_url": "/ml/opinion/fascism-democracy-and-secularism-20200404-3.md"
+  },
+  {
+   "slug": "fascism-democracy-and-secularism-20200411-4",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "ഫാഷിസം, ജനാധിപത്യം, മതനിരപേക്ഷത",
+   "summary": "ഇന്ത്യൻ ഫാഷിസത്തിന്റെ വളർച്ച, ഇസ്‌ലാമോഫോബിയ, ജനാധിപത്യ മൂല്യങ്ങൾ എന്നിവയെക്കുറിച്ചുള്ള ഒരു അഭിമുഖം.",
+   "author": "കെ.ഇ.എൻ കുഞ്ഞഹമ്മദ് / ഡോ. സി. മുഹമ്മദ് റാഫി",
+   "issue_date": "2020-04-11",
+   "html_url": "/ml/opinion/fascism-democracy-and-secularism-20200411-4.html",
+   "md_url": "/ml/opinion/fascism-democracy-and-secularism-20200411-4.md"
   },
   {
    "slug": "fascism-democracy-secularism-20200321-4",
@@ -19470,6 +19536,17 @@
    "issue_date": "2020-02-29",
    "html_url": "/ml/opinion/moderation-is-the-hallmark-of-islam-20200229-2.html",
    "md_url": "/ml/opinion/moderation-is-the-hallmark-of-islam-20200229-2.md"
+  },
+  {
+   "slug": "motorcycle-journey-during-corona-times-20200411-7",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "കൊറോണ കാലത്തെ മോട്ടോർസൈക്കിൾ യാത്ര",
+   "summary": "ലോക്ക്ഡൗൺ കാലത്ത് നടത്തിയ ഒരു യാത്രയിലെ അനുഭവങ്ങളും അന്നത്തെ സാമൂഹിക സാഹചര്യങ്ങളും വിവരിക്കുന്ന ലേഖനം.",
+   "author": "ഇബ്‌നു അലി എടത്തനാട്ടുകര",
+   "issue_date": "2020-04-11",
+   "html_url": "/ml/opinion/motorcycle-journey-during-corona-times-20200411-7.html",
+   "md_url": "/ml/opinion/motorcycle-journey-during-corona-times-20200411-7.md"
   },
   {
    "slug": "murder-at-maharaja-s-how-did-the-knife-reach-the-campus-20180721-1",
