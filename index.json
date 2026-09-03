@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-03T09:53:13.221574+00:00",
+ "generated_at": "2026-09-03T09:53:48.127688+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3388,
+ "count": 3389,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -4994,6 +4994,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/es/fiqh/mosque-construction-some-points-to-note-20170325-5.html",
    "md_url": "/es/fiqh/mosque-construction-some-points-to-note-20170325-5.md"
+  },
+  {
+   "slug": "the-alcoholic-father-20170211-7",
+   "lang": "es",
+   "category": "fiqh",
+   "title": "El padre alcohólico",
+   "summary": "Una respuesta basada en la jurisprudencia islámica sobre si es permisible que un hijo proporcione dinero a su padre alcohólico cuando este utiliza parte de los fondos para comprar alcohol.",
+   "author": "ഹാരിസ്ബിന്‍ സലീം",
+   "issue_date": "2017-02-11",
+   "html_url": "/es/fiqh/the-alcoholic-father-20170211-7.html",
+   "md_url": "/es/fiqh/the-alcoholic-father-20170211-7.md"
   },
   {
    "slug": "control-your-mind-20170325-3",
