@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-03T12:57:26.975093+00:00",
+ "generated_at": "2026-09-03T13:03:31.014618+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3543,
+ "count": 3554,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -12575,6 +12575,17 @@
    "md_url": "/ml/aqeedah/express-love-by-following-the-prophet-20181124-7.md"
   },
   {
+   "slug": "faith-in-the-day-of-judgment-20200425-10",
+   "lang": "ml",
+   "category": "aqeedah",
+   "title": "അന്ത്യദിനത്തിലുള്ള വിശ്വാസം",
+   "summary": "അന്ത്യദിനത്തിലെ വിശ്വാസത്തിന്റെ പ്രാധാന്യവും സ്വർഗ്ഗ-നരക വിശ്വാസവും ഖുർആൻ 2:281, 11:103-104, 2:24 തുടങ്ങിയ വചനങ്ങൾ ആധാരമാക്കി വിശദീകരിക്കുന്ന ലേഖനം. ശൈഖ് അശ്‌ത്തരി അവരുടെ ശിഷ്യനായ ശൈഖ് മുഹമ്മദ് ഇബ്ൻ അബ്ദുൽ വഹാബിന്റെ പഠനങ്ങളും ഉദ്ധരിച്ച് പരലോക വിശ്വാസത്തിന്റെ അനിവാര്യത അനാവരണം ചെയ്യുന്നു.",
+   "author": "ശൈഖ് സഅദ് ബിൻ നാസർ അശ്‌ത്തരി",
+   "issue_date": "2020-04-25",
+   "html_url": "/ml/aqeedah/faith-in-the-day-of-judgment-20200425-10.html",
+   "md_url": "/ml/aqeedah/faith-in-the-day-of-judgment-20200425-10.md"
+  },
+  {
    "slug": "faith-is-the-foundation-of-islam-20170128-13",
    "lang": "ml",
    "category": "aqeedah",
@@ -13730,6 +13741,17 @@
    "md_url": "/ml/dawah/do-not-despair-20180630-11.md"
   },
   {
+   "slug": "do-not-expose-others-faults-20200425-9",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "അന്യരുടെ ന്യൂനതകൾ പരസ്യമാക്കരുത്",
+   "summary": "മുസ്‌ലിം സഹോദരങ്ങളുടെ ന്യൂനതകൾ അന്വേഷിക്കുകയും പരസ്യമാക്കുകയും ചെയ്യരുതെന്ന നിർദ്ദേശം ഖുർആൻ വചനങ്ങളും ഹദീഥുകളും ഉദ്ധരിച്ച് വിശദീകരിക്കുന്നു. പാപം മറയ്ക്കുന്നതിന്റെ പ്രതിഫലവും സ്വന്തം ന്യൂനതകൾ അല്ലാഹുവിനെ ഏൽപ്പിക്കുന്നതിന്റെ മഹത്വവും വ്യഭിചാരിയുടെ തീരുസവിധത്തിലെ സംഭവത്തിലൂടെ അനാവരണം ചെയ്യുന്നു.",
+   "author": "അബ്ദുൽ ജബ്ബാർ മദീനി",
+   "issue_date": "2020-04-25",
+   "html_url": "/ml/dawah/do-not-expose-others-faults-20200425-9.html",
+   "md_url": "/ml/dawah/do-not-expose-others-faults-20200425-9.md"
+  },
+  {
    "slug": "do-not-forget-in-worldly-life-20190803-1",
    "lang": "ml",
    "category": "dawah",
@@ -13992,6 +14014,17 @@
    "issue_date": "2017-04-01",
    "html_url": "/ml/dawah/getting-closer-to-the-creator-20170401-12.html",
    "md_url": "/ml/dawah/getting-closer-to-the-creator-20170401-12.md"
+  },
+  {
+   "slug": "give-food-gain-reward-20200425-2",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "അന്നം നൽകുക, പുണ്യം നേടുക",
+   "summary": "ഭക്ഷണം നൽകുന്നതിലൂടെ ലഭിക്കുന്ന പുണ്യത്തെക്കുറിച്ച് ഖുർആൻ വചനങ്ങളും പ്രവാചക ഹദീഥുകളും അവതരിപ്പിച്ചുകൊണ്ടുള്ള ലേഖനം. സകാത്ത്, ഫിത്ത്ർ സകാത്ത്, പ്രായശ്ചിത്തം തുടങ്ങിയവയിലൂടെ വിശക്കുന്നവരെ സഹായിക്കുന്നതിന്റെ മഹത്വവും അൻസാികളുടെ മാതൃകയും സൂറത്തു അൽഫജ്ർ, അൽഖലം തുടങ്ങിയ സൂറകളുടെ സന്ദർഭങ്ങളിലൂടെ വിശദീകരിക്കുന്നു.",
+   "author": "മുഹമ്മദ് സാദിഖ് മദീനി",
+   "issue_date": "2020-04-25",
+   "html_url": "/ml/dawah/give-food-gain-reward-20200425-2.html",
+   "md_url": "/ml/dawah/give-food-gain-reward-20200425-2.md"
   },
   {
    "slug": "global-experiences-of-fasting-20190525-9",
@@ -15446,6 +15479,17 @@
    "md_url": "/ml/dawah/the-undeniable-reality-20181124-2.md"
   },
   {
+   "slug": "the-unexpected-opportunity-20200425-4",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "പ്രതീക്ഷിക്കാതെ ലഭിച്ച അവസരം",
+   "summary": "ഗ്രാമത്തിലെ ജനങ്ങൾക്ക് തണുപ്പും പക്ഷികൾക്ക് താമസവും നൽകിയ വൃക്ഷം ഇലകൾ പൊഴിഞ്ഞപ്പോൾ ഉപേക്ഷിക്കപ്പെട്ട കഥയിലൂടെ ലോക്ക്ഡൗൺ കാലത്ത് ലഭിച്ച സമയത്തെ നന്മകൾക്ക് വിനിയോഗിക്കേണ്ടതിന്റെ പ്രാധാന്യം ഓർമ്മിപ്പിക്കുന്നു. തവ്വാജ്ജുദ്, സുന്നത്ത് നോമ്പ്, ദുആ, പുസ്തക വായന, കൂട്ടാളികളെ സഹായിക്കൽ തുടങ്ങിയ നന്മകൾക്ക് ഈ കാലം പ്രയോജനപ്പെടുത്തണമെന്ന സന്ദേശം.",
+   "author": "അബ്ദുഹറീസ് ആലിക്കൽ",
+   "issue_date": "2020-04-25",
+   "html_url": "/ml/dawah/the-unexpected-opportunity-20200425-4.html",
+   "md_url": "/ml/dawah/the-unexpected-opportunity-20200425-4.md"
+  },
+  {
    "slug": "the-virtue-of-agriculture-20190209-4",
    "lang": "ml",
    "category": "dawah",
@@ -15675,6 +15719,17 @@
    "issue_date": "2020-02-01",
    "html_url": "/ml/dawah/wake-up-from-dreamland-to-the-land-of-action-20200201-8.html",
    "md_url": "/ml/dawah/wake-up-from-dreamland-to-the-land-of-action-20200201-8.md"
+  },
+  {
+   "slug": "water-is-precious-share-it-do-not-waste-it-20200425-3",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "ജലം അമൂല്യമാണ്: പങ്കുവെക്കുക, പാഴാക്കരുത്",
+   "summary": "കേരളത്തിലെ വരൾച്ചയുടെയും കോവിഡിന്റെയും പശ്ചാത്തലത്തിൽ ജലത്തിന്റെ അമൂല്യതയും പാഴാക്കലിന്റെ ദൂഷ്യഫലങ്ങളും ഖുർആൻ വചനങ്ങളും ഹദീഥുകളും ഉദ്ധരിച്ച് വിശദീകരിക്കുന്ന മുഖചർച്ച. വിക്ടോറിയ വെള്ളച്ചാട്ടം, കേപ്പ്‌ടൗൺ ജലക്ഷാമം തുടങ്ങിയ ഉദാഹരണങ്ങളിലൂടെ ശുദ്ധജല സംരക്ഷണവും ജലദാനത്തിന്റെ പുണ്യവും അവതരിപ്പിക്കുന്നു.",
+   "author": "മുജീബ് ഒട്ടുമ്മൽ",
+   "issue_date": "2020-04-25",
+   "html_url": "/ml/dawah/water-is-precious-share-it-do-not-waste-it-20200425-3.html",
+   "md_url": "/ml/dawah/water-is-precious-share-it-do-not-waste-it-20200425-3.md"
   },
   {
    "slug": "ways-to-maintain-spiritual-purity-20190629-3",
@@ -16898,6 +16953,17 @@
    "md_url": "/ml/fiqh/crime-and-punishment-20180512-10.md"
   },
   {
+   "slug": "deeds-of-reward-that-go-unnoticed-20200425-7",
+   "lang": "ml",
+   "category": "fiqh",
+   "title": "ശ്രദ്ധിക്കപ്പെടാതെ പോകുന്ന പുണ്യകർമ്മങ്ങൾ",
+   "summary": "ശ്രദ്ധിക്കപ്പെടാതെ പോകുന്ന സുന്നത്ത് നമസ്കാരങ്ങളും അദ്ദ്ഹാറുകളും ഹദീഥുകൾ ആധാരമാക്കി വിശദീകരിക്കുന്ന ലേഖനം. ഉറക്കത്തിലെയും ഉണർന്നത്തിലെയും അദ്ദ്ഹാറുകൾ, രാത്രി നമസ്കാരം (ഖിയാമുലൈൽ), ദുഹാ നമസ്കാരം, അസ്ർ നമസ്കാരത്തിന് മുമ്പും ശേഷവുമുള്ള സുന്നത്ത് നമസ്കാരങ്ങൾ എന്നിവയുടെ പ്രാധാന്യവും പ്രതിഫലവും അബൂദാവൂദ്, തിർമിദി, ബുഖാറി, മുസ്‌ലിം തുടങ്ങിയ ഹദീഥ് ഗ്രന്ഥങ്ങളിൽ നിന്നുദ്ധരിച്ച് വിവരിക്കുന്നു.",
+   "author": "അബ്ദു അന്വല്ല വള്ളേർജി",
+   "issue_date": "2020-04-25",
+   "html_url": "/ml/fiqh/deeds-of-reward-that-go-unnoticed-20200425-7.html",
+   "md_url": "/ml/fiqh/deeds-of-reward-that-go-unnoticed-20200425-7.md"
+  },
+  {
    "slug": "differences-of-opinion-among-scholars-20190831-8",
    "lang": "ml",
    "category": "fiqh",
@@ -17358,6 +17424,17 @@
    "issue_date": "2018-08-25",
    "html_url": "/ml/hadith/following-the-prophetic-sunnah-is-mandatory-20180825-9.html",
    "md_url": "/ml/hadith/following-the-prophetic-sunnah-is-mandatory-20180825-9.md"
+  },
+  {
+   "slug": "give-gifts-20200425-5",
+   "lang": "ml",
+   "category": "hadith",
+   "title": "സമ്മാനം നൽകുക",
+   "summary": "ഇസ്‌ലാമിൽ സമ്മാനദാനത്തിന്റെ പ്രാധാന്യവും പ്രവാചകന്റെ മാതൃകയും ബുഖാറി, മുസ്‌ലിം ഹദീഥുകൾ ഉദ്ധരിച്ച് വിശദീകരിക്കുന്ന ലേഖനം. സമ്മാനം നൽകുകയും സ്വീകരിക്കുകയും പ്രത്യുപകാരം നൽകുകയും ചെയ്യുന്നതിന്റെ സ്വഭാവ മഹത്വവും സൂറത്തു നമ്‌ൽ സൂചിപ്പിക്കുന്ന ബിൽഖീസ് രാജ്ഞിയുടെ സമ്മാന പ്രസ്താവനയും അനാവരണം ചെയ്യുന്നു.",
+   "author": "സമീർ മുണ്ടേരി",
+   "issue_date": "2020-04-25",
+   "html_url": "/ml/hadith/give-gifts-20200425-5.html",
+   "md_url": "/ml/hadith/give-gifts-20200425-5.md"
   },
   {
    "slug": "khabarul-ahad-criticisms-and-facts-20190706-5",
@@ -18713,6 +18790,17 @@
    "md_url": "/ml/opinion/a-muslim-s-patriotism-20180609-1.md"
   },
   {
+   "slug": "a-ramadan-against-the-backdrop-of-covid-20200425-1",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "കോവിഡിന്റെ പശ്ചാത്തലത്തിൽ ഒരു റമദാൻ",
+   "summary": "കോവിഡ് ലോക്ക്ഡൗണിന്റെ പശ്ചാത്തലത്തിൽ വരുന്ന റമദാനെ സത്യവിശ്വാസികൾ എങ്ങനെ സ്വീകരിക്കണമെന്നും ആത്മീയ തയ്യാറെടുപ്പിന്റെ പ്രാധാന്യവും മുഖലേഖനം ആവർത്തിക്കുന്നു. ഉറ്റവരെ നഷ്ടപ്പെട്ടവർ, അന്ത്യവിധി നടത്താൻ കഴിയാത്ത കുടുംബങ്ങൾ, ജീവിതം വഴിമുട്ടിയവർ എന്നിവരുടെ വേദനകളുടെ പശ്ചാത്തലത്തിൽ സ്രഷ്ടാവിന്റെ വിധിയെ സമചിത്തതയോടെ സ്വീകരിച്ച് ആരാധനയിൽ മുഴുകാനുള്ള ആഹ്വാനമാണ് ഇത്.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2020-04-25",
+   "html_url": "/ml/opinion/a-ramadan-against-the-backdrop-of-covid-20200425-1.html",
+   "md_url": "/ml/opinion/a-ramadan-against-the-backdrop-of-covid-20200425-1.md"
+  },
+  {
    "slug": "act-without-losing-sight-of-the-goal-20190119-9",
    "lang": "ml",
    "category": "opinion",
@@ -19767,6 +19855,17 @@
    "issue_date": "2019-02-09",
    "html_url": "/ml/opinion/materialists-and-the-re-reading-of-the-quran-20190209-2.html",
    "md_url": "/ml/opinion/materialists-and-the-re-reading-of-the-quran-20190209-2.md"
+  },
+  {
+   "slug": "mercy-during-the-corona-era-20200425-11",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "കൊറോണക്കാലത്തെ കാരുണ്യം",
+   "summary": "കോവിഡ് ലോക്ക്ഡൗൺ കാലത്ത് സ്വന്തം സുരക്ഷയ്ക്ക് വേണ്ടി പുറത്തിറങ്ങി ആവശ്യക്കാർക്ക് ഭക്ഷ്യക്കിറ്റുകളും മരുന്നും എത്തിച്ച ഒരു സന്നദ്ധ പ്രവർത്തകന്റെ അനുഭവം വിവരിക്കുന്ന 'കാഴ്ച' കോലം. പോലീസ് അനുമതി വാങ്ങി ജില്ലാ അതിർത്തികൾ കടന്ന് നടത്തിയ കാരുണ്യ പ്രവർത്തനങ്ങളുടെ വിവരണം.",
+   "author": "ഇബ്നു അലി എടനത്തുകര",
+   "issue_date": "2020-04-25",
+   "html_url": "/ml/opinion/mercy-during-the-corona-era-20200425-11.html",
+   "md_url": "/ml/opinion/mercy-during-the-corona-era-20200425-11.md"
   },
   {
    "slug": "minds-that-produce-hatred-20181117-9",
@@ -21395,6 +21494,17 @@
    "issue_date": "2019-07-20",
    "html_url": "/ml/quran/learning-methods-from-the-quran-20190720-9.html",
    "md_url": "/ml/quran/learning-methods-from-the-quran-20190720-9.md"
+  },
+  {
+   "slug": "let-the-believers-place-their-trust-in-allah-20200425-6",
+   "lang": "ml",
+   "category": "quran",
+   "title": "സത്യവിശ്വാസികൾ അല്ലാഹുവിൽ ഭരമേൽപ്പിക്കട്ടെ",
+   "summary": "ഖുർആനിലെ വിവിധ വചനങ്ങൾ, പ്രത്യേകിച്ച് സൂറത്തു തൗബ 9:51 എന്നിവ ആധാരമാക്കി സത്യവിശ്വാസികളുടെ അനിവാര്യ ഗുണമായ അല്ലാഹുവിൽ ഭരമേൽപ്പിക്കൽ (തൗക്കീൽ) എന്ന വിഷയം ഖുർആൻ പാഠത്തിലൂടെ വിശദീകരിക്കുന്നു. വിശ്വാസി അല്ലാഹുവിന്റെ തീരുമാനത്തിൽ സമാധാനവും ക്ഷമയും പുലർത്തുന്നതിന്റെ ഫലമായി നന്മയിൽ നന്മ കണ്ടെത്തുമെന്ന് ഓർമ്മിപ്പിക്കുന്നു.",
+   "author": "സിറാജുൽ ഇസ്‌ലാം ബാലുശ്ശേരി",
+   "issue_date": "2020-04-25",
+   "html_url": "/ml/quran/let-the-believers-place-their-trust-in-allah-20200425-6.html",
+   "md_url": "/ml/quran/let-the-believers-place-their-trust-in-allah-20200425-6.md"
   },
   {
    "slug": "listen-attentively-20200222-9",
@@ -24101,6 +24211,17 @@
    "issue_date": "2020-01-11",
    "html_url": "/ml/story/life-s-journey-20200111-7.html",
    "md_url": "/ml/story/life-s-journey-20200111-7.md"
+  },
+  {
+   "slug": "lock-man-20200425-8",
+   "lang": "ml",
+   "category": "story",
+   "title": "ലോക്ക് / മനുഷ്യൻ",
+   "summary": "ലോക്ക്ഡൗൺ കാലത്തെ മനുഷ്യന്റെ അനുഭവങ്ങളും ഏകാന്തതയും പ്രകൃതിയോടുള്ള പ്രതികരണവും വിഷയമാക്കി അഫ്‌നാൻ അൻവർ രചിച്ച 'ലോക്ക്', 'മനുഷ്യൻ' എന്നീ രണ്ട് കവിതകൾ. സ്നേഹത്തിലെ മാറ്റവും അകലങ്ങളും തീർക്കുന്നതോറും മഹാമാരിയെ മറികടക്കാമെന്ന പ്രത്യാശയാണ് കവിതകളുടെ സന്ദേശം.",
+   "author": "അഫ്‌നാൻ അൻവർ.ഒ, എടത്തനാട്ടുകര",
+   "issue_date": "2020-04-25",
+   "html_url": "/ml/story/lock-man-20200425-8.html",
+   "md_url": "/ml/story/lock-man-20200425-8.md"
   },
   {
    "slug": "loss-of-stars-20181027-6",
