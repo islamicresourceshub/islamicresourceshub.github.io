@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-03T10:21:26.223692+00:00",
+ "generated_at": "2026-09-03T10:21:54.195617+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3411,
+ "count": 3412,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -26587,6 +26587,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/or/fiqh/mosque-construction-some-points-to-note-20170325-5.html",
    "md_url": "/or/fiqh/mosque-construction-some-points-to-note-20170325-5.md"
+  },
+  {
+   "slug": "the-alcoholic-father-20170211-7",
+   "lang": "or",
+   "category": "fiqh",
+   "title": "ମଦ୍ୟପ ପିତା",
+   "summary": "ମଦ୍ୟପାନ କରୁଥିବା ପିତାଙ୍କୁ ପୁଅ ଦେଉଥିବା ଟଙ୍କାରୁ ସେ ମଦ କିଣୁଥିଲେ, ଏହା ଧର୍ମାନୁସାରେ ଅନୁମୋଦିତ କି ନୁହେଁ, ସେ ସମ୍ବନ୍ଧୀୟ ଏକ ଫିକ୍ହ୍ ବା ଇସଲାମୀୟ ଆଇନଗତ ପ୍ରଶ୍ନର ଉତ୍ତର।",
+   "author": "ഹാരിസ്ബിന്‍ സലീം",
+   "issue_date": "2017-02-11",
+   "html_url": "/or/fiqh/the-alcoholic-father-20170211-7.html",
+   "md_url": "/or/fiqh/the-alcoholic-father-20170211-7.md"
   },
   {
    "slug": "control-your-mind-20170325-3",
