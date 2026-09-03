@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-03T07:05:14.740176+00:00",
+ "generated_at": "2026-09-03T08:26:39.895059+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3253,
+ "count": 3254,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -32890,6 +32890,17 @@
    "issue_date": "2017-02-04",
    "html_url": "/tl/story/abdullah-s-mistake-20170204-1.html",
    "md_url": "/tl/story/abdullah-s-mistake-20170204-1.md"
+  },
+  {
+   "slug": "allah-is-watching-20170211-3",
+   "lang": "tl",
+   "category": "story",
+   "title": "Nakikita ng Allah",
+   "summary": "Ito ay isang kuwento tungkol sa isang magsasakang nagngangalang Hasan na nagtuturo ng mga aral ng katapatan at pagkatakot sa Diyos sa kanyang mga anak. Ang kamalayan na ang Allah ay laging nakamasid ay nag-aakay sa tao patungo sa kabutihan.",
+   "author": "തന്‍വീര്‍",
+   "issue_date": "2017-02-11",
+   "html_url": "/tl/story/allah-is-watching-20170211-3.html",
+   "md_url": "/tl/story/allah-is-watching-20170211-3.md"
   },
   {
    "slug": "good-intention-matters-most-20170325-8",
