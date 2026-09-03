@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-03T11:23:37.849293+00:00",
+ "generated_at": "2026-09-03T11:24:14.618681+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3495,
+ "count": 3496,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -1672,6 +1672,17 @@
    "issue_date": "2017-02-04",
    "html_url": "/as/dawah/religious-preachers-must-be-exemplary-20170204-6.html",
    "md_url": "/as/dawah/religious-preachers-must-be-exemplary-20170204-6.md"
+  },
+  {
+   "slug": "seeking-truth-is-not-a-crime-20170211-9",
+   "lang": "as",
+   "category": "dawah",
+   "title": "সত্যৰ সন্ধান কৰাটো অপৰাধ নহয়",
+   "summary": "এই প্ৰবন্ধটোৱে মানুহৰ মৌলিক প্ৰয়োজন আৰু সত্যৰ সন্ধান কৰাৰ গুৰুত্বৰ বিষয়ে আলোচনা কৰে। সত্যৰ সন্ধান কৰাটো কোনো অপৰাধ নহয়, বৰঞ্চ ই মানুহৰ এক মৌলিক অধিকাৰ বুলি ইয়াত যুক্তি আগবঢ়োৱা হৈছে।",
+   "author": "ഡോ.മീന",
+   "issue_date": "2017-02-11",
+   "html_url": "/as/dawah/seeking-truth-is-not-a-crime-20170211-9.html",
+   "md_url": "/as/dawah/seeking-truth-is-not-a-crime-20170211-9.md"
   },
   {
    "slug": "showing-the-light-is-the-duty-of-scholars-20170121-14",
