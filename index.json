@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-03T12:24:47.707400+00:00",
+ "generated_at": "2026-09-03T12:30:23.046952+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3537,
+ "count": 3538,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -35288,6 +35288,17 @@
    "issue_date": "2017-02-04",
    "html_url": "/tl/dawah/religious-preachers-must-be-exemplary-20170204-6.html",
    "md_url": "/tl/dawah/religious-preachers-must-be-exemplary-20170204-6.md"
+  },
+  {
+   "slug": "seeking-truth-is-not-a-crime-20170211-9",
+   "lang": "tl",
+   "category": "dawah",
+   "title": "Ang Pagsisiyasat sa Katotohanan ay Hindi Krimen",
+   "summary": "Ang artikulong ito ay tungkol sa mga pangunahing pangangailangan ng tao at ang paghahanap ng katotohanan. Pinatutunayan nito na ang paghahanap ng katotohanan ay hindi krimen at ito ay karapatan ng tao.",
+   "author": "ഡോ.മീന",
+   "issue_date": "2017-02-11",
+   "html_url": "/tl/dawah/seeking-truth-is-not-a-crime-20170211-9.html",
+   "md_url": "/tl/dawah/seeking-truth-is-not-a-crime-20170211-9.md"
   },
   {
    "slug": "showing-the-light-is-the-duty-of-scholars-20170121-14",
