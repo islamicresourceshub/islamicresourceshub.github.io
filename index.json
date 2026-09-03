@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-03T09:46:46.811687+00:00",
+ "generated_at": "2026-09-03T09:47:17.981658+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3377,
+ "count": 3378,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -35475,6 +35475,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/ur/youth/an-agenda-is-needed-during-vacation-too-20170325-1.html",
    "md_url": "/ur/youth/an-agenda-is-needed-during-vacation-too-20170325-1.md"
+  },
+  {
+   "slug": "e-ahamed-s-message-to-the-youth-20170211-5",
+   "lang": "ur",
+   "category": "youth",
+   "title": "نئی نسل کے نام ای احمد کا پیغام",
+   "summary": "یہ مضمون ای احمد صاحب کے حیات بخش نظریات اور نوجوان نسل کے لیے ان کی نصیحتوں کا احاطہ کرتا ہے۔ اس میں ان کی انتھک محنت اور انسانیت کی خدمت سے عبارت زندگی کی اہمیت کو اجاگر کیا گیا ہے۔",
+   "author": "ഡോ. സി.എം സാബിര്‍ നവാസ്",
+   "issue_date": "2017-02-11",
+   "html_url": "/ur/youth/e-ahamed-s-message-to-the-youth-20170211-5.html",
+   "md_url": "/ur/youth/e-ahamed-s-message-to-the-youth-20170211-5.md"
   },
   {
    "slug": "what-will-the-waste-do-20170114-5",
