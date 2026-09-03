@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-03T14:16:50.358038+00:00",
+ "generated_at": "2026-09-03T14:22:37.354589+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3559,
+ "count": 3560,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -3872,6 +3872,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/de/family/our-parents-20170325-4.html",
    "md_url": "/de/family/our-parents-20170325-4.md"
+  },
+  {
+   "slug": "school-annual-day-experiences-20170211-10",
+   "lang": "de",
+   "category": "family",
+   "title": "Erlebnisse beim jährlichen Schulfest",
+   "summary": "Ein persönlicher Bericht über die tiefen Eindrücke und Erfahrungen bei einem jährlichen Schulfest für Kinder mit besonderen Bedürfnissen. Der Text beleuchtet die Notwendigkeit, diese Kinder zu unterstützen, und regt zum Nachdenken über Dankbarkeit an.",
+   "author": "ഇബ്‌നു അലി എടത്തനാട്ടുകര",
+   "issue_date": "2017-02-11",
+   "html_url": "/de/family/school-annual-day-experiences-20170211-10.html",
+   "md_url": "/de/family/school-annual-day-experiences-20170211-10.md"
   },
   {
    "slug": "the-methodology-of-conduct-20170128-8",
