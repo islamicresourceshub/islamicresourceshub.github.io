@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-03T09:03:38.811253+00:00",
+ "generated_at": "2026-09-03T09:04:14.315409+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3294,
+ "count": 3295,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -26543,6 +26543,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/pa/quran/what-to-beware-of-when-taking-sides-20170128-7.html",
    "md_url": "/pa/quran/what-to-beware-of-when-taking-sides-20170128-7.md"
+  },
+  {
+   "slug": "ibn-abbas-ra-a-scholar-of-knowledge-20170211-4",
+   "lang": "pa",
+   "category": "seerah",
+   "title": "ਇਬਨ ਅੱਬਾਸ (ਰਜ਼ੀ.): ਜਿਨ੍ਹਾਂ ਨੇ ਆਪਣੇ ਜੀਵਨ ਰਾਹੀਂ ਗਿਆਨ ਨੂੰ ਜਿਉਂਦਾ ਕਰ ਦਿਖਾਇਆ",
+   "summary": "ਇਹ ਲੇਖ ਗਿਆਨ ਦੇ ਸਾਗਰ ਇਬਨ ਅੱਬਾਸ (ਰਜ਼ੀ.) ਦੇ ਜੀਵਨ ਅਤੇ ਉਨ੍ਹਾਂ ਵੱਲੋਂ ਇਲਮ ਨੂੰ ਦਿੱਤੀ ਗਈ ਅਹਿਮੀਅਤ ਬਾਰੇ ਚਾਨਣਾ ਪਾਉਂਦਾ ਹੈ। ਉਨ੍ਹਾਂ ਦਾ ਇਤਿਹਾਸ ਅੱਜ ਦੇ ਪਾਠਕਾਂ ਲਈ ਇੱਕ ਮਹਾਨ ਮਿਸਾਲ ਹੈ।",
+   "author": "അര്‍ഷദ് താനൂര്‍",
+   "issue_date": "2017-02-11",
+   "html_url": "/pa/seerah/ibn-abbas-ra-a-scholar-of-knowledge-20170211-4.html",
+   "md_url": "/pa/seerah/ibn-abbas-ra-a-scholar-of-knowledge-20170211-4.md"
   },
   {
    "slug": "prophets-and-trials-20170325-7",
