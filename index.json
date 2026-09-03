@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-03T11:21:37.643790+00:00",
+ "generated_at": "2026-09-03T11:22:16.686934+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3492,
+ "count": 3493,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -38005,6 +38005,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/zh/aqeedah/faith-is-the-foundation-of-islam-20170128-13.html",
    "md_url": "/zh/aqeedah/faith-is-the-foundation-of-islam-20170128-13.md"
+  },
+  {
+   "slug": "salafiyyah-ideology-and-stance-20170211-8",
+   "lang": "zh",
+   "category": "aqeedah",
+   "title": "萨拉菲主义：理念与立场",
+   "summary": "本文阐述了萨拉菲主义的基本原则与立场，解释了古兰经与圣训如何作为指引，帮助人们驱散精神上的黑暗。文章强调了萨拉菲主义即伊斯兰教本身，并探讨了其在教义、传教方式及面对现代挑战时的坚定态度。",
+   "author": "അബ്ദുല്‍ മാലിക് സലഫി",
+   "issue_date": "2017-02-11",
+   "html_url": "/zh/aqeedah/salafiyyah-ideology-and-stance-20170211-8.html",
+   "md_url": "/zh/aqeedah/salafiyyah-ideology-and-stance-20170211-8.md"
   },
   {
    "slug": "they-want-to-see-god-20170204-2",
