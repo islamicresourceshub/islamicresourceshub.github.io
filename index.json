@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-03T08:53:16.189883+00:00",
+ "generated_at": "2026-09-03T09:01:17.124801+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3289,
+ "count": 3290,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -11308,6 +11308,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/ko/quran/what-to-beware-of-when-taking-sides-20170128-7.html",
    "md_url": "/ko/quran/what-to-beware-of-when-taking-sides-20170128-7.md"
+  },
+  {
+   "slug": "ibn-abbas-ra-a-scholar-of-knowledge-20170211-4",
+   "lang": "ko",
+   "category": "seerah",
+   "title": "지식을 삶으로 증명해 보인 이븐 압바스(라)",
+   "summary": "지식의 보고였던 이븐 압바스(라)의 삶과 그가 지식에 부여했던 가치를 다룬 글입니다. 그의 생애는 오늘날 우리에게 큰 귀감이 됩니다.",
+   "author": "അര്‍ഷദ് താനൂര്‍",
+   "issue_date": "2017-02-11",
+   "html_url": "/ko/seerah/ibn-abbas-ra-a-scholar-of-knowledge-20170211-4.html",
+   "md_url": "/ko/seerah/ibn-abbas-ra-a-scholar-of-knowledge-20170211-4.md"
   },
   {
    "slug": "prophets-and-trials-20170325-7",
