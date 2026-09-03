@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-03T12:05:02.425359+00:00",
+ "generated_at": "2026-09-03T12:09:02.032741+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3533,
+ "count": 3534,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -32637,6 +32637,17 @@
    "issue_date": "2017-02-04",
    "html_url": "/sw/dawah/religious-preachers-must-be-exemplary-20170204-6.html",
    "md_url": "/sw/dawah/religious-preachers-must-be-exemplary-20170204-6.md"
+  },
+  {
+   "slug": "seeking-truth-is-not-a-crime-20170211-9",
+   "lang": "sw",
+   "category": "dawah",
+   "title": "Kutafuta Ukweli Si Uhalifu",
+   "summary": "Makala haya yanazungumzia mahitaji ya msingi ya binadamu na kutafuta ukweli. Inathibitisha kuwa kutafuta ukweli si uhalifu bali ni haki ya binadamu.",
+   "author": "ഡോ.മീന",
+   "issue_date": "2017-02-11",
+   "html_url": "/sw/dawah/seeking-truth-is-not-a-crime-20170211-9.html",
+   "md_url": "/sw/dawah/seeking-truth-is-not-a-crime-20170211-9.md"
   },
   {
    "slug": "showing-the-light-is-the-duty-of-scholars-20170121-14",
