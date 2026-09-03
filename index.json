@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-03T10:22:26.385441+00:00",
+ "generated_at": "2026-09-03T10:22:55.087821+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3413,
+ "count": 3414,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -27874,6 +27874,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/ps/fiqh/mosque-construction-some-points-to-note-20170325-5.html",
    "md_url": "/ps/fiqh/mosque-construction-some-points-to-note-20170325-5.md"
+  },
+  {
+   "slug": "the-alcoholic-father-20170211-7",
+   "lang": "ps",
+   "category": "fiqh",
+   "title": "شرابي پلار",
+   "summary": "د دې پوښتنې ځواب چې ایا د شراب څښونکي پلار ته د کورنۍ د لګښت لپاره ورکړل شوې پیسې د شرابو اخیستلو لپاره کارول کیدی شي که نه، د اسلامي فقهې په رڼا کې وړاندې شوی دی.",
+   "author": "ഹാരിസ്ബിന്‍ സലീം",
+   "issue_date": "2017-02-11",
+   "html_url": "/ps/fiqh/the-alcoholic-father-20170211-7.html",
+   "md_url": "/ps/fiqh/the-alcoholic-father-20170211-7.md"
   },
   {
    "slug": "control-your-mind-20170325-3",
