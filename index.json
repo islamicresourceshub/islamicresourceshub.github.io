@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-04T09:12:29.581189+00:00",
+ "generated_at": "2026-09-04T09:12:59.023253+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3604,
+ "count": 3605,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -1639,6 +1639,17 @@
    "issue_date": "2017-02-04",
    "html_url": "/as/aqeedah/they-want-to-see-god-20170204-2.html",
    "md_url": "/as/aqeedah/they-want-to-see-god-20170204-2.md"
+  },
+  {
+   "slug": "do-not-be-slaves-to-desires-20170211-11",
+   "lang": "as",
+   "category": "dawah",
+   "title": "নিজস্ব খেয়াল-খুশির দাস হবেন না",
+   "summary": "এই নিবন্ধটি নিজস্ব খেয়াল-খুশি বা প্রবৃত্তিকে অনুসরণ করার বিরুদ্ধে পবিত্র কুরআনের সতর্কবাণী নিয়ে আলোচনা করে। এটি আল্লাহর নির্দেশিত পথে জীবন পরিচালনার গুরুত্ব স্মরণ করিয়ে দেয়।",
+   "author": "ശമീര്‍ മദീനി",
+   "issue_date": "2017-02-11",
+   "html_url": "/as/dawah/do-not-be-slaves-to-desires-20170211-11.html",
+   "md_url": "/as/dawah/do-not-be-slaves-to-desires-20170211-11.md"
   },
   {
    "slug": "do-not-waver-in-trials-20170121-9",
