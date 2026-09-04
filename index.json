@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-04T09:32:37.006671+00:00",
+ "generated_at": "2026-09-04T09:33:07.388052+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3631,
+ "count": 3632,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -25982,6 +25982,17 @@
    "issue_date": "2017-02-04",
    "html_url": "/mr/aqeedah/they-want-to-see-god-20170204-2.html",
    "md_url": "/mr/aqeedah/they-want-to-see-god-20170204-2.md"
+  },
+  {
+   "slug": "do-not-be-slaves-to-desires-20170211-11",
+   "lang": "mr",
+   "category": "dawah",
+   "title": "स्वतःच्या इच्छांचे गुलाम होऊ नका",
+   "summary": "हा लेख स्वतःच्या इच्छांचे अनुसरण करण्याविरुद्ध असलेल्या कुराणच्या इशाऱ्यांवर चर्चा करतो. अल्लाहच्या मार्गदर्शनाचा स्वीकार करून जगण्याचे महत्त्व हा लेख अधोरेखित करतो.",
+   "author": "ശമീര്‍ മദീനി",
+   "issue_date": "2017-02-11",
+   "html_url": "/mr/dawah/do-not-be-slaves-to-desires-20170211-11.html",
+   "md_url": "/mr/dawah/do-not-be-slaves-to-desires-20170211-11.md"
   },
   {
    "slug": "do-not-waver-in-trials-20170121-9",
