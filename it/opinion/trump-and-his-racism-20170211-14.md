@@ -1,0 +1,61 @@
+---
+title: Trump e la retorica della supremazia razziale
+author: സുഫ്‌യാന്‍ അബ്ദുസ്സലാം
+lang: it
+category: opinion
+kind: article
+tags:
+- trump
+- politics
+- racism
+summary: Un'analisi critica delle politiche razziali e migratorie del presidente americano Donald Trump, che esamina le contraddizioni storiche e umanitarie delle sue recenti decisioni. L'articolo riflette sulla natura multiculturale degli Stati Uniti e sulla necessità di superare le barriere ideologiche in nome della dignità umana.
+source:
+  magazine: Nerpatham Weekly
+  issue_date: '2017-02-11'
+  pdf_url: http://nerpatham.com/vol-no-01/images/archives/Nerpatham-2017Feb11.pdf
+date_processed: '2026-08-27T16:08:09Z'
+slug: trump-and-his-racism-20170211-14
+translation_of: trump-and-his-racism-20170211-14
+---
+
+A pochi giorni dal suo insediamento, **Trump** ha scioccato il mondo con discorsi provocatori intrisi di supremazia razziale. Quanto è razionale la posizione assunta da Trump sulla questione dei rifugiati? E quanto è puro il passato dell'America? Un'indagine condotta nel contesto contemporaneo.
+
+![](/assets/trump-and-his-racism-20170211-14/11Feb17-02.jpg)
+
+## L'apostolo della supremazia razziale
+Il nuovo presidente americano **Donald Trump** ha deciso di erigere muri di odio tra le menti umane, ergendosi ad apostolo della supremazia razziale. A pochi giorni dall'inizio del suo mandato, il magnate Trump ha sbalordito sia il popolo americano che la comunità internazionale con una serie di decisioni folli, intrise di odio razziale, xenofobia e misoginia. Sedendo al vertice dell'America, nazione che si vanta di essere la più grande democrazia del mondo, ricca di potenza militare e superiorità tecnologica, e che ha dato innumerevoli contributi alla società globale, Trump sta giocando con il fuoco. La ricchezza e la supremazia militare degli Stati Uniti non sono nate solo dal lavoro del popolo americano. Nel corso del tempo, molte persone sono giunte in America da vari paesi del mondo in cerca di lavoro. È grazie al loro sudore che l'America è diventata il paese numero uno al mondo. Tra questi vi sono persone provenienti dal Medio Oriente, dall'Africa e dall'Asia. Sarebbe bene che Trump si prendesse la briga di guardare indietro alla storia.
+
+## La storia dell'America e l'immigrazione
+L'America è entrata nella storia nel XV secolo con l'arrivo dei navigatori italiani **Cristoforo Colombo** e **Amerigo Vespucci**. Sebbene molti altri possano aver attraversato quelle terre in precedenza, il mondo ha iniziato a conoscere l'America con l'arrivo di questi navigatori europei. I primi abitanti del continente furono gli indiani, noti come amerindi, giunti dall'Asia attraverso lo stretto di Bering 15.000 anni fa, e gli eschimesi, noti come Inuit, che vivevano nella parte settentrionale del continente americano.
+
+Con la fama ottenuta attraverso i resoconti di viaggio di Amerigo Vespucci, nazioni europee come Portogallo, Spagna, Inghilterra, Francia e Paesi Bassi iniziarono a tentare di colonizzare e prendere il controllo di questo nuovo continente.
+- La prima colonia europea fu stabilita a Veracruz, in Messico, dai navigatori spagnoli.
+- Gli inglesi conquistarono Terranova.
+- Il navigatore francese Jacques Cartier conquistò il Canada.
+- Gli olandesi ottennero l'isola di Manhattan dagli indigeni.
+- In seguito, anche Svezia e Russia stabilirono il proprio dominio.
+
+Le nazioni europee consolidarono il loro potere sottomettendo e sterminando gli amerindi nativi. Molte malattie infettive portate dagli europei portarono alla completa distruzione di quella società. Successivamente, le nazioni europee cercarono di stabilire la propria supremazia combattendo tra loro. Il 15 novembre 1777 nacquero gli Stati Uniti d'America.
+
+## Discriminazione contro i rifugiati
+Questa storia ci dimostra la verità: l'America è un paese formato da molti immigrati e colonizzatori. Tuttavia, è proprio il nuovo presidente americano Donald Trump a dover comprendere questo fatto. Quando Trump chiude le porte dell'America a immigrati e rifugiati, dimenticando la natura fondamentale e l'eredità della sua stessa nazione, torna alla mente la storia del re che indossava abiti da sciocco. Il nuovo ordine di Trump vieta l'ingresso negli Stati Uniti ai viaggiatori provenienti da sette paesi musulmani: Siria, Iraq, Libia, Yemen, Somalia, Iran e Sudan. Il mondo ha guardato alla mossa di Trump con stupore e, ancor più, con preoccupazione. Le nazioni del mondo hanno condannato fermamente la misura, una dopo l'altra. Lo stesso popolo americano ha protestato contro l'ordine, al di là delle fedi religiose. Il primo ministro canadese **Justin Trudeau** ha risposto a Trump accogliendo un numero maggiore di rifugiati musulmani. Francia, Germania, Unione Europea e Nazioni Unite sono in prima linea nella protesta. Anche aziende come Apple, Google e Facebook si sono schierate contro l'ordine.
+
+Nel frattempo, il fatto che esperti legali e giudici americani si stiano opponendo all'ordine di Trump mette il presidente in una posizione sempre più difensiva. Il giudice federale americano **James Robart** è intervenuto sulla questione, dichiarando l'ordine di Trump incostituzionale, il che ha profondamente infastidito e provocato il presidente. Tuttavia, quando Trump ha presentato ricorso alla corte d'appello chiedendo il ripristino dell'ordine, sostenendo che il presidente ha più autorità del giudice, la corte ha respinto la richiesta senza esitazione. È stato un duro colpo per l'arroganza di Trump.
+
+## Le alleanze della supremazia razziale
+La supremazia razziale è il marchio di fabbrica di Trump. Esaminando i nomi di coloro che hanno espresso gioia quando Trump è stato eletto presidente, si capisce chi sia realmente.
+
+**David Duke**, noto per il suo razzismo anti-musulmano in Europa, **Marine Le Pen**, spina nel fianco dei musulmani in Francia, il primo ministro israeliano **Benjamin Netanyahu** e **Putin**, che rimane al potere alimentando il sentimento nazionalista russo mentre opprime i musulmani ceceni, sono tutti personaggi che hanno espresso grande euforia per la vittoria di Trump. Anche il partito di Amit Shah, responsabile del massacro dei musulmani nel Gujarat, non ha mancato di festeggiare.
+
+## Veleno settario
+Non c'è motivo di credere che dietro la decisione di Trump ci sia una semplice questione di sicurezza nazionale. In un'intervista rilasciata ad alcuni media, Trump ha affermato che i musulmani trattano i cristiani in modo terribile in Asia occidentale e Nord Africa, e che per questo motivo non li vogliamo. Trump ha dichiarato che non vogliamo qui coloro contro cui i nostri uomini e donne combattono fuori dal paese, e che vogliamo solo coloro che sostengono il nostro paese e amano profondamente la nostra gente. Qui Trump sta diffondendo il suo veleno settario ingannando il popolo americano. Fa parte di un piano segreto per creare un sentimento anti-musulmano e rivolgere l'intero popolo americano contro le nazioni musulmane e l'Islam.
+
+## La politica dei muri
+Appena salito al potere, Trump ha deciso di costruire un grande muro per impedire l'immigrazione dal vicino Messico. Il muro dovrebbe coprire una distanza di 3.200 chilometri con un costo di 5 miliardi di dollari. La folle decisione di Trump prevede che il costo sia a carico del Messico. Tuttavia, il presidente messicano Enrique Peña Nieto ha risposto seccamente che non pagherà nemmeno un centesimo. Inoltre, ha annullato la visita in America precedentemente programmata. Trump dimentica che il famigerato Muro di Berlino, costruito dal regime comunista della Germania dell'Est al confine con la Germania dell'Ovest nel 1961, fu infine abbattuto dal popolo. Inoltre, la lotta contro il Muro di Berlino era descritta dall'America e dall'allora presidente e leader del Partito Repubblicano, **George W. Bush**, come un simbolo della libertà umana. È un'ironia della storia che oggi il presidente dello stesso Partito Repubblicano, Donald Trump, stia lavorando alla costruzione di un altro muro.
+
+Trump non dovrebbe dimenticare che il flusso di rifugiati da Siria, Iraq e altri luoghi è il risultato del caos e dell'insicurezza creati dall'America stessa. Ogni essere umano desidera vivere nella propria terra. Ma coloro che intervengono per ripristinare la pace in paesi dove si diffondono disordini e conflitti non dovrebbero chiudere le porte del proprio paese a chi fugge per salvare la propria vita. I paesi, i confini e i governi sono solo immagini disegnate dall'uomo. Ovunque vivono esseri umani fatti di carne, ossa e cervello. I loro colori possono essere diversi, ma il sangue che scorre nelle loro vene e il battito dei loro cuori sono gli stessi. Oltre la razza, il colore, la casta e la nazione, i paesi, i governi e i governanti devono mostrare la saggezza di vedere gli esseri umani come tali.
+
+È qui che il messaggio del Sacro Corano diventa rilevante:
+
+> «يَا أَيُّهَا النَّاسُ إِنَّا خَلَقْنَاكُم مِّن ذَكَرٍ وَأُنثَىٰ وَجَعَلْنَاكُمْ شُعُوبًا وَقَبَائِلَ لِتَعَارَفُوا ۚ إِنَّ أَكْرَمَكُمْ عِندَ اللَّهِ أَتْقَاكُمْ ۚ إِنَّ اللَّهَ عَلِيمٌ خَبِيرٌ»
+> O uomini, vi abbiamo creati da un maschio e una femmina e abbiamo fatto di voi popoli e tribù affinché vi conosceste a vicenda. Presso Allah, il più nobile tra voi è colui che è più timorato di Dio. In verità, Allah è sapiente e ben informato.

@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-04T11:18:28.424780+00:00",
+ "generated_at": "2026-09-04T11:19:59.991078+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3739,
+ "count": 3740,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -10659,6 +10659,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/it/opinion/the-shackles-of-consumerist-culture-20170121-13.html",
    "md_url": "/it/opinion/the-shackles-of-consumerist-culture-20170121-13.md"
+  },
+  {
+   "slug": "trump-and-his-racism-20170211-14",
+   "lang": "it",
+   "category": "opinion",
+   "title": "Trump e la retorica della supremazia razziale",
+   "summary": "Un'analisi critica delle politiche razziali e migratorie del presidente americano Donald Trump, che esamina le contraddizioni storiche e umanitarie delle sue recenti decisioni. L'articolo riflette sulla natura multiculturale degli Stati Uniti e sulla necessità di superare le barriere ideologiche in nome della dignità umana.",
+   "author": "സുഫ്‌യാന്‍ അബ്ദുസ്സലാം",
+   "issue_date": "2017-02-11",
+   "html_url": "/it/opinion/trump-and-his-racism-20170211-14.html",
+   "md_url": "/it/opinion/trump-and-his-racism-20170211-14.md"
   },
   {
    "slug": "uapa-wielding-sedition-law-20170114-9",
