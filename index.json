@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-04T09:37:55.709559+00:00",
+ "generated_at": "2026-09-04T09:38:27.151885+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3650,
+ "count": 3651,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -32945,6 +32945,17 @@
    "issue_date": "2017-02-04",
    "html_url": "/sq/aqeedah/they-want-to-see-god-20170204-2.html",
    "md_url": "/sq/aqeedah/they-want-to-see-god-20170204-2.md"
+  },
+  {
+   "slug": "do-not-be-slaves-to-desires-20170211-11",
+   "lang": "sq",
+   "category": "dawah",
+   "title": "Mos e bëni veten skllevër të dëshirave",
+   "summary": "Ky artikull diskuton paralajmërimet kuranore kundër ndjekjes së dëshirave vetjake. Ai na kujton rëndësinë e të jetuarit duke ndjekur udhëzimin hyjnor të Allahut.",
+   "author": "ശമീര്‍ മദീനി",
+   "issue_date": "2017-02-11",
+   "html_url": "/sq/dawah/do-not-be-slaves-to-desires-20170211-11.html",
+   "md_url": "/sq/dawah/do-not-be-slaves-to-desires-20170211-11.md"
   },
   {
    "slug": "do-not-waver-in-trials-20170121-9",
