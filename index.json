@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-04T11:21:08.819911+00:00",
+ "generated_at": "2026-09-04T11:22:28.186804+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3742,
+ "count": 3743,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -12793,6 +12793,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/ko/opinion/the-shackles-of-consumerist-culture-20170121-13.html",
    "md_url": "/ko/opinion/the-shackles-of-consumerist-culture-20170121-13.md"
+  },
+  {
+   "slug": "trump-and-his-racism-20170211-14",
+   "lang": "ko",
+   "category": "opinion",
+   "title": "인종차별의 오만을 부리는 트럼프",
+   "summary": "미국 대통령 트럼프의 인종차별적 태도와 난민 정책을 비판적으로 분석한 글입니다. 미국 역사의 이면을 되짚어보며, 인류 보편의 가치를 저버리는 그의 행보가 지닌 모순을 지적합니다.",
+   "author": "സുഫ്‌യാന്‍ അബ്ദുസ്സലാം",
+   "issue_date": "2017-02-11",
+   "html_url": "/ko/opinion/trump-and-his-racism-20170211-14.html",
+   "md_url": "/ko/opinion/trump-and-his-racism-20170211-14.md"
   },
   {
    "slug": "uapa-wielding-sedition-law-20170114-9",
