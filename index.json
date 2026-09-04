@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-04T09:38:27.151885+00:00",
+ "generated_at": "2026-09-04T09:39:03.605366+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3651,
+ "count": 3652,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -33638,6 +33638,17 @@
    "issue_date": "2017-02-04",
    "html_url": "/sw/aqeedah/they-want-to-see-god-20170204-2.html",
    "md_url": "/sw/aqeedah/they-want-to-see-god-20170204-2.md"
+  },
+  {
+   "slug": "do-not-be-slaves-to-desires-20170211-11",
+   "lang": "sw",
+   "category": "dawah",
+   "title": "Usiwe watumwa wa matamanio yenu",
+   "summary": "Makala haya yanajadili maonyo ya Qur'ani dhidi ya kufuata matamanio ya nafsi. Inatukumbusha umuhimu wa kuishi kwa kufuata mwongozo wa Allah.",
+   "author": "ശമീര്‍ മദീനി",
+   "issue_date": "2017-02-11",
+   "html_url": "/sw/dawah/do-not-be-slaves-to-desires-20170211-11.html",
+   "md_url": "/sw/dawah/do-not-be-slaves-to-desires-20170211-11.md"
   },
   {
    "slug": "do-not-waver-in-trials-20170121-9",
