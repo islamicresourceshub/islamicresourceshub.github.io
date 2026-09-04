@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-04T11:08:34.194584+00:00",
+ "generated_at": "2026-09-04T11:09:13.523617+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3711,
+ "count": 3712,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -37829,6 +37829,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/tr/family/husband-trapped-in-the-mobile-web-20170121-5.html",
    "md_url": "/tr/family/husband-trapped-in-the-mobile-web-20170121-5.md"
+  },
+  {
+   "slug": "if-the-beginning-is-good-20170211-12",
+   "lang": "tr",
+   "category": "family",
+   "title": "Başlangıç İyi Olursa...",
+   "summary": "İslami ebeveynlik serisinin bu bölümünde, çocuk yetiştirirken anne babaların dikkat etmesi gereken hususlar ve Yaratıcı'nın bu konudaki rehberliği ele alınıyor.",
+   "author": "അഷ്‌റഫ് എകരൂല്‍",
+   "issue_date": "2017-02-11",
+   "html_url": "/tr/family/if-the-beginning-is-good-20170211-12.html",
+   "md_url": "/tr/family/if-the-beginning-is-good-20170211-12.md"
   },
   {
    "slug": "islamic-parenting-significance-and-goals-part-1-20170114-4",
