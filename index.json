@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-04T10:00:06.704412+00:00",
+ "generated_at": "2026-09-04T10:00:36.096959+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3680,
+ "count": 3681,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -7469,6 +7469,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/gu/family/husband-trapped-in-the-mobile-web-20170121-5.html",
    "md_url": "/gu/family/husband-trapped-in-the-mobile-web-20170121-5.md"
+  },
+  {
+   "slug": "if-the-beginning-is-good-20170211-12",
+   "lang": "gu",
+   "category": "family",
+   "title": "જો શરૂઆત સારી હોય તો...",
+   "summary": "આ ઇસ્લામિક પેરેન્ટિંગ શ્રેણીનો એક ભાગ છે. તેમાં બાળકોના ઉછેર દરમિયાન માતા-પિતાએ ધ્યાનમાં રાખવાની બાબતો અને સર્જનહારના માર્ગદર્શન વિશે ચર્ચા કરવામાં આવી છે.",
+   "author": "അഷ്‌റഫ് എകരൂല്‍",
+   "issue_date": "2017-02-11",
+   "html_url": "/gu/family/if-the-beginning-is-good-20170211-12.html",
+   "md_url": "/gu/family/if-the-beginning-is-good-20170211-12.md"
   },
   {
    "slug": "islamic-parenting-significance-and-goals-part-1-20170114-4",
