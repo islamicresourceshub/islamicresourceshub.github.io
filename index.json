@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-04T09:06:58.259035+00:00",
+ "generated_at": "2026-09-04T09:07:17.189535+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3593,
+ "count": 3594,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -33979,6 +33979,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/ta/family/our-parents-20170325-4.html",
    "md_url": "/ta/family/our-parents-20170325-4.md"
+  },
+  {
+   "slug": "school-annual-day-experiences-20170211-10",
+   "lang": "ta",
+   "category": "family",
+   "title": "பள்ளி ஆண்டுவிழா அனுபவங்கள்",
+   "summary": "பள்ளி ஆண்டுவிழாக்களில் பங்கேற்கும்போது கிடைக்கும் அனுபவங்களைப் பற்றிய குறிப்பு இது. மாற்றுத்திறனாளி குழந்தைகளின் திறமைகளை ஊக்குவிக்க வேண்டியதன் அவசியத்தை இது விவாதிக்கிறது.",
+   "author": "ഇബ്‌നു അലി എടത്തനാട്ടുകര",
+   "issue_date": "2017-02-11",
+   "html_url": "/ta/family/school-annual-day-experiences-20170211-10.html",
+   "md_url": "/ta/family/school-annual-day-experiences-20170211-10.md"
   },
   {
    "slug": "the-methodology-of-conduct-20170128-8",
