@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-04T06:17:34.617101+00:00",
+ "generated_at": "2026-09-04T08:45:36.536578+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3566,
+ "count": 3567,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -8613,6 +8613,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/hi/family/our-parents-20170325-4.html",
    "md_url": "/hi/family/our-parents-20170325-4.md"
+  },
+  {
+   "slug": "school-annual-day-experiences-20170211-10",
+   "lang": "hi",
+   "category": "family",
+   "title": "स्कूल वार्षिकोत्सव के अनुभव",
+   "summary": "स्कूल वार्षिकोत्सवों में भाग लेने पर प्राप्त अनुभवों पर एक टिप्पणी। इसमें बच्चों की प्रतिभाओं को प्रोत्साहित करने की आवश्यकता पर चर्चा की गई है।",
+   "author": "ഇബ്‌നു അലി എടത്തനാട്ടുകര",
+   "issue_date": "2017-02-11",
+   "html_url": "/hi/family/school-annual-day-experiences-20170211-10.html",
+   "md_url": "/hi/family/school-annual-day-experiences-20170211-10.md"
   },
   {
    "slug": "the-methodology-of-conduct-20170128-8",
