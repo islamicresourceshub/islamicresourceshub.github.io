@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-04T11:59:48.287403+00:00",
+ "generated_at": "2026-09-04T12:00:10.073548+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3771,
+ "count": 3781,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -15072,6 +15072,28 @@
    "md_url": "/ml/dawah/hard-work-and-sincerity-20181020-1.md"
   },
   {
+   "slug": "heart-surgery-of-evolution-20200620-1",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "പരിണാമത്തിന്റെ ഹൃദയശസ്ത്രക്രിയ",
+   "summary": "പരിണാമ സിദ്ധാന്തത്തെ തെളിയിക്കാൻ റിച്ചാർഡ് ലെൻസ്കി നടത്തിയ ദീർഘകാല ബാക്ടീരിയ പരീക്ഷണത്തെയും, അത് പരിണാമത്തെ തെളിയിക്കുന്നതിൽ പരാജയപ്പെട്ടതിനെയും ശാസ്ത്രീയമായി വിശകലനം ചെയ്യുന്നു.",
+   "author": "അലി ചെമ്മാട്",
+   "issue_date": "2020-06-20",
+   "html_url": "/ml/dawah/heart-surgery-of-evolution-20200620-1.html",
+   "md_url": "/ml/dawah/heart-surgery-of-evolution-20200620-1.md"
+  },
+  {
+   "slug": "honesty-20200620-4",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "സത്യസന്ധത",
+   "summary": "ഇസ്‌ലാം വലിയ പ്രാധാന്യം നൽകുന്ന സത്യസന്ധത എന്ന ഗുണത്തെക്കുറിച്ചും അതിന്റെ പാരത്രിക നേട്ടങ്ങളെക്കുറിച്ചും ഖുർആൻ-ഹദീസ് അടിസ്ഥാനത്തിൽ വിശദീകരിക്കുന്നു.",
+   "author": "അബ്ദുൽ ജബ്ബാർ മദ്‌നി",
+   "issue_date": "2020-06-20",
+   "html_url": "/ml/dawah/honesty-20200620-4.html",
+   "md_url": "/ml/dawah/honesty-20200620-4.md"
+  },
+  {
    "slug": "how-weak-is-man-20200215-2",
    "lang": "ml",
    "category": "dawah",
@@ -15776,6 +15798,17 @@
    "md_url": "/ml/dawah/reap-profit-fear-loss-20190615-4.md"
   },
   {
+   "slug": "recognizing-the-mind-20200620-8",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "മനസ്സിനെ തിരിച്ചറിയുക",
+   "summary": "മനസ്സിന്റെ പ്രവർത്തനങ്ങളെയും അതിനെ നിയന്ത്രിക്കേണ്ടതിന്റെ ആവശ്യകതയെയും ഇസ്‌ലാമിക വീക്ഷണത്തിൽ വിശകലനം ചെയ്യുന്നു.",
+   "author": "ഷമീർ മരക്കാർ നദ്‌വി",
+   "issue_date": "2020-06-20",
+   "html_url": "/ml/dawah/recognizing-the-mind-20200620-8.html",
+   "md_url": "/ml/dawah/recognizing-the-mind-20200620-8.md"
+  },
+  {
    "slug": "relevance-of-religious-dialogues-20180512-2",
    "lang": "ml",
    "category": "dawah",
@@ -16170,6 +16203,17 @@
    "issue_date": "2018-08-18",
    "html_url": "/ml/dawah/the-declining-blessings-in-trade-20180818-2.html",
    "md_url": "/ml/dawah/the-declining-blessings-in-trade-20180818-2.md"
+  },
+  {
+   "slug": "the-distance-from-atheism-to-faith-20200620-3",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "നിരീശ്വരവാദത്തിൽനിന്ന് വിശ്വാസത്തിലേക്കുള്ള ദൂരം",
+   "summary": "നിരീശ്വരവാദികളായിരുന്ന പ്രമുഖ വ്യക്തികൾ ഇസ്‌ലാമിലേക്ക് കടന്നുവന്ന അനുഭവങ്ങളും അവരുടെ ചിന്താപരമായ മാറ്റങ്ങളും വിവരിക്കുന്നു.",
+   "author": "അഹ്‌മദ് അബ്ദുൽ ആൽ",
+   "issue_date": "2020-06-20",
+   "html_url": "/ml/dawah/the-distance-from-atheism-to-faith-20200620-3.html",
+   "md_url": "/ml/dawah/the-distance-from-atheism-to-faith-20200620-3.md"
   },
   {
    "slug": "the-etiquette-of-a-preacher-20190504-7",
@@ -17765,6 +17809,17 @@
    "issue_date": "2019-11-09",
    "html_url": "/ml/family/the-satisfaction-that-travels-bring-20191109-12.html",
    "md_url": "/ml/family/the-satisfaction-that-travels-bring-20191109-12.md"
+  },
+  {
+   "slug": "the-skill-of-understanding-nature-20200620-7",
+   "lang": "ml",
+   "category": "family",
+   "title": "പ്രകൃതത്തെ കണ്ടറിയുന്ന സാമർത്ഥ്യം",
+   "summary": "ഭാര്യാഭർത്താക്കന്മാർക്കിടയിലുള്ള വ്യത്യസ്ത പ്രകൃതങ്ങളെ മനസ്സിലാക്കി എങ്ങനെ സമാധാനപരമായ കുടുംബജീവിതം നയിക്കാമെന്ന് പ്രവാചക ചരിത്രത്തിൽ നിന്ന് ഉദാഹരണങ്ങൾ സഹിതം വിവരിക്കുന്നു.",
+   "author": "അഷ്‌റഫ് എകരൂൽ",
+   "issue_date": "2020-06-20",
+   "html_url": "/ml/family/the-skill-of-understanding-nature-20200620-7.html",
+   "md_url": "/ml/family/the-skill-of-understanding-nature-20200620-7.md"
   },
   {
    "slug": "the-traps-of-social-media-20191005-8",
@@ -20693,6 +20748,17 @@
    "md_url": "/ml/opinion/granting-freedom-of-opinion-20191102-1.md"
   },
   {
+   "slug": "great-teachers-and-good-students-20200620-2",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "മികച്ച അധ്യാപകരും നല്ല ശിഷ്യന്മാരും",
+   "summary": "അധ്യാപകരും വിദ്യാർത്ഥികളും തമ്മിലുള്ള ബന്ധത്തിലുണ്ടായ അപചയത്തെക്കുറിച്ചും, അറിവിനെ ആദരിക്കേണ്ടതിന്റെ പ്രാധാന്യത്തെക്കുറിച്ചും പ്രതിപാദിക്കുന്നു.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2020-06-20",
+   "html_url": "/ml/opinion/great-teachers-and-good-students-20200620-2.html",
+   "md_url": "/ml/opinion/great-teachers-and-good-students-20200620-2.md"
+  },
+  {
    "slug": "hajj-subsidy-before-putting-the-muslim-community-in-the-dock-20170128-3",
    "lang": "ml",
    "category": "opinion",
@@ -21978,6 +22044,17 @@
    "issue_date": "2019-12-21",
    "html_url": "/ml/opinion/the-religion-and-politics-of-citizenship-20191221-9.html",
    "md_url": "/ml/opinion/the-religion-and-politics-of-citizenship-20191221-9.md"
+  },
+  {
+   "slug": "the-roots-of-islamophobia-in-india-20200620-5",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "ഇന്ത്യയിലെ ഇസ്‌ലാമോഫോബിക് വേരുകൾ",
+   "summary": "ഇന്ത്യയിലെ ജനസംഖ്യാ വർധനവിനെക്കുറിച്ചുള്ള തെറ്റായ പ്രചാരണങ്ങളും അതിനു പിന്നിലെ ഇസ്‌ലാമോഫോബിക് അജണ്ടകളും കണക്കുകൾ നിരത്തി പരിശോധിക്കുന്നു.",
+   "author": "ഹിലാൽ സലീം സി.പി",
+   "issue_date": "2020-06-20",
+   "html_url": "/ml/opinion/the-roots-of-islamophobia-in-india-20200620-5.html",
+   "md_url": "/ml/opinion/the-roots-of-islamophobia-in-india-20200620-5.md"
   },
   {
    "slug": "the-secrets-of-advertisements-20181103-8",
@@ -23410,6 +23487,17 @@
    "md_url": "/ml/quran/surah-ash-shu-ara-the-poets-20260822-7.md"
   },
   {
+   "slug": "surah-at-taghabun-tafsir-20200620-9",
+   "lang": "ml",
+   "category": "quran",
+   "title": "തഗാബുൻ (നഷ്ടം വെളിപ്പെടൽ)",
+   "summary": "വിശുദ്ധ ഖുർആനിലെ 64-ാം അധ്യായമായ തഗാബുൻ സൂറത്തിന്റെ ലളിതമായ വ്യാഖ്യാനം.",
+   "author": "അബ്ദുറഹ്‌മാൻ നാസിർ അസ്സഅദി",
+   "issue_date": "2020-06-20",
+   "html_url": "/ml/quran/surah-at-taghabun-tafsir-20200620-9.html",
+   "md_url": "/ml/quran/surah-at-taghabun-tafsir-20200620-9.md"
+  },
+  {
    "slug": "surah-at-taghabun-the-mutual-loss-and-gain-20200606-9",
    "lang": "ml",
    "category": "quran",
@@ -23804,6 +23892,17 @@
    "issue_date": "2018-08-11",
    "html_url": "/ml/seerah/a-life-dedicated-to-the-arabic-language-20180811-2.html",
    "md_url": "/ml/seerah/a-life-dedicated-to-the-arabic-language-20180811-2.md"
+  },
+  {
+   "slug": "abu-mahdura-al-juhmi-ra-20200620-6",
+   "lang": "ml",
+   "category": "seerah",
+   "title": "അബൂമഹ്ദൂറ അൽജുഹ്മി(റ)",
+   "summary": "പ്രവാചകന്റെ കാലഘട്ടത്തിലെ ബാങ്ക് വിളിയുടെ ചരിത്രവുമായി ബന്ധപ്പെട്ട സ്വഹാബി അബൂമഹ്ദൂറ(റ)വിന്റെ ഇസ്‌ലാം ആശ്ലേഷണത്തിന്റെ ചരിത്രം.",
+   "author": "മുഹമ്മദ് ശമീൽ",
+   "issue_date": "2020-06-20",
+   "html_url": "/ml/seerah/abu-mahdura-al-juhmi-ra-20200620-6.html",
+   "md_url": "/ml/seerah/abu-mahdura-al-juhmi-ra-20200620-6.md"
   },
   {
    "slug": "accepting-the-challenge-20180623-9",
@@ -25729,6 +25828,17 @@
    "issue_date": "2018-08-25",
    "html_url": "/ml/story/orphans-with-guardians-20180825-11.html",
    "md_url": "/ml/story/orphans-with-guardians-20180825-11.md"
+  },
+  {
+   "slug": "palestine-quarantine-20200620-10",
+   "lang": "ml",
+   "category": "story",
+   "title": "ഫലസ്തീൻ ക്വാറന്റൈൻ",
+   "summary": "ഫലസ്തീനിലെ കുട്ടികൾ യുദ്ധത്തിന്റെ ഭീകരതയ്ക്കിടയിലും എങ്ങനെയാണ് അതിജീവനത്തിന്റെ കളികൾ കളിക്കുന്നത് എന്ന് വിവരിക്കുന്ന കഥ.",
+   "author": "ആഷിക് മുഹമ്മദ് ലബ്ബ",
+   "issue_date": "2020-06-20",
+   "html_url": "/ml/story/palestine-quarantine-20200620-10.html",
+   "md_url": "/ml/story/palestine-quarantine-20200620-10.md"
   },
   {
    "slug": "path-of-peace-20180512-7",
