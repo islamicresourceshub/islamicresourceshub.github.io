@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-04T11:51:28.419002+00:00",
+ "generated_at": "2026-09-04T11:52:15.632198+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3766,
+ "count": 3767,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -37917,6 +37917,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/tl/opinion/the-shackles-of-consumerist-culture-20170121-13.html",
    "md_url": "/tl/opinion/the-shackles-of-consumerist-culture-20170121-13.md"
+  },
+  {
+   "slug": "trump-and-his-racism-20170211-14",
+   "lang": "tl",
+   "category": "opinion",
+   "title": "Trump na Ipinagmamalaki ang Rasismo",
+   "summary": "Isang artikulo na kritikal na nagsusuri sa mga rasistang pananaw at patakaran sa refugee ng Pangulo ng Amerika na si Trump.",
+   "author": "സുഫ്‌യാന്‍ അബ്ദുസ്സലാം",
+   "issue_date": "2017-02-11",
+   "html_url": "/tl/opinion/trump-and-his-racism-20170211-14.html",
+   "md_url": "/tl/opinion/trump-and-his-racism-20170211-14.md"
   },
   {
    "slug": "uapa-wielding-sedition-law-20170114-9",
