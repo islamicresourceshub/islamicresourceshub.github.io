@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-04T11:24:30.810722+00:00",
+ "generated_at": "2026-09-04T11:25:41.396805+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3744,
+ "count": 3745,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -28600,6 +28600,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/ne/opinion/the-shackles-of-consumerist-culture-20170121-13.html",
    "md_url": "/ne/opinion/the-shackles-of-consumerist-culture-20170121-13.md"
+  },
+  {
+   "slug": "trump-and-his-racism-20170211-14",
+   "lang": "ne",
+   "category": "opinion",
+   "title": "नस्लवादको घमण्ड गर्ने ट्रम्प",
+   "summary": "यो लेख अमेरिकी राष्ट्रपति ट्रम्पको नस्लवादी दृष्टिकोण र शरणार्थी नीतिहरूको आलोचनात्मक विश्लेषण हो। यसले अमेरिकाको इतिहास र आप्रवासीहरूको योगदानलाई स्मरण गराउँदै ट्रम्पको विभाजनकारी राजनीतिलाई प्रश्न गर्दछ।",
+   "author": "സുഫ്‌യാന്‍ അബ്ദുസ്സലാം",
+   "issue_date": "2017-02-11",
+   "html_url": "/ne/opinion/trump-and-his-racism-20170211-14.html",
+   "md_url": "/ne/opinion/trump-and-his-racism-20170211-14.md"
   },
   {
    "slug": "uapa-wielding-sedition-law-20170114-9",
