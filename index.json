@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-04T10:10:55.418170+00:00",
+ "generated_at": "2026-09-04T10:11:18.761617+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3696,
+ "count": 3703,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -13895,6 +13895,17 @@
    "md_url": "/ml/aqeedah/to-whom-did-they-pray-20190112-2.md"
   },
   {
+   "slug": "unity-what-islam-has-to-say-20200530-5",
+   "lang": "ml",
+   "category": "aqeedah",
+   "title": "ഐക്യം: ഇസ്‌ലാമിന് പറയാനുള്ളത്",
+   "summary": "ഇസ്‌ലാമിക ദർശനത്തിൽ ഐക്യത്തിനുള്ള പ്രാധാന്യത്തെക്കുറിച്ചും, ഭിന്നതകൾ ഒഴിവാക്കി വിശ്വാസികൾ എങ്ങനെ ഒന്നിച്ചുനിൽക്കണമെന്നും ഖുർആനിക വചനങ്ങളുടെ അടിസ്ഥാനത്തിൽ ലേഖകൻ വിശദീകരിക്കുന്നു.",
+   "author": "അൽത്താഫ് അമ്മാട്ടിക്കുന്ന്",
+   "issue_date": "2020-05-30",
+   "html_url": "/ml/aqeedah/unity-what-islam-has-to-say-20200530-5.html",
+   "md_url": "/ml/aqeedah/unity-what-islam-has-to-say-20200530-5.md"
+  },
+  {
    "slug": "using-the-pandemic-as-a-cover-for-atheism-20200328-5",
    "lang": "ml",
    "category": "aqeedah",
@@ -14487,6 +14498,17 @@
    "issue_date": "2019-08-10",
    "html_url": "/ml/dawah/eid-some-realizations-20190810-8.html",
    "md_url": "/ml/dawah/eid-some-realizations-20190810-8.md"
+  },
+  {
+   "slug": "eid-ul-fitr-during-the-covid-era-20200530-1",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "കോവിഡ് കാലത്തെ ചെറിയ പെരുന്നാൾ",
+   "summary": "കോവിഡ് മഹാമാരിയും ലോക്ക്ഡൗണും സൃഷ്ടിച്ച പ്രതിസന്ധികൾക്കിടയിൽ വിശ്വാസികൾ എങ്ങനെ പെരുന്നാളിനെ സമീപിക്കണമെന്നും, ഈ സാഹചര്യത്തിൽ ആരാധനകൾക്കും കുടുംബബന്ധങ്ങൾക്കും നൽകേണ്ട പ്രാധാന്യത്തെക്കുറിച്ചും ലേഖകൻ വിവരിക്കുന്നു.",
+   "author": "നബീൽ പയ്യോളി",
+   "issue_date": "2020-05-30",
+   "html_url": "/ml/dawah/eid-ul-fitr-during-the-covid-era-20200530-1.html",
+   "md_url": "/ml/dawah/eid-ul-fitr-during-the-covid-era-20200530-1.md"
   },
   {
    "slug": "enemies-of-goodness-20191221-8",
@@ -16533,6 +16555,17 @@
    "issue_date": "2018-08-25",
    "html_url": "/ml/dawah/what-believers-should-note-during-calamities-20180825-3.html",
    "md_url": "/ml/dawah/what-believers-should-note-during-calamities-20180825-3.md"
+  },
+  {
+   "slug": "what-did-we-gain-in-ramadan-20200530-2",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "റമദാനിൽ എന്തു നേടി?",
+   "summary": "റമദാൻ വിടപറയുമ്പോൾ നാം നേടിയെടുത്ത പുണ്യങ്ങളെക്കുറിച്ചും, പള്ളികൾ അടഞ്ഞുകിടന്ന സാഹചര്യത്തിൽ വീടുകളിൽ ആരാധനകൾ നിർവഹിച്ചതിലൂടെ ലഭിച്ച പാഠങ്ങളെക്കുറിച്ചും ആത്മവിചാരണ നടത്താൻ ലേഖകൻ ആഹ്വാനം ചെയ്യുന്നു.",
+   "author": "അബൂമുസ്‌ലിം അൽഹികമി",
+   "issue_date": "2020-05-30",
+   "html_url": "/ml/dawah/what-did-we-gain-in-ramadan-20200530-2.html",
+   "md_url": "/ml/dawah/what-did-we-gain-in-ramadan-20200530-2.md"
   },
   {
    "slug": "what-do-we-have-for-ourselves-20170218-10",
@@ -19142,6 +19175,17 @@
    "md_url": "/ml/history/pandemics-seen-by-the-world-20200411-1.md"
   },
   {
+   "slug": "population-decline-a-chinese-model-20200530-4",
+   "lang": "ml",
+   "category": "history",
+   "title": "ജനസംഖ്യാ മാന്ദ്യം: ഒരു ചൈനീസ് മോഡൽ",
+   "summary": "ചൈനയുടെ നിർബന്ധിത ജനസംഖ്യാ നിയന്ത്രണ നയങ്ങൾ എങ്ങനെയാണ് ആ രാജ്യത്തെ സാമ്പത്തികമായും സാമൂഹികമായും പ്രതിസന്ധിയിലാക്കിയതെന്ന് ലേഖകൻ വിശകലനം ചെയ്യുന്നു.",
+   "author": "ഹിലാൽ സി.പി",
+   "issue_date": "2020-05-30",
+   "html_url": "/ml/history/population-decline-a-chinese-model-20200530-4.html",
+   "md_url": "/ml/history/population-decline-a-chinese-model-20200530-4.md"
+  },
+  {
    "slug": "public-activities-20191109-7",
    "lang": "ml",
    "category": "history",
@@ -20174,6 +20218,17 @@
    "issue_date": "2020-02-01",
    "html_url": "/ml/opinion/extremism-20200201-7.html",
    "md_url": "/ml/opinion/extremism-20200201-7.md"
+  },
+  {
+   "slug": "faded-eid-and-unwavering-faith-20200530-3",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "നിറംമങ്ങിയ പെരുന്നാളും ദുർബലമാകാത്ത വിശ്വാസവും",
+   "summary": "കോവിഡ് നിയന്ത്രണങ്ങൾ മൂലം ആഘോഷങ്ങൾ മങ്ങിയെങ്കിലും, ഒരു വിശ്വാസിയുടെ വിശ്വാസവും ആരാധനകളും തളരാൻ പാടില്ലെന്നും പ്രതിസന്ധികളിലും അല്ലാഹുവിന്റെ തീരുമാനങ്ങൾക്ക് വഴങ്ങുകയാണ് വേണ്ടതെന്നും മുഖലേഖനം ഓർമ്മിപ്പിക്കുന്നു.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2020-05-30",
+   "html_url": "/ml/opinion/faded-eid-and-unwavering-faith-20200530-3.html",
+   "md_url": "/ml/opinion/faded-eid-and-unwavering-faith-20200530-3.md"
   },
   {
    "slug": "failing-law-enforcement-20191214-8",
@@ -22354,6 +22409,17 @@
    "md_url": "/ml/quran/divine-signs-in-raindrops-20180623-2.md"
   },
   {
+   "slug": "does-the-holy-quran-influence-us-20200530-6",
+   "lang": "ml",
+   "category": "quran",
+   "title": "വിശുദ്ധ ഖുർആൻ നമ്മെ സ്വാധീനിക്കുന്നുണ്ടോ?",
+   "summary": "ഖുർആൻ പാരായണം ചെയ്യുമ്പോഴും കേൾക്കുമ്പോഴും നമ്മുടെ ഹൃദയങ്ങളിൽ ഉണ്ടാകേണ്ട സ്വാധീനത്തെക്കുറിച്ചും, ഖുർആനിനോടുള്ള നമ്മുടെ സമീപനം എങ്ങനെയായിരിക്കണമെന്നും ലേഖനം ചർച്ച ചെയ്യുന്നു.",
+   "author": "ഖുസൈന മഹ്റാനി (വിവ: അർഷദ് കാരക്കാട്)",
+   "issue_date": "2020-05-30",
+   "html_url": "/ml/quran/does-the-holy-quran-influence-us-20200530-6.html",
+   "md_url": "/ml/quran/does-the-holy-quran-influence-us-20200530-6.md"
+  },
+  {
    "slug": "end-times-in-the-quran-and-science-20190824-1",
    "lang": "ml",
    "category": "quran",
@@ -22649,6 +22715,17 @@
    "issue_date": "2020-01-25",
    "html_url": "/ml/quran/quran-is-guidance-for-mankind-20200125-9.html",
    "md_url": "/ml/quran/quran-is-guidance-for-mankind-20200125-9.md"
+  },
+  {
+   "slug": "quran-recitation-and-study-after-ramadan-20200530-7",
+   "lang": "ml",
+   "category": "quran",
+   "title": "ഖുർആൻ പാരായണവും പഠനവും റമദാനിനു ശേഷം?",
+   "summary": "റമദാൻ കഴിഞ്ഞാലും ഖുർആൻ പാരായണവും പഠനവും ജീവിതത്തിൽ തുടരേണ്ടതിന്റെ ആവശ്യകതയെക്കുറിച്ചും, ഖുർആനിനെ അവഗണിക്കുന്നതിന്റെ അപകടങ്ങളെക്കുറിച്ചും ലേഖകൻ ഓർമ്മിപ്പിക്കുന്നു.",
+   "author": "ഷമീർ മദീനി",
+   "issue_date": "2020-05-30",
+   "html_url": "/ml/quran/quran-recitation-and-study-after-ramadan-20200530-7.html",
+   "md_url": "/ml/quran/quran-recitation-and-study-after-ramadan-20200530-7.md"
   },
   {
    "slug": "quran-vision-surah-al-mulk-20200222-12",
