@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-04T12:23:49.565975+00:00",
+ "generated_at": "2026-09-04T12:24:39.121356+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3816,
+ "count": 3817,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -32351,6 +32351,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/ru/dawah/live-knowing-the-value-of-time-20170114-8.html",
    "md_url": "/ru/dawah/live-knowing-the-value-of-time-20170114-8.md"
+  },
+  {
+   "slug": "maintain-faith-20170211-15",
+   "lang": "ru",
+   "category": "dawah",
+   "title": "Сохранение веры",
+   "summary": "Статья связывает человеческий интеллект и научные знания с верой. В ней подчеркивается необходимость укрепления веры и воплощения её в повседневной жизни.",
+   "author": "അഡ്വ.കെ.എ. അബ്ദുസ്സമദ് കലൂര്‍",
+   "issue_date": "2017-02-11",
+   "html_url": "/ru/dawah/maintain-faith-20170211-15.html",
+   "md_url": "/ru/dawah/maintain-faith-20170211-15.md"
   },
   {
    "slug": "muslims-in-a-pluralistic-society-20170128-1",
