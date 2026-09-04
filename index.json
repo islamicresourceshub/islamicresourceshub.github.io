@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-04T11:12:18.576817+00:00",
+ "generated_at": "2026-09-04T11:12:57.684509+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3718,
+ "count": 3719,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -2134,6 +2134,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/as/opinion/the-shackles-of-consumerist-culture-20170121-13.html",
    "md_url": "/as/opinion/the-shackles-of-consumerist-culture-20170121-13.md"
+  },
+  {
+   "slug": "trump-and-his-racism-20170211-14",
+   "lang": "as",
+   "category": "opinion",
+   "title": "বৰ্ণবাদৰ দম্ভালি মৰা ট্ৰাম্প",
+   "summary": "আমেৰিকাৰ ৰাষ্ট্ৰপতি ডনাল্ড ট্ৰাম্পৰ বৰ্ণবাদী স্থিতি আৰু শৰণাৰ্থী নীতিৰ এক সমালোচনাত্মক বিশ্লেষণ আগবঢ়োৱা হৈছে এই প্ৰবন্ধটোত।",
+   "author": "സുഫ്‌യാന്‍ അബ്ദുസ്സലാം",
+   "issue_date": "2017-02-11",
+   "html_url": "/as/opinion/trump-and-his-racism-20170211-14.html",
+   "md_url": "/as/opinion/trump-and-his-racism-20170211-14.md"
   },
   {
    "slug": "uapa-wielding-sedition-law-20170114-9",
