@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-04T11:48:13.775918+00:00",
+ "generated_at": "2026-09-04T11:48:55.680833+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3763,
+ "count": 3764,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -35101,6 +35101,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/sw/opinion/the-shackles-of-consumerist-culture-20170121-13.html",
    "md_url": "/sw/opinion/the-shackles-of-consumerist-culture-20170121-13.md"
+  },
+  {
+   "slug": "trump-and-his-racism-20170211-14",
+   "lang": "sw",
+   "category": "opinion",
+   "title": "Trump na kiburi chake cha ubaguzi wa rangi",
+   "summary": "Makala hii inachambua kwa kina misimamo ya kibaguzi na sera za wakimbizi za Rais wa Marekani Donald Trump. Inahoji uhalali wa sera zake kwa kulinganisha na historia ya Marekani kama taifa la wahamiaji.",
+   "author": "സുഫ്‌യാന്‍ അബ്ദുസ്സലാം",
+   "issue_date": "2017-02-11",
+   "html_url": "/sw/opinion/trump-and-his-racism-20170211-14.html",
+   "md_url": "/sw/opinion/trump-and-his-racism-20170211-14.md"
   },
   {
    "slug": "uapa-wielding-sedition-law-20170114-9",
