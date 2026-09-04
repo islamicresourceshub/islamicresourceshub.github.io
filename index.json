@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-04T12:19:39.561129+00:00",
+ "generated_at": "2026-09-04T12:20:18.762114+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3802,
+ "count": 3811,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -13686,6 +13686,17 @@
    "md_url": "/ml/aqeedah/is-blind-imitation-a-religious-command-20191130-2.md"
   },
   {
+   "slug": "is-dakshina-supporting-superstitions-20200627-7",
+   "lang": "ml",
+   "category": "aqeedah",
+   "title": "‘ദക്ഷിണ’യും അന്ധവിശ്വാസങ്ങൾക്ക് കൂട്ടുപിടിക്കുന്നുവോ?",
+   "summary": "ഖബർ സിയാറത്തുമായി ബന്ധപ്പെട്ട് ചില പ്രസിദ്ധീകരണങ്ങൾ പ്രചരിപ്പിക്കുന്ന അന്ധവിശ്വാസങ്ങളെ ഖുർആനിന്റെയും സുന്നത്തിന്റെയും അടിസ്ഥാനത്തിൽ വിമർശിക്കുന്നു.",
+   "author": "ഷമീർ മദീനി",
+   "issue_date": "2020-06-27",
+   "html_url": "/ml/aqeedah/is-dakshina-supporting-superstitions-20200627-7.html",
+   "md_url": "/ml/aqeedah/is-dakshina-supporting-superstitions-20200627-7.md"
+  },
+  {
    "slug": "is-god-one-20181222-4",
    "lang": "ml",
    "category": "aqeedah",
@@ -14192,6 +14203,17 @@
    "md_url": "/ml/aqeedah/the-strength-of-faith-20200613-7.md"
   },
   {
+   "slug": "the-three-dimensions-of-human-greatness-20200627-5",
+   "lang": "ml",
+   "category": "aqeedah",
+   "title": "മനുഷ്യ മഹത്വത്തിന്റെ 'ത്രിമാനങ്ങൾ'",
+   "summary": "സ്രഷ്ടാവ്, സ്വന്തം വ്യക്തിത്വം, സൃഷ്ടികൾ എന്നിവയുമായുള്ള ബന്ധം മെച്ചപ്പെടുത്തുന്നതിലൂടെ എങ്ങനെ മനുഷ്യ മഹത്വം കൈവരിക്കാം എന്ന് ഈ ലേഖനം ചർച്ച ചെയ്യുന്നു.",
+   "author": "പി.എൻ. അബ്ദുല്ലത്തീഫ് മദനി",
+   "issue_date": "2020-06-27",
+   "html_url": "/ml/aqeedah/the-three-dimensions-of-human-greatness-20200627-5.html",
+   "md_url": "/ml/aqeedah/the-three-dimensions-of-human-greatness-20200627-5.md"
+  },
+  {
    "slug": "they-want-to-see-god-20170204-2",
    "lang": "ml",
    "category": "aqeedah",
@@ -14531,6 +14553,17 @@
    "issue_date": "2019-08-03",
    "html_url": "/ml/dawah/be-well-wishers-20190803-3.html",
    "md_url": "/ml/dawah/be-well-wishers-20190803-3.md"
+  },
+  {
+   "slug": "begging-for-silence-20200627-4",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "മൗനം ഭിക്ഷകൾ",
+   "summary": "നാവിനെ നിയന്ത്രിക്കുന്നതിന്റെയും അനാവശ്യ സംസാരങ്ങൾ ഒഴിവാക്കുന്നതിന്റെയും പ്രാധാന്യത്തെക്കുറിച്ച് ഹദീസുകളുടെ വെളിച്ചത്തിൽ വിശദീകരിക്കുന്നു.",
+   "author": "അബ്ദുൽ ജബ്ബാർ മദീനി",
+   "issue_date": "2020-06-27",
+   "html_url": "/ml/dawah/begging-for-silence-20200627-4.html",
+   "md_url": "/ml/dawah/begging-for-silence-20200627-4.md"
   },
   {
    "slug": "blessed-ramadan-in-times-of-strict-restrictions-20200502-1",
@@ -15037,6 +15070,17 @@
    "issue_date": "2020-02-08",
    "html_url": "/ml/dawah/fearlessness-serenity-self-surrender-20200208-3.html",
    "md_url": "/ml/dawah/fearlessness-serenity-self-surrender-20200208-3.md"
+  },
+  {
+   "slug": "features-of-islam-20200627-8",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "ഇസ്‌ലാമിന്റെ സവിശേഷതകൾ",
+   "summary": "ഇസ്‌ലാമിന്റെ അടിസ്ഥാന സവിശേഷതകൾ, പ്രവാചകന്മാരുടെ ദൗത്യം, ഖുർആനിന്റെ പ്രാധാന്യം എന്നിവയെക്കുറിച്ച് വിവരിക്കുന്ന ലേഖനം.",
+   "author": "മുഹമ്മദ് സ്വാദിഖ് മദീനി",
+   "issue_date": "2020-06-27",
+   "html_url": "/ml/dawah/features-of-islam-20200627-8.html",
+   "md_url": "/ml/dawah/features-of-islam-20200627-8.md"
   },
   {
    "slug": "few-are-the-successful-20191026-11",
@@ -15620,6 +15664,17 @@
    "issue_date": "2019-05-18",
    "html_url": "/ml/dawah/make-fasting-a-shield-against-evils-20190518-10.html",
    "md_url": "/ml/dawah/make-fasting-a-shield-against-evils-20190518-10.md"
+  },
+  {
+   "slug": "make-life-productive-20200627-2",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "ജീവിതത്തെ ക്രിയാത്മകമാക്കുക",
+   "summary": "ജീവിതത്തിൽ അലസത വെടിഞ്ഞ് ക്രിയാത്മകമായി പ്രവർത്തിക്കേണ്ടതിന്റെ ആവശ്യകതയെക്കുറിച്ച് ഖുർആൻ വചനങ്ങളുടെ അടിസ്ഥാനത്തിൽ വിവരിക്കുന്നു.",
+   "author": "അബൂഅമീൻ",
+   "issue_date": "2020-06-27",
+   "html_url": "/ml/dawah/make-life-productive-20200627-2.html",
+   "md_url": "/ml/dawah/make-life-productive-20200627-2.md"
   },
   {
    "slug": "make-preparations-20181201-6",
@@ -21716,6 +21771,17 @@
    "md_url": "/ml/opinion/representatives-must-reach-out-to-the-people-20200208-2.md"
   },
   {
+   "slug": "resistance-experiments-in-the-path-of-evolution-20200627-6",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "പരിണാമവഴിയിലെ പ്രതിരോധ പരീക്ഷണങ്ങൾ",
+   "summary": "പരിണാമ സിദ്ധാന്തത്തെ വിമർശനാത്മകമായി സമീപിക്കുന്ന ലേഖനം, ബാക്ടീരിയകളിലെ പ്രതിരോധശേഷി കൈവരിക്കൽ പ്രക്രിയയെ ശാസ്ത്രീയമായി വിശകലനം ചെയ്യുന്നു.",
+   "author": "അലി ചെമ്മാട്",
+   "issue_date": "2020-06-27",
+   "html_url": "/ml/opinion/resistance-experiments-in-the-path-of-evolution-20200627-6.html",
+   "md_url": "/ml/opinion/resistance-experiments-in-the-path-of-evolution-20200627-6.md"
+  },
+  {
    "slug": "right-to-service-act-20181124-8",
    "lang": "ml",
    "category": "opinion",
@@ -23377,6 +23443,17 @@
    "md_url": "/ml/quran/quran-vision-surah-al-mulk-20200222-12.md"
   },
   {
+   "slug": "quranic-recitation-and-listening-a-scientific-approach-20200627-3",
+   "lang": "ml",
+   "category": "quran",
+   "title": "ഖുർആൻ പാരായണവും കേൾവിയും: ഒരു ശാസ്ത്രീയ സമീപനം",
+   "summary": "ഖുർആൻ കേൾക്കുന്നതിലെ ശാസ്ത്രീയവും ആത്മീയവുമായ വശങ്ങളെക്കുറിച്ച് ഈ ലേഖനം പ്രതിപാദിക്കുന്നു. കേവലം കേൾവി എന്നതിലുപരി മനസ്സിനെ സ്വാധീനിക്കുന്ന 'ഇസ്തിമാഅ്' എന്ന ആശയത്തെ ഇത് വിശദീകരിക്കുന്നു.",
+   "author": "ഷമീർ മരക്കാർ നദ്‌വി",
+   "issue_date": "2020-06-27",
+   "html_url": "/ml/quran/quranic-recitation-and-listening-a-scientific-approach-20200627-3.html",
+   "md_url": "/ml/quran/quranic-recitation-and-listening-a-scientific-approach-20200627-3.md"
+  },
+  {
    "slug": "quranic-translation-a-bird-s-eye-view-20180915-10",
    "lang": "ml",
    "category": "quran",
@@ -24035,6 +24112,17 @@
    "issue_date": "2018-07-21",
    "html_url": "/ml/quran/when-trust-is-lost-20180721-12.html",
    "md_url": "/ml/quran/when-trust-is-lost-20180721-12.md"
+  },
+  {
+   "slug": "wonders-of-the-sea-and-the-light-of-the-quran-20200627-1",
+   "lang": "ml",
+   "category": "quran",
+   "title": "കടലിലെ അത്ഭുതങ്ങളും ഖുർആൻ നൽകുന്ന വെളിച്ചവും",
+   "summary": "സമുദ്രത്തിലെ അത്ഭുതങ്ങളെക്കുറിച്ചും അവയെ ഖുർആൻ എങ്ങനെ നോക്കിക്കാണുന്നു എന്നതിനെക്കുറിച്ചുമുള്ള പഠനപരമ്പരയുടെ ആദ്യ ഭാഗം. കടലിന്റെ ആഴങ്ങൾ, അവിടെയുള്ള ജീവജാലങ്ങൾ, ഖുർആനിക സൂചനകൾ എന്നിവ ഇതിൽ ചർച്ച ചെയ്യുന്നു.",
+   "author": "ഡോ.സബീൽ പട്ടാമ്പി",
+   "issue_date": "2020-06-27",
+   "html_url": "/ml/quran/wonders-of-the-sea-and-the-light-of-the-quran-20200627-1.html",
+   "md_url": "/ml/quran/wonders-of-the-sea-and-the-light-of-the-quran-20200627-1.md"
   },
   {
    "slug": "a-brave-intervention-20180707-10",
@@ -25685,6 +25773,17 @@
    "issue_date": "2019-09-21",
    "html_url": "/ml/story/before-the-creator-20190921-7.html",
    "md_url": "/ml/story/before-the-creator-20190921-7.md"
+  },
+  {
+   "slug": "branches-that-do-not-hesitate-to-bloom-20200627-9",
+   "lang": "ml",
+   "category": "story",
+   "title": "പൂക്കാൻ മടിക്കാത്ത ചില്ലകൾ",
+   "summary": "കോവിഡ് കാലത്തെ പ്രതിസന്ധികൾക്കിടയിലും പാവപ്പെട്ട കുട്ടികളുടെ പഠനസഹായത്തിനായി പ്രവർത്തിക്കുന്നവരുടെ കഥ.",
+   "author": "ഇബ്നു അലി എടത്തനാട്ടുകര",
+   "issue_date": "2020-06-27",
+   "html_url": "/ml/story/branches-that-do-not-hesitate-to-bloom-20200627-9.html",
+   "md_url": "/ml/story/branches-that-do-not-hesitate-to-bloom-20200627-9.md"
   },
   {
    "slug": "broken-hearts-20170218-11",
