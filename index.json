@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-04T09:52:38.481932+00:00",
+ "generated_at": "2026-09-04T09:53:26.914140+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3658,
+ "count": 3659,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -38456,6 +38456,17 @@
    "issue_date": "2017-02-04",
    "html_url": "/uz/aqeedah/they-want-to-see-god-20170204-2.html",
    "md_url": "/uz/aqeedah/they-want-to-see-god-20170204-2.md"
+  },
+  {
+   "slug": "do-not-be-slaves-to-desires-20170211-11",
+   "lang": "uz",
+   "category": "dawah",
+   "title": "Nafsning quliga aylanmang",
+   "summary": "Ushbu maqolada inson o‘z nafsiga ergashishining oqibatlari haqida Qur’oniy ogohlantirishlar muhokama qilinadi. Shuningdek, Allohning hidoyatiga ergashib yashashning ahamiyati eslatib o‘tiladi.",
+   "author": "ശമീര്‍ മദീനി",
+   "issue_date": "2017-02-11",
+   "html_url": "/uz/dawah/do-not-be-slaves-to-desires-20170211-11.html",
+   "md_url": "/uz/dawah/do-not-be-slaves-to-desires-20170211-11.md"
   },
   {
    "slug": "do-not-waver-in-trials-20170121-9",
