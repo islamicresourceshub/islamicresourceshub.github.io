@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-04T11:16:43.697237+00:00",
+ "generated_at": "2026-09-04T11:17:15.165687+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3736,
+ "count": 3737,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -7821,6 +7821,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/gu/opinion/the-shackles-of-consumerist-culture-20170121-13.html",
    "md_url": "/gu/opinion/the-shackles-of-consumerist-culture-20170121-13.md"
+  },
+  {
+   "slug": "trump-and-his-racism-20170211-14",
+   "lang": "gu",
+   "category": "opinion",
+   "title": "വംശവെറിയുടെ വമ്പ് പറയുന്ന ട്രംപ് (વંશીય ભેદભાવની બડાઈ મારતા ટ્રમ્પ)",
+   "summary": "આ લેખ અમેરિકાના રાષ્ટ્રપતિ ડોનાલ્ડ ટ્રમ્પની વંશીય નીતિઓ અને શરણાર્થીઓ પ્રત્યેના તેમના કઠોર વલણનું વિવેચનાત્મક વિશ્લેષણ કરે છે. તે અમેરિકાના ઈતિહાસ અને માનવીય મૂલ્યોના સંદર્ભમાં ટ્રમ્પના નિર્ણયોની અસરો તપાસે છે.",
+   "author": "സുഫ്‌യാന്‍ അബ്ദുസ്സലാം",
+   "issue_date": "2017-02-11",
+   "html_url": "/gu/opinion/trump-and-his-racism-20170211-14.html",
+   "md_url": "/gu/opinion/trump-and-his-racism-20170211-14.md"
   },
   {
    "slug": "uapa-wielding-sedition-law-20170114-9",
