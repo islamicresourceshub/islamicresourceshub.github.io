@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-04T08:49:50.026743+00:00",
+ "generated_at": "2026-09-04T08:51:41.899632+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3569,
+ "count": 3570,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -10659,6 +10659,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/ja/family/our-parents-20170325-4.html",
    "md_url": "/ja/family/our-parents-20170325-4.md"
+  },
+  {
+   "slug": "school-annual-day-experiences-20170211-10",
+   "lang": "ja",
+   "category": "family",
+   "title": "学校の記念日での経験",
+   "summary": "学校の記念日のお祝いに参加した際に得た経験についてのメモです。この記事では、子供たちの才能を奨励する必要性について論じています。",
+   "author": "ഇബ്‌നു അലി എടത്തനാട്ടുകര",
+   "issue_date": "2017-02-11",
+   "html_url": "/ja/family/school-annual-day-experiences-20170211-10.html",
+   "md_url": "/ja/family/school-annual-day-experiences-20170211-10.md"
   },
   {
    "slug": "the-methodology-of-conduct-20170128-8",
