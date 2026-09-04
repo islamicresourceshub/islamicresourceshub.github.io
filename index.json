@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-04T12:00:10.073548+00:00",
+ "generated_at": "2026-09-04T12:00:41.271482+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3781,
+ "count": 3782,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -41602,6 +41602,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/zh/opinion/the-shackles-of-consumerist-culture-20170121-13.html",
    "md_url": "/zh/opinion/the-shackles-of-consumerist-culture-20170121-13.md"
+  },
+  {
+   "slug": "trump-and-his-racism-20170211-14",
+   "lang": "zh",
+   "category": "opinion",
+   "title": "鼓吹种族主义的特朗普",
+   "summary": "本文批判性地分析了美国总统特朗普的种族主义立场及其难民政策。文章回顾了美国的移民历史，并指出特朗普的排外政策与其国家历史背景及人道主义精神背道而驰。",
+   "author": "സുഫ്‌യാന്‍ അബ്ദുസ്സലാം",
+   "issue_date": "2017-02-11",
+   "html_url": "/zh/opinion/trump-and-his-racism-20170211-14.html",
+   "md_url": "/zh/opinion/trump-and-his-racism-20170211-14.md"
   },
   {
    "slug": "uapa-wielding-sedition-law-20170114-9",
