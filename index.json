@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-04T12:12:30.808756+00:00",
+ "generated_at": "2026-09-04T12:13:10.423400+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3794,
+ "count": 3795,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -8976,6 +8976,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/hi/dawah/live-knowing-the-value-of-time-20170114-8.html",
    "md_url": "/hi/dawah/live-knowing-the-value-of-time-20170114-8.md"
+  },
+  {
+   "slug": "maintain-faith-20170211-15",
+   "lang": "hi",
+   "category": "dawah",
+   "title": "ईमान को बनाए रखना",
+   "summary": "यह लेख मनुष्य की बुद्धि और विज्ञान को विश्वास से जोड़ता है। यह ईमान को सुरक्षित रखने और उसे दैनिक जीवन में उतारने की आवश्यकता पर प्रकाश डालता है।",
+   "author": "അഡ്വ.കെ.എ. അബ്ദുസ്സമദ് കലൂര്‍",
+   "issue_date": "2017-02-11",
+   "html_url": "/hi/dawah/maintain-faith-20170211-15.html",
+   "md_url": "/hi/dawah/maintain-faith-20170211-15.md"
   },
   {
    "slug": "muslims-in-a-pluralistic-society-20170128-1",
