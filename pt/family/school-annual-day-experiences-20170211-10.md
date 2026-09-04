@@ -1,0 +1,43 @@
+---
+title: Experiências no Aniversário da Escola
+author: ഇബ്‌നു അലി എടത്തനാട്ടുകര
+lang: pt
+category: family
+kind: article
+tags:
+- school
+- children
+- education
+summary: Um relato sobre as experiências vividas ao participar das celebrações de aniversário de uma escola para crianças com necessidades especiais. O texto discute a importância de incentivar os talentos dessas crianças e reflete sobre a gratidão pelas bênçãos da vida.
+source:
+  magazine: Nerpatham Weekly
+  issue_date: '2017-02-11'
+  pdf_url: http://nerpatham.com/vol-no-01/images/archives/Nerpatham-2017Feb11.pdf
+date_processed: '2026-08-27T16:07:37Z'
+slug: school-annual-day-experiences-20170211-10
+translation_of: school-annual-day-experiences-20170211-10
+---
+
+![](/assets/school-annual-day-experiences-20170211-10/11Feb17-09.jpg)
+
+## Experiências no aniversário da escola
+
+Tenho sido convidado para o aniversário desta escola há alguns anos. Eles costumam dar prêmios a todas as crianças que participam das competições. Um amigo meu patrocina esses prêmios, mas ele nunca compareceu à celebração! O motivo é que, por ser uma escola para crianças com desafios mentais, ele sente que não conseguiria suportar a cena emocionalmente.
+
+Certa vez, em um desses dias de celebração, presenciei uma cena que ainda não saiu da minha mente.
+
+## Cenas no palco
+
+Algumas crianças estavam se apresentando no palco, realizando uma forma de arte semelhante à dança tradicional «Oppana». No meio da performance, com suas roupas coloridas e maquiagem, o «mundu» — a vestimenta tradicional que envolve a cintura — de um dos meninos começou a se soltar. Isso causou grande aflição aos espectadores. No entanto, consciente ou inconscientemente, ele continuou a dançar. Mesmo com os avisos da professora nos bastidores, parecia que ele não compreendia o que estava acontecendo. Por fim, a professora subiu ao palco, acompanhou seus movimentos e ajustou a roupa dele. Ele continuou a dançar como se nada tivesse ocorrido. Como não era uma criança com desenvolvimento cognitivo típico, o fato de sua roupa ter se soltado não o entristeceu nem um pouco!
+
+## Eventos inesperados
+
+Em um aniversário anterior, tive a oportunidade de discursar. Enquanto o presidente do conselho municipal fazia seu discurso de abertura, um dos alunos na plateia começou a rolar no chão, gritando sem parar. A criança estava toda maquiada e vestida com trajes coloridos para a apresentação no palco. Embora amigos e pais tenham tentado intervir, a criança não queria se levantar nem parar de chorar. As professoras ficaram sem saber o que fazer, temendo que o evento fosse interrompido.
+
+Finalmente, o orador interrompeu seu discurso. A diretora desceu do palco e foi até o menino. Como se por um toque milagroso ou palavras mágicas, a criança parou de chorar! Ele então se sentou em sua cadeira, esperando sua vez como se nada tivesse acontecido.
+
+## Seja grato
+
+Quando chegou a minha vez de falar, as coisas que eu pretendia dizer acabaram fugindo da minha mente. Consegui expressar que o Criador nos testa ao nos confiar filhos com desafios mentais, e que o amor e o cuidado dedicados pelas mães e professoras dessas crianças são exemplares.
+
+Ao terminar minhas palavras, meus olhos estavam marejados. A maioria de nós foi presenteada pelo Criador com filhos sem deficiências ou limitações. Somos tão abençoados. Será que demonstramos gratidão por isso?
