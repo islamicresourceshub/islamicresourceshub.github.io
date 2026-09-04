@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-04T11:09:35.871722+00:00",
+ "generated_at": "2026-09-04T11:10:11.102052+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3713,
+ "count": 3714,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -39237,6 +39237,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/uz/family/husband-trapped-in-the-mobile-web-20170121-5.html",
    "md_url": "/uz/family/husband-trapped-in-the-mobile-web-20170121-5.md"
+  },
+  {
+   "slug": "if-the-beginning-is-good-20170211-12",
+   "lang": "uz",
+   "category": "family",
+   "title": "Boshlanish yaxshi bo'lsa...",
+   "summary": "Bu islomiy tarbiya turkumidagi maqola bo'lib, farzand tarbiyasida ota-onalar e'tibor berishi lozim bo'lgan jihatlar va Yaratganning ko'rsatmalari haqida so'z boradi.",
+   "author": "അഷ്‌റഫ് എകരൂല്‍",
+   "issue_date": "2017-02-11",
+   "html_url": "/uz/family/if-the-beginning-is-good-20170211-12.html",
+   "md_url": "/uz/family/if-the-beginning-is-good-20170211-12.md"
   },
   {
    "slug": "islamic-parenting-significance-and-goals-part-1-20170114-4",
