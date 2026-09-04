@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-04T08:58:45.607015+00:00",
+ "generated_at": "2026-09-04T09:00:23.513838+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3573,
+ "count": 3574,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -26444,6 +26444,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/ms/family/our-parents-20170325-4.html",
    "md_url": "/ms/family/our-parents-20170325-4.md"
+  },
+  {
+   "slug": "school-annual-day-experiences-20170211-10",
+   "lang": "ms",
+   "category": "family",
+   "title": "Pengalaman Hari Tahunan Sekolah",
+   "summary": "Catatan mengenai pengalaman yang diperoleh semasa menghadiri majlis hari tahunan sekolah. Penulisan ini membincangkan kepentingan memberi galakan kepada bakat kanak-kanak.",
+   "author": "ഇബ്‌നു അലി എടത്തനാട്ടുകര",
+   "issue_date": "2017-02-11",
+   "html_url": "/ms/family/school-annual-day-experiences-20170211-10.html",
+   "md_url": "/ms/family/school-annual-day-experiences-20170211-10.md"
   },
   {
    "slug": "the-methodology-of-conduct-20170128-8",
