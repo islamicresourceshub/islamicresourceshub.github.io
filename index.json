@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-04T11:26:55.281483+00:00",
+ "generated_at": "2026-09-04T11:27:31.062220+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3747,
+ "count": 3748,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -30723,6 +30723,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/ps/opinion/the-shackles-of-consumerist-culture-20170121-13.html",
    "md_url": "/ps/opinion/the-shackles-of-consumerist-culture-20170121-13.md"
+  },
+  {
+   "slug": "trump-and-his-racism-20170211-14",
+   "lang": "ps",
+   "category": "opinion",
+   "title": "د توکمپالنې د نعرې وهونکی ټرمپ",
+   "summary": "دا لیکنه د امریکا د پخواني ولسمشر ډونالډ ټرمپ د توکمپالنې پر تګلارو او د کډوالو په اړه د هغه پر سخت دریځو نیوکه کوي. لیکوال د امریکا تاریخ ته په کتنې سره د ټرمپ دا کړنې د دغه هېواد د بنسټیزو ارزښتونو خلاف بولي.",
+   "author": "സുഫ്‌യാന്‍ അബ്ദുസ്സലാം",
+   "issue_date": "2017-02-11",
+   "html_url": "/ps/opinion/trump-and-his-racism-20170211-14.html",
+   "md_url": "/ps/opinion/trump-and-his-racism-20170211-14.md"
   },
   {
    "slug": "uapa-wielding-sedition-law-20170114-9",
