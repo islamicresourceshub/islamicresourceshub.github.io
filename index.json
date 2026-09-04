@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-04T09:06:31.156960+00:00",
+ "generated_at": "2026-09-04T09:06:58.259035+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3592,
+ "count": 3593,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -33319,6 +33319,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/sw/family/our-parents-20170325-4.html",
    "md_url": "/sw/family/our-parents-20170325-4.md"
+  },
+  {
+   "slug": "school-annual-day-experiences-20170211-10",
+   "lang": "sw",
+   "category": "family",
+   "title": "Uzoefu wa Siku ya Sherehe ya Shule",
+   "summary": "Ujumbe huu unahusu uzoefu niliopata wakati wa kuhudhuria sherehe za mwaka za shule. Unajadili umuhimu wa kuhamasisha vipaji vya watoto, hasa wale wenye mahitaji maalum.",
+   "author": "ഇബ്‌നു അലി എടത്തനാട്ടുകര",
+   "issue_date": "2017-02-11",
+   "html_url": "/sw/family/school-annual-day-experiences-20170211-10.html",
+   "md_url": "/sw/family/school-annual-day-experiences-20170211-10.md"
   },
   {
    "slug": "the-methodology-of-conduct-20170128-8",
