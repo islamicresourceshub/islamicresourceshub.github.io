@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-04T09:12:59.023253+00:00",
+ "generated_at": "2026-09-04T09:13:20.652318+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3605,
+ "count": 3616,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -12663,6 +12663,17 @@
    "md_url": "/ml/aqeedah/belief-in-angels-and-scriptures-20200307-4.md"
   },
   {
+   "slug": "belief-in-destiny-20200509-8",
+   "lang": "ml",
+   "category": "aqeedah",
+   "title": "വിധിയിലുള്ള വിശ്വാസം",
+   "summary": "വിധിവിശ്വാസത്തെക്കുറിച്ചുള്ള ഇസ്‌ലാമിക കാഴ്ചപ്പാടുകളും സൂഫി ചിന്തകളിലെ തെറ്റായ പ്രവണതകളെക്കുറിച്ചുള്ള വിമർശനങ്ങളും ഉൾക്കൊള്ളുന്ന വിവർത്തന ലേഖനം.",
+   "author": "ശൈഖ് സഅദ് ബിൻ നാസർ അശ്ശത്രീ",
+   "issue_date": "2020-05-09",
+   "html_url": "/ml/aqeedah/belief-in-destiny-20200509-8.html",
+   "md_url": "/ml/aqeedah/belief-in-destiny-20200509-8.md"
+  },
+  {
    "slug": "belief-in-prophets-20200314-6",
    "lang": "ml",
    "category": "aqeedah",
@@ -12859,6 +12870,17 @@
    "issue_date": "2018-10-13",
    "html_url": "/ml/aqeedah/fear-hypocrisy-20181013-6.html",
    "md_url": "/ml/aqeedah/fear-hypocrisy-20181013-6.md"
+  },
+  {
+   "slug": "fear-only-me-20200509-5",
+   "lang": "ml",
+   "category": "aqeedah",
+   "title": "'നിങ്ങൾ എന്നെ മാത്രം ഭയപ്പെടുക'",
+   "summary": "വിശ്വാസികൾ നേരിടുന്ന ഭയത്തെയും പരീക്ഷണങ്ങളെയും അല്ലാഹുവിലുള്ള വിശ്വാസം കൊണ്ട് എങ്ങനെ അതിജീവിക്കാം എന്ന് വിവരിക്കുന്നു.",
+   "author": "മുഹമ്മദലി വാരം",
+   "issue_date": "2020-05-09",
+   "html_url": "/ml/aqeedah/fear-only-me-20200509-5.html",
+   "md_url": "/ml/aqeedah/fear-only-me-20200509-5.md"
   },
   {
    "slug": "four-rules-20180602-7",
@@ -14214,6 +14236,17 @@
    "md_url": "/ml/dawah/financial-transparency-of-an-organizer-20191123-9.md"
   },
   {
+   "slug": "find-those-who-deserve-help-20200509-3",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "സഹായം അർഹിക്കുന്നവരെ കണ്ടെത്തുക",
+   "summary": "സമൂഹത്തിലെ അർഹരായ പാവപ്പെട്ടവരെ കണ്ടെത്തി സഹായിക്കേണ്ടതിന്റെ പ്രാധാന്യത്തെക്കുറിച്ചും ഇസ്‌ലാമിക കാഴ്ചപ്പാടിലുള്ള ദാനധർമ്മങ്ങളെക്കുറിച്ചുമുള്ള മുഖലേഖനം.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2020-05-09",
+   "html_url": "/ml/dawah/find-those-who-deserve-help-20200509-3.html",
+   "md_url": "/ml/dawah/find-those-who-deserve-help-20200509-3.md"
+  },
+  {
    "slug": "finding-joy-in-prayer-20180915-4",
    "lang": "ml",
    "category": "dawah",
@@ -14894,6 +14927,17 @@
    "issue_date": "2019-10-12",
    "html_url": "/ml/dawah/patience-is-key-to-success-20191012-1.html",
    "md_url": "/ml/dawah/patience-is-key-to-success-20191012-1.md"
+  },
+  {
+   "slug": "peace-of-mind-20200509-9",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "സമാധാനചിത്തത",
+   "summary": "ആരാധനകളിലും ജീവിതത്തിലും സമാധാനവും ശാന്തതയും പാലിക്കേണ്ടതിന്റെ പ്രാധാന്യം ഖുർആൻ വചനങ്ങളുടെയും നബിചര്യയുടെയും അടിസ്ഥാനത്തിൽ വിവരിക്കുന്നു.",
+   "author": "അബ്ദുൽ ജബ്ബാർ മദീനി",
+   "issue_date": "2020-05-09",
+   "html_url": "/ml/dawah/peace-of-mind-20200509-9.html",
+   "md_url": "/ml/dawah/peace-of-mind-20200509-9.md"
   },
   {
    "slug": "pray-to-the-lord-of-the-universe-20180922-8",
@@ -15686,6 +15730,17 @@
    "issue_date": "2020-01-04",
    "html_url": "/ml/dawah/the-smiling-merchant-20200104-5.html",
    "md_url": "/ml/dawah/the-smiling-merchant-20200104-5.md"
+  },
+  {
+   "slug": "the-social-scope-of-fasting-20200509-6",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "വ്രതവൃത്തത്തിന്റെ സാമൂഹ്യ വ്യാപ്തി",
+   "summary": "നോമ്പ് കേവലം ആഹാരം വർജ്ജിക്കലല്ല, മറിച്ച് സഹജീവികളോടുള്ള കരുണയും സാമൂഹിക പ്രതിബദ്ധതയും വളർത്തുന്ന ഒരു ആരാധനയാണെന്ന് ഈ ലേഖനം ഓർമ്മിപ്പിക്കുന്നു.",
+   "author": "പി.എൻ. അബ്ദുല്ലത്തീഫ് മദനി",
+   "issue_date": "2020-05-09",
+   "html_url": "/ml/dawah/the-social-scope-of-fasting-20200509-6.html",
+   "md_url": "/ml/dawah/the-social-scope-of-fasting-20200509-6.md"
   },
   {
    "slug": "the-spirit-of-ramadan-20190511-7",
@@ -16920,6 +16975,17 @@
    "md_url": "/ml/family/the-elderly-are-not-to-be-neglected-20190803-6.md"
   },
   {
+   "slug": "the-glories-of-a-believing-woman-20200509-4",
+   "lang": "ml",
+   "category": "family",
+   "title": "സത്യവിശ്വാസിനിയുടെ മഹത്വങ്ങൾ",
+   "summary": "ഇസ്‌ലാമിൽ സ്ത്രീക്ക് ലഭിക്കുന്ന ഉന്നതമായ സ്ഥാനത്തെക്കുറിച്ചും പെൺകുട്ടികളെ വളർത്തുന്നതിലെ പുണ്യത്തെക്കുറിച്ചും പ്രതിപാദിക്കുന്ന ലേഖനം.",
+   "author": "ശമീർ മദീനി",
+   "issue_date": "2020-05-09",
+   "html_url": "/ml/family/the-glories-of-a-believing-woman-20200509-4.html",
+   "md_url": "/ml/family/the-glories-of-a-believing-woman-20200509-4.md"
+  },
+  {
    "slug": "the-methodology-of-conduct-20170128-8",
    "lang": "ml",
    "category": "family",
@@ -17281,6 +17347,28 @@
    "issue_date": "2018-05-19",
    "html_url": "/ml/fiqh/fasting-and-smoking-20180519-4.html",
    "md_url": "/ml/fiqh/fasting-and-smoking-20180519-4.md"
+  },
+  {
+   "slug": "fasting-and-zakat-q-a-20200509-10",
+   "lang": "ml",
+   "category": "fiqh",
+   "title": "നോമ്പ്, സകാത്ത് (സംശയനിവാരണം)",
+   "summary": "നോമ്പ്, ഫിദ്‌യ, സ്വർണ്ണത്തിന്റെ സകാത്ത്, കടമുള്ളവരുടെ സകാത്ത് തുടങ്ങിയ വിഷയങ്ങളിലുള്ള സംശയങ്ങൾക്ക് നൽകുന്ന മറുപടികൾ.",
+   "author": "പി.എൻ അബ്ദുറഹ്മാൻ",
+   "issue_date": "2020-05-09",
+   "html_url": "/ml/fiqh/fasting-and-zakat-q-a-20200509-10.html",
+   "md_url": "/ml/fiqh/fasting-and-zakat-q-a-20200509-10.md"
+  },
+  {
+   "slug": "fasting-some-lessons-20200509-2",
+   "lang": "ml",
+   "category": "fiqh",
+   "title": "വ്രതാനുഷ്ഠാനം; ചില പാഠങ്ങൾ",
+   "summary": "നോമ്പിന്റെ നിർബന്ധത, അത് ഒഴിവാക്കാൻ അനുവാദമുള്ളവർ, നോമ്പ് മുറിയുന്ന കാര്യങ്ങൾ എന്നിവയെക്കുറിച്ചുള്ള കർമ്മശാസ്ത്രപരമായ വിശദീകരണം.",
+   "author": "ഫൈസൽ പുതുപറമ്പ്",
+   "issue_date": "2020-05-09",
+   "html_url": "/ml/fiqh/fasting-some-lessons-20200509-2.html",
+   "md_url": "/ml/fiqh/fasting-some-lessons-20200509-2.md"
   },
   {
    "slug": "fitr-zakat-20180616-3",
@@ -19065,6 +19153,17 @@
    "md_url": "/ml/opinion/a-glance-into-laws-20180428-6.md"
   },
   {
+   "slug": "a-less-joyful-ramadan-20200509-11",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "ഇമ്പം കുറഞ്ഞ നോമ്പുകാലം",
+   "summary": "കോവിഡ് കാലത്തെ ലോക്ക്ഡൗൺ മൂലം നഷ്ടപ്പെട്ട റമദാൻ മാസത്തിന്റെ പഴയകാല ഓർമ്മകളും സാമൂഹികാന്തരീക്ഷവും വിവരിക്കുന്നു.",
+   "author": "ഇബ്നു അലി എടത്തനാട്ടുകര",
+   "issue_date": "2020-05-09",
+   "html_url": "/ml/opinion/a-less-joyful-ramadan-20200509-11.html",
+   "md_url": "/ml/opinion/a-less-joyful-ramadan-20200509-11.md"
+  },
+  {
    "slug": "a-muslim-s-patriotism-20180609-1",
    "lang": "ml",
    "category": "opinion",
@@ -19470,6 +19569,17 @@
    "issue_date": "2020-02-22",
    "html_url": "/ml/opinion/difference-between-hinduism-and-hindutva-20200222-7.html",
    "md_url": "/ml/opinion/difference-between-hinduism-and-hindutva-20200222-7.md"
+  },
+  {
+   "slug": "dignity-stealing-free-food-kits-20200509-7",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "അഭിമാനം കവരുന്ന സൗജന്യ ഭക്ഷ്യക്കിറ്റുകൾ",
+   "summary": "സഹായം നൽകുമ്പോൾ സ്വീകർത്താവിന്റെ അഭിമാനത്തിന് ക്ഷതമേൽക്കാതെ നോക്കേണ്ടതിന്റെ ആവശ്യകതയെക്കുറിച്ച് ചർച്ച ചെയ്യുന്നു.",
+   "author": "അബൂഫഹദ് ആലിക്കൽ",
+   "issue_date": "2020-05-09",
+   "html_url": "/ml/opinion/dignity-stealing-free-food-kits-20200509-7.html",
+   "md_url": "/ml/opinion/dignity-stealing-free-food-kits-20200509-7.md"
   },
   {
    "slug": "do-not-pollute-the-education-sector-20190427-10",
@@ -21725,6 +21835,17 @@
    "issue_date": "2019-08-24",
    "html_url": "/ml/quran/end-times-in-the-quran-and-science-20190824-1.html",
    "md_url": "/ml/quran/end-times-in-the-quran-and-science-20190824-1.md"
+  },
+  {
+   "slug": "ever-relevant-this-verse-of-justice-20200509-1",
+   "lang": "ml",
+   "category": "quran",
+   "title": "നിത്യപ്രസക്തം, ഈ നീതിസൂക്തം",
+   "summary": "ഹാർവാർഡ് ലോ കോളേജ് ലൈബ്രറിയിൽ ലോകത്തെ സ്വാധീനിച്ച നീതിവാക്യമായി തെരഞ്ഞെടുക്കപ്പെട്ട വിശുദ്ധ ഖുർആനിലെ 4:135 സൂക്തത്തെക്കുറിച്ചുള്ള പഠനം. നീതി നിർവഹണത്തിൽ ഇസ്‌ലാം മുന്നോട്ടുവെക്കുന്ന കണിശമായ നിലപാടുകൾ ഈ ലേഖനം വിശദീകരിക്കുന്നു.",
+   "author": "ഡോ.സബീൽ പട്ടാമ്പി",
+   "issue_date": "2020-05-09",
+   "html_url": "/ml/quran/ever-relevant-this-verse-of-justice-20200509-1.html",
+   "md_url": "/ml/quran/ever-relevant-this-verse-of-justice-20200509-1.md"
   },
   {
    "slug": "fajr-the-dawn-part-1-20180922-2",
