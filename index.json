@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-04T12:17:41.185676+00:00",
+ "generated_at": "2026-09-04T12:18:42.847084+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3800,
+ "count": 3801,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -27225,6 +27225,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/mr/dawah/live-knowing-the-value-of-time-20170114-8.html",
    "md_url": "/mr/dawah/live-knowing-the-value-of-time-20170114-8.md"
+  },
+  {
+   "slug": "maintain-faith-20170211-15",
+   "lang": "mr",
+   "category": "dawah",
+   "title": "श्रद्धा टिकवून ठेवणे",
+   "summary": "हा लेख मानवी बुद्धिमत्ता, विज्ञान आणि श्रद्धा यांचा परस्परसंबंध स्पष्ट करतो. जीवनात श्रद्धा टिकवून ठेवण्याचे महत्त्व आणि ती आचरणात आणण्याची आवश्यकता यावर यात प्रकाश टाकला आहे.",
+   "author": "അഡ്വ.കെ.എ. അബ്ദുസ്സമദ് കലൂര്‍",
+   "issue_date": "2017-02-11",
+   "html_url": "/mr/dawah/maintain-faith-20170211-15.html",
+   "md_url": "/mr/dawah/maintain-faith-20170211-15.md"
   },
   {
    "slug": "muslims-in-a-pluralistic-society-20170128-1",
