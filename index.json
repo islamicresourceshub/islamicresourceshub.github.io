@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-04T11:58:50.287858+00:00",
+ "generated_at": "2026-09-04T11:59:48.287403+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3770,
+ "count": 3771,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -40777,6 +40777,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/vi/opinion/the-shackles-of-consumerist-culture-20170121-13.html",
    "md_url": "/vi/opinion/the-shackles-of-consumerist-culture-20170121-13.md"
+  },
+  {
+   "slug": "trump-and-his-racism-20170211-14",
+   "lang": "vi",
+   "category": "opinion",
+   "title": "Trump và sự ngạo mạn của chủ nghĩa phân biệt chủng tộc",
+   "summary": "Bài viết phân tích một cách phản biện về các quan điểm phân biệt chủng tộc và chính sách tị nạn của Tổng thống Mỹ Donald Trump. Tác giả đặt câu hỏi về tính hợp lý trong các quyết định của ông Trump và nhìn lại lịch sử hình thành nước Mỹ để thấy rõ sự mâu thuẫn trong tư tưởng bài ngoại hiện nay.",
+   "author": "സുഫ്‌യാന്‍ അബ്ദുസ്സലാം",
+   "issue_date": "2017-02-11",
+   "html_url": "/vi/opinion/trump-and-his-racism-20170211-14.html",
+   "md_url": "/vi/opinion/trump-and-his-racism-20170211-14.md"
   },
   {
    "slug": "uapa-wielding-sedition-law-20170114-9",
