@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-04T09:15:26.428459+00:00",
+ "generated_at": "2026-09-04T09:16:08.815604+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3621,
+ "count": 3622,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -5764,6 +5764,17 @@
    "issue_date": "2017-02-04",
    "html_url": "/fa/aqeedah/they-want-to-see-god-20170204-2.html",
    "md_url": "/fa/aqeedah/they-want-to-see-god-20170204-2.md"
+  },
+  {
+   "slug": "do-not-be-slaves-to-desires-20170211-11",
+   "lang": "fa",
+   "category": "dawah",
+   "title": "بنده هوای نفس نباشید",
+   "summary": "این مقاله به هشدارهای قرآنی در مورد پیروی از هوای نفس می‌پردازد و اهمیت زندگی بر اساس هدایت الهی را یادآوری می‌کند.",
+   "author": "ശമീര്‍ മദീനി",
+   "issue_date": "2017-02-11",
+   "html_url": "/fa/dawah/do-not-be-slaves-to-desires-20170211-11.html",
+   "md_url": "/fa/dawah/do-not-be-slaves-to-desires-20170211-11.md"
   },
   {
    "slug": "do-not-waver-in-trials-20170121-9",
