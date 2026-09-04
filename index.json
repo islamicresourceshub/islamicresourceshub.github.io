@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-04T09:18:38.607818+00:00",
+ "generated_at": "2026-09-04T09:27:33.988844+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3626,
+ "count": 3627,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -9218,6 +9218,17 @@
    "issue_date": "2017-02-04",
    "html_url": "/id/aqeedah/they-want-to-see-god-20170204-2.html",
    "md_url": "/id/aqeedah/they-want-to-see-god-20170204-2.md"
+  },
+  {
+   "slug": "do-not-be-slaves-to-desires-20170211-11",
+   "lang": "id",
+   "category": "dawah",
+   "title": "Jangan Menjadi Budak Hawa Nafsu",
+   "summary": "Artikel ini membahas peringatan Al-Qur'an terhadap mereka yang mengikuti hawa nafsu. Tulisan ini mengingatkan pentingnya hidup dengan mengikuti petunjuk Allah.",
+   "author": "ശമീര്‍ മദീനി",
+   "issue_date": "2017-02-11",
+   "html_url": "/id/dawah/do-not-be-slaves-to-desires-20170211-11.html",
+   "md_url": "/id/dawah/do-not-be-slaves-to-desires-20170211-11.md"
   },
   {
    "slug": "do-not-waver-in-trials-20170121-9",
