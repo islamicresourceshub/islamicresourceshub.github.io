@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-04T11:10:42.698715+00:00",
+ "generated_at": "2026-09-04T11:11:16.347462+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3715,
+ "count": 3716,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -40645,6 +40645,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/zh/family/husband-trapped-in-the-mobile-web-20170121-5.html",
    "md_url": "/zh/family/husband-trapped-in-the-mobile-web-20170121-5.md"
+  },
+  {
+   "slug": "if-the-beginning-is-good-20170211-12",
+   "lang": "zh",
+   "category": "family",
+   "title": "好的开始是成功的一半...",
+   "summary": "这是伊斯兰育儿系列文章的第五篇。本文探讨了父母在养育子女时应注意的事项，以及造物主所提供的指导原则，强调了从源头开始规划的重要性。",
+   "author": "അഷ്‌റഫ് എകരൂല്‍",
+   "issue_date": "2017-02-11",
+   "html_url": "/zh/family/if-the-beginning-is-good-20170211-12.html",
+   "md_url": "/zh/family/if-the-beginning-is-good-20170211-12.md"
   },
   {
    "slug": "islamic-parenting-significance-and-goals-part-1-20170114-4",
