@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-04T12:03:06.621608+00:00",
+ "generated_at": "2026-09-04T12:03:56.034329+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3785,
+ "count": 3786,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -2464,6 +2464,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/bn/dawah/live-knowing-the-value-of-time-20170114-8.html",
    "md_url": "/bn/dawah/live-knowing-the-value-of-time-20170114-8.md"
+  },
+  {
+   "slug": "maintain-faith-20170211-15",
+   "lang": "bn",
+   "category": "dawah",
+   "title": "বিশ্বাস অটুট রাখা",
+   "summary": "মানুষের বুদ্ধিবৃত্তি ও বিজ্ঞানের সাথে বিশ্বাসের সম্পর্ক নিয়ে এই নিবন্ধটি রচিত। এটি জীবনে বিশ্বাস ধরে রাখার প্রয়োজনীয়তা এবং তা বাস্তবায়নের উপায়গুলো স্পষ্টভাবে তুলে ধরে।",
+   "author": "അഡ്വ.കെ.എ. അബ്ദുസ്സമദ് കലൂര്‍",
+   "issue_date": "2017-02-11",
+   "html_url": "/bn/dawah/maintain-faith-20170211-15.html",
+   "md_url": "/bn/dawah/maintain-faith-20170211-15.md"
   },
   {
    "slug": "muslims-in-a-pluralistic-society-20170128-1",
