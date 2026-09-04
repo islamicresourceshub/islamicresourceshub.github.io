@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-04T09:54:00.111374+00:00",
+ "generated_at": "2026-09-04T09:54:37.195258+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3660,
+ "count": 3661,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -39842,6 +39842,17 @@
    "issue_date": "2017-02-04",
    "html_url": "/zh/aqeedah/they-want-to-see-god-20170204-2.html",
    "md_url": "/zh/aqeedah/they-want-to-see-god-20170204-2.md"
+  },
+  {
+   "slug": "do-not-be-slaves-to-desires-20170211-11",
+   "lang": "zh",
+   "category": "dawah",
+   "title": "切勿沦为私欲的奴隶",
+   "summary": "本文探讨了古兰经中关于警惕追随私欲的教导，并提醒人们遵循安拉指引生活的重要性。",
+   "author": "ശമീര്‍ മദീനി",
+   "issue_date": "2017-02-11",
+   "html_url": "/zh/dawah/do-not-be-slaves-to-desires-20170211-11.html",
+   "md_url": "/zh/dawah/do-not-be-slaves-to-desires-20170211-11.md"
   },
   {
    "slug": "do-not-waver-in-trials-20170121-9",
