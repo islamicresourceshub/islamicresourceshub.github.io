@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-04T09:35:13.799682+00:00",
+ "generated_at": "2026-09-04T09:35:46.372749+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3636,
+ "count": 3637,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -29403,6 +29403,17 @@
    "issue_date": "2017-02-04",
    "html_url": "/ps/aqeedah/they-want-to-see-god-20170204-2.html",
    "md_url": "/ps/aqeedah/they-want-to-see-god-20170204-2.md"
+  },
+  {
+   "slug": "do-not-be-slaves-to-desires-20170211-11",
+   "lang": "ps",
+   "category": "dawah",
+   "title": "د خپلو خواهشاتو غلامان مه کېږئ",
+   "summary": "دا لیکنه د خپلو نفساني غوښتنو د پیروي په وړاندې د قرآني خبرداریو په اړه بحث کوي. دا موږ ته د الله تعالی د لارښوونو د منلو او د هغې مطابق د ژوند کولو د اهمیت یادونه کوي.",
+   "author": "ശമീര്‍ മദീനി",
+   "issue_date": "2017-02-11",
+   "html_url": "/ps/dawah/do-not-be-slaves-to-desires-20170211-11.html",
+   "md_url": "/ps/dawah/do-not-be-slaves-to-desires-20170211-11.md"
   },
   {
    "slug": "do-not-waver-in-trials-20170121-9",
