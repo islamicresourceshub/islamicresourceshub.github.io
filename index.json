@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-04T09:39:36.200062+00:00",
+ "generated_at": "2026-09-04T09:40:01.927844+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3653,
+ "count": 3654,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -35002,6 +35002,17 @@
    "issue_date": "2017-02-04",
    "html_url": "/te/aqeedah/they-want-to-see-god-20170204-2.html",
    "md_url": "/te/aqeedah/they-want-to-see-god-20170204-2.md"
+  },
+  {
+   "slug": "do-not-be-slaves-to-desires-20170211-11",
+   "lang": "te",
+   "category": "dawah",
+   "title": "స్వార్థ కోరికలకు బానిసలు కావద్దు",
+   "summary": "స్వార్థ కోరికలను అనుసరించడం పట్ల ఖురాన్ హెచ్చరికలను ఈ వ్యాసం చర్చిస్తుంది. అల్లాహ్ మార్గదర్శకత్వాన్ని స్వీకరించి జీవించాల్సిన ప్రాముఖ్యతను ఇది గుర్తు చేస్తుంది.",
+   "author": "ശമീര്‍ മദീനി",
+   "issue_date": "2017-02-11",
+   "html_url": "/te/dawah/do-not-be-slaves-to-desires-20170211-11.html",
+   "md_url": "/te/dawah/do-not-be-slaves-to-desires-20170211-11.md"
   },
   {
    "slug": "do-not-waver-in-trials-20170121-9",
