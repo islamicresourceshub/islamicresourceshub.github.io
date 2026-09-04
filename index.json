@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-04T14:57:45.920664+00:00",
+ "generated_at": "2026-09-04T14:58:20.836862+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3824,
+ "count": 3839,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -18262,6 +18262,17 @@
    "md_url": "/ml/family/women-in-ramadan-20190511-9.md"
   },
   {
+   "slug": "administering-justice-20200704-13",
+   "lang": "ml",
+   "category": "fiqh",
+   "title": "നീതിപാലനം",
+   "summary": "ഇസ്ലാമിക കാഴ്ചപ്പാടിൽ നീതിപാലനത്തിൻ്റെ പ്രാധാന്യത്തെക്കുറിച്ച് ഈ ലേഖനം വിശദീകരിക്കുന്നു. ഖുർആനിലെയും ഹദീസുകളിലെയും വചനങ്ങൾ ഉദ്ധരിച്ച് നീതിയുടെ വിവിധ തലങ്ങളെക്കുറിച്ച് സംസാരിക്കുന്നു. വ്യക്തിജീവിതത്തിലും സാമൂഹിക ജീവിതത്തിലും നീതി പുലർത്തേണ്ടതിൻ്റെ ആവശ്യകത ഊന്നിപ്പറയുന്നു.",
+   "author": "അബ്ദുൾ ജബ്ബാർ മദീനി",
+   "issue_date": "2020-07-04",
+   "html_url": "/ml/fiqh/administering-justice-20200704-13.html",
+   "md_url": "/ml/fiqh/administering-justice-20200704-13.md"
+  },
+  {
    "slug": "alcohol-islam-s-ever-relevant-approach-20170225-6",
    "lang": "ml",
    "category": "fiqh",
@@ -19670,6 +19681,39 @@
    "md_url": "/ml/history/makti-thangal-s-bitter-experiences-20190119-10.md"
   },
   {
+   "slug": "malabar-freedom-struggle-and-british-occupation-20200704-7",
+   "lang": "ml",
+   "category": "history",
+   "title": "മലബാറിലെ സ്വാതന്ത്ര്യസമരവും ബ്രിട്ടീഷ് അധിനിവേശവും",
+   "summary": "ഈ ലേഖനം മലബാറിലെ സ്വാതന്ത്ര്യസമര ചരിത്രത്തെയും വിവിധ വിദേശ ശക്തികളുടെ അധിനിവേശത്തെയും കുറിച്ച് വിശദീകരിക്കുന്നു. പോർച്ചുഗീസുകാർ, ഡച്ചുകാർ, ഫ്രഞ്ചുകാർ എന്നിവരുടെ വരവും മാപ്പിളമാരുടെ വ്യാപാര മേൽക്കോയ്മ തകർത്തതും വിശദീകരിക്കുന്നു. ജന്മിമാരുടെ ചൂഷണങ്ങളെക്കുറിച്ചും ഹൈദരലിയുടെ ഇടപെടലിനെക്കുറിച്ചും പരാമർശിക്കുന്നു.",
+   "author": "Unknown",
+   "issue_date": "2020-07-04",
+   "html_url": "/ml/history/malabar-freedom-struggle-and-british-occupation-20200704-7.html",
+   "md_url": "/ml/history/malabar-freedom-struggle-and-british-occupation-20200704-7.md"
+  },
+  {
+   "slug": "malabar-struggle-history-and-national-movements-20200704-8",
+   "lang": "ml",
+   "category": "history",
+   "title": "മലബാർ സമരചരിത്രവും ദേശീയ പ്രസ്ഥാനങ്ങളും",
+   "summary": "ഒന്നാം ലോകമഹായുദ്ധത്തിനു ശേഷമുള്ള കാലഘട്ടത്തിൽ ഖിലാഫത്ത് പ്രസ്ഥാനവും നിസ്സഹകരണ പ്രസ്ഥാനവും മലബാറിലെ സമരങ്ങളുമായി എങ്ങനെ ബന്ധപ്പെട്ടു കിടക്കുന്നു എന്ന് ഈ ലേഖനം വിശദീകരിക്കുന്നു. ഗാന്ധിജിയുടെയും മൗലാനാ ഷൗക്കത്തലിയുടെയും പങ്കും, മലബാർ ജനതയുടെ ഐക്യദാർഢ്യവും എടുത്തു കാണിക്കുന്നു.",
+   "author": "Unknown",
+   "issue_date": "2020-07-04",
+   "html_url": "/ml/history/malabar-struggle-history-and-national-movements-20200704-8.html",
+   "md_url": "/ml/history/malabar-struggle-history-and-national-movements-20200704-8.md"
+  },
+  {
+   "slug": "malabar-struggle-history-and-reality-20200704-9",
+   "lang": "ml",
+   "category": "history",
+   "title": "മലബാർ സമരം: ചരിത്രവും യാഥാർത്ഥ്യവും",
+   "summary": "മലബാർ സമരത്തെക്കുറിച്ചുള്ള ചരിത്രപരമായ വസ്തുതകളും യാഥാർത്ഥ്യങ്ങളും ഈ ലേഖനം അവതരിപ്പിക്കുന്നു. സമരത്തിനിടയിലുണ്ടായ അതിക്രമങ്ങളെക്കുറിച്ചും, ബ്രിട്ടീഷുകാരുടെയും സ്വദേശികളുടെയും ക്രൂരമായ നടപടികളെക്കുറിച്ചും വിശദീകരിക്കുന്നു. ചരിത്രത്തെ വളച്ചൊടിക്കാനുള്ള ശ്രമങ്ങളെ വിമർശിക്കുന്നു.",
+   "author": "Unknown",
+   "issue_date": "2020-07-04",
+   "html_url": "/ml/history/malabar-struggle-history-and-reality-20200704-9.html",
+   "md_url": "/ml/history/malabar-struggle-history-and-reality-20200704-9.md"
+  },
+  {
    "slug": "manusmriti-and-the-caste-system-20170218-7",
    "lang": "ml",
    "category": "history",
@@ -19945,6 +19989,28 @@
    "md_url": "/ml/history/the-holy-quran-and-the-first-generation-20191207-12.md"
   },
   {
+   "slug": "the-hunted-variyanukunnu-and-the-malabar-freedom-struggle-20200704-1",
+   "lang": "ml",
+   "category": "history",
+   "title": "വേട്ടയാടപ്പെടുന്ന വാരിയൻകുന്നത്തും മലബാറിലെ സ്വാതന്ത്ര്യസമരവും",
+   "summary": "ഈ ലേഖനം 1921ലെ മലബാർ സ്വാതന്ത്ര്യസമരത്തെയും വാരിയൻകുന്നത്തിൻ്റെ പങ്കിനെയും കുറിച്ച് ചർച്ച ചെയ്യുന്നു. ഫാസിസ്റ്റുകൾ ചരിത്രത്തെ വർഗീയവൽക്കരിക്കാൻ ശ്രമിക്കുന്നതിനെ ലേഖകൻ വിമർശിക്കുന്നു. വാരിയൻകുന്നത്തിനെ ഒരു വീരനായകനായും ബ്രിട്ടീഷ് വിരുദ്ധ പോരാട്ടത്തിലെ പ്രധാനിയായും അവതരിപ്പിക്കുന്നു.",
+   "author": "സുഫ്‌യാൻ അബ്ദുസ്സലാം",
+   "issue_date": "2020-07-04",
+   "html_url": "/ml/history/the-hunted-variyanukunnu-and-the-malabar-freedom-struggle-20200704-1.html",
+   "md_url": "/ml/history/the-hunted-variyanukunnu-and-the-malabar-freedom-struggle-20200704-1.md"
+  },
+  {
+   "slug": "the-hunted-variyanukunnu-and-the-malabar-freedom-struggle-20200704-6",
+   "lang": "ml",
+   "category": "history",
+   "title": "വേട്ടയാടപ്പെടുന്ന വാരിയൻകുന്നത്തും മലബാറിലെ സ്വാതന്ത്ര്യസമരവും",
+   "summary": "മലബാർ സ്വാതന്ത്ര്യസമരത്തിലെ പ്രധാനിയായ വാരിയൻകുന്നത്തിനെക്കുറിച്ചും അദ്ദേഹത്തിൻ്റെ പോരാട്ടങ്ങളെക്കുറിച്ചും ഈ ലേഖനം വിശദീകരിക്കുന്നു. അദ്ദേഹത്തെ വിവാദപുരുഷനാക്കാൻ ശ്രമിക്കുന്ന ശക്തികളെ വിമർശിക്കുകയും, സിനിമ നിർമ്മാണവുമായി ബന്ധപ്പെട്ട് ഉയർന്നുവന്ന വിവാദങ്ങളെക്കുറിച്ച് പ്രതിപാദിക്കുകയും ചെയ്യുന്നു. വാരിയൻകുന്നത്തിൻ്റെ ധീരതയെയും നേതൃത്വഗുണങ്ങളെയും പ്രശംസിക്കുന്നു.",
+   "author": "സുഫ്‌യാൻ അബ്ദുസ്സലാം",
+   "issue_date": "2020-07-04",
+   "html_url": "/ml/history/the-hunted-variyanukunnu-and-the-malabar-freedom-struggle-20200704-6.html",
+   "md_url": "/ml/history/the-hunted-variyanukunnu-and-the-malabar-freedom-struggle-20200704-6.md"
+  },
+  {
    "slug": "the-influence-of-al-bushra-magazine-on-arabic-language-devel-20190601-2",
    "lang": "ml",
    "category": "history",
@@ -20174,6 +20240,17 @@
    "issue_date": "2018-09-01",
    "html_url": "/ml/history/vakkom-moulavi-and-kerala-muslim-renaissance-20180901-11.html",
    "md_url": "/ml/history/vakkom-moulavi-and-kerala-muslim-renaissance-20180901-11.md"
+  },
+  {
+   "slug": "variyanukunnu-and-justice-20200704-10",
+   "lang": "ml",
+   "category": "history",
+   "title": "വാരിയൻകുന്നത്തും നീതിപാലനവും",
+   "summary": "വാരിയൻകുന്നത്തിനെക്കുറിച്ചുള്ള വിവിധ ചരിത്രപരമായ വിവരണങ്ങളും അദ്ദേഹത്തിൻ്റെ നീതിബോധത്തെക്കുറിച്ചും ഈ ലേഖനം ചർച്ച ചെയ്യുന്നു. കെ. മാധവൻ നായർ, യോഗിക്കുറ്റത്ത് എന്നിവരുടെ വിവരണങ്ങൾ ഉദ്ധരിക്കുന്നു. ഹിന്ദുക്കളോടുള്ള അദ്ദേഹത്തിൻ്റെ നിലപാടിനെക്കുറിച്ചുള്ള തെറ്റായ പ്രചാരണങ്ങളെ ഖണ്ഡിക്കുന്നു.",
+   "author": "Unknown",
+   "issue_date": "2020-07-04",
+   "html_url": "/ml/history/variyanukunnu-and-justice-20200704-10.html",
+   "md_url": "/ml/history/variyanukunnu-and-justice-20200704-10.md"
   },
   {
    "slug": "warning-signals-from-the-reconstruction-of-history-20170114-2",
@@ -20792,6 +20869,17 @@
    "md_url": "/ml/opinion/everyone-should-have-a-beard-20170121-3.md"
   },
   {
+   "slug": "evolutionary-interpretation-factories-whitewashed-20200704-12",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "പരിണാമത്തെ വെള്ളപ്പുരണ്ട വ്യാഖ്യാന ഫാക്ടറികൾ",
+   "summary": "പരിണാമ സിദ്ധാന്തത്തെക്കുറിച്ചുള്ള വ്യാഖ്യാനങ്ങളെയും ശാസ്ത്രീയ പരീക്ഷണങ്ങളെയും കുറിച്ച് ഈ ലേഖനം ചർച്ച ചെയ്യുന്നു. ബാക്ടീരിയകളിലെ പ്രതിരോധശേഷി പരിണാമമാണെന്ന് പറയുന്നതിലെ പ്രശ്നങ്ങളും, ലെൽസ്കി പരീക്ഷണത്തെക്കുറിച്ചും വിശദീകരിക്കുന്നു. പരിണാമ സിദ്ധാന്തത്തിലെ വൈരുദ്ധ്യങ്ങളെയും ചോദ്യം ചെയ്യുന്നു.",
+   "author": "അലി ചെമ്മാട്",
+   "issue_date": "2020-07-04",
+   "html_url": "/ml/opinion/evolutionary-interpretation-factories-whitewashed-20200704-12.html",
+   "md_url": "/ml/opinion/evolutionary-interpretation-factories-whitewashed-20200704-12.md"
+  },
+  {
    "slug": "expatriates-in-crisis-20200502-7",
    "lang": "ml",
    "category": "opinion",
@@ -21034,6 +21122,17 @@
    "md_url": "/ml/opinion/hartals-and-protests-violation-of-fundamental-rights-20181201-3.md"
   },
   {
+   "slug": "has-kerala-abandoned-its-expatriates-20200704-2",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "കേരളം പ്രവാസികളെ കൈവെടിഞ്ഞോ?",
+   "summary": "കോവിഡ് പ്രതിസന്ധിയിൽ പ്രവാസികൾ നേരിടുന്ന ദുരിതങ്ങളെക്കുറിച്ചും കേരള സർക്കാർ അവരെ അവഗണിക്കുന്നതിനെക്കുറിച്ചും ഈ ലേഖനം സംസാരിക്കുന്നു. വിദേശത്ത് മരണപ്പെടുന്നവരുടെ എണ്ണം വർധിക്കുന്നതും നാട്ടിലെത്തി ചികിത്സ തേടാനുള്ള അവരുടെ അവകാശങ്ങൾക്ക് നിയമങ്ങൾ തടസ്സമാകുന്നതും ചൂണ്ടിക്കാണിക്കുന്നു. പ്രവാസികൾക്ക് പിന്തുണ നൽകേണ്ടതിൻ്റെ ആവശ്യകത ഊന്നിപ്പറയുന്നു.",
+   "author": "നബീൽ പയ്യാളി",
+   "issue_date": "2020-07-04",
+   "html_url": "/ml/opinion/has-kerala-abandoned-its-expatriates-20200704-2.html",
+   "md_url": "/ml/opinion/has-kerala-abandoned-its-expatriates-20200704-2.md"
+  },
+  {
    "slug": "hate-propaganda-in-cyberspace-and-high-court-intervention-20200523-6",
    "lang": "ml",
    "category": "opinion",
@@ -21175,6 +21274,17 @@
    "issue_date": "2018-04-28",
    "html_url": "/ml/opinion/is-a-safe-society-becoming-a-dream-20180428-8.html",
    "md_url": "/ml/opinion/is-a-safe-society-becoming-a-dream-20180428-8.md"
+  },
+  {
+   "slug": "is-kerala-moving-expatriates-around-20200704-14",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "കേരളം പ്രവാസികളെ തെക്കുവടക്കന്തോറോ?",
+   "summary": "കോവിഡ് പ്രതിസന്ധിയിൽ കേരളത്തിലേക്ക് മടങ്ങിവരുന്ന പ്രവാസികൾ നേരിടുന്ന യാത്രാ നിയന്ത്രണങ്ങളെയും സർക്കാർ നടപടികളെയും ഈ ലേഖനം വിമർശിക്കുന്നു. കോവിഡ് നെഗറ്റീവ് സർട്ടിഫിക്കറ്റ്, പി.പി.ഇ കിറ്റുകൾ തുടങ്ങിയ നിബന്ധനകളെ ചോദ്യം ചെയ്യുന്നു. പ്രവാസികളോടുള്ള സർക്കാരിൻ്റെ ഇരട്ടത്താപ്പിനെതിരെ ശക്തമായി പ്രതികരിക്കുന്നു.",
+   "author": "Unknown",
+   "issue_date": "2020-07-04",
+   "html_url": "/ml/opinion/is-kerala-moving-expatriates-around-20200704-14.html",
+   "md_url": "/ml/opinion/is-kerala-moving-expatriates-around-20200704-14.md"
   },
   {
    "slug": "is-speaking-against-the-government-treason-20180915-8",
@@ -21384,6 +21494,17 @@
    "issue_date": "2019-01-19",
    "html_url": "/ml/opinion/let-weapons-of-mass-destruction-stand-aside-20190119-5.html",
    "md_url": "/ml/opinion/let-weapons-of-mass-destruction-stand-aside-20190119-5.md"
+  },
+  {
+   "slug": "life-and-trials-20200704-3",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "ജീവിതവും പരീക്ഷണങ്ങളും",
+   "summary": "കോവിഡ് മഹാമാരി ജീവിതത്തെയാകെ ബാധിച്ച സാഹചര്യത്തിൽ, വരുമാനം നഷ്ടപ്പെട്ട് പ്രയാസപ്പെടുന്ന സാധാരണക്കാരെയും പ്രവാസികളെയും കുറിച്ച് മുഖപ്രസംഗം പറയുന്നു. നാട്ടിലെത്തി ചികിത്സ തേടാൻ പോലും നിയമപരമായ തടസ്സങ്ങൾ നേരിടുന്ന പ്രവാസികളുടെ അവസ്ഥയും അവരുടെ ഭാവിയെക്കുറിച്ചുള്ള ആശങ്കകളും ലേഖനം പങ്കുവെക്കുന്നു. ഭരണകൂടവും പൊതുസമൂഹവും പ്രവാസികൾക്ക് പിന്തുണ നൽകേണ്ടതിൻ്റെ പ്രാധാന്യം എടുത്തു കാണിക്കുന്നു.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2020-07-04",
+   "html_url": "/ml/opinion/life-and-trials-20200704-3.html",
+   "md_url": "/ml/opinion/life-and-trials-20200704-3.md"
   },
   {
    "slug": "love-as-a-tool-of-persecution-20200222-2",
@@ -23168,6 +23289,17 @@
    "md_url": "/ml/quran/fajr-the-dawn-part-2-20180929-1.md"
   },
   {
+   "slug": "freshwater-and-saltwater-and-the-barrier-between-them-20200704-4",
+   "lang": "ml",
+   "category": "quran",
+   "title": "ശുദ്ധജലവും ഉപ്പുവെള്ളവും അവയ്ക്കിടയിലെ മറയും",
+   "summary": "ഖുർആനിലെ സൂക്തങ്ങളെ അടിസ്ഥാനമാക്കി കടലിലെ ശുദ്ധജലവും ഉപ്പുവെള്ളവും കൂടിക്കലരാതെ വേർതിരിഞ്ഞു നിൽക്കുന്ന പ്രതിഭാസത്തെക്കുറിച്ച് വിശദീകരിക്കുന്നു. മഴവെള്ളം, പുഴവെള്ളം, മഞ്ഞുരുകിയ വെള്ളം എന്നിവ ശുദ്ധജല സ്രോതസ്സുകളായി പറയുന്നതോടൊപ്പം, ജലത്തിൻ്റെ സാന്ദ്രത, ലവണത്വം, താപനില എന്നിവയിലെ വ്യത്യാസങ്ങളാണ് അവയെ വേർതിരിച്ചു നിർത്തുന്നതെന്നും വിശദീകരിക്കുന്നു. ഭൂമിക്കടിയിലെ ശുദ്ധജല സ്രോതസ്സുകളെക്കുറിച്ചും പരാമർശിക്കുന്നു.",
+   "author": "ഡോ. സബീൽ പട്ടാമ്പി",
+   "issue_date": "2020-07-04",
+   "html_url": "/ml/quran/freshwater-and-saltwater-and-the-barrier-between-them-20200704-4.html",
+   "md_url": "/ml/quran/freshwater-and-saltwater-and-the-barrier-between-them-20200704-4.md"
+  },
+  {
    "slug": "holy-quran-divine-and-contemporary-20191207-10",
    "lang": "ml",
    "category": "quran",
@@ -23507,6 +23639,17 @@
    "issue_date": "2020-01-18",
    "html_url": "/ml/quran/quranic-vision-the-pen-20200118-9.html",
    "md_url": "/ml/quran/quranic-vision-the-pen-20200118-9.md"
+  },
+  {
+   "slug": "rain-blessing-and-bane-20200704-11",
+   "lang": "ml",
+   "category": "quran",
+   "title": "മഴ: അനുഗ്രഹവും ദുർഗുണവും",
+   "summary": "സൂറ അൽ-വാഖിഅയിലെ സൂക്തങ്ങളെ അടിസ്ഥാനമാക്കി മഴയെക്കുറിച്ചുള്ള ഖുർആനിക കാഴ്ചപ്പാട് ഈ ലേഖനം വിശദീകരിക്കുന്നു. മഴ ഒരു അനുഗ്രഹമാണെന്നും അതിൻ്റെ പ്രാധാന്യം തിരിച്ചറിഞ്ഞ് നന്ദി കാണിക്കേണ്ടതിൻ്റെ ആവശ്യകതയും ഊന്നിപ്പറയുന്നു. പ്രകൃതിയിലെ അല്ലാഹുവിൻ്റെ സൃഷ്ടിപ്പിലെ യുക്തിയെക്കുറിച്ച് സംസാരിക്കുന്നു.",
+   "author": "അബൂഅമീൻ",
+   "issue_date": "2020-07-04",
+   "html_url": "/ml/quran/rain-blessing-and-bane-20200704-11.html",
+   "md_url": "/ml/quran/rain-blessing-and-bane-20200704-11.md"
   },
   {
    "slug": "samiri-s-deception-20180825-10",
@@ -24112,6 +24255,17 @@
    "issue_date": "2018-07-21",
    "html_url": "/ml/quran/when-trust-is-lost-20180721-12.html",
    "md_url": "/ml/quran/when-trust-is-lost-20180721-12.md"
+  },
+  {
+   "slug": "wonders-of-the-sea-and-quranic-references-2-20200704-5",
+   "lang": "ml",
+   "category": "quran",
+   "title": "കടലിലെ അത്ഭുതങ്ങളും ഖുർആനിലെ പരാമർശങ്ങളും 2",
+   "summary": "കടലിലെ ശുദ്ധജലവും ഉപ്പുവെള്ളവും കൂടിക്കലരാതെ വേർതിരിഞ്ഞു നിൽക്കുന്ന പ്രതിഭാസത്തെ ഖുർആൻ പരാമർശങ്ങളെ അടിസ്ഥാനമാക്കി വിശദീകരിക്കുന്ന ലേഖനത്തിൻ്റെ തുടർച്ചയാണിത്. ജലസംഗമ മേഖലകളിലെ ജൈവവൈവിധ്യത്തെക്കുറിച്ചും, അക്വാകൾച്ചർ, പവിഴപ്പുറ്റുകൾ, മുത്തുകൾ എന്നിവയെക്കുറിച്ചും ഖുർആനിലെ പരാമർശങ്ങളെ ഉദ്ധരിച്ച് വിശദീകരിക്കുന്നു.",
+   "author": "ഡോ. സബീൽ പട്ടാമ്പി",
+   "issue_date": "2020-07-04",
+   "html_url": "/ml/quran/wonders-of-the-sea-and-quranic-references-2-20200704-5.html",
+   "md_url": "/ml/quran/wonders-of-the-sea-and-quranic-references-2-20200704-5.md"
   },
   {
    "slug": "wonders-of-the-sea-and-the-light-of-the-quran-20200627-1",
@@ -25575,6 +25729,17 @@
    "issue_date": "2018-04-28",
    "html_url": "/ml/story/a-good-death-20180428-5.html",
    "md_url": "/ml/story/a-good-death-20180428-5.md"
+  },
+  {
+   "slug": "a-gulf-malayali-s-house-during-the-covid-period-20200704-15",
+   "lang": "ml",
+   "category": "story",
+   "title": "കോവിഡുകാലത്തെ ഗൾഫുകാരന്റെ വീട്",
+   "summary": "കോവിഡ് കാലത്ത് ഗൾഫിൽ ജോലി നഷ്ടപ്പെട്ട് നാട്ടിലേക്ക് വരാൻ കഴിയാതെ വിഷമിക്കുന്ന ഒരു കുടുംബത്തിൻ്റെ കഥയാണിത്. എട്ടുവയസ്സുകാരിയായ കുഞ്ഞുമോളുടെ ആകാംഷയും അമ്മയുടെ വേദനയും ഹൃദയസ്പർശിയായി അവതരിപ്പിക്കുന്നു. പ്രവാസികളുടെ ദുരിതങ്ങളും പ്രതീക്ഷകളും ഈ കഥയിൽ നിറഞ്ഞുനിൽക്കുന്നു.",
+   "author": "ഉസ്മാൻ പാലക്കാഴി",
+   "issue_date": "2020-07-04",
+   "html_url": "/ml/story/a-gulf-malayali-s-house-during-the-covid-period-20200704-15.html",
+   "md_url": "/ml/story/a-gulf-malayali-s-house-during-the-covid-period-20200704-15.md"
   },
   {
    "slug": "a-life-like-a-candle-20190126-4",
