@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-04T09:28:15.339225+00:00",
+ "generated_at": "2026-09-04T09:31:28.595037+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3628,
+ "count": 3629,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -10604,6 +10604,17 @@
    "issue_date": "2017-02-04",
    "html_url": "/ja/aqeedah/they-want-to-see-god-20170204-2.html",
    "md_url": "/ja/aqeedah/they-want-to-see-god-20170204-2.md"
+  },
+  {
+   "slug": "do-not-be-slaves-to-desires-20170211-11",
+   "lang": "ja",
+   "category": "dawah",
+   "title": "私欲の奴隷になってはならない",
+   "summary": "本稿では、私欲に従うことへのクルアーンからの警告について論じます。アッラーの導きを受け入れ、それに従って生きることの重要性を再確認します。",
+   "author": "ശമീര്‍ മദീനി",
+   "issue_date": "2017-02-11",
+   "html_url": "/ja/dawah/do-not-be-slaves-to-desires-20170211-11.html",
+   "md_url": "/ja/dawah/do-not-be-slaves-to-desires-20170211-11.md"
   },
   {
    "slug": "do-not-waver-in-trials-20170121-9",
