@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-04T05:46:06.488222+00:00",
+ "generated_at": "2026-09-04T05:51:11.749624+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3563,
+ "count": 3564,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -6578,6 +6578,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/fr/family/our-parents-20170325-4.html",
    "md_url": "/fr/family/our-parents-20170325-4.md"
+  },
+  {
+   "slug": "school-annual-day-experiences-20170211-10",
+   "lang": "fr",
+   "category": "family",
+   "title": "Souvenirs de la fête annuelle de l'école",
+   "summary": "Une réflexion sur les émotions et les leçons tirées de la participation aux fêtes annuelles scolaires. Ce texte souligne l'importance de soutenir et d'encourager les talents de chaque enfant, en particulier ceux qui ont des besoins spécifiques.",
+   "author": "ഇബ്‌നു അലി എടത്തനാട്ടുകര",
+   "issue_date": "2017-02-11",
+   "html_url": "/fr/family/school-annual-day-experiences-20170211-10.html",
+   "md_url": "/fr/family/school-annual-day-experiences-20170211-10.md"
   },
   {
    "slug": "the-methodology-of-conduct-20170128-8",
