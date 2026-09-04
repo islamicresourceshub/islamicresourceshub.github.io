@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-04T11:12:57.684509+00:00",
+ "generated_at": "2026-09-04T11:13:25.871336+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3719,
+ "count": 3720,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -2838,6 +2838,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/bn/opinion/the-shackles-of-consumerist-culture-20170121-13.html",
    "md_url": "/bn/opinion/the-shackles-of-consumerist-culture-20170121-13.md"
+  },
+  {
+   "slug": "trump-and-his-racism-20170211-14",
+   "lang": "bn",
+   "category": "opinion",
+   "title": "বর্ণবাদের দম্ভে ট্রাম্প",
+   "summary": "আমেরিকার প্রেসিডেন্ট ডোনাল্ড ট্রাম্পের বর্ণবাদী দৃষ্টিভঙ্গি এবং শরণার্থী নীতির সমালোচনামূলক বিশ্লেষণ নিয়ে এই নিবন্ধটি লেখা হয়েছে। এতে আমেরিকার ইতিহাস এবং বর্তমান রাজনৈতিক পরিস্থিতির প্রেক্ষাপটে ট্রাম্পের বিতর্কিত পদক্ষেপগুলোর অসারতা তুলে ধরা হয়েছে।",
+   "author": "സുഫ്‌യാന്‍ അബ്ദുസ്സലാം",
+   "issue_date": "2017-02-11",
+   "html_url": "/bn/opinion/trump-and-his-racism-20170211-14.html",
+   "md_url": "/bn/opinion/trump-and-his-racism-20170211-14.md"
   },
   {
    "slug": "uapa-wielding-sedition-law-20170114-9",
