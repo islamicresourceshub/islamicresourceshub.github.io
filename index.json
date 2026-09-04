@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-04T09:39:03.605366+00:00",
+ "generated_at": "2026-09-04T09:39:36.200062+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3652,
+ "count": 3653,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -34309,6 +34309,17 @@
    "issue_date": "2017-02-04",
    "html_url": "/ta/aqeedah/they-want-to-see-god-20170204-2.html",
    "md_url": "/ta/aqeedah/they-want-to-see-god-20170204-2.md"
+  },
+  {
+   "slug": "do-not-be-slaves-to-desires-20170211-11",
+   "lang": "ta",
+   "category": "dawah",
+   "title": "சுயவிருப்பங்களுக்கு அடிமையாகாதீர்கள்",
+   "summary": "சுயவிருப்பங்களைப் பின்பற்றுவதற்கு எதிரான குர்ஆனிய எச்சரிக்கைகளை இந்தக் கட்டுரை விவாதிக்கிறது. அல்லாஹ்வின் வழிகாட்டலை ஏற்றுக்கொண்டு வாழ்வதன் முக்கியத்துவத்தை இது நினைவூட்டுகிறது.",
+   "author": "ശമീര്‍ മദീനി",
+   "issue_date": "2017-02-11",
+   "html_url": "/ta/dawah/do-not-be-slaves-to-desires-20170211-11.html",
+   "md_url": "/ta/dawah/do-not-be-slaves-to-desires-20170211-11.md"
   },
   {
    "slug": "do-not-waver-in-trials-20170121-9",
