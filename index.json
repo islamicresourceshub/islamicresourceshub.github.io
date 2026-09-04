@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-04T10:08:42.369557+00:00",
+ "generated_at": "2026-09-04T10:09:19.711464+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3692,
+ "count": 3693,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -29370,6 +29370,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/pa/family/husband-trapped-in-the-mobile-web-20170121-5.html",
    "md_url": "/pa/family/husband-trapped-in-the-mobile-web-20170121-5.md"
+  },
+  {
+   "slug": "if-the-beginning-is-good-20170211-12",
+   "lang": "pa",
+   "category": "family",
+   "title": "ਜੇ ਸ਼ੁਰੂਆਤ ਚੰਗੀ ਹੋਵੇ...",
+   "summary": "ਇਹ ਇਸਲਾਮੀ ਪਾਲਣ-ਪੋਸ਼ਣ ਲੜੀ ਦਾ ਇੱਕ ਹਿੱਸਾ ਹੈ। ਇਸ ਵਿੱਚ ਬੱਚਿਆਂ ਦੇ ਪਾਲਣ-ਪੋਸ਼ਣ ਦੌਰਾਨ ਮਾਪਿਆਂ ਨੂੰ ਧਿਆਨ ਵਿੱਚ ਰੱਖਣ ਵਾਲੀਆਂ ਗੱਲਾਂ ਅਤੇ ਸ੍ਰਿਸ਼ਟੀਕਰਤਾ ਦੇ ਦਿਸ਼ਾ-ਨਿਰਦੇਸ਼ਾਂ ਬਾਰੇ ਚਰਚਾ ਕੀਤੀ ਗਈ ਹੈ।",
+   "author": "അഷ്‌റഫ് എകരൂല്‍",
+   "issue_date": "2017-02-11",
+   "html_url": "/pa/family/if-the-beginning-is-good-20170211-12.html",
+   "md_url": "/pa/family/if-the-beginning-is-good-20170211-12.md"
   },
   {
    "slug": "islamic-parenting-significance-and-goals-part-1-20170114-4",
