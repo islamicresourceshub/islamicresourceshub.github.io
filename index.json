@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-04T11:14:22.717969+00:00",
+ "generated_at": "2026-09-04T11:14:56.467337+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3722,
+ "count": 3723,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -4972,6 +4972,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/en/opinion/the-shackles-of-consumerist-culture-20170121-13.html",
    "md_url": "/en/opinion/the-shackles-of-consumerist-culture-20170121-13.md"
+  },
+  {
+   "slug": "trump-and-his-racism-20170211-14",
+   "lang": "en",
+   "category": "opinion",
+   "title": "Trump and the Boast of Racism",
+   "summary": "This article provides a critical analysis of American President Donald Trump's racist stances and his controversial refugee policies. It explores the historical context of American immigration and challenges the exclusionary rhetoric currently emanating from the White House.",
+   "author": "സുഫ്‌യാന്‍ അബ്ദുസ്സലാം",
+   "issue_date": "2017-02-11",
+   "html_url": "/en/opinion/trump-and-his-racism-20170211-14.html",
+   "md_url": "/en/opinion/trump-and-his-racism-20170211-14.md"
   },
   {
    "slug": "uapa-wielding-sedition-law-20170114-9",
