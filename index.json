@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-04T11:15:54.149580+00:00",
+ "generated_at": "2026-09-04T11:16:13.909816+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3725,
+ "count": 3735,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -13807,6 +13807,17 @@
    "md_url": "/ml/aqeedah/tawheed-and-its-categories-20181124-9.md"
   },
   {
+   "slug": "the-all-knowing-and-those-who-know-little-20200606-8",
+   "lang": "ml",
+   "category": "aqeedah",
+   "title": "എല്ലാം അറിയുന്നവനും അല്പം മാത്രം അറിയുന്നവരും",
+   "summary": "അല്ലാഹുവിന്റെ പരിപൂർണ്ണമായ അറിവിനെയും മനുഷ്യന്റെ പരിമിതമായ അറിവിനെയും താരതമ്യം ചെയ്തുകൊണ്ട്, അല്ലാഹുവിന്റെ അറിവിന്റെ വിശാലതയെ ഈ ലേഖനം വ്യക്തമാക്കുന്നു.",
+   "author": "മുനവ്വറ ഫൈറൂസ്",
+   "issue_date": "2020-06-06",
+   "html_url": "/ml/aqeedah/the-all-knowing-and-those-who-know-little-20200606-8.html",
+   "md_url": "/ml/aqeedah/the-all-knowing-and-those-who-know-little-20200606-8.md"
+  },
+  {
    "slug": "the-dead-end-of-neo-atheist-thoughts-20180707-1",
    "lang": "ml",
    "category": "aqeedah",
@@ -13992,6 +14003,17 @@
    "issue_date": "2019-01-12",
    "html_url": "/ml/aqeedah/to-whom-did-they-pray-20190112-2.html",
    "md_url": "/ml/aqeedah/to-whom-did-they-pray-20190112-2.md"
+  },
+  {
+   "slug": "towards-the-creator-through-genetic-studies-20200606-5",
+   "lang": "ml",
+   "category": "aqeedah",
+   "title": "ജനിതക പഠനത്തിലൂടെ ജഗന്നാഥനിലേക്ക്",
+   "summary": "ജനിതക ശാസ്ത്രത്തിന്റെ കണ്ടെത്തലുകളെ ഇസ്‌ലാമിക വിശ്വാസത്തിലെ 'ഖദ്‌ർ' (ദൈവിക വിധി) എന്ന ആശയവുമായി ബന്ധപ്പെടുത്തി ഈ ലേഖനം വിശദീകരിക്കുന്നു.",
+   "author": "സി.വി കോഴിക്കോട്",
+   "issue_date": "2020-06-06",
+   "html_url": "/ml/aqeedah/towards-the-creator-through-genetic-studies-20200606-5.html",
+   "md_url": "/ml/aqeedah/towards-the-creator-through-genetic-studies-20200606-5.md"
   },
   {
    "slug": "unity-what-islam-has-to-say-20200530-5",
@@ -14289,6 +14311,17 @@
    "issue_date": "2020-03-14",
    "html_url": "/ml/dawah/charity-and-generosity-20200314-8.html",
    "md_url": "/ml/dawah/charity-and-generosity-20200314-8.md"
+  },
+  {
+   "slug": "compromise-and-courage-20200606-6",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "വിട്ടുവീഴ്ചയും ധീരതയും",
+   "summary": "ഇസ്‌ലാം പഠിപ്പിക്കുന്ന വിട്ടുവീഴ്ചയുടെയും ധീരതയുടെയും പ്രാധാന്യത്തെക്കുറിച്ചും, പ്രവാചക മാതൃകകളെക്കുറിച്ചും ഈ ലേഖനം പ്രതിപാദിക്കുന്നു.",
+   "author": "അബ്ദുൽ ജബ്ബാർ മദീനി",
+   "issue_date": "2020-06-06",
+   "html_url": "/ml/dawah/compromise-and-courage-20200606-6.html",
+   "md_url": "/ml/dawah/compromise-and-courage-20200606-6.md"
   },
   {
    "slug": "conditioning-the-mind-20180602-10",
@@ -15180,6 +15213,17 @@
    "issue_date": "2019-08-17",
    "html_url": "/ml/dawah/let-us-share-and-let-us-divide-20190817-5.html",
    "md_url": "/ml/dawah/let-us-share-and-let-us-divide-20190817-5.md"
+  },
+  {
+   "slug": "let-us-sustain-this-goodness-20200606-3",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "ഈ നന്മ നിലനിർത്താം",
+   "summary": "റമദാനിൽ ശീലമാക്കിയ രാത്രി നമസ്കാരങ്ങളും മറ്റ് ആരാധനകളും റമദാനിന് ശേഷവും ജീവിതത്തിൽ നിലനിർത്തേണ്ടതിന്റെ പ്രാധാന്യത്തെക്കുറിച്ച് ഈ ലേഖനം ഓർമ്മിപ്പിക്കുന്നു.",
+   "author": "അബൂമുസ്‌ലിം അൽഹികമി",
+   "issue_date": "2020-06-06",
+   "html_url": "/ml/dawah/let-us-sustain-this-goodness-20200606-3.html",
+   "md_url": "/ml/dawah/let-us-sustain-this-goodness-20200606-3.md"
   },
   {
    "slug": "limitless-desires-and-limited-life-20181103-2",
@@ -18284,6 +18328,17 @@
    "md_url": "/ml/fiqh/the-limit-of-profit-in-trade-20181110-4.md"
   },
   {
+   "slug": "the-prostration-of-gratitude-20200606-7",
+   "lang": "ml",
+   "category": "fiqh",
+   "title": "ശുക്റിന്റെ സുജൂദ്",
+   "summary": "അല്ലാഹുവിനോടുള്ള നന്ദി സൂചകമായി ചെയ്യുന്ന 'ശുക്റിന്റെ സുജൂദ്' എന്ന പ്രവാചകചര്യയെക്കുറിച്ചും അതിന്റെ സന്ദർഭങ്ങളെക്കുറിച്ചും ഈ ലേഖനം വിവരിക്കുന്നു.",
+   "author": "നൂറുദ്ദീൻ സലാഹി",
+   "issue_date": "2020-06-06",
+   "html_url": "/ml/fiqh/the-prostration-of-gratitude-20200606-7.html",
+   "md_url": "/ml/fiqh/the-prostration-of-gratitude-20200606-7.md"
+  },
+  {
    "slug": "the-social-significance-of-zakat-20200523-3",
    "lang": "ml",
    "category": "fiqh",
@@ -20902,6 +20957,17 @@
    "md_url": "/ml/opinion/major-environmental-laws-implemented-in-india-20180714-5.md"
   },
   {
+   "slug": "marx-s-opium-and-theoretical-explanations-of-religion-20200606-4",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "മാർക്സിന്റെ കറുപ്പും മതംമാറുന്ന സൈദ്ധാന്തിക വിശദീകരണങ്ങളും",
+   "summary": "മതം മനുഷ്യനെ മയക്കുന്ന കറുപ്പാണെന്ന മാർക്സിയൻ പ്രയോഗത്തെക്കുറിച്ചുള്ള പുതിയ വ്യാഖ്യാനങ്ങളെയും, മതത്തെക്കുറിച്ചുള്ള മാർക്സിസ്റ്റ് സമീപനങ്ങളെയും ഈ ലേഖനം വിമർശനാത്മകമായി വിശകലനം ചെയ്യുന്നു.",
+   "author": "അഫ്താബ് കണ്ണഞ്ചേരി",
+   "issue_date": "2020-06-06",
+   "html_url": "/ml/opinion/marx-s-opium-and-theoretical-explanations-of-religion-20200606-4.html",
+   "md_url": "/ml/opinion/marx-s-opium-and-theoretical-explanations-of-religion-20200606-4.md"
+  },
+  {
    "slug": "materialists-and-the-re-reading-of-the-quran-20190209-2",
    "lang": "ml",
    "category": "opinion",
@@ -21518,6 +21584,17 @@
    "md_url": "/ml/opinion/terrorism-are-religions-or-power-politics-the-culprits-20191207-8.md"
   },
   {
+   "slug": "the-anchal-murder-and-some-realizations-20200606-1",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "അഞ്ചൽ കൊലപാതകവും ചില തിരിച്ചറിവുകളും",
+   "summary": "അഞ്ചലിൽ നടന്ന ഉത്രയുടെ കൊലപാതകത്തെ മുൻനിർത്തി, സ്ത്രീധന സമ്പ്രദായവും വിവാഹത്തെക്കുറിച്ചുള്ള തെറ്റായ കാഴ്ചപ്പാടുകളും കുടുംബജീവിതത്തിലെ പ്രതിസന്ധികളും ഈ ലേഖനം ചർച്ച ചെയ്യുന്നു.",
+   "author": "നബീൽ പയ്യാളി",
+   "issue_date": "2020-06-06",
+   "html_url": "/ml/opinion/the-anchal-murder-and-some-realizations-20200606-1.html",
+   "md_url": "/ml/opinion/the-anchal-murder-and-some-realizations-20200606-1.md"
+  },
+  {
    "slug": "the-ban-on-face-veils-the-hidden-facets-of-fascism-20190518-3",
    "lang": "ml",
    "category": "opinion",
@@ -21604,6 +21681,17 @@
    "issue_date": "2018-11-03",
    "html_url": "/ml/opinion/the-eighteenth-step-of-women-s-freedom-or-the-call-for-relig-20181103-9.html",
    "md_url": "/ml/opinion/the-eighteenth-step-of-women-s-freedom-or-the-call-for-relig-20181103-9.md"
+  },
+  {
+   "slug": "the-eroding-pride-of-expatriates-20200606-10",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "ചിതലെടുക്കുന്ന പ്രവാസപെരുമ",
+   "summary": "കോവിഡ് കാലത്ത് പ്രവാസികൾ നേരിടുന്ന പ്രതിസന്ധികളെയും, അവരോടുള്ള ഭരണകൂടങ്ങളുടെയും സമൂഹത്തിന്റെയും അവഗണനയെയും ഈ ലേഖനം വിമർശിക്കുന്നു.",
+   "author": "പി.എൻ. അബ്ദുല്ലത്തീഫ് മദനി",
+   "issue_date": "2020-06-06",
+   "html_url": "/ml/opinion/the-eroding-pride-of-expatriates-20200606-10.html",
+   "md_url": "/ml/opinion/the-eroding-pride-of-expatriates-20200606-10.md"
   },
   {
    "slug": "the-government-that-promotes-liquor-sales-while-ignoring-alc-20190727-1",
@@ -21912,6 +22000,17 @@
    "issue_date": "2020-02-08",
    "html_url": "/ml/opinion/united-kerala-20200208-13.html",
    "md_url": "/ml/opinion/united-kerala-20200208-13.md"
+  },
+  {
+   "slug": "uthra-s-death-and-questions-that-need-answers-20200606-2",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "ഉത്രയുടെ മരണവും ഉത്തരം കണ്ടെത്തേണ്ട ചില ചോദ്യങ്ങളും",
+   "summary": "ഉത്രയുടെ കൊലപാതകത്തെത്തുടർന്ന് സ്ത്രീധനത്തിന്റെ പേരിൽ നടക്കുന്ന ക്രൂരതകളെയും, വിവാഹബന്ധത്തിലെ പൊരുത്തക്കേടുകളെയും കുറിച്ച് ഉയരുന്ന സാമൂഹിക ചോദ്യങ്ങൾ ഈ ലേഖനം പരിശോധിക്കുന്നു.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2020-06-06",
+   "html_url": "/ml/opinion/uthra-s-death-and-questions-that-need-answers-20200606-2.html",
+   "md_url": "/ml/opinion/uthra-s-death-and-questions-that-need-answers-20200606-2.md"
   },
   {
    "slug": "vankum-kithabum-and-the-constitution-20181208-9",
@@ -23144,6 +23243,17 @@
    "issue_date": "2026-08-22",
    "html_url": "/ml/quran/surah-ash-shu-ara-the-poets-20260822-7.html",
    "md_url": "/ml/quran/surah-ash-shu-ara-the-poets-20260822-7.md"
+  },
+  {
+   "slug": "surah-at-taghabun-the-mutual-loss-and-gain-20200606-9",
+   "lang": "ml",
+   "category": "quran",
+   "title": "തഗാബൂൻ (നഷ്ടം വെളിപ്പെടൽ)",
+   "summary": "ഖുർആനിലെ 64-ാം അധ്യായമായ സൂറത്തു തഗാബൂനിന്റെ ലളിതമായ തഫ്‌സീർ (വിശദീകരണം) ഈ ലേഖനത്തിൽ നൽകുന്നു.",
+   "author": "അബ്ദുറഹ്മാൻ നാസിർ അസ്സഅദി",
+   "issue_date": "2020-06-06",
+   "html_url": "/ml/quran/surah-at-taghabun-the-mutual-loss-and-gain-20200606-9.html",
+   "md_url": "/ml/quran/surah-at-taghabun-the-mutual-loss-and-gain-20200606-9.md"
   },
   {
    "slug": "surah-at-tin-the-fig-20180630-3",
