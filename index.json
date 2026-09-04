@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-04T09:17:24.083471+00:00",
+ "generated_at": "2026-09-04T09:17:58.650403+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3624,
+ "count": 3625,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -7843,6 +7843,17 @@
    "issue_date": "2017-02-04",
    "html_url": "/ha/aqeedah/they-want-to-see-god-20170204-2.html",
    "md_url": "/ha/aqeedah/they-want-to-see-god-20170204-2.md"
+  },
+  {
+   "slug": "do-not-be-slaves-to-desires-20170211-11",
+   "lang": "ha",
+   "category": "dawah",
+   "title": "Kada kada zama bayi ga son zuciyarku",
+   "summary": "Wannan rubutu yana tattauna gargadin da Alkur'ani ya yi game da bin son zuciya. Yana tunatar da mu muhimmancin rayuwa bisa ga shiriyar Allah.",
+   "author": "ശമീര്‍ മദീനി",
+   "issue_date": "2017-02-11",
+   "html_url": "/ha/dawah/do-not-be-slaves-to-desires-20170211-11.html",
+   "md_url": "/ha/dawah/do-not-be-slaves-to-desires-20170211-11.md"
   },
   {
    "slug": "do-not-waver-in-trials-20170121-9",
