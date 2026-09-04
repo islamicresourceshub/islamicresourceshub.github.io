@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-04T09:40:01.927844+00:00",
+ "generated_at": "2026-09-04T09:40:36.332268+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3654,
+ "count": 3655,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -35684,6 +35684,17 @@
    "issue_date": "2017-02-04",
    "html_url": "/th/aqeedah/they-want-to-see-god-20170204-2.html",
    "md_url": "/th/aqeedah/they-want-to-see-god-20170204-2.md"
+  },
+  {
+   "slug": "do-not-be-slaves-to-desires-20170211-11",
+   "lang": "th",
+   "category": "dawah",
+   "title": "อย่าตกเป็นทาสของอารมณ์ใฝ่ต่ำ",
+   "summary": "บทความนี้อภิปรายถึงคำเตือนในอัลกุรอานเกี่ยวกับการปฏิบัติตามอารมณ์ใฝ่ต่ำของตนเอง พร้อมทั้งย้ำเตือนถึงความสำคัญของการดำเนินชีวิตโดยยึดมั่นในแนวทางที่อัลลอฮ์ทรงประทานให้",
+   "author": "ശമീര്‍ മദീനി",
+   "issue_date": "2017-02-11",
+   "html_url": "/th/dawah/do-not-be-slaves-to-desires-20170211-11.html",
+   "md_url": "/th/dawah/do-not-be-slaves-to-desires-20170211-11.md"
   },
   {
    "slug": "do-not-waver-in-trials-20170121-9",
