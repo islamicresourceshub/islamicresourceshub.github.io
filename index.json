@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-04T11:17:15.165687+00:00",
+ "generated_at": "2026-09-04T11:17:58.679044+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3737,
+ "count": 3738,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -8536,6 +8536,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/ha/opinion/the-shackles-of-consumerist-culture-20170121-13.html",
    "md_url": "/ha/opinion/the-shackles-of-consumerist-culture-20170121-13.md"
+  },
+  {
+   "slug": "trump-and-his-racism-20170211-14",
+   "lang": "ha",
+   "category": "opinion",
+   "title": "Trump, wanda yake alfahari da nuna wariyar launin fata",
+   "summary": "Wannan labarin yana yin nazari mai zurfi kan manufofin wariyar launin fata da kuma matsayar shugaban Amurka Donald Trump game da 'yan gudun hijira. Yana kuma binciko tarihin Amurka a matsayin kasa mai dauke da mutane daga sassa daban-daban na duniya.",
+   "author": "സുഫ്‌യാന്‍ അബ്ദുസ്സലാം",
+   "issue_date": "2017-02-11",
+   "html_url": "/ha/opinion/trump-and-his-racism-20170211-14.html",
+   "md_url": "/ha/opinion/trump-and-his-racism-20170211-14.md"
   },
   {
    "slug": "uapa-wielding-sedition-law-20170114-9",
