@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-04T09:35:46.372749+00:00",
+ "generated_at": "2026-09-04T09:36:12.930061+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3637,
+ "count": 3646,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -15193,6 +15193,17 @@
    "md_url": "/ml/dawah/purifying-the-soul-through-repentance-20190601-8.md"
   },
   {
+   "slug": "purity-of-heart-20200516-6",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "മനഃശുദ്ധി",
+   "summary": "ഇസ്‌ലാം പഠിപ്പിക്കുന്ന ഉത്തമ സ്വഭാവങ്ങളിൽ പ്രധാനപ്പെട്ട മനഃശുദ്ധിയെക്കുറിച്ചുള്ള ലേഖനം. അസൂയ, വിദ്വേഷം തുടങ്ങിയ രോഗങ്ങളിൽ നിന്ന് ഹൃദയത്തെ ശുദ്ധീകരിച്ച് അല്ലാഹുവിനെ കണ്ടുമുട്ടുന്നതിന്റെ പ്രാധാന്യം വിവരിക്കുന്നു.",
+   "author": "അബ്ദുൽ ജബ്ബാർ മദീനി",
+   "issue_date": "2020-05-16",
+   "html_url": "/ml/dawah/purity-of-heart-20200516-6.html",
+   "md_url": "/ml/dawah/purity-of-heart-20200516-6.md"
+  },
+  {
    "slug": "qualities-of-a-preacher-20180908-5",
    "lang": "ml",
    "category": "dawah",
@@ -15235,6 +15246,17 @@
    "issue_date": "2019-05-11",
    "html_url": "/ml/dawah/ramadan-of-charity-20190511-1.html",
    "md_url": "/ml/dawah/ramadan-of-charity-20190511-1.md"
+  },
+  {
+   "slug": "ramadan-with-the-scent-of-medicinal-porridge-20200516-9",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "മരുന്ന് കഞ്ഞിയുടെ മണമുള്ള റമദാൻ",
+   "summary": "റമദാൻ കാലത്തെ നോമ്പ് കഞ്ഞിയുടെ ഓർമ്മകളും, വിവിധ പ്രദേശങ്ങളിലെ നോമ്പ് തുറയുടെ വ്യത്യസ്തതകളും വിവരിക്കുന്ന ലേഖനം.",
+   "author": "സലാം സുമയ്യ എടത്തനാട്ടുകര",
+   "issue_date": "2020-05-16",
+   "html_url": "/ml/dawah/ramadan-with-the-scent-of-medicinal-porridge-20200516-9.html",
+   "md_url": "/ml/dawah/ramadan-with-the-scent-of-medicinal-porridge-20200516-9.md"
   },
   {
    "slug": "reap-profit-fear-loss-20190615-4",
@@ -15994,6 +16016,17 @@
    "issue_date": "2019-07-27",
    "html_url": "/ml/dawah/the-virtues-of-the-ten-days-of-dhul-hijjah-20190727-9.html",
    "md_url": "/ml/dawah/the-virtues-of-the-ten-days-of-dhul-hijjah-20190727-9.md"
+  },
+  {
+   "slug": "there-are-no-shortcuts-to-attain-god-s-pleasure-20200516-2",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "ദൈവപ്രീതി നേടാൻ കുറുക്കുവഴികളില്ല",
+   "summary": "റമദാൻ മാസത്തിൽ ദൈവസാമീപ്യം നേടാൻ ഇസ്‌ലാം നിർദ്ദേശിക്കുന്ന മാർഗ്ഗങ്ങളെക്കുറിച്ചുള്ള മുഖലേഖനം. സന്യാസത്തെയല്ല, മറിച്ച് ഭൗതിക ജീവിതത്തിനിടയിൽ പ്രമാണബദ്ധമായി ജീവിക്കുന്നതിനെയാണ് ഇസ്‌ലാം പ്രോത്സാഹിപ്പിക്കുന്നത്.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2020-05-16",
+   "html_url": "/ml/dawah/there-are-no-shortcuts-to-attain-god-s-pleasure-20200516-2.html",
+   "md_url": "/ml/dawah/there-are-no-shortcuts-to-attain-god-s-pleasure-20200516-2.md"
   },
   {
    "slug": "they-tried-to-burn-it-it-ignited-hearts-20191221-2",
@@ -17910,6 +17943,17 @@
    "md_url": "/ml/fiqh/zakat-a-rethinking-20180526-1.md"
   },
   {
+   "slug": "zakat-investment-20200516-7",
+   "lang": "ml",
+   "category": "fiqh",
+   "title": "സകാത്ത്, നിക്ഷേപം",
+   "summary": "സകാത്തുമായി ബന്ധപ്പെട്ട സംശയങ്ങൾക്കുള്ള മറുപടി. ഭാര്യയുടെ സ്വർണ്ണത്തിന്റെ സകാത്ത്, നിക്ഷേപങ്ങളുടെ സകാത്ത് കണക്കാക്കുന്ന രീതി എന്നിവയെക്കുറിച്ച് വിശദീകരിക്കുന്നു.",
+   "author": "പി.എൻ അബ്ദുറഹ്മാൻ",
+   "issue_date": "2020-05-16",
+   "html_url": "/ml/fiqh/zakat-investment-20200516-7.html",
+   "md_url": "/ml/fiqh/zakat-investment-20200516-7.md"
+  },
+  {
    "slug": "zakat-system-in-islam-20190511-2",
    "lang": "ml",
    "category": "fiqh",
@@ -19371,6 +19415,17 @@
    "issue_date": "2018-10-13",
    "html_url": "/ml/opinion/adultery-india-needs-a-comprehensive-law-20181013-1.html",
    "md_url": "/ml/opinion/adultery-india-needs-a-comprehensive-law-20181013-1.md"
+  },
+  {
+   "slug": "after-corona-20200516-5",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "കൊറോണക്ക് ശേഷം...?",
+   "summary": "കോവിഡ്-19 സൃഷ്ടിച്ച ആഗോള സാമ്പത്തിക പ്രതിസന്ധിയെക്കുറിച്ചും, അതിനുശേഷം ലോകത്തുണ്ടാകാൻ പോകുന്ന മാറ്റങ്ങളെക്കുറിച്ചുമുള്ള വിശകലനം. പ്രവാസികളുടെ മടക്കവും പുനരധിവാസത്തിന്റെ ആവശ്യകതയും ലേഖകൻ ചർച്ച ചെയ്യുന്നു.",
+   "author": "നബീൽ പയ്യോളി",
+   "issue_date": "2020-05-16",
+   "html_url": "/ml/opinion/after-corona-20200516-5.html",
+   "md_url": "/ml/opinion/after-corona-20200516-5.md"
   },
   {
    "slug": "after-ramadan-20180623-8",
@@ -21914,6 +21969,17 @@
    "md_url": "/ml/quran/al-qalam-the-pen-part-4-20200111-9.md"
   },
   {
+   "slug": "amani-tafseer-composition-and-authenticity-20200516-1",
+   "lang": "ml",
+   "category": "quran",
+   "title": "അമാനി തഫ്‌സീർ: രചനയും ആധികാരികതയും",
+   "summary": "മലയാളത്തിലെ ഏറ്റവും ആധികാരികമായ ഖുർആൻ വ്യാഖ്യാന ഗ്രന്ഥമായ അമാനി തഫ്‌സീറിന്റെ ചരിത്രവും അത് രചിക്കാനുണ്ടായ സാഹചര്യങ്ങളും ഈ ലേഖനം വിവരിക്കുന്നു. കെ.എം. മൗലവി, അമാനി മൗലവി തുടങ്ങിയ പണ്ഡിതരുടെ നിസ്വാർത്ഥമായ സേവനങ്ങളെയും ഇതിൽ എടുത്തുപറയുന്നു.",
+   "author": "സുഫ്‌യാൻ അബ്ദുസ്സലാം",
+   "issue_date": "2020-05-16",
+   "html_url": "/ml/quran/amani-tafseer-composition-and-authenticity-20200516-1.html",
+   "md_url": "/ml/quran/amani-tafseer-composition-and-authenticity-20200516-1.md"
+  },
+  {
    "slug": "are-the-learned-and-the-unlearned-equal-20200314-5",
    "lang": "ml",
    "category": "quran",
@@ -23001,6 +23067,17 @@
    "issue_date": "2018-08-11",
    "html_url": "/ml/seerah/after-the-destruction-of-pharaoh-20180811-6.html",
    "md_url": "/ml/seerah/after-the-destruction-of-pharaoh-20180811-6.md"
+  },
+  {
+   "slug": "badr-and-the-badriyyeen-20200516-3",
+   "lang": "ml",
+   "category": "seerah",
+   "title": "ബദ്‌റും ബദ്‌രീങ്ങളും",
+   "summary": "ബദ്ർ യുദ്ധത്തിന്റെ ചരിത്ര പശ്ചാത്തലവും, ബദ്‌രീങ്ങളുടെ പേരിൽ നടക്കുന്ന അനാചാരങ്ങളെയും ശിർക്കിനെയും കുറിച്ചുള്ള വിമർശനാത്മക പഠനം. അല്ലാഹുവിനോട് മാത്രം പ്രാർത്ഥിക്കണമെന്ന തൗഹീദിന്റെ പാഠം ലേഖനം ഓർമ്മിപ്പിക്കുന്നു.",
+   "author": "സയ്യിദ് സൽഫർ സ്വാദിഖ്",
+   "issue_date": "2020-05-16",
+   "html_url": "/ml/seerah/badr-and-the-badriyyeen-20200516-3.html",
+   "md_url": "/ml/seerah/badr-and-the-badriyyeen-20200516-3.md"
   },
   {
    "slug": "become-the-beloved-servants-of-allah-20190720-2",
@@ -24950,6 +25027,17 @@
    "md_url": "/ml/story/prayer-namaz-20190427-7.md"
   },
   {
+   "slug": "purity-of-fasting-20200516-8",
+   "lang": "ml",
+   "category": "story",
+   "title": "വ്രതശുദ്ധി",
+   "summary": "റമദാൻ വ്രതത്തിന്റെ മഹത്വത്തെയും ആത്മീയ ശുദ്ധിയെയും കുറിച്ചുള്ള കവിത.",
+   "author": "ഷഹനാസ് ചാത്തോത്ത്",
+   "issue_date": "2020-05-16",
+   "html_url": "/ml/story/purity-of-fasting-20200516-8.html",
+   "md_url": "/ml/story/purity-of-fasting-20200516-8.md"
+  },
+  {
    "slug": "quran-20181006-6",
    "lang": "ml",
    "category": "story",
@@ -24981,6 +25069,17 @@
    "issue_date": "2019-06-29",
    "html_url": "/ml/story/rainy-sights-20190629-6.html",
    "md_url": "/ml/story/rainy-sights-20190629-6.md"
+  },
+  {
+   "slug": "relief-kit-20200516-4",
+   "lang": "ml",
+   "category": "story",
+   "title": "റിലീഫ് കിറ്റ്",
+   "summary": "ലോക്ക്ഡൗൺ കാലത്തെ സാമ്പത്തിക പ്രതിസന്ധിയും ഒരു കുടുംബത്തിന്റെ ജീവിത സാഹചര്യങ്ങളും പ്രമേയമാക്കിയ കഥ. റിലീഫ് കിറ്റുകളെയും അതിജീവനത്തെയും കുറിച്ചുള്ള ചിന്തകൾ ഇതിൽ പങ്കുവെക്കുന്നു.",
+   "author": "വി.ടി അബ്ദുസ്സലാം",
+   "issue_date": "2020-05-16",
+   "html_url": "/ml/story/relief-kit-20200516-4.html",
+   "md_url": "/ml/story/relief-kit-20200516-4.md"
   },
   {
    "slug": "remembering-sacrifice-20190817-9",
