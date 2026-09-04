@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-04T11:13:25.871336+00:00",
+ "generated_at": "2026-09-04T11:13:50.657373+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3720,
+ "count": 3721,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -3553,6 +3553,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/bs/opinion/the-shackles-of-consumerist-culture-20170121-13.html",
    "md_url": "/bs/opinion/the-shackles-of-consumerist-culture-20170121-13.md"
+  },
+  {
+   "slug": "trump-and-his-racism-20170211-14",
+   "lang": "bs",
+   "category": "opinion",
+   "title": "Trump i njegova retorika rasne mržnje",
+   "summary": "Članak kritički analizira rasističke stavove i politiku prema izbjeglicama američkog predsjednika Donalda Trumpa. Autor istražuje historijski kontekst američke imigracije i ukazuje na licemjerje politike koja zatvara vrata onima koji bježe od sukoba koje je sama Amerika često poticala.",
+   "author": "സുഫ്‌യാന്‍ അബ്ദുസ്സലാം",
+   "issue_date": "2017-02-11",
+   "html_url": "/bs/opinion/trump-and-his-racism-20170211-14.html",
+   "md_url": "/bs/opinion/trump-and-his-racism-20170211-14.md"
   },
   {
    "slug": "uapa-wielding-sedition-law-20170114-9",
