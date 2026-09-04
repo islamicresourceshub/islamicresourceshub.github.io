@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-04T09:01:24.894257+00:00",
+ "generated_at": "2026-09-04T09:01:46.370631+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3575,
+ "count": 3584,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -13686,6 +13686,28 @@
    "md_url": "/ml/dawah/be-well-wishers-20190803-3.md"
   },
   {
+   "slug": "blessed-ramadan-in-times-of-strict-restrictions-20200502-1",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "അതിനിയന്ത്രണ കാലത്തെ പുണ്യ റമദാൻ",
+   "summary": "കോവിഡ് നിയന്ത്രണങ്ങൾക്കിടയിൽ റമദാൻ വന്നെത്തുമ്പോൾ വിശ്വാസി എങ്ങനെ ആത്മനിയന്ത്രണവും ആരാധനകളും പാലിക്കണം എന്ന് ഈ ലേഖനം വിശദീകരിക്കുന്നു. വീടുകളെ ആരാധനാലയങ്ങളാക്കി മാറ്റേണ്ടതിന്റെ ആവശ്യകതയെക്കുറിച്ച് ഇത് ഓർമ്മിപ്പിക്കുന്നു.",
+   "author": "സുഫ്‌യാൻ അബ്ദുസ്സലം",
+   "issue_date": "2020-05-02",
+   "html_url": "/ml/dawah/blessed-ramadan-in-times-of-strict-restrictions-20200502-1.html",
+   "md_url": "/ml/dawah/blessed-ramadan-in-times-of-strict-restrictions-20200502-1.md"
+  },
+  {
+   "slug": "blessed-ramadan-in-times-of-strict-restrictions-20200502-5",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "അതിനിയന്ത്രണകാലത്തെ പുണ്യ രാജാക്കൻ",
+   "summary": "ലോക്ക്ഡൗൺ കാലത്ത് വീടുകളിൽ റമദാൻ എങ്ങനെ അർത്ഥവത്തായി ചെലവഴിക്കാം എന്നും, പള്ളികളിലെ നമസ്കാരത്തിന്റെ സാമൂഹിക പ്രാധാന്യത്തെക്കുറിച്ചും പ്രതിപാദിക്കുന്നു.",
+   "author": "സുഫ്‌യാൻ അബ്ദുസ്സലം",
+   "issue_date": "2020-05-02",
+   "html_url": "/ml/dawah/blessed-ramadan-in-times-of-strict-restrictions-20200502-5.html",
+   "md_url": "/ml/dawah/blessed-ramadan-in-times-of-strict-restrictions-20200502-5.md"
+  },
+  {
    "slug": "blessings-gratitude-and-ingratitude-20181110-3",
    "lang": "ml",
    "category": "dawah",
@@ -13772,6 +13794,17 @@
    "issue_date": "2019-12-21",
    "html_url": "/ml/dawah/cooperation-is-the-sign-of-humanity-20191221-11.html",
    "md_url": "/ml/dawah/cooperation-is-the-sign-of-humanity-20191221-11.md"
+  },
+  {
+   "slug": "courses-and-departments-20200502-3",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "കോഴ്‌സുകൾ, സാംഗങ്ങൾ",
+   "summary": "ജമീഅ അൽ ഹിന്ദ് ഇസ്ലാമിയയിൽ ലഭ്യമായ വിവിധ ഇസ്ലാമിക പഠന കോഴ്സുകളെയും അവയുടെ സവിശേഷതകളെയും കുറിച്ചുള്ള വിവരണം.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2020-05-02",
+   "html_url": "/ml/dawah/courses-and-departments-20200502-3.html",
+   "md_url": "/ml/dawah/courses-and-departments-20200502-3.md"
   },
   {
    "slug": "curb-extravagance-in-iftar-20180519-2",
@@ -17239,6 +17272,17 @@
    "md_url": "/ml/fiqh/fitr-zakat-and-ajmal-s-doubts-20190608-8.md"
   },
   {
+   "slug": "for-the-fasting-person-to-know-20200502-6",
+   "lang": "ml",
+   "category": "fiqh",
+   "title": "നോമ്പുകാരറിയാൻ",
+   "summary": "നോമ്പിന്റെ നിയമങ്ങൾ, നോമ്പ് മുറിയുന്ന കാര്യങ്ങൾ, പ്രവാചകചര്യകൾ എന്നിവയെക്കുറിച്ചുള്ള കർമ്മശാസ്ത്രപരമായ വിശദീകരണം.",
+   "author": "ഉസ്മാൻ പാലക്കാഴി",
+   "issue_date": "2020-05-02",
+   "html_url": "/ml/fiqh/for-the-fasting-person-to-know-20200502-6.html",
+   "md_url": "/ml/fiqh/for-the-fasting-person-to-know-20200502-6.md"
+  },
+  {
    "slug": "for-women-to-know-20181117-7",
    "lang": "ml",
    "category": "fiqh",
@@ -18317,6 +18361,17 @@
    "md_url": "/ml/history/islamophobia-archetypes-of-ancient-history-20170225-3.md"
   },
   {
+   "slug": "jamia-al-hind-into-the-eighth-year-20200502-2",
+   "lang": "ml",
+   "category": "history",
+   "title": "ജമീല അൽ ഫിസ്; എറ്റാം വയസ്സിലേക്ക്",
+   "summary": "മലപ്പുറം വേങ്ങരയിലെ ജാമിഅ അൽ ഹിന്ദ് ഇസ്ലാമിയ എന്ന വിദ്യാഭ്യാസ സ്ഥാപനത്തിന്റെ വളർച്ചയെയും അതിന്റെ ലക്ഷ്യങ്ങളെയും കുറിച്ചുള്ള ലഘുവിവരണം.",
+   "author": "അബുസൽഹ പുതുപ്പുറസ്",
+   "issue_date": "2020-05-02",
+   "html_url": "/ml/history/jamia-al-hind-into-the-eighth-year-20200502-2.html",
+   "md_url": "/ml/history/jamia-al-hind-into-the-eighth-year-20200502-2.md"
+  },
+  {
    "slug": "law-and-environmental-protection-20180707-7",
    "lang": "ml",
    "category": "history",
@@ -19263,6 +19318,17 @@
    "md_url": "/ml/opinion/corona-alcohol-and-a-safe-society-20200404-4.md"
   },
   {
+   "slug": "corona-and-dried-fish-20200502-9",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "കൊറോണയും ഉണക്കമീനും",
+   "summary": "കോവിഡ് കാലത്തെ സാമൂഹിക അസമത്വങ്ങളെയും, പ്രവാസികളുടെയും സാധാരണക്കാരുടെയും ജീവിതത്തിലെ പ്രയാസങ്ങളെയും കുറിച്ചുള്ള ഒരു സാമൂഹിക നിരീക്ഷണം.",
+   "author": "ഇബ്രാഹിം അലി എടത്തനാട്ടുകര",
+   "issue_date": "2020-05-02",
+   "html_url": "/ml/opinion/corona-and-dried-fish-20200502-9.html",
+   "md_url": "/ml/opinion/corona-and-dried-fish-20200502-9.md"
+  },
+  {
    "slug": "corona-some-thoughts-20200411-6",
    "lang": "ml",
    "category": "opinion",
@@ -19470,6 +19536,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/ml/opinion/everyone-should-have-a-beard-20170121-3.html",
    "md_url": "/ml/opinion/everyone-should-have-a-beard-20170121-3.md"
+  },
+  {
+   "slug": "expatriates-in-crisis-20200502-7",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "പ്രതിസന്ധിയിൽ ഉലയുന്ന പ്രവാസികൾ",
+   "summary": "കോവിഡ് കാലത്ത് പ്രവാസികൾ അനുഭവിക്കുന്ന ദുരിതങ്ങളും, അവരെ നാട്ടിലെത്തിക്കാനുള്ള അടിയന്തര ആവശ്യകതയും ഈ ലേഖനം ചർച്ച ചെയ്യുന്നു.",
+   "author": "നബീൽ പയ്യോളി",
+   "issue_date": "2020-05-02",
+   "html_url": "/ml/opinion/expatriates-in-crisis-20200502-7.html",
+   "md_url": "/ml/opinion/expatriates-in-crisis-20200502-7.md"
   },
   {
    "slug": "extremism-20200201-7",
@@ -20977,6 +21054,17 @@
    "issue_date": "2018-06-30",
    "html_url": "/ml/opinion/trump-and-kim-on-the-path-to-peace-20180630-2.html",
    "md_url": "/ml/opinion/trump-and-kim-on-the-path-to-peace-20180630-2.md"
+  },
+  {
+   "slug": "truth-seeking-experiments-in-the-post-truth-era-20200502-8",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "സത്യാനന്തരകാലത്തെ സത്യാന്വേഷണ പരീക്ഷണങ്ങൾ",
+   "summary": "സത്യാനന്തര കാലഘട്ടത്തിൽ മാധ്യമങ്ങളും രാഷ്ട്രീയവും എങ്ങനെ സത്യത്തെ വളച്ചൊടിക്കുന്നു എന്നും, അതിനെതിരെ വിശ്വാസികൾ എങ്ങനെ ജാഗ്രത പാലിക്കണമെന്നും വിശകലനം ചെയ്യുന്നു.",
+   "author": "ഹിലാൽ സലീം സി പി",
+   "issue_date": "2020-05-02",
+   "html_url": "/ml/opinion/truth-seeking-experiments-in-the-post-truth-era-20200502-8.html",
+   "md_url": "/ml/opinion/truth-seeking-experiments-in-the-post-truth-era-20200502-8.md"
   },
   {
    "slug": "uapa-wielding-sedition-law-20170114-9",
@@ -25080,6 +25168,17 @@
    "issue_date": "2019-09-14",
    "html_url": "/ml/story/the-washed-away-village-20190914-5.html",
    "md_url": "/ml/story/the-washed-away-village-20190914-5.md"
+  },
+  {
+   "slug": "the-weak-20200502-4",
+   "lang": "ml",
+   "category": "story",
+   "title": "ദുർബലൻ",
+   "summary": "സാമൂഹികമായ അടിച്ചമർത്തലുകളെയും നിസ്സഹായതയെയും കുറിച്ചുള്ള ഒരു കവിത.",
+   "author": "മുഹമ്മദ് സലീം പി.എം",
+   "issue_date": "2020-05-02",
+   "html_url": "/ml/story/the-weak-20200502-4.html",
+   "md_url": "/ml/story/the-weak-20200502-4.md"
   },
   {
    "slug": "this-is-the-land-we-were-born-in-20200201-6",
