@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-04T09:36:12.930061+00:00",
+ "generated_at": "2026-09-04T09:36:30.284607+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3646,
+ "count": 3647,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -30195,6 +30195,17 @@
    "issue_date": "2017-02-04",
    "html_url": "/pt/aqeedah/they-want-to-see-god-20170204-2.html",
    "md_url": "/pt/aqeedah/they-want-to-see-god-20170204-2.md"
+  },
+  {
+   "slug": "do-not-be-slaves-to-desires-20170211-11",
+   "lang": "pt",
+   "category": "dawah",
+   "title": "Não sejam escravos dos seus próprios desejos",
+   "summary": "Este artigo discute os avisos do Alcorão contra seguir os próprios desejos. Ele nos lembra da importância de viver seguindo a orientação de Allah.",
+   "author": "ശമീര്‍ മദീനി",
+   "issue_date": "2017-02-11",
+   "html_url": "/pt/dawah/do-not-be-slaves-to-desires-20170211-11.html",
+   "md_url": "/pt/dawah/do-not-be-slaves-to-desires-20170211-11.md"
   },
   {
    "slug": "do-not-waver-in-trials-20170121-9",
