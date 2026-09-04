@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-04T09:58:28.925054+00:00",
+ "generated_at": "2026-09-04T09:59:05.465432+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3677,
+ "count": 3678,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -5368,6 +5368,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/es/family/husband-trapped-in-the-mobile-web-20170121-5.html",
    "md_url": "/es/family/husband-trapped-in-the-mobile-web-20170121-5.md"
+  },
+  {
+   "slug": "if-the-beginning-is-good-20170211-12",
+   "lang": "es",
+   "category": "family",
+   "title": "Si el comienzo es bueno...",
+   "summary": "Esta es una entrega de la serie sobre crianza islámica, donde se analizan las responsabilidades de los padres y las directrices del Creador al educar a los hijos. Se enfatiza la importancia de una base sólida desde el inicio, comenzando por la elección de la pareja y la intención espiritual.",
+   "author": "അഷ്‌റഫ് എകരൂല്‍",
+   "issue_date": "2017-02-11",
+   "html_url": "/es/family/if-the-beginning-is-good-20170211-12.html",
+   "md_url": "/es/family/if-the-beginning-is-good-20170211-12.md"
   },
   {
    "slug": "islamic-parenting-significance-and-goals-part-1-20170114-4",
