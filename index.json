@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-04T11:26:24.991553+00:00",
+ "generated_at": "2026-09-04T11:26:55.281483+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3746,
+ "count": 3747,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -30019,6 +30019,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/pa/opinion/the-shackles-of-consumerist-culture-20170121-13.html",
    "md_url": "/pa/opinion/the-shackles-of-consumerist-culture-20170121-13.md"
+  },
+  {
+   "slug": "trump-and-his-racism-20170211-14",
+   "lang": "pa",
+   "category": "opinion",
+   "title": "ਨਸਲਵਾਦ ਦਾ ਡੰਗ ਮਾਰਨ ਵਾਲਾ ਟਰੰਪ",
+   "summary": "ਇਹ ਲੇਖ ਅਮਰੀਕੀ ਰਾਸ਼ਟਰਪਤੀ ਡੋਨਾਲਡ ਟਰੰਪ ਦੀਆਂ ਨਸਲਵਾਦੀ ਨੀਤੀਆਂ ਅਤੇ ਸ਼ਰਨਾਰਥੀਆਂ ਪ੍ਰਤੀ ਉਨ੍ਹਾਂ ਦੇ ਰਵੱਈਏ ਦਾ ਆਲੋਚਨਾਤਮਕ ਵਿਸ਼ਲੇਸ਼ਣ ਕਰਦਾ ਹੈ। ਲੇਖ ਅਮਰੀਕਾ ਦੇ ਇਤਿਹਾਸਕ ਪਿਛੋਕੜ ਅਤੇ ਮੌਜੂਦਾ ਸਿਆਸੀ ਹਾਲਾਤਾਂ ਦੇ ਸੰਦਰਭ ਵਿੱਚ ਇਨ੍ਹਾਂ ਫੈਸਲਿਆਂ ਦੀ ਤਰਕਹੀਣਤਾ ਨੂੰ ਉਜਾਗਰ ਕਰਦਾ ਹੈ।",
+   "author": "സുഫ്‌യാന്‍ അബ്ദുസ്സലാം",
+   "issue_date": "2017-02-11",
+   "html_url": "/pa/opinion/trump-and-his-racism-20170211-14.html",
+   "md_url": "/pa/opinion/trump-and-his-racism-20170211-14.md"
   },
   {
    "slug": "uapa-wielding-sedition-law-20170114-9",
