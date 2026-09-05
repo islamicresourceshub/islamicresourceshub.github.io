@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-05T14:30:03.636743+00:00",
+ "generated_at": "2026-09-05T15:02:41.048299+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3852,
+ "count": 3853,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -7392,6 +7392,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/fr/quran/what-to-beware-of-when-taking-sides-20170128-7.html",
    "md_url": "/fr/quran/what-to-beware-of-when-taking-sides-20170128-7.md"
+  },
+  {
+   "slug": "can-prophethood-be-attained-by-desire-20170218-1",
+   "lang": "fr",
+   "category": "seerah",
+   "title": "La prophétie s'obtient-elle par le désir ?",
+   "summary": "Cet article explique que la prophétie est une grâce spéciale d'Allah et qu'elle ne peut être obtenue ni par le désir ni par l'effort. Il aborde la perspective islamique concernant le statut des prophètes et leur mission.",
+   "author": "ഹുസൈന്‍ സലഫി, ഷാര്‍ജ",
+   "issue_date": "2017-02-18",
+   "html_url": "/fr/seerah/can-prophethood-be-attained-by-desire-20170218-1.html",
+   "md_url": "/fr/seerah/can-prophethood-be-attained-by-desire-20170218-1.md"
   },
   {
    "slug": "ibn-abbas-ra-a-scholar-of-knowledge-20170211-4",
