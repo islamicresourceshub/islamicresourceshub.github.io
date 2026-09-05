@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-05T15:07:38.663282+00:00",
+ "generated_at": "2026-09-05T15:08:03.883339+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3868,
+ "count": 3869,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -13255,6 +13255,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/ko/quran/what-to-beware-of-when-taking-sides-20170128-7.html",
    "md_url": "/ko/quran/what-to-beware-of-when-taking-sides-20170128-7.md"
+  },
+  {
+   "slug": "can-prophethood-be-attained-by-desire-20170218-1",
+   "lang": "ko",
+   "category": "seerah",
+   "title": "예언자직은 열망한다고 얻을 수 있는 것인가?",
+   "summary": "이 글은 예언자직이 알라의 특별한 은혜이며, 인간이 열망하거나 노력한다고 해서 얻을 수 있는 것이 아님을 분명히 합니다. 또한 예언자들의 지위와 그들의 사명에 대한 이슬람적 관점을 논합니다.",
+   "author": "ഹുസൈന്‍ സലഫി, ഷാര്‍ജ",
+   "issue_date": "2017-02-18",
+   "html_url": "/ko/seerah/can-prophethood-be-attained-by-desire-20170218-1.html",
+   "md_url": "/ko/seerah/can-prophethood-be-attained-by-desire-20170218-1.md"
   },
   {
    "slug": "ibn-abbas-ra-a-scholar-of-knowledge-20170211-4",
