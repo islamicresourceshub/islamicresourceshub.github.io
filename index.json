@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-05T01:21:49.409213+00:00",
+ "generated_at": "2026-09-05T01:41:07.279665+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3844,
+ "count": 3845,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -1529,6 +1529,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/ar/quran/what-to-beware-of-when-taking-sides-20170128-7.html",
    "md_url": "/ar/quran/what-to-beware-of-when-taking-sides-20170128-7.md"
+  },
+  {
+   "slug": "can-prophethood-be-attained-by-desire-20170218-1",
+   "lang": "ar",
+   "category": "seerah",
+   "title": "هل تُنال النبوة بالتمني؟",
+   "summary": "يوضح المقال أن النبوة اصطفاء وفضل خاص من الله تعالى، لا تُنال بالتمني أو السعي والاجتهاد الشخصي. كما يناقش الرؤية الإسلامية لمكانة الأنبياء والغاية من بعثتهم.",
+   "author": "ഹുസൈന്‍ സലഫി, ഷാര്‍ജ",
+   "issue_date": "2017-02-18",
+   "html_url": "/ar/seerah/can-prophethood-be-attained-by-desire-20170218-1.html",
+   "md_url": "/ar/seerah/can-prophethood-be-attained-by-desire-20170218-1.md"
   },
   {
    "slug": "ibn-abbas-ra-a-scholar-of-knowledge-20170211-4",
