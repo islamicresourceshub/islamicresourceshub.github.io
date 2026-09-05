@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-05T15:06:58.056570+00:00",
+ "generated_at": "2026-09-05T15:07:18.067337+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3859,
+ "count": 3867,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -15633,6 +15633,17 @@
    "md_url": "/ml/dawah/is-the-mobile-phone-meant-for-cheating-20190216-7.md"
   },
   {
+   "slug": "islam-and-environmental-protection-20200711-1",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "ഇസ്‌ലാമും പരിസ്ഥിതി സംരക്ഷണവും",
+   "summary": "പരിസ്ഥിതി സംരക്ഷണത്തെക്കുറിച്ചുള്ള ഇസ്‌ലാമിക വീക്ഷണം ഈ ലേഖനം ചർച്ച ചെയ്യുന്നു. പ്രപഞ്ചത്തിലെ സന്തുലിതാവസ്ഥ നിലനിർത്തുന്നതിൽ മനുഷ്യനുള്ള ഉത്തരവാദിത്തങ്ങളെ ഖുർആനിക സൂക്തങ്ങളുടെ അടിസ്ഥാനത്തിൽ ഇത് വിശദീകരിക്കുന്നു.",
+   "author": "മുഹമ്മദ് സ്വാദിഷ് മുഹമ്മദ്",
+   "issue_date": "2020-07-11",
+   "html_url": "/ml/dawah/islam-and-environmental-protection-20200711-1.html",
+   "md_url": "/ml/dawah/islam-and-environmental-protection-20200711-1.md"
+  },
+  {
    "slug": "islam-and-human-harmony-20190914-4",
    "lang": "ml",
    "category": "dawah",
@@ -16137,6 +16148,17 @@
    "issue_date": "2019-06-01",
    "html_url": "/ml/dawah/purifying-the-soul-through-repentance-20190601-8.html",
    "md_url": "/ml/dawah/purifying-the-soul-through-repentance-20190601-8.md"
+  },
+  {
+   "slug": "purity-20200711-5",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "പവിത്രത",
+   "summary": "ഇസ്‌ലാം പഠിപ്പിക്കുന്ന ഉത്തമ സ്വഭാവങ്ങളിൽ ഒന്നായ പവിത്രതയെക്കുറിച്ചുള്ള ലേഖനം. ശാരീരികവും സാമ്പത്തികവുമായ കാര്യങ്ങളിൽ വിശ്വാസി പുലർത്തേണ്ട സൂക്ഷ്മതയെ ഖുർആൻ-സുന്നത്ത് അടിസ്ഥാനത്തിൽ ഇത് വിശദീകരിക്കുന്നു.",
+   "author": "അബ്ദുൽ ജബ്ബാർ മദീനി",
+   "issue_date": "2020-07-11",
+   "html_url": "/ml/dawah/purity-20200711-5.html",
+   "md_url": "/ml/dawah/purity-20200711-5.md"
   },
   {
    "slug": "purity-of-heart-20200516-6",
@@ -19769,6 +19791,17 @@
    "md_url": "/ml/history/jamia-al-hind-into-the-eighth-year-20200502-2.md"
   },
   {
+   "slug": "k-m-seethi-sahib-architect-of-kerala-muslim-renaissance-20200711-3",
+   "lang": "ml",
+   "category": "history",
+   "title": "കെ.എം സീതി സാഹിബ്: കേരള മുസ്ലിം നവോത്ഥാന ശില്പി",
+   "summary": "കേരള മുസ്ലിം നവോത്ഥാന ചരിത്രത്തിലെ സുപ്രധാന വ്യക്തിത്വമായ കെ.എം സീതി സാഹിബിന്റെ ജീവിതവും പ്രവർത്തനങ്ങളും ഈ ലേഖനം വിവരിക്കുന്നു. വിദ്യാഭ്യാസ-സാമൂഹിക രംഗങ്ങളിൽ അദ്ദേഹം നൽകിയ സംഭാവനകൾ ഇതിൽ പ്രതിപാദിക്കുന്നു.",
+   "author": "ഷഹമൽ. കെ.പി അരീഫ്",
+   "issue_date": "2020-07-11",
+   "html_url": "/ml/history/k-m-seethi-sahib-architect-of-kerala-muslim-renaissance-20200711-3.html",
+   "md_url": "/ml/history/k-m-seethi-sahib-architect-of-kerala-muslim-renaissance-20200711-3.md"
+  },
+  {
    "slug": "law-and-environmental-protection-20180707-7",
    "lang": "ml",
    "category": "history",
@@ -20350,6 +20383,17 @@
    "issue_date": "2020-02-22",
    "html_url": "/ml/history/tipu-sultan-the-religion-and-politics-of-hatred-20200222-10.html",
    "md_url": "/ml/history/tipu-sultan-the-religion-and-politics-of-hatred-20200222-10.md"
+  },
+  {
+   "slug": "to-those-who-fear-variyankunnath-20200711-6",
+   "lang": "ml",
+   "category": "history",
+   "title": "വാരിയൻകുന്നത്തിനെ ഭയക്കുന്നവരോട്",
+   "summary": "വാരിയൻകുന്നത്ത് കുഞ്ഞഹമ്മദ് ഹാജിയെക്കുറിച്ചുള്ള ചരിത്രപരമായ തെറ്റിദ്ധാരണകളെ തിരുത്തുന്ന ലേഖനം. സ്വാതന്ത്ര്യസമരത്തിൽ അദ്ദേഹം വഹിച്ച പങ്കിനെയും അദ്ദേഹത്തിന്റെ നീതിബോധത്തെയും ചരിത്രരേഖകളുടെ അടിസ്ഥാനത്തിൽ ഇത് വ്യക്തമാക്കുന്നു.",
+   "author": "അൽത്താഹ് അമുട്ടിക്കാട്",
+   "issue_date": "2020-07-11",
+   "html_url": "/ml/history/to-those-who-fear-variyankunnath-20200711-6.html",
+   "md_url": "/ml/history/to-those-who-fear-variyankunnath-20200711-6.md"
   },
   {
    "slug": "translations-by-the-sunni-group-20181020-9",
@@ -22475,6 +22519,17 @@
    "md_url": "/ml/opinion/the-elephant-that-died-from-palakkad-to-malappuram-20200613-2.md"
   },
   {
+   "slug": "the-emptiness-created-by-death-20200711-8",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "മരണം തീർക്കുന്ന ശൂന്യത",
+   "summary": "കോവിഡ് കാലഘട്ടത്തിലെ മരണങ്ങളെക്കുറിച്ചുള്ള ഒരു വൈകാരികമായ കുറിപ്പ്. പ്രവാസലോകത്തെ മരണങ്ങളും അത് സൃഷ്ടിക്കുന്ന ശൂന്യതയും ജീവിതത്തിന്റെ നശ്വരതയെക്കുറിച്ചുള്ള ചിന്തകളും ലേഖകൻ പങ്കുവെക്കുന്നു.",
+   "author": "നസീർ പയ്യപ്പള്ളി",
+   "issue_date": "2020-07-11",
+   "html_url": "/ml/opinion/the-emptiness-created-by-death-20200711-8.html",
+   "md_url": "/ml/opinion/the-emptiness-created-by-death-20200711-8.md"
+  },
+  {
    "slug": "the-eroding-pride-of-expatriates-20200606-10",
    "lang": "ml",
    "category": "opinion",
@@ -22484,6 +22539,17 @@
    "issue_date": "2020-06-06",
    "html_url": "/ml/opinion/the-eroding-pride-of-expatriates-20200606-10.html",
    "md_url": "/ml/opinion/the-eroding-pride-of-expatriates-20200606-10.md"
+  },
+  {
+   "slug": "the-evolutionary-mystery-of-lenski-s-experiment-20200711-4",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "ലൈലസക്കി പരീക്ഷണത്തിന്റെ പരിണാമമൂല്ലി",
+   "summary": "റിച്ചാർഡ് ലെൻസ്കിയുടെ ബാക്ടീരിയ പരീക്ഷണത്തെയും പരിണാമവാദത്തെയും കുറിച്ചുള്ള വിമർശനാത്മക പഠനമാണിത്. ശാസ്ത്രീയ പരീക്ഷണങ്ങളുടെ രീതിശാസ്ത്രത്തെയും അതിനെ ചുറ്റിപ്പറ്റിയുള്ള വാദപ്രതിവാദങ്ങളെയും ലേഖകൻ പരിശോധിക്കുന്നു.",
+   "author": "അലി ചെമ്മാട്",
+   "issue_date": "2020-07-11",
+   "html_url": "/ml/opinion/the-evolutionary-mystery-of-lenski-s-experiment-20200711-4.html",
+   "md_url": "/ml/opinion/the-evolutionary-mystery-of-lenski-s-experiment-20200711-4.md"
   },
   {
    "slug": "the-government-that-promotes-liquor-sales-while-ignoring-alc-20190727-1",
@@ -23641,6 +23707,17 @@
    "md_url": "/ml/quran/mulk-sovereignty-20200215-10.md"
   },
   {
+   "slug": "munafiqun-hypocrites-20200711-7",
+   "lang": "ml",
+   "category": "quran",
+   "title": "മുന്നാദിവുൻ (കപടവിശ്വാസികൾ)",
+   "summary": "വിശുദ്ധ ഖുർആനിലെ കപടവിശ്വാസികളെക്കുറിച്ചുള്ള സൂക്തങ്ങളുടെ തഫ്‌സീർ. മദീനയിലെ സാമൂഹിക സാഹചര്യത്തിൽ കപടവിശ്വാസികളെ തിരിച്ചറിയാനും അവരിൽ നിന്ന് ജാഗ്രത പാലിക്കാനുമുള്ള നിർദ്ദേശങ്ങൾ ഇതിൽ ഉൾക്കൊള്ളുന്നു.",
+   "author": "അണ്ണാറ്റുമാൻ നാസിർ അസ്സൻദി",
+   "issue_date": "2020-07-11",
+   "html_url": "/ml/quran/munafiqun-hypocrites-20200711-7.html",
+   "md_url": "/ml/quran/munafiqun-hypocrites-20200711-7.md"
+  },
+  {
    "slug": "naskh-what-do-the-sources-say-20191228-3",
    "lang": "ml",
    "category": "quran",
@@ -24387,6 +24464,17 @@
    "issue_date": "2026-08-22",
    "html_url": "/ml/quran/universal-calls-in-the-quran-19-truth-falsehood-and-human-fr-20260822-3.html",
    "md_url": "/ml/quran/universal-calls-in-the-quran-19-truth-falsehood-and-human-fr-20260822-3.md"
+  },
+  {
+   "slug": "universe-in-quranic-perspective-20200711-2",
+   "lang": "ml",
+   "category": "quran",
+   "title": "പ്രപഞ്ച പന്തം കുർആനിക പരീക്ഷകത്തിൽ",
+   "summary": "പ്രപഞ്ചോൽപ്പത്തിയെക്കുറിച്ചുള്ള ശാസ്ത്രീയ നിഗമനങ്ങളെ വിശുദ്ധ ഖുർആനിലെ വചനങ്ങളുമായി താരതമ്യം ചെയ്യുന്ന ലേഖനമാണിത്. ബിഗ് ബാങ് സിദ്ധാന്തവും ഖുർആനിക പരാമർശങ്ങളും തമ്മിലുള്ള പൊരുത്തങ്ങൾ ഇവിടെ വിശകലനം ചെയ്യുന്നു.",
+   "author": "ജോ. ജൂസൽ",
+   "issue_date": "2020-07-11",
+   "html_url": "/ml/quran/universe-in-quranic-perspective-20200711-2.html",
+   "md_url": "/ml/quran/universe-in-quranic-perspective-20200711-2.md"
   },
   {
    "slug": "what-quran-says-about-itself-20191123-5",
