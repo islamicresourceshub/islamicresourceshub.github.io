@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-05T15:09:22.893067+00:00",
+ "generated_at": "2026-09-05T15:09:52.621060+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3871,
+ "count": 3872,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -29711,6 +29711,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/ne/quran/what-to-beware-of-when-taking-sides-20170128-7.html",
    "md_url": "/ne/quran/what-to-beware-of-when-taking-sides-20170128-7.md"
+  },
+  {
+   "slug": "can-prophethood-be-attained-by-desire-20170218-1",
+   "lang": "ne",
+   "category": "seerah",
+   "title": "के नबी हुनु इच्छाले मात्र सम्भव छ?",
+   "summary": "यो लेखले प्रष्ट पार्छ कि नबुव्वत (नबी हुनु) अल्लाहको विशेष अनुग्रह हो, जुन कसैले चाहेर वा प्रयास गरेर प्राप्त गर्न सकिँदैन। यसमा नबीहरूको पदवी र उनीहरूको नियुक्तिको इस्लामिक दृष्टिकोणबारे चर्चा गरिएको छ।",
+   "author": "ഹുസൈന്‍ സലഫി, ഷാര്‍ജ",
+   "issue_date": "2017-02-18",
+   "html_url": "/ne/seerah/can-prophethood-be-attained-by-desire-20170218-1.html",
+   "md_url": "/ne/seerah/can-prophethood-be-attained-by-desire-20170218-1.md"
   },
   {
    "slug": "ibn-abbas-ra-a-scholar-of-knowledge-20170211-4",
