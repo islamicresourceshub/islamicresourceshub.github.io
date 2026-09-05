@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-05T15:08:03.883339+00:00",
+ "generated_at": "2026-09-05T15:08:31.202311+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3869,
+ "count": 3870,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -28248,6 +28248,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/mr/quran/what-to-beware-of-when-taking-sides-20170128-7.html",
    "md_url": "/mr/quran/what-to-beware-of-when-taking-sides-20170128-7.md"
+  },
+  {
+   "slug": "can-prophethood-be-attained-by-desire-20170218-1",
+   "lang": "mr",
+   "category": "seerah",
+   "title": "प्रവാचकत्व (नबुव्वत) काय इच्छेने मिळते?",
+   "summary": "प्रവാचकत्व ही अल्लाहची एक विशेष देणगी आहे, जी केवळ इच्छा करून किंवा प्रयत्न करून प्राप्त करता येत नाही. या लेखात प्रവാचकांचे स्थान आणि त्यांच्या नियुक्तीबाबतची इस्लामिक दृष्टीकोन स्पष्ट करण्यात आला आहे.",
+   "author": "ഹുസൈന്‍ സലഫി, ഷാര്‍ജ",
+   "issue_date": "2017-02-18",
+   "html_url": "/mr/seerah/can-prophethood-be-attained-by-desire-20170218-1.html",
+   "md_url": "/mr/seerah/can-prophethood-be-attained-by-desire-20170218-1.md"
   },
   {
    "slug": "ibn-abbas-ra-a-scholar-of-knowledge-20170211-4",
