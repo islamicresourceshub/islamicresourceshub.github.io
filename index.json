@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-05T15:07:18.067337+00:00",
+ "generated_at": "2026-09-05T15:07:38.663282+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3867,
+ "count": 3868,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -12529,6 +12529,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/kn/quran/what-to-beware-of-when-taking-sides-20170128-7.html",
    "md_url": "/kn/quran/what-to-beware-of-when-taking-sides-20170128-7.md"
+  },
+  {
+   "slug": "can-prophethood-be-attained-by-desire-20170218-1",
+   "lang": "kn",
+   "category": "seerah",
+   "title": "ಪ್ರವಾದಿತ್ವವನ್ನು ಆಶಿಸಿದರೆ ಪಡೆಯಲು ಸಾಧ್ಯವೇ?",
+   "summary": "ಪ್ರವಾದಿತ್ವವು ಕೇವಲ ಅಲ್ಲಾಹನ ವಿಶೇಷ ಅನುಗ್ರಹವಾಗಿದ್ದು, ಅದನ್ನು ಯಾರೂ ಆಸೆ ಪಟ್ಟರೆ ಅಥವಾ ಪ್ರಯತ್ನಿಸಿದರೆ ಪಡೆಯಲು ಸಾಧ್ಯವಿಲ್ಲ ಎಂದು ಈ ಲೇಖನವು ವಿವರಿಸುತ್ತದೆ. ಪ್ರವಾದಿಗಳ ಸ್ಥಾನಮಾನ ಮತ್ತು ಅವರ ನಿಯೋಜನೆಯ ಕುರಿತಾದ ಇಸ್ಲಾಮೀ ದೃಷ್ಟಿಕೋನವನ್ನು ಇಲ್ಲಿ ಚರ್ಚಿಸಲಾಗಿದೆ.",
+   "author": "ഹുസൈന്‍ സലഫി, ഷാര്‍ജ",
+   "issue_date": "2017-02-18",
+   "html_url": "/kn/seerah/can-prophethood-be-attained-by-desire-20170218-1.html",
+   "md_url": "/kn/seerah/can-prophethood-be-attained-by-desire-20170218-1.md"
   },
   {
    "slug": "ibn-abbas-ra-a-scholar-of-knowledge-20170211-4",
