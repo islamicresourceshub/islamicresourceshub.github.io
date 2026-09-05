@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-05T15:14:56.721355+00:00",
+ "generated_at": "2026-09-05T15:15:28.638296+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3881,
+ "count": 3882,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -36971,6 +36971,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/ta/quran/what-to-beware-of-when-taking-sides-20170128-7.html",
    "md_url": "/ta/quran/what-to-beware-of-when-taking-sides-20170128-7.md"
+  },
+  {
+   "slug": "can-prophethood-be-attained-by-desire-20170218-1",
+   "lang": "ta",
+   "category": "seerah",
+   "title": "நபித்துவம் என்பது ஆசைப்பட்டால் கிடைக்குமா?",
+   "summary": "நபித்துவம் என்பது இறைவனின் தனிச்சிறப்புமிக்க அருட்கொடையாகும் என்றும், அது யாராவது ஆசைப்பட்டாலோ அல்லது முயற்சி செய்தாலோ கிடைக்கக்கூடிய ஒன்றல்ல என்றும் இக்கட்டுரை விளக்குகிறது. நபிமார்களின் அந்தஸ்து மற்றும் அவர்களின் வருகை குறித்த இஸ்லாமிய பார்வையை இது விவாதிக்கிறது.",
+   "author": "ഹുസൈന്‍ സലഫി, ഷാര്‍ജ",
+   "issue_date": "2017-02-18",
+   "html_url": "/ta/seerah/can-prophethood-be-attained-by-desire-20170218-1.html",
+   "md_url": "/ta/seerah/can-prophethood-be-attained-by-desire-20170218-1.md"
   },
   {
    "slug": "ibn-abbas-ra-a-scholar-of-knowledge-20170211-4",
