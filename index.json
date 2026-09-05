@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-05T14:11:40.021882+00:00",
+ "generated_at": "2026-09-05T14:12:50.346044+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3848,
+ "count": 3849,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -4466,6 +4466,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/de/quran/what-to-beware-of-when-taking-sides-20170128-7.html",
    "md_url": "/de/quran/what-to-beware-of-when-taking-sides-20170128-7.md"
+  },
+  {
+   "slug": "can-prophethood-be-attained-by-desire-20170218-1",
+   "lang": "de",
+   "category": "seerah",
+   "title": "Kann man das Prophetentum durch Wunsch erlangen?",
+   "summary": "Das Prophetentum ist eine besondere Gnade Allahs und kann weder durch Wunsch noch durch Anstrengung erlangt werden, so der Artikel. Die islamische Sichtweise auf den Status der Propheten und ihre Entsendung wird hier diskutiert.",
+   "author": "ഹുസൈന്‍ സലഫി, ഷാര്‍ജ",
+   "issue_date": "2017-02-18",
+   "html_url": "/de/seerah/can-prophethood-be-attained-by-desire-20170218-1.html",
+   "md_url": "/de/seerah/can-prophethood-be-attained-by-desire-20170218-1.md"
   },
   {
    "slug": "ibn-abbas-ra-a-scholar-of-knowledge-20170211-4",
