@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-05T01:59:12.267814+00:00",
+ "generated_at": "2026-09-05T14:08:30.163272+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3846,
+ "count": 3847,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -2992,6 +2992,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/bn/quran/what-to-beware-of-when-taking-sides-20170128-7.html",
    "md_url": "/bn/quran/what-to-beware-of-when-taking-sides-20170128-7.md"
+  },
+  {
+   "slug": "can-prophethood-be-attained-by-desire-20170218-1",
+   "lang": "bn",
+   "category": "seerah",
+   "title": "আকাঙ্ক্ষা করলেই কি নবুওয়াত পাওয়া যায়?",
+   "summary": "নবুওয়াত আল্লাহর এক বিশেষ অনুগ্রহ এবং এটি আকাঙ্ক্ষা বা প্রচেষ্টার মাধ্যমে লাভ করা যায় না, এই নিবন্ধে তা স্পষ্ট করা হয়েছে। এখানে নবীদের মর্যাদা এবং তাঁদের নিয়োগ সম্পর্কে ইসলামিক দৃষ্টিভঙ্গি আলোচনা করা হয়েছে।",
+   "author": "ഹുസൈന്‍ സലഫി, ഷാര്‍ജ",
+   "issue_date": "2017-02-18",
+   "html_url": "/bn/seerah/can-prophethood-be-attained-by-desire-20170218-1.html",
+   "md_url": "/bn/seerah/can-prophethood-be-attained-by-desire-20170218-1.md"
   },
   {
    "slug": "ibn-abbas-ra-a-scholar-of-knowledge-20170211-4",
