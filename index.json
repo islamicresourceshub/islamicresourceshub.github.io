@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-05T15:14:23.559740+00:00",
+ "generated_at": "2026-09-05T15:14:56.721355+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3880,
+ "count": 3881,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -36278,6 +36278,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/sw/quran/what-to-beware-of-when-taking-sides-20170128-7.html",
    "md_url": "/sw/quran/what-to-beware-of-when-taking-sides-20170128-7.md"
+  },
+  {
+   "slug": "can-prophethood-be-attained-by-desire-20170218-1",
+   "lang": "sw",
+   "category": "seerah",
+   "title": "Je, Utume Unaweza Kupatikana kwa Kutamani?",
+   "summary": "Makala haya yanaeleza kuwa utume ni neema ya kipekee kutoka kwa Mwenyezi Mungu, ambayo haiwezi kupatikana kwa kutamani au kwa juhudi za kibinafsi. Inajadili mtazamo wa Kiislamu kuhusu hadhi ya manabii na kusudi la kutumwa kwao.",
+   "author": "ഹുസൈന്‍ സലഫി, ഷാര്‍ജ",
+   "issue_date": "2017-02-18",
+   "html_url": "/sw/seerah/can-prophethood-be-attained-by-desire-20170218-1.html",
+   "md_url": "/sw/seerah/can-prophethood-be-attained-by-desire-20170218-1.md"
   },
   {
    "slug": "ibn-abbas-ra-a-scholar-of-knowledge-20170211-4",
