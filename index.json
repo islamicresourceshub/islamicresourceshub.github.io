@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-05T15:19:12.629277+00:00",
+ "generated_at": "2026-09-05T15:19:33.157616+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3889,
+ "count": 3899,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -13829,6 +13829,17 @@
    "md_url": "/ml/aqeedah/fear-only-me-20200509-5.md"
   },
   {
+   "slug": "forgiveness-20200718-7",
+   "lang": "ml",
+   "category": "aqeedah",
+   "title": "വിട്ടുവിഴ്ച",
+   "summary": "വിട്ടുവീഴ്ച ചെയ്യുക എന്നത് ഇസ്‌ലാം പ്രോത്സാഹിപ്പിക്കുന്ന ഉത്തമ സ്വഭാവമാണെന്ന് ലേഖകൻ വിശദീകരിക്കുന്നു. ഖുർആൻ വചനങ്ങളുടെയും പ്രവാചക വചനങ്ങളുടെയും അടിസ്ഥാനത്തിൽ മാപ്പുകൊടുക്കുന്നതിന്റെ മഹത്വം ലേഖനം വ്യക്തമാക്കുന്നു.",
+   "author": "അബ്ദുൽ ജബ്ബാർ മദീനി",
+   "issue_date": "2020-07-18",
+   "html_url": "/ml/aqeedah/forgiveness-20200718-7.html",
+   "md_url": "/ml/aqeedah/forgiveness-20200718-7.md"
+  },
+  {
    "slug": "four-rules-20180602-7",
    "lang": "ml",
    "category": "aqeedah",
@@ -15655,6 +15666,17 @@
    "md_url": "/ml/dawah/is-the-mobile-phone-meant-for-cheating-20190216-7.md"
   },
   {
+   "slug": "islam-and-conservation-of-plant-life-20200718-4",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "ഇസ്‌ലാമും സസ്യലോക സംരക്ഷണവും",
+   "summary": "സസ്യലോകത്തെ സംരക്ഷിക്കേണ്ടതിന്റെ പ്രാധാന്യത്തെക്കുറിച്ച് ഇസ്‌ലാമിക കാഴ്ചപ്പാടിൽ ലേഖനം വിവരിക്കുന്നു. പരിസ്ഥിതി സംരക്ഷണം വിശ്വാസിയുടെ ബാധ്യതയാണെന്നും, പ്രകൃതി വിഭവങ്ങൾ ദുർവ്യയം ചെയ്യരുതെന്നും ലേഖകൻ ഓർമ്മിപ്പിക്കുന്നു.",
+   "author": "ശൈഖ് മുഹമ്മദ് സ്വാദിഖ് മുഹമ്മദ്",
+   "issue_date": "2020-07-18",
+   "html_url": "/ml/dawah/islam-and-conservation-of-plant-life-20200718-4.html",
+   "md_url": "/ml/dawah/islam-and-conservation-of-plant-life-20200718-4.md"
+  },
+  {
    "slug": "islam-and-environmental-protection-20200711-1",
    "lang": "ml",
    "category": "dawah",
@@ -15741,6 +15763,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/ml/dawah/jallikattu-and-the-islamic-approach-to-animals-20170128-4.html",
    "md_url": "/ml/dawah/jallikattu-and-the-islamic-approach-to-animals-20170128-4.md"
+  },
+  {
+   "slug": "knowledge-bestows-dignity-and-joy-20200718-6",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "അന്തസ്സും ആനന്ദവും പകരുന്നതാണ് അറിവ്",
+   "summary": "അറിവ് നേടുന്നത് ഒരു വിശ്വാസിയുടെ അന്തസ്സും ആനന്ദവും വർദ്ധിപ്പിക്കുമെന്ന് ലേഖകൻ സമർത്ഥിക്കുന്നു. ഭൗതിക വിജ്ഞാനത്തോടൊപ്പം ആത്മീയ വിജ്ഞാനത്തിന്റെ പ്രാധാന്യവും ലേഖനത്തിൽ ഊന്നിപ്പറയുന്നു.",
+   "author": "സയ്യിദ് അബ്ദുറഹ്മാൻ കുവൈത്ത്",
+   "issue_date": "2020-07-18",
+   "html_url": "/ml/dawah/knowledge-bestows-dignity-and-joy-20200718-6.html",
+   "md_url": "/ml/dawah/knowledge-bestows-dignity-and-joy-20200718-6.md"
   },
   {
    "slug": "leadership-is-not-an-ornament-20191019-7",
@@ -18724,6 +18757,17 @@
    "md_url": "/ml/fiqh/is-organizing-eidgah-against-the-sunnah-20190914-3.md"
   },
   {
+   "slug": "islam-and-sacrifice-20200718-3",
+   "lang": "ml",
+   "category": "fiqh",
+   "title": "ഇസ്‌ലാമും ബലികർമ്മവും",
+   "summary": "ബലികർമ്മം അല്ലാഹുവിന് മാത്രമുള്ള ആരാധനയാണെന്നും, അല്ലാഹു അല്ലാത്തവരുടെ പേരിൽ നടത്തുന്ന ബലികൾ ഇസ്‌ലാമിൽ നിഷിദ്ധമാണെന്നും ലേഖകൻ വിശദീകരിക്കുന്നു. ബലികർമ്മത്തിന്റെ ഇസ്‌ലാമിക മാനങ്ങളും ചരിത്രപരമായ പശ്ചാത്തലവും ഇതിൽ പ്രതിപാദിക്കുന്നു.",
+   "author": "മെഹബൂബ് മദനി ഒപ്പാലം",
+   "issue_date": "2020-07-18",
+   "html_url": "/ml/fiqh/islam-and-sacrifice-20200718-3.html",
+   "md_url": "/ml/fiqh/islam-and-sacrifice-20200718-3.md"
+  },
+  {
    "slug": "islamic-guidelines-in-healthcare-20200411-2",
    "lang": "ml",
    "category": "fiqh",
@@ -20781,6 +20825,17 @@
    "md_url": "/ml/opinion/casteism-some-contemporary-thoughts-20191221-5.md"
   },
   {
+   "slug": "cbse-cutting-the-roots-20200718-2",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "തായ്‌വേര് മുറിച്ചുമാറ്റുന്ന സി.ബി.എസ്.ഇ",
+   "summary": "സി.ബി.എസ്.ഇ സിലബസിൽ നിന്ന് ഫെഡറലിസം, പൗരത്വം തുടങ്ങിയ പാഠഭാഗങ്ങൾ ഒഴിവാക്കിയതിനെതിരെ രൂക്ഷമായ വിമർശനമാണ് മുഖലേഖനം ഉന്നയിക്കുന്നത്. ഭരണഘടനയുടെ അടിസ്ഥാന തത്വങ്ങളെ തകർക്കാനുള്ള നീക്കമാണിതെന്ന് ലേഖനം വാദിക്കുന്നു.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2020-07-18",
+   "html_url": "/ml/opinion/cbse-cutting-the-roots-20200718-2.html",
+   "md_url": "/ml/opinion/cbse-cutting-the-roots-20200718-2.md"
+  },
+  {
    "slug": "challenges-posed-by-pseudo-nationalism-20170204-4",
    "lang": "ml",
    "category": "opinion",
@@ -21087,6 +21142,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/ml/opinion/elections-the-stand-must-be-well-considered-20170325-10.html",
    "md_url": "/ml/opinion/elections-the-stand-must-be-well-considered-20170325-10.md"
+  },
+  {
+   "slug": "employment-education-opportunities-offered-by-the-corona-per-20200718-1",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "തൊഴിൽ, വിദ്യാഭ്യാസം: കൊറോണക്കാലം മലയാളികൾക്ക് സമ്മാനിക്കുന്ന അവസരങ്ങൾ",
+   "summary": "കൊറോണക്കാലം സൃഷ്ടിച്ച പ്രതിസന്ധികളെ എങ്ങനെ ക്രിയാത്മകമായി ഉപയോഗപ്പെടുത്താമെന്നും, തൊഴിൽ-വിദ്യാഭ്യാസ മേഖലകളിൽ വരുത്തേണ്ട മാറ്റങ്ങളെക്കുറിച്ചും ലേഖകൻ ചർച്ച ചെയ്യുന്നു. പ്രവാസികളുടെ മടക്കവും കേരളത്തിലെ വിദ്യാഭ്യാസ രംഗത്തെ അപാകതകളും പരിഹരിക്കാനുള്ള നിർദ്ദേശങ്ങൾ ഇതിൽ ഉൾപ്പെടുന്നു.",
+   "author": "നബീൽ പയ്യോളി",
+   "issue_date": "2020-07-18",
+   "html_url": "/ml/opinion/employment-education-opportunities-offered-by-the-corona-per-20200718-1.html",
+   "md_url": "/ml/opinion/employment-education-opportunities-offered-by-the-corona-per-20200718-1.md"
   },
   {
    "slug": "ethics-in-journalism-20190615-1",
@@ -23487,6 +23553,17 @@
    "md_url": "/ml/quran/conclusion-history-of-quran-translation-in-malayalam-20181117-6.md"
   },
   {
+   "slug": "creation-of-the-universe-in-quran-20200718-9",
+   "lang": "ml",
+   "category": "quran",
+   "title": "പ്രപഞ്ച സൃഷ്ടിപ്പ് ഖുർആനിൽ",
+   "summary": "പ്രപഞ്ചത്തിന്റെ ഉത്ഭവത്തെയും അന്ത്യത്തെയും കുറിച്ചുള്ള ശാസ്ത്രീയ നിഗമനങ്ങളെ ഖുർആൻ വചനങ്ങളുമായി താരതമ്യം ചെയ്യുന്നു. ബിഗ് ബാംഗ്, പ്രപഞ്ച വികാസം തുടങ്ങിയ വിഷയങ്ങളിൽ ഖുർആൻ നൽകുന്ന സൂചനകൾ ലേഖകൻ ചർച്ച ചെയ്യുന്നു.",
+   "author": "ഡോ. ജാസൽ",
+   "issue_date": "2020-07-18",
+   "html_url": "/ml/quran/creation-of-the-universe-in-quran-20200718-9.html",
+   "md_url": "/ml/quran/creation-of-the-universe-in-quran-20200718-9.md"
+  },
+  {
    "slug": "divine-signs-in-raindrops-20180623-2",
    "lang": "ml",
    "category": "quran",
@@ -23738,6 +23815,17 @@
    "issue_date": "2020-07-11",
    "html_url": "/ml/quran/munafiqun-hypocrites-20200711-7.html",
    "md_url": "/ml/quran/munafiqun-hypocrites-20200711-7.md"
+  },
+  {
+   "slug": "munafiqun-the-hypocrites-20200718-8",
+   "lang": "ml",
+   "category": "quran",
+   "title": "മുനാഫിഖൂൻ",
+   "summary": "വിശുദ്ധ ഖുർആനിലെ മുനാഫിഖൂൻ അധ്യായത്തിന്റെ വ്യാഖ്യാനം. കപടവിശ്വാസികളുടെ സ്വഭാവങ്ങളെയും അവരുടെ പ്രവർത്തനങ്ങളെയും ഖുർആൻ എങ്ങനെ വിലയിരുത്തുന്നു എന്ന് ഈ ഭാഗം വിശദീകരിക്കുന്നു.",
+   "author": "അബ്ദുറഹ്മാൻ നാസിർ അസ്സഅദി",
+   "issue_date": "2020-07-18",
+   "html_url": "/ml/quran/munafiqun-the-hypocrites-20200718-8.html",
+   "md_url": "/ml/quran/munafiqun-the-hypocrites-20200718-8.md"
   },
   {
    "slug": "naskh-what-do-the-sources-say-20191228-3",
@@ -25522,6 +25610,17 @@
    "md_url": "/ml/seerah/the-consequences-of-disobedience-20191012-2.md"
   },
   {
+   "slug": "the-construction-of-kaaba-and-prophet-ibrahim-20200718-5",
+   "lang": "ml",
+   "category": "seerah",
+   "title": "കഅ്ബ നിർമ്മാണവും ഇബ്‌റാഹീം നബിയും",
+   "summary": "ഇബ്‌റാഹീം നബിയും മകൻ ഇസ്മാഈലും ചേർന്ന് കഅ്ബ നിർമ്മിച്ച ചരിത്രവും അതിന്റെ പ്രാധാന്യവും ലേഖനം വിവരിക്കുന്നു. കഅ്ബയുടെ നിർമ്മാണം മാനവരാശിയുടെ ചരിത്രത്തിലെ സുപ്രധാന സംഭവമാണെന്ന് ലേഖകൻ വ്യക്തമാക്കുന്നു.",
+   "author": "അബൂഫായിദ",
+   "issue_date": "2020-07-18",
+   "html_url": "/ml/seerah/the-construction-of-kaaba-and-prophet-ibrahim-20200718-5.html",
+   "md_url": "/ml/seerah/the-construction-of-kaaba-and-prophet-ibrahim-20200718-5.md"
+  },
+  {
    "slug": "the-construction-of-masjid-an-nabawi-20190601-5",
    "lang": "ml",
    "category": "seerah",
@@ -27247,6 +27346,17 @@
    "issue_date": "2020-02-01",
    "html_url": "/ml/story/this-is-the-land-we-were-born-in-20200201-6.html",
    "md_url": "/ml/story/this-is-the-land-we-were-born-in-20200201-6.md"
+  },
+  {
+   "slug": "those-swimming-in-the-river-of-sorrow-20200718-10",
+   "lang": "ml",
+   "category": "story",
+   "title": "സകടപ്പുഴയിൽ നീന്തുന്നവർ",
+   "summary": "ജീവിതത്തിലെ സങ്കടങ്ങളെയും നഷ്ടങ്ങളെയും കുറിച്ചുള്ള ഒരു ഹൃദയസ്പർശിയായ കുറിപ്പ്. കോവിഡ് കാലത്തെ ഭീതിയും ആശങ്കകളും മനുഷ്യജീവിതത്തെ എങ്ങനെ ബാധിക്കുന്നു എന്ന് ലേഖകൻ വിവരിക്കുന്നു.",
+   "author": "വി.ടി അബ്ദുസ്സലാം",
+   "issue_date": "2020-07-18",
+   "html_url": "/ml/story/those-swimming-in-the-river-of-sorrow-20200718-10.html",
+   "md_url": "/ml/story/those-swimming-in-the-river-of-sorrow-20200718-10.md"
   },
   {
    "slug": "those-who-hate-sweat-20191123-12",
