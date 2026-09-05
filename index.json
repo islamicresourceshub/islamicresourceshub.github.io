@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-05T01:41:07.279665+00:00",
+ "generated_at": "2026-09-05T01:59:12.267814+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3845,
+ "count": 3846,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -2266,6 +2266,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/as/quran/what-to-beware-of-when-taking-sides-20170128-7.html",
    "md_url": "/as/quran/what-to-beware-of-when-taking-sides-20170128-7.md"
+  },
+  {
+   "slug": "can-prophethood-be-attained-by-desire-20170218-1",
+   "lang": "as",
+   "category": "seerah",
+   "title": "ইচ্ছা কৰিলেই নবীত্ব লাভ কৰিব পাৰিনে?",
+   "summary": "এই প্ৰবন্ধটোত স্পষ্ট কৰা হৈছে যে নবীত্ব হৈছে আল্লাহৰ এক বিশেষ অনুগ্ৰহ আৰু ই কেৱল ইচ্ছা কৰিলে বা চেষ্টা কৰিলেই লাভ কৰিব নোৱাৰি। ইয়াত নবীসকলৰ মৰ্যাদা আৰু তেওঁলোকৰ প্ৰেৰণ সম্পৰ্কে ইছলামী দৃষ্টিভংগী আলোচনা কৰা হৈছে।",
+   "author": "ഹുസൈന്‍ സലഫി, ഷാര്‍ജ",
+   "issue_date": "2017-02-18",
+   "html_url": "/as/seerah/can-prophethood-be-attained-by-desire-20170218-1.html",
+   "md_url": "/as/seerah/can-prophethood-be-attained-by-desire-20170218-1.md"
   },
   {
    "slug": "ibn-abbas-ra-a-scholar-of-knowledge-20170211-4",
