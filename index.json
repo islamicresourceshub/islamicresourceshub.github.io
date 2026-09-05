@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-05T15:10:24.655741+00:00",
+ "generated_at": "2026-09-05T15:11:03.214366+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3873,
+ "count": 3874,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -31174,6 +31174,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/pa/quran/what-to-beware-of-when-taking-sides-20170128-7.html",
    "md_url": "/pa/quran/what-to-beware-of-when-taking-sides-20170128-7.md"
+  },
+  {
+   "slug": "can-prophethood-be-attained-by-desire-20170218-1",
+   "lang": "pa",
+   "category": "seerah",
+   "title": "ਕੀ ਇੱਛਾ ਕਰਨ ਨਾਲ ਨਬੀ ਬਣਿਆ ਜਾ ਸਕਦਾ ਹੈ?",
+   "summary": "ਇਹ ਲੇਖ ਸਪੱਸ਼ਟ ਕਰਦਾ ਹੈ ਕਿ ਨਬੀ ਦਾ ਅਹੁਦਾ ਅੱਲ੍ਹਾ ਦੀ ਇੱਕ ਵਿਸ਼ੇਸ਼ ਬਖਸ਼ਿਸ਼ ਹੈ, ਜੋ ਕਿਸੇ ਦੀ ਇੱਛਾ ਜਾਂ ਕੋਸ਼ਿਸ਼ ਨਾਲ ਪ੍ਰਾਪਤ ਨਹੀਂ ਕੀਤੀ ਜਾ ਸਕਦੀ। ਇੱਥੇ ਨਬੀਆਂ ਦੇ ਰੁਤਬੇ ਅਤੇ ਉਨ੍ਹਾਂ ਦੀ ਨਿਯੁਕਤੀ ਬਾਰੇ ਇਸਲਾਮੀ ਨਜ਼ਰੀਏ ਦੀ ਚਰਚਾ ਕੀਤੀ ਗਈ ਹੈ।",
+   "author": "ഹുസൈന്‍ സലഫി, ഷാര്‍ജ",
+   "issue_date": "2017-02-18",
+   "html_url": "/pa/seerah/can-prophethood-be-attained-by-desire-20170218-1.html",
+   "md_url": "/pa/seerah/can-prophethood-be-attained-by-desire-20170218-1.md"
   },
   {
    "slug": "ibn-abbas-ra-a-scholar-of-knowledge-20170211-4",
