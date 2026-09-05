@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-05T15:19:33.157616+00:00",
+ "generated_at": "2026-09-05T15:20:01.462818+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3899,
+ "count": 3900,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -42966,6 +42966,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/zh/quran/what-to-beware-of-when-taking-sides-20170128-7.html",
    "md_url": "/zh/quran/what-to-beware-of-when-taking-sides-20170128-7.md"
+  },
+  {
+   "slug": "can-prophethood-be-attained-by-desire-20170218-1",
+   "lang": "zh",
+   "category": "seerah",
+   "title": "先知身份可以通过渴望获得吗？",
+   "summary": "本文阐明了先知身份是真主给予的特殊恩典，并非通过个人的渴望或努力所能获得。文章探讨了伊斯兰教关于先知地位及其使命的观点。",
+   "author": "ഹുസൈന്‍ സലഫി, ഷാര്‍ജ",
+   "issue_date": "2017-02-18",
+   "html_url": "/zh/seerah/can-prophethood-be-attained-by-desire-20170218-1.html",
+   "md_url": "/zh/seerah/can-prophethood-be-attained-by-desire-20170218-1.md"
   },
   {
    "slug": "ibn-abbas-ra-a-scholar-of-knowledge-20170211-4",
