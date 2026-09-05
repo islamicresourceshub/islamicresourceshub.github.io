@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-05T15:17:00.244511+00:00",
+ "generated_at": "2026-09-05T15:17:30.104685+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3885,
+ "count": 3886,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -39908,6 +39908,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/tr/quran/what-to-beware-of-when-taking-sides-20170128-7.html",
    "md_url": "/tr/quran/what-to-beware-of-when-taking-sides-20170128-7.md"
+  },
+  {
+   "slug": "can-prophethood-be-attained-by-desire-20170218-1",
+   "lang": "tr",
+   "category": "seerah",
+   "title": "Peygamberlik İstekle Elde Edilebilir mi?",
+   "summary": "Bu makale, peygamberliğin Allah'ın özel bir lütfu olduğunu, kişinin kendi isteği veya çabasıyla elde edilemeyeceğini açıklamaktadır. Peygamberlerin makamı ve gönderiliş amaçları hakkındaki İslami bakış açısı ele alınmaktadır.",
+   "author": "ഹുസൈന്‍ സലഫി, ഷാര്‍ജ",
+   "issue_date": "2017-02-18",
+   "html_url": "/tr/seerah/can-prophethood-be-attained-by-desire-20170218-1.html",
+   "md_url": "/tr/seerah/can-prophethood-be-attained-by-desire-20170218-1.md"
   },
   {
    "slug": "ibn-abbas-ra-a-scholar-of-knowledge-20170211-4",
