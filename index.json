@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-05T15:05:35.405466+00:00",
+ "generated_at": "2026-09-05T15:06:02.095674+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3856,
+ "count": 3857,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -10318,6 +10318,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/id/quran/what-to-beware-of-when-taking-sides-20170128-7.html",
    "md_url": "/id/quran/what-to-beware-of-when-taking-sides-20170128-7.md"
+  },
+  {
+   "slug": "can-prophethood-be-attained-by-desire-20170218-1",
+   "lang": "id",
+   "category": "seerah",
+   "title": "Bisakah Kenabian Dicapai dengan Keinginan?",
+   "summary": "Artikel ini menjelaskan bahwa kenabian adalah anugerah khusus dari Allah yang tidak bisa diperoleh hanya dengan keinginan atau usaha manusia. Tulisan ini juga membahas pandangan Islam mengenai kedudukan para nabi dan tujuan pengutusan mereka.",
+   "author": "ഹുസൈന്‍ സലഫി, ഷാര്‍ജ",
+   "issue_date": "2017-02-18",
+   "html_url": "/id/seerah/can-prophethood-be-attained-by-desire-20170218-1.html",
+   "md_url": "/id/seerah/can-prophethood-be-attained-by-desire-20170218-1.md"
   },
   {
    "slug": "ibn-abbas-ra-a-scholar-of-knowledge-20170211-4",
