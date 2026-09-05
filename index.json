@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-05T15:04:30.625753+00:00",
+ "generated_at": "2026-09-05T15:05:05.732361+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3854,
+ "count": 3855,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -8866,6 +8866,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/ha/quran/what-to-beware-of-when-taking-sides-20170128-7.html",
    "md_url": "/ha/quran/what-to-beware-of-when-taking-sides-20170128-7.md"
+  },
+  {
+   "slug": "can-prophethood-be-attained-by-desire-20170218-1",
+   "lang": "ha",
+   "category": "seerah",
+   "title": "Shin za a iya samun matsayin annabta ta hanyar buri?",
+   "summary": "Wannan makala tana bayyana cewa annabta kyauta ce ta musamman daga Allah, kuma ba za a iya samunta ta hanyar buri ko kokari ba. Tana tattauna mahangar Musulunci game da matsayin annabawa da kuma manufar aiko su.",
+   "author": "ഹുസൈന്‍ സലഫി, ഷാര്‍ജ",
+   "issue_date": "2017-02-18",
+   "html_url": "/ha/seerah/can-prophethood-be-attained-by-desire-20170218-1.html",
+   "md_url": "/ha/seerah/can-prophethood-be-attained-by-desire-20170218-1.md"
   },
   {
    "slug": "ibn-abbas-ra-a-scholar-of-knowledge-20170211-4",
