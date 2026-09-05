@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-05T15:12:27.006183+00:00",
+ "generated_at": "2026-09-05T15:13:01.290000+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3877,
+ "count": 3878,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -34111,6 +34111,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/si/quran/what-to-beware-of-when-taking-sides-20170128-7.html",
    "md_url": "/si/quran/what-to-beware-of-when-taking-sides-20170128-7.md"
+  },
+  {
+   "slug": "can-prophethood-be-attained-by-desire-20170218-1",
+   "lang": "si",
+   "category": "seerah",
+   "title": "ප්‍රාර්ථනා කළ පමණින් නබිවරයෙකු විය හැකිද?",
+   "summary": "නබිවරයෙකු වීම යනු අල්ලාහ් විසින් පිරිනමනු ලබන විශේෂිත වූ දායාදයක් බවත්, එය කිසිවෙකුටත් තමන්ගේ කැමැත්තෙන් හෝ උත්සාහයෙන් ලබාගත හැකි දෙයක් නොවන බවත් මෙම ලිපිය පැහැදිලි කරයි. නබිවරුන්ගේ උත්තරීතර තත්ත්වය සහ ඔවුන්ගේ පත්වීම පිළිබඳ ඉස්ලාමීය දෘෂ්ටිකෝණය මෙහි සාකච්ඡා කෙරේ.",
+   "author": "ഹുസൈന്‍ സലഫി, ഷാര്‍ജ",
+   "issue_date": "2017-02-18",
+   "html_url": "/si/seerah/can-prophethood-be-attained-by-desire-20170218-1.html",
+   "md_url": "/si/seerah/can-prophethood-be-attained-by-desire-20170218-1.md"
   },
   {
    "slug": "ibn-abbas-ra-a-scholar-of-knowledge-20170211-4",
