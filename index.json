@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-05T15:02:41.048299+00:00",
+ "generated_at": "2026-09-05T15:04:30.625753+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3853,
+ "count": 3854,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -8129,6 +8129,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/gu/quran/what-to-beware-of-when-taking-sides-20170128-7.html",
    "md_url": "/gu/quran/what-to-beware-of-when-taking-sides-20170128-7.md"
+  },
+  {
+   "slug": "can-prophethood-be-attained-by-desire-20170218-1",
+   "lang": "gu",
+   "category": "seerah",
+   "title": "શું ઈચ્છા કરવાથી પયગંબર પદ મળી શકે?",
+   "summary": "આ લેખ સ્પષ્ટ કરે છે કે પયગંબર પદ એ અલ્લાહની એક વિશેષ કૃપા છે અને તે કોઈની ઈચ્છા કે પ્રયત્નથી પ્રાપ્ત થતું નથી. અહીં પયગંબરોનો દરજ્જો અને તેમના નિયુક્તિ અંગેના ઈસ્લામિક દ્રષ્ટિકોણની ચર્ચા કરવામાં આવી છે.",
+   "author": "ഹുസൈന്‍ സലഫി, ഷാര്‍ജ",
+   "issue_date": "2017-02-18",
+   "html_url": "/gu/seerah/can-prophethood-be-attained-by-desire-20170218-1.html",
+   "md_url": "/gu/seerah/can-prophethood-be-attained-by-desire-20170218-1.md"
   },
   {
    "slug": "ibn-abbas-ra-a-scholar-of-knowledge-20170211-4",
