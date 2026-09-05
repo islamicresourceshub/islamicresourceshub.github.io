@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-05T15:15:58.228966+00:00",
+ "generated_at": "2026-09-05T15:16:31.211186+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3883,
+ "count": 3884,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -38434,6 +38434,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/th/quran/what-to-beware-of-when-taking-sides-20170128-7.html",
    "md_url": "/th/quran/what-to-beware-of-when-taking-sides-20170128-7.md"
+  },
+  {
+   "slug": "can-prophethood-be-attained-by-desire-20170218-1",
+   "lang": "th",
+   "category": "seerah",
+   "title": "ตำแหน่งนบี (ศาสดา) เป็นสิ่งที่ไขว่คว้าด้วยความปรารถนาได้หรือไม่?",
+   "summary": "บทความนี้อธิบายว่าตำแหน่งนบีเป็นความโปรดปรานพิเศษจากอัลลอฮ์ ซึ่งไม่สามารถได้รับมาด้วยความปรารถนาหรือความพยายามส่วนตัว พร้อมทั้งอภิปรายมุมมองของอิสลามเกี่ยวกับสถานะของบรรดานบีและภารกิจในการเผยแผ่สาส์นของพระองค์",
+   "author": "ഹുസൈന്‍ സലഫി, ഷാര്‍ജ",
+   "issue_date": "2017-02-18",
+   "html_url": "/th/seerah/can-prophethood-be-attained-by-desire-20170218-1.html",
+   "md_url": "/th/seerah/can-prophethood-be-attained-by-desire-20170218-1.md"
   },
   {
    "slug": "ibn-abbas-ra-a-scholar-of-knowledge-20170211-4",
