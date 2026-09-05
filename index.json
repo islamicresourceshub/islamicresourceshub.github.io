@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-05T15:05:05.732361+00:00",
+ "generated_at": "2026-09-05T15:05:35.405466+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3855,
+ "count": 3856,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -9592,6 +9592,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/hi/quran/what-to-beware-of-when-taking-sides-20170128-7.html",
    "md_url": "/hi/quran/what-to-beware-of-when-taking-sides-20170128-7.md"
+  },
+  {
+   "slug": "can-prophethood-be-attained-by-desire-20170218-1",
+   "lang": "hi",
+   "category": "seerah",
+   "title": "क्या चाहने से नबुव्वत (पैगंबरी) मिल सकती है?",
+   "summary": "यह लेख स्पष्ट करता है कि नबुव्वत अल्लाह का एक विशेष अनुग्रह है, जिसे केवल इच्छा या प्रयास से प्राप्त नहीं किया जा सकता। यहाँ पैगंबरों के पद और उनके चयन के पीछे के ईश्वरीय ज्ञान पर इस्लामी दृष्टिकोण की चर्चा की गई है।",
+   "author": "ഹുസൈന്‍ സലഫി, ഷാര്‍ജ",
+   "issue_date": "2017-02-18",
+   "html_url": "/hi/seerah/can-prophethood-be-attained-by-desire-20170218-1.html",
+   "md_url": "/hi/seerah/can-prophethood-be-attained-by-desire-20170218-1.md"
   },
   {
    "slug": "ibn-abbas-ra-a-scholar-of-knowledge-20170211-4",
