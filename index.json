@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-05T15:15:28.638296+00:00",
+ "generated_at": "2026-09-05T15:15:58.228966+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3882,
+ "count": 3883,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -37697,6 +37697,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/te/quran/what-to-beware-of-when-taking-sides-20170128-7.html",
    "md_url": "/te/quran/what-to-beware-of-when-taking-sides-20170128-7.md"
+  },
+  {
+   "slug": "can-prophethood-be-attained-by-desire-20170218-1",
+   "lang": "te",
+   "category": "seerah",
+   "title": "ప్రవక్త పదవిని కోరుకుంటే లభిస్తుందా?",
+   "summary": "ప్రవక్త పదవి అనేది అల్లాహ్ ఇచ్చే ప్రత్యేకమైన అనుగ్రహమని, అది ఎవరైనా కోరుకున్నంత మాత్రాన లేదా ప్రయత్నించినంత మాత్రాన లభించేది కాదని ఈ వ్యాసం వివరిస్తుంది. ప్రవక్తల హోదా మరియు వారి నియామకం పట్ల ఇస్లామీయ దృక్పథాన్ని ఇక్కడ చర్చిస్తున్నాము.",
+   "author": "ഹുസൈന്‍ സലഫി, ഷാര്‍ജ",
+   "issue_date": "2017-02-18",
+   "html_url": "/te/seerah/can-prophethood-be-attained-by-desire-20170218-1.html",
+   "md_url": "/te/seerah/can-prophethood-be-attained-by-desire-20170218-1.md"
   },
   {
    "slug": "ibn-abbas-ra-a-scholar-of-knowledge-20170211-4",
