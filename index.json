@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-05T15:20:01.462818+00:00",
+ "generated_at": "2026-09-05T15:20:33.297684+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3900,
+ "count": 3901,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -484,6 +484,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/am/family/husband-trapped-in-the-mobile-web-20170121-5.html",
    "md_url": "/am/family/husband-trapped-in-the-mobile-web-20170121-5.md"
+  },
+  {
+   "slug": "husband-who-encourages-breaking-family-ties-20170218-2",
+   "lang": "am",
+   "category": "family",
+   "title": "የቤተሰብ ግንኙነትን እንዲያቋርጥ የሚገፋፋ ባል",
+   "summary": "የባሏን ግትርነት በመፍራት ከገዛ ቤተሰቦቿ ጋር ግንኙነት እንድታቋርጥ የምትገደድ አንዲት ሴት ስላጋጠማት አስቸጋሪ ሁኔታ እና ለዚህ ችግር እስልምና የሚያቀርባቸው መፍትሄዎች በዚህ ጽሁፍ ይዳሰሳሉ። የቤተሰብ ትስስርን መጠበቅ ያለውን አስፈላጊነትም ያስታውሳል።",
+   "author": "ഹാരിസ്ബിൻ സലീം",
+   "issue_date": "2017-02-18",
+   "html_url": "/am/family/husband-who-encourages-breaking-family-ties-20170218-2.html",
+   "md_url": "/am/family/husband-who-encourages-breaking-family-ties-20170218-2.md"
   },
   {
    "slug": "if-the-beginning-is-good-20170211-12",
