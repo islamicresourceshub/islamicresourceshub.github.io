@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-05T14:12:50.346044+00:00",
+ "generated_at": "2026-09-05T14:15:47.983492+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3849,
+ "count": 3850,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -5192,6 +5192,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/en/quran/what-to-beware-of-when-taking-sides-20170128-7.html",
    "md_url": "/en/quran/what-to-beware-of-when-taking-sides-20170128-7.md"
+  },
+  {
+   "slug": "can-prophethood-be-attained-by-desire-20170218-1",
+   "lang": "en",
+   "category": "seerah",
+   "title": "Can Prophethood Be Attained by Desire?",
+   "summary": "This article clarifies that prophethood is a special grace from Allah, not something that can be attained through desire or effort. It discusses the Islamic perspective on the status of prophets and their divine mission.",
+   "author": "ഹുസൈന്‍ സലഫി, ഷാര്‍ജ",
+   "issue_date": "2017-02-18",
+   "html_url": "/en/seerah/can-prophethood-be-attained-by-desire-20170218-1.html",
+   "md_url": "/en/seerah/can-prophethood-be-attained-by-desire-20170218-1.md"
   },
   {
    "slug": "ibn-abbas-ra-a-scholar-of-knowledge-20170211-4",
