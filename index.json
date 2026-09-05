@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-05T15:09:52.621060+00:00",
+ "generated_at": "2026-09-05T15:10:24.655741+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3872,
+ "count": 3873,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -30437,6 +30437,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/or/quran/what-to-beware-of-when-taking-sides-20170128-7.html",
    "md_url": "/or/quran/what-to-beware-of-when-taking-sides-20170128-7.md"
+  },
+  {
+   "slug": "can-prophethood-be-attained-by-desire-20170218-1",
+   "lang": "or",
+   "category": "seerah",
+   "title": "ପ୍ରଫେଟହୁଡ୍ ବା ନବୀତ୍ୱ କଣ ଇଚ୍ଛା କଲେ ମିଳିପାରିବ?",
+   "summary": "ଏହି ଲେଖାଟି ସ୍ପଷ୍ଟ କରେ ଯେ ନବୀତ୍ୱ ହେଉଛି ଅଲ୍ଲାହଙ୍କର ଏକ ବିଶେଷ ଅନୁଗ୍ରହ, ଯାହା କେବଳ ଇଚ୍ଛା କଲେ କିମ୍ବା କଠିନ ପରିଶ୍ରମ କଲେ ମିଳିପାରିବ ନାହିଁ। ଏଥିରେ ନବୀମାନଙ୍କର ମର୍ଯ୍ୟାଦା ଏବଂ ସେମାନଙ୍କର ନିଯୁକ୍ତି ସମ୍ବନ୍ଧୀୟ ଇସଲାମୀୟ ଦୃଷ୍ଟିକୋଣ ଉପରେ ଆଲୋଚନା କରାଯାଇଛି।",
+   "author": "ഹുസൈന്‍ സലഫി, ഷാര്‍ജ",
+   "issue_date": "2017-02-18",
+   "html_url": "/or/seerah/can-prophethood-be-attained-by-desire-20170218-1.html",
+   "md_url": "/or/seerah/can-prophethood-be-attained-by-desire-20170218-1.md"
   },
   {
    "slug": "ibn-abbas-ra-a-scholar-of-knowledge-20170211-4",
