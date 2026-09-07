@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T07:28:40.194025+00:00",
+ "generated_at": "2026-09-07T07:29:10.171868+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4213,
+ "count": 4214,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -13409,6 +13409,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/kn/hadith/criteria-for-accepting-hadith-20170128-2.html",
    "md_url": "/kn/hadith/criteria-for-accepting-hadith-20170128-2.md"
+  },
+  {
+   "slug": "manusmriti-and-the-caste-system-20170218-7",
+   "lang": "kn",
+   "category": "history",
+   "title": "ಮನುಸ್ಮೃತಿ ಮತ್ತು ಜಾತಿ, ವರ್ಣ ವ್ಯವಸ್ಥೆ",
+   "summary": "ಈ ಲೇಖನವು ಮನುಸ್ಮೃತಿ ಮತ್ತು ಪುರುಷಸೂಕ್ತದಲ್ಲಿ ಪ್ರತಿಪಾದಿಸಲಾದ ಜಾತಿ-ವರ್ಣ ವ್ಯವಸ್ಥೆಗಳನ್ನು ಐತಿಹಾಸಿಕವಾಗಿ ವಿಶ್ಲೇಷಿಸುತ್ತದೆ. ಸಾಮಾಜಿಕ ತಾರತಮ್ಯದ ಬೇರುಗಳನ್ನು ಹುಡುಕುವ ಒಂದು ವಿಮರ್ಶಾತ್ಮಕ ಅಧ್ಯಯನ ಇದಾಗಿದೆ.",
+   "author": "ഉസ്മാൻ പാലക്കാഴി",
+   "issue_date": "2017-02-18",
+   "html_url": "/kn/history/manusmriti-and-the-caste-system-20170218-7.html",
+   "md_url": "/kn/history/manusmriti-and-the-caste-system-20170218-7.md"
   },
   {
    "slug": "challenges-posed-by-pseudo-nationalism-20170204-4",
