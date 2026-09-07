@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T05:37:39.846997+00:00",
+ "generated_at": "2026-09-07T05:38:01.670461+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4072,
+ "count": 4082,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -18933,6 +18933,17 @@
    "md_url": "/ml/family/neglected-parents-20191228-4.md"
   },
   {
+   "slug": "orphanages-the-future-of-tomorrow-20200829-8",
+   "lang": "ml",
+   "category": "family",
+   "title": "യതീംഖാനകൾ; നാളെയുടെ ഭാവി?",
+   "summary": "യതീംഖാനകളുടെ പ്രവർത്തനരീതികളിൽ കാലാനുസൃതമായ മാറ്റങ്ങൾ വരുത്തേണ്ടതിന്റെ ആവശ്യകതയെക്കുറിച്ച് ചർച്ച ചെയ്യുന്നു. അനാഥരായ കുട്ടികൾക്ക് ഉന്നത വിദ്യാഭ്യാസം നൽകുന്നതിനും അവരെ സ്വയംപര്യാപ്തരാക്കുന്നതിനും ഊന്നൽ നൽകുന്നു.",
+   "author": "അബൂ ഫർഹാൻ ആലത്തിയൂർ",
+   "issue_date": "2020-08-29",
+   "html_url": "/ml/family/orphanages-the-future-of-tomorrow-20200829-8.html",
+   "md_url": "/ml/family/orphanages-the-future-of-tomorrow-20200829-8.md"
+  },
+  {
    "slug": "our-parents-20170325-4",
    "lang": "ml",
    "category": "family",
@@ -19041,6 +19052,17 @@
    "issue_date": "2017-04-01",
    "html_url": "/ml/family/sexual-anarchy-problems-and-solutions-20170401-3.html",
    "md_url": "/ml/family/sexual-anarchy-problems-and-solutions-20170401-3.md"
+  },
+  {
+   "slug": "should-age-change-or-perspective-20200829-2",
+   "lang": "ml",
+   "category": "family",
+   "title": "മാറേണ്ടത് പ്രായമോ, കാഴ്ചപ്പാടോ?",
+   "summary": "പെൺകുട്ടികളുടെ വിവാഹപ്രായം 21 ആക്കി ഉയർത്താനുള്ള സർക്കാർ തീരുമാനത്തെക്കുറിച്ചുള്ള വിമർശനാത്മക പഠനം. പ്രായപരിധി വർദ്ധിപ്പിക്കുന്നതിനേക്കാൾ വിവാഹത്തോടുള്ള സാമൂഹിക കാഴ്ചപ്പാടാണ് മാറേണ്ടതെന്ന് ലേഖകൻ വാദിക്കുന്നു.",
+   "author": "ടി.കെ.അഷ്‌റഫ്",
+   "issue_date": "2020-08-29",
+   "html_url": "/ml/family/should-age-change-or-perspective-20200829-2.html",
+   "md_url": "/ml/family/should-age-change-or-perspective-20200829-2.md"
   },
   {
    "slug": "should-one-not-smile-20181222-8",
@@ -20372,6 +20394,17 @@
    "issue_date": "2019-10-19",
    "html_url": "/ml/health/memory-and-the-brain-20191019-10.html",
    "md_url": "/ml/health/memory-and-the-brain-20191019-10.md"
+  },
+  {
+   "slug": "mental-health-20200829-7",
+   "lang": "ml",
+   "category": "health",
+   "title": "മാനസികാരോഗ്യം",
+   "summary": "മാനസികാരോഗ്യം നിലനിർത്താൻ ഇസ്‌ലാമിക അധ്യാപനങ്ങൾ എങ്ങനെ സഹായിക്കുന്നു എന്ന് വിശദീകരിക്കുന്നു. ജീവിതത്തിലെ പരീക്ഷണങ്ങളെ നേരിടാനും ആരോഗ്യകരമായ ജീവിതശൈലി സ്വീകരിക്കാനുമുള്ള നിർദ്ദേശങ്ങൾ നൽകുന്നു.",
+   "author": "പ്രൊഫ. കെ.പി സത്താർ",
+   "issue_date": "2020-08-29",
+   "html_url": "/ml/health/mental-health-20200829-7.html",
+   "md_url": "/ml/health/mental-health-20200829-7.md"
   },
   {
    "slug": "monsoon-diseases-and-waste-management-20180707-2",
@@ -22365,6 +22398,17 @@
    "md_url": "/ml/opinion/great-teachers-and-good-students-20200620-2.md"
   },
   {
+   "slug": "hagia-sophia-in-the-scales-of-ethics-20200829-1",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "ഹാഗിയ സോഫിയ നൈതികതയുടെ തുലാസിൽ",
+   "summary": "ഹാഗിയ സോഫിയയെ വീണ്ടും മസ്ജിദാക്കി മാറ്റിയ ഉർദുഗാന്റെ നടപടിയെ ചരിത്രപരവും രാഷ്ട്രീയവുമായ പശ്ചാത്തലത്തിൽ വിശകലനം ചെയ്യുന്നു. ആരാധനാലയങ്ങളെ രാഷ്ട്രീയ ലക്ഷ്യങ്ങൾക്കായി ഉപയോഗപ്പെടുത്തുന്നതിലെ നൈതികതയെ ലേഖകൻ ചോദ്യം ചെയ്യുന്നു.",
+   "author": "സുഫ്‌യാൻ അബ്ദുസ്സലാം",
+   "issue_date": "2020-08-29",
+   "html_url": "/ml/opinion/hagia-sophia-in-the-scales-of-ethics-20200829-1.html",
+   "md_url": "/ml/opinion/hagia-sophia-in-the-scales-of-ethics-20200829-1.md"
+  },
+  {
    "slug": "hajj-subsidy-before-putting-the-muslim-community-in-the-dock-20170128-3",
    "lang": "ml",
    "category": "opinion",
@@ -23432,6 +23476,17 @@
    "md_url": "/ml/opinion/sri-lanka-bombings-terrorism-has-no-religion-20190504-8.md"
   },
   {
+   "slug": "stand-against-injustice-20200829-3",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "അനീതിക്കെതിരെ നിലകൊള്ളുക",
+   "summary": "അക്രമത്തിനും അനീതിക്കും എതിരെ ശബ്ദമുയർത്തേണ്ടതിന്റെ ആവശ്യകതയെക്കുറിച്ചുള്ള മുഖലേഖനം. ഭരണാധികാരികളുടെയും ന്യായാധിപന്മാരുടെയും അനീതി സമൂഹത്തിൽ വലിയ പ്രത്യാഘാതങ്ങൾ ഉണ്ടാക്കുമെന്ന് ഓർമ്മിപ്പിക്കുന്നു.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2020-08-29",
+   "html_url": "/ml/opinion/stand-against-injustice-20200829-3.html",
+   "md_url": "/ml/opinion/stand-against-injustice-20200829-3.md"
+  },
+  {
    "slug": "stand-together-resist-and-defeat-20200104-4",
    "lang": "ml",
    "category": "opinion",
@@ -23540,6 +23595,17 @@
    "issue_date": "2018-11-10",
    "html_url": "/ml/opinion/the-bursting-of-the-love-jihad-balloon-20181110-8.html",
    "md_url": "/ml/opinion/the-bursting-of-the-love-jihad-balloon-20181110-8.md"
+  },
+  {
+   "slug": "the-confidence-given-by-ten-rupees-20200829-10",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "പത്തുരൂപ തന്ന ആത്മവിശ്വാസം",
+   "summary": "പത്തുരൂപയ്ക്ക് വാങ്ങിയ പച്ചക്കറി തൈകളിൽ നിന്ന് തുടങ്ങിയ കൃഷി എങ്ങനെ ഒരു കുടുംബത്തിന്റെ ജീവിതശൈലിയായി മാറി എന്ന് വിവരിക്കുന്ന അനുഭവക്കുറിപ്പ്.",
+   "author": "സലാം സുറുമ എടത്തനാട്ടുകര",
+   "issue_date": "2020-08-29",
+   "html_url": "/ml/opinion/the-confidence-given-by-ten-rupees-20200829-10.html",
+   "md_url": "/ml/opinion/the-confidence-given-by-ten-rupees-20200829-10.md"
   },
   {
    "slug": "the-continuing-deceptions-of-evolution-20181215-8",
@@ -25049,6 +25115,17 @@
    "md_url": "/ml/quran/quran-vision-surah-al-mulk-20200222-12.md"
   },
   {
+   "slug": "quranic-parables-about-man-20200829-6",
+   "lang": "ml",
+   "category": "quran",
+   "title": "മനുഷ്യനെപ്പറ്റി ഖുർആനിലെ ഉപമകൾ",
+   "summary": "മനുഷ്യന്റെ സ്വഭാവത്തെയും വിശ്വാസത്തെയും ഖുർആൻ വിവിധ ഉപമകളിലൂടെ എങ്ങനെ വിശദീകരിക്കുന്നു എന്ന് പരിശോധിക്കുന്നു. ഇരുട്ടിൽ തപ്പിത്തടയുന്നവൻ, കപടവിശ്വാസി തുടങ്ങിയ ഉദാഹരണങ്ങൾ ഇതിൽ ഉൾപ്പെടുന്നു.",
+   "author": "കുഞ്ഞിമുഹമ്മദ് മദനി പറപ്പൂർ",
+   "issue_date": "2020-08-29",
+   "html_url": "/ml/quran/quranic-parables-about-man-20200829-6.html",
+   "md_url": "/ml/quran/quranic-parables-about-man-20200829-6.md"
+  },
+  {
    "slug": "quranic-recitation-and-listening-a-scientific-approach-20200627-3",
    "lang": "ml",
    "category": "quran",
@@ -25069,6 +25146,17 @@
    "issue_date": "2018-09-15",
    "html_url": "/ml/quran/quranic-translation-a-bird-s-eye-view-20180915-10.html",
    "md_url": "/ml/quran/quranic-translation-a-bird-s-eye-view-20180915-10.md"
+  },
+  {
+   "slug": "quranic-vision-as-saff-the-ranks-20200829-9",
+   "lang": "ml",
+   "category": "quran",
+   "title": "ഖുർആൻ ദർശനം: സ്വഫ്ഫ് (അണി)",
+   "summary": "ഖുർആനിലെ 61-ാം അധ്യായമായ സ്വഫ്ഫ് (അണി) എന്ന സൂറത്തിന്റെ ലഘു വ്യാഖ്യാനം. വിശ്വാസികൾ പറയുന്നതും പ്രവർത്തിക്കുന്നതും തമ്മിലുള്ള പൊരുത്തത്തെക്കുറിച്ചും അല്ലാഹുവിന്റെ മാർഗ്ഗത്തിലുള്ള ഐക്യത്തെക്കുറിച്ചും പ്രതിപാദിക്കുന്നു.",
+   "author": "അബ്ദുറഹ്‌മാൻ നാസിർ അസ്സലഫി",
+   "issue_date": "2020-08-29",
+   "html_url": "/ml/quran/quranic-vision-as-saff-the-ranks-20200829-9.html",
+   "md_url": "/ml/quran/quranic-vision-as-saff-the-ranks-20200829-9.md"
   },
   {
    "slug": "quranic-vision-divorce-20200328-8",
@@ -25850,6 +25938,17 @@
    "issue_date": "2020-06-20",
    "html_url": "/ml/seerah/abu-mahdura-al-juhmi-ra-20200620-6.html",
    "md_url": "/ml/seerah/abu-mahdura-al-juhmi-ra-20200620-6.md"
+  },
+  {
+   "slug": "academic-contributions-of-sheikh-diyaur-rahman-20200829-5",
+   "lang": "ml",
+   "category": "seerah",
+   "title": "ശൈഖ് ദിയാഉർറഹ്മാന്റെ വൈജ്ഞാനിക സംഭാവനകൾ",
+   "summary": "പ്രമുഖ പണ്ഡിതൻ ശൈഖ് ദിയാഉർറഹ്മാൻ അഅ്‌ദമിയുടെ ജീവിതവും വൈജ്ഞാനിക സംഭാവനകളും പരിചയപ്പെടുത്തുന്ന പരമ്പര. അദ്ദേഹത്തിന്റെ അധ്യാപന ജീവിതത്തെയും ഗ്രന്ഥരചനകളെയും കുറിച്ച് പ്രതിപാദിക്കുന്നു.",
+   "author": "ഡോ. സി.മുഹമ്മദ് റാഫി ചെമ്പ്ര",
+   "issue_date": "2020-08-29",
+   "html_url": "/ml/seerah/academic-contributions-of-sheikh-diyaur-rahman-20200829-5.html",
+   "md_url": "/ml/seerah/academic-contributions-of-sheikh-diyaur-rahman-20200829-5.md"
   },
   {
    "slug": "accepting-the-challenge-20180623-9",
@@ -26884,6 +26983,17 @@
    "issue_date": "2019-01-05",
    "html_url": "/ml/seerah/the-lineage-of-prophet-muhammad-pbuh-20190105-5.html",
    "md_url": "/ml/seerah/the-lineage-of-prophet-muhammad-pbuh-20190105-5.md"
+  },
+  {
+   "slug": "the-noble-woman-of-madinah-20200829-4",
+   "lang": "ml",
+   "category": "seerah",
+   "title": "മദീനയിലെ ശ്രേഷ്ഠ വനിത",
+   "summary": "പ്രവാചകൻ മുഹമ്മദ് നബി(സ)യുടെ നിർദ്ദേശപ്രകാരം ജുലൈബീബ്(റ)വിനെ വിവാഹം കഴിച്ച അൻസാരി വനിതയുടെ കഥ. ഭൗതിക സാഹചര്യങ്ങളേക്കാൾ പ്രവാചകന്റെ ഇഷ്ടത്തിന് മുൻഗണന നൽകിയ അവരുടെ വിശ്വാസദാർഢ്യം ഇവിടെ വിവരിക്കുന്നു.",
+   "author": "സി",
+   "issue_date": "2020-08-29",
+   "html_url": "/ml/seerah/the-noble-woman-of-madinah-20200829-4.html",
+   "md_url": "/ml/seerah/the-noble-woman-of-madinah-20200829-4.md"
   },
   {
    "slug": "the-phase-of-persecution-20190302-9",
