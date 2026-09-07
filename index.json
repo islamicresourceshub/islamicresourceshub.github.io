@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T05:57:43.448937+00:00",
+ "generated_at": "2026-09-07T05:58:05.192705+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4143,
+ "count": 4144,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -9229,6 +9229,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/ha/family/the-methodology-of-conduct-20170128-8.html",
    "md_url": "/ha/family/the-methodology-of-conduct-20170128-8.md"
+  },
+  {
+   "slug": "the-new-generation-that-makes-us-weep-20170218-6",
+   "lang": "ha",
+   "category": "family",
+   "title": "Sabon tsarar da ke sa mu zubar da hawaye",
+   "summary": "Wannan wani rubutu ne na kwarewa game da matsalolin tunani da iyaye ke fuskanta da kuma halayen sabon tsarar yau. Yana tattauna yadda dangantakar iyali ke lalacewa da kuma yanayin zamantakewa da ke haifar da hakan.",
+   "author": "ഇബ്‌നു അലി എടത്തനാട്ടുകര",
+   "issue_date": "2017-02-18",
+   "html_url": "/ha/family/the-new-generation-that-makes-us-weep-20170218-6.html",
+   "md_url": "/ha/family/the-new-generation-that-makes-us-weep-20170218-6.md"
   },
   {
    "slug": "thoughts-during-pregnancy-20170218-4",
