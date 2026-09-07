@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T04:36:07.552096+00:00",
+ "generated_at": "2026-09-07T04:36:41.325199+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3918,
+ "count": 3919,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -28248,6 +28248,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/mr/family/husband-trapped-in-the-mobile-web-20170121-5.html",
    "md_url": "/mr/family/husband-trapped-in-the-mobile-web-20170121-5.md"
+  },
+  {
+   "slug": "husband-who-encourages-breaking-family-ties-20170218-2",
+   "lang": "mr",
+   "category": "family",
+   "title": "नाते तोडण्यासाठी प्रवृत्त करणारा पती",
+   "summary": "पतीच्या हट्टामुळे आपल्या माहेरच्या लोकांशी नाते तोडण्यास भाग पडणाऱ्या एका स्त्रीची दुःखद परिस्थिती आणि त्यावरचे इस्लामिक उपाय या लेखात मांडले आहेत. कौटुंबिक नातेसंबंध टिकवून ठेवण्याचे महत्त्व यात अधोरेखित केले आहे.",
+   "author": "ഹാരിസ്ബിൻ സലീം",
+   "issue_date": "2017-02-18",
+   "html_url": "/mr/family/husband-who-encourages-breaking-family-ties-20170218-2.html",
+   "md_url": "/mr/family/husband-who-encourages-breaking-family-ties-20170218-2.md"
   },
   {
    "slug": "if-the-beginning-is-good-20170211-12",
