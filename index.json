@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T09:10:35.263348+00:00",
+ "generated_at": "2026-09-07T09:11:31.317727+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4303,
+ "count": 4304,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -31163,6 +31163,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/mr/opinion/secular-government-and-muslim-minority-20170218-8.html",
    "md_url": "/mr/opinion/secular-government-and-muslim-minority-20170218-8.md"
+  },
+  {
+   "slug": "strengthening-secular-political-unity-20170218-9",
+   "lang": "mr",
+   "category": "opinion",
+   "title": "धर्मनिरपेक्ष राजकीय ऐक्याची गरज",
+   "summary": "देशात वाढत चाललेल्या फॅसिस्ट प्रवृत्तींचा सामना करण्यासाठी धर्मनिरपेक्ष राजकीय पक्षांनी एकत्र येणे किती आवश्यक आहे, यावर हा लेख प्रकाश टाकतो. घटनात्मक मूल्यांचे रक्षण करण्यासाठी राजकीय ऐक्य ही काळाची गरज असल्याचे यात अधोरेखित केले आहे.",
+   "author": "സുഫ്‌യാൻ അബ്ദുസ്സലാം",
+   "issue_date": "2017-02-18",
+   "html_url": "/mr/opinion/strengthening-secular-political-unity-20170218-9.html",
+   "md_url": "/mr/opinion/strengthening-secular-political-unity-20170218-9.md"
   },
   {
    "slug": "terrorism-and-religious-freedom-20170114-1",
