@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T12:09:34.690407+00:00",
+ "generated_at": "2026-09-07T12:10:45.742308+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4462,
+ "count": 4463,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -34408,6 +34408,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/or/history/manusmriti-and-the-caste-system-20170218-7.html",
    "md_url": "/or/history/manusmriti-and-the-caste-system-20170218-7.md"
+  },
+  {
+   "slug": "anxieties-of-those-who-deviated-from-the-path-of-ideology-20170225-1",
+   "lang": "or",
+   "category": "opinion",
+   "title": "ଆଦର୍ଶଧାରାରୁ ବିଚ୍ୟୁତ ହୋଇଥିବା ବ୍ୟକ୍ତିମାନଙ୍କର ଆଶଙ୍କା",
+   "summary": "ଏହି ପ୍ରବନ୍ଧଟି କେ.ଏନ୍.ଏମ୍ ନେତା ଅବଦୁସ୍ସଲାମ ସୁଲ୍ଲମୀଙ୍କ ଲେଖାର ପ୍ରତ୍ୟୁତ୍ତର ସ୍ୱରୂପ ଇସ୍ଲାମୀୟ ଦୃଷ୍ଟିକୋଣରୁ ଏକତା ସମ୍ପର୍କରେ ଆଲୋଚନା କରୁଛି। ଏଥିରେ ଆଦର୍ଶଗତ ବିଚ୍ୟୁତିଗୁଡ଼ିକୁ ସମାଲୋଚନାତ୍ମକ ଭାବେ ବିଶ୍ଳେଷଣ କରାଯାଇଛି।",
+   "author": "അബ്ദുല്‍ മാലിക് സലഫി",
+   "issue_date": "2017-02-25",
+   "html_url": "/or/opinion/anxieties-of-those-who-deviated-from-the-path-of-ideology-20170225-1.html",
+   "md_url": "/or/opinion/anxieties-of-those-who-deviated-from-the-path-of-ideology-20170225-1.md"
   },
   {
    "slug": "challenges-posed-by-pseudo-nationalism-20170204-4",
