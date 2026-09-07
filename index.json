@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T04:21:52.587603+00:00",
+ "generated_at": "2026-09-07T04:24:17.561991+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3906,
+ "count": 3907,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -4950,6 +4950,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/en/family/husband-trapped-in-the-mobile-web-20170121-5.html",
    "md_url": "/en/family/husband-trapped-in-the-mobile-web-20170121-5.md"
+  },
+  {
+   "slug": "husband-who-encourages-breaking-family-ties-20170218-2",
+   "lang": "en",
+   "category": "family",
+   "title": "The Husband Who Encourages Breaking Family Ties",
+   "summary": "This article examines the distressing situation of a woman forced to sever ties with her own family due to her husband's insistence, and explores Islamic solutions. It also reminds us of the importance of maintaining family relationships.",
+   "author": "ഹാരിസ്ബിൻ സലീം",
+   "issue_date": "2017-02-18",
+   "html_url": "/en/family/husband-who-encourages-breaking-family-ties-20170218-2.html",
+   "md_url": "/en/family/husband-who-encourages-breaking-family-ties-20170218-2.md"
   },
   {
    "slug": "if-the-beginning-is-good-20170211-12",
