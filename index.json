@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T08:37:29.646371+00:00",
+ "generated_at": "2026-09-07T08:42:29.584325+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4275,
+ "count": 4276,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -39820,6 +39820,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/sw/opinion/salafi-preaching-a-theoretical-analysis-20170121-10.html",
    "md_url": "/sw/opinion/salafi-preaching-a-theoretical-analysis-20170121-10.md"
+  },
+  {
+   "slug": "secular-government-and-muslim-minority-20170218-8",
+   "lang": "sw",
+   "category": "opinion",
+   "title": "Serikali ya Kisekula na Wachache wa Kiislamu",
+   "summary": "Makala hii inajadili dhana ya usekula kama ilivyoainishwa katika Katiba ya India na haki za wachache ndani yake. Inatoa mtazamo wa kina kuhusu uhuru wa kuabudu na ulinzi wa kikatiba kwa Waislamu wanaoishi katika nchi isiyo ya Kiislamu.",
+   "author": "സിറാജുല്‍ ഇസ്‌ലാം ബാലുശ്ശേരി",
+   "issue_date": "2017-02-18",
+   "html_url": "/sw/opinion/secular-government-and-muslim-minority-20170218-8.html",
+   "md_url": "/sw/opinion/secular-government-and-muslim-minority-20170218-8.md"
   },
   {
    "slug": "terrorism-and-religious-freedom-20170114-1",
