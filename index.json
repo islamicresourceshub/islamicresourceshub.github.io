@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T08:12:50.722416+00:00",
+ "generated_at": "2026-09-07T08:13:23.683431+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4247,
+ "count": 4248,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -1573,6 +1573,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/ar/opinion/salafi-preaching-a-theoretical-analysis-20170121-10.html",
    "md_url": "/ar/opinion/salafi-preaching-a-theoretical-analysis-20170121-10.md"
+  },
+  {
+   "slug": "secular-government-and-muslim-minority-20170218-8",
+   "lang": "ar",
+   "category": "opinion",
+   "title": "الحكومة العلمانية والأقلية المسلمة",
+   "summary": "يتناول هذا المقال مفهوم العلمانية كما نص عليه الدستور الهندي وحقوق الأقليات في ظله. كما يستعرض الموقف الشرعي للمسلمين الذين يعيشون في ظل أنظمة غير إسلامية، مؤكداً على أهمية التعايش والدعوة إلى الله.",
+   "author": "സിറാജുല്‍ ഇസ്‌ലാം ബാലുശ്ശേരി",
+   "issue_date": "2017-02-18",
+   "html_url": "/ar/opinion/secular-government-and-muslim-minority-20170218-8.html",
+   "md_url": "/ar/opinion/secular-government-and-muslim-minority-20170218-8.md"
   },
   {
    "slug": "terrorism-and-religious-freedom-20170114-1",
