@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T05:00:46.259566+00:00",
+ "generated_at": "2026-09-07T05:01:19.533137+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3977,
+ "count": 3978,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -28578,6 +28578,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/mr/dawah/showing-the-light-is-the-duty-of-scholars-20170121-14.html",
    "md_url": "/mr/dawah/showing-the-light-is-the-duty-of-scholars-20170121-14.md"
+  },
+  {
+   "slug": "solution-for-divisions-20170218-3",
+   "lang": "mr",
+   "category": "dawah",
+   "title": "मतभेदांवर उपाय",
+   "summary": "जागतिक शांततेसाठी धोकादायक असलेल्या दहशतवादाचा सामना करण्यासाठी शांतताप्रिय लोकांमध्ये एकता असणे आवश्यक असल्याचे हा लेख मांडतो. फॅसिझमचा प्रतिकार करण्यासाठी वैचारिक एकजूट कशी मदत करते, याचे विवेचन येथे केले आहे.",
+   "author": "ടി.കെ.അശ്‌റഫ്‌",
+   "issue_date": "2017-02-18",
+   "html_url": "/mr/dawah/solution-for-divisions-20170218-3.html",
+   "md_url": "/mr/dawah/solution-for-divisions-20170218-3.md"
   },
   {
    "slug": "stand-tall-20170121-8",
