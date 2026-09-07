@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T05:44:24.839377+00:00",
+ "generated_at": "2026-09-07T05:44:52.217814+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4097,
+ "count": 4098,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -31944,6 +31944,17 @@
    "issue_date": "2017-02-04",
    "html_url": "/or/opinion/challenges-posed-by-pseudo-nationalism-20170204-4.html",
    "md_url": "/or/opinion/challenges-posed-by-pseudo-nationalism-20170204-4.md"
+  },
+  {
+   "slug": "democratic-jallikattu-20170218-5",
+   "lang": "or",
+   "category": "opinion",
+   "title": "ଗଣତାନ୍ତ୍ରିକ ଜଲ୍ଲିକଟ୍ଟୁ",
+   "summary": "ଏହି ପ୍ରବନ୍ଧଟି ତାମିଲନାଡୁ ରାଜନୀତିର ସାମ୍ପ୍ରତିକ ଘଟଣାବଳୀ ଏବଂ କ୍ଷମତା ପାଇଁ ଚାଲିଥିବା ଟଣାଓଟରାକୁ ବିଶ୍ଳେଷଣ କରୁଛି। ଏହା ଗଣତାନ୍ତ୍ରିକ ବ୍ୟବସ୍ଥାରେ ଚାଲିଥିବା ରାଜନୈତିକ ନାଟକକୁ ସମାଲୋଚନାତ୍ମକ ଦୃଷ୍ଟିକୋଣରୁ ଦେଖିଥାଏ।",
+   "author": "ഡോ. സി.എം സാബിര്‍ നവാസ്‌",
+   "issue_date": "2017-02-18",
+   "html_url": "/or/opinion/democratic-jallikattu-20170218-5.html",
+   "md_url": "/or/opinion/democratic-jallikattu-20170218-5.md"
   },
   {
    "slug": "e-writing-is-not-mere-writing-20170121-15",
