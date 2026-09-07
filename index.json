@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T08:19:37.570952+00:00",
+ "generated_at": "2026-09-07T08:20:17.141163+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4257,
+ "count": 4258,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -9680,6 +9680,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/ha/opinion/salafi-preaching-a-theoretical-analysis-20170121-10.html",
    "md_url": "/ha/opinion/salafi-preaching-a-theoretical-analysis-20170121-10.md"
+  },
+  {
+   "slug": "secular-government-and-muslim-minority-20170218-8",
+   "lang": "ha",
+   "category": "opinion",
+   "title": "Gwamnatin Tsarin Mulkin Dimokuradiyya da Musulmai 'Yan Tsiraru",
+   "summary": "Wannan rubutu yana tattauna yadda Musulmai za su rayu a cikin tsarin mulkin dimokuradiyya da kuma haƙƙoƙin da kundin tsarin mulkin ƙasar Indiya ya ba wa 'yan tsiraru. Yana kuma yin nazari kan yadda Musulmai za su gudanar da ayyukan addini da kuma kira zuwa ga Musulunci a ƙarƙashin irin wannan tsarin.",
+   "author": "സിറാജുല്‍ ഇസ്‌ലാം ബാലുശ്ശേരി",
+   "issue_date": "2017-02-18",
+   "html_url": "/ha/opinion/secular-government-and-muslim-minority-20170218-8.html",
+   "md_url": "/ha/opinion/secular-government-and-muslim-minority-20170218-8.md"
   },
   {
    "slug": "terrorism-and-religious-freedom-20170114-1",
