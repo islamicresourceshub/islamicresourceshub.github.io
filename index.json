@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T08:30:28.444990+00:00",
+ "generated_at": "2026-09-07T08:31:25.781408+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4268,
+ "count": 4269,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -34177,6 +34177,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/pa/opinion/salafi-preaching-a-theoretical-analysis-20170121-10.html",
    "md_url": "/pa/opinion/salafi-preaching-a-theoretical-analysis-20170121-10.md"
+  },
+  {
+   "slug": "secular-government-and-muslim-minority-20170218-8",
+   "lang": "pa",
+   "category": "opinion",
+   "title": "ਧਰਮ-ਨਿਰਪੱਖ ਸਰਕਾਰ ਅਤੇ ਮੁਸਲਿਮ ਘੱਟਗਿਣਤੀ",
+   "summary": "ਇਹ ਲੇਖ ਭਾਰਤੀ ਸੰਵਿਧਾਨ ਦੁਆਰਾ ਕਲਪਿਤ ਧਰਮ-ਨਿਰਪੱਖਤਾ ਅਤੇ ਇਸ ਵਿੱਚ ਘੱਟਗਿਣਤੀਆਂ ਦੇ ਅਧਿਕਾਰਾਂ ਬਾਰੇ ਚਰਚਾ ਕਰਦਾ ਹੈ। ਇਹ ਧਾਰਮਿਕ ਆਜ਼ਾਦੀ ਅਤੇ ਸੰਵਿਧਾਨਕ ਸੁਰੱਖਿਆ ਦੇ ਸੰਦਰਭ ਵਿੱਚ ਇੱਕ ਵਿਸਤ੍ਰਿਤ ਵਿਸ਼ਲੇਸ਼ਣ ਪੇਸ਼ ਕਰਦਾ ਹੈ।",
+   "author": "സിറാജുല്‍ ഇസ്‌ലാം ബാലുശ്ശേരി",
+   "issue_date": "2017-02-18",
+   "html_url": "/pa/opinion/secular-government-and-muslim-minority-20170218-8.html",
+   "md_url": "/pa/opinion/secular-government-and-muslim-minority-20170218-8.md"
   },
   {
    "slug": "terrorism-and-religious-freedom-20170114-1",
