@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T10:42:15.353205+00:00",
+ "generated_at": "2026-09-07T10:43:07.299863+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4367,
+ "count": 4368,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -4323,6 +4323,17 @@
    "issue_date": "2017-02-11",
    "html_url": "/bs/story/allah-is-watching-20170211-3.html",
    "md_url": "/bs/story/allah-is-watching-20170211-3.md"
+  },
+  {
+   "slug": "broken-hearts-20170218-11",
+   "lang": "bs",
+   "category": "story",
+   "title": "Slomljena srca",
+   "summary": "Ova priča o dječaku koji povređuje svoje roditelje služi kao pouka o važnosti ispravljanja grešaka. To je priča koja djecu uči osjećaju za pravdu i odgovornost.",
+   "author": "അറബി കഥ - പുനരാഖ്യാനം: തൻസീൽ",
+   "issue_date": "2017-02-18",
+   "html_url": "/bs/story/broken-hearts-20170218-11.html",
+   "md_url": "/bs/story/broken-hearts-20170218-11.md"
   },
   {
    "slug": "good-intention-matters-most-20170325-8",
