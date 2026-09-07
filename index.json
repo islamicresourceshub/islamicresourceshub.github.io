@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T10:10:44.652331+00:00",
+ "generated_at": "2026-09-07T10:11:41.893293+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4356,
+ "count": 4357,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -42581,6 +42581,17 @@
    "issue_date": "2017-02-11",
    "html_url": "/th/dawah/unity-ideology-and-movement-20170211-2.html",
    "md_url": "/th/dawah/unity-ideology-and-movement-20170211-2.md"
+  },
+  {
+   "slug": "what-do-we-have-for-ourselves-20170218-10",
+   "lang": "th",
+   "category": "dawah",
+   "title": "เรามีอะไรเป็นของตัวเองบ้างในโลกนี้?",
+   "summary": "บทความที่จัดทำขึ้นโดยอ้างอิงจากคำเตือนในอัลกุรอานเกี่ยวกับวันสิ้นโลก เพื่อกระตุ้นให้เราตรวจสอบตนเองว่าได้เตรียมเสบียงอะไรไว้บ้างสำหรับชีวิตในโลกหน้า",
+   "author": "എസ്‌.എ ഐദീദ്‌ തങ്ങൾ",
+   "issue_date": "2017-02-18",
+   "html_url": "/th/dawah/what-do-we-have-for-ourselves-20170218-10.html",
+   "md_url": "/th/dawah/what-do-we-have-for-ourselves-20170218-10.md"
   },
   {
    "slug": "children-an-islamic-reading-part-4-20170204-5",
