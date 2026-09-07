@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T09:15:23.357945+00:00",
+ "generated_at": "2026-09-07T09:16:21.792250+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4308,
+ "count": 4309,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -35244,6 +35244,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/ps/opinion/secular-government-and-muslim-minority-20170218-8.html",
    "md_url": "/ps/opinion/secular-government-and-muslim-minority-20170218-8.md"
+  },
+  {
+   "slug": "strengthening-secular-political-unity-20170218-9",
+   "lang": "ps",
+   "category": "opinion",
+   "title": "د سیکولر سیاسي یووالي پیاوړتیا",
+   "summary": "دا مقاله په هېواد کې د مخ پر زیاتېدونکو فاشستي تمایلاتو د مخنیوي لپاره د سیکولر سیاسي ګوندونو د یووالي پر اړتیا ټینګار کوي. دا په ډاګه کوي چې د اساسي قانون د ارزښتونو د ساتنې لپاره سیاسي یووالی یو حتمي ضرورت دی.",
+   "author": "സുഫ്‌യാൻ അബ്ദുസ്സലാം",
+   "issue_date": "2017-02-18",
+   "html_url": "/ps/opinion/strengthening-secular-political-unity-20170218-9.html",
+   "md_url": "/ps/opinion/strengthening-secular-political-unity-20170218-9.md"
   },
   {
    "slug": "terrorism-and-religious-freedom-20170114-1",
