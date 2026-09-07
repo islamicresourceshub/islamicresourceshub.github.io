@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T05:19:17.217302+00:00",
+ "generated_at": "2026-09-07T05:19:40.632425+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4025,
+ "count": 4026,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -7447,6 +7447,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/fr/family/the-methodology-of-conduct-20170128-8.html",
    "md_url": "/fr/family/the-methodology-of-conduct-20170128-8.md"
+  },
+  {
+   "slug": "thoughts-during-pregnancy-20170218-4",
+   "lang": "fr",
+   "category": "family",
+   "title": "Réflexions sur la période de grossesse",
+   "summary": "Cet article aborde les convenances et les invocations que les parents doivent observer durant la grossesse. Il explique l'influence de l'état psychologique des parents sur le développement de l'enfant dans le cadre de l'éducation islamique.",
+   "author": "അഷ്‌റഫ് എകരൂല്‍",
+   "issue_date": "2017-02-18",
+   "html_url": "/fr/family/thoughts-during-pregnancy-20170218-4.html",
+   "md_url": "/fr/family/thoughts-during-pregnancy-20170218-4.md"
   },
   {
    "slug": "mosque-construction-some-points-to-note-20170325-5",
