@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T09:07:44.786886+00:00",
+ "generated_at": "2026-09-07T09:08:40.883438+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4300,
+ "count": 4301,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -13090,6 +13090,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/ja/opinion/secular-government-and-muslim-minority-20170218-8.html",
    "md_url": "/ja/opinion/secular-government-and-muslim-minority-20170218-8.md"
+  },
+  {
+   "slug": "strengthening-secular-political-unity-20170218-9",
+   "lang": "ja",
+   "category": "opinion",
+   "title": "強化すべき世俗的な政治的連帯",
+   "summary": "本稿は、国内で高まるファシズムの傾向に対抗するために、世俗的な政党が団結する必要性を強調しています。憲法上の価値観を守るためには、政治的な連帯が不可欠であることを明らかにしています。",
+   "author": "സുഫ്‌യാൻ അബ്ദുസ്സലാം",
+   "issue_date": "2017-02-18",
+   "html_url": "/ja/opinion/strengthening-secular-political-unity-20170218-9.html",
+   "md_url": "/ja/opinion/strengthening-secular-political-unity-20170218-9.md"
   },
   {
    "slug": "terrorism-and-religious-freedom-20170114-1",
