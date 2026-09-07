@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T04:19:57.662829+00:00",
+ "generated_at": "2026-09-07T04:21:52.587603+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3905,
+ "count": 3906,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -4202,6 +4202,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/de/family/husband-trapped-in-the-mobile-web-20170121-5.html",
    "md_url": "/de/family/husband-trapped-in-the-mobile-web-20170121-5.md"
+  },
+  {
+   "slug": "husband-who-encourages-breaking-family-ties-20170218-2",
+   "lang": "de",
+   "category": "family",
+   "title": "Der Ehemann, der zum Abbruch von Familienbeziehungen drängt",
+   "summary": "Dieser Artikel beleuchtet die traurige Situation einer Frau, die aufgrund der Sturheit ihres Mannes gezwungen ist, die Beziehungen zu ihrer eigenen Familie abzubrechen, und bietet islamische Lösungen dafür. Er erinnert an die Bedeutung der Aufrechterhaltung von Familienbanden.",
+   "author": "ഹാരിസ്ബിൻ സലീം",
+   "issue_date": "2017-02-18",
+   "html_url": "/de/family/husband-who-encourages-breaking-family-ties-20170218-2.html",
+   "md_url": "/de/family/husband-who-encourages-breaking-family-ties-20170218-2.md"
   },
   {
    "slug": "if-the-beginning-is-good-20170211-12",
