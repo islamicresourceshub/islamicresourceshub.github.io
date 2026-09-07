@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T05:03:41.800432+00:00",
+ "generated_at": "2026-09-07T05:04:12.880609+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3982,
+ "count": 3983,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -32318,6 +32318,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/ps/dawah/showing-the-light-is-the-duty-of-scholars-20170121-14.html",
    "md_url": "/ps/dawah/showing-the-light-is-the-duty-of-scholars-20170121-14.md"
+  },
+  {
+   "slug": "solution-for-divisions-20170218-3",
+   "lang": "ps",
+   "category": "dawah",
+   "title": "د اختلافاتو حل",
+   "summary": "دا لیکنه استدلال کوي چې د نړۍ د سولې لپاره د ترهګرۍ پر وړاندې د سوله غوښتونکو ترمنځ یووالی اړین دی. همدارنګه دا په ډاګه کوي چې څنګه ایډیالوژیکي اتحادونه د فاشیزم په وړاندې په مبارزه کې مرسته کولی شي.",
+   "author": "ടി.കെ.അശ്‌റഫ്‌",
+   "issue_date": "2017-02-18",
+   "html_url": "/ps/dawah/solution-for-divisions-20170218-3.html",
+   "md_url": "/ps/dawah/solution-for-divisions-20170218-3.md"
   },
   {
    "slug": "stand-tall-20170121-8",
