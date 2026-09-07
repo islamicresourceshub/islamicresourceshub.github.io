@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T05:00:15.150491+00:00",
+ "generated_at": "2026-09-07T05:00:46.259566+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3976,
+ "count": 3977,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -13222,6 +13222,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/ko/dawah/showing-the-light-is-the-duty-of-scholars-20170121-14.html",
    "md_url": "/ko/dawah/showing-the-light-is-the-duty-of-scholars-20170121-14.md"
+  },
+  {
+   "slug": "solution-for-divisions-20170218-3",
+   "lang": "ko",
+   "category": "dawah",
+   "title": "분열에 대한 해결책",
+   "summary": "이 글은 세계 평화를 위협하는 테러에 맞서기 위해 평화주의자들의 단결이 필수적임을 강조합니다. 또한, 무자히드 운동 내에서 발생한 이념적 갈등을 해결하고 진정한 통합을 이루기 위해서는 모호한 타협이 아닌 명확한 교리적 정립이 필요함을 역설합니다.",
+   "author": "ടി.കെ.അശ്‌റഫ്‌",
+   "issue_date": "2017-02-18",
+   "html_url": "/ko/dawah/solution-for-divisions-20170218-3.html",
+   "md_url": "/ko/dawah/solution-for-divisions-20170218-3.md"
   },
   {
    "slug": "stand-tall-20170121-8",
