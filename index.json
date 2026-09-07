@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T05:43:57.763250+00:00",
+ "generated_at": "2026-09-07T05:44:24.839377+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4096,
+ "count": 4097,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -31174,6 +31174,17 @@
    "issue_date": "2017-02-04",
    "html_url": "/ne/opinion/challenges-posed-by-pseudo-nationalism-20170204-4.html",
    "md_url": "/ne/opinion/challenges-posed-by-pseudo-nationalism-20170204-4.md"
+  },
+  {
+   "slug": "democratic-jallikattu-20170218-5",
+   "lang": "ne",
+   "category": "opinion",
+   "title": "लोकतान्त्रिक जल्लीकट्टु",
+   "summary": "यो लेख तमिलनाडुको राजनीतिमा हालैका घटनाक्रम र सत्ताको खिचातानीको विश्लेषण गर्दछ। यसले लोकतान्त्रिक प्रणालीभित्र भइरहेका राजनीतिक नाटकहरूलाई आलोचनात्मक दृष्टिकोणबाट हेर्छ।",
+   "author": "ഡോ. സി.എം സാബിര്‍ നവാസ്‌",
+   "issue_date": "2017-02-18",
+   "html_url": "/ne/opinion/democratic-jallikattu-20170218-5.html",
+   "md_url": "/ne/opinion/democratic-jallikattu-20170218-5.md"
   },
   {
    "slug": "e-writing-is-not-mere-writing-20170121-15",
