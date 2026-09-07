@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T05:08:05.148572+00:00",
+ "generated_at": "2026-09-07T05:08:42.359725+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3999,
+ "count": 4000,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -37664,6 +37664,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/ta/dawah/showing-the-light-is-the-duty-of-scholars-20170121-14.html",
    "md_url": "/ta/dawah/showing-the-light-is-the-duty-of-scholars-20170121-14.md"
+  },
+  {
+   "slug": "solution-for-divisions-20170218-3",
+   "lang": "ta",
+   "category": "dawah",
+   "title": "கருத்து வேறுபாடுகளுக்கான தீர்வு",
+   "summary": "உலக அமைதிக்கு அச்சுறுத்தலாக இருக்கும் பயங்கரவாதத்தை எதிர்கொள்ள அமைதி விரும்பிகளிடையே ஒற்றுமை அவசியம் என்பதை இக்கட்டுரை வலியுறுத்துகிறது. பாசிசத்தை எதிர்க்க கொள்கை ரீதியான ஒன்றிணைப்பு எவ்வாறு உதவும் என்பதை இது விளக்குகிறது.",
+   "author": "ടി.കെ.അശ്‌റഫ്‌",
+   "issue_date": "2017-02-18",
+   "html_url": "/ta/dawah/solution-for-divisions-20170218-3.html",
+   "md_url": "/ta/dawah/solution-for-divisions-20170218-3.md"
   },
   {
    "slug": "stand-tall-20170121-8",
