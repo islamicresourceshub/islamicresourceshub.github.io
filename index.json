@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T09:01:18.025271+00:00",
+ "generated_at": "2026-09-07T09:02:13.846570+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4293,
+ "count": 4294,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -7337,6 +7337,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/fa/opinion/secular-government-and-muslim-minority-20170218-8.html",
    "md_url": "/fa/opinion/secular-government-and-muslim-minority-20170218-8.md"
+  },
+  {
+   "slug": "strengthening-secular-political-unity-20170218-9",
+   "lang": "fa",
+   "category": "opinion",
+   "title": "لزوم تقویت وحدت سیاسی سکولار",
+   "summary": "این مقاله بر ضرورت اتحاد احزاب سیاسی سکولار برای مقابله با گرایش‌های فاشیستی در حال رشد در کشور تأکید می‌کند. همچنین تصریح می‌کند که برای حفظ ارزش‌های قانون اساسی، وحدت سیاسی یک امر اجتناب‌ناپذیر است.",
+   "author": "സുഫ്‌യാൻ അബ്ദുസ്സലാം",
+   "issue_date": "2017-02-18",
+   "html_url": "/fa/opinion/strengthening-secular-political-unity-20170218-9.html",
+   "md_url": "/fa/opinion/strengthening-secular-political-unity-20170218-9.md"
   },
   {
    "slug": "terrorism-and-religious-freedom-20170114-1",
