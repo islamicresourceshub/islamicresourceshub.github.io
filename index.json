@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T09:08:40.883438+00:00",
+ "generated_at": "2026-09-07T09:09:40.355956+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4301,
+ "count": 4302,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -13915,6 +13915,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/kn/opinion/secular-government-and-muslim-minority-20170218-8.html",
    "md_url": "/kn/opinion/secular-government-and-muslim-minority-20170218-8.md"
+  },
+  {
+   "slug": "strengthening-secular-political-unity-20170218-9",
+   "lang": "kn",
+   "category": "opinion",
+   "title": "ಬಲಪಡಿಸಬೇಕಾದ ಜಾತ್ಯತೀತ ರಾಜಕೀಯ ಒಗ್ಗಟ್ಟು",
+   "summary": "ದೇಶದಲ್ಲಿ ಬೆಳೆಯುತ್ತಿರುವ ಫ್ಯಾಸಿಸ್ಟ್ ಪ್ರವೃತ್ತಿಗಳನ್ನು ಎದುರಿಸಲು ಜಾತ್ಯತೀತ ರಾಜಕೀಯ ಪಕ್ಷಗಳು ಒಂದಾಗಬೇಕಾದ ಅಗತ್ಯವನ್ನು ಈ ಲೇಖನ ಒತ್ತಿಹೇಳುತ್ತದೆ. ಸಾಂವಿಧಾನಿಕ ಮೌಲ್ಯಗಳನ್ನು ರಕ್ಷಿಸಲು ರಾಜಕೀಯ ಒಗ್ಗಟ್ಟು ಅನಿವಾರ್ಯ ಎಂದು ಇದು ಪ್ರತಿಪಾದಿಸುತ್ತದೆ.",
+   "author": "സുഫ്‌യാൻ അബ്ദുസ്സലാം",
+   "issue_date": "2017-02-18",
+   "html_url": "/kn/opinion/strengthening-secular-political-unity-20170218-9.html",
+   "md_url": "/kn/opinion/strengthening-secular-political-unity-20170218-9.md"
   },
   {
    "slug": "terrorism-and-religious-freedom-20170114-1",
