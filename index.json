@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T09:19:03.510921+00:00",
+ "generated_at": "2026-09-07T09:20:09.852996+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4312,
+ "count": 4313,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -38522,6 +38522,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/so/opinion/secular-government-and-muslim-minority-20170218-8.html",
    "md_url": "/so/opinion/secular-government-and-muslim-minority-20170218-8.md"
+  },
+  {
+   "slug": "strengthening-secular-political-unity-20170218-9",
+   "lang": "so",
+   "category": "opinion",
+   "title": "Midowga Siyaasadeedka Cilmaaniga ah ee u baahan in la xoojiyo",
+   "summary": "Maqaalkani wuxuu hoosta ka xarriiqayaa baahida loo qabo in xisbiyada siyaasadeed ee cilmaaniga ah ay midoobaan si ay u wajahaan isbeddellada fashiistaha ah ee ka dhex koraya dalka. Waxay caddaynaysaa in midnimada siyaasadeed ay lama huraan u tahay ilaalinta qiyamka dastuuriga ah.",
+   "author": "സുഫ്‌യാൻ അബ്ദുസ്സലാം",
+   "issue_date": "2017-02-18",
+   "html_url": "/so/opinion/strengthening-secular-political-unity-20170218-9.html",
+   "md_url": "/so/opinion/strengthening-secular-political-unity-20170218-9.md"
   },
   {
    "slug": "terrorism-and-religious-freedom-20170114-1",
