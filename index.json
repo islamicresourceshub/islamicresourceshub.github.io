@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T09:23:06.272686+00:00",
+ "generated_at": "2026-09-07T09:24:05.058517+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4316,
+ "count": 4317,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -41745,6 +41745,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/te/opinion/secular-government-and-muslim-minority-20170218-8.html",
    "md_url": "/te/opinion/secular-government-and-muslim-minority-20170218-8.md"
+  },
+  {
+   "slug": "strengthening-secular-political-unity-20170218-9",
+   "lang": "te",
+   "category": "opinion",
+   "title": "బలోపేతం చేయాల్సిన లౌకిక రాజకీయ ఐక్యత",
+   "summary": "దేశంలో పెరుగుతున్న ఫాసిస్ట్ ధోరణులను ఎదుర్కోవడానికి లౌకిక రాజకీయ పార్టీలు ఏకం కావాల్సిన అవసరాన్ని ఈ వ్యాసం నొక్కి చెబుతోంది. రాజ్యాంగ విలువలను కాపాడటానికి రాజకీయ ఐక్యత అనివార్యమని ఇది స్పష్టం చేస్తోంది.",
+   "author": "സുഫ്‌യാൻ അബ്ദുസ്സലാം",
+   "issue_date": "2017-02-18",
+   "html_url": "/te/opinion/strengthening-secular-political-unity-20170218-9.html",
+   "md_url": "/te/opinion/strengthening-secular-political-unity-20170218-9.md"
   },
   {
    "slug": "terrorism-and-religious-freedom-20170114-1",
