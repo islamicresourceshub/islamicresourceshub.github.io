@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T05:47:23.318338+00:00",
+ "generated_at": "2026-09-07T05:47:43.199935+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4112,
+ "count": 4113,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -36696,6 +36696,17 @@
    "issue_date": "2017-02-04",
    "html_url": "/so/opinion/challenges-posed-by-pseudo-nationalism-20170204-4.html",
    "md_url": "/so/opinion/challenges-posed-by-pseudo-nationalism-20170204-4.md"
+  },
+  {
+   "slug": "democratic-jallikattu-20170218-5",
+   "lang": "so",
+   "category": "opinion",
+   "title": "Jallikattu-ga Dimuqraadi ah",
+   "summary": "Maqaaladan waxa uu falanqaynayaa dhacdooyinkii siyaasadeed ee dhowaan ka dhacay gobolka Tamil Nadu iyo loolanka awoodeed ee ka dhashay. Waxa uu si dhaliil leh u eegayaa riwaayadaha siyaasadeed ee ka socda nidaamka dimuqraadiga ah.",
+   "author": "ഡോ. സി.എം സാബിര്‍ നവാസ്‌",
+   "issue_date": "2017-02-18",
+   "html_url": "/so/opinion/democratic-jallikattu-20170218-5.html",
+   "md_url": "/so/opinion/democratic-jallikattu-20170218-5.md"
   },
   {
    "slug": "e-writing-is-not-mere-writing-20170121-15",
