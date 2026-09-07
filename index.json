@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T04:27:07.834333+00:00",
+ "generated_at": "2026-09-07T04:29:51.059726+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3908,
+ "count": 3909,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -6424,6 +6424,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/fa/family/husband-trapped-in-the-mobile-web-20170121-5.html",
    "md_url": "/fa/family/husband-trapped-in-the-mobile-web-20170121-5.md"
+  },
+  {
+   "slug": "husband-who-encourages-breaking-family-ties-20170218-2",
+   "lang": "fa",
+   "category": "family",
+   "title": "شوهری که به قطع صله رحم اصرار دارد",
+   "summary": "این مقاله وضعیت غم‌انگیز زنی را بررسی می‌کند که به دلیل اصرار شوهرش مجبور به قطع رابطه با خانواده خود می‌شود و راه‌حل‌های اسلامی برای آن ارائه می‌دهد. همچنین بر اهمیت حفظ روابط خانوادگی تأکید می‌کند.",
+   "author": "ഹാരിസ്ബിൻ സലീം",
+   "issue_date": "2017-02-18",
+   "html_url": "/fa/family/husband-who-encourages-breaking-family-ties-20170218-2.html",
+   "md_url": "/fa/family/husband-who-encourages-breaking-family-ties-20170218-2.md"
   },
   {
    "slug": "if-the-beginning-is-good-20170211-12",
