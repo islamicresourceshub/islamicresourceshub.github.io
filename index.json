@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T05:20:10.479007+00:00",
+ "generated_at": "2026-09-07T05:20:41.206818+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4027,
+ "count": 4028,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -8987,6 +8987,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/ha/family/the-methodology-of-conduct-20170128-8.html",
    "md_url": "/ha/family/the-methodology-of-conduct-20170128-8.md"
+  },
+  {
+   "slug": "thoughts-during-pregnancy-20170218-4",
+   "lang": "ha",
+   "category": "family",
+   "title": "Tunanin Lokacin Ciki",
+   "summary": "Wannan rubutu yana bayyana ladubba da addu'o'in da ya kamata iyaye su kiyaye a lokacin ciki. Yana kuma bayani kan yadda yanayin tunanin iyaye ke shafar girman yaro a matsayin wani bangare na tarbiyyar Musulunci.",
+   "author": "അഷ്‌റഫ് എകരൂല്‍",
+   "issue_date": "2017-02-18",
+   "html_url": "/ha/family/thoughts-during-pregnancy-20170218-4.html",
+   "md_url": "/ha/family/thoughts-during-pregnancy-20170218-4.md"
   },
   {
    "slug": "mosque-construction-some-points-to-note-20170325-5",
