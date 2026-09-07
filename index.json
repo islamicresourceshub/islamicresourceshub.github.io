@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-05T15:21:08.250747+00:00",
+ "generated_at": "2026-09-07T04:14:21.786347+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3902,
+ "count": 3903,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -1969,6 +1969,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/as/family/husband-trapped-in-the-mobile-web-20170121-5.html",
    "md_url": "/as/family/husband-trapped-in-the-mobile-web-20170121-5.md"
+  },
+  {
+   "slug": "husband-who-encourages-breaking-family-ties-20170218-2",
+   "lang": "as",
+   "category": "family",
+   "title": "সম্পৰ্ক ছিন্ন কৰিবলৈ প্ৰেৰণা দিয়া স্বামী",
+   "summary": "স্বামীৰ জেদৰ বাবে নিজৰ ঘৰৰ মানুহৰ সৈতে সম্পৰ্ক ছিন্ন কৰিবলগীয়া হোৱা এগৰাকী মহিলাৰ দুখজনক অৱস্থা আৰু তাৰ ইছলামিক সমাধানসমূহ এই লেখাটোৱে পৰীক্ষা কৰে। পাৰিবাৰিক সম্পৰ্ক বজাই ৰখাৰ গুৰুত্বৰ বিষয়ে ই সোঁৱৰাই দিয়ে।",
+   "author": "ഹാരിസ്ബിൻ സലീം",
+   "issue_date": "2017-02-18",
+   "html_url": "/as/family/husband-who-encourages-breaking-family-ties-20170218-2.html",
+   "md_url": "/as/family/husband-who-encourages-breaking-family-ties-20170218-2.md"
   },
   {
    "slug": "if-the-beginning-is-good-20170211-12",
