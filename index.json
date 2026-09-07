@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T08:36:22.728037+00:00",
+ "generated_at": "2026-09-07T08:37:29.646371+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4274,
+ "count": 4275,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -39006,6 +39006,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/sq/opinion/salafi-preaching-a-theoretical-analysis-20170121-10.html",
    "md_url": "/sq/opinion/salafi-preaching-a-theoretical-analysis-20170121-10.md"
+  },
+  {
+   "slug": "secular-government-and-muslim-minority-20170218-8",
+   "lang": "sq",
+   "category": "opinion",
+   "title": "Qeveria laike dhe pakica myslimane",
+   "summary": "Ky shkrim trajton konceptin e laicizmit sipas Kushtetutës indiane dhe të drejtat që u takojnë pakicave në këtë kuadër. Ai ofron një vështrim mbi lirinë fetare dhe mbrojtjen kushtetuese për myslimanët që jetojnë në shtete jo-islame.",
+   "author": "സിറാജുല്‍ ഇസ്‌ലാം ബാലുശ്ശേരി",
+   "issue_date": "2017-02-18",
+   "html_url": "/sq/opinion/secular-government-and-muslim-minority-20170218-8.html",
+   "md_url": "/sq/opinion/secular-government-and-muslim-minority-20170218-8.md"
   },
   {
    "slug": "terrorism-and-religious-freedom-20170114-1",
