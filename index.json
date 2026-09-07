@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T08:25:07.354691+00:00",
+ "generated_at": "2026-09-07T08:26:15.601450+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4263,
+ "count": 4264,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -14531,6 +14531,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/ko/opinion/salafi-preaching-a-theoretical-analysis-20170121-10.html",
    "md_url": "/ko/opinion/salafi-preaching-a-theoretical-analysis-20170121-10.md"
+  },
+  {
+   "slug": "secular-government-and-muslim-minority-20170218-8",
+   "lang": "ko",
+   "category": "opinion",
+   "title": "세속 정부와 무슬림 소수자",
+   "summary": "인도 헌법이 규정하는 세속주의와 그 안에서 무슬림 소수자가 누리는 권리에 대해 다룹니다. 종교의 자유와 헌법적 보호를 바탕으로 무슬림이 사회 속에서 어떻게 살아가야 하는지 고찰합니다.",
+   "author": "സിറാജുല്‍ ഇസ്‌ലാം ബാലുശ്ശേരി",
+   "issue_date": "2017-02-18",
+   "html_url": "/ko/opinion/secular-government-and-muslim-minority-20170218-8.html",
+   "md_url": "/ko/opinion/secular-government-and-muslim-minority-20170218-8.md"
   },
   {
    "slug": "terrorism-and-religious-freedom-20170114-1",
