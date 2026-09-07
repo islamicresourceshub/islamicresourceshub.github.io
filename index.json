@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T06:34:12.990352+00:00",
+ "generated_at": "2026-09-07T06:37:23.033052+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4161,
+ "count": 4162,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -38577,6 +38577,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/sw/family/the-methodology-of-conduct-20170128-8.html",
    "md_url": "/sw/family/the-methodology-of-conduct-20170128-8.md"
+  },
+  {
+   "slug": "the-new-generation-that-makes-us-weep-20170218-6",
+   "lang": "sw",
+   "category": "family",
+   "title": "Kizazi Kipya Kinachowaliza Wazazi Wao",
+   "summary": "Makala hii inahusu changamoto za kisaikolojia wanazokabiliana nazo wazazi na tabia za kizazi kipya. Inajadili mipasuko katika uhusiano wa kifamilia na mazingira ya kijamii yanayosababisha hali hiyo.",
+   "author": "ഇബ്‌നു അലി എടത്തനാട്ടുകര",
+   "issue_date": "2017-02-18",
+   "html_url": "/sw/family/the-new-generation-that-makes-us-weep-20170218-6.html",
+   "md_url": "/sw/family/the-new-generation-that-makes-us-weep-20170218-6.md"
   },
   {
    "slug": "thoughts-during-pregnancy-20170218-4",
