@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T07:26:28.330188+00:00",
+ "generated_at": "2026-09-07T07:26:49.185291+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4199,
+ "count": 4210,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -16205,6 +16205,17 @@
    "md_url": "/ml/dawah/courses-and-departments-20200502-3.md"
   },
   {
+   "slug": "covid-and-the-obligations-of-believers-20200926-8",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "കോവിഡും വിശ്വാസികളുടെ ബാധ്യതകളും",
+   "summary": "കോവിഡ് മഹാമാരിയുടെ കാലത്ത് ഒരു വിശ്വാസി നിർവഹിക്കേണ്ട സാമൂഹിക ബാധ്യതകളെക്കുറിച്ചുള്ള ലേഖനം. രോഗപ്രതിരോധ പ്രവർത്തനങ്ങളിലും സേവനങ്ങളിലും സജീവമായി പങ്കാളികളാകാൻ ഇത് വിശ്വാസികളെ പ്രേരിപ്പിക്കുന്നു.",
+   "author": "സി.പി സലീം",
+   "issue_date": "2020-09-26",
+   "html_url": "/ml/dawah/covid-and-the-obligations-of-believers-20200926-8.html",
+   "md_url": "/ml/dawah/covid-and-the-obligations-of-believers-20200926-8.md"
+  },
+  {
    "slug": "curb-extravagance-in-iftar-20180519-2",
    "lang": "ml",
    "category": "dawah",
@@ -16654,6 +16665,17 @@
    "issue_date": "2020-01-11",
    "html_url": "/ml/dawah/food-20200111-5.html",
    "md_url": "/ml/dawah/food-20200111-5.md"
+  },
+  {
+   "slug": "for-laylatul-qadr-20200926-5",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "ലൈലത്തുൽ ഖദ്റിക്കുക",
+   "summary": "സമൂഹത്തിലെ അഗതികളെയും അനാഥകളെയും സഹായിക്കേണ്ടതിന്റെ പ്രാധാന്യത്തെക്കുറിച്ച് ഓർമ്മിപ്പിക്കുന്ന ഒരു ലേഖനം. സ്വന്തം സുഖസൗകര്യങ്ങൾക്കപ്പുറം മറ്റുള്ളവരുടെ ദുരിതങ്ങൾ കാണാൻ വിശ്വാസികൾക്ക് കഴിയണമെന്ന് ഇത് ആഹ്വാനം ചെയ്യുന്നു.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2020-09-26",
+   "html_url": "/ml/dawah/for-laylatul-qadr-20200926-5.html",
+   "md_url": "/ml/dawah/for-laylatul-qadr-20200926-5.md"
   },
   {
    "slug": "forbidden-prayers-20190330-6",
@@ -17347,6 +17369,17 @@
    "issue_date": "2019-11-02",
    "html_url": "/ml/dawah/moving-away-from-unity-20191102-5.html",
    "md_url": "/ml/dawah/moving-away-from-unity-20191102-5.md"
+  },
+  {
+   "slug": "muslims-and-the-right-perspectives-on-corona-spread-20200926-6",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "മുസ്ലിംകളും കൊറോണവ്യാപനത്തിന്റെ ശരിദൂരങ്ങളും",
+   "summary": "കോവിഡ് കാലത്ത് മുസ്ലിം സമൂഹം സ്വീകരിക്കേണ്ട സാമൂഹികവും മതപരവുമായ നിലപാടുകളെക്കുറിച്ചുള്ള ലേഖനം. അന്ധവിശ്വാസങ്ങളെയും തെറ്റായ പ്രചാരണങ്ങളെയും തള്ളിക്കളഞ്ഞ് ശാസ്ത്രീയവും മതപരവുമായ ബോധത്തോടെ പ്രവർത്തിക്കാൻ ഇത് ആവശ്യപ്പെടുന്നു.",
+   "author": "സി.ടി. അബ്ദുൽ കബീർ",
+   "issue_date": "2020-09-26",
+   "html_url": "/ml/dawah/muslims-and-the-right-perspectives-on-corona-spread-20200926-6.html",
+   "md_url": "/ml/dawah/muslims-and-the-right-perspectives-on-corona-spread-20200926-6.md"
   },
   {
    "slug": "muslims-in-a-pluralistic-society-20170128-1",
@@ -19615,6 +19648,17 @@
    "md_url": "/ml/family/resolving-disputes-20181020-10.md"
   },
   {
+   "slug": "same-sex-sexual-activity-is-anti-humanitarian-20200926-11",
+   "lang": "ml",
+   "category": "family",
+   "title": "സ്വവർഗ ലൈംഗികത മനുഷ്യത്വവിരുദ്ധം",
+   "summary": "സ്വവർഗ വിവാഹത്തെയും ലൈംഗികതയെയും കുറിച്ചുള്ള ഇസ്ലാമികവും സാമൂഹികവുമായ കാഴ്ചപ്പാടുകൾ അവതരിപ്പിക്കുന്ന ലേഖനം. ഇത് മനുഷ്യത്വവിരുദ്ധമാണെന്നും ആരോഗ്യത്തെയും സാമൂഹിക ഘടനയെയും ബാധിക്കുമെന്നും ലേഖകൻ വാദിക്കുന്നു.",
+   "author": "ടി.കെ.അഷ്റഫ്",
+   "issue_date": "2020-09-26",
+   "html_url": "/ml/family/same-sex-sexual-activity-is-anti-humanitarian-20200926-11.html",
+   "md_url": "/ml/family/same-sex-sexual-activity-is-anti-humanitarian-20200926-11.md"
+  },
+  {
    "slug": "school-annual-day-experiences-20170211-10",
    "lang": "ml",
    "category": "family",
@@ -21263,6 +21307,17 @@
    "issue_date": "2019-12-14",
    "html_url": "/ml/history/compilation-of-the-quran-20191214-6.html",
    "md_url": "/ml/history/compilation-of-the-quran-20191214-6.md"
+  },
+  {
+   "slug": "dahlan-forgotten-without-shrines-or-urs-20200926-2",
+   "lang": "ml",
+   "category": "history",
+   "title": "ജാറവും ഉറുസുമില്ലാതെ വിസ്മരിക്കപ്പെട്ട ദഹ്‌ലാൻ",
+   "summary": "അഹ്മദ് സൈനീ ദഹ്‌ലാൻ എന്ന പണ്ഡിതന്റെ ചരിത്രപരമായ പശ്ചാത്തലവും അദ്ദേഹത്തിന്റെ വഹാബി വിരുദ്ധ രചനകളെക്കുറിച്ചും ഈ ലേഖനം വിശകലനം ചെയ്യുന്നു. അദ്ദേഹത്തിന്റെ കൃതികളുടെ സ്വാധീനത്തെയും ചരിത്രപരമായ അവഗണനയെയും കുറിച്ച് ഇത് ചർച്ച ചെയ്യുന്നു.",
+   "author": "യൂസുഫ് സാഹിബ് നദ്‌വി ഓച്ചീറ",
+   "issue_date": "2020-09-26",
+   "html_url": "/ml/history/dahlan-forgotten-without-shrines-or-urs-20200926-2.html",
+   "md_url": "/ml/history/dahlan-forgotten-without-shrines-or-urs-20200926-2.md"
   },
   {
    "slug": "debates-on-stage-and-in-court-20190921-9",
@@ -24026,6 +24081,17 @@
    "md_url": "/ml/opinion/secularism-fascism-and-resistance-20180929-6.md"
   },
   {
+   "slug": "should-we-use-the-quran-for-political-bias-20200926-4",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "രാഷ്ട്രീയ പക്ഷപാതത്തിന് ഖുർആനിനെ കൂട്ടുപിടിക്കേണോ?",
+   "summary": "രാഷ്ട്രീയ നേട്ടങ്ങൾക്കായി വിശുദ്ധ ഖുർആനിനെ ദുരുപയോഗം ചെയ്യുന്നതിനെതിരെയുള്ള വിമർശനമാണ് ഈ ലേഖനം. മതത്തെ രാഷ്ട്രീയ വിവാദങ്ങളിലേക്ക് വലിച്ചിഴക്കുന്നതിലെ അപകടങ്ങളെ ഇത് ചൂണ്ടിക്കാട്ടുന്നു.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2020-09-26",
+   "html_url": "/ml/opinion/should-we-use-the-quran-for-political-bias-20200926-4.html",
+   "md_url": "/ml/opinion/should-we-use-the-quran-for-political-bias-20200926-4.md"
+  },
+  {
    "slug": "shouldn-t-these-murders-end-20190302-3",
    "lang": "ml",
    "category": "opinion",
@@ -24400,6 +24466,17 @@
    "md_url": "/ml/opinion/the-evolutionary-mystery-of-lenski-s-experiment-20200711-4.md"
   },
   {
+   "slug": "the-global-economic-order-seeking-transformation-20200926-1",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "പരിവർത്തനം തേടുന്ന ലോക സാമ്പത്തികക്രമം",
+   "summary": "കോവിഡ് കാലാനന്തരമുള്ള ആഗോള സാമ്പത്തിക പ്രതിസന്ധിയെക്കുറിച്ചും, മുതലാളിത്തത്തിന്റെ പോരായ്മകളെക്കുറിച്ചും ഈ ലേഖനം ചർച്ച ചെയ്യുന്നു. പലിശരഹിതമായ ഒരു സാമ്പത്തിക വ്യവസ്ഥയുടെ ആവശ്യകതയെക്കുറിച്ചാണ് ഇതിൽ പ്രതിപാദിക്കുന്നത്.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2020-09-26",
+   "html_url": "/ml/opinion/the-global-economic-order-seeking-transformation-20200926-1.html",
+   "md_url": "/ml/opinion/the-global-economic-order-seeking-transformation-20200926-1.md"
+  },
+  {
    "slug": "the-government-that-promotes-liquor-sales-while-ignoring-alc-20190727-1",
    "lang": "ml",
    "category": "opinion",
@@ -24519,6 +24596,17 @@
    "issue_date": "2018-10-20",
    "html_url": "/ml/opinion/the-politics-of-conversion-and-denial-of-rights-20181020-4.html",
    "md_url": "/ml/opinion/the-politics-of-conversion-and-denial-of-rights-20181020-4.md"
+  },
+  {
+   "slug": "the-psychology-of-intolerance-20200926-9",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "അസഹിഷ്ണുതയുടെ മനഃശാസ്ത്രം",
+   "summary": "സമൂഹത്തിൽ വർദ്ധിച്ചുവരുന്ന അസഹിഷ്ണുതയുടെ കാരണങ്ങളെയും അതിന്റെ മനഃശാസ്ത്രപരമായ വശങ്ങളെയും കുറിച്ചുള്ള ലേഖനം. സ്വാർത്ഥതയും അറിവില്ലായ്മയും എങ്ങനെയാണ് അസഹിഷ്ണുത വളർത്തുന്നതെന്ന് ഇത് വിശദീകരിക്കുന്നു.",
+   "author": "പ്രൊഫ. കെ.പി സഅദ്",
+   "issue_date": "2020-09-26",
+   "html_url": "/ml/opinion/the-psychology-of-intolerance-20200926-9.html",
+   "md_url": "/ml/opinion/the-psychology-of-intolerance-20200926-9.md"
   },
   {
    "slug": "the-rains-of-collective-goodness-20180915-1",
@@ -25203,6 +25291,17 @@
    "md_url": "/ml/quran/al-mulk-the-sovereignty-20200125-8.md"
   },
   {
+   "slug": "al-mumtahanah-the-examined-woman-20200926-10",
+   "lang": "ml",
+   "category": "quran",
+   "title": "മുന്തഹിന (പരീക്ഷിക്കപ്പെടേണ്ടവൾ)",
+   "summary": "ഖുർആനിലെ അൽ-മുന്തഹിന അധ്യായത്തിന്റെ തഫ്സീർ. സത്യവിശ്വാസികൾ ശത്രുക്കളുമായി പുലർത്തേണ്ട ബന്ധങ്ങളെക്കുറിച്ചും വിശ്വാസത്തിന്റെ അടിസ്ഥാന തത്വങ്ങളെക്കുറിച്ചും ഇത് വിശദീകരിക്കുന്നു.",
+   "author": "അബ്ദുറഹ്മാൻ നാസിർ അസ്സഅദി",
+   "issue_date": "2020-09-26",
+   "html_url": "/ml/quran/al-mumtahanah-the-examined-woman-20200926-10.html",
+   "md_url": "/ml/quran/al-mumtahanah-the-examined-woman-20200926-10.md"
+  },
+  {
    "slug": "al-munafiqun-part-3-20200725-5",
    "lang": "ml",
    "category": "quran",
@@ -25850,6 +25949,17 @@
    "issue_date": "2020-06-27",
    "html_url": "/ml/quran/quranic-recitation-and-listening-a-scientific-approach-20200627-3.html",
    "md_url": "/ml/quran/quranic-recitation-and-listening-a-scientific-approach-20200627-3.md"
+  },
+  {
+   "slug": "quranic-references-to-clouds-20200926-7",
+   "lang": "ml",
+   "category": "quran",
+   "title": "മേഘങ്ങളെ കുറിച്ച ഖുർആനിക പരാമർശങ്ങൾ",
+   "summary": "മേഘങ്ങളെക്കുറിച്ചും മഴയെക്കുറിച്ചുമുള്ള ഖുർആനിക പരാമർശങ്ങളെ ആധുനിക ശാസ്ത്രത്തിന്റെ വെളിച്ചത്തിൽ വിശകലനം ചെയ്യുന്ന ലേഖനം. ഖുർആനിലെ വചനങ്ങൾ ശാസ്ത്രീയമായി എത്രത്തോളം കൃത്യമാണെന്ന് ഇത് സമർത്ഥിക്കുന്നു.",
+   "author": "ഡോ. ജൗസൽ",
+   "issue_date": "2020-09-26",
+   "html_url": "/ml/quran/quranic-references-to-clouds-20200926-7.html",
+   "md_url": "/ml/quran/quranic-references-to-clouds-20200926-7.md"
   },
   {
    "slug": "quranic-translation-a-bird-s-eye-view-20180915-10",
@@ -27269,6 +27379,17 @@
    "issue_date": "2019-03-30",
    "html_url": "/ml/seerah/prophet-muhammad-pbuh-to-taif-20190330-5.html",
    "md_url": "/ml/seerah/prophet-muhammad-pbuh-to-taif-20190330-5.md"
+  },
+  {
+   "slug": "prophet-muhammad-the-exemplary-teacher-20200926-3",
+   "lang": "ml",
+   "category": "seerah",
+   "title": "മുഹമ്മദ് നബി എന്ന മാതൃകാ ഗുരുനബിൻ",
+   "summary": "പ്രവാചകൻ മുഹമ്മദ് നബിയുടെ അധ്യാപനങ്ങളെയും അദ്ദേഹം മാനവരാശിക്ക് നൽകിയ മാതൃകകളെയും കുറിച്ചുള്ള ലേഖനം. ജാതിമത ഭേദമന്യേ അദ്ദേഹം കാണിച്ച കാരുണ്യത്തെയും നീതിയെയും ഇത് എടുത്തുപറയുന്നു.",
+   "author": "അഹ്‌ദിസ യൂസുഫ്",
+   "issue_date": "2020-09-26",
+   "html_url": "/ml/seerah/prophet-muhammad-the-exemplary-teacher-20200926-3.html",
+   "md_url": "/ml/seerah/prophet-muhammad-the-exemplary-teacher-20200926-3.md"
   },
   {
    "slug": "prophet-musa-a-s-20180428-4",
