@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T05:10:25.015443+00:00",
+ "generated_at": "2026-09-07T05:10:57.465013+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4003,
+ "count": 4004,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -40678,6 +40678,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/tr/dawah/showing-the-light-is-the-duty-of-scholars-20170121-14.html",
    "md_url": "/tr/dawah/showing-the-light-is-the-duty-of-scholars-20170121-14.md"
+  },
+  {
+   "slug": "solution-for-divisions-20170218-3",
+   "lang": "tr",
+   "category": "dawah",
+   "title": "Ayrılıkların Çözümü",
+   "summary": "Bu makale, dünya barışını tehdit eden terörizmle mücadelede barış yanlılarının birliğinin şart olduğunu savunmaktadır. Ayrıca, ideolojik farklılıkların giderilmesinde şeffaflığın ve ilkeli duruşun önemini vurgulamaktadır.",
+   "author": "ടി.കെ.അശ്‌റഫ്‌",
+   "issue_date": "2017-02-18",
+   "html_url": "/tr/dawah/solution-for-divisions-20170218-3.html",
+   "md_url": "/tr/dawah/solution-for-divisions-20170218-3.md"
   },
   {
    "slug": "stand-tall-20170121-8",
