@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T08:16:56.523720+00:00",
+ "generated_at": "2026-09-07T08:17:35.614296+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4253,
+ "count": 4254,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -6435,6 +6435,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/es/opinion/salafi-preaching-a-theoretical-analysis-20170121-10.html",
    "md_url": "/es/opinion/salafi-preaching-a-theoretical-analysis-20170121-10.md"
+  },
+  {
+   "slug": "secular-government-and-muslim-minority-20170218-8",
+   "lang": "es",
+   "category": "opinion",
+   "title": "El gobierno secular y la minoría musulmana",
+   "summary": "Este artículo analiza el secularismo según la Constitución de la India y los derechos de las minorías dentro de este marco. Explora la compatibilidad de vivir bajo un sistema secular con los principios islámicos, basándose en el ejemplo de los profetas y la historia islámica.",
+   "author": "സിറാജുല്‍ ഇസ്‌ലാം ബാലുശ്ശേരി",
+   "issue_date": "2017-02-18",
+   "html_url": "/es/opinion/secular-government-and-muslim-minority-20170218-8.html",
+   "md_url": "/es/opinion/secular-government-and-muslim-minority-20170218-8.md"
   },
   {
    "slug": "terrorism-and-religious-freedom-20170114-1",
