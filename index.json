@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T13:40:38.472387+00:00",
+ "generated_at": "2026-09-07T13:41:33.561017+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4521,
+ "count": 4522,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -2431,6 +2431,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/as/hadith/criteria-for-accepting-hadith-20170128-2.html",
    "md_url": "/as/hadith/criteria-for-accepting-hadith-20170128-2.md"
+  },
+  {
+   "slug": "islamophobia-archetypes-of-ancient-history-20170225-3",
+   "lang": "as",
+   "category": "history",
+   "title": "ইছলামোফ’বিয়া: প্ৰাচীন ইতিহাসৰ আৰ্হি",
+   "summary": "এই প্ৰবন্ধটোৱে ঐতিহাসিক পৰিপ্ৰেক্ষিতত ইছলামোফ’বিয়া কেনেকৈ গঢ় লৈ উঠিছিল আৰু বৰ্তমান সময়ত ই কেনেকৈ পুনৰাবৃত্তি ঘটিছে, তাৰ ওপৰত আলোকপাত কৰে।",
+   "author": "മുഹമ്മദ് അജ്മല്‍ സി",
+   "issue_date": "2017-02-25",
+   "html_url": "/as/history/islamophobia-archetypes-of-ancient-history-20170225-3.html",
+   "md_url": "/as/history/islamophobia-archetypes-of-ancient-history-20170225-3.md"
   },
   {
    "slug": "manusmriti-and-the-caste-system-20170218-7",
