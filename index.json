@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T05:36:25.936781+00:00",
+ "generated_at": "2026-09-07T05:36:53.598707+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4069,
+ "count": 4070,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -2948,6 +2948,17 @@
    "issue_date": "2017-02-04",
    "html_url": "/bn/opinion/challenges-posed-by-pseudo-nationalism-20170204-4.html",
    "md_url": "/bn/opinion/challenges-posed-by-pseudo-nationalism-20170204-4.md"
+  },
+  {
+   "slug": "democratic-jallikattu-20170218-5",
+   "lang": "bn",
+   "category": "opinion",
+   "title": "গণতান্ত্রিক জাল্লিকাট্টু",
+   "summary": "তামিলনাড়ুর সাম্প্রতিক রাজনৈতিক ঘটনাবলি এবং ক্ষমতার দ্বন্দ্ব নিয়ে একটি বিশ্লেষণাত্মক নিবন্ধ। এটি গণতান্ত্রিক ব্যবস্থায় চলমান রাজনৈতিক নাটকগুলোকে সমালোচনামূলক দৃষ্টিতে পর্যবেক্ষণ করে।",
+   "author": "ഡോ. സി.എം സാബിര്‍ നവാസ്‌",
+   "issue_date": "2017-02-18",
+   "html_url": "/bn/opinion/democratic-jallikattu-20170218-5.html",
+   "md_url": "/bn/opinion/democratic-jallikattu-20170218-5.md"
   },
   {
    "slug": "e-writing-is-not-mere-writing-20170121-15",
