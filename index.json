@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T07:24:45.650191+00:00",
+ "generated_at": "2026-09-07T07:25:20.302958+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4196,
+ "count": 4197,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -8613,6 +8613,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/gu/hadith/criteria-for-accepting-hadith-20170128-2.html",
    "md_url": "/gu/hadith/criteria-for-accepting-hadith-20170128-2.md"
+  },
+  {
+   "slug": "manusmriti-and-the-caste-system-20170218-7",
+   "lang": "gu",
+   "category": "history",
+   "title": "મનુસ્મૃતિ અને જાતિ, વર્ણ વ્યવસ્થા",
+   "summary": "આ લેખ મનુસ્મૃતિ અને પુરુષસૂક્તમાં વર્ણવેલી જાતિ-વર્ણ વ્યવસ્થાનું ઐતિહાસિક વિશ્લેષણ કરે છે. તે સામાજિક ભેદભાવના મૂળિયાં અને આધુનિક રાજકીય સંદર્ભમાં તેના ઉપયોગ વિશેની એક વિવેચનાત્મક અભ્યાસ છે.",
+   "author": "ഉസ്മാൻ പാലക്കാഴി",
+   "issue_date": "2017-02-18",
+   "html_url": "/gu/history/manusmriti-and-the-caste-system-20170218-7.html",
+   "md_url": "/gu/history/manusmriti-and-the-caste-system-20170218-7.md"
   },
   {
    "slug": "challenges-posed-by-pseudo-nationalism-20170204-4",
