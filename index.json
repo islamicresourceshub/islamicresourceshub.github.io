@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T11:52:52.873288+00:00",
+ "generated_at": "2026-09-07T11:53:57.314290+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4446,
+ "count": 4447,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -4983,6 +4983,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/de/history/manusmriti-and-the-caste-system-20170218-7.html",
    "md_url": "/de/history/manusmriti-and-the-caste-system-20170218-7.md"
+  },
+  {
+   "slug": "anxieties-of-those-who-deviated-from-the-path-of-ideology-20170225-1",
+   "lang": "de",
+   "category": "opinion",
+   "title": "Die Sorgen derer, die vom ideologischen Pfad abgewichen sind",
+   "summary": "Dieser Artikel setzt sich kritisch mit einem Beitrag des KNM-Führers Abdussalam Sullami über die Einheit auseinander und beleuchtet die ideologischen Abweichungen innerhalb der Bewegung. Er analysiert die islamische Sichtweise auf Einheit und widerlegt die Vorwürfe, die gegen diejenigen erhoben wurden, die an den ursprünglichen Prinzipien festhalten.",
+   "author": "അബ്ദുല്‍ മാലിക് സലഫി",
+   "issue_date": "2017-02-25",
+   "html_url": "/de/opinion/anxieties-of-those-who-deviated-from-the-path-of-ideology-20170225-1.html",
+   "md_url": "/de/opinion/anxieties-of-those-who-deviated-from-the-path-of-ideology-20170225-1.md"
   },
   {
    "slug": "challenges-posed-by-pseudo-nationalism-20170204-4",
