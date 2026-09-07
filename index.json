@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T09:27:44.478322+00:00",
+ "generated_at": "2026-09-07T09:28:45.966514+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4321,
+ "count": 4322,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -45870,6 +45870,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/uz/opinion/secular-government-and-muslim-minority-20170218-8.html",
    "md_url": "/uz/opinion/secular-government-and-muslim-minority-20170218-8.md"
+  },
+  {
+   "slug": "strengthening-secular-political-unity-20170218-9",
+   "lang": "uz",
+   "category": "opinion",
+   "title": "Mustahkamlanishi lozim bo‘lgan dunyoviy siyosiy birlik",
+   "summary": "Ushbu maqola mamlakatda kuchayib borayotgan fashistik tendensiyalarga qarshi kurashish uchun dunyoviy siyosiy partiyalar birlashishi zarurligini ta’kidlaydi. Unda konstitutsiyaviy qadriyatlarni himoya qilishda siyosiy birlik hal qiluvchi ahamiyatga ega ekanligi qayd etilgan.",
+   "author": "സുഫ്‌യാൻ അബ്ദുസ്സലാം",
+   "issue_date": "2017-02-18",
+   "html_url": "/uz/opinion/strengthening-secular-political-unity-20170218-9.html",
+   "md_url": "/uz/opinion/strengthening-secular-political-unity-20170218-9.md"
   },
   {
    "slug": "terrorism-and-religious-freedom-20170114-1",
