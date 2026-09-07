@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T12:40:52.993648+00:00",
+ "generated_at": "2026-09-07T12:41:48.825054+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4493,
+ "count": 4494,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -11803,6 +11803,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/id/dawah/stand-tall-20170121-8.html",
    "md_url": "/id/dawah/stand-tall-20170121-8.md"
+  },
+  {
+   "slug": "the-chemistry-of-unity-20170225-2",
+   "lang": "id",
+   "category": "dawah",
+   "title": "Kimia Persatuan",
+   "summary": "Artikel ini mengulas secara mendalam apakah persatuan menjadi penghalang bagi dakwah Tauhid. Pembahasan ini menyoroti relevansi persatuan organisasi serta tantangan-tantangan yang muncul di dalamnya.",
+   "author": "ടി.കെ.അശ്‌റഫ്",
+   "issue_date": "2017-02-25",
+   "html_url": "/id/dawah/the-chemistry-of-unity-20170225-2.html",
+   "md_url": "/id/dawah/the-chemistry-of-unity-20170225-2.md"
   },
   {
    "slug": "the-message-of-equality-20170121-11",
