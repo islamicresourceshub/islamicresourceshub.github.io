@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T05:18:23.080692+00:00",
+ "generated_at": "2026-09-07T05:18:47.889045+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4023,
+ "count": 4024,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -5918,6 +5918,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/es/family/the-methodology-of-conduct-20170128-8.html",
    "md_url": "/es/family/the-methodology-of-conduct-20170128-8.md"
+  },
+  {
+   "slug": "thoughts-during-pregnancy-20170218-4",
+   "lang": "es",
+   "category": "family",
+   "title": "Reflexiones durante el embarazo",
+   "summary": "Este artículo aborda la importancia de la actitud de los padres durante el embarazo, enfatizando la confianza en el decreto divino y la responsabilidad de cuidar a la madre. Explora cómo la perspectiva islámica sobre la creación y la maternidad debe guiar a las parejas en esta etapa crucial.",
+   "author": "അഷ്‌റഫ് എകരൂല്‍",
+   "issue_date": "2017-02-18",
+   "html_url": "/es/family/thoughts-during-pregnancy-20170218-4.html",
+   "md_url": "/es/family/thoughts-during-pregnancy-20170218-4.md"
   },
   {
    "slug": "mosque-construction-some-points-to-note-20170325-5",
