@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T08:22:40.716195+00:00",
+ "generated_at": "2026-09-07T08:23:58.027188+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4261,
+ "count": 4262,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -12914,6 +12914,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/ja/opinion/salafi-preaching-a-theoretical-analysis-20170121-10.html",
    "md_url": "/ja/opinion/salafi-preaching-a-theoretical-analysis-20170121-10.md"
+  },
+  {
+   "slug": "secular-government-and-muslim-minority-20170218-8",
+   "lang": "ja",
+   "category": "opinion",
+   "title": "世俗政府とイスラム教徒の少数派",
+   "summary": "インド憲法が掲げる世俗主義と、その中で少数派であるイスラム教徒が持つ権利について考察します。宗教の自由と憲法による保護の観点から、非イスラム国家で暮らすイスラム教徒のあり方を解説します。",
+   "author": "സിറാജുല്‍ ഇസ്‌ലാം ബാലുശ്ശേരി",
+   "issue_date": "2017-02-18",
+   "html_url": "/ja/opinion/secular-government-and-muslim-minority-20170218-8.html",
+   "md_url": "/ja/opinion/secular-government-and-muslim-minority-20170218-8.md"
   },
   {
    "slug": "terrorism-and-religious-freedom-20170114-1",
