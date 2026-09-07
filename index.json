@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T08:56:49.345110+00:00",
+ "generated_at": "2026-09-07T08:57:43.125962+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4288,
+ "count": 4289,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -3234,6 +3234,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/bn/opinion/secular-government-and-muslim-minority-20170218-8.html",
    "md_url": "/bn/opinion/secular-government-and-muslim-minority-20170218-8.md"
+  },
+  {
+   "slug": "strengthening-secular-political-unity-20170218-9",
+   "lang": "bn",
+   "category": "opinion",
+   "title": "ধর্মনিরপেক্ষ রাজনৈতিক ঐক্যের প্রয়োজনীয়তা",
+   "summary": "এই নিবন্ধটি দেশে ক্রমবর্ধমান ফ্যাসিবাদী প্রবণতা মোকাবিলায় ধর্মনিরপেক্ষ রাজনৈতিক দলগুলোর ঐক্যবদ্ধ হওয়ার প্রয়োজনীয়তার ওপর জোর দেয়। এটি স্পষ্টভাবে তুলে ধরে যে, সাংবিধানিক মূল্যবোধ রক্ষার জন্য রাজনৈতিক ঐক্য অপরিহার্য।",
+   "author": "സുഫ്‌യാൻ അബ്ദുസ്സലാം",
+   "issue_date": "2017-02-18",
+   "html_url": "/bn/opinion/strengthening-secular-political-unity-20170218-9.html",
+   "md_url": "/bn/opinion/strengthening-secular-political-unity-20170218-9.md"
   },
   {
    "slug": "terrorism-and-religious-freedom-20170114-1",
