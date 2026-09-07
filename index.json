@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T08:00:00.913742+00:00",
+ "generated_at": "2026-09-07T08:02:43.721113+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4222,
+ "count": 4223,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -36080,6 +36080,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/ru/hadith/criteria-for-accepting-hadith-20170128-2.html",
    "md_url": "/ru/hadith/criteria-for-accepting-hadith-20170128-2.md"
+  },
+  {
+   "slug": "manusmriti-and-the-caste-system-20170218-7",
+   "lang": "ru",
+   "category": "history",
+   "title": "Ману-смрити и система каст и варн",
+   "summary": "В этой статье проводится исторический анализ системы каст и варн, описанной в Ману-смрити и Пуруша-сукте. Это критическое исследование корней социальной дискриминации в индуистском обществе.",
+   "author": "ഉസ്മാൻ പാലക്കാഴി",
+   "issue_date": "2017-02-18",
+   "html_url": "/ru/history/manusmriti-and-the-caste-system-20170218-7.html",
+   "md_url": "/ru/history/manusmriti-and-the-caste-system-20170218-7.md"
   },
   {
    "slug": "challenges-posed-by-pseudo-nationalism-20170204-4",
