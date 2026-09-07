@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T09:54:26.835885+00:00",
+ "generated_at": "2026-09-07T09:55:27.546342+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4345,
+ "count": 4346,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -33506,6 +33506,17 @@
    "issue_date": "2017-02-11",
    "html_url": "/or/dawah/unity-ideology-and-movement-20170211-2.html",
    "md_url": "/or/dawah/unity-ideology-and-movement-20170211-2.md"
+  },
+  {
+   "slug": "what-do-we-have-for-ourselves-20170218-10",
+   "lang": "or",
+   "category": "dawah",
+   "title": "ଆମ ପାଖରେ ନିଜର ବୋଲି କଣ ଅଛି?",
+   "summary": "ଏହି ପ୍ରବନ୍ଧଟି କୁରାନର ଅନ୍ତିମ ଦିବସ ସମ୍ବନ୍ଧୀୟ ଚେତାବନୀ ଉପରେ ଆଧାରିତ। ଏହା ଆମକୁ ପରଲୋକ ପାଇଁ ଆମେ କଣ ସଞ୍ଚୟ କରିଛୁ, ସେ ବିଷୟରେ ଆତ୍ମସମୀକ୍ଷା କରିବାକୁ ପ୍ରେରିତ କରେ।",
+   "author": "എസ്‌.എ ഐദീദ്‌ തങ്ങൾ",
+   "issue_date": "2017-02-18",
+   "html_url": "/or/dawah/what-do-we-have-for-ourselves-20170218-10.html",
+   "md_url": "/or/dawah/what-do-we-have-for-ourselves-20170218-10.md"
   },
   {
    "slug": "children-an-islamic-reading-part-4-20170204-5",
