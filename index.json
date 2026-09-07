@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T12:45:22.401106+00:00",
+ "generated_at": "2026-09-07T12:46:19.621948+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4498,
+ "count": 4499,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -31801,6 +31801,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/mr/dawah/stand-tall-20170121-8.html",
    "md_url": "/mr/dawah/stand-tall-20170121-8.md"
+  },
+  {
+   "slug": "the-chemistry-of-unity-20170225-2",
+   "lang": "mr",
+   "category": "dawah",
+   "title": "एकेश्वरवादाची रसायनशास्त्र",
+   "summary": "तौहीद (एकेश्वरवाद) प्रसारासाठी ऐक्य अडथळा ठरत आहे का, या विषयाचे सखोल विश्लेषण येथे केले आहे. संघटनात्मक ऐक्याचे महत्त्व आणि त्यातील आव्हाने यावर यात चर्चा करण्यात आली आहे.",
+   "author": "ടി.കെ.അശ്‌റഫ്",
+   "issue_date": "2017-02-25",
+   "html_url": "/mr/dawah/the-chemistry-of-unity-20170225-2.html",
+   "md_url": "/mr/dawah/the-chemistry-of-unity-20170225-2.md"
   },
   {
    "slug": "the-message-of-equality-20170121-11",
