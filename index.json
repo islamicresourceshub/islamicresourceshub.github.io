@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T07:32:25.598779+00:00",
+ "generated_at": "2026-09-07T07:33:11.047943+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4219,
+ "count": 4220,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -33682,6 +33682,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/pa/hadith/criteria-for-accepting-hadith-20170128-2.html",
    "md_url": "/pa/hadith/criteria-for-accepting-hadith-20170128-2.md"
+  },
+  {
+   "slug": "manusmriti-and-the-caste-system-20170218-7",
+   "lang": "pa",
+   "category": "history",
+   "title": "ਮਨੁਸਮ੍ਰਿਤੀ ਅਤੇ ਜਾਤ-ਪਾਤ ਤੇ ਵਰਣ ਪ੍ਰਣਾਲੀ",
+   "summary": "ਇਹ ਲੇਖ ਮਨੁਸਮ੍ਰਿਤੀ ਅਤੇ ਪੁਰਸ਼ਸੂਕਤ ਵਿੱਚ ਦਰਜ ਜਾਤ-ਪਾਤ ਅਤੇ ਵਰਣ ਪ੍ਰਣਾਲੀ ਦਾ ਇਤਿਹਾਸਕ ਵਿਸ਼ਲੇਸ਼ਣ ਕਰਦਾ ਹੈ। ਇਹ ਸਮਾਜਿਕ ਵਿਤਕਰੇ ਦੀਆਂ ਜੜ੍ਹਾਂ ਦੀ ਇੱਕ ਆਲੋਚਨਾਤਮਕ ਪੜਚੋਲ ਹੈ।",
+   "author": "ഉസ്മാൻ പാലക്കാഴി",
+   "issue_date": "2017-02-18",
+   "html_url": "/pa/history/manusmriti-and-the-caste-system-20170218-7.html",
+   "md_url": "/pa/history/manusmriti-and-the-caste-system-20170218-7.md"
   },
   {
    "slug": "challenges-posed-by-pseudo-nationalism-20170204-4",
