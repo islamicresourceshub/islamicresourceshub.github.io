@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T07:25:58.099881+00:00",
+ "generated_at": "2026-09-07T07:26:28.330188+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4198,
+ "count": 4199,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -10208,6 +10208,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/hi/hadith/criteria-for-accepting-hadith-20170128-2.html",
    "md_url": "/hi/hadith/criteria-for-accepting-hadith-20170128-2.md"
+  },
+  {
+   "slug": "manusmriti-and-the-caste-system-20170218-7",
+   "lang": "hi",
+   "category": "history",
+   "title": "मनुस्मृति और जाति-वर्ण व्यवस्था",
+   "summary": "यह लेख मनुस्मृति और पुरुषसूक्त में वर्णित जाति-वर्ण व्यवस्था का ऐतिहासिक विश्लेषण करता है। यह सामाजिक भेदभाव की जड़ों की एक आलोचनात्मक पड़ताल है।",
+   "author": "ഉസ്മാൻ പാലക്കാഴി",
+   "issue_date": "2017-02-18",
+   "html_url": "/hi/history/manusmriti-and-the-caste-system-20170218-7.html",
+   "md_url": "/hi/history/manusmriti-and-the-caste-system-20170218-7.md"
   },
   {
    "slug": "challenges-posed-by-pseudo-nationalism-20170204-4",
