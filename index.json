@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T08:50:52.540463+00:00",
+ "generated_at": "2026-09-07T08:51:54.377124+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4282,
+ "count": 4283,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -45463,6 +45463,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/uz/opinion/salafi-preaching-a-theoretical-analysis-20170121-10.html",
    "md_url": "/uz/opinion/salafi-preaching-a-theoretical-analysis-20170121-10.md"
+  },
+  {
+   "slug": "secular-government-and-muslim-minority-20170218-8",
+   "lang": "uz",
+   "category": "opinion",
+   "title": "Duniyaviy hukumat va musulmon ozchilik",
+   "summary": "Ushbu maqolada Hindiston konstitutsiyasi nazarda tutgan dunyaviylik va unda ozchiliklar uchun belgilangan huquqlar haqida so‘z boradi. Shuningdek, din erkinligi va konstitutsiyaviy himoya masalalari tahlil qilinadi.",
+   "author": "സിറാജുല്‍ ഇസ്‌ലാം ബാലുശ്ശേരി",
+   "issue_date": "2017-02-18",
+   "html_url": "/uz/opinion/secular-government-and-muslim-minority-20170218-8.html",
+   "md_url": "/uz/opinion/secular-government-and-muslim-minority-20170218-8.md"
   },
   {
    "slug": "terrorism-and-religious-freedom-20170114-1",
