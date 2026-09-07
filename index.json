@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T05:28:37.968156+00:00",
+ "generated_at": "2026-09-07T05:29:16.736447+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4054,
+ "count": 4055,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -36124,6 +36124,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/so/family/the-methodology-of-conduct-20170128-8.html",
    "md_url": "/so/family/the-methodology-of-conduct-20170128-8.md"
+  },
+  {
+   "slug": "thoughts-during-pregnancy-20170218-4",
+   "lang": "so",
+   "category": "family",
+   "title": "Fikiraha xilliga uurka",
+   "summary": "Qoraalkani wuxuu ka hadlayaa akhlaaqda iyo ducada ay tahay in waalidku ay ku dhaqmaan xilliga uurka. Wuxuu sharxayaa saamaynta ay maskaxda waalidku ku leedahay korriinka ilmaha, taas oo qayb ka ah tarbiyada Islaamiga ah.",
+   "author": "അഷ്‌റഫ് എകരൂല്‍",
+   "issue_date": "2017-02-18",
+   "html_url": "/so/family/thoughts-during-pregnancy-20170218-4.html",
+   "md_url": "/so/family/thoughts-during-pregnancy-20170218-4.md"
   },
   {
    "slug": "mosque-construction-some-points-to-note-20170325-5",
