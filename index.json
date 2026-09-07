@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T05:01:45.879914+00:00",
+ "generated_at": "2026-09-07T05:02:19.991462+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3979,
+ "count": 3980,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -30063,6 +30063,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/ne/dawah/showing-the-light-is-the-duty-of-scholars-20170121-14.html",
    "md_url": "/ne/dawah/showing-the-light-is-the-duty-of-scholars-20170121-14.md"
+  },
+  {
+   "slug": "solution-for-divisions-20170218-3",
+   "lang": "ne",
+   "category": "dawah",
+   "title": "विभाजनको समाधान",
+   "summary": "यो लेखले विश्व शान्तिका लागि खतरा बनेको आतंकवादको सामना गर्न शान्तिप्रेमीहरूबीचको एकता अपरिहार्य रहेको तर्क गर्दछ। साथै, फासीवादको प्रतिरोध गर्न वैचारिक एकताले कसरी मद्दत गर्छ र मुजाहिद आन्दोलनमा देखिएका वैचारिक अस्पष्टताहरूलाई कसरी सम्बोधन गर्नुपर्छ भन्ने विषयमा चर्चा गरिएको छ।",
+   "author": "ടി.കെ.അശ്‌റഫ്‌",
+   "issue_date": "2017-02-18",
+   "html_url": "/ne/dawah/solution-for-divisions-20170218-3.html",
+   "md_url": "/ne/dawah/solution-for-divisions-20170218-3.md"
   },
   {
    "slug": "stand-tall-20170121-8",
