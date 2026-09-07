@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T05:14:43.696533+00:00",
+ "generated_at": "2026-09-07T05:15:16.682117+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4010,
+ "count": 4011,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -2090,6 +2090,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/as/family/the-methodology-of-conduct-20170128-8.html",
    "md_url": "/as/family/the-methodology-of-conduct-20170128-8.md"
+  },
+  {
+   "slug": "thoughts-during-pregnancy-20170218-4",
+   "lang": "as",
+   "category": "family",
+   "title": "গৰ্ভাৱস্থাৰ চিন্তা-চৰ্চা",
+   "summary": "গৰ্ভাৱস্থাত পিতৃ-মাতৃয়ে পালন কৰিবলগীয়া মৰ্যাদা আৰু প্ৰাৰ্থনাসমূহৰ বিষয়ে ইয়াত আলোচনা কৰা হৈছে। ইছলামিক পেৰেণ্টিঙৰ অংশ হিচাপে সন্তানৰ বিকাশৰ ক্ষেত্ৰত পিতৃ-মাতৃৰ মানসিক অৱস্থাই কেনেদৰে প্ৰভাৱ পেলায়, সেয়া ইয়াত ব্যাখ্যা কৰা হৈছে।",
+   "author": "അഷ്‌റഫ് എകരൂല്‍",
+   "issue_date": "2017-02-18",
+   "html_url": "/as/family/thoughts-during-pregnancy-20170218-4.html",
+   "md_url": "/as/family/thoughts-during-pregnancy-20170218-4.md"
   },
   {
    "slug": "mosque-construction-some-points-to-note-20170325-5",
