@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T08:53:54.998953+00:00",
+ "generated_at": "2026-09-07T08:54:53.615990+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4285,
+ "count": 4286,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -781,6 +781,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/am/opinion/secular-government-and-muslim-minority-20170218-8.html",
    "md_url": "/am/opinion/secular-government-and-muslim-minority-20170218-8.md"
+  },
+  {
+   "slug": "strengthening-secular-political-unity-20170218-9",
+   "lang": "am",
+   "category": "opinion",
+   "title": "መጠናከር ያለበት ዓለማዊ የፖለቲካ አንድነት",
+   "summary": "ይህ መጣጥፍ በአገሪቱ እያደገ የመጣውን ፋሺስታዊ አዝማሚያ ለመግታት ዓለማዊ የፖለቲካ ፓርቲዎች አንድ መሆን እንዳለባቸው ያሳስባል። ሕገ-መንግስታዊ እሴቶችን ለመጠበቅ የፖለቲካ አንድነት ወሳኝ መሆኑን በግልጽ ያስቀምጣል።",
+   "author": "സുഫ്‌യാൻ അബ്ദുസ്സലാം",
+   "issue_date": "2017-02-18",
+   "html_url": "/am/opinion/strengthening-secular-political-unity-20170218-9.html",
+   "md_url": "/am/opinion/strengthening-secular-political-unity-20170218-9.md"
   },
   {
    "slug": "terrorism-and-religious-freedom-20170114-1",
