@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T12:39:58.626389+00:00",
+ "generated_at": "2026-09-07T12:40:52.993648+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4492,
+ "count": 4493,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -10934,6 +10934,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/hi/dawah/stand-tall-20170121-8.html",
    "md_url": "/hi/dawah/stand-tall-20170121-8.md"
+  },
+  {
+   "slug": "the-chemistry-of-unity-20170225-2",
+   "lang": "hi",
+   "category": "dawah",
+   "title": "एकता का रसायन",
+   "summary": "यह लेख तौहीद के प्रचार में एकता के महत्व और उससे जुड़ी चुनौतियों का गहराई से विश्लेषण करता है। इसमें संगठनात्मक एकता की प्रासंगिकता और उसके नाम पर हो रहे वैचारिक समझौतों पर सवाल उठाए गए हैं।",
+   "author": "ടി.കെ.അശ്‌റഫ്",
+   "issue_date": "2017-02-25",
+   "html_url": "/hi/dawah/the-chemistry-of-unity-20170225-2.html",
+   "md_url": "/hi/dawah/the-chemistry-of-unity-20170225-2.md"
   },
   {
    "slug": "the-religion-that-rejects-terrorism-part-1-20170121-12",
