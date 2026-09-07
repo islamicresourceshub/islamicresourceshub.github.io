@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T09:22:09.378781+00:00",
+ "generated_at": "2026-09-07T09:23:06.272686+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4315,
+ "count": 4316,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -40942,6 +40942,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/ta/opinion/secular-government-and-muslim-minority-20170218-8.html",
    "md_url": "/ta/opinion/secular-government-and-muslim-minority-20170218-8.md"
+  },
+  {
+   "slug": "strengthening-secular-political-unity-20170218-9",
+   "lang": "ta",
+   "category": "opinion",
+   "title": "வலுப்படுத்தப்பட வேண்டிய மதச்சார்பற்ற அரசியல் ஒற்றுமை",
+   "summary": "நாட்டில் வளர்ந்து வரும் பாசிசப் போக்குகளை எதிர்கொள்ள மதச்சார்பற்ற அரசியல் கட்சிகள் ஒன்றிணைய வேண்டியதன் அவசியத்தை இந்தக் கட்டுரை வலியுறுத்துகிறது. அரசியலமைப்பு விழுமியங்களைப் பாதுகாக்க அரசியல் ஒற்றுமை இன்றியமையாதது என்பதை இது தெளிவுபடுத்துகிறது.",
+   "author": "സുഫ്‌യാൻ അബ്ദുസ്സലാം",
+   "issue_date": "2017-02-18",
+   "html_url": "/ta/opinion/strengthening-secular-political-unity-20170218-9.html",
+   "md_url": "/ta/opinion/strengthening-secular-political-unity-20170218-9.md"
   },
   {
    "slug": "terrorism-and-religious-freedom-20170114-1",
