@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T10:35:09.587040+00:00",
+ "generated_at": "2026-09-07T10:36:00.049038+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4359,
+ "count": 4360,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -45089,6 +45089,17 @@
    "issue_date": "2017-02-11",
    "html_url": "/ur/dawah/unity-ideology-and-movement-20170211-2.html",
    "md_url": "/ur/dawah/unity-ideology-and-movement-20170211-2.md"
+  },
+  {
+   "slug": "what-do-we-have-for-ourselves-20170218-10",
+   "lang": "ur",
+   "category": "dawah",
+   "title": "ہمارے پاس اپنا کیا ہے؟",
+   "summary": "یہ مضمون قیامت کے بارے میں قرآنی انتباہات کی روشنی میں تیار کیا گیا ہے۔ یہ ہمیں اس بات پر غور و فکر کرنے کی دعوت دیتا ہے کہ ہم نے آخرت کی زندگی کے لیے کیا تیاری کی ہے۔",
+   "author": "എസ്‌.എ ഐദീദ്‌ തങ്ങൾ",
+   "issue_date": "2017-02-18",
+   "html_url": "/ur/dawah/what-do-we-have-for-ourselves-20170218-10.html",
+   "md_url": "/ur/dawah/what-do-we-have-for-ourselves-20170218-10.md"
   },
   {
    "slug": "children-an-islamic-reading-part-4-20170204-5",
