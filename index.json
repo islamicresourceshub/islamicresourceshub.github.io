@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T11:46:41.451359+00:00",
+ "generated_at": "2026-09-07T11:47:31.334586+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4440,
+ "count": 4441,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -48323,6 +48323,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/zh/dawah/muslims-in-a-pluralistic-society-20170128-1.html",
    "md_url": "/zh/dawah/muslims-in-a-pluralistic-society-20170128-1.md"
+  },
+  {
+   "slug": "organization-is-not-for-division-20170218-13",
+   "lang": "zh",
+   "category": "dawah",
+   "title": "组织不是为了分裂！",
+   "summary": "本文提醒人们，伊斯兰运动与组织的宗旨在于团结，而非制造分歧。文章强调了信士之间相互协作的重要性，并阐述了组织纪律与领导责任在伊斯兰集体生活中的核心地位。",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2017-02-18",
+   "html_url": "/zh/dawah/organization-is-not-for-division-20170218-13.html",
+   "md_url": "/zh/dawah/organization-is-not-for-division-20170218-13.md"
   },
   {
    "slug": "prayer-that-is-worship-20170325-6",
