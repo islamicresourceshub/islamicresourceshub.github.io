@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T09:49:41.751737+00:00",
+ "generated_at": "2026-09-07T09:52:35.241018+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4342,
+ "count": 4343,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -31031,6 +31031,17 @@
    "issue_date": "2017-02-11",
    "html_url": "/mr/dawah/unity-ideology-and-movement-20170211-2.html",
    "md_url": "/mr/dawah/unity-ideology-and-movement-20170211-2.md"
+  },
+  {
+   "slug": "what-do-we-have-for-ourselves-20170218-10",
+   "lang": "mr",
+   "category": "dawah",
+   "title": "आपल्याकडे स्वतःचे असे काय आहे?",
+   "summary": "अंतिम दिवसाच्या (कयामत) कुराणविषयक इशाऱ्यांवर आधारित हा लेख आहे. परलोकातील जीवनासाठी आपण काय तयारी केली आहे, याचे आत्मपरीक्षण करण्यास हा लेख प्रवृत्त करतो.",
+   "author": "എസ്‌.എ ഐദീദ്‌ തങ്ങൾ",
+   "issue_date": "2017-02-18",
+   "html_url": "/mr/dawah/what-do-we-have-for-ourselves-20170218-10.html",
+   "md_url": "/mr/dawah/what-do-we-have-for-ourselves-20170218-10.md"
   },
   {
    "slug": "children-an-islamic-reading-part-4-20170204-5",
