@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T06:02:35.227259+00:00",
+ "generated_at": "2026-09-07T06:03:00.336632+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4154,
+ "count": 4155,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -33088,6 +33088,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/pa/family/the-methodology-of-conduct-20170128-8.html",
    "md_url": "/pa/family/the-methodology-of-conduct-20170128-8.md"
+  },
+  {
+   "slug": "the-new-generation-that-makes-us-weep-20170218-6",
+   "lang": "pa",
+   "category": "family",
+   "title": "ਹੰਝੂ ਵਹਾਉਣ ਵਾਲੀ ਨਵੀਂ ਪੀੜ੍ਹੀ",
+   "summary": "ਇਹ ਲੇਖ ਮਾਪਿਆਂ ਦੁਆਰਾ ਅਨੁਭਵ ਕੀਤੇ ਜਾ ਰਹੇ ਮਾਨਸਿਕ ਸੰਘਰਸ਼ਾਂ ਅਤੇ ਨਵੀਂ ਪੀੜ੍ਹੀ ਦੇ ਵਿਵਹਾਰ ਬਾਰੇ ਇੱਕ ਅਨੁਭਵੀ ਲਿਖਤ ਹੈ। ਇਸ ਵਿੱਚ ਪਰਿਵਾਰਕ ਰਿਸ਼ਤਿਆਂ ਵਿੱਚ ਆ ਰਹੀਆਂ ਤਰੇੜਾਂ ਅਤੇ ਉਹਨਾਂ ਦੇ ਪਿੱਛੇ ਦੇ ਸਮਾਜਿਕ ਕਾਰਨਾਂ 'ਤੇ ਚਰਚਾ ਕੀਤੀ ਗਈ ਹੈ।",
+   "author": "ഇബ്‌നു അലി എടത്തനാട്ടുകര",
+   "issue_date": "2017-02-18",
+   "html_url": "/pa/family/the-new-generation-that-makes-us-weep-20170218-6.html",
+   "md_url": "/pa/family/the-new-generation-that-makes-us-weep-20170218-6.md"
   },
   {
    "slug": "thoughts-during-pregnancy-20170218-4",
