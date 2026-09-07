@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T05:23:52.448725+00:00",
+ "generated_at": "2026-09-07T05:24:22.993524+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4034,
+ "count": 4035,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -29139,6 +29139,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/mr/family/the-methodology-of-conduct-20170128-8.html",
    "md_url": "/mr/family/the-methodology-of-conduct-20170128-8.md"
+  },
+  {
+   "slug": "thoughts-during-pregnancy-20170218-4",
+   "lang": "mr",
+   "category": "family",
+   "title": "गर्भावस्थेतील विचार",
+   "summary": "गर्भावस्थेत पालकांनी पाळायची शिस्त आणि प्रार्थना यावर हा लेख प्रकाश टाकतो. इस्लामिक पालकत्वाचा भाग म्हणून, मुलाच्या वाढीवर पालकांच्या मानसिक स्थितीचा कसा प्रभाव पडतो, याचे सविस्तर विवेचन यात केले आहे.",
+   "author": "അഷ്‌റഫ് എകരൂല്‍",
+   "issue_date": "2017-02-18",
+   "html_url": "/mr/family/thoughts-during-pregnancy-20170218-4.html",
+   "md_url": "/mr/family/thoughts-during-pregnancy-20170218-4.md"
   },
   {
    "slug": "mosque-construction-some-points-to-note-20170325-5",
