@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T11:22:48.421497+00:00",
+ "generated_at": "2026-09-07T11:23:44.506322+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4413,
+ "count": 4414,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -9724,6 +9724,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/ha/dawah/muslims-in-a-pluralistic-society-20170128-1.html",
    "md_url": "/ha/dawah/muslims-in-a-pluralistic-society-20170128-1.md"
+  },
+  {
+   "slug": "organization-is-not-for-division-20170218-13",
+   "lang": "ha",
+   "category": "dawah",
+   "title": "Kungiya ba don rarrabuwa ba ce!",
+   "summary": "Wannan rubutu yana tunatar da cewa manufar kungiyoyin Musulunci ita ce hadin kai, ba rarrabuwa ba. Yana bayyana mahimmancin hadin kai da biyayya ga jagoranci a cikin tsarin rayuwar Musulunci.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2017-02-18",
+   "html_url": "/ha/dawah/organization-is-not-for-division-20170218-13.html",
+   "md_url": "/ha/dawah/organization-is-not-for-division-20170218-13.md"
   },
   {
    "slug": "prayer-that-is-worship-20170325-6",
