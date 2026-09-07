@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T12:05:06.383104+00:00",
+ "generated_at": "2026-09-07T12:05:57.901306+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4458,
+ "count": 4459,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -15356,6 +15356,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/ko/history/manusmriti-and-the-caste-system-20170218-7.html",
    "md_url": "/ko/history/manusmriti-and-the-caste-system-20170218-7.md"
+  },
+  {
+   "slug": "anxieties-of-those-who-deviated-from-the-path-of-ideology-20170225-1",
+   "lang": "ko",
+   "category": "opinion",
+   "title": "이념적 노선에서 이탈한 자들의 불안",
+   "summary": "이 글은 KNM 지도자 압두살람 술라미의 기고문에 대한 반박으로, 이슬람의 진정한 통합에 대한 관점과 이념적 일탈에 대한 비판적 분석을 담고 있습니다. 무자히드 운동의 근간을 흔드는 사상적 오류들을 조목조목 짚어내며 올바른 신앙의 길을 제시합니다.",
+   "author": "അബ്ദുല്‍ മാലിക് സലഫി",
+   "issue_date": "2017-02-25",
+   "html_url": "/ko/opinion/anxieties-of-those-who-deviated-from-the-path-of-ideology-20170225-1.html",
+   "md_url": "/ko/opinion/anxieties-of-those-who-deviated-from-the-path-of-ideology-20170225-1.md"
   },
   {
    "slug": "challenges-posed-by-pseudo-nationalism-20170204-4",
