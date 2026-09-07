@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T13:42:25.345991+00:00",
+ "generated_at": "2026-09-07T13:43:23.773417+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4523,
+ "count": 4524,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -4202,6 +4202,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/bs/hadith/criteria-for-accepting-hadith-20170128-2.html",
    "md_url": "/bs/hadith/criteria-for-accepting-hadith-20170128-2.md"
+  },
+  {
+   "slug": "islamophobia-archetypes-of-ancient-history-20170225-3",
+   "lang": "bs",
+   "category": "history",
+   "title": "Islamofobija: Arhetipovi drevne historije",
+   "summary": "Ovaj članak objašnjava kako je islamofobija nastala u historijskom kontekstu i kako se ona ponavlja u savremenom dobu. Autor poziva na izvlačenje pouka iz života Poslanika Muhammeda, a.s., kako bi se suočili sa današnjim izazovima.",
+   "author": "മുഹമ്മദ് അജ്മല്‍ സി",
+   "issue_date": "2017-02-25",
+   "html_url": "/bs/history/islamophobia-archetypes-of-ancient-history-20170225-3.html",
+   "md_url": "/bs/history/islamophobia-archetypes-of-ancient-history-20170225-3.md"
   },
   {
    "slug": "manusmriti-and-the-caste-system-20170218-7",
