@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T10:55:53.729474+00:00",
+ "generated_at": "2026-09-07T10:56:46.185288+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4383,
+ "count": 4384,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -33407,6 +33407,17 @@
    "issue_date": "2017-02-11",
    "html_url": "/ne/story/allah-is-watching-20170211-3.html",
    "md_url": "/ne/story/allah-is-watching-20170211-3.md"
+  },
+  {
+   "slug": "broken-hearts-20170218-11",
+   "lang": "ne",
+   "category": "story",
+   "title": "छेदिएका मनहरू",
+   "summary": "आमाबुबालाई दुःख दिने एक बालकको कथाका माध्यमबाट आफ्ना गल्तीहरू सुधार्नुपर्ने आवश्यकता र क्रोध व्यवस्थापनको महत्त्वबारे सचेतना जगाउने कथा। यो बालबालिकाहरूका लागि नैतिक शिक्षा दिने एउटा सुन्दर कथा हो।",
+   "author": "അറബി കഥ - പുനരാഖ്യാനം: തൻസീൽ",
+   "issue_date": "2017-02-18",
+   "html_url": "/ne/story/broken-hearts-20170218-11.html",
+   "md_url": "/ne/story/broken-hearts-20170218-11.md"
   },
   {
    "slug": "good-intention-matters-most-20170325-8",
