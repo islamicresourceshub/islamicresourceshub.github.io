@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T08:44:28.842346+00:00",
+ "generated_at": "2026-09-07T08:45:29.878040+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4278,
+ "count": 4279,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -42207,6 +42207,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/th/opinion/salafi-preaching-a-theoretical-analysis-20170121-10.html",
    "md_url": "/th/opinion/salafi-preaching-a-theoretical-analysis-20170121-10.md"
+  },
+  {
+   "slug": "secular-government-and-muslim-minority-20170218-8",
+   "lang": "th",
+   "category": "opinion",
+   "title": "รัฐบาลฆราวาสกับชนกลุ่มน้อยมุสลิม",
+   "summary": "บทความนี้อภิปรายถึงแนวคิดเรื่องความเป็นฆราวาสตามรัฐธรรมนูญอินเดียและสิทธิของชนกลุ่มน้อยมุสลิม โดยเน้นย้ำถึงเสรีภาพทางศาสนาและการคุ้มครองตามรัฐธรรมนูญผ่านมุมมองทางประวัติศาสตร์และหลักการอิสลาม",
+   "author": "സിറാജുല്‍ ഇസ്‌ലാം ബാലുശ്ശേരി",
+   "issue_date": "2017-02-18",
+   "html_url": "/th/opinion/secular-government-and-muslim-minority-20170218-8.html",
+   "md_url": "/th/opinion/secular-government-and-muslim-minority-20170218-8.md"
   },
   {
    "slug": "terrorism-and-religious-freedom-20170114-1",
