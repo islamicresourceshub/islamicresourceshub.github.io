@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T12:46:19.621948+00:00",
+ "generated_at": "2026-09-07T12:47:18.079218+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4499,
+ "count": 4500,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -32659,6 +32659,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/ms/dawah/stand-tall-20170121-8.html",
    "md_url": "/ms/dawah/stand-tall-20170121-8.md"
+  },
+  {
+   "slug": "the-chemistry-of-unity-20170225-2",
+   "lang": "ms",
+   "category": "dawah",
+   "title": "Kimia Penyatuan",
+   "summary": "Artikel ini meneliti secara mendalam sama ada penyatuan organisasi menjadi penghalang kepada dakwah Tauhid. Ia membincangkan kerelevanan penyatuan gerakan Islam serta cabaran-cabaran yang timbul daripadanya.",
+   "author": "ടി.കെ.അശ്‌റഫ്",
+   "issue_date": "2017-02-25",
+   "html_url": "/ms/dawah/the-chemistry-of-unity-20170225-2.html",
+   "md_url": "/ms/dawah/the-chemistry-of-unity-20170225-2.md"
   },
   {
    "slug": "the-message-of-equality-20170121-11",
