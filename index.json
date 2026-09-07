@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T09:14:23.822646+00:00",
+ "generated_at": "2026-09-07T09:15:23.357945+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4307,
+ "count": 4308,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -34430,6 +34430,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/pa/opinion/secular-government-and-muslim-minority-20170218-8.html",
    "md_url": "/pa/opinion/secular-government-and-muslim-minority-20170218-8.md"
+  },
+  {
+   "slug": "strengthening-secular-political-unity-20170218-9",
+   "lang": "pa",
+   "category": "opinion",
+   "title": "ਧਰਮ-ਨਿਰਪੱਖ ਰਾਜਨੀਤਿਕ ਏਕਤਾ ਨੂੰ ਮਜ਼ਬੂਤ ਕਰਨ ਦੀ ਲੋੜ",
+   "summary": "ਇਹ ਲੇਖ ਦੇਸ਼ ਵਿੱਚ ਵੱਧ ਰਹੀਆਂ ਫਾਸ਼ੀਵਾਦੀ ਪ੍ਰਵਿਰਤੀਆਂ ਦਾ ਮੁਕਾਬਲਾ ਕਰਨ ਲਈ ਧਰਮ-ਨਿਰਪੱਖ ਰਾਜਨੀਤਿਕ ਪਾਰਟੀਆਂ ਦੇ ਇਕਜੁੱਟ ਹੋਣ ਦੀ ਜ਼ਰੂਰਤ 'ਤੇ ਜ਼ੋਰ ਦਿੰਦਾ ਹੈ। ਇਹ ਸਪੱਸ਼ਟ ਕਰਦਾ ਹੈ ਕਿ ਸੰਵਿਧਾਨਕ ਕਦਰਾਂ-ਕੀਮਤਾਂ ਦੀ ਰਾਖੀ ਲਈ ਰਾਜਨੀਤਿਕ ਏਕਤਾ ਲਾਜ਼ਮੀ ਹੈ।",
+   "author": "സുഫ്‌യാൻ അബ്ദുസ്സലാം",
+   "issue_date": "2017-02-18",
+   "html_url": "/pa/opinion/strengthening-secular-political-unity-20170218-9.html",
+   "md_url": "/pa/opinion/strengthening-secular-political-unity-20170218-9.md"
   },
   {
    "slug": "terrorism-and-religious-freedom-20170114-1",
