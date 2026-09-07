@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T11:51:49.812830+00:00",
+ "generated_at": "2026-09-07T11:52:52.873288+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4445,
+ "count": 4446,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -4114,6 +4114,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/bs/history/manusmriti-and-the-caste-system-20170218-7.html",
    "md_url": "/bs/history/manusmriti-and-the-caste-system-20170218-7.md"
+  },
+  {
+   "slug": "anxieties-of-those-who-deviated-from-the-path-of-ideology-20170225-1",
+   "lang": "bs",
+   "category": "opinion",
+   "title": "Zabrinutosti onih koji su skrenuli sa ideološkog puta",
+   "summary": "Ovaj članak raspravlja o islamskom pogledu na jedinstvo kao odgovor na članak vođe KNM-a Abdussalama Sullamija. Kritički se analiziraju ideološka odstupanja i njihove posljedice po zajednicu.",
+   "author": "അബ്ദുല്‍ മാലിക് സലഫി",
+   "issue_date": "2017-02-25",
+   "html_url": "/bs/opinion/anxieties-of-those-who-deviated-from-the-path-of-ideology-20170225-1.html",
+   "md_url": "/bs/opinion/anxieties-of-those-who-deviated-from-the-path-of-ideology-20170225-1.md"
   },
   {
    "slug": "challenges-posed-by-pseudo-nationalism-20170204-4",
