@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T07:08:44.925492+00:00",
+ "generated_at": "2026-09-07T07:10:30.681017+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4184,
+ "count": 4185,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -45023,6 +45023,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/vi/family/the-methodology-of-conduct-20170128-8.html",
    "md_url": "/vi/family/the-methodology-of-conduct-20170128-8.md"
+  },
+  {
+   "slug": "the-new-generation-that-makes-us-weep-20170218-6",
+   "lang": "vi",
+   "category": "family",
+   "title": "Thế hệ trẻ khiến cha mẹ rơi lệ",
+   "summary": "Một bài viết chia sẻ về những áp lực tâm lý mà các bậc phụ huynh phải gánh chịu trước cách hành xử của thế hệ trẻ ngày nay. Bài viết thảo luận về những rạn nứt trong quan hệ gia đình và các yếu tố xã hội dẫn đến tình trạng này.",
+   "author": "ഇബ്‌നു അലി എടത്തനാട്ടുകര",
+   "issue_date": "2017-02-18",
+   "html_url": "/vi/family/the-new-generation-that-makes-us-weep-20170218-6.html",
+   "md_url": "/vi/family/the-new-generation-that-makes-us-weep-20170218-6.md"
   },
   {
    "slug": "thoughts-during-pregnancy-20170218-4",
