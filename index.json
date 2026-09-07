@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T11:39:08.617539+00:00",
+ "generated_at": "2026-09-07T11:40:01.690354+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4431,
+ "count": 4432,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -40656,6 +40656,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/sw/dawah/muslims-in-a-pluralistic-society-20170128-1.html",
    "md_url": "/sw/dawah/muslims-in-a-pluralistic-society-20170128-1.md"
+  },
+  {
+   "slug": "organization-is-not-for-division-20170218-13",
+   "lang": "sw",
+   "category": "dawah",
+   "title": "Tanzim si kwa ajili ya mgawanyiko!",
+   "summary": "Makala hii inakumbusha kuwa lengo la harakati na mashirika ya Kiislamu ni umoja na siyo kusababisha migawanyiko. Inasisitiza umuhimu wa ushirikiano kati ya waumini na wajibu wa nidhamu katika kazi za pamoja.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2017-02-18",
+   "html_url": "/sw/dawah/organization-is-not-for-division-20170218-13.html",
+   "md_url": "/sw/dawah/organization-is-not-for-division-20170218-13.md"
   },
   {
    "slug": "prayer-that-is-worship-20170325-6",
