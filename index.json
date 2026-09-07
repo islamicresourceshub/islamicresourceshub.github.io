@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T07:25:20.302958+00:00",
+ "generated_at": "2026-09-07T07:25:58.099881+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4197,
+ "count": 4198,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -9416,6 +9416,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/ha/hadith/criteria-for-accepting-hadith-20170128-2.html",
    "md_url": "/ha/hadith/criteria-for-accepting-hadith-20170128-2.md"
+  },
+  {
+   "slug": "manusmriti-and-the-caste-system-20170218-7",
+   "lang": "ha",
+   "category": "history",
+   "title": "Manusmriti da tsarin kabilanci da aji",
+   "summary": "Wannan rubutu yana yin nazari kan tarihin tsarin kabilanci da aji a cikin littattafan Manusmriti da Purushasukta. Bincike ne mai zurfi kan tushen wariya da rarrabuwar kawuna a cikin al'umma.",
+   "author": "ഉസ്മാൻ പാലക്കാഴി",
+   "issue_date": "2017-02-18",
+   "html_url": "/ha/history/manusmriti-and-the-caste-system-20170218-7.html",
+   "md_url": "/ha/history/manusmriti-and-the-caste-system-20170218-7.md"
   },
   {
    "slug": "challenges-posed-by-pseudo-nationalism-20170204-4",
