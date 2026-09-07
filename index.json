@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T08:42:29.584325+00:00",
+ "generated_at": "2026-09-07T08:43:31.380665+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4276,
+ "count": 4277,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -40601,6 +40601,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/ta/opinion/salafi-preaching-a-theoretical-analysis-20170121-10.html",
    "md_url": "/ta/opinion/salafi-preaching-a-theoretical-analysis-20170121-10.md"
+  },
+  {
+   "slug": "secular-government-and-muslim-minority-20170218-8",
+   "lang": "ta",
+   "category": "opinion",
+   "title": "மதச்சார்பற்ற அரசாங்கமும் முஸ்லிம் சிறுபான்மையினரும்",
+   "summary": "இந்திய அரசியலமைப்பு முன்வைக்கும் மதச்சார்பின்மை மற்றும் அதில் சிறுபான்மையினருக்கான உரிமைகள் குறித்து இக்கட்டுரை விவரிக்கிறது. மத சுதந்திரம் மற்றும் அரசியலமைப்பு ரீதியான பாதுகாப்பு குறித்த ஒரு மேலோட்டமான பார்வை.",
+   "author": "സിറാജുല്‍ ഇസ്‌ലാം ബാലുശ്ശേരി",
+   "issue_date": "2017-02-18",
+   "html_url": "/ta/opinion/secular-government-and-muslim-minority-20170218-8.html",
+   "md_url": "/ta/opinion/secular-government-and-muslim-minority-20170218-8.md"
   },
   {
    "slug": "terrorism-and-religious-freedom-20170114-1",
