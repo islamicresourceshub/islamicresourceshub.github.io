@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T10:43:59.506811+00:00",
+ "generated_at": "2026-09-07T10:44:42.993857+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4369,
+ "count": 4370,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -6006,6 +6006,17 @@
    "issue_date": "2017-02-11",
    "html_url": "/en/story/allah-is-watching-20170211-3.html",
    "md_url": "/en/story/allah-is-watching-20170211-3.md"
+  },
+  {
+   "slug": "broken-hearts-20170218-11",
+   "lang": "en",
+   "category": "story",
+   "title": "Hearts with Holes",
+   "summary": "Through the story of a child who hurts his parents, this piece highlights the importance of correcting one's mistakes. It is a moral story intended for children.",
+   "author": "അറബി കഥ - പുനരാഖ്യാനം: തൻസീൽ",
+   "issue_date": "2017-02-18",
+   "html_url": "/en/story/broken-hearts-20170218-11.html",
+   "md_url": "/en/story/broken-hearts-20170218-11.md"
   },
   {
    "slug": "good-intention-matters-most-20170325-8",
