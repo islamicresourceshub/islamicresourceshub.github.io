@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T08:18:15.044723+00:00",
+ "generated_at": "2026-09-07T08:18:51.837539+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4255,
+ "count": 4256,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -8052,6 +8052,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/fr/opinion/salafi-preaching-a-theoretical-analysis-20170121-10.html",
    "md_url": "/fr/opinion/salafi-preaching-a-theoretical-analysis-20170121-10.md"
+  },
+  {
+   "slug": "secular-government-and-muslim-minority-20170218-8",
+   "lang": "fr",
+   "category": "opinion",
+   "title": "Le gouvernement laïc et la minorité musulmane",
+   "summary": "Cet article examine la laïcité telle qu'elle est envisagée par la Constitution indienne et les droits qu'elle garantit aux minorités. Il propose une réflexion sur la liberté religieuse et la protection constitutionnelle, tout en analysant la position des musulmans vivant dans un État non islamique.",
+   "author": "സിറാജുല്‍ ഇസ്‌ലാം ബാലുശ്ശേരി",
+   "issue_date": "2017-02-18",
+   "html_url": "/fr/opinion/secular-government-and-muslim-minority-20170218-8.html",
+   "md_url": "/fr/opinion/secular-government-and-muslim-minority-20170218-8.md"
   },
   {
    "slug": "terrorism-and-religious-freedom-20170114-1",
