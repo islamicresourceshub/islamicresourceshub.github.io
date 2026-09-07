@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T05:23:19.609943+00:00",
+ "generated_at": "2026-09-07T05:23:52.448725+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4033,
+ "count": 4034,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -13574,6 +13574,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/ko/family/the-methodology-of-conduct-20170128-8.html",
    "md_url": "/ko/family/the-methodology-of-conduct-20170128-8.md"
+  },
+  {
+   "slug": "thoughts-during-pregnancy-20170218-4",
+   "lang": "ko",
+   "category": "family",
+   "title": "임신 중의 생각들",
+   "summary": "임신 기간 동안 부모가 지켜야 할 예절과 기도에 대해 다룹니다. 이슬람식 육아의 일환으로, 부모의 심리 상태가 아이의 성장에 미치는 영향에 대해 설명합니다.",
+   "author": "അഷ്‌റഫ് എകരൂല്‍",
+   "issue_date": "2017-02-18",
+   "html_url": "/ko/family/thoughts-during-pregnancy-20170218-4.html",
+   "md_url": "/ko/family/thoughts-during-pregnancy-20170218-4.md"
   },
   {
    "slug": "mosque-construction-some-points-to-note-20170325-5",
