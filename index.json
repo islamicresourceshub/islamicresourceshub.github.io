@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T08:54:53.615990+00:00",
+ "generated_at": "2026-09-07T08:55:48.466744+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4286,
+ "count": 4287,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -1595,6 +1595,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/ar/opinion/secular-government-and-muslim-minority-20170218-8.html",
    "md_url": "/ar/opinion/secular-government-and-muslim-minority-20170218-8.md"
+  },
+  {
+   "slug": "strengthening-secular-political-unity-20170218-9",
+   "lang": "ar",
+   "category": "opinion",
+   "title": "تعزيز الوحدة السياسية العلمانية",
+   "summary": "يؤكد هذا المقال على ضرورة توحد القوى السياسية العلمانية لمواجهة النزعات الفاشية المتنامية في البلاد. ويوضح أن الوحدة السياسية أمر لا غنى عنه لحماية القيم الدستورية.",
+   "author": "സുഫ്‌യാൻ അബ്ദുസ്സലാം",
+   "issue_date": "2017-02-18",
+   "html_url": "/ar/opinion/strengthening-secular-political-unity-20170218-9.html",
+   "md_url": "/ar/opinion/strengthening-secular-political-unity-20170218-9.md"
   },
   {
    "slug": "terrorism-and-religious-freedom-20170114-1",
