@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T09:09:40.355956+00:00",
+ "generated_at": "2026-09-07T09:10:35.263348+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4302,
+ "count": 4303,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -14729,6 +14729,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/ko/opinion/secular-government-and-muslim-minority-20170218-8.html",
    "md_url": "/ko/opinion/secular-government-and-muslim-minority-20170218-8.md"
+  },
+  {
+   "slug": "strengthening-secular-political-unity-20170218-9",
+   "lang": "ko",
+   "category": "opinion",
+   "title": "강화되어야 할 세속적 정치 연대",
+   "summary": "본 글은 국가 내에서 커져가는 파시즘적 경향에 맞서기 위해 세속주의 정당들이 단결해야 할 필요성을 강조합니다. 헌법적 가치를 수호하기 위해서는 정치적 연대가 필수적임을 역설합니다.",
+   "author": "സുഫ്‌യാൻ അബ്ദുസ്സലാം",
+   "issue_date": "2017-02-18",
+   "html_url": "/ko/opinion/strengthening-secular-political-unity-20170218-9.html",
+   "md_url": "/ko/opinion/strengthening-secular-political-unity-20170218-9.md"
   },
   {
    "slug": "terrorism-and-religious-freedom-20170114-1",
