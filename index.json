@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T07:28:02.025037+00:00",
+ "generated_at": "2026-09-07T07:28:40.194025+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4212,
+ "count": 4213,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -12606,6 +12606,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/ja/hadith/criteria-for-accepting-hadith-20170128-2.html",
    "md_url": "/ja/hadith/criteria-for-accepting-hadith-20170128-2.md"
+  },
+  {
+   "slug": "manusmriti-and-the-caste-system-20170218-7",
+   "lang": "ja",
+   "category": "history",
+   "title": "マヌ法典とカースト・ヴァルナ制度",
+   "summary": "マヌ法典やプルシャ・スークタに見られるカースト・ヴァルナ制度を歴史的観点から検証します。社会的分断の根源を批判的に考察する論考です。",
+   "author": "ഉസ്മാൻ പാലക്കാഴി",
+   "issue_date": "2017-02-18",
+   "html_url": "/ja/history/manusmriti-and-the-caste-system-20170218-7.html",
+   "md_url": "/ja/history/manusmriti-and-the-caste-system-20170218-7.md"
   },
   {
    "slug": "challenges-posed-by-pseudo-nationalism-20170204-4",
