@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T04:45:02.515154+00:00",
+ "generated_at": "2026-09-07T04:45:39.428000+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3943,
+ "count": 3944,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -39435,6 +39435,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/tl/family/husband-trapped-in-the-mobile-web-20170121-5.html",
    "md_url": "/tl/family/husband-trapped-in-the-mobile-web-20170121-5.md"
+  },
+  {
+   "slug": "husband-who-encourages-breaking-family-ties-20170218-2",
+   "lang": "tl",
+   "category": "family",
+   "title": "Ang Asawang Nagtutulak sa Pagputol ng Ugnayan sa Pamilya",
+   "summary": "Tinatalakay ng artikulong ito ang malungkot na kalagayan ng isang babaeng napipilitang putulin ang ugnayan sa kanyang sariling pamilya dahil sa katigasan ng ulo ng kanyang asawa, at nagbibigay ng mga solusyong nakabatay sa Islam. Pinaaalalahanan nito ang kahalagahan ng pagpapanatili ng ugnayan sa pamilya.",
+   "author": "ഹാരിസ്ബിൻ സലീം",
+   "issue_date": "2017-02-18",
+   "html_url": "/tl/family/husband-who-encourages-breaking-family-ties-20170218-2.html",
+   "md_url": "/tl/family/husband-who-encourages-breaking-family-ties-20170218-2.md"
   },
   {
    "slug": "if-the-beginning-is-good-20170211-12",
