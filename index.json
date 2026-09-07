@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T10:09:47.950512+00:00",
+ "generated_at": "2026-09-07T10:10:44.652331+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4355,
+ "count": 4356,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -41745,6 +41745,17 @@
    "issue_date": "2017-02-11",
    "html_url": "/te/dawah/unity-ideology-and-movement-20170211-2.html",
    "md_url": "/te/dawah/unity-ideology-and-movement-20170211-2.md"
+  },
+  {
+   "slug": "what-do-we-have-for-ourselves-20170218-10",
+   "lang": "te",
+   "category": "dawah",
+   "title": "మన దగ్గర నిజంగా ఉన్నదేమిటి?",
+   "summary": "అంత్యదినం గురించిన ఖురాన్ హెచ్చరికల ఆధారంగా రూపొందించిన వ్యాసం. పరలోక జీవితం కోసం మనం ఏమి సిద్ధం చేసుకున్నామో ఆత్మపరిశీలన చేసుకోవడానికి ఇది ప్రేరేపిస్తుంది.",
+   "author": "എസ്‌.എ ഐദീദ്‌ തങ്ങൾ",
+   "issue_date": "2017-02-18",
+   "html_url": "/te/dawah/what-do-we-have-for-ourselves-20170218-10.html",
+   "md_url": "/te/dawah/what-do-we-have-for-ourselves-20170218-10.md"
   },
   {
    "slug": "children-an-islamic-reading-part-4-20170204-5",
