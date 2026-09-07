@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T05:10:57.465013+00:00",
+ "generated_at": "2026-09-07T05:11:28.663236+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4004,
+ "count": 4005,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -41437,6 +41437,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/ur/dawah/showing-the-light-is-the-duty-of-scholars-20170121-14.html",
    "md_url": "/ur/dawah/showing-the-light-is-the-duty-of-scholars-20170121-14.md"
+  },
+  {
+   "slug": "solution-for-divisions-20170218-3",
+   "lang": "ur",
+   "category": "dawah",
+   "title": "اختلافات کا حل",
+   "summary": "یہ مضمون اس بات پر زور دیتا ہے کہ عالمی امن کے لیے دہشت گردی کے خلاف امن پسندوں کا اتحاد ناگزیر ہے۔ اس میں یہ بھی بحث کی گئی ہے کہ نظریاتی ہم آہنگی کے بغیر اتحاد کس طرح ایک نیا بحران پیدا کر سکتا ہے اور کیوں نظریاتی وضاحتیں ضروری ہیں۔",
+   "author": "ടി.കെ.അശ്‌റഫ്‌",
+   "issue_date": "2017-02-18",
+   "html_url": "/ur/dawah/solution-for-divisions-20170218-3.html",
+   "md_url": "/ur/dawah/solution-for-divisions-20170218-3.md"
   },
   {
    "slug": "stand-tall-20170121-8",
