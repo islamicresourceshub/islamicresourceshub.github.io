@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T05:46:40.041882+00:00",
+ "generated_at": "2026-09-07T05:47:01.304803+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4102,
+ "count": 4103,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -35838,6 +35838,17 @@
    "issue_date": "2017-02-04",
    "html_url": "/si/opinion/challenges-posed-by-pseudo-nationalism-20170204-4.html",
    "md_url": "/si/opinion/challenges-posed-by-pseudo-nationalism-20170204-4.md"
+  },
+  {
+   "slug": "democratic-jallikattu-20170218-5",
+   "lang": "si",
+   "category": "opinion",
+   "title": "ප්‍රජාතන්ත්‍රවාදී ජල්ලිකට්ටු",
+   "summary": "මෙම ලිපිය තමිල්නාඩු දේශපාලනයේ මෑතකාලීන සිදුවීම් සහ බල අරගලය විශ්ලේෂණය කරයි. ප්‍රජාතන්ත්‍රවාදී රාමුව තුළ සිදුවන දේශපාලන නාට්‍යයන් විවේචනාත්මකව මෙහි විමසා බලයි.",
+   "author": "ഡോ. സി.എം സാബിര്‍ നവാസ്‌",
+   "issue_date": "2017-02-18",
+   "html_url": "/si/opinion/democratic-jallikattu-20170218-5.html",
+   "md_url": "/si/opinion/democratic-jallikattu-20170218-5.md"
   },
   {
    "slug": "e-writing-is-not-mere-writing-20170121-15",
