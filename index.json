@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T11:05:19.765527+00:00",
+ "generated_at": "2026-09-07T11:06:12.813856+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4393,
+ "count": 4394,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -41767,6 +41767,17 @@
    "issue_date": "2017-02-11",
    "html_url": "/ta/story/allah-is-watching-20170211-3.html",
    "md_url": "/ta/story/allah-is-watching-20170211-3.md"
+  },
+  {
+   "slug": "broken-hearts-20170218-11",
+   "lang": "ta",
+   "category": "story",
+   "title": "துளை விழுந்த மனங்கள்",
+   "summary": "பெற்றோரை வருத்தமடையச் செய்யும் ஒரு சிறுவனின் கதையின் மூலம், தவறுகளைத் திருத்திக்கொள்வதன் அவசியத்தை இக்கதை உணர்த்துகிறது. குழந்தைகளுக்கான நீதி போதிக்கும் ஒரு அழகான கதை இது.",
+   "author": "അറബി കഥ - പുനരാഖ്യാനം: തൻസീൽ",
+   "issue_date": "2017-02-18",
+   "html_url": "/ta/story/broken-hearts-20170218-11.html",
+   "md_url": "/ta/story/broken-hearts-20170218-11.md"
   },
   {
    "slug": "good-intention-matters-most-20170325-8",
