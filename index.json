@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T05:16:27.248041+00:00",
+ "generated_at": "2026-09-07T05:16:47.767983+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4012,
+ "count": 4020,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -17503,6 +17503,17 @@
    "md_url": "/ml/dawah/the-necessity-of-self-purification-20181124-1.md"
   },
   {
+   "slug": "the-neglected-arabic-language-20200815-2",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "അവഗണിക്കപ്പെടുന്ന അറബിഭാഷ",
+   "summary": "ആഗോളതലത്തിൽ വലിയ പ്രാധാന്യമുള്ള അറബി ഭാഷ കേരളത്തിലെ വിദ്യാഭ്യാസ മേഖലയിൽ നേരിടുന്ന അവഗണനകളെയും സമുദായവൽക്കരിക്കപ്പെടുന്നതിനെയും ലേഖകൻ വിമർശിക്കുന്നു. ഭാഷയുടെ അനന്തസാധ്യതകൾ തിരിച്ചറിഞ്ഞ് അതിനെ മുഖ്യധാരയിൽ ഉൾപ്പെടുത്തേണ്ടതിന്റെ ആവശ്യകത ഊന്നിപ്പറയുന്നു.",
+   "author": "ടി.കെ.അഷ്റഫ്",
+   "issue_date": "2020-08-15",
+   "html_url": "/ml/dawah/the-neglected-arabic-language-20200815-2.html",
+   "md_url": "/ml/dawah/the-neglected-arabic-language-20200815-2.md"
+  },
+  {
    "slug": "the-path-to-peace-20170225-11",
    "lang": "ml",
    "category": "dawah",
@@ -21419,6 +21430,17 @@
    "md_url": "/ml/opinion/assembly-election-results-join-hands-for-the-survival-of-sec-20181229-8.md"
   },
   {
+   "slug": "august-raises-concerns-again-20200815-8",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "ആശങ്കയുണർത്തി ആഗസ്റ്റ് വീണ്ടും",
+   "summary": "തുടർച്ചയായ വർഷങ്ങളിൽ കേരളം നേരിടുന്ന പ്രളയത്തെയും പ്രകൃതിദുരന്തങ്ങളെയും കുറിച്ചുള്ള ആശങ്കകൾ ലേഖകൻ പങ്കുവെക്കുന്നു. പ്രകൃതിയുടെ മാറ്റങ്ങളെയും ശാസ്ത്രീയമായ മുന്നറിയിപ്പുകളെയും ഗൗരവമായി കാണേണ്ടതിന്റെ ആവശ്യകതയെക്കുറിച്ച് പ്രതിപാദിക്കുന്നു.",
+   "author": "ഇബ്നു അലി എടത്തനാട്ടുകര",
+   "issue_date": "2020-08-15",
+   "html_url": "/ml/opinion/august-raises-concerns-again-20200815-8.html",
+   "md_url": "/ml/opinion/august-raises-concerns-again-20200815-8.md"
+  },
+  {
    "slug": "authorities-and-intolerance-20190831-1",
    "lang": "ml",
    "category": "opinion",
@@ -22112,6 +22134,17 @@
    "md_url": "/ml/opinion/health-education-sector-where-values-become-a-mirage-20181006-1.md"
   },
   {
+   "slug": "human-values-in-the-land-of-disaster-20200815-7",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "ദുരന്തഭൂമിയിലെ മാനവിക മൂല്യങ്ങൾ",
+   "summary": "പെട്ടിമുടി ഉരുൾപൊട്ടൽ, വിമാന അപകടം തുടങ്ങിയ ദുരന്തസമയങ്ങളിൽ മലയാളികൾ കാണിച്ച മാനവികതയെയും സേവനസന്നദ്ധതയെയും ലേഖകൻ പ്രശംസിക്കുന്നു. ദുരന്തങ്ങളെ രാഷ്ട്രീയവൽക്കരിക്കാനുള്ള ശ്രമങ്ങളെ കരുതിയിരിക്കണമെന്നും ഓർമ്മിപ്പിക്കുന്നു.",
+   "author": "നബീൽ പയ്യോളി",
+   "issue_date": "2020-08-15",
+   "html_url": "/ml/opinion/human-values-in-the-land-of-disaster-20200815-7.html",
+   "md_url": "/ml/opinion/human-values-in-the-land-of-disaster-20200815-7.md"
+  },
+  {
    "slug": "identify-and-correct-20191130-9",
    "lang": "ml",
    "category": "opinion",
@@ -22596,6 +22629,17 @@
    "md_url": "/ml/opinion/national-education-policy-concepts-and-concerns-20200808-1.md"
   },
   {
+   "slug": "national-education-policy-practical-challenges-20200815-6",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "ദേശീയ വിദ്യാഭ്യാസ നയം: പ്രായോഗികരംഗത്തെ പ്രതിസന്ധികൾ",
+   "summary": "പുതിയ ദേശീയ വിദ്യാഭ്യാസ നയം (NEP 2020) ഉന്നത വിദ്യാഭ്യാസ മേഖലയിൽ വരുത്തുന്ന മാറ്റങ്ങളെയും അത് സൃഷ്ടിക്കുന്ന പ്രായോഗിക പ്രതിസന്ധികളെയും ലേഖകൻ വിശകലനം ചെയ്യുന്നു. സ്വകാര്യവൽക്കരണവും കോർപ്പറേറ്റ് താല്പര്യങ്ങളും വിദ്യാഭ്യാസത്തെ എങ്ങനെ ബാധിക്കുമെന്ന് ചർച്ച ചെയ്യുന്നു.",
+   "author": "റഷീദ് കുട്ടമ്പൂർ",
+   "issue_date": "2020-08-15",
+   "html_url": "/ml/opinion/national-education-policy-practical-challenges-20200815-6.html",
+   "md_url": "/ml/opinion/national-education-policy-practical-challenges-20200815-6.md"
+  },
+  {
    "slug": "new-media-and-verbal-violence-20190720-8",
    "lang": "ml",
    "category": "opinion",
@@ -22759,6 +22803,17 @@
    "issue_date": "2019-01-26",
    "html_url": "/ml/opinion/rafale-alok-verma-and-the-central-government-20190126-7.html",
    "md_url": "/ml/opinion/rafale-alok-verma-and-the-central-government-20190126-7.md"
+  },
+  {
+   "slug": "ram-temple-politics-a-pointer-to-future-india-20200815-1",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "രാമക്ഷേത്ര രാഷ്ട്രീയം: ഭാവി ഇന്ത്യയുടെ ചൂണ്ടുപലകയോ?",
+   "summary": "ബാബരി മസ്ജിദ് ഭൂമിയിൽ രാമക്ഷേത്ര നിർമ്മാണം നടന്നതിനെത്തുടർന്ന് ഇന്ത്യയുടെ മതേതരത്വത്തിന് നേരിട്ട വെല്ലുവിളികളെയും സംഘപരിവാർ അജണ്ടകളെയും ലേഖനം വിശകലനം ചെയ്യുന്നു. നെഹ്‌റു കാലഘട്ടം മുതൽ ഇന്നുവരെയുള്ള രാഷ്ട്രീയ നിലപാടുകളെ മുൻനിർത്തി ഭാവി ഇന്ത്യയുടെ ഗതിയെക്കുറിച്ചുള്ള ആശങ്കകൾ പങ്കുവെക്കുന്നു.",
+   "author": "സുഫ്‌യാൻ അബ്ദുസ്സലാം",
+   "issue_date": "2020-08-15",
+   "html_url": "/ml/opinion/ram-temple-politics-a-pointer-to-future-india-20200815-1.html",
+   "md_url": "/ml/opinion/ram-temple-politics-a-pointer-to-future-india-20200815-1.md"
   },
   {
    "slug": "readers-write-20190119-6",
@@ -24389,6 +24444,17 @@
    "md_url": "/ml/quran/iqra-read-20180623-3.md"
   },
   {
+   "slug": "jumu-ah-tafsir-20200815-5",
+   "lang": "ml",
+   "category": "quran",
+   "title": "ജുമുഅ",
+   "summary": "ജുമുഅ നമസ്കാരത്തിന്റെ പ്രാധാന്യത്തെയും വെള്ളിയാഴ്ച ദിവസത്തെ മര്യാദകളെയും കുറിച്ചുള്ള ഖുർആൻ അധ്യായം 62-ന്റെ വ്യാഖ്യാനം. നമസ്കാരത്തിന് വിളിക്കപ്പെട്ടാൽ കച്ചവടം ഉപേക്ഷിച്ച് പള്ളിയിലേക്ക് പോകേണ്ടതിന്റെ അനിവാര്യതയെക്കുറിച്ച് വിശദീകരിക്കുന്നു.",
+   "author": "അബ്ദുറഹ്മാൻ നാസിർ അസ്സഅദി",
+   "issue_date": "2020-08-15",
+   "html_url": "/ml/quran/jumu-ah-tafsir-20200815-5.html",
+   "md_url": "/ml/quran/jumu-ah-tafsir-20200815-5.md"
+  },
+  {
    "slug": "learning-methods-from-the-quran-20190720-9",
    "lang": "ml",
    "category": "quran",
@@ -24475,6 +24541,17 @@
    "issue_date": "2020-07-25",
    "html_url": "/ml/quran/man-in-the-quran-20200725-2.html",
    "md_url": "/ml/quran/man-in-the-quran-20200725-2.md"
+  },
+  {
+   "slug": "man-s-main-enemy-20200815-3",
+   "lang": "ml",
+   "category": "quran",
+   "title": "മനുഷ്യന്റെ മുഖ്യശത്രു",
+   "summary": "ഖുർആനിക വീക്ഷണത്തിൽ മനുഷ്യന്റെ ജന്മശത്രുവായ പിശാചിന്റെ പ്രവർത്തനങ്ങളെയും അവനെ എങ്ങനെ പ്രതിരോധിക്കാമെന്നും ഈ ലേഖനം വിശദീകരിക്കുന്നു. വിശ്വാസിയുടെ ജീവിതത്തിൽ പിശാചിന്റെ സ്വാധീനത്തെയും അതിനെ അതിജീവിക്കാനുള്ള മനക്കരുത്തിനെയും കുറിച്ച് ഖുർആൻ വചനങ്ങളുടെ അടിസ്ഥാനത്തിൽ പ്രതിപാദിക്കുന്നു.",
+   "author": "കുഞ്ഞിമുഹമ്മദ് മദനി പറപ്പൂർ",
+   "issue_date": "2020-08-15",
+   "html_url": "/ml/quran/man-s-main-enemy-20200815-3.html",
+   "md_url": "/ml/quran/man-s-main-enemy-20200815-3.md"
   },
   {
    "slug": "methodology-of-quranic-interpretation-20190706-7",
@@ -26224,6 +26301,17 @@
    "issue_date": "2020-08-08",
    "html_url": "/ml/seerah/sheikh-diyaur-rahman-azmi-a-wonder-in-the-scholarly-world-20200808-9.html",
    "md_url": "/ml/seerah/sheikh-diyaur-rahman-azmi-a-wonder-in-the-scholarly-world-20200808-9.md"
+  },
+  {
+   "slug": "sheikh-diyaur-rahman-azmi-the-scholar-who-grew-from-umarabad-20200815-4",
+   "lang": "ml",
+   "category": "seerah",
+   "title": "ശൈഖ് ദിയാഉർറഹ്മാൻ അഅ്‌ളമി: ഉമറാബാദിൽനിന്നും മദീനയിലേക്ക് വളർന്ന പണ്ഡിത വിസ്മയം",
+   "summary": "ഇസ്‌ലാമിക പണ്ഡിതലോകത്തെ വിസ്മയമായ ശൈഖ് ദിയാഉർറഹ്മാൻ അഅ്‌ളമിയുടെ ജീവിതയാത്രയും ഉമറാബാദിലെ പഠനകാലവും മദീനയിലേക്കുള്ള അദ്ദേഹത്തിന്റെ വളർച്ചയും ഈ ലേഖനം വിവരിക്കുന്നു.",
+   "author": "ഡോ. സി.മുഹമ്മദ് റാഫി ചെമ്പ്ര",
+   "issue_date": "2020-08-15",
+   "html_url": "/ml/seerah/sheikh-diyaur-rahman-azmi-the-scholar-who-grew-from-umarabad-20200815-4.html",
+   "md_url": "/ml/seerah/sheikh-diyaur-rahman-azmi-the-scholar-who-grew-from-umarabad-20200815-4.md"
   },
   {
    "slug": "some-important-events-20190622-3",
