@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T09:03:09.395962+00:00",
+ "generated_at": "2026-09-07T09:04:05.941232+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4295,
+ "count": 4296,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -8987,6 +8987,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/gu/opinion/secular-government-and-muslim-minority-20170218-8.html",
    "md_url": "/gu/opinion/secular-government-and-muslim-minority-20170218-8.md"
+  },
+  {
+   "slug": "strengthening-secular-political-unity-20170218-9",
+   "lang": "gu",
+   "category": "opinion",
+   "title": "ધર્મનિરપેક્ષ રાજકીય એકતાને મજબૂત કરવાની જરૂરિયાત",
+   "summary": "આ લેખ દેશમાં વધી રહેલી ફાસીવાદી પ્રવૃત્તિઓનો સામનો કરવા માટે ધર્મનિરપેક્ષ રાજકીય પક્ષોના એક થવાની આવશ્યકતા પર ભાર મૂકે છે. તે સ્પષ્ટ કરે છે કે બંધારણીય મૂલ્યોના રક્ષણ માટે રાજકીય એકતા અનિવાર્ય છે.",
+   "author": "സുഫ്‌യാൻ അബ്ദുസ്സലാം",
+   "issue_date": "2017-02-18",
+   "html_url": "/gu/opinion/strengthening-secular-political-unity-20170218-9.html",
+   "md_url": "/gu/opinion/strengthening-secular-political-unity-20170218-9.md"
   },
   {
    "slug": "terrorism-and-religious-freedom-20170114-1",
