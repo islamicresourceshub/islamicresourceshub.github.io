@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T10:49:54.051167+00:00",
+ "generated_at": "2026-09-07T10:50:45.504663+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4376,
+ "count": 4377,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -11902,6 +11902,17 @@
    "issue_date": "2017-02-11",
    "html_url": "/id/story/allah-is-watching-20170211-3.html",
    "md_url": "/id/story/allah-is-watching-20170211-3.md"
+  },
+  {
+   "slug": "broken-hearts-20170218-11",
+   "lang": "id",
+   "category": "story",
+   "title": "Hati yang Terluka",
+   "summary": "Melalui kisah seorang anak yang sering menyakiti perasaan orang tuanya, tulisan ini memberikan kesadaran tentang pentingnya memperbaiki diri. Ini adalah sebuah cerita yang menanamkan nilai keadilan bagi anak-anak.",
+   "author": "അറബി കഥ - പുനരാഖ്യാനം: തൻസീൽ",
+   "issue_date": "2017-02-18",
+   "html_url": "/id/story/broken-hearts-20170218-11.html",
+   "md_url": "/id/story/broken-hearts-20170218-11.md"
   },
   {
    "slug": "good-intention-matters-most-20170325-8",
