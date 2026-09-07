@@ -1,0 +1,85 @@
+---
+title: Die säkulare Regierung und die muslimische Minderheit
+author: സിറാജുല്‍ ഇസ്‌ലാം ബാലുശ്ശേരി
+lang: de
+category: opinion
+kind: article
+tags:
+- secularism
+- politics
+- minority-rights
+summary: Dieser Artikel beleuchtet den im indischen Verfassungsrecht verankerten Säkularismus und die damit verbundenen Rechte für Minderheiten. Er bietet einen Überblick über die Religionsfreiheit und den verfassungsrechtlichen Schutz aus einer islamischen Perspektive.
+source:
+  magazine: Nerpatham Weekly
+  issue_date: '2017-02-18'
+  pdf_url: http://nerpatham.com/vol-no-01/images/archives/Nerpatham-2017Feb18.pdf
+date_processed: '2026-08-27T16:13:38Z'
+slug: secular-government-and-muslim-minority-20170218-8
+translation_of: secular-government-and-muslim-minority-20170218-8
+---
+
+Indien ist ein säkularer demokratischer Staat. Die indische Verfassung zeichnet sich dadurch aus, dass sie keiner Religion eine Vorzugsbehandlung gewährt, sich aber auch von keiner Religion distanziert. Jeder Mensch kann seinen Glauben frei wählen, die dazugehörigen Riten praktizieren und den Glauben unter anderen verbreiten. Welche Aspekte sollten Muslime, die in einem solchen Land leben, beachten? Verbieten die Quellen des Korans und der Sunna des Propheten den Muslimen das Leben unter einer nicht-islamischen Regierung? Gibt es für solche isolierten Stimmen eine fundierte Grundlage? Eine Untersuchung.
+
+![](/assets/secular-government-and-muslim-minority-20170218-8/18Feb17-04.jpg)
+
+## Das Vorbild der Propheten
+
+Der **Heilige Koran** ist ein Buch, das dazu anregt, das Übel in der Welt zu beseitigen und das Gute so weit wie möglich zu verbreiten. Indem der Koran die Geschichte der Menschheit lehrt, stellt er die Propheten vor, die den Grundstein für diese Aufgabe legten.
+
+Die zehn Generationen von Adam (Friede sei mit ihm) bis Noah (Friede sei mit ihm) folgten demselben Glauben und denselben Idealen. Über sie bezeugte der Koran: `Die Menschen waren eine einzige Gemeinschaft` (Koran 2:213). Doch zur Zeit von Noah (Friede sei mit ihm) waren die meisten Menschen in seinem Land Götzendiener. Es herrschte die schlechte Sitte, heilige Männer anzubeten. Dorthin wurde Noah (Friede sei mit ihm) als erster Gesandter entsandt. In diesem Moment verkündete er nicht: „In diesem Land gibt es hauptsächlich Götzendiener, daher verlasse ich diesen Ort.“ Stattdessen lebte dieser große Prophet unter ihnen und erfüllte seine missionarische Aufgabe mit einem ausgeprägten Verantwortungsbewusstsein.
+
+Es gibt Leute in unserem Land, die behaupten: „Man darf nicht unter Götzendienern leben; man sollte nur dort bleiben, wo es ausschließlich Muslime gibt.“ Dies ist eine Auffassung, die korrigiert werden muss. Alle Gesandten, die in der Welt entsandt wurden, kamen zu nicht-muslimischen Gesellschaften, in denen Götzendienst praktiziert wurde. Hätte man unter einer solchen Gesellschaft nicht leben dürfen, hätte Allah die Propheten nicht dorthin gesandt. Allah sagte:
+
+> „O ihr Menschen, Wir haben euch ja aus einem männlichen und einem weiblichen Wesen erschaffen und euch zu Völkern und Stämmen gemacht, damit ihr einander kennenlernt...“ (Koran 49:13)
+
+Die Menschheit sind Kinder ein und desselben Vaters und derselben Mutter. Sie sind Geschöpfe des einen Gottes. Die großen Propheten wurden nicht mit einer Philosophie entsandt, die dazu aufruft, jemanden ohne Grund zu hassen oder zu bekämpfen.
+
+## Gerechtigkeitssinn und Mission
+
+Jedes Mal, wenn die Menschen vom Gerechtigkeitssinn abwichen, den Allah lehrte, war es die Aufgabe der Propheten, sie auf den Pfad der Wahrheit, des Guten und der Einheit zurückzurufen. Allah sagte:
+
+> „Wir haben Unsere Gesandten mit den klaren Beweisen gesandt und mit ihnen das Buch und die Waage herabgesandt, damit die Menschen für die Gerechtigkeit eintreten“ (Koran 57:25).
+
+Die gesamte Menschheit sollte zu einer Gemeinschaft werden, die auf Gerechtigkeit basiert. Anstatt den Schöpfer, den Einen Gott, anzubeten, Geschöpfe anzubeten, ist eine Ungerechtigkeit. Die Menschen müssen aus diesem Zustand gerettet werden und zu einem erhabenen Gerechtigkeitssinn gelangen, bei dem nur der Eine Gott angebetet wird.
+
+Die Menschen, die Kinder derselben Eltern sind, sollten sich nicht ohne Grund gegenseitig hassen. Unter den wichtigsten Umgangsformen, die Gläubige einhalten müssen, sagte Allah:
+
+> „O ihr, die ihr glaubt, seid standhaft für Allah als Zeugen in Gerechtigkeit. Und der Hass gegen eine Gruppe soll euch nicht dazu verleiten, nicht gerecht zu sein. Seid gerecht, das ist der Gottesfurcht näher“ (Koran 5:8).
+
+Die muslimische Gemeinschaft sollte in jedem Land in Gerechtigkeit und Güte leben. Gerechtigkeit in der Welt zu etablieren, ist ein Anliegen des Korans.
+
+## Die Auswanderung und der Schutz der Propheten
+
+Die Propheten, die in verschiedene Winkel der Welt gesandt wurden, flohen nicht mit den Menschen, die ihren Glauben angenommen hatten, in ein anderes Gebiet, noch erklärten sie, ohne jeglichen Kontakt zu den Ungläubigen: „Ich verlasse dieses Land.“ Sie verließen ihre Heimat nicht, es sei denn, sie wurden vertrieben oder schwersten Verfolgungen ausgesetzt. Sie schufen günstige Bedingungen, um die von Allah übertragene missionarische Aufgabe zu erfüllen. Mit einem von Heuchelei freien Herzen sagten sie zur Gesellschaft: „Wir sind eure Vertrauenswürdigen und Wohlwollenden.“
+
+**Muhammad (Friede sei mit ihm)**, der dreizehn Jahre lang in Mekka aktiv missionierte, musste viele Verfolgungen und Schwierigkeiten ertragen. Dennoch verließ der Prophet seine Heimat nicht aus eigenem Antrieb. Als er Mekka verließ, um nach Medina zu ziehen, sagte er: „Du bist mir ein geliebtes Land. Wären mich die Menschen dieses Landes nicht vertrieben, hätte ich dieses Land nicht verlassen.“ Das bedeutet, dass er erst dann nach Medina auswanderte, als die Feinde der Wahrheit es ihm unmöglich machten, in seiner Heimat zu bleiben, und er nach vielen Opfern und Entbehrungen an einem Punkt angelangt war, an dem ein Verbleib nicht mehr möglich war.
+
+„Die Quraisch haben mich daran gehindert, die Worte meines Herrn in die Ohren der Menschen zu bringen. Gibt es also jemanden unter euch (Nicht-Muslimen), der mir helfen kann?“, fragte der Prophet (Friede sei mit ihm) die Mekkaner während seiner Zeit in Mekka. Diese Bitte des Propheten ist ein authentischer Hadith, der von Jabir bin Abdullah (möge Allah mit ihm zufrieden sein) überliefert und in den Sunan von **Ibn Majah** zitiert wurde. Dieser Hadith beweist, dass es möglich ist, den Schutz und die Hilfe von Nicht-Muslimen zu erbitten und anzunehmen, um die großartigen missionarischen Aktivitäten des Islam zu fördern und die Stimme des «Tawhid» - der Einheit Gottes - in die Ohren der Menschen zu tragen. Der bedeutende Gelehrte und ehemalige Großmufti von Saudi-Arabien, **Scheich Abd al-Aziz ibn Baz (möge Allah ihm gnädig sein)**, hat dies in seiner Erläuterung dieses Hadith sehr präzise erklärt und mit ergänzenden Beweisen untermauert.
+
+## Die Zusammenarbeit mit Nicht-Muslimen und die islamische Geschichte
+
+Es sind Menschen mit geringem Wissen, die nicht ausreichend in der Scharia bewandert sind, die die Durchführung der Mission mit der Zusammenarbeit und Hilfe von Nicht-Muslimen kritisieren. Sie verbreiten, dass dies gegen die «Salafiyya» - den Weg der rechtschaffenen Vorfahren - und den «Manhaj» - die methodische Vorgehensweise - verstoße. Die Geschichte, die Hilfe von Ungläubigen anzunehmen, um die Stimme des Tawhid in die Ohren der Mitmenschen zu tragen, ist authentisch belegt. Dass der Prophet Schu'aib (Friede sei mit ihm), der zum Weg Allahs einlud, nicht aus seinem Land vertrieben wurde, lag daran, dass er unter dem Schutz seiner Verwandten und Freunde stand, die den Glauben nicht angenommen hatten. Allah berichtet, was jenes Volk sagte:
+
+> „Sie sagten: O Schu'aib, wir verstehen vieles von dem, was du sagst, nicht. Wahrlich, wir sehen dich als einen Schwachen unter uns an. Wären deine Verwandten nicht gewesen, hätten wir dich gesteinigt. Du bist für uns kein Mächtiger“ (Koran 11:91).
+
+**Scheich Abd ar-Rahman an-Nasir as-Sa'di (möge Allah ihm gnädig sein)** hat in seiner Exegese dieses Verses festgehalten, dass es zu den von Allah festgelegten Verfahrensweisen gehört, Hilfe für die Mission durch Nicht-Muslime zu erhalten. Wer nicht erkennt, dass Allah die islamische Mission durch wohlwollende Menschen unter den Ungläubigen unterstützt, ist derjenige, der sich aus eigennützigen Motiven von dieser Aufgabe zurückzieht und andere Missionare entmutigt.
+
+Der Prophet Allahs (Friede sei mit ihm) führte seine Mission bis zum Tod von Abu Talib unter dessen Schutz durch. Danach suchte der Prophet (Friede sei mit ihm) Hilfe in Ta'if, doch die dortigen Bewohner misshandelten und vertrieben ihn. Als er zurückkehrte, betrat der Prophet (Friede sei mit ihm) Mekka unter dem Schutz von Mut'im ibn Adiy, der ein Ungläubiger war. Nach Muhammad (Friede sei mit ihm) ist **Abu Bakr as-Siddiq (möge Allah mit ihm zufrieden sein)** die größte Persönlichkeit dieser Gemeinschaft. Auch er führte seine islamische Mission in Mekka unter dem Schutz einer nicht-muslimischen Person namens Ibn Dughunna durch. Nach Abu Bakr (möge Allah mit ihm zufrieden sein) ist **Umar ibn al-Chattab (möge Allah mit ihm zufrieden sein)** eine Person mit hohem Rang im Islam. Er lebte in Mekka unter dem Schutz von Asib ibn Wa'il as-Sahmi, der zu den Ungläubigen gehörte. Der dritte der rechtgeleiteten Kalifen und bekannte Gefährte des Propheten (Friede sei mit ihm) ist **Uthman ibn Affan (möge Allah mit ihm zufrieden sein)**. Nachdem er die «Hijra» - die Auswanderung - nach Abessinien vollzogen hatte, kehrte er unter dem Schutz des Ungläubigen Mughira nach Mekka zurück. Es war ein Brauch im Land Mekka, dass, sobald eine Person den Schutz einer anderen erklärte, diese danach nicht mehr belästigt werden durfte. Obwohl dieses Gesetz, das Leben und Glauben eines Menschen schützte, ein Gesetz des Landes Mekka war, zeigte der Prophet (Friede sei mit ihm) keine Abneigung, dessen Schutz anzunehmen. Er hielt auch die Gefährten nicht davon ab. Er hat diese Maßnahme nicht als ein System des «Taghut» - der Götzentum-Tyrannei - abgetan.
+
+## Die Weite der Mission
+
+Es gibt keine größere Aufgabe für einen Muslim, als die erhabene Botschaft «La ilaha illallah» - es gibt keinen Gott außer Allah - in die Ohren der Menschen zu tragen. Muslime sind verpflichtet, alle nicht-religionsfeindlichen Wege zu finden und zu nutzen, die bei der Erfüllung dieser Aufgabe hilfreich sind. Das großartige Abkommen, bekannt als «Hilf al-Fudul», wurde im Haus des Ungläubigen Abdullah ibn Jud'an geschlossen. Dieses von Güte erfüllte Abkommen, das besagte, dass in Mekka weder ein Einheimischer noch ein Fremder Opfer von Gewalt werden darf und niemandem Unrecht geschehen darf, wurde unter der Führung eines Ungläubigen geschlossen. Der Prophet (Friede sei mit ihm) sprach nach seiner Prophetenschaft lobend über dieses in der Zeit der «Jahiliyya» - der vorislamischen Zeit - geschlossene Abkommen. Er erklärte, dass es ihm wertvoller sei als ein rotes Kamel und dass er, wenn er im Islam zu ähnlichen Vereinbarungen gerufen würde, darauf antworten würde. Im Propheten Allahs (Friede sei mit ihm) haben die Gläubigen ein bestes Vorbild. Nichts von dem, was interessierte Kreise, die nichts über die Religion wissen, mit engstirnigen Denkweisen verbreiten, ist Religion oder Tugend.
+
+Die Erklärung, die Muhammad (Friede sei mit ihm) abgab, nachdem er von Mekka nach Medina gekommen war und dort die Führung übernommen hatte, ist von Historikern einstimmig dokumentiert. Der Prophet (Friede sei mit ihm) betonte, dass die Juden als eine religiöse Gemeinschaft in Medina betrachtet würden, dass es kein Hindernis für sie gäbe, nach ihrer Religion zu leben, und dass denjenigen, denen Unrecht getan wird, Gerechtigkeit widerfahren würde, unabhängig von ihrer Religion. Im Leben des Propheten (Friede sei mit ihm) gibt es klare Lektionen für alle Nationen der Welt und die Herrscher pluralistischer Staaten. Dass den Unterdrückten Gerechtigkeit widerfährt und die Unterdrücker bestraft werden, schafft ein gutes und freundschaftliches Klima. Genau das hat der Prophet (Friede sei mit ihm) in die Praxis umgesetzt.
+
+„Wahrlich, Wir haben dir einen offenkundigen Sieg verliehen“ (Koran 48:1). Die überwiegende Mehrheit der Kommentatoren ist der Meinung, dass mit diesem «offenkundigen Sieg» der Vertrag von Hudaibiyya gemeint ist. **Ibn Kathir (möge Allah ihm gnädig sein)** argumentiert in seiner Erläuterung dieses Verses, dass der Grund, warum der Vertrag von Hudaibiyya ein Sieg war, darin bestand, dass es einem Muslim möglich wurde, mit den Ungläubigen zu kommunizieren. Durch diesen großartigen Friedensvertrag ergab sich eine Gelegenheit, nützliches Wissen und den Glauben in die Ohren aller Menschen zu tragen. Dies bezeichnete der Heilige Koran als einen offenkundigen Sieg. Da die Grenze, die im Bereich der Mission bestand, verschwand, eröffneten sich für die Muslime Möglichkeiten, mit den Ungläubigen in Kontakt zu treten, zu kommunizieren und zu missionieren. Abd ar-Rahman an-Nasir as-Sa'di (möge Allah ihm gnädig sein) sagt in seiner Erläuterung desselben Verses, dass es in Orten, an denen sich solche Gelegenheiten bieten, lobenswert ist, mit Menschen, die den wahren Glauben nicht angenommen haben, in einer freundschaftlichen Atmosphäre zu verkehren. All dies weist auf die Notwendigkeit hin, eine friedliche Atmosphäre in der Gesellschaft aufrechtzuerhalten.
+
+Allah sagt:
+
+> „Allah verbietet euch nicht, gegenüber denjenigen, die nicht gegen euch der Religion wegen gekämpft und euch nicht aus euren Häusern vertrieben haben, gütig zu sein und sie gerecht zu behandeln. Wahrlich, Allah liebt die Gerechten“ (Koran 60:8).
+
+Muslime haben die Verantwortung, die Menschen, die vom Monotheismus abgekommen sind und in Unrecht versunken sind, auf den rechten Weg einzuladen. Indien ist kein muslimischer Staat. Aber in unserem Land gibt es die Freiheit, von Haus zu Haus zu gehen und die islamische Botschaft zu verbreiten.
+
+In einem Land wie Indien, in dem Nicht-Muslime die Mehrheit und Muslime die Minderheit bilden, erklären bedeutende Gelehrte der salafistischen Welt, dass Muslime bei der Wahl von Regierenden kooperieren, gemeinsam handeln und ihre Stimme abgeben sollten, wenn es die Nicht-Muslime sind, die Freiheit für die islamische Mission gewähren.
+
+Die Behauptung, dass die Zusammenarbeit mit den Regierungssystemen in Ländern mit demokratisch-säkularen Strukturen für einen Muslim nicht angemessen sei, stammt von engstirnigen Denkern. Es gibt eine verschwindend kleine Minderheit, die behauptet, dass es nicht einmal erlaubt sei, bei Wahlen in solchen Ländern seine Stimme abzugeben. In unserem Land, in dem die Freiheit besteht, nach dem monotheistischen Ideal zu leben und es zu verbreiten, ist es ein Zeichen von Unwissenheit, wenn diese Leute die Zusammenarbeit mit Ungläubigen, die dabei hilft, diese Freiheit zu bewahren, als Aktivitäten darstellen, die gegen die «Salafiyya» und den «Manhaj» verstoßen. Die Öffentlichkeit sollte die Geschichte der Vergangenheit, in der solche Denkrichtungen auftauchten, nicht vergessen. Die gläubige Gemeinschaft muss erkennen, wer die Hintergründe für das Wiederaufleben der Rufe nach politischem «Shirk» - Götzendienst - sind, die man für bereits erloschen hielt.

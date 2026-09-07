@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T08:15:33.691696+00:00",
+ "generated_at": "2026-09-07T08:16:14.049044+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4251,
+ "count": 4252,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -4818,6 +4818,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/de/opinion/salafi-preaching-a-theoretical-analysis-20170121-10.html",
    "md_url": "/de/opinion/salafi-preaching-a-theoretical-analysis-20170121-10.md"
+  },
+  {
+   "slug": "secular-government-and-muslim-minority-20170218-8",
+   "lang": "de",
+   "category": "opinion",
+   "title": "Die säkulare Regierung und die muslimische Minderheit",
+   "summary": "Dieser Artikel beleuchtet den im indischen Verfassungsrecht verankerten Säkularismus und die damit verbundenen Rechte für Minderheiten. Er bietet einen Überblick über die Religionsfreiheit und den verfassungsrechtlichen Schutz aus einer islamischen Perspektive.",
+   "author": "സിറാജുല്‍ ഇസ്‌ലാം ബാലുശ്ശേരി",
+   "issue_date": "2017-02-18",
+   "html_url": "/de/opinion/secular-government-and-muslim-minority-20170218-8.html",
+   "md_url": "/de/opinion/secular-government-and-muslim-minority-20170218-8.md"
   },
   {
    "slug": "terrorism-and-religious-freedom-20170114-1",
