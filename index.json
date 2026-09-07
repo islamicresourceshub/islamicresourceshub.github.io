@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T08:07:46.346807+00:00",
+ "generated_at": "2026-09-07T08:08:24.920786+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4230,
+ "count": 4231,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -42405,6 +42405,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/tl/hadith/criteria-for-accepting-hadith-20170128-2.html",
    "md_url": "/tl/hadith/criteria-for-accepting-hadith-20170128-2.md"
+  },
+  {
+   "slug": "manusmriti-and-the-caste-system-20170218-7",
+   "lang": "tl",
+   "category": "history",
+   "title": "Manusmriti at ang Sistema ng Kasta at Varna",
+   "summary": "Sinusuri ng artikulong ito ang kasaysayan ng sistema ng kasta at varna sa Manusmriti at Purusha Sukta. Isa itong kritikal na pag-aaral sa mga ugat ng diskriminasyong panlipunan.",
+   "author": "ഉസ്മാൻ പാലക്കാഴി",
+   "issue_date": "2017-02-18",
+   "html_url": "/tl/history/manusmriti-and-the-caste-system-20170218-7.html",
+   "md_url": "/tl/history/manusmriti-and-the-caste-system-20170218-7.md"
   },
   {
    "slug": "challenges-posed-by-pseudo-nationalism-20170204-4",
