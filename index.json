@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T12:44:38.011022+00:00",
+ "generated_at": "2026-09-07T12:45:22.401106+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4497,
+ "count": 4498,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -15312,6 +15312,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/ko/dawah/stand-tall-20170121-8.html",
    "md_url": "/ko/dawah/stand-tall-20170121-8.md"
+  },
+  {
+   "slug": "the-chemistry-of-unity-20170225-2",
+   "lang": "ko",
+   "category": "dawah",
+   "title": "통일의 화학",
+   "summary": "본 글은 타우히드(유일신 신앙) 전파에 있어 '통일'이 과연 장애물이 되고 있는지 깊이 있게 고찰합니다. 조직적 통합의 진정한 의미와 그 과정에서 발생하는 도전 과제들을 논의합니다.",
+   "author": "ടി.കെ.അശ്‌റഫ്",
+   "issue_date": "2017-02-25",
+   "html_url": "/ko/dawah/the-chemistry-of-unity-20170225-2.html",
+   "md_url": "/ko/dawah/the-chemistry-of-unity-20170225-2.md"
   },
   {
    "slug": "the-message-of-equality-20170121-11",
