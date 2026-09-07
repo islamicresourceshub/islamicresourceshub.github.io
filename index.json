@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T04:55:43.580978+00:00",
+ "generated_at": "2026-09-07T04:56:28.439913+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3969,
+ "count": 3970,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -7931,6 +7931,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/gu/dawah/showing-the-light-is-the-duty-of-scholars-20170121-14.html",
    "md_url": "/gu/dawah/showing-the-light-is-the-duty-of-scholars-20170121-14.md"
+  },
+  {
+   "slug": "solution-for-divisions-20170218-3",
+   "lang": "gu",
+   "category": "dawah",
+   "title": "મતભેદોનો ઉકેલ",
+   "summary": "આ લેખ દલીલ કરે છે કે વિશ્વ શાંતિ માટે ખતરા સમાન આતંકવાદનો સામનો કરવા માટે શાંતિવાદીઓ વચ્ચે એકતા અનિવાર્ય છે. અહીં સમજાવવામાં આવ્યું છે કે કેવી રીતે આદર્શવાદી સંગઠનો ફાસીવાદનો સામનો કરવામાં મદદરૂપ થઈ શકે છે.",
+   "author": "ടി.കെ.അശ്‌റഫ്‌",
+   "issue_date": "2017-02-18",
+   "html_url": "/gu/dawah/solution-for-divisions-20170218-3.html",
+   "md_url": "/gu/dawah/solution-for-divisions-20170218-3.md"
   },
   {
    "slug": "stand-tall-20170121-8",
