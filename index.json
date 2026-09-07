@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T11:02:37.667769+00:00",
+ "generated_at": "2026-09-07T11:03:31.380776+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4390,
+ "count": 4391,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -39270,6 +39270,17 @@
    "issue_date": "2017-02-04",
    "html_url": "/so/story/abdullah-s-mistake-20170204-1.html",
    "md_url": "/so/story/abdullah-s-mistake-20170204-1.md"
+  },
+  {
+   "slug": "broken-hearts-20170218-11",
+   "lang": "so",
+   "category": "story",
+   "title": "Quluubta Jaban",
+   "summary": "Sheekadan waxay ku saabsan tahay wiil dabeecad xun oo dhib u geysta waalidkiis iyo dadka ku xeeran, iyadoo loo marayo hab waxbarasho oo uu aabbihiis u adeegsaday si uu u baro in xanaaqu uu nabarro ku reebo quluubta dadka kale.",
+   "author": "അറബി കഥ - പുനരാഖ്യാനം: തൻസീൽ",
+   "issue_date": "2017-02-18",
+   "html_url": "/so/story/broken-hearts-20170218-11.html",
+   "md_url": "/so/story/broken-hearts-20170218-11.md"
   },
   {
    "slug": "good-intention-matters-most-20170325-8",
