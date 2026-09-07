@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T10:03:33.886325+00:00",
+ "generated_at": "2026-09-07T10:04:30.768224+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4349,
+ "count": 4350,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -36828,6 +36828,17 @@
    "issue_date": "2017-02-11",
    "html_url": "/ru/dawah/unity-ideology-and-movement-20170211-2.html",
    "md_url": "/ru/dawah/unity-ideology-and-movement-20170211-2.md"
+  },
+  {
+   "slug": "what-do-we-have-for-ourselves-20170218-10",
+   "lang": "ru",
+   "category": "dawah",
+   "title": "Что у нас есть на самом деле?",
+   "summary": "Статья, основанная на коранических предостережениях о Судном дне. Она побуждает к самоанализу: что мы подготовили для вечной жизни?",
+   "author": "എസ്‌.എ ഐദീദ്‌ തങ്ങൾ",
+   "issue_date": "2017-02-18",
+   "html_url": "/ru/dawah/what-do-we-have-for-ourselves-20170218-10.html",
+   "md_url": "/ru/dawah/what-do-we-have-for-ourselves-20170218-10.md"
   },
   {
    "slug": "children-an-islamic-reading-part-4-20170204-5",
