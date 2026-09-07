@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T05:29:50.955719+00:00",
+ "generated_at": "2026-09-07T05:30:22.879543+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4056,
+ "count": 4057,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -37642,6 +37642,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/sw/family/the-methodology-of-conduct-20170128-8.html",
    "md_url": "/sw/family/the-methodology-of-conduct-20170128-8.md"
+  },
+  {
+   "slug": "thoughts-during-pregnancy-20170218-4",
+   "lang": "sw",
+   "category": "family",
+   "title": "Tafakari za Kipindi cha Ujauzito",
+   "summary": "Makala hii inazungumzia adabu na dua ambazo wazazi wanapaswa kuzizingatia wakati wa ujauzito. Inaelezea jinsi hali ya kisaikolojia ya wazazi inavyoathiri ukuaji wa mtoto kama sehemu ya malezi ya Kiislamu.",
+   "author": "അഷ്‌റഫ് എകരൂല്‍",
+   "issue_date": "2017-02-18",
+   "html_url": "/sw/family/thoughts-during-pregnancy-20170218-4.html",
+   "md_url": "/sw/family/thoughts-during-pregnancy-20170218-4.md"
   },
   {
    "slug": "mosque-construction-some-points-to-note-20170325-5",
