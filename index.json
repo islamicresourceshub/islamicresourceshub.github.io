@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T05:56:42.673981+00:00",
+ "generated_at": "2026-09-07T05:57:03.891572+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4133,
+ "count": 4141,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -15622,6 +15622,17 @@
    "md_url": "/ml/dawah/a-believer-should-be-humble-20181013-12.md"
   },
   {
+   "slug": "a-guide-for-believers-in-times-of-disaster-20200912-3",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "ദുരന്തങ്ങളിൽ വിശ്വാസികൾക്കൊരു മാർഗ്ഗരേഖ",
+   "summary": "ദുരന്തങ്ങൾ സംഭവിക്കുമ്പോൾ ഒരു വിശ്വാസി എങ്ങനെ പ്രതികരിക്കണം എന്നതിനെക്കുറിച്ചുള്ള ഖുർആനികവും പ്രവാചകവുമായ മാർഗ്ഗനിർദ്ദേശങ്ങൾ ഈ ലേഖനം വിശദീകരിക്കുന്നു.",
+   "author": "സിറാജുൽ ഇസ്‌ലാം ബാലുശ്ശേരി",
+   "issue_date": "2020-09-12",
+   "html_url": "/ml/dawah/a-guide-for-believers-in-times-of-disaster-20200912-3.html",
+   "md_url": "/ml/dawah/a-guide-for-believers-in-times-of-disaster-20200912-3.md"
+  },
+  {
    "slug": "a-job-for-the-name-20181006-9",
    "lang": "ml",
    "category": "dawah",
@@ -19186,6 +19197,17 @@
    "md_url": "/ml/family/marriage-age-critics-with-biased-glasses-20191019-2.md"
   },
   {
+   "slug": "marriage-age-should-the-age-or-perspective-change-20200912-6",
+   "lang": "ml",
+   "category": "family",
+   "title": "വിവാഹപ്രായം: മാറേണ്ടത് പ്രായമോ കാഴ്ചപ്പാടോ?",
+   "summary": "പെൺകുട്ടികളുടെ വിവാഹപ്രായം 21 ആക്കി ഉയർത്തുന്നതിനെക്കുറിച്ചുള്ള ചർച്ചയിൽ, കുടുംബ സംവിധാനത്തിന്റെ തകർച്ചയെക്കുറിച്ചും ഇസ്ലാമിക കാഴ്ചപ്പാടുകളെക്കുറിച്ചും മുജാഹിദ് ബാലുശ്ശേരി സംസാരിക്കുന്നു.",
+   "author": "നേർപഥം വൈജ്ഞാനിക സംവാദം",
+   "issue_date": "2020-09-12",
+   "html_url": "/ml/family/marriage-age-should-the-age-or-perspective-change-20200912-6.html",
+   "md_url": "/ml/family/marriage-age-should-the-age-or-perspective-change-20200912-6.md"
+  },
+  {
    "slug": "marriage-should-the-age-change-or-the-perspective-20200905-1",
    "lang": "ml",
    "category": "family",
@@ -20748,6 +20770,17 @@
    "md_url": "/ml/health/rising-heat-and-water-literacy-20190504-4.md"
   },
   {
+   "slug": "scientists-who-believe-in-god-20200912-4",
+   "lang": "ml",
+   "category": "health",
+   "title": "ദൈവവിശ്വാസിയായ ശാസ്ത്രജ്ഞർ",
+   "summary": "ശാസ്ത്രം വളരുമ്പോൾ ദൈവം അപ്രസക്തമാകുന്നു എന്ന വാദത്തെ ഖണ്ഡിച്ചുകൊണ്ട്, ചരിത്രത്തിലെ പ്രമുഖരായ ശാസ്ത്രജ്ഞർ ദൈവവിശ്വാസികളായിരുന്നു എന്ന് തെളിവുകൾ സഹിതം ഈ ലേഖനം സമർത്ഥിക്കുന്നു.",
+   "author": "ഡോ.സബീൽ പട്ടാമ്പി",
+   "issue_date": "2020-09-12",
+   "html_url": "/ml/health/scientists-who-believe-in-god-20200912-4.html",
+   "md_url": "/ml/health/scientists-who-believe-in-god-20200912-4.md"
+  },
+  {
    "slug": "smoking-in-public-places-20180929-8",
    "lang": "ml",
    "category": "health",
@@ -20955,6 +20988,17 @@
    "issue_date": "2019-09-21",
    "html_url": "/ml/history/debates-on-stage-and-in-court-20190921-9.html",
    "md_url": "/ml/history/debates-on-stage-and-in-court-20190921-9.md"
+  },
+  {
+   "slug": "did-the-wahhabis-or-the-turks-loot-the-hujrat-al-sharifa-20200912-1",
+   "lang": "ml",
+   "category": "history",
+   "title": "ഹുജ്റത്തുശ്ശരീഫ കൊള്ളയടിച്ചത് വഹാബികളോ തുർക്കികളോ...?",
+   "summary": "മദീനയിലെ ഹുജ്റത്തുശ്ശരീഫ വഹാബികൾ കൊള്ളയടിച്ചു എന്ന ആരോപണത്തിന്റെ ചരിത്രപരമായ നിജസ്ഥിതി പരിശോധിക്കുന്നു. യഥാർത്ഥത്തിൽ ഉസ്മാനിയാ ഭരണകാലത്ത് തുർക്കി ഭരണാധികാരികളാണ് മദീനയിലെ വിലപിടിപ്പുള്ള വസ്തുക്കൾ കടത്തിക്കൊണ്ടുപോയതെന്ന് ലേഖകൻ സമർത്ഥിക്കുന്നു.",
+   "author": "യൂസുഫ് സാഹിബ് നദ്‌വി ഓച്ചിറ",
+   "issue_date": "2020-09-12",
+   "html_url": "/ml/history/did-the-wahhabis-or-the-turks-loot-the-hujrat-al-sharifa-20200912-1.html",
+   "md_url": "/ml/history/did-the-wahhabis-or-the-turks-loot-the-hujrat-al-sharifa-20200912-1.md"
   },
   {
    "slug": "fascism-deconstructing-history-20200822-7",
@@ -23619,6 +23663,17 @@
    "md_url": "/ml/opinion/saudi-arabia-in-media-and-realities-20180421-2.md"
   },
   {
+   "slug": "scholars-who-misinterpret-20200912-2",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "എഴുതാപ്പുറം വായിക്കുന്ന പണ്ഡിതന്മാർ",
+   "summary": "സമുദായത്തെ നേർവഴിക്ക് നയിക്കേണ്ട പണ്ഡിതന്മാർ ഇസ്ലാമിക പ്രമാണങ്ങളെ തെറ്റായി വ്യാഖ്യാനിക്കുന്നതിനെയും അന്ധവിശ്വാസങ്ങൾ പ്രചരിപ്പിക്കുന്നതിനെയും വിമർശിക്കുന്ന മുഖലേഖനം.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2020-09-12",
+   "html_url": "/ml/opinion/scholars-who-misinterpret-20200912-2.html",
+   "md_url": "/ml/opinion/scholars-who-misinterpret-20200912-2.md"
+  },
+  {
    "slug": "secular-collective-against-communalism-20190202-10",
    "lang": "ml",
    "category": "opinion",
@@ -25148,6 +25203,17 @@
    "md_url": "/ml/quran/let-the-believers-place-their-trust-in-allah-20200425-6.md"
   },
   {
+   "slug": "light-upon-light-20200912-5",
+   "lang": "ml",
+   "category": "quran",
+   "title": "പ്രകാശത്തിനുമേൽ പ്രകാശം",
+   "summary": "ഖുർആനിലെ സൂറത്തുന്നൂറിലെ പ്രകാശത്തെക്കുറിച്ചുള്ള ഉപമയെ ആസ്പദമാക്കി മനുഷ്യന്റെ ശുദ്ധപ്രകൃതിയെയും ഈമാനിന്റെ വെളിച്ചത്തെയും കുറിച്ച് പ്രതിപാദിക്കുന്ന ലേഖനം.",
+   "author": "കുഞ്ഞിമുഹമ്മദ് മദനി പറപ്പൂർ",
+   "issue_date": "2020-09-12",
+   "html_url": "/ml/quran/light-upon-light-20200912-5.html",
+   "md_url": "/ml/quran/light-upon-light-20200912-5.md"
+  },
+  {
    "slug": "listen-attentively-20200222-9",
    "lang": "ml",
    "category": "quran",
@@ -25762,6 +25828,17 @@
    "issue_date": "2019-03-02",
    "html_url": "/ml/quran/surah-an-naba-the-news-20190302-2.html",
    "md_url": "/ml/quran/surah-an-naba-the-news-20190302-2.md"
+  },
+  {
+   "slug": "surah-as-saff-part-3-20200912-7",
+   "lang": "ml",
+   "category": "quran",
+   "title": "സൂഫ് (അണി), ഭാഗം: 3",
+   "summary": "സൂറത്തുസ്സുഫ് എന്ന ഖുർആൻ അധ്യായത്തിന്റെ വ്യാഖ്യാനം. അല്ലാഹുവിന്റെ ദീനിനെ പൂർത്തിയാക്കാനുള്ള ദൈവിക തീരുമാനത്തെയും സത്യനിഷേധികളുടെ പരാജയത്തെയും കുറിച്ച് വിശദീകരിക്കുന്നു.",
+   "author": "അബ്ദുറഹ്മാൻ നാസിർ അസ്സഅദി",
+   "issue_date": "2020-09-12",
+   "html_url": "/ml/quran/surah-as-saff-part-3-20200912-7.html",
+   "md_url": "/ml/quran/surah-as-saff-part-3-20200912-7.md"
   },
   {
    "slug": "surah-as-saff-the-ranks-20200905-5",
@@ -29029,6 +29106,17 @@
    "issue_date": "2019-04-13",
    "html_url": "/ml/story/to-the-youth-20190413-11.html",
    "md_url": "/ml/story/to-the-youth-20190413-11.md"
+  },
+  {
+   "slug": "to-the-youth-20200912-8",
+   "lang": "ml",
+   "category": "story",
+   "title": "യുവതയോട്",
+   "summary": "യുവതലമുറയോട് പരലോക ചിന്തയോടെയും നന്മയോടെയും ജീവിക്കാൻ ആഹ്വാനം ചെയ്യുന്ന കവിത.",
+   "author": "ഷാക്കിറ ടി.കെ, കൊല്ലം",
+   "issue_date": "2020-09-12",
+   "html_url": "/ml/story/to-the-youth-20200912-8.html",
+   "md_url": "/ml/story/to-the-youth-20200912-8.md"
   },
   {
    "slug": "towards-the-light-20191123-11",
