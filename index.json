@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T08:33:16.108493+00:00",
+ "generated_at": "2026-09-07T08:34:13.138811+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4271,
+ "count": 4272,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -36608,6 +36608,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/ru/opinion/salafi-preaching-a-theoretical-analysis-20170121-10.html",
    "md_url": "/ru/opinion/salafi-preaching-a-theoretical-analysis-20170121-10.md"
+  },
+  {
+   "slug": "secular-government-and-muslim-minority-20170218-8",
+   "lang": "ru",
+   "category": "opinion",
+   "title": "Светское государство и мусульманское меньшинство",
+   "summary": "В статье рассматриваются вопросы светского устройства Индии, права мусульманского меньшинства и конституционные гарантии свободы вероисповедания. Автор анализирует, как мусульмане могут гармонично сосуществовать в светском обществе, опираясь на примеры из жизни пророков и исторический опыт раннего ислама.",
+   "author": "സിറാജുല്‍ ഇസ്‌ലാം ബാലുശ്ശേരി",
+   "issue_date": "2017-02-18",
+   "html_url": "/ru/opinion/secular-government-and-muslim-minority-20170218-8.html",
+   "md_url": "/ru/opinion/secular-government-and-muslim-minority-20170218-8.md"
   },
   {
    "slug": "terrorism-and-religious-freedom-20170114-1",
