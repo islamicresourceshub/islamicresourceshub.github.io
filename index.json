@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T04:37:45.717378+00:00",
+ "generated_at": "2026-09-07T04:38:09.336779+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3930,
+ "count": 3931,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -29832,6 +29832,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/ne/family/husband-trapped-in-the-mobile-web-20170121-5.html",
    "md_url": "/ne/family/husband-trapped-in-the-mobile-web-20170121-5.md"
+  },
+  {
+   "slug": "husband-who-encourages-breaking-family-ties-20170218-2",
+   "lang": "ne",
+   "category": "family",
+   "title": "सम्बन्ध तोड्न बाध्य पार्ने पति",
+   "summary": "पतिको जिद्दीका कारण आफ्ना माइती पक्षसँग सम्बन्ध तोड्न बाध्य भएकी एक महिलाको पीडादायी अवस्था र यसका लागि इस्लामिक समाधानहरू यस लेखमा चर्चा गरिएको छ। यसले पारिवारिक सम्बन्ध कायम राख्नुको महत्त्वलाई स्मरण गराउँछ।",
+   "author": "ഹാരിസ്ബിൻ സലീം",
+   "issue_date": "2017-02-18",
+   "html_url": "/ne/family/husband-who-encourages-breaking-family-ties-20170218-2.html",
+   "md_url": "/ne/family/husband-who-encourages-breaking-family-ties-20170218-2.md"
   },
   {
    "slug": "if-the-beginning-is-good-20170211-12",
