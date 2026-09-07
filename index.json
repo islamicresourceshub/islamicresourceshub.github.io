@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T11:40:01.690354+00:00",
+ "generated_at": "2026-09-07T11:40:50.975851+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4432,
+ "count": 4433,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -41481,6 +41481,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/ta/dawah/muslims-in-a-pluralistic-society-20170128-1.html",
    "md_url": "/ta/dawah/muslims-in-a-pluralistic-society-20170128-1.md"
+  },
+  {
+   "slug": "organization-is-not-for-division-20170218-13",
+   "lang": "ta",
+   "category": "dawah",
+   "title": "அமைப்பு என்பது பிரிவினைக்காக அல்ல!",
+   "summary": "இஸ்லாமிய இயக்கங்கள் மற்றும் அமைப்புகளின் நோக்கம் ஒற்றுமையாக இருக்க வேண்டுமே தவிர, அது பிளவுகளுக்குக் காரணமாகிவிடக்கூடாது என்பதை இந்த கட்டுரை நினைவூட்டுகிறது. விசுவாசிகளுக்கு இடையிலான ஒத்துழைப்பின் முக்கியத்துவத்தையும், ஒரு அமைப்பில் பேணப்பட வேண்டிய ஒழுக்கங்களையும் இது விளக்குகிறது.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2017-02-18",
+   "html_url": "/ta/dawah/organization-is-not-for-division-20170218-13.html",
+   "md_url": "/ta/dawah/organization-is-not-for-division-20170218-13.md"
   },
   {
    "slug": "prayer-that-is-worship-20170325-6",
