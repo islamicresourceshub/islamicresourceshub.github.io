@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T08:18:51.837539+00:00",
+ "generated_at": "2026-09-07T08:19:37.570952+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4256,
+ "count": 4257,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -8866,6 +8866,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/gu/opinion/salafi-preaching-a-theoretical-analysis-20170121-10.html",
    "md_url": "/gu/opinion/salafi-preaching-a-theoretical-analysis-20170121-10.md"
+  },
+  {
+   "slug": "secular-government-and-muslim-minority-20170218-8",
+   "lang": "gu",
+   "category": "opinion",
+   "title": "ધર્મનિરપેક્ષ સરકાર અને મુસ્લિમ લઘુમતી",
+   "summary": "આ લેખ ભારતીય બંધારણ દ્વારા કલ્પિત ધર્મનિરપેક્ષતા અને તેમાં લઘુમતીઓના અધિકારો વિશે ચર્ચા કરે છે. તે ધાર્મિક સ્વતંત્રતા અને બંધારણીય સુરક્ષાના સંદર્ભમાં મુસ્લિમોની જવાબદારીઓનું વિશ્લેષણ કરે છે.",
+   "author": "സിറാജുല്‍ ഇസ്‌ലാം ബാലുശ്ശേരി",
+   "issue_date": "2017-02-18",
+   "html_url": "/gu/opinion/secular-government-and-muslim-minority-20170218-8.html",
+   "md_url": "/gu/opinion/secular-government-and-muslim-minority-20170218-8.md"
   },
   {
    "slug": "terrorism-and-religious-freedom-20170114-1",
