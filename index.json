@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T08:11:17.687954+00:00",
+ "generated_at": "2026-09-07T08:11:57.314565+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4245,
+ "count": 4246,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -46530,6 +46530,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/zh/hadith/criteria-for-accepting-hadith-20170128-2.html",
    "md_url": "/zh/hadith/criteria-for-accepting-hadith-20170128-2.md"
+  },
+  {
+   "slug": "manusmriti-and-the-caste-system-20170218-7",
+   "lang": "zh",
+   "category": "history",
+   "title": "摩奴法典与种姓、瓦尔纳制度",
+   "summary": "本文从历史角度审视了《摩奴法典》与《原人歌》中的种姓与瓦尔纳制度。这是一项关于社会歧视根源的批判性研究。",
+   "author": "ഉസ്മാൻ പാലക്കാഴി",
+   "issue_date": "2017-02-18",
+   "html_url": "/zh/history/manusmriti-and-the-caste-system-20170218-7.html",
+   "md_url": "/zh/history/manusmriti-and-the-caste-system-20170218-7.md"
   },
   {
    "slug": "challenges-posed-by-pseudo-nationalism-20170204-4",
