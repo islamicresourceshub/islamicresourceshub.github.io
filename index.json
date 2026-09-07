@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T08:23:58.027188+00:00",
+ "generated_at": "2026-09-07T08:25:07.354691+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4262,
+ "count": 4263,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -13728,6 +13728,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/kn/opinion/salafi-preaching-a-theoretical-analysis-20170121-10.html",
    "md_url": "/kn/opinion/salafi-preaching-a-theoretical-analysis-20170121-10.md"
+  },
+  {
+   "slug": "secular-government-and-muslim-minority-20170218-8",
+   "lang": "kn",
+   "category": "opinion",
+   "title": "ಜಾತ್ಯತೀತ ಸರ್ಕಾರ ಮತ್ತು ಮುಸ್ಲಿಂ ಅಲ್ಪಸಂಖ್ಯಾತರು",
+   "summary": "ಭಾರತೀಯ ಸಂವಿಧಾನವು ಕಲ್ಪಿಸುವ ಜಾತ್ಯತೀತತೆ ಮತ್ತು ಅದರಲ್ಲಿ ಅಲ್ಪಸಂಖ್ಯಾತರಿಗೆ ಇರುವ ಹಕ್ಕುಗಳ ಬಗ್ಗೆ ಈ ಲೇಖನ ಚರ್ಚಿಸುತ್ತದೆ. ಧಾರ್ಮಿಕ ಸ್ವಾತಂತ್ರ್ಯ ಮತ್ತು ಸಾಂವಿಧಾನಿಕ ರಕ್ಷಣೆಯ ಕುರಿತಾದ ಒಂದು ಅವಲೋಕನ ಇಲ್ಲಿದೆ.",
+   "author": "സിറാജുല്‍ ഇസ്‌ലാം ബാലുശ്ശേരി",
+   "issue_date": "2017-02-18",
+   "html_url": "/kn/opinion/secular-government-and-muslim-minority-20170218-8.html",
+   "md_url": "/kn/opinion/secular-government-and-muslim-minority-20170218-8.md"
   },
   {
    "slug": "terrorism-and-religious-freedom-20170114-1",
