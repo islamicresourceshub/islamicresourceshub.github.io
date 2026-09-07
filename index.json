@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T10:50:45.504663+00:00",
+ "generated_at": "2026-09-07T10:51:35.660447+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4377,
+ "count": 4378,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -12749,6 +12749,17 @@
    "issue_date": "2017-02-11",
    "html_url": "/it/story/allah-is-watching-20170211-3.html",
    "md_url": "/it/story/allah-is-watching-20170211-3.md"
+  },
+  {
+   "slug": "broken-hearts-20170218-11",
+   "lang": "it",
+   "category": "story",
+   "title": "Cuori trafitti",
+   "summary": "Attraverso la storia di un bambino che ferisce i sentimenti dei suoi genitori, questo racconto insegna l'importanza di correggere i propri errori e gestire la rabbia. È una lezione morale preziosa per i più piccoli.",
+   "author": "അറബി കഥ - പുനരാഖ്യാനം: തൻസീൽ",
+   "issue_date": "2017-02-18",
+   "html_url": "/it/story/broken-hearts-20170218-11.html",
+   "md_url": "/it/story/broken-hearts-20170218-11.md"
   },
   {
    "slug": "good-intention-matters-most-20170325-8",
