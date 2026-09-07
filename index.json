@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T08:07:09.332911+00:00",
+ "generated_at": "2026-09-07T08:07:46.346807+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4229,
+ "count": 4230,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -41602,6 +41602,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/th/hadith/criteria-for-accepting-hadith-20170128-2.html",
    "md_url": "/th/hadith/criteria-for-accepting-hadith-20170128-2.md"
+  },
+  {
+   "slug": "manusmriti-and-the-caste-system-20170218-7",
+   "lang": "th",
+   "category": "history",
+   "title": "มนูสมฤติกับระบบวรรณะและชนชั้น",
+   "summary": "บทความนี้ตรวจสอบระบบวรรณะและชนชั้นในคัมภีร์มนูสมฤติและปุรุษสูตรจากมุมมองทางประวัติศาสตร์ เป็นการศึกษาเชิงวิพากษ์เกี่ยวกับรากเหง้าของการเลือกปฏิบัติทางสังคม",
+   "author": "ഉസ്മാൻ പാലക്കാഴി",
+   "issue_date": "2017-02-18",
+   "html_url": "/th/history/manusmriti-and-the-caste-system-20170218-7.html",
+   "md_url": "/th/history/manusmriti-and-the-caste-system-20170218-7.md"
   },
   {
    "slug": "challenges-posed-by-pseudo-nationalism-20170204-4",
