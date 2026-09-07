@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T05:09:51.095133+00:00",
+ "generated_at": "2026-09-07T05:10:25.015443+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4002,
+ "count": 4003,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -39919,6 +39919,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/tl/dawah/showing-the-light-is-the-duty-of-scholars-20170121-14.html",
    "md_url": "/tl/dawah/showing-the-light-is-the-duty-of-scholars-20170121-14.md"
+  },
+  {
+   "slug": "solution-for-divisions-20170218-3",
+   "lang": "tl",
+   "category": "dawah",
+   "title": "Solusyon sa mga Pagkakahati",
+   "summary": "Ipinapangatwiran ng artikulong ito na ang pagkakaisa sa pagitan ng mga tagapagsulong ng kapayapaan ay mahalaga upang labanan ang terorismo na nagbabanta sa kapayapaan sa mundo. Inilalarawan nito kung paano makakatulong ang mga ideyolohikal na alyansa sa paglaban sa pasismo.",
+   "author": "ടി.കെ.അശ്‌റഫ്‌",
+   "issue_date": "2017-02-18",
+   "html_url": "/tl/dawah/solution-for-divisions-20170218-3.html",
+   "md_url": "/tl/dawah/solution-for-divisions-20170218-3.md"
   },
   {
    "slug": "stand-tall-20170121-8",
