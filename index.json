@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T09:12:25.738026+00:00",
+ "generated_at": "2026-09-07T09:13:21.506133+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4305,
+ "count": 4306,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -32791,6 +32791,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/ne/opinion/secular-government-and-muslim-minority-20170218-8.html",
    "md_url": "/ne/opinion/secular-government-and-muslim-minority-20170218-8.md"
+  },
+  {
+   "slug": "strengthening-secular-political-unity-20170218-9",
+   "lang": "ne",
+   "category": "opinion",
+   "title": "सुदृढ पार्नुपर्ने धर्मनिरपेक्ष राजनीतिक एकता",
+   "summary": "यो लेखले देशमा बढ्दै गएको फासीवादी प्रवृत्तिलाई सामना गर्न धर्मनिरपेक्ष राजनीतिक दलहरू एकजुट हुनुपर्ने आवश्यकतामा जोड दिएको छ। संवैधानिक मूल्य र मान्यताहरूको रक्षाका लागि राजनीतिक एकता अपरिहार्य रहेको कुरा यसले स्पष्ट पारेको छ।",
+   "author": "സുഫ്‌യാൻ അബ്ദുസ്സലാം",
+   "issue_date": "2017-02-18",
+   "html_url": "/ne/opinion/strengthening-secular-political-unity-20170218-9.html",
+   "md_url": "/ne/opinion/strengthening-secular-political-unity-20170218-9.md"
   },
   {
    "slug": "terrorism-and-religious-freedom-20170114-1",
