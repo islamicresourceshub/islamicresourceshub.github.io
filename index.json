@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T09:40:31.936787+00:00",
+ "generated_at": "2026-09-07T09:41:30.735974+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4332,
+ "count": 4333,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -7084,6 +7084,17 @@
    "issue_date": "2017-02-11",
    "html_url": "/fa/dawah/unity-ideology-and-movement-20170211-2.html",
    "md_url": "/fa/dawah/unity-ideology-and-movement-20170211-2.md"
+  },
+  {
+   "slug": "what-do-we-have-for-ourselves-20170218-10",
+   "lang": "fa",
+   "category": "dawah",
+   "title": "در این دنیا چه چیزی واقعاً متعلق به ماست؟",
+   "summary": "این مقاله با تکیه بر هشدارهای قرآنی درباره روز قیامت، خواننده را به خودشناسی و ارزیابی توشه‌ای که برای زندگی ابدی اندوخته است، دعوت می‌کند.",
+   "author": "എസ്‌.എ ഐദീദ്‌ തങ്ങൾ",
+   "issue_date": "2017-02-18",
+   "html_url": "/fa/dawah/what-do-we-have-for-ourselves-20170218-10.html",
+   "md_url": "/fa/dawah/what-do-we-have-for-ourselves-20170218-10.md"
   },
   {
    "slug": "children-an-islamic-reading-part-4-20170204-5",
