@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T06:33:16.000991+00:00",
+ "generated_at": "2026-09-07T06:33:40.804057+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4159,
+ "count": 4160,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -37015,6 +37015,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/so/family/the-methodology-of-conduct-20170128-8.html",
    "md_url": "/so/family/the-methodology-of-conduct-20170128-8.md"
+  },
+  {
+   "slug": "the-new-generation-that-makes-us-weep-20170218-6",
+   "lang": "so",
+   "category": "family",
+   "title": "Jiilka cusub ee ilmadu na galisay",
+   "summary": "Qoraalkan waa waayo-aragnimo ku saabsan dhibaatooyinka maskaxeed ee waalidku la kulmaan iyo hab-dhaqanka jiilka cusub. Waxay ka hadlaysaa burburka xiriirka qoyska iyo xaaladaha bulsho ee horseeda dhibaatooyinkan.",
+   "author": "ഇബ്‌നു അലി എടത്തനാട്ടുകര",
+   "issue_date": "2017-02-18",
+   "html_url": "/so/family/the-new-generation-that-makes-us-weep-20170218-6.html",
+   "md_url": "/so/family/the-new-generation-that-makes-us-weep-20170218-6.md"
   },
   {
    "slug": "thoughts-during-pregnancy-20170218-4",
