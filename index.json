@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T09:48:49.380269+00:00",
+ "generated_at": "2026-09-07T09:49:41.751737+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4341,
+ "count": 4342,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -14586,6 +14586,17 @@
    "issue_date": "2017-02-11",
    "html_url": "/ko/dawah/unity-ideology-and-movement-20170211-2.html",
    "md_url": "/ko/dawah/unity-ideology-and-movement-20170211-2.md"
+  },
+  {
+   "slug": "what-do-we-have-for-ourselves-20170218-10",
+   "lang": "ko",
+   "category": "dawah",
+   "title": "우리에게 진정으로 소유한 것이 무엇인가?",
+   "summary": "이 글은 종말에 관한 꾸란의 경고를 바탕으로 작성되었습니다. 내세의 삶을 위해 우리가 무엇을 준비했는지 스스로를 돌아보게 하는 성찰의 시간을 제공합니다.",
+   "author": "എസ്‌.എ ഐദീദ്‌ തങ്ങൾ",
+   "issue_date": "2017-02-18",
+   "html_url": "/ko/dawah/what-do-we-have-for-ourselves-20170218-10.html",
+   "md_url": "/ko/dawah/what-do-we-have-for-ourselves-20170218-10.md"
   },
   {
    "slug": "children-an-islamic-reading-part-4-20170204-5",
