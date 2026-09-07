@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T05:16:47.767983+00:00",
+ "generated_at": "2026-09-07T05:17:27.865396+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4020,
+ "count": 4021,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -3619,6 +3619,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/bs/family/the-methodology-of-conduct-20170128-8.html",
    "md_url": "/bs/family/the-methodology-of-conduct-20170128-8.md"
+  },
+  {
+   "slug": "thoughts-during-pregnancy-20170218-4",
+   "lang": "bs",
+   "category": "family",
+   "title": "Razmišljanja tokom trudnoće",
+   "summary": "Ovaj tekst govori o etici i molitvama kojih se roditelji trebaju pridržavati tokom trudnoće. Objašnjava uticaj mentalnog stanja roditelja na razvoj djeteta kao dio islamskog odgoja.",
+   "author": "അഷ്‌റഫ് എകരൂല്‍",
+   "issue_date": "2017-02-18",
+   "html_url": "/bs/family/thoughts-during-pregnancy-20170218-4.html",
+   "md_url": "/bs/family/thoughts-during-pregnancy-20170218-4.md"
   },
   {
    "slug": "mosque-construction-some-points-to-note-20170325-5",
