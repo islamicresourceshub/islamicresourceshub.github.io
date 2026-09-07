@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T04:47:44.383565+00:00",
+ "generated_at": "2026-09-07T04:48:31.652746+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3947,
+ "count": 3948,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -42427,6 +42427,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/vi/family/husband-trapped-in-the-mobile-web-20170121-5.html",
    "md_url": "/vi/family/husband-trapped-in-the-mobile-web-20170121-5.md"
+  },
+  {
+   "slug": "husband-who-encourages-breaking-family-ties-20170218-2",
+   "lang": "vi",
+   "category": "family",
+   "title": "Người chồng ép buộc cắt đứt quan hệ gia đình",
+   "summary": "Bài viết này xem xét tình cảnh đau lòng của một người phụ nữ bị chồng ép buộc phải cắt đứt quan hệ với gia đình ruột thịt, đồng thời đưa ra các giải pháp dựa trên giáo lý Hồi giáo. Bài viết nhấn mạnh tầm quan trọng của việc duy trì mối quan hệ huyết thống.",
+   "author": "ഹാരിസ്ബിൻ സലീം",
+   "issue_date": "2017-02-18",
+   "html_url": "/vi/family/husband-who-encourages-breaking-family-ties-20170218-2.html",
+   "md_url": "/vi/family/husband-who-encourages-breaking-family-ties-20170218-2.md"
   },
   {
    "slug": "if-the-beginning-is-good-20170211-12",
