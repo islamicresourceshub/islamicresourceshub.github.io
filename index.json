@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T08:51:54.377124+00:00",
+ "generated_at": "2026-09-07T08:52:55.085381+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4283,
+ "count": 4284,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -46277,6 +46277,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/vi/opinion/salafi-preaching-a-theoretical-analysis-20170121-10.html",
    "md_url": "/vi/opinion/salafi-preaching-a-theoretical-analysis-20170121-10.md"
+  },
+  {
+   "slug": "secular-government-and-muslim-minority-20170218-8",
+   "lang": "vi",
+   "category": "opinion",
+   "title": "Chính phủ thế tục và cộng đồng thiểu số Hồi giáo",
+   "summary": "Bài viết thảo luận về khái niệm thế tục trong Hiến pháp Ấn Độ và quyền lợi của các cộng đồng thiểu số. Đồng thời, tác giả phân tích quan điểm Hồi giáo về việc chung sống và thực hiện nghĩa vụ truyền giáo trong một quốc gia không theo luật Hồi giáo.",
+   "author": "സിറാജുല്‍ ഇസ്‌ലാം ബാലുശ്ശേരി",
+   "issue_date": "2017-02-18",
+   "html_url": "/vi/opinion/secular-government-and-muslim-minority-20170218-8.html",
+   "md_url": "/vi/opinion/secular-government-and-muslim-minority-20170218-8.md"
   },
   {
    "slug": "terrorism-and-religious-freedom-20170114-1",
