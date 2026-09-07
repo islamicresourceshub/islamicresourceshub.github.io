@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T09:25:00.622994+00:00",
+ "generated_at": "2026-09-07T09:25:57.516241+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4318,
+ "count": 4319,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -43395,6 +43395,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/tl/opinion/secular-government-and-muslim-minority-20170218-8.html",
    "md_url": "/tl/opinion/secular-government-and-muslim-minority-20170218-8.md"
+  },
+  {
+   "slug": "strengthening-secular-political-unity-20170218-9",
+   "lang": "tl",
+   "category": "opinion",
+   "title": "Ang Pagpapatibay sa Sekular na Pagkakaisang Politikal",
+   "summary": "Binibigyang-diin ng artikulong ito ang pangangailangan para sa pagkakaisa ng mga sekular na partidong politikal upang labanan ang lumalalang pasistang tendensya sa bansa. Ipinapaliwanag nito na ang politikal na pagkakaisa ay mahalaga upang mapangalagaan ang mga halagang nakasaad sa Konstitusyon.",
+   "author": "സുഫ്‌യാൻ അബ്ദുസ്സലാം",
+   "issue_date": "2017-02-18",
+   "html_url": "/tl/opinion/strengthening-secular-political-unity-20170218-9.html",
+   "md_url": "/tl/opinion/strengthening-secular-political-unity-20170218-9.md"
   },
   {
    "slug": "terrorism-and-religious-freedom-20170114-1",
