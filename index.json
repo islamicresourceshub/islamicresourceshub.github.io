@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T11:58:50.969325+00:00",
+ "generated_at": "2026-09-07T11:59:58.184182+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4452,
+ "count": 4453,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -10175,6 +10175,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/ha/history/manusmriti-and-the-caste-system-20170218-7.html",
    "md_url": "/ha/history/manusmriti-and-the-caste-system-20170218-7.md"
+  },
+  {
+   "slug": "anxieties-of-those-who-deviated-from-the-path-of-ideology-20170225-1",
+   "lang": "ha",
+   "category": "opinion",
+   "title": "Damuwar wadanda suka karkace daga tafarkin akida",
+   "summary": "Wannan makala tana tattauna ra'ayin Musulunci game da hadin kai a matsayin martani ga wani labari da shugaban KNM, Abdussalam Sullami, ya rubuta. Tana kuma yin nazari mai zurfi kan karkacewar akida da aka samu a cikin kungiyar.",
+   "author": "അബ്ദുല്‍ മാലിക് സലഫി",
+   "issue_date": "2017-02-25",
+   "html_url": "/ha/opinion/anxieties-of-those-who-deviated-from-the-path-of-ideology-20170225-1.html",
+   "md_url": "/ha/opinion/anxieties-of-those-who-deviated-from-the-path-of-ideology-20170225-1.md"
   },
   {
    "slug": "challenges-posed-by-pseudo-nationalism-20170204-4",
