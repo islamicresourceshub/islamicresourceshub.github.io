@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T04:39:02.511826+00:00",
+ "generated_at": "2026-09-07T04:39:34.149904+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3933,
+ "count": 3934,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -32054,6 +32054,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/ps/family/husband-trapped-in-the-mobile-web-20170121-5.html",
    "md_url": "/ps/family/husband-trapped-in-the-mobile-web-20170121-5.md"
+  },
+  {
+   "slug": "husband-who-encourages-breaking-family-ties-20170218-2",
+   "lang": "ps",
+   "category": "family",
+   "title": "د خپلوانو سره د اړیکو پرې کولو لپاره د مېړه ټینګار",
+   "summary": "دا لیکنه د هغې ښځې د خفګان او ستونزمن حالت په اړه ده چې مېړه یې د خپلې ضد او غوسې له امله له خپلې کورنۍ سره د اړیکو پرې کولو ته اړباسي. په دې کې د کورنیو اړیکو د ساتلو پر اهمیت او د دې ستونزې لپاره پر اسلامي حل لارو بحث شوی دی.",
+   "author": "ഹാരിസ്ബിൻ സലീം",
+   "issue_date": "2017-02-18",
+   "html_url": "/ps/family/husband-who-encourages-breaking-family-ties-20170218-2.html",
+   "md_url": "/ps/family/husband-who-encourages-breaking-family-ties-20170218-2.md"
   },
   {
    "slug": "if-the-beginning-is-good-20170211-12",
