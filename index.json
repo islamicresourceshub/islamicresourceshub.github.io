@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T04:42:21.083188+00:00",
+ "generated_at": "2026-09-07T04:43:02.364391+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3939,
+ "count": 3940,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -36498,6 +36498,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/sw/family/husband-trapped-in-the-mobile-web-20170121-5.html",
    "md_url": "/sw/family/husband-trapped-in-the-mobile-web-20170121-5.md"
+  },
+  {
+   "slug": "husband-who-encourages-breaking-family-ties-20170218-2",
+   "lang": "sw",
+   "category": "family",
+   "title": "Mume anayeshinikiza kukata udugu",
+   "summary": "Makala hii inachunguza hali ya kusikitisha ya mwanamke anayelazimishwa na mumewe kukata uhusiano na familia yake, na inatoa ufumbuzi wa Kiislamu kwa tatizo hilo. Inakumbusha umuhimu wa kudumisha uhusiano wa kifamilia.",
+   "author": "ഹാരിസ്ബിൻ സലീം",
+   "issue_date": "2017-02-18",
+   "html_url": "/sw/family/husband-who-encourages-breaking-family-ties-20170218-2.html",
+   "md_url": "/sw/family/husband-who-encourages-breaking-family-ties-20170218-2.md"
   },
   {
    "slug": "if-the-beginning-is-good-20170211-12",
