@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T05:24:59.613938+00:00",
+ "generated_at": "2026-09-07T05:25:35.382625+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4036,
+ "count": 4037,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -30657,6 +30657,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/ne/family/the-methodology-of-conduct-20170128-8.html",
    "md_url": "/ne/family/the-methodology-of-conduct-20170128-8.md"
+  },
+  {
+   "slug": "thoughts-during-pregnancy-20170218-4",
+   "lang": "ne",
+   "category": "family",
+   "title": "गर्भावस्थाका विचारहरू",
+   "summary": "यस लेखमा गर्भावस्थामा आमाबाबुले पालना गर्नुपर्ने मर्यादा र प्रार्थनाहरूबारे चर्चा गरिएको छ। इस्लामिक अभिभावकत्वको एक भागको रूपमा, बच्चाको विकासमा आमाबाबुको मानसिक अवस्थाले पार्ने प्रभावलाई यसमा स्पष्ट पारिएको छ।",
+   "author": "അഷ്‌റഫ് എകരൂല്‍",
+   "issue_date": "2017-02-18",
+   "html_url": "/ne/family/thoughts-during-pregnancy-20170218-4.html",
+   "md_url": "/ne/family/thoughts-during-pregnancy-20170218-4.md"
   },
   {
    "slug": "mosque-construction-some-points-to-note-20170325-5",
