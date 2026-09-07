@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T11:42:37.375224+00:00",
+ "generated_at": "2026-09-07T11:43:27.773555+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4435,
+ "count": 4436,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -44033,6 +44033,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/tl/dawah/muslims-in-a-pluralistic-society-20170128-1.html",
    "md_url": "/tl/dawah/muslims-in-a-pluralistic-society-20170128-1.md"
+  },
+  {
+   "slug": "organization-is-not-for-division-20170218-13",
+   "lang": "tl",
+   "category": "dawah",
+   "title": "Ang organisasyon ay hindi para sa pagkakawatak-watak!",
+   "summary": "Ipinapaalala nito na ang layunin ng mga kilusang Islamiko at organisasyon ay pagkakaisa at hindi dapat maging sanhi ng pagkakawatak-watak. Tinalakay din ang kahalagahan ng pagtutulungan sa pagitan ng mga mananampalataya.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2017-02-18",
+   "html_url": "/tl/dawah/organization-is-not-for-division-20170218-13.html",
+   "md_url": "/tl/dawah/organization-is-not-for-division-20170218-13.md"
   },
   {
    "slug": "prayer-that-is-worship-20170325-6",
