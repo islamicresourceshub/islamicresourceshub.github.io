@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T09:29:43.410493+00:00",
+ "generated_at": "2026-09-07T09:31:07.857688+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4323,
+ "count": 4324,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -47520,6 +47520,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/zh/opinion/secular-government-and-muslim-minority-20170218-8.html",
    "md_url": "/zh/opinion/secular-government-and-muslim-minority-20170218-8.md"
+  },
+  {
+   "slug": "strengthening-secular-political-unity-20170218-9",
+   "lang": "zh",
+   "category": "opinion",
+   "title": "亟需加强的世俗政治团结",
+   "summary": "本文强调，为了应对国内日益增长的法西斯主义倾向，世俗政治党派必须团结起来。文章明确指出，政治团结对于维护宪法价值观至关重要。",
+   "author": "സുഫ്‌യാൻ അബ്ദുസ്സലാം",
+   "issue_date": "2017-02-18",
+   "html_url": "/zh/opinion/strengthening-secular-political-unity-20170218-9.html",
+   "md_url": "/zh/opinion/strengthening-secular-political-unity-20170218-9.md"
   },
   {
    "slug": "terrorism-and-religious-freedom-20170114-1",
