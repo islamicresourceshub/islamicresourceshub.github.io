@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T06:01:19.592947+00:00",
+ "generated_at": "2026-09-07T06:01:41.853555+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4151,
+ "count": 4152,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -30723,6 +30723,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/ms/family/the-methodology-of-conduct-20170128-8.html",
    "md_url": "/ms/family/the-methodology-of-conduct-20170128-8.md"
+  },
+  {
+   "slug": "the-new-generation-that-makes-us-weep-20170218-6",
+   "lang": "ms",
+   "category": "family",
+   "title": "Generasi Baharu yang Mengundang Air Mata",
+   "summary": "Sebuah catatan pengalaman mengenai pergolakan mental yang dialami ibu bapa serta perilaku generasi masa kini. Perbincangan ini menyoroti keretakan dalam hubungan kekeluargaan dan situasi sosial yang menjadi puncanya.",
+   "author": "ഇബ്‌നു അലി എടത്തനാട്ടുകര",
+   "issue_date": "2017-02-18",
+   "html_url": "/ms/family/the-new-generation-that-makes-us-weep-20170218-6.html",
+   "md_url": "/ms/family/the-new-generation-that-makes-us-weep-20170218-6.md"
   },
   {
    "slug": "thoughts-during-pregnancy-20170218-4",
