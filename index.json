@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T05:05:32.956143+00:00",
+ "generated_at": "2026-09-07T05:06:14.054525+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3995,
+ "count": 3996,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -34705,6 +34705,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/si/dawah/showing-the-light-is-the-duty-of-scholars-20170121-14.html",
    "md_url": "/si/dawah/showing-the-light-is-the-duty-of-scholars-20170121-14.md"
+  },
+  {
+   "slug": "solution-for-divisions-20170218-3",
+   "lang": "si",
+   "category": "dawah",
+   "title": "භේදයන් සඳහා විසඳුමක්",
+   "summary": "ලෝක සාමයට තර්ජනයක් වන අන්තවාදයට එරෙහිව සාමකාමී ජනතාව අතර පවතින එකමුතුකම අත්‍යවශ්‍ය බව මෙම ලිපිය අවධාරණය කරයි. ෆැසිස්ට්වාදයට එරෙහිව දෘෂ්ටිවාදාත්මක එකමුතුකම් සහ සංවිධානාත්මක එකඟතා කෙතරම් වැදගත්ද යන්න මෙහි විස්තර කෙරේ.",
+   "author": "ടി.കെ.അശ്‌റഫ്‌",
+   "issue_date": "2017-02-18",
+   "html_url": "/si/dawah/solution-for-divisions-20170218-3.html",
+   "md_url": "/si/dawah/solution-for-divisions-20170218-3.md"
   },
   {
    "slug": "stand-tall-20170121-8",
