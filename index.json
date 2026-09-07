@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T11:30:30.580332+00:00",
+ "generated_at": "2026-09-07T11:31:26.048001+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4422,
+ "count": 4423,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -33000,6 +33000,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/ne/dawah/muslims-in-a-pluralistic-society-20170128-1.html",
    "md_url": "/ne/dawah/muslims-in-a-pluralistic-society-20170128-1.md"
+  },
+  {
+   "slug": "organization-is-not-for-division-20170218-13",
+   "lang": "ne",
+   "category": "dawah",
+   "title": "संगठन विभाजनका लागि होइन!",
+   "summary": "इस्लामी आन्दोलन र संगठनहरूको मुख्य उद्देश्य एकता हुनुपर्ने र तिनले कहिल्यै पनि विभाजन निम्त्याउनु नहुने कुरा यस लेखले स्मरण गराउँछ। साथै, विश्वास गर्नेहरूबीचको आपसी सहयोग र अनुशासनको महत्त्वबारे प्रकाश पार्छ।",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2017-02-18",
+   "html_url": "/ne/dawah/organization-is-not-for-division-20170218-13.html",
+   "md_url": "/ne/dawah/organization-is-not-for-division-20170218-13.md"
   },
   {
    "slug": "prayer-that-is-worship-20170325-6",
