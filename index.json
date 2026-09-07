@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T09:18:02.663106+00:00",
+ "generated_at": "2026-09-07T09:19:03.510921+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4311,
+ "count": 4312,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -37719,6 +37719,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/si/opinion/secular-government-and-muslim-minority-20170218-8.html",
    "md_url": "/si/opinion/secular-government-and-muslim-minority-20170218-8.md"
+  },
+  {
+   "slug": "strengthening-secular-political-unity-20170218-9",
+   "lang": "si",
+   "category": "opinion",
+   "title": "ශක්තිමත් කළ යුතු ලෞකික දේශපාලන එකමුතුව",
+   "summary": "රට තුළ වර්ධනය වන ෆැසිස්ට් ප්‍රවණතාවලට මුහුණ දීම සඳහා ලෞකික දේශපාලන පක්ෂ එක්විය යුතු බව මෙම ලිපිය අවධාරණය කරයි. ව්‍යවස්ථාපිත වටිනාකම් ආරක්ෂා කර ගැනීම සඳහා දේශපාලන එකමුතුව අත්‍යවශ්‍ය බව මෙහි පැහැදිලි කෙරේ.",
+   "author": "സുഫ്‌യാൻ അബ്ദുസ്സലാം",
+   "issue_date": "2017-02-18",
+   "html_url": "/si/opinion/strengthening-secular-political-unity-20170218-9.html",
+   "md_url": "/si/opinion/strengthening-secular-political-unity-20170218-9.md"
   },
   {
    "slug": "terrorism-and-religious-freedom-20170114-1",
