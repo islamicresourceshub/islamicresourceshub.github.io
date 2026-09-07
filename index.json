@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T08:27:24.072930+00:00",
+ "generated_at": "2026-09-07T08:28:24.883335+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4265,
+ "count": 4266,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -31746,6 +31746,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/ms/opinion/salafi-preaching-a-theoretical-analysis-20170121-10.html",
    "md_url": "/ms/opinion/salafi-preaching-a-theoretical-analysis-20170121-10.md"
+  },
+  {
+   "slug": "secular-government-and-muslim-minority-20170218-8",
+   "lang": "ms",
+   "category": "opinion",
+   "title": "Kerajaan Sekular dan Minoriti Muslim",
+   "summary": "Artikel ini membincangkan konsep sekularisme dalam Perlembagaan India serta hak-hak yang dinikmati oleh golongan minoriti. Ia turut meninjau kebebasan beragama dan perlindungan perlembagaan melalui perspektif Islam.",
+   "author": "സിറാജുല്‍ ഇസ്‌ലാം ബാലുശ്ശേരി",
+   "issue_date": "2017-02-18",
+   "html_url": "/ms/opinion/secular-government-and-muslim-minority-20170218-8.html",
+   "md_url": "/ms/opinion/secular-government-and-muslim-minority-20170218-8.md"
   },
   {
    "slug": "terrorism-and-religious-freedom-20170114-1",
