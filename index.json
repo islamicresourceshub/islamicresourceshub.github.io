@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T13:37:48.357941+00:00",
+ "generated_at": "2026-09-07T13:38:49.129887+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4518,
+ "count": 4519,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -49247,6 +49247,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/zh/dawah/stand-tall-20170121-8.html",
    "md_url": "/zh/dawah/stand-tall-20170121-8.md"
+  },
+  {
+   "slug": "the-chemistry-of-unity-20170225-2",
+   "lang": "zh",
+   "category": "dawah",
+   "title": "团结的化学反应",
+   "summary": "本文深入探讨了团结是否成为宣扬认主独一（Tawheed）的障碍。文章分析了组织内部团结的现实意义、面临的挑战，以及在坚持原则的前提下如何实现真正的团结。",
+   "author": "ടി.കെ.അശ്‌റഫ്",
+   "issue_date": "2017-02-25",
+   "html_url": "/zh/dawah/the-chemistry-of-unity-20170225-2.html",
+   "md_url": "/zh/dawah/the-chemistry-of-unity-20170225-2.md"
   },
   {
    "slug": "the-message-of-equality-20170121-11",
