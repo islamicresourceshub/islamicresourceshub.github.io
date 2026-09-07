@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T05:04:59.925030+00:00",
+ "generated_at": "2026-09-07T05:05:32.956143+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3994,
+ "count": 3995,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -33946,6 +33946,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/ru/dawah/showing-the-light-is-the-duty-of-scholars-20170121-14.html",
    "md_url": "/ru/dawah/showing-the-light-is-the-duty-of-scholars-20170121-14.md"
+  },
+  {
+   "slug": "solution-for-divisions-20170218-3",
+   "lang": "ru",
+   "category": "dawah",
+   "title": "Решение разногласий",
+   "summary": "В статье утверждается, что для противостояния терроризму, угрожающему миру во всем мире, необходимо единство среди сторонников мира. Автор анализирует, как идеологическое сплочение помогает противостоять фашизму и почему важно прояснить идеологические разногласия внутри движения Муджахид.",
+   "author": "ടി.കെ.അശ്‌റഫ്‌",
+   "issue_date": "2017-02-18",
+   "html_url": "/ru/dawah/solution-for-divisions-20170218-3.html",
+   "md_url": "/ru/dawah/solution-for-divisions-20170218-3.md"
   },
   {
    "slug": "stand-tall-20170121-8",
