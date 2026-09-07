@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T08:05:03.313165+00:00",
+ "generated_at": "2026-09-07T08:05:46.818767+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4226,
+ "count": 4227,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -39248,6 +39248,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/sw/hadith/criteria-for-accepting-hadith-20170128-2.html",
    "md_url": "/sw/hadith/criteria-for-accepting-hadith-20170128-2.md"
+  },
+  {
+   "slug": "manusmriti-and-the-caste-system-20170218-7",
+   "lang": "sw",
+   "category": "history",
+   "title": "Manusmriti na Mfumo wa Tabaka na Rangi",
+   "summary": "Makala haya yanachunguza kihistoria mifumo ya tabaka na rangi iliyomo ndani ya Manusmriti na Purusha Sukta. Ni uchambuzi wa kina kuhusu mizizi ya ubaguzi wa kijamii.",
+   "author": "ഉസ്മാൻ പാലക്കാഴി",
+   "issue_date": "2017-02-18",
+   "html_url": "/sw/history/manusmriti-and-the-caste-system-20170218-7.html",
+   "md_url": "/sw/history/manusmriti-and-the-caste-system-20170218-7.md"
   },
   {
    "slug": "challenges-posed-by-pseudo-nationalism-20170204-4",
