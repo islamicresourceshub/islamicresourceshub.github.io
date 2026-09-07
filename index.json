@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T12:58:45.749052+00:00",
+ "generated_at": "2026-09-07T12:59:47.548970+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4511,
+ "count": 4512,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -43098,6 +43098,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/te/dawah/stand-tall-20170121-8.html",
    "md_url": "/te/dawah/stand-tall-20170121-8.md"
+  },
+  {
+   "slug": "the-chemistry-of-unity-20170225-2",
+   "lang": "te",
+   "category": "dawah",
+   "title": "ఐక్యత యొక్క రసాయన శాస్త్రం",
+   "summary": "తౌహీద్ ప్రబోధానికి ఐక్యత అడ్డంకిగా మారుతోందా అనే అంశాన్ని ఈ వ్యాసం లోతుగా విశ్లేషిస్తుంది. సంస్థాగత ఐక్యత యొక్క ప్రాముఖ్యత మరియు అందులోని సవాళ్లను ఇక్కడ చర్చిస్తారు.",
+   "author": "ടി.കെ.അശ്‌റഫ്",
+   "issue_date": "2017-02-25",
+   "html_url": "/te/dawah/the-chemistry-of-unity-20170225-2.html",
+   "md_url": "/te/dawah/the-chemistry-of-unity-20170225-2.md"
   },
   {
    "slug": "the-religion-that-rejects-terrorism-part-1-20170121-12",
