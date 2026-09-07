@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T08:06:28.165420+00:00",
+ "generated_at": "2026-09-07T08:07:09.332911+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4228,
+ "count": 4229,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -40799,6 +40799,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/te/hadith/criteria-for-accepting-hadith-20170128-2.html",
    "md_url": "/te/hadith/criteria-for-accepting-hadith-20170128-2.md"
+  },
+  {
+   "slug": "manusmriti-and-the-caste-system-20170218-7",
+   "lang": "te",
+   "category": "history",
+   "title": "మనుస్మృతి మరియు కుల, వర్ణ వ్యవస్థ",
+   "summary": "మనుస్మృతి మరియు పురుషసూక్తంలోని కుల-వర్ణ వ్యవస్థలను ఈ వ్యాసం చారిత్రక కోణంలో విశ్లేషిస్తుంది. సామాజిక వివక్షకు మూలాలైన అంశాలపై ఇది ఒక విమర్శనాత్మక అధ్యయనం.",
+   "author": "ഉസ്മാൻ പാലക്കാഴി",
+   "issue_date": "2017-02-18",
+   "html_url": "/te/history/manusmriti-and-the-caste-system-20170218-7.html",
+   "md_url": "/te/history/manusmriti-and-the-caste-system-20170218-7.md"
   },
   {
    "slug": "challenges-posed-by-pseudo-nationalism-20170204-4",
