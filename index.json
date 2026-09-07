@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T05:07:29.324248+00:00",
+ "generated_at": "2026-09-07T05:08:05.148572+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3998,
+ "count": 3999,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -36938,6 +36938,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/sw/dawah/showing-the-light-is-the-duty-of-scholars-20170121-14.html",
    "md_url": "/sw/dawah/showing-the-light-is-the-duty-of-scholars-20170121-14.md"
+  },
+  {
+   "slug": "solution-for-divisions-20170218-3",
+   "lang": "sw",
+   "category": "dawah",
+   "title": "Suluhu ya Migogoro",
+   "summary": "Makala hii inasisitiza umuhimu wa umoja miongoni mwa watu wanaopenda amani ili kukabiliana na ugaidi na itikadi kali. Inahoji kuwa umoja wa kweli wa kiitikadi unahitaji uwazi na ufafanuzi wa msimamo kuhusu masuala ya msingi ya kidini badala ya kuficha tofauti zilizokuwepo.",
+   "author": "ടി.കെ.അശ്‌റഫ്‌",
+   "issue_date": "2017-02-18",
+   "html_url": "/sw/dawah/solution-for-divisions-20170218-3.html",
+   "md_url": "/sw/dawah/solution-for-divisions-20170218-3.md"
   },
   {
    "slug": "stand-tall-20170121-8",
