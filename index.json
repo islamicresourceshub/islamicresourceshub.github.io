@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T08:03:33.072070+00:00",
+ "generated_at": "2026-09-07T08:04:26.289597+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4224,
+ "count": 4225,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -37664,6 +37664,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/so/hadith/criteria-for-accepting-hadith-20170128-2.html",
    "md_url": "/so/hadith/criteria-for-accepting-hadith-20170128-2.md"
+  },
+  {
+   "slug": "manusmriti-and-the-caste-system-20170218-7",
+   "lang": "so",
+   "category": "history",
+   "title": "Manusmriti iyo Nidaamka Kala-sarreynta Qowmiyadaha iyo Midabka",
+   "summary": "Qoraalkani wuxuu si taariikhi ah u baarayaa nidaamka kala-sarreynta qowmiyadaha iyo midabka ee ku xusan Manusmriti iyo Purusha Sukta. Waa daraasad dhaliil leh oo ku saabsan xididdada takooridda bulshada.",
+   "author": "ഉസ്മാൻ പാലക്കാഴി",
+   "issue_date": "2017-02-18",
+   "html_url": "/so/history/manusmriti-and-the-caste-system-20170218-7.html",
+   "md_url": "/so/history/manusmriti-and-the-caste-system-20170218-7.md"
   },
   {
    "slug": "challenges-posed-by-pseudo-nationalism-20170204-4",
