@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T11:49:42.113432+00:00",
+ "generated_at": "2026-09-07T11:50:49.741733+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4443,
+ "count": 4444,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -2387,6 +2387,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/as/history/manusmriti-and-the-caste-system-20170218-7.html",
    "md_url": "/as/history/manusmriti-and-the-caste-system-20170218-7.md"
+  },
+  {
+   "slug": "anxieties-of-those-who-deviated-from-the-path-of-ideology-20170225-1",
+   "lang": "as",
+   "category": "opinion",
+   "title": "আদর্শৰ পথৰ পৰা বিচ্যুত হোৱাসকলৰ উদ্বেগ",
+   "summary": "কে.এন.এম নেতা আব্দুছ ছালাম ছুলামীৰ প্ৰবন্ধৰ প্ৰত্যুত্তৰ হিচাপে এই লেখাত ঐক্যৰ প্ৰতি ইছলামীয় দৃষ্টিভংগী আলোচনা কৰা হৈছে। লগতে আদৰ্শগত বিচ্যুতিসমূহক সমালোচনাত্মকভাৱে বিশ্লেষণ কৰা হৈছে।",
+   "author": "അബ്ദുല്‍ മാലിക് സലഫി",
+   "issue_date": "2017-02-25",
+   "html_url": "/as/opinion/anxieties-of-those-who-deviated-from-the-path-of-ideology-20170225-1.html",
+   "md_url": "/as/opinion/anxieties-of-those-who-deviated-from-the-path-of-ideology-20170225-1.md"
   },
   {
    "slug": "challenges-posed-by-pseudo-nationalism-20170204-4",
