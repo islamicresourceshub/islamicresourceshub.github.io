@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T08:35:20.399929+00:00",
+ "generated_at": "2026-09-07T08:36:22.728037+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4273,
+ "count": 4274,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -38214,6 +38214,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/so/opinion/salafi-preaching-a-theoretical-analysis-20170121-10.html",
    "md_url": "/so/opinion/salafi-preaching-a-theoretical-analysis-20170121-10.md"
+  },
+  {
+   "slug": "secular-government-and-muslim-minority-20170218-8",
+   "lang": "so",
+   "category": "opinion",
+   "title": "Dowladda cilmaaniga ah iyo dadka laga tirada badan yahay ee Muslimiinta ah",
+   "summary": "Maqaalkani wuxuu ka hadlayaa cilmaaninimada uu qeexayo dastuurka Hindiya iyo xuquuqda ay dadka laga tirada badan yahay ku leeyihiin dalkaas. Waxa uu si qoto dheer u falanqeynayaa xorriyadda diinta iyo ilaalinta dastuuriga ah ee Muslimiinta.",
+   "author": "സിറാജുല്‍ ഇസ്‌ലാം ബാലുശ്ശേരി",
+   "issue_date": "2017-02-18",
+   "html_url": "/so/opinion/secular-government-and-muslim-minority-20170218-8.html",
+   "md_url": "/so/opinion/secular-government-and-muslim-minority-20170218-8.md"
   },
   {
    "slug": "terrorism-and-religious-freedom-20170114-1",
