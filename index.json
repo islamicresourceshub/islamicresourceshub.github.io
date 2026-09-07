@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T09:52:35.241018+00:00",
+ "generated_at": "2026-09-07T09:53:28.890345+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4343,
+ "count": 4344,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -31845,6 +31845,17 @@
    "issue_date": "2017-02-11",
    "html_url": "/ms/dawah/unity-ideology-and-movement-20170211-2.html",
    "md_url": "/ms/dawah/unity-ideology-and-movement-20170211-2.md"
+  },
+  {
+   "slug": "what-do-we-have-for-ourselves-20170218-10",
+   "lang": "ms",
+   "category": "dawah",
+   "title": "Apa yang Kita Miliki Sebenarnya?",
+   "summary": "Artikel ini disusun berdasarkan peringatan al-Quran mengenai hari kiamat. Ia mendorong kita untuk melakukan muhasabah diri tentang apa yang telah kita persiapkan untuk kehidupan akhirat yang kekal.",
+   "author": "എസ്‌.എ ഐദീദ്‌ തങ്ങൾ",
+   "issue_date": "2017-02-18",
+   "html_url": "/ms/dawah/what-do-we-have-for-ourselves-20170218-10.html",
+   "md_url": "/ms/dawah/what-do-we-have-for-ourselves-20170218-10.md"
   },
   {
    "slug": "children-an-islamic-reading-part-4-20170204-5",
