@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T05:52:55.576761+00:00",
+ "generated_at": "2026-09-07T05:53:25.149437+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4124,
+ "count": 4125,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -561,6 +561,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/am/family/the-methodology-of-conduct-20170128-8.html",
    "md_url": "/am/family/the-methodology-of-conduct-20170128-8.md"
+  },
+  {
+   "slug": "the-new-generation-that-makes-us-weep-20170218-6",
+   "lang": "am",
+   "category": "family",
+   "title": "እንባ የሚያራጩ የዘመናችን ወጣቶች",
+   "summary": "ወላጆች ስለሚገጥማቸው የስነ-ልቦና ጫና እና ስለ አዲሱ ትውልድ የባህሪ ለውጦች የሚያወሳ ልብ የሚነካ ተሞክሮ። በቤተሰብ ግንኙነቶች ውስጥ የሚፈጠሩ ስንጥቆችን እና ለዚህ ምክንያት የሆኑ ማህበራዊ ሁኔታዎችን እዚህ እንወያያለን።",
+   "author": "ഇബ്‌നു അലി എടത്തനാട്ടുകര",
+   "issue_date": "2017-02-18",
+   "html_url": "/am/family/the-new-generation-that-makes-us-weep-20170218-6.html",
+   "md_url": "/am/family/the-new-generation-that-makes-us-weep-20170218-6.md"
   },
   {
    "slug": "thoughts-during-pregnancy-20170218-4",
