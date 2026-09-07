@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T05:27:04.317336+00:00",
+ "generated_at": "2026-09-07T05:27:23.693758+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4040,
+ "count": 4051,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -15369,6 +15369,17 @@
    "md_url": "/ml/dawah/a-severe-disease-affecting-the-mind-20190427-5.md"
   },
   {
+   "slug": "affection-and-love-20200822-9",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "സ്നേഹവായ്പ്",
+   "summary": "ഇസ്ലാമിലെ സ്നേഹത്തിന്റെയും സാഹോദര്യത്തിന്റെയും പ്രാധാന്യത്തെക്കുറിച്ച് വിവരിക്കുന്ന ലേഖനം. പരസ്പരം സ്നേഹിക്കുകയും അത് തുറന്നു പറയുകയും ചെയ്യേണ്ടതിന്റെ ആവശ്യകതയെ പ്രവാചക മാതൃകകളിലൂടെ വിശദീകരിക്കുന്നു.",
+   "author": "അബ്ദുൽ ജബ്ബാർ മദീനി",
+   "issue_date": "2020-08-22",
+   "html_url": "/ml/dawah/affection-and-love-20200822-9.html",
+   "md_url": "/ml/dawah/affection-and-love-20200822-9.md"
+  },
+  {
    "slug": "after-ramadan-20190608-9",
    "lang": "ml",
    "category": "dawah",
@@ -16348,6 +16359,17 @@
    "md_url": "/ml/dawah/individual-organization-and-deviation-20190921-13.md"
   },
   {
+   "slug": "insulting-the-prophet-what-wise-muslims-should-do-20200822-2",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "പ്രവാചകനിന്ദ: വിവേകമുള്ള മുസ്ലിംകൾ ചെയ്യേണ്ടത്",
+   "summary": "പ്രവാചകനിന്ദയുമായി ബന്ധപ്പെട്ട വിഷയങ്ങളിൽ മുസ്ലിംകൾ സ്വീകരിക്കേണ്ട വിവേകപൂർണ്ണമായ നിലപാടുകളെക്കുറിച്ച് ലേഖനം ചർച്ച ചെയ്യുന്നു. അക്രമരഹിതമായ പ്രതികരണത്തിന്റെയും പ്രവാചകചര്യ പിന്തുടരുന്നതിന്റെയും പ്രാധാന്യം ഇതിൽ വ്യക്തമാക്കുന്നു.",
+   "author": "അബ്ദുൽ മാലിക് സലഫി",
+   "issue_date": "2020-08-22",
+   "html_url": "/ml/dawah/insulting-the-prophet-what-wise-muslims-should-do-20200822-2.html",
+   "md_url": "/ml/dawah/insulting-the-prophet-what-wise-muslims-should-do-20200822-2.md"
+  },
+  {
    "slug": "intellect-is-not-to-be-wasted-20191026-12",
    "lang": "ml",
    "category": "dawah",
@@ -16379,6 +16401,17 @@
    "issue_date": "2019-07-20",
    "html_url": "/ml/dawah/is-suicide-a-problem-or-a-solution-20190720-1.html",
    "md_url": "/ml/dawah/is-suicide-a-problem-or-a-solution-20190720-1.md"
+  },
+  {
+   "slug": "is-that-really-me-20200822-10",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "അത് ഞാൻ തന്നെയാണോ?",
+   "summary": "മരണാനന്തര ജീവിതത്തെക്കുറിച്ചും ഒരാളുടെ പൊതുജീവിതവും സ്വകാര്യ ജീവിതവും തമ്മിലുള്ള പൊരുത്തത്തെക്കുറിച്ചുമുള്ള ആത്മപരിശോധന നടത്തുന്ന ലേഖനം.",
+   "author": "സമീർ മുണ്ടേരി",
+   "issue_date": "2020-08-22",
+   "html_url": "/ml/dawah/is-that-really-me-20200822-10.html",
+   "md_url": "/ml/dawah/is-that-really-me-20200822-10.md"
   },
   {
    "slug": "is-the-mobile-phone-meant-for-cheating-20190216-7",
@@ -17666,6 +17699,28 @@
    "issue_date": "2020-08-15",
    "html_url": "/ml/dawah/the-neglected-arabic-language-20200815-2.html",
    "md_url": "/ml/dawah/the-neglected-arabic-language-20200815-2.md"
+  },
+  {
+   "slug": "the-orphanage-movement-that-made-orphans-secure-20200822-1",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "അനാഥരെ സനാഥരാക്കിയ യതീംഖാന പ്രസ്ഥാനം",
+   "summary": "കേരളത്തിലെ യതീംഖാന പ്രസ്ഥാനത്തിന്റെ ഉത്ഭവത്തെയും വളർച്ചയെയും കുറിച്ചുള്ള ചരിത്രപരമായ വിശകലനം. അനാഥകളുടെ ഉന്നമനത്തിനായി പ്രവർത്തിക്കുന്ന ഈ സ്ഥാപനങ്ങളുടെ സാമൂഹികവും വിദ്യാഭ്യാസപരവുമായ പങ്കിനെ ലേഖനം എടുത്തുപറയുന്നു.",
+   "author": "അബൂ ഫർഹാൻ ആലത്തിയൂർ",
+   "issue_date": "2020-08-22",
+   "html_url": "/ml/dawah/the-orphanage-movement-that-made-orphans-secure-20200822-1.html",
+   "md_url": "/ml/dawah/the-orphanage-movement-that-made-orphans-secure-20200822-1.md"
+  },
+  {
+   "slug": "the-path-to-happiness-20200822-5",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "സൗഭാഗ്യത്തിലേക്കുള്ള പാത",
+   "summary": "യഥാർത്ഥ സൗഭാഗ്യം എന്താണെന്നും അത് എങ്ങനെ കൈവരിക്കാമെന്നും ഖുർആനിക വീക്ഷണത്തിൽ വിശദീകരിക്കുന്ന ലേഖനം. ഭൗതിക നേട്ടങ്ങളല്ല, അല്ലാഹുവുമായുള്ള ബന്ധമാണ് സൗഭാഗ്യത്തിന്റെ അടിസ്ഥാനമെന്ന് ഇത് സമർത്ഥിക്കുന്നു.",
+   "author": "ഡോക്ടർ സഅദുല്ലാഹ്, ബഹ്‌റൈൻ",
+   "issue_date": "2020-08-22",
+   "html_url": "/ml/dawah/the-path-to-happiness-20200822-5.html",
+   "md_url": "/ml/dawah/the-path-to-happiness-20200822-5.md"
   },
   {
    "slug": "the-path-to-peace-20170225-11",
@@ -20517,6 +20572,17 @@
    "md_url": "/ml/history/debates-on-stage-and-in-court-20190921-9.md"
   },
   {
+   "slug": "fascism-deconstructing-history-20200822-7",
+   "lang": "ml",
+   "category": "history",
+   "title": "ചരിത്രത്തെ അപനിർമ്മിക്കുന്ന ഫാഷിസം",
+   "summary": "ഇന്ത്യൻ ചരിത്രത്തെ സംഘപരിവാർ ശക്തികൾ അപനിർമ്മിക്കാൻ ശ്രമിക്കുന്നതിനെക്കുറിച്ചുള്ള ലേഖനം. ചരിത്രപരമായ വസ്തുതകളും മുസ്ലിംകളുടെ സ്വാതന്ത്ര്യസമര പങ്കാളിത്തവും ഇതിൽ വിവരിക്കുന്നു.",
+   "author": "മുജീബ് ഒട്ടുമ്മൽ",
+   "issue_date": "2020-08-22",
+   "html_url": "/ml/history/fascism-deconstructing-history-20200822-7.html",
+   "md_url": "/ml/history/fascism-deconstructing-history-20200822-7.md"
+  },
+  {
    "slug": "fascism-the-twin-brother-of-italian-fascism-20200215-5",
    "lang": "ml",
    "category": "history",
@@ -21890,6 +21956,17 @@
    "issue_date": "2019-04-27",
    "html_url": "/ml/opinion/do-not-pollute-the-education-sector-20190427-10.html",
    "md_url": "/ml/opinion/do-not-pollute-the-education-sector-20190427-10.md"
+  },
+  {
+   "slug": "do-not-provide-a-ladder-to-the-monkey-20200822-4",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "കുരങ്ങിന് ഏണിവച്ചുകൊടുക്കരുത്",
+   "summary": "പ്രവാചകനിന്ദയുമായി ബന്ധപ്പെട്ട വൈകാരിക പ്രതികരണങ്ങളെ വിമർശിക്കുന്ന ലേഖനം. ഇത്തരം പ്രകോപനങ്ങളിൽ പെട്ടുപോകാതെ വിവേകത്തോടെ പെരുമാറാൻ വിശ്വാസികളെ ഉപദേശിക്കുന്നു.",
+   "author": "സി",
+   "issue_date": "2020-08-22",
+   "html_url": "/ml/opinion/do-not-provide-a-ladder-to-the-monkey-20200822-4.html",
+   "md_url": "/ml/opinion/do-not-provide-a-ladder-to-the-monkey-20200822-4.md"
   },
   {
    "slug": "do-not-turn-colleges-into-battlegrounds-20190803-4",
@@ -23542,6 +23619,17 @@
    "md_url": "/ml/opinion/the-kerala-story-of-honor-killing-20180616-6.md"
   },
   {
+   "slug": "the-land-where-paddy-fields-are-disappearing-20200822-3",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "വയലേലകൾ അന്യമാകുന്ന മാമലനാട്",
+   "summary": "കേരളത്തിൽ നെൽവയലുകൾ അപ്രത്യക്ഷമാകുന്നതിനെക്കുറിച്ചും അത് ഭക്ഷ്യസുരക്ഷയിൽ വരുത്തുന്ന പ്രതിസന്ധികളെക്കുറിച്ചുമുള്ള മുഖലേഖനം. കൃഷിയോടുള്ള അവഗണന അവസാനിപ്പിക്കേണ്ടതിന്റെ ആവശ്യകതയെക്കുറിച്ച് ഇത് ഓർമ്മിപ്പിക്കുന്നു.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2020-08-22",
+   "html_url": "/ml/opinion/the-land-where-paddy-fields-are-disappearing-20200822-3.html",
+   "md_url": "/ml/opinion/the-land-where-paddy-fields-are-disappearing-20200822-3.md"
+  },
+  {
    "slug": "the-message-of-eid-al-adha-20200725-1",
    "lang": "ml",
    "category": "opinion",
@@ -24695,6 +24783,17 @@
    "issue_date": "2020-07-25",
    "html_url": "/ml/quran/man-in-the-quran-20200725-2.html",
    "md_url": "/ml/quran/man-in-the-quran-20200725-2.md"
+  },
+  {
+   "slug": "man-is-not-self-sufficient-20200822-6",
+   "lang": "ml",
+   "category": "quran",
+   "title": "മനുഷ്യൻ സ്വയംപര്യാപ്തനല്ല",
+   "summary": "മനുഷ്യൻ അല്ലാഹുവിനെ ആശ്രയിച്ചു ജീവിക്കേണ്ടവനാണെന്നും സ്വയംപര്യാപ്തനല്ലെന്നും ഖുർആൻ സൂക്തങ്ങളുടെ അടിസ്ഥാനത്തിൽ വിശദീകരിക്കുന്ന ലേഖനം. മനുഷ്യന്റെ അഹങ്കാരത്തെയും അല്ലാഹുവിന്റെ പരമാധികാരത്തെയും ഇത് ചർച്ച ചെയ്യുന്നു.",
+   "author": "കുഞ്ഞിമുഹമ്മദ് മദനി പറപ്പൂർ",
+   "issue_date": "2020-08-22",
+   "html_url": "/ml/quran/man-is-not-self-sufficient-20200822-6.html",
+   "md_url": "/ml/quran/man-is-not-self-sufficient-20200822-6.md"
   },
   {
    "slug": "man-s-main-enemy-20200815-3",
@@ -28118,6 +28217,17 @@
    "md_url": "/ml/story/the-girl-with-the-red-scarf-20180421-3.md"
   },
   {
+   "slug": "the-glory-of-malappuram-20200822-8",
+   "lang": "ml",
+   "category": "story",
+   "title": "മലപ്പുറം മഹിമ",
+   "summary": "കരിപ്പൂർ വിമാന അപകടത്തിൽ മലപ്പുറം ജനത കാണിച്ച മാതൃകാപരമായ സേവനത്തെയും സ്നേഹത്തെയും പ്രകീർത്തിക്കുന്ന കവിത.",
+   "author": "ഉമ്മു ഹംദ പറവണ്ണ",
+   "issue_date": "2020-08-22",
+   "html_url": "/ml/story/the-glory-of-malappuram-20200822-8.html",
+   "md_url": "/ml/story/the-glory-of-malappuram-20200822-8.md"
+  },
+  {
    "slug": "the-groom-in-the-coffin-20190112-9",
    "lang": "ml",
    "category": "story",
@@ -28160,6 +28270,17 @@
    "issue_date": "2019-05-11",
    "html_url": "/ml/story/the-joy-of-moon-sighting-20190511-8.html",
    "md_url": "/ml/story/the-joy-of-moon-sighting-20190511-8.md"
+  },
+  {
+   "slug": "the-king-and-the-old-man-20200822-11",
+   "lang": "ml",
+   "category": "story",
+   "title": "രാജാവും വൃദ്ധനും",
+   "summary": "ജീവിതത്തിന്റെ നശ്വരതയെക്കുറിച്ച് ഒരു രാജാവിനെ ബോധ്യപ്പെടുത്തുന്ന വൃദ്ധന്റെ കഥ. അഹങ്കാരമില്ലാത്ത ജീവിതത്തിന്റെ പ്രാധാന്യം ഇത് കുട്ടികൾക്ക് പകർന്നു നൽകുന്നു.",
+   "author": "റാഷിദ ബിൻത് ഉസ്മാൻ",
+   "issue_date": "2020-08-22",
+   "html_url": "/ml/story/the-king-and-the-old-man-20200822-11.html",
+   "md_url": "/ml/story/the-king-and-the-old-man-20200822-11.md"
   },
   {
    "slug": "the-last-page-20190323-2",
