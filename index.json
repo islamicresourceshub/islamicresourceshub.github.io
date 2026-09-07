@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T05:42:51.166790+00:00",
+ "generated_at": "2026-09-07T05:43:14.020318+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4093,
+ "count": 4094,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -13827,6 +13827,17 @@
    "issue_date": "2017-02-04",
    "html_url": "/ko/opinion/challenges-posed-by-pseudo-nationalism-20170204-4.html",
    "md_url": "/ko/opinion/challenges-posed-by-pseudo-nationalism-20170204-4.md"
+  },
+  {
+   "slug": "democratic-jallikattu-20170218-5",
+   "lang": "ko",
+   "category": "opinion",
+   "title": "민주주의의 젤리카투",
+   "summary": "타밀나두 정치의 최근 사건들과 권력 다툼을 분석한 글입니다. 민주주의 체제 안에서 벌어지는 정치적 드라마를 비판적인 시각으로 다룹니다.",
+   "author": "ഡോ. സി.എം സാബിര്‍ നവാസ്‌",
+   "issue_date": "2017-02-18",
+   "html_url": "/ko/opinion/democratic-jallikattu-20170218-5.html",
+   "md_url": "/ko/opinion/democratic-jallikattu-20170218-5.md"
   },
   {
    "slug": "e-writing-is-not-mere-writing-20170121-15",
