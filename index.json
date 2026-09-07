@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T05:27:45.326344+00:00",
+ "generated_at": "2026-09-07T05:28:05.855127+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4052,
+ "count": 4053,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -34606,6 +34606,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/ru/family/the-methodology-of-conduct-20170128-8.html",
    "md_url": "/ru/family/the-methodology-of-conduct-20170128-8.md"
+  },
+  {
+   "slug": "thoughts-during-pregnancy-20170218-4",
+   "lang": "ru",
+   "category": "family",
+   "title": "Размышления во время беременности",
+   "summary": "В этой статье рассматриваются этические нормы и молитвы, которые следует соблюдать родителям во время беременности. Автор объясняет, как психологическое состояние родителей в рамках исламского воспитания влияет на развитие ребенка.",
+   "author": "അഷ്‌റഫ് എകരൂല്‍",
+   "issue_date": "2017-02-18",
+   "html_url": "/ru/family/thoughts-during-pregnancy-20170218-4.html",
+   "md_url": "/ru/family/thoughts-during-pregnancy-20170218-4.md"
   },
   {
    "slug": "mosque-construction-some-points-to-note-20170325-5",
