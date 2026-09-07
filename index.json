@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T05:28:05.855127+00:00",
+ "generated_at": "2026-09-07T05:28:37.968156+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4053,
+ "count": 4054,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -35376,6 +35376,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/si/family/the-methodology-of-conduct-20170128-8.html",
    "md_url": "/si/family/the-methodology-of-conduct-20170128-8.md"
+  },
+  {
+   "slug": "thoughts-during-pregnancy-20170218-4",
+   "lang": "si",
+   "category": "family",
+   "title": "ගර්භණී සමය පිළිබඳ සිතුවිලි",
+   "summary": "ගර්භණී සමයේදී දෙමාපියන් අනුගමනය කළ යුතු ආචාරධර්ම සහ යාඥාවන් පිළිබඳව මෙම ලිපිය සාකච්ඡා කරයි. ඉස්ලාමීය දෙමාපිය වගකීමේ කොටසක් ලෙස, දරුවාගේ වර්ධනය කෙරෙහි දෙමාපියන්ගේ මානසික තත්ත්වය බලපාන ආකාරය මෙහි විස්තර කෙරේ.",
+   "author": "അഷ്‌റഫ് എകരൂല്‍",
+   "issue_date": "2017-02-18",
+   "html_url": "/si/family/thoughts-during-pregnancy-20170218-4.html",
+   "md_url": "/si/family/thoughts-during-pregnancy-20170218-4.md"
   },
   {
    "slug": "mosque-construction-some-points-to-note-20170325-5",
