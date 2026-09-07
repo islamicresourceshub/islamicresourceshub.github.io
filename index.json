@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T05:54:23.440745+00:00",
+ "generated_at": "2026-09-07T05:54:42.289888+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4127,
+ "count": 4128,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -2915,6 +2915,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/bn/family/the-methodology-of-conduct-20170128-8.html",
    "md_url": "/bn/family/the-methodology-of-conduct-20170128-8.md"
+  },
+  {
+   "slug": "the-new-generation-that-makes-us-weep-20170218-6",
+   "lang": "bn",
+   "category": "family",
+   "title": "চোখের জলে ভাসানো নতুন প্রজন্ম",
+   "summary": "বাবা-মায়ের মানসিক যন্ত্রণা এবং নতুন প্রজন্মের আচরণের ওপর ভিত্তি করে লেখা একটি বাস্তব অভিজ্ঞতা। পারিবারিক সম্পর্কের ভাঙন এবং এর পেছনে থাকা সামাজিক পরিস্থিতি নিয়ে এখানে আলোচনা করা হয়েছে।",
+   "author": "ഇബ്‌നു അലി എടത്തനാട്ടുകര",
+   "issue_date": "2017-02-18",
+   "html_url": "/bn/family/the-new-generation-that-makes-us-weep-20170218-6.html",
+   "md_url": "/bn/family/the-new-generation-that-makes-us-weep-20170218-6.md"
   },
   {
    "slug": "thoughts-during-pregnancy-20170218-4",
