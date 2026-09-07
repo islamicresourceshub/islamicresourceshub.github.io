@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T05:34:09.051372+00:00",
+ "generated_at": "2026-09-07T05:34:41.765922+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4064,
+ "count": 4065,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -43747,6 +43747,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/vi/family/the-methodology-of-conduct-20170128-8.html",
    "md_url": "/vi/family/the-methodology-of-conduct-20170128-8.md"
+  },
+  {
+   "slug": "thoughts-during-pregnancy-20170218-4",
+   "lang": "vi",
+   "category": "family",
+   "title": "Những suy ngẫm trong thai kỳ",
+   "summary": "Bài viết thảo luận về những nghi thức và lời cầu nguyện mà cha mẹ cần thực hiện trong thời kỳ mang thai. Đồng thời, bài viết giải thích tầm quan trọng của trạng thái tâm lý cha mẹ đối với sự phát triển của thai nhi như một phần của phương pháp nuôi dạy con cái theo quan điểm Hồi giáo.",
+   "author": "അഷ്‌റഫ് എകരൂല്‍",
+   "issue_date": "2017-02-18",
+   "html_url": "/vi/family/thoughts-during-pregnancy-20170218-4.html",
+   "md_url": "/vi/family/thoughts-during-pregnancy-20170218-4.md"
   },
   {
    "slug": "mosque-construction-some-points-to-note-20170325-5",
