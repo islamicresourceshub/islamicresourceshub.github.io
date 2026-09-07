@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T11:47:31.334586+00:00",
+ "generated_at": "2026-09-07T11:48:41.372473+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4441,
+ "count": 4442,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -660,6 +660,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/am/history/manusmriti-and-the-caste-system-20170218-7.html",
    "md_url": "/am/history/manusmriti-and-the-caste-system-20170218-7.md"
+  },
+  {
+   "slug": "anxieties-of-those-who-deviated-from-the-path-of-ideology-20170225-1",
+   "lang": "am",
+   "category": "opinion",
+   "title": "ከአይዲዮሎጂያዊ መንገድ ያፈነገጡ ሰዎች ስጋቶች",
+   "summary": "ይህ ጽሑፍ የኬ.ኤን.ኤም መሪ አብዱሰላም ሱለሚ በጻፉት ጽሑፍ ላይ ምላሽ በመስጠት፣ ስለ አንድነት ያለውን የእስልምና አመለካከት ይወያያል። እንዲሁም በድርጅቱ ውስጥ የተከሰቱትን አስተሳሰባዊ መዛባቶች በሂሳዊ እይታ ይተነትናል።",
+   "author": "അബ്ദുല്‍ മാലിക് സലഫി",
+   "issue_date": "2017-02-25",
+   "html_url": "/am/opinion/anxieties-of-those-who-deviated-from-the-path-of-ideology-20170225-1.html",
+   "md_url": "/am/opinion/anxieties-of-those-who-deviated-from-the-path-of-ideology-20170225-1.md"
   },
   {
    "slug": "challenges-posed-by-pseudo-nationalism-20170204-4",
