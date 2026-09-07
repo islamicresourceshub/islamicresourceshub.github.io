@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T09:32:57.945299+00:00",
+ "generated_at": "2026-09-07T09:34:07.654025+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4326,
+ "count": 4327,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -2101,6 +2101,17 @@
    "issue_date": "2017-02-11",
    "html_url": "/as/dawah/unity-ideology-and-movement-20170211-2.html",
    "md_url": "/as/dawah/unity-ideology-and-movement-20170211-2.md"
+  },
+  {
+   "slug": "what-do-we-have-for-ourselves-20170218-10",
+   "lang": "as",
+   "category": "dawah",
+   "title": "নিজস্ব বুলি আমাৰ কি আছে?",
+   "summary": "কিয়ামত বা বিচাৰ দিৱসৰ বিষয়ে কোৰআনৰ সতৰ্কবাণীক ভিত্তি কৰি এই প্ৰবন্ধটো লিখা হৈছে। ই আমাক পৰকালৰ বাবে আমি কি সঞ্চয় কৰিছোঁ, সেই বিষয়ে আত্ম-বিশ্লেষণ কৰিবলৈ প্ৰেৰণা যোগায়।",
+   "author": "എസ്‌.എ ഐദീദ്‌ തങ്ങൾ",
+   "issue_date": "2017-02-18",
+   "html_url": "/as/dawah/what-do-we-have-for-ourselves-20170218-10.html",
+   "md_url": "/as/dawah/what-do-we-have-for-ourselves-20170218-10.md"
   },
   {
    "slug": "children-an-islamic-reading-part-4-20170204-5",
