@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T04:38:39.061013+00:00",
+ "generated_at": "2026-09-07T04:39:02.511826+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3932,
+ "count": 3933,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -31317,6 +31317,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/pa/family/husband-trapped-in-the-mobile-web-20170121-5.html",
    "md_url": "/pa/family/husband-trapped-in-the-mobile-web-20170121-5.md"
+  },
+  {
+   "slug": "husband-who-encourages-breaking-family-ties-20170218-2",
+   "lang": "pa",
+   "category": "family",
+   "title": "ਰਿਸ਼ਤੇ ਤੋੜਨ ਲਈ ਮਜਬੂਰ ਕਰਨ ਵਾਲਾ ਪਤੀ",
+   "summary": "ਇਹ ਲੇਖ ਇੱਕ ਅਜਿਹੀ ਪਤਨੀ ਦੀ ਦੁਖਦਾਈ ਸਥਿਤੀ ਦਾ ਵਿਸ਼ਲੇਸ਼ਣ ਕਰਦਾ ਹੈ ਜਿਸਨੂੰ ਉਸਦੇ ਪਤੀ ਦੀ ਜ਼ਿੱਦ ਕਾਰਨ ਆਪਣੇ ਪਰਿਵਾਰ ਨਾਲੋਂ ਰਿਸ਼ਤੇ ਤੋੜਨੇ ਪੈ ਰਹੇ ਹਨ। ਇਹ ਪਰਿਵਾਰਕ ਸਬੰਧਾਂ ਨੂੰ ਕਾਇਮ ਰੱਖਣ ਦੀ ਮਹੱਤਤਾ ਅਤੇ ਇਸ ਸਬੰਧੀ ਇਸਲਾਮੀ ਹੱਲਾਂ ਬਾਰੇ ਚਰਚਾ ਕਰਦਾ ਹੈ।",
+   "author": "ഹാരിസ്ബിൻ സലീം",
+   "issue_date": "2017-02-18",
+   "html_url": "/pa/family/husband-who-encourages-breaking-family-ties-20170218-2.html",
+   "md_url": "/pa/family/husband-who-encourages-breaking-family-ties-20170218-2.md"
   },
   {
    "slug": "if-the-beginning-is-good-20170211-12",
