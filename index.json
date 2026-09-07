@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T08:43:31.380665+00:00",
+ "generated_at": "2026-09-07T08:44:28.842346+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4277,
+ "count": 4278,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -41393,6 +41393,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/te/opinion/salafi-preaching-a-theoretical-analysis-20170121-10.html",
    "md_url": "/te/opinion/salafi-preaching-a-theoretical-analysis-20170121-10.md"
+  },
+  {
+   "slug": "secular-government-and-muslim-minority-20170218-8",
+   "lang": "te",
+   "category": "opinion",
+   "title": "లౌకిక ప్రభుత్వం మరియు ముస్లిం మైనారిటీ",
+   "summary": "భారత రాజ్యాంగం కల్పించే లౌకికవాదం మరియు అందులో మైనారిటీలకు ఉన్న హక్కుల గురించి ఈ వ్యాసం చర్చిస్తుంది. మత స్వేచ్ఛ మరియు రాజ్యాంగపరమైన రక్షణకు సంబంధించిన ఒక విశ్లేషణ ఇది.",
+   "author": "സിറാജുല്‍ ഇസ്‌ലാം ബാലുശ്ശേരി",
+   "issue_date": "2017-02-18",
+   "html_url": "/te/opinion/secular-government-and-muslim-minority-20170218-8.html",
+   "md_url": "/te/opinion/secular-government-and-muslim-minority-20170218-8.md"
   },
   {
    "slug": "terrorism-and-religious-freedom-20170114-1",
