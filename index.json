@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T05:24:22.993524+00:00",
+ "generated_at": "2026-09-07T05:24:59.613938+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4035,
+ "count": 4036,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -29887,6 +29887,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/ms/family/the-methodology-of-conduct-20170128-8.html",
    "md_url": "/ms/family/the-methodology-of-conduct-20170128-8.md"
+  },
+  {
+   "slug": "thoughts-during-pregnancy-20170218-4",
+   "lang": "ms",
+   "category": "family",
+   "title": "Pemikiran Semasa Kehamilan",
+   "summary": "Artikel ini membincangkan adab dan doa yang perlu diamalkan oleh ibu bapa semasa tempoh kehamilan. Ia menjelaskan pengaruh keadaan mental ibu bapa terhadap perkembangan anak sebagai sebahagian daripada didikan Islam.",
+   "author": "അഷ്‌റഫ് എകരൂല്‍",
+   "issue_date": "2017-02-18",
+   "html_url": "/ms/family/thoughts-during-pregnancy-20170218-4.html",
+   "md_url": "/ms/family/thoughts-during-pregnancy-20170218-4.md"
   },
   {
    "slug": "mosque-construction-some-points-to-note-20170325-5",
