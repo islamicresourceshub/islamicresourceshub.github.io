@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T09:04:05.941232+00:00",
+ "generated_at": "2026-09-07T09:05:07.826498+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4296,
+ "count": 4297,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -9812,6 +9812,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/ha/opinion/secular-government-and-muslim-minority-20170218-8.html",
    "md_url": "/ha/opinion/secular-government-and-muslim-minority-20170218-8.md"
+  },
+  {
+   "slug": "strengthening-secular-political-unity-20170218-9",
+   "lang": "ha",
+   "category": "opinion",
+   "title": "Haɗin kan Siyasa na Mazhabar Mazhabobi da ya kamata a ƙarfafa",
+   "summary": "Wannan labarin yana jaddada bukatar haɗin kan jam'iyyun siyasa masu ra'ayin mazhabobi daban-daban don fuskantar yanayin fasisanci da ke ƙaruwa a ƙasar. Ya bayyana cewa haɗin kan siyasa yana da mahimmanci don kare ƙimar tsarin mulki.",
+   "author": "സുഫ്‌യാൻ അബ്ദുസ്സലാം",
+   "issue_date": "2017-02-18",
+   "html_url": "/ha/opinion/strengthening-secular-political-unity-20170218-9.html",
+   "md_url": "/ha/opinion/strengthening-secular-political-unity-20170218-9.md"
   },
   {
    "slug": "terrorism-and-religious-freedom-20170114-1",
