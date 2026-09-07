@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T08:14:06.851321+00:00",
+ "generated_at": "2026-09-07T08:14:46.886604+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4249,
+ "count": 4250,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -3190,6 +3190,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/bn/opinion/salafi-preaching-a-theoretical-analysis-20170121-10.html",
    "md_url": "/bn/opinion/salafi-preaching-a-theoretical-analysis-20170121-10.md"
+  },
+  {
+   "slug": "secular-government-and-muslim-minority-20170218-8",
+   "lang": "bn",
+   "category": "opinion",
+   "title": "ধর্মনিরপেক্ষ সরকার এবং মুসলিম সংখ্যালঘু",
+   "summary": "এই নিবন্ধটি ভারতীয় সংবিধানের প্রেক্ষাপটে ধর্মনিরপেক্ষতা এবং সংখ্যালঘুদের অধিকার নিয়ে আলোচনা করে। এটি অমুসলিম রাষ্ট্রে বসবাসকারী মুসলিমদের ধর্মীয় স্বাধীনতা, দায়িত্ব এবং প্রজ্ঞাপূর্ণ আচরণের ওপর আলোকপাত করে।",
+   "author": "സിറാജുല്‍ ഇസ്‌ലാം ബാലുശ്ശേരി",
+   "issue_date": "2017-02-18",
+   "html_url": "/bn/opinion/secular-government-and-muslim-minority-20170218-8.html",
+   "md_url": "/bn/opinion/secular-government-and-muslim-minority-20170218-8.md"
   },
   {
    "slug": "terrorism-and-religious-freedom-20170114-1",
