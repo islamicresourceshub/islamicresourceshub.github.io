@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T11:45:07.881960+00:00",
+ "generated_at": "2026-09-07T11:45:51.559787+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4438,
+ "count": 4439,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -46607,6 +46607,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/uz/dawah/muslims-in-a-pluralistic-society-20170128-1.html",
    "md_url": "/uz/dawah/muslims-in-a-pluralistic-society-20170128-1.md"
+  },
+  {
+   "slug": "organization-is-not-for-division-20170218-13",
+   "lang": "uz",
+   "category": "dawah",
+   "title": "Tashkilot bo‘linish uchun emas!",
+   "summary": "Ushbu maqola islomiy harakatlar va tashkilotlarning asl maqsadi birlik ekanligini, ular ixtiloflarga sabab bo‘lmasligi kerakligini eslatadi. Shuningdek, mo‘minlar o‘rtasidagi hamkorlik va intizomning ahamiyati yoritiladi.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2017-02-18",
+   "html_url": "/uz/dawah/organization-is-not-for-division-20170218-13.html",
+   "md_url": "/uz/dawah/organization-is-not-for-division-20170218-13.md"
   },
   {
    "slug": "prayer-that-is-worship-20170325-6",
