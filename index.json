@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T05:04:12.880609+00:00",
+ "generated_at": "2026-09-07T05:04:32.200870+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3983,
+ "count": 3993,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -14269,6 +14269,17 @@
    "md_url": "/ml/aqeedah/ghaib-the-key-to-faith-20180804-5.md"
   },
   {
+   "slug": "human-equality-20200808-6",
+   "lang": "ml",
+   "category": "aqeedah",
+   "title": "മനുഷ്യ സമത്വം",
+   "summary": "മനുഷ്യസമത്വത്തെക്കുറിച്ചുള്ള ഇസ്‌ലാമിക കാഴ്ചപ്പാട് വിശദീകരിക്കുന്ന ലേഖനം. വർണ്ണ-വർഗ്ഗ വിവേചനങ്ങളെ ഇസ്‌ലാം എങ്ങനെ നിരാകരിക്കുന്നുവെന്നും സമ്പത്ത്, ദാനം എന്നിവയിലെ ഇസ്‌ലാമിക നിയമങ്ങളും ചർച്ച ചെയ്യുന്നു.",
+   "author": "കുഞ്ഞിമുഹമ്മദ് മദനി പറപ്പൂർ",
+   "issue_date": "2020-08-08",
+   "html_url": "/ml/aqeedah/human-equality-20200808-6.html",
+   "md_url": "/ml/aqeedah/human-equality-20200808-6.md"
+  },
+  {
    "slug": "identify-yourself-20170401-1",
    "lang": "ml",
    "category": "aqeedah",
@@ -14322,6 +14333,17 @@
    "issue_date": "2018-12-22",
    "html_url": "/ml/aqeedah/is-god-one-20181222-4.html",
    "md_url": "/ml/aqeedah/is-god-one-20181222-4.md"
+  },
+  {
+   "slug": "is-islam-a-religion-of-patriarchy-20200808-4",
+   "lang": "ml",
+   "category": "aqeedah",
+   "title": "ഇസ്‌ലാം പുരുഷ മേധാവിത്വത്തിന്റെ മതമോ?",
+   "summary": "ഖുർആനിലെ 4:34 വചനത്തെ തെറ്റായി വ്യാഖ്യാനിച്ച് ഇസ്‌ലാം പുരുഷ മേധാവിത്വത്തിന്റെ മതമാണെന്ന് വിമർശിക്കുന്നവർക്കുള്ള മറുപടി. സ്ത്രീ-പുരുഷ അവകാശങ്ങളുടെയും പ്രകൃതിപരമായ വ്യത്യാസങ്ങളുടെയും അടിസ്ഥാനത്തിൽ ഇസ്‌ലാമിക വീക്ഷണം വ്യക്തമാക്കുന്നു.",
+   "author": "ശമീർ മദിനി",
+   "issue_date": "2020-08-08",
+   "html_url": "/ml/aqeedah/is-islam-a-religion-of-patriarchy-20200808-4.html",
+   "md_url": "/ml/aqeedah/is-islam-a-religion-of-patriarchy-20200808-4.md"
   },
   {
    "slug": "is-nabidinam-celebration-true-love-for-the-prophet-20181124-5",
@@ -14784,6 +14806,17 @@
    "issue_date": "2019-05-25",
    "html_url": "/ml/aqeedah/the-death-of-prophet-isa-as-20190525-3.html",
    "md_url": "/ml/aqeedah/the-death-of-prophet-isa-as-20190525-3.md"
+  },
+  {
+   "slug": "the-depth-of-ignorance-20200808-10",
+   "lang": "ml",
+   "category": "aqeedah",
+   "title": "അജ്ഞതയുടെ ആഴം",
+   "summary": "അല്ലാഹുവിനല്ലാതെ മറ്റാരോടും പ്രാർത്ഥിക്കാൻ പാടില്ലെന്ന ഇസ്‌ലാമിക തത്വം വിശദീകരിക്കുന്ന ലേഖനം. മൺമറഞ്ഞവരോട് സഹായം തേടുന്നതിലെ അബദ്ധങ്ങളെ ഖുർആൻ വചനങ്ങളിലൂടെ ലേഖകൻ തുറന്നുകാട്ടുന്നു.",
+   "author": "ഉസ്മാൻ പാലക്കാഴി",
+   "issue_date": "2020-08-08",
+   "html_url": "/ml/aqeedah/the-depth-of-ignorance-20200808-10.html",
+   "md_url": "/ml/aqeedah/the-depth-of-ignorance-20200808-10.md"
   },
   {
    "slug": "the-hidden-aspects-of-opposition-to-manhaj-20181201-5",
@@ -16260,6 +16293,17 @@
    "md_url": "/ml/dawah/jallikattu-and-the-islamic-approach-to-animals-20170128-4.md"
   },
   {
+   "slug": "keeping-secrets-and-controlling-anger-20200808-8",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "രഹസ്യം സൂക്ഷിക്കലും കോപം അടക്കിവെക്കലും",
+   "summary": "ഇസ്‌ലാം പഠിപ്പിക്കുന്ന ഉത്തമ സ്വഭാവങ്ങളായ രഹസ്യം സൂക്ഷിക്കൽ, കോപം അടക്കിവെക്കൽ എന്നിവയുടെ പ്രാധാന്യം ഖുർആൻ-സുന്നത്ത് അടിസ്ഥാനത്തിൽ വിവരിക്കുന്ന ലേഖനം.",
+   "author": "അബ്ദുൽ ജബ്ബാർ മദിനി",
+   "issue_date": "2020-08-08",
+   "html_url": "/ml/dawah/keeping-secrets-and-controlling-anger-20200808-8.html",
+   "md_url": "/ml/dawah/keeping-secrets-and-controlling-anger-20200808-8.md"
+  },
+  {
    "slug": "knowledge-bestows-dignity-and-joy-20200718-6",
    "lang": "ml",
    "category": "dawah",
@@ -16720,6 +16764,17 @@
    "issue_date": "2020-05-16",
    "html_url": "/ml/dawah/purity-of-heart-20200516-6.html",
    "md_url": "/ml/dawah/purity-of-heart-20200516-6.md"
+  },
+  {
+   "slug": "push-pull-20200808-3",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "പുഷ്പുൾ",
+   "summary": "സോഷ്യൽ മീഡിയയുടെ അമിത ഉപയോഗവും പരദൂഷണങ്ങൾ പ്രചരിപ്പിക്കുന്നതിലെ അപകടങ്ങളും ചർച്ച ചെയ്യുന്ന ലേഖനം. വിശ്വാസികൾ ഡിജിറ്റൽ ഇടങ്ങളിൽ പാലിക്കേണ്ട ധാർമ്മികതയെ ഓർമ്മിപ്പിക്കുന്നു.",
+   "author": "സി",
+   "issue_date": "2020-08-08",
+   "html_url": "/ml/dawah/push-pull-20200808-3.html",
+   "md_url": "/ml/dawah/push-pull-20200808-3.md"
   },
   {
    "slug": "qualities-of-a-preacher-20180908-5",
@@ -19945,6 +20000,17 @@
    "md_url": "/ml/health/know-this-for-those-caring-for-the-sick-20260822-1.md"
   },
   {
+   "slug": "learn-from-the-knowledgeable-and-experienced-20200808-5",
+   "lang": "ml",
+   "category": "health",
+   "title": "അറിവുള്ളവരിൽനിന്നും അനുഭവസ്ഥരിൽനിന്നും അടുത്തറിയാം",
+   "summary": "കോവിഡ് പ്രതിസന്ധിയിൽ കേരളത്തിന്റെ ആരോഗ്യരംഗത്തെ വീഴ്ചകളെ വിമർശിക്കുന്ന ലേഖനം. ഒപ്പം വിദ്യാർത്ഥികൾക്ക് ഉപരിപഠന കാര്യങ്ങളിൽ വിദഗ്ധരുടെ ഉപദേശം തേടേണ്ടതിന്റെ ആവശ്യകതയെക്കുറിച്ചും പ്രതിപാദിക്കുന്നു.",
+   "author": "നബീൽ പയ്യോളി",
+   "issue_date": "2020-08-08",
+   "html_url": "/ml/health/learn-from-the-knowledgeable-and-experienced-20200808-5.html",
+   "md_url": "/ml/health/learn-from-the-knowledgeable-and-experienced-20200808-5.md"
+  },
+  {
    "slug": "lifestyle-and-memory-loss-20190921-6",
    "lang": "ml",
    "category": "health",
@@ -22475,6 +22541,17 @@
    "md_url": "/ml/opinion/muslim-extremists-defame-islam-20170114-7.md"
   },
   {
+   "slug": "national-education-policy-concepts-and-concerns-20200808-1",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "ദേശീയ വിദ്യാഭ്യാസ നയം: ആശയവും ആശങ്കകളും",
+   "summary": "2020ലെ ദേശീയ വിദ്യാഭ്യാസ നയത്തെ നിഷ്പക്ഷമായി വിലയിരുത്തുന്ന ലേഖനം. വിദ്യാഭ്യാസരംഗത്തെ മാറ്റങ്ങളെ സ്വാഗതം ചെയ്യുമ്പോഴും, നയത്തിലെ ഒളിയജണ്ടകളെയും ഫെഡറൽ തത്വങ്ങൾക്കെതിരായ നീക്കങ്ങളെയും ലേഖകൻ വിമർശിക്കുന്നു.",
+   "author": "റഷീദ് കൂട്ടമ്പൂർ",
+   "issue_date": "2020-08-08",
+   "html_url": "/ml/opinion/national-education-policy-concepts-and-concerns-20200808-1.html",
+   "md_url": "/ml/opinion/national-education-policy-concepts-and-concerns-20200808-1.md"
+  },
+  {
    "slug": "new-media-and-verbal-violence-20190720-8",
    "lang": "ml",
    "category": "opinion",
@@ -22902,6 +22979,17 @@
    "issue_date": "2019-09-21",
    "html_url": "/ml/opinion/social-media-chronicles-of-racial-hatred-20190921-11.html",
    "md_url": "/ml/opinion/social-media-chronicles-of-racial-hatred-20190921-11.md"
+  },
+  {
+   "slug": "society-and-media-20200808-2",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "സമൂഹവും മാധ്യമങ്ങളും",
+   "summary": "മാധ്യമങ്ങൾ ഭരണകൂടത്തിന്റെ ചട്ടുകമായി മാറുന്നതിനെയും, ന്യൂനപക്ഷവിരുദ്ധ സമീപനങ്ങൾ സ്വീകരിക്കുന്നതിനെയും വിമർശിക്കുന്ന മുഖലേഖനം. നവമാധ്യമങ്ങളുടെ സാധ്യതകളെയും വെല്ലുവിളികളെയും ഇതിൽ ചർച്ച ചെയ്യുന്നു.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2020-08-08",
+   "html_url": "/ml/opinion/society-and-media-20200808-2.html",
+   "md_url": "/ml/opinion/society-and-media-20200808-2.md"
   },
   {
    "slug": "speak-good-20200208-9",
@@ -24708,6 +24796,17 @@
    "md_url": "/ml/quran/surah-al-jumu-ah-20200801-6.md"
   },
   {
+   "slug": "surah-al-jumu-ah-tafsir-20200808-7",
+   "lang": "ml",
+   "category": "quran",
+   "title": "ജുമുഅ",
+   "summary": "ഖുർആനിലെ ജുമുഅ അധ്യായത്തിന്റെ വിശദീകരണം. വേദം വഹിച്ചിട്ടും അത് ഉൾക്കൊള്ളാത്തവരുടെ അവസ്ഥയെയും പ്രവാചകന്റെ നിയോഗത്തെയും കുറിച്ചുള്ള ഖുർആനിക വചനങ്ങളുടെ വ്യാഖ്യാനം.",
+   "author": "അബ്ദുറഹ്മാൻ നാസിർ അസ്സഅദി",
+   "issue_date": "2020-08-08",
+   "html_url": "/ml/quran/surah-al-jumu-ah-tafsir-20200808-7.html",
+   "md_url": "/ml/quran/surah-al-jumu-ah-tafsir-20200808-7.md"
+  },
+  {
    "slug": "surah-al-ma-arij-the-ways-of-ascent-20191026-2",
    "lang": "ml",
    "category": "quran",
@@ -26070,6 +26169,17 @@
    "issue_date": "2019-12-14",
    "html_url": "/ml/seerah/saeed-bin-aamir-al-jumahi-ra-20191214-10.html",
    "md_url": "/ml/seerah/saeed-bin-aamir-al-jumahi-ra-20191214-10.md"
+  },
+  {
+   "slug": "sheikh-diyaur-rahman-azmi-a-wonder-in-the-scholarly-world-20200808-9",
+   "lang": "ml",
+   "category": "seerah",
+   "title": "ശൈഖ് ദിയാഉർറഹ്മാൻ അഅ്‌ളമി: പണ്ഡിതലോകത്തെ വിസ്മയ സാന്നിധ്യം",
+   "summary": "ഹിന്ദു കുടുംബത്തിൽ ജനിക്കുകയും പിന്നീട് ഇസ്‌ലാം സ്വീകരിച്ച് ലോകപ്രശസ്ത ഹദീസ് പണ്ഡിതനായി മാറുകയും ചെയ്ത ശൈഖ് ദിയാഉർറഹ്മാൻ അഅ്‌ളമിയുടെ ജീവിതയാത്രയെക്കുറിച്ചുള്ള ലഘുജീവചരിത്രം.",
+   "author": "ഡോ. സി.മുഹമ്മദ് റാഫി ചെമ്പ്ര",
+   "issue_date": "2020-08-08",
+   "html_url": "/ml/seerah/sheikh-diyaur-rahman-azmi-a-wonder-in-the-scholarly-world-20200808-9.html",
+   "md_url": "/ml/seerah/sheikh-diyaur-rahman-azmi-a-wonder-in-the-scholarly-world-20200808-9.md"
   },
   {
    "slug": "some-important-events-20190622-3",
