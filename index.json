@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T04:59:40.665763+00:00",
+ "generated_at": "2026-09-07T05:00:15.150491+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3975,
+ "count": 3976,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -12463,6 +12463,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/kn/dawah/showing-the-light-is-the-duty-of-scholars-20170121-14.html",
    "md_url": "/kn/dawah/showing-the-light-is-the-duty-of-scholars-20170121-14.md"
+  },
+  {
+   "slug": "solution-for-divisions-20170218-3",
+   "lang": "kn",
+   "category": "dawah",
+   "title": "ಭಿನ್ನಾಭಿಪ್ರಾಯಗಳಿಗೆ ಪರಿಹಾರ",
+   "summary": "ವಿಶ್ವ ಶಾಂತಿಗೆ ಬೆದರಿಕೆಯಾಗಿರುವ ಭಯೋತ್ಪಾದನೆಯನ್ನು ಎದುರಿಸಲು ಶಾಂತಿಪ್ರಿಯರ ನಡುವಿನ ಐಕ್ಯತೆ ಅನಿವಾರ್ಯವೆಂದು ಈ ಲೇಖನ ಪ್ರತಿಪಾದಿಸುತ್ತದೆ. ಫ್ಯಾಸಿಸಂ ಅನ್ನು ಎದುರಿಸಲು ಸೈದ್ಧಾಂತಿಕ ಒಕ್ಕೂಟಗಳು ಹೇಗೆ ಸಹಕಾರಿಯಾಗುತ್ತವೆ ಎಂಬುದನ್ನು ಇಲ್ಲಿ ವಿವರಿಸಲಾಗಿದೆ.",
+   "author": "ടി.കെ.അശ്‌റഫ്‌",
+   "issue_date": "2017-02-18",
+   "html_url": "/kn/dawah/solution-for-divisions-20170218-3.html",
+   "md_url": "/kn/dawah/solution-for-divisions-20170218-3.md"
   },
   {
    "slug": "stand-tall-20170121-8",
