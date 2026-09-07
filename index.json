@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T08:10:40.473087+00:00",
+ "generated_at": "2026-09-07T08:11:17.687954+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4244,
+ "count": 4245,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -45727,6 +45727,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/vi/hadith/criteria-for-accepting-hadith-20170128-2.html",
    "md_url": "/vi/hadith/criteria-for-accepting-hadith-20170128-2.md"
+  },
+  {
+   "slug": "manusmriti-and-the-caste-system-20170218-7",
+   "lang": "vi",
+   "category": "history",
+   "title": "Manusmriti và hệ thống đẳng cấp, phân hóa giai tầng",
+   "summary": "Bài viết này phân tích dưới góc độ lịch sử về hệ thống đẳng cấp và phân hóa giai tầng trong Manusmriti và Purusha Sukta. Đây là một nghiên cứu phê phán về nguồn gốc của sự phân biệt đối xử trong xã hội.",
+   "author": "ഉസ്മാൻ പാലക്കാഴി",
+   "issue_date": "2017-02-18",
+   "html_url": "/vi/history/manusmriti-and-the-caste-system-20170218-7.html",
+   "md_url": "/vi/history/manusmriti-and-the-caste-system-20170218-7.md"
   },
   {
    "slug": "challenges-posed-by-pseudo-nationalism-20170204-4",
