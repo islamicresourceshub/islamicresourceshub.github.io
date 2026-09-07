@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T08:28:24.883335+00:00",
+ "generated_at": "2026-09-07T08:29:24.150204+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4266,
+ "count": 4267,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -32560,6 +32560,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/ne/opinion/salafi-preaching-a-theoretical-analysis-20170121-10.html",
    "md_url": "/ne/opinion/salafi-preaching-a-theoretical-analysis-20170121-10.md"
+  },
+  {
+   "slug": "secular-government-and-muslim-minority-20170218-8",
+   "lang": "ne",
+   "category": "opinion",
+   "title": "धर्मनिरपेक्ष सरकार र मुस्लिम अल्पसंख्यक",
+   "summary": "यस लेखले भारतीय संविधानले परिकल्पना गरेको धर्मनिरपेक्षता र त्यसमा अल्पसंख्यकहरूका अधिकारबारे चर्चा गर्दछ। यसले धार्मिक स्वतन्त्रता र संवैधानिक सुरक्षाको परिप्रेक्ष्यमा मुस्लिम समुदायको भूमिका र जिम्मेवारीको समीक्षा गर्दछ।",
+   "author": "സിറാജുല്‍ ഇസ്‌ലാം ബാലുശ്ശേരി",
+   "issue_date": "2017-02-18",
+   "html_url": "/ne/opinion/secular-government-and-muslim-minority-20170218-8.html",
+   "md_url": "/ne/opinion/secular-government-and-muslim-minority-20170218-8.md"
   },
   {
    "slug": "terrorism-and-religious-freedom-20170114-1",
