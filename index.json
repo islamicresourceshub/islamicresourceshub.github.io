@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T05:12:08.193841+00:00",
+ "generated_at": "2026-09-07T05:12:53.432654+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4006,
+ "count": 4007,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -42955,6 +42955,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/vi/dawah/showing-the-light-is-the-duty-of-scholars-20170121-14.html",
    "md_url": "/vi/dawah/showing-the-light-is-the-duty-of-scholars-20170121-14.md"
+  },
+  {
+   "slug": "solution-for-divisions-20170218-3",
+   "lang": "vi",
+   "category": "dawah",
+   "title": "Giải pháp cho những bất đồng",
+   "summary": "Bài viết lập luận rằng sự đoàn kết giữa những người yêu chuộng hòa bình là cần thiết để đối phó với chủ nghĩa cực đoan đe dọa hòa bình thế giới. Tác giả phân tích cách thức các liên minh dựa trên lý tưởng có thể giúp chống lại chủ nghĩa phát xít và tầm quan trọng của việc làm rõ các vấn đề tư tưởng trong phong trào Mujahid.",
+   "author": "ടി.കെ.അശ്‌റഫ്‌",
+   "issue_date": "2017-02-18",
+   "html_url": "/vi/dawah/solution-for-divisions-20170218-3.html",
+   "md_url": "/vi/dawah/solution-for-divisions-20170218-3.md"
   },
   {
    "slug": "stand-tall-20170121-8",
