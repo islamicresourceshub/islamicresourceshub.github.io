@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T09:21:08.586868+00:00",
+ "generated_at": "2026-09-07T09:22:09.378781+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4314,
+ "count": 4315,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -40150,6 +40150,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/sw/opinion/secular-government-and-muslim-minority-20170218-8.html",
    "md_url": "/sw/opinion/secular-government-and-muslim-minority-20170218-8.md"
+  },
+  {
+   "slug": "strengthening-secular-political-unity-20170218-9",
+   "lang": "sw",
+   "category": "opinion",
+   "title": "Umoja wa Kisiasa wa Kisekula Unaopaswa Kuimarishwa",
+   "summary": "Makala hii inasisitiza umuhimu wa vyama vya siasa vya kisekula kuungana ili kukabiliana na mwelekeo wa ufashisti unaokua nchini. Inaeleza kuwa umoja wa kisiasa ni muhimu ili kulinda maadili ya kikatiba.",
+   "author": "സുഫ്‌യാൻ അബ്ദുസ്സലാം",
+   "issue_date": "2017-02-18",
+   "html_url": "/sw/opinion/strengthening-secular-political-unity-20170218-9.html",
+   "md_url": "/sw/opinion/strengthening-secular-political-unity-20170218-9.md"
   },
   {
    "slug": "terrorism-and-religious-freedom-20170114-1",
