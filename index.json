@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T12:17:52.130243+00:00",
+ "generated_at": "2026-09-07T12:18:56.110806+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4470,
+ "count": 4471,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -41305,6 +41305,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/sw/history/manusmriti-and-the-caste-system-20170218-7.html",
    "md_url": "/sw/history/manusmriti-and-the-caste-system-20170218-7.md"
+  },
+  {
+   "slug": "anxieties-of-those-who-deviated-from-the-path-of-ideology-20170225-1",
+   "lang": "sw",
+   "category": "opinion",
+   "title": "Wasiwasi za wale waliokengeuka kutoka kwenye misingi ya kiitikadi",
+   "summary": "Makala haya yanajadili mtazamo wa Kiislamu kuhusu umoja kama jibu kwa makala ya kiongozi wa KNM, Abdussalam Sullami, huku yakichambua kwa kina upotofu wa kiitikadi uliotokea.",
+   "author": "അബ്ദുല്‍ മാലിക് സലഫി",
+   "issue_date": "2017-02-25",
+   "html_url": "/sw/opinion/anxieties-of-those-who-deviated-from-the-path-of-ideology-20170225-1.html",
+   "md_url": "/sw/opinion/anxieties-of-those-who-deviated-from-the-path-of-ideology-20170225-1.md"
   },
   {
    "slug": "challenges-posed-by-pseudo-nationalism-20170204-4",
