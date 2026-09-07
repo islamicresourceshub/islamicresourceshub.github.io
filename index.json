@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T04:51:39.848245+00:00",
+ "generated_at": "2026-09-07T04:52:09.701897+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3962,
+ "count": 3963,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -2640,6 +2640,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/bn/dawah/showing-the-light-is-the-duty-of-scholars-20170121-14.html",
    "md_url": "/bn/dawah/showing-the-light-is-the-duty-of-scholars-20170121-14.md"
+  },
+  {
+   "slug": "solution-for-divisions-20170218-3",
+   "lang": "bn",
+   "category": "dawah",
+   "title": "মতপার্থক্যের সমাধান",
+   "summary": "এই নিবন্ধটি যুক্তি দেয় যে বিশ্বশান্তির জন্য হুমকি হয়ে ওঠা সন্ত্রাসবাদ মোকাবিলায় শান্তিকামী মানুষের মধ্যে ঐক্য অপরিহার্য। এখানে আদর্শিক ঐক্যের মাধ্যমে ফ্যাসিবাদকে প্রতিহত করার উপায়গুলো আলোচনা করা হয়েছে।",
+   "author": "ടി.കെ.അശ്‌റഫ്‌",
+   "issue_date": "2017-02-18",
+   "html_url": "/bn/dawah/solution-for-divisions-20170218-3.html",
+   "md_url": "/bn/dawah/solution-for-divisions-20170218-3.md"
   },
   {
    "slug": "stand-tall-20170121-8",
