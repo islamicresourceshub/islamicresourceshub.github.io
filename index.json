@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T04:59:09.869305+00:00",
+ "generated_at": "2026-09-07T04:59:40.665763+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3974,
+ "count": 3975,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -11704,6 +11704,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/ja/dawah/showing-the-light-is-the-duty-of-scholars-20170121-14.html",
    "md_url": "/ja/dawah/showing-the-light-is-the-duty-of-scholars-20170121-14.md"
+  },
+  {
+   "slug": "solution-for-divisions-20170218-3",
+   "lang": "ja",
+   "category": "dawah",
+   "title": "相違を解決するために",
+   "summary": "本稿は、世界平和を脅かす過激主義に対抗するため、平和を愛する者たちの団結が不可欠であると説いています。また、ファシズムに対抗する上で、理念に基づいた連帯がいかに重要であるかを論じています。",
+   "author": "ടി.കെ.അശ്‌റഫ്‌",
+   "issue_date": "2017-02-18",
+   "html_url": "/ja/dawah/solution-for-divisions-20170218-3.html",
+   "md_url": "/ja/dawah/solution-for-divisions-20170218-3.md"
   },
   {
    "slug": "stand-tall-20170121-8",
