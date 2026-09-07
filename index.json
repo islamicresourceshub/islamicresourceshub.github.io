@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T09:13:21.506133+00:00",
+ "generated_at": "2026-09-07T09:14:23.822646+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4306,
+ "count": 4307,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -33605,6 +33605,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/or/opinion/secular-government-and-muslim-minority-20170218-8.html",
    "md_url": "/or/opinion/secular-government-and-muslim-minority-20170218-8.md"
+  },
+  {
+   "slug": "strengthening-secular-political-unity-20170218-9",
+   "lang": "or",
+   "category": "opinion",
+   "title": "ସୁଦୃଢ଼ କରିବାକୁ ହେବ ଧର୍ମନିରପେକ୍ଷ ରାଜନୈତିକ ଏକତା",
+   "summary": "ଦେଶରେ ବଢ଼ିଚାଲିଥିବା ଫାସିବାଦୀ ପ୍ରବୃତ୍ତିକୁ ମୁକାବିଲା କରିବା ପାଇଁ ଧର୍ମନିରପେକ୍ଷ ରାଜନୈତିକ ଦଳଗୁଡ଼ିକ ଏକଜୁଟ ହେବାର ଆବଶ୍ୟକତା ଉପରେ ଏହି ପ୍ରବନ୍ଧ ଗୁରୁତ୍ୱାରୋପ କରୁଛି। ସାମ୍ବିଧାନିକ ମୂଲ୍ୟବୋଧକୁ ସୁରକ୍ଷିତ ରଖିବା ପାଇଁ ରାଜନୈତିକ ଏକତା ଅପରିହାର୍ଯ୍ୟ ବୋଲି ଏଥିରେ ସ୍ପଷ୍ଟ କରାଯାଇଛି।",
+   "author": "സുഫ്‌യാൻ അബ്ദുസ്സലാം",
+   "issue_date": "2017-02-18",
+   "html_url": "/or/opinion/strengthening-secular-political-unity-20170218-9.html",
+   "md_url": "/or/opinion/strengthening-secular-political-unity-20170218-9.md"
   },
   {
    "slug": "terrorism-and-religious-freedom-20170114-1",
