@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T06:37:23.033052+00:00",
+ "generated_at": "2026-09-07T06:38:33.659265+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4162,
+ "count": 4177,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -15721,6 +15721,17 @@
    "md_url": "/ml/dawah/a-believer-should-be-humble-20181013-12.md"
   },
   {
+   "slug": "a-guide-for-believers-in-calamities-20200919-12",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "ദുരന്തങ്ങളിൽ വിശ്വാസികൾക്കൊരു മാർഗരേഖ",
+   "summary": "ദുരന്തങ്ങളെ അഭിമുഖീകരിക്കുമ്പോൾ വിശ്വാസികൾക്ക് മാർഗ്ഗനിർദ്ദേശം നൽകുന്ന ലേഖനമാണിത്. വിശ്വാസത്തിലെ ദൃഢത, പ്രാർത്ഥന, ക്ഷമ എന്നിവയുടെ പ്രാധാന്യത്തെക്കുറിച്ചും ലഭിക്കുന്ന പ്രതിഫലങ്ങളെക്കുറിച്ചും ഇത് വിശദീകരിക്കുന്നു.",
+   "author": "സിറാജുൽ ഇസ്‌ലാം ബാലുശ്ശേരി",
+   "issue_date": "2020-09-19",
+   "html_url": "/ml/dawah/a-guide-for-believers-in-calamities-20200919-12.html",
+   "md_url": "/ml/dawah/a-guide-for-believers-in-calamities-20200919-12.md"
+  },
+  {
    "slug": "a-guide-for-believers-in-times-of-disaster-20200912-3",
    "lang": "ml",
    "category": "dawah",
@@ -19296,6 +19307,28 @@
    "md_url": "/ml/family/marriage-age-critics-with-biased-glasses-20191019-2.md"
   },
   {
+   "slug": "marriage-age-increase-should-not-be-forced-20200919-11",
+   "lang": "ml",
+   "category": "family",
+   "title": "വിവാഹപ്രായ വർധന അടിച്ചേൽപ്പിക്കരുത്",
+   "summary": "വിവാഹപ്രായം ഉയർത്തുന്നതിനെക്കുറിച്ചുള്ള ഒരു ക്രിസ്തീയ കാഴ്ചപ്പാടാണ് ഈ ലേഖനം അവതരിപ്പിക്കുന്നത്. ആഗോള തലത്തിലെ വിവാഹപ്രായ നിയമങ്ങളെക്കുറിച്ചും സാമൂഹിക മാനദണ്ഡങ്ങളെക്കുറിച്ചും ഇത് സംസാരിക്കുന്നു.",
+   "author": "ഫാദർ പോൾ തേലക്കാട്",
+   "issue_date": "2020-09-19",
+   "html_url": "/ml/family/marriage-age-increase-should-not-be-forced-20200919-11.html",
+   "md_url": "/ml/family/marriage-age-increase-should-not-be-forced-20200919-11.md"
+  },
+  {
+   "slug": "marriage-age-should-age-or-perspective-change-20200919-10",
+   "lang": "ml",
+   "category": "family",
+   "title": "വിവാഹപ്രായം: മാറേണ്ടത് പ്രായമോ കാഴ്ചപ്പാടോ?",
+   "summary": "വിവാഹപ്രായത്തെക്കുറിച്ചുള്ള ഇസ്‌ലാമിക കാഴ്ചപ്പാടുകൾ വിശദീകരിക്കുന്ന ലേഖനമാണിത്. വിവാഹത്തിന്റെ പ്രാധാന്യം, ദമ്പതികളുടെ കടമകൾ, വിവിധ രാജ്യങ്ങളിലെ വിവാഹപ്രായ നിയമങ്ങൾ എന്നിവ ചർച്ച ചെയ്യുന്നു.",
+   "author": "മുഹമ്മദ് സ്വാദിഖ് മദനി",
+   "issue_date": "2020-09-19",
+   "html_url": "/ml/family/marriage-age-should-age-or-perspective-change-20200919-10.html",
+   "md_url": "/ml/family/marriage-age-should-age-or-perspective-change-20200919-10.md"
+  },
+  {
    "slug": "marriage-age-should-the-age-or-perspective-change-20200912-6",
    "lang": "ml",
    "category": "family",
@@ -20295,6 +20328,17 @@
    "issue_date": "2018-07-07",
    "html_url": "/ml/fiqh/return-to-the-sources-abandon-blind-following-20180707-6.html",
    "md_url": "/ml/fiqh/return-to-the-sources-abandon-blind-following-20180707-6.md"
+  },
+  {
+   "slug": "returning-to-the-mosques-20200919-9",
+   "lang": "ml",
+   "category": "fiqh",
+   "title": "മസ്ജിദുകളിലേക്ക് മടങ്ങിയെത്തുമ്പോൾ",
+   "summary": "കോവിഡ് പ്രതിരോധത്തിന്റെ ഭാഗമായി ആരാധനാലയങ്ങൾ അടച്ചിട്ടതും പിന്നീട് തുറന്നതും സംബന്ധിച്ചുള്ള ചർച്ചയാണിത്. ഇസ്‌ലാമിക പ്രമാണങ്ങളുടെ അടിസ്ഥാനത്തിൽ സ്വീകരിച്ച നടപടികളെക്കുറിച്ചും വിശ്വാസികൾക്ക് നൽകുന്ന മാർഗ്ഗനിർദ്ദേശങ്ങളെക്കുറിച്ചും ലേഖനം സംസാരിക്കുന്നു.",
+   "author": "ടി.കെ.അഷ്റഫ്",
+   "issue_date": "2020-09-19",
+   "html_url": "/ml/fiqh/returning-to-the-mosques-20200919-9.html",
+   "md_url": "/ml/fiqh/returning-to-the-mosques-20200919-9.md"
   },
   {
    "slug": "sacrifice-qurbani-what-we-need-to-know-20180811-3",
@@ -22365,6 +22409,17 @@
    "md_url": "/ml/opinion/corona-some-thoughts-20200411-6.md"
   },
   {
+   "slug": "corrupt-mind-and-bad-words-20200919-15",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "ദുഷിച്ച മനസ്സും ചീത്തവാക്കും",
+   "summary": "കുട്ടികൾക്കായുള്ള ഈ ലേഖനം നല്ല പെരുമാറ്റത്തെയും നല്ല വാക്കുകളുടെ പ്രാധാന്യത്തെയും കുറിച്ച് സംസാരിക്കുന്നു. ദുഷിച്ച മനസ്സും ചീത്തവാക്കുകളും എങ്ങനെ ഒഴിവാക്കണമെന്നും ഇത് വിശദീകരിക്കുന്നു.",
+   "author": "ഉസ്മാൻ പാലക്കാഴി",
+   "issue_date": "2020-09-19",
+   "html_url": "/ml/opinion/corrupt-mind-and-bad-words-20200919-15.html",
+   "md_url": "/ml/opinion/corrupt-mind-and-bad-words-20200919-15.md"
+  },
+  {
    "slug": "country-draped-in-tricolor-in-protests-20200118-1",
    "lang": "ml",
    "category": "opinion",
@@ -22979,6 +23034,17 @@
    "issue_date": "2020-02-22",
    "html_url": "/ml/opinion/indian-nationalism-and-hindutva-nationalism-20200222-1.html",
    "md_url": "/ml/opinion/indian-nationalism-and-hindutva-nationalism-20200222-1.md"
+  },
+  {
+   "slug": "indian-public-sector-undertakings-being-sold-off-20200919-2",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "വിറ്റഴിക്കപ്പെടുന്ന ഇന്ത്യൻ പൊതുമേഖല സ്ഥാപനങ്ങൾ",
+   "summary": "ഇന്ത്യയിലെ പൊതുമേഖലാ സ്ഥാപനങ്ങൾ സ്വകാര്യവൽക്കരിക്കുന്നതിനെക്കുറിച്ചുള്ള മുഖപ്രസംഗമാണിത്. പൊതുമേഖലയുടെ പ്രാധാന്യവും അതിന്റെ വിൽപന രാജ്യത്തിനും ജനങ്ങൾക്കും വരുത്തുന്ന ദോഷങ്ങളും ലേഖനം വിശദീകരിക്കുന്നു.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2020-09-19",
+   "html_url": "/ml/opinion/indian-public-sector-undertakings-being-sold-off-20200919-2.html",
+   "md_url": "/ml/opinion/indian-public-sector-undertakings-being-sold-off-20200919-2.md"
   },
   {
    "slug": "indian-youth-as-a-ray-of-hope-20200104-2",
@@ -23960,6 +24026,17 @@
    "md_url": "/ml/opinion/superstitions-in-modern-homes-20170304-1.md"
   },
   {
+   "slug": "survival-20200919-3",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "അതിജീവനം",
+   "summary": "ജീവിതത്തിലെ പ്രതിസന്ധി ഘട്ടങ്ങളിൽ വിശ്വാസികൾക്ക് ആശ്വാസം നൽകുന്ന ഒരു ലേഖനമാണിത്. നബി വചനങ്ങളെ ഉദ്ധരിച്ച്, ഭൗതിക സുഖങ്ങളെക്കാൾ പ്രാധാന്യമർഹിക്കുന്ന കാര്യങ്ങളെക്കുറിച്ച് ഇത് സംസാരിക്കുന്നു.",
+   "author": "സി",
+   "issue_date": "2020-09-19",
+   "html_url": "/ml/opinion/survival-20200919-3.html",
+   "md_url": "/ml/opinion/survival-20200919-3.md"
+  },
+  {
    "slug": "sweden-burning-in-the-fire-of-islamophobia-20200905-3",
    "lang": "ml",
    "category": "opinion",
@@ -24035,6 +24112,17 @@
    "issue_date": "2019-05-18",
    "html_url": "/ml/opinion/the-ban-on-face-veils-the-hidden-facets-of-fascism-20190518-3.html",
    "md_url": "/ml/opinion/the-ban-on-face-veils-the-hidden-facets-of-fascism-20190518-3.md"
+  },
+  {
+   "slug": "the-belief-in-god-of-philosophers-20200919-13",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "തത്ത്വചിന്തകരുടെ ദൈവവിശ്വാസം",
+   "summary": "ശാസ്ത്രവും തത്ത്വചിന്തയും ദൈവവിശ്വാസത്തെ എങ്ങനെ സ്വാധീനിച്ചിട്ടുണ്ട് എന്ന് വിശദീകരിക്കുന്ന ലേഖനമാണിത്. പ്രമുഖ തത്ത്വചിന്തകരുടെയും ശാസ്ത്രജ്ഞരുടെയും ദൈവത്തെക്കുറിച്ചുള്ള കാഴ്ചപ്പാടുകൾ ഇത് അവതരിപ്പിക്കുന്നു.",
+   "author": "ഡോ.സബീൽ പട്ടാമ്പി",
+   "issue_date": "2020-09-19",
+   "html_url": "/ml/opinion/the-belief-in-god-of-philosophers-20200919-13.html",
+   "md_url": "/ml/opinion/the-belief-in-god-of-philosophers-20200919-13.md"
   },
   {
    "slug": "the-bursting-of-the-love-jihad-balloon-20181110-8",
@@ -25148,6 +25236,28 @@
    "md_url": "/ml/quran/divine-signs-in-raindrops-20180623-2.md"
   },
   {
+   "slug": "divine-signs-in-the-water-cycle-20200919-1",
+   "lang": "ml",
+   "category": "quran",
+   "title": "ജലചക്രമണത്തിലെ ദൈവിക ദൃഷ്ടാന്തം",
+   "summary": "ഈ ലേഖനം ജലചക്രത്തെക്കുറിച്ചും അതിലെ അല്ലാഹുവിന്റെ സൃഷ്ടിപ്പിലെ ദൃഷ്ടാന്തങ്ങളെക്കുറിച്ചും ഖുർആൻ വചനങ്ങളെ അടിസ്ഥാനമാക്കി വിശദീകരിക്കുന്നു. ജലം വിവിധ അവസ്ഥകളിലൂടെ കടന്നുപോകുന്നതിലെ ശാസ്ത്രീയവും ദൈവികവുമായ വശങ്ങൾ ചർച്ച ചെയ്യുന്നു.",
+   "author": "ഡോ. ജൗസൽ",
+   "issue_date": "2020-09-19",
+   "html_url": "/ml/quran/divine-signs-in-the-water-cycle-20200919-1.html",
+   "md_url": "/ml/quran/divine-signs-in-the-water-cycle-20200919-1.md"
+  },
+  {
+   "slug": "divine-signs-in-the-water-cycle-20200919-6",
+   "lang": "ml",
+   "category": "quran",
+   "title": "ജലചക്രത്തിലെ ദൈവിക ദൃഷ്ടാന്തം",
+   "summary": "ഈ ലേഖനം ജലചക്രത്തെക്കുറിച്ചും അതിലെ അല്ലാഹുവിന്റെ സൃഷ്ടിപ്പിലെ ദൃഷ്ടാന്തങ്ങളെക്കുറിച്ചും ഖുർആൻ വചനങ്ങളെ അടിസ്ഥാനമാക്കി വിശദീകരിക്കുന്നു. ജലം വിവിധ അവസ്ഥകളിലൂടെ കടന്നുപോകുന്നതിലെ ശാസ്ത്രീയവും ദൈവികവുമായ വശങ്ങൾ ചർച്ച ചെയ്യുന്നു.",
+   "author": "Unknown",
+   "issue_date": "2020-09-19",
+   "html_url": "/ml/quran/divine-signs-in-the-water-cycle-20200919-6.html",
+   "md_url": "/ml/quran/divine-signs-in-the-water-cycle-20200919-6.md"
+  },
+  {
    "slug": "does-the-holy-quran-influence-us-20200530-6",
    "lang": "ml",
    "category": "quran",
@@ -25929,6 +26039,17 @@
    "md_url": "/ml/quran/surah-an-naba-the-news-20190302-2.md"
   },
   {
+   "slug": "surah-an-nahl-part-4-20200919-14",
+   "lang": "ml",
+   "category": "quran",
+   "title": "സൂറത്ത് (അന്നി), ഭാഗം: 4",
+   "summary": "ഖുർആനിലെ സൂറത്ത് അന്നിന്റെ (തേനീച്ച) നാലാം ഭാഗത്തിന്റെ തഫ്‌സീറാണ് ഈ ലേഖനം. അല്ലാഹുവിലും റസൂലിലും വിശ്വസിച്ച് സമരം ചെയ്യുന്നതിന്റെ പ്രാധാന്യത്തെക്കുറിച്ചും ലഭിക്കുന്ന പ്രതിഫലങ്ങളെക്കുറിച്ചും ഇത് വിശദീകരിക്കുന്നു.",
+   "author": "അബ്ദുറഹ്മാൻ നാസിർ അസ്സഅദി",
+   "issue_date": "2020-09-19",
+   "html_url": "/ml/quran/surah-an-nahl-part-4-20200919-14.html",
+   "md_url": "/ml/quran/surah-an-nahl-part-4-20200919-14.md"
+  },
+  {
    "slug": "surah-as-saff-part-3-20200912-7",
    "lang": "ml",
    "category": "quran",
@@ -26149,6 +26270,28 @@
    "md_url": "/ml/quran/the-bitter-consequences-of-disobedience-20180908-1.md"
   },
   {
+   "slug": "the-cunning-ones-who-bit-their-fingers-20200919-5",
+   "lang": "ml",
+   "category": "quran",
+   "title": "കൈവിരൽ കടിച്ച കൗശലക്കാർ",
+   "summary": "ഖുർആനിലെ ഒരു കഥയെ ആസ്പദമാക്കി, അല്ലാഹുവിന്റെ നീതി നടപ്പാക്കലും പരലോകത്തിലെ ശിക്ഷയിൽ നിന്ന് രക്ഷപ്പെടാനുള്ള മാർഗ്ഗങ്ങളെക്കുറിച്ചും ഈ ലേഖനം സംസാരിക്കുന്നു. അല്ലാഹുവിന്റെ കാരുണ്യത്തെക്കുറിച്ചും ഇത് വിശദീകരിക്കുന്നു.",
+   "author": "Unknown",
+   "issue_date": "2020-09-19",
+   "html_url": "/ml/quran/the-cunning-ones-who-bit-their-fingers-20200919-5.html",
+   "md_url": "/ml/quran/the-cunning-ones-who-bit-their-fingers-20200919-5.md"
+  },
+  {
+   "slug": "the-cycle-of-water-20200919-7",
+   "lang": "ml",
+   "category": "quran",
+   "title": "ജല ചക്രണത്തിന്റെ ചര",
+   "summary": "ജലചക്രത്തെക്കുറിച്ചുള്ള ശാസ്ത്രീയമായ കണ്ടെത്തലുകളുടെ ചരിത്രവും, പതിനാറാം നൂറ്റാണ്ടുവരെയുള്ള ശാസ്ത്രലോകത്തിന്റെ ധാരണകളും, ഖുർആൻ ഈ വിഷയത്തിൽ നൽകുന്ന സൂചനകളും ഈ ലേഖനം ചർച്ച ചെയ്യുന്നു.",
+   "author": "Unknown",
+   "issue_date": "2020-09-19",
+   "html_url": "/ml/quran/the-cycle-of-water-20200919-7.html",
+   "md_url": "/ml/quran/the-cycle-of-water-20200919-7.md"
+  },
+  {
    "slug": "the-disappointed-gardener-20200905-6",
    "lang": "ml",
    "category": "quran",
@@ -26158,6 +26301,17 @@
    "issue_date": "2020-09-05",
    "html_url": "/ml/quran/the-disappointed-gardener-20200905-6.html",
    "md_url": "/ml/quran/the-disappointed-gardener-20200905-6.md"
+  },
+  {
+   "slug": "the-donkey-carrying-books-20200919-4",
+   "lang": "ml",
+   "category": "quran",
+   "title": "ഗ്രന്ഥചുമടേറ്റിയ കഴുത",
+   "summary": "ഖുർആനിലെ ഒരു ഉപമയെ അടിസ്ഥാനമാക്കി, വേദഗ്രന്ഥങ്ങൾ പഠിക്കാതെയും അതിനനുസരിച്ച് ജീവിക്കാതെയും അവയെ ചുമക്കുന്നവരെക്കുറിച്ചുള്ള ലേഖനമാണിത്. അല്ലാഹുവിന്റെ ഉദ്ബോധനങ്ങളെ അവഗണിക്കുന്നവരെക്കുറിച്ചും ഇത് സംസാരിക്കുന്നു.",
+   "author": "കുഞ്ഞിമുഹമ്മദ് മദനി പറപ്പൂർ",
+   "issue_date": "2020-09-19",
+   "html_url": "/ml/quran/the-donkey-carrying-books-20200919-4.html",
+   "md_url": "/ml/quran/the-donkey-carrying-books-20200919-4.md"
   },
   {
    "slug": "the-ever-forgiving-allah-20200229-9",
@@ -26301,6 +26455,17 @@
    "issue_date": "2020-07-11",
    "html_url": "/ml/quran/universe-in-quranic-perspective-20200711-2.html",
    "md_url": "/ml/quran/universe-in-quranic-perspective-20200711-2.md"
+  },
+  {
+   "slug": "water-cycle-20200919-8",
+   "lang": "ml",
+   "category": "quran",
+   "title": "ജലചക്രം",
+   "summary": "ഖുർആനിലെ വിവിധ വചനങ്ങൾ ഉദ്ധരിച്ച്, ആകാശത്തുനിന്ന് മഴ വർഷിപ്പിച്ച് ഭൂമിയെ ജീവസ്സുറ്റതാക്കുന്നതിലെ അല്ലാഹുവിന്റെ അനുഗ്രഹങ്ങളെക്കുറിച്ചും ജലചക്രത്തിന്റെ പ്രാധാന്യത്തെക്കുറിച്ചും ഈ ലേഖനം വിശദീകരിക്കുന്നു.",
+   "author": "Unknown",
+   "issue_date": "2020-09-19",
+   "html_url": "/ml/quran/water-cycle-20200919-8.html",
+   "md_url": "/ml/quran/water-cycle-20200919-8.md"
   },
   {
    "slug": "what-quran-says-about-itself-20191123-5",
