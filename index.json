@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T08:59:34.697772+00:00",
+ "generated_at": "2026-09-07T09:00:26.059196+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4291,
+ "count": 4292,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -5698,6 +5698,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/en/opinion/secular-government-and-muslim-minority-20170218-8.html",
    "md_url": "/en/opinion/secular-government-and-muslim-minority-20170218-8.md"
+  },
+  {
+   "slug": "strengthening-secular-political-unity-20170218-9",
+   "lang": "en",
+   "category": "opinion",
+   "title": "Strengthening Secular Political Unity",
+   "summary": "This article emphasizes the urgent need for secular political parties to unite to counter the growing fascist tendencies in the country. It highlights that political unity is essential to protect constitutional values and preserve India's diverse, pluralistic fabric.",
+   "author": "സുഫ്‌യാൻ അബ്ദുസ്സലാം",
+   "issue_date": "2017-02-18",
+   "html_url": "/en/opinion/strengthening-secular-political-unity-20170218-9.html",
+   "md_url": "/en/opinion/strengthening-secular-political-unity-20170218-9.md"
   },
   {
    "slug": "terrorism-and-religious-freedom-20170114-1",
