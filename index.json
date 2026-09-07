@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T11:20:10.973052+00:00",
+ "generated_at": "2026-09-07T11:21:03.653563+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4410,
+ "count": 4411,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -7150,6 +7150,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/fa/dawah/muslims-in-a-pluralistic-society-20170128-1.html",
    "md_url": "/fa/dawah/muslims-in-a-pluralistic-society-20170128-1.md"
+  },
+  {
+   "slug": "organization-is-not-for-division-20170218-13",
+   "lang": "fa",
+   "category": "dawah",
+   "title": "تشکیلات برای تفرقه نیست!",
+   "summary": "این مطلب یادآور می‌شود که هدف از جنبش‌ها و تشکیلات اسلامی، ایجاد وحدت است و نباید به عاملی برای تفرقه تبدیل شوند. همچنین بر اهمیت همکاری و رعایت نظم و انضباط میان مؤمنان تأکید می‌ورزد.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2017-02-18",
+   "html_url": "/fa/dawah/organization-is-not-for-division-20170218-13.html",
+   "md_url": "/fa/dawah/organization-is-not-for-division-20170218-13.md"
   },
   {
    "slug": "prayer-that-is-worship-20170325-6",
