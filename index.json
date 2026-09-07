@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T12:51:21.891561+00:00",
+ "generated_at": "2026-09-07T12:52:16.953682+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4504,
+ "count": 4505,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -37026,6 +37026,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/pt/dawah/stand-tall-20170121-8.html",
    "md_url": "/pt/dawah/stand-tall-20170121-8.md"
+  },
+  {
+   "slug": "the-chemistry-of-unity-20170225-2",
+   "lang": "pt",
+   "category": "dawah",
+   "title": "A Química da Unidade",
+   "summary": "Este artigo analisa profundamente se a unidade é um obstáculo para a propagação do Tawhid (o monoteísmo islâmico). Discute a relevância da unidade organizacional e os desafios enfrentados ao tentar conciliar ideologia e pragmatismo.",
+   "author": "ടി.കെ.അശ്‌റഫ്",
+   "issue_date": "2017-02-25",
+   "html_url": "/pt/dawah/the-chemistry-of-unity-20170225-2.html",
+   "md_url": "/pt/dawah/the-chemistry-of-unity-20170225-2.md"
   },
   {
    "slug": "the-message-of-equality-20170121-11",
