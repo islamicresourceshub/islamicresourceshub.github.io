@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T09:46:11.661822+00:00",
+ "generated_at": "2026-09-07T09:47:04.633749+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4338,
+ "count": 4339,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -12078,6 +12078,17 @@
    "issue_date": "2017-02-11",
    "html_url": "/it/dawah/unity-ideology-and-movement-20170211-2.html",
    "md_url": "/it/dawah/unity-ideology-and-movement-20170211-2.md"
+  },
+  {
+   "slug": "what-do-we-have-for-ourselves-20170218-10",
+   "lang": "it",
+   "category": "dawah",
+   "title": "Cosa possediamo veramente?",
+   "summary": "Un articolo basato sugli avvertimenti coranici riguardo al Giorno del Giudizio. Ci spinge a un esame di coscienza su ciò che abbiamo preparato per la vita ultraterrena.",
+   "author": "എസ്‌.എ ഐദീദ്‌ തങ്ങൾ",
+   "issue_date": "2017-02-18",
+   "html_url": "/it/dawah/what-do-we-have-for-ourselves-20170218-10.html",
+   "md_url": "/it/dawah/what-do-we-have-for-ourselves-20170218-10.md"
   },
   {
    "slug": "children-an-islamic-reading-part-4-20170204-5",
