@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T10:45:34.758329+00:00",
+ "generated_at": "2026-09-07T10:46:25.440728+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4371,
+ "count": 4372,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -7689,6 +7689,17 @@
    "issue_date": "2017-02-11",
    "html_url": "/fa/story/allah-is-watching-20170211-3.html",
    "md_url": "/fa/story/allah-is-watching-20170211-3.md"
+  },
+  {
+   "slug": "broken-hearts-20170218-11",
+   "lang": "fa",
+   "category": "story",
+   "title": "قلب‌های ترک‌خورده",
+   "summary": "این داستان درباره کودکی است که با رفتارهای تند خود والدینش را می‌رنجاند و از طریق تجربه‌ای آموزنده با پدرش، اهمیت کنترل خشم و تأثیر کلمات بر قلب دیگران را درک می‌کند.",
+   "author": "അറബി കഥ - പുനരാഖ്യാനം: തൻസീൽ",
+   "issue_date": "2017-02-18",
+   "html_url": "/fa/story/broken-hearts-20170218-11.html",
+   "md_url": "/fa/story/broken-hearts-20170218-11.md"
   },
   {
    "slug": "good-intention-matters-most-20170325-8",
