@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T05:17:53.594712+00:00",
+ "generated_at": "2026-09-07T05:18:23.080692+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4022,
+ "count": 4023,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -5159,6 +5159,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/en/family/the-methodology-of-conduct-20170128-8.html",
    "md_url": "/en/family/the-methodology-of-conduct-20170128-8.md"
+  },
+  {
+   "slug": "thoughts-during-pregnancy-20170218-4",
+   "lang": "en",
+   "category": "family",
+   "title": "Thoughts During Pregnancy",
+   "summary": "This article discusses the etiquette and prayers that parents should observe during pregnancy. It explains the influence of a parent's mental state on a child's development as part of Islamic parenting.",
+   "author": "അഷ്‌റഫ് എകരൂല്‍",
+   "issue_date": "2017-02-18",
+   "html_url": "/en/family/thoughts-during-pregnancy-20170218-4.html",
+   "md_url": "/en/family/thoughts-during-pregnancy-20170218-4.md"
   },
   {
    "slug": "mosque-construction-some-points-to-note-20170325-5",
