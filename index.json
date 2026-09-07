@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T12:02:58.053925+00:00",
+ "generated_at": "2026-09-07T12:04:01.251417+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4456,
+ "count": 4457,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -13629,6 +13629,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/ja/history/manusmriti-and-the-caste-system-20170218-7.html",
    "md_url": "/ja/history/manusmriti-and-the-caste-system-20170218-7.md"
+  },
+  {
+   "slug": "anxieties-of-those-who-deviated-from-the-path-of-ideology-20170225-1",
+   "lang": "ja",
+   "category": "opinion",
+   "title": "理念の道から逸脱した者たちの懸念",
+   "summary": "本稿は、KNM（ケララ・ナドワトゥル・ムジャヒディン）の指導者アブドゥッサラーム・スッラミ氏が週刊誌『シャバーブ』に寄稿した統一に関する記事への反論です。イスラームの観点から統一の真の意味を論じ、組織内で生じている理念的な逸脱を批判的に分析しています。",
+   "author": "അബ്ദുല്‍ മാലിക് സലഫി",
+   "issue_date": "2017-02-25",
+   "html_url": "/ja/opinion/anxieties-of-those-who-deviated-from-the-path-of-ideology-20170225-1.html",
+   "md_url": "/ja/opinion/anxieties-of-those-who-deviated-from-the-path-of-ideology-20170225-1.md"
   },
   {
    "slug": "challenges-posed-by-pseudo-nationalism-20170204-4",
