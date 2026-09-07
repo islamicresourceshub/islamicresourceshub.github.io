@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T09:16:21.792250+00:00",
+ "generated_at": "2026-09-07T09:17:07.053401+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4309,
+ "count": 4310,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -36069,6 +36069,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/pt/opinion/secular-government-and-muslim-minority-20170218-8.html",
    "md_url": "/pt/opinion/secular-government-and-muslim-minority-20170218-8.md"
+  },
+  {
+   "slug": "strengthening-secular-political-unity-20170218-9",
+   "lang": "pt",
+   "category": "opinion",
+   "title": "A Unidade Política Secular que Precisa ser Fortalecida",
+   "summary": "Este artigo enfatiza a necessidade de os partidos políticos seculares se unirem para enfrentar as tendências fascistas crescentes no país. Ele argumenta que a unidade política é essencial para proteger os valores constitucionais e a diversidade da nação.",
+   "author": "സുഫ്‌യാൻ അബ്ദുസ്സലാം",
+   "issue_date": "2017-02-18",
+   "html_url": "/pt/opinion/strengthening-secular-political-unity-20170218-9.html",
+   "md_url": "/pt/opinion/strengthening-secular-political-unity-20170218-9.md"
   },
   {
    "slug": "terrorism-and-religious-freedom-20170114-1",
