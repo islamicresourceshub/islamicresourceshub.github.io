@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T05:39:50.396790+00:00",
+ "generated_at": "2026-09-07T05:40:09.906585+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4086,
+ "count": 4087,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -8393,6 +8393,17 @@
    "issue_date": "2017-02-04",
    "html_url": "/gu/opinion/challenges-posed-by-pseudo-nationalism-20170204-4.html",
    "md_url": "/gu/opinion/challenges-posed-by-pseudo-nationalism-20170204-4.md"
+  },
+  {
+   "slug": "democratic-jallikattu-20170218-5",
+   "lang": "gu",
+   "category": "opinion",
+   "title": "લોકશાહી જલ્લીકટ્ટુ",
+   "summary": "આ લેખ તમિલનાડુના રાજકારણમાં તાજેતરમાં બનેલી ઘટનાઓ અને સત્તા માટેના ખેંચતાણનું વિશ્લેષણ કરે છે. તે લોકશાહી વ્યવસ્થામાં ભજવાતા રાજકીય નાટકો પર ટીકાત્મક દ્રષ્ટિકોણ રજૂ કરે છે.",
+   "author": "ഡോ. സി.എം സാബിര്‍ നവാസ്‌",
+   "issue_date": "2017-02-18",
+   "html_url": "/gu/opinion/democratic-jallikattu-20170218-5.html",
+   "md_url": "/gu/opinion/democratic-jallikattu-20170218-5.md"
   },
   {
    "slug": "e-writing-is-not-mere-writing-20170121-15",
