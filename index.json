@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T10:04:30.768224+00:00",
+ "generated_at": "2026-09-07T10:06:02.180361+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4350,
+ "count": 4351,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -37664,6 +37664,17 @@
    "issue_date": "2017-02-11",
    "html_url": "/si/dawah/unity-ideology-and-movement-20170211-2.html",
    "md_url": "/si/dawah/unity-ideology-and-movement-20170211-2.md"
+  },
+  {
+   "slug": "what-do-we-have-for-ourselves-20170218-10",
+   "lang": "si",
+   "category": "dawah",
+   "title": "මෙහි අපටම කියා ඇත්තේ කුමක්ද?",
+   "summary": "අවසාන දිනය පිළිබඳ අල්-කුර්ආනයේ අනතුරු ඇඟවීම් මත පදනම් වූ ලිපියකි. පරලොව ජීවිතය සඳහා අප සූදානම් කර ඇත්තේ කුමක්දැයි ස්වයං විමර්ශනය කිරීමට මෙය අපව පොළඹවයි.",
+   "author": "എസ്‌.എ ഐദീദ്‌ തങ്ങൾ",
+   "issue_date": "2017-02-18",
+   "html_url": "/si/dawah/what-do-we-have-for-ourselves-20170218-10.html",
+   "md_url": "/si/dawah/what-do-we-have-for-ourselves-20170218-10.md"
   },
   {
    "slug": "children-an-islamic-reading-part-4-20170204-5",
