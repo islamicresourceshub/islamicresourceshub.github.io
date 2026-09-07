@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T04:34:56.160467+00:00",
+ "generated_at": "2026-09-07T04:35:33.110672+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3916,
+ "count": 3917,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -12386,6 +12386,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/kn/family/husband-trapped-in-the-mobile-web-20170121-5.html",
    "md_url": "/kn/family/husband-trapped-in-the-mobile-web-20170121-5.md"
+  },
+  {
+   "slug": "husband-who-encourages-breaking-family-ties-20170218-2",
+   "lang": "kn",
+   "category": "family",
+   "title": "ಸಂಬಂಧಗಳನ್ನು ಕಡಿದುಕೊಳ್ಳಲು ಒತ್ತಾಯಿಸುವ ಪತಿ",
+   "summary": "ಪತಿಯ ಹಠದ ಕಾರಣದಿಂದಾಗಿ ತನ್ನ ಸ್ವಂತ ಕುಟುಂಬದೊಂದಿಗಿನ ಸಂಬಂಧವನ್ನು ಕಡಿದುಕೊಳ್ಳಬೇಕಾದ ಅನಿವಾರ್ಯತೆಯಲ್ಲಿರುವ ಮಹಿಳೆಯೊಬ್ಬರ ಸಂಕಷ್ಟ ಮತ್ತು ಅದಕ್ಕೆ ಇಸ್ಲಾಮಿನ ದೃಷ್ಟಿಕೋನದಲ್ಲಿರುವ ಪರಿಹಾರಗಳನ್ನು ಈ ಲೇಖನವು ಚರ್ಚಿಸುತ್ತದೆ. ಕುಟುಂಬ ಸಂಬಂಧಗಳನ್ನು ಉಳಿಸಿಕೊಳ್ಳುವ ಮಹತ್ವವನ್ನು ಇದು ನೆನಪಿಸುತ್ತದೆ.",
+   "author": "ഹാരിസ്ബിൻ സലീം",
+   "issue_date": "2017-02-18",
+   "html_url": "/kn/family/husband-who-encourages-breaking-family-ties-20170218-2.html",
+   "md_url": "/kn/family/husband-who-encourages-breaking-family-ties-20170218-2.md"
   },
   {
    "slug": "if-the-beginning-is-good-20170211-12",
