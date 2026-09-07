@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T12:28:17.538727+00:00",
+ "generated_at": "2026-09-07T12:29:16.345075+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4480,
+ "count": 4481,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -418,6 +418,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/am/dawah/stand-tall-20170121-8.html",
    "md_url": "/am/dawah/stand-tall-20170121-8.md"
+  },
+  {
+   "slug": "the-chemistry-of-unity-20170225-2",
+   "lang": "am",
+   "category": "dawah",
+   "title": "የአንድነት ኬሚስትሪ",
+   "summary": "ይህ ጽሁፍ ተውሂድን በማስተማር ሂደት ውስጥ የአንድነት ሚናን እና ተግዳሮቶችን በጥልቀት ይፈትሻል። ድርጅታዊ አንድነት በራሱ ግብ ሳይሆን በአቋም ላይ የተመሰረተ መሆን እንዳለበት ይከራከራል።",
+   "author": "ടി.കെ.അശ്‌റഫ്",
+   "issue_date": "2017-02-25",
+   "html_url": "/am/dawah/the-chemistry-of-unity-20170225-2.html",
+   "md_url": "/am/dawah/the-chemistry-of-unity-20170225-2.md"
   },
   {
    "slug": "the-message-of-equality-20170121-11",
