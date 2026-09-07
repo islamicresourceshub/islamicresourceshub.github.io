@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T08:08:24.920786+00:00",
+ "generated_at": "2026-09-07T08:08:50.863669+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4231,
+ "count": 4241,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -16854,6 +16854,17 @@
    "md_url": "/ml/dawah/good-thoughts-20200321-6.md"
   },
   {
+   "slug": "goodwill-naseehah-20201003-7",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "ഗുണകാംക്ഷ",
+   "summary": "ഇസ്‌ലാമിലെ 'നസീഹത്ത്' (ഗുണകാംക്ഷ) എന്ന ആശയത്തിന്റെ പ്രാധാന്യത്തെക്കുറിച്ചുള്ള ലേഖനം. അല്ലാഹുവിനോടും റസൂലിനോടും പൊതുജനങ്ങളോടും വിശ്വാസി പുലർത്തേണ്ട ഗുണകാംക്ഷയുടെ വിവിധ തലങ്ങൾ ഹദീസുകളുടെ വെളിച്ചത്തിൽ വിശദീകരിക്കുന്നു.",
+   "author": "അബ്ദുൽ ജബ്ബാർ മദീനി",
+   "issue_date": "2020-10-03",
+   "html_url": "/ml/dawah/goodwill-naseehah-20201003-7.html",
+   "md_url": "/ml/dawah/goodwill-naseehah-20201003-7.md"
+  },
+  {
    "slug": "governance-and-leadership-is-a-responsibility-20191026-1",
    "lang": "ml",
    "category": "dawah",
@@ -17765,6 +17776,17 @@
    "issue_date": "2019-06-15",
    "html_url": "/ml/dawah/reap-profit-fear-loss-20190615-4.html",
    "md_url": "/ml/dawah/reap-profit-fear-loss-20190615-4.md"
+  },
+  {
+   "slug": "recognize-the-blessings-20201003-5",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "തിരിച്ചറിയുക; അനുഗ്രഹങ്ങളെ",
+   "summary": "അല്ലാഹു നൽകിയ അനുഗ്രഹങ്ങളെ തിരിച്ചറിയാനും അവയ്ക്ക് നന്ദി കാണിക്കാനും വിശ്വാസികളെ പ്രേരിപ്പിക്കുന്ന ലേഖനം. നന്ദി കാണിക്കുന്നത് സൗഭാഗ്യങ്ങൾ വർദ്ധിപ്പിക്കുമെന്ന് ഖുർആൻ വചനങ്ങളുടെ അടിസ്ഥാനത്തിൽ ഇത് ഓർമ്മിപ്പിക്കുന്നു.",
+   "author": "ശബീബ് സ്വലാഹി",
+   "issue_date": "2020-10-03",
+   "html_url": "/ml/dawah/recognize-the-blessings-20201003-5.html",
+   "md_url": "/ml/dawah/recognize-the-blessings-20201003-5.md"
   },
   {
    "slug": "recognizing-the-mind-20200620-8",
@@ -20880,6 +20902,17 @@
    "md_url": "/ml/hadith/sahih-al-bukhari-explanations-and-facts-20190615-3.md"
   },
   {
+   "slug": "stand-firm-on-the-right-path-20201003-8",
+   "lang": "ml",
+   "category": "hadith",
+   "title": "സന്മാർഗത്തിൽ അടിയുറച്ചു നിലകൊള്ളുക",
+   "summary": "വിശ്വാസത്തിലും കർമ്മങ്ങളിലും അടിയുറച്ചു നിൽക്കേണ്ടതിന്റെ പ്രാധാന്യം വ്യക്തമാക്കുന്ന ഹദീസ് പാഠം. അല്ലാഹുവിലുള്ള വിശ്വാസവും സന്മാർഗത്തിലുള്ള ഉറച്ച നിലപാടും പരലോക വിജയത്തിന് അനിവാര്യമാണെന്ന് ഇത് പഠിപ്പിക്കുന്നു.",
+   "author": "ഉസ്മാൻ പാലക്കാഴി",
+   "issue_date": "2020-10-03",
+   "html_url": "/ml/hadith/stand-firm-on-the-right-path-20201003-8.html",
+   "md_url": "/ml/hadith/stand-firm-on-the-right-path-20201003-8.md"
+  },
+  {
    "slug": "sunnah-the-commitment-of-the-companions-20181208-6",
    "lang": "ml",
    "category": "hadith",
@@ -23036,6 +23069,17 @@
    "md_url": "/ml/opinion/fascism-is-history-repeating-itself-20200208-1.md"
   },
   {
+   "slug": "feminists-taking-law-into-hands-and-vulgar-youtubers-20201003-2",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "നിയമം കയ്യിലെടുക്കുന്ന ഫെമിനിസ്റ്റുകളും വൃത്തികേട് വിളമ്പുന്ന യൂട്യൂബർമാരും",
+   "summary": "യൂട്യൂബ് വീഡിയോയിലൂടെ വ്യക്തിഹത്യ നടത്തിയ സംഭവവും അതിനെത്തുടർന്ന് ഫെമിനിസ്റ്റുകൾ നടത്തിയ കയ്യേറ്റവും കേരളത്തിലെ സാമൂഹിക സാഹചര്യത്തിൽ ചർച്ച ചെയ്യുന്നു. നിയമം കയ്യിലെടുക്കുന്ന പ്രവണതയെയും സൈബർ അധിക്ഷേപങ്ങളെയും ഒരുപോലെ വിമർശിക്കുന്നു.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2020-10-03",
+   "html_url": "/ml/opinion/feminists-taking-law-into-hands-and-vulgar-youtubers-20201003-2.html",
+   "md_url": "/ml/opinion/feminists-taking-law-into-hands-and-vulgar-youtubers-20201003-2.md"
+  },
+  {
    "slug": "financial-aids-that-do-not-reach-the-target-20190216-4",
    "lang": "ml",
    "category": "opinion",
@@ -23210,6 +23254,17 @@
    "issue_date": "2018-10-06",
    "html_url": "/ml/opinion/health-education-sector-where-values-become-a-mirage-20181006-1.html",
    "md_url": "/ml/opinion/health-education-sector-where-values-become-a-mirage-20181006-1.md"
+  },
+  {
+   "slug": "hidden-agendas-in-education-policy-20201003-1",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "വിദ്യാഭ്യാസനയത്തിലെ ഒളിയജണ്ടകൾ",
+   "summary": "കേന്ദ്രസർക്കാർ അവതരിപ്പിച്ച പുതിയ ദേശീയ വിദ്യാഭ്യാസനയത്തിലെ മതേതരത്വ വിരുദ്ധതയെയും ചരിത്രപരമായ അവഗണനകളെയും ഈ ലേഖനം വിമർശനാത്മകമായി പരിശോധിക്കുന്നു. ഭരണഘടനാപരമായ മൂല്യങ്ങളെ തകർക്കുന്നതും സംഘപരിവാർ അജണ്ടകൾ നടപ്പിലാക്കുന്നതുമാണ് ഈ നയമെന്ന് ലേഖകൻ വാദിക്കുന്നു.",
+   "author": "പി.ഒ ഉമർ ഫാറൂഖ്",
+   "issue_date": "2020-10-03",
+   "html_url": "/ml/opinion/hidden-agendas-in-education-policy-20201003-1.html",
+   "md_url": "/ml/opinion/hidden-agendas-in-education-policy-20201003-1.md"
   },
   {
    "slug": "human-values-in-the-land-of-disaster-20200815-7",
@@ -23716,6 +23771,17 @@
    "issue_date": "2020-08-08",
    "html_url": "/ml/opinion/national-education-policy-concepts-and-concerns-20200808-1.html",
    "md_url": "/ml/opinion/national-education-policy-concepts-and-concerns-20200808-1.md"
+  },
+  {
+   "slug": "national-education-policy-content-and-inner-fears-20201003-4",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "ദേശീയ വിദ്യാഭ്യാസനയം: ഉള്ളടക്കം, ഉൾഭയവും",
+   "summary": "പുതിയ ദേശീയ വിദ്യാഭ്യാസനയത്തിന്റെ ഘടനയിലെയും ഉള്ളടക്കത്തിലെയും പോരായ്മകളെ ഈ ലേഖനം വിശകലനം ചെയ്യുന്നു. ഭാഷാപരമായ വിവേചനങ്ങളും കേന്ദ്രീകൃത വിദ്യാഭ്യാസ രീതികളും വിദ്യാഭ്യാസ മേഖലയിൽ വരുത്തുന്ന പ്രത്യാഘാതങ്ങളെക്കുറിച്ച് ഇത് മുന്നറിയിപ്പ് നൽകുന്നു.",
+   "author": "സി.പി ചെറിയ മുഹമ്മദ്",
+   "issue_date": "2020-10-03",
+   "html_url": "/ml/opinion/national-education-policy-content-and-inner-fears-20201003-4.html",
+   "md_url": "/ml/opinion/national-education-policy-content-and-inner-fears-20201003-4.md"
   },
   {
    "slug": "national-education-policy-practical-challenges-20200815-6",
@@ -25522,6 +25588,17 @@
    "md_url": "/ml/quran/creation-of-the-universe-in-quran-20200718-9.md"
   },
   {
+   "slug": "death-what-the-quran-says-20201003-3",
+   "lang": "ml",
+   "category": "quran",
+   "title": "മരണം; ഖുർആൻ പറയുന്നത്",
+   "summary": "മരണത്തെക്കുറിച്ചുള്ള ഖുർആനിക വചനങ്ങളെ അടിസ്ഥാനമാക്കി തയ്യാറാക്കിയ ലേഖനം. മരണത്തിന്റെ അനിവാര്യതയും വിശ്വാസികൾ മരണത്തെ എങ്ങനെ സമീപിക്കണമെന്നും ഇത് വിശദീകരിക്കുന്നു.",
+   "author": "മുനവ്വറ ഫൈറൂസ്",
+   "issue_date": "2020-10-03",
+   "html_url": "/ml/quran/death-what-the-quran-says-20201003-3.html",
+   "md_url": "/ml/quran/death-what-the-quran-says-20201003-3.md"
+  },
+  {
    "slug": "divine-signs-in-raindrops-20180623-2",
    "lang": "ml",
    "category": "quran",
@@ -26512,6 +26589,17 @@
    "md_url": "/ml/quran/tafsir-of-surah-al-jinn-20190928-2.md"
   },
   {
+   "slug": "tafsir-of-surah-al-mumtahanah-part-2-20201003-9",
+   "lang": "ml",
+   "category": "quran",
+   "title": "മുതഹിന, ഭാഗം: 2",
+   "summary": "ഖുർആനിലെ അൽ-മുതഹിന അധ്യായത്തിന്റെ വ്യാഖ്യാനം. അവിശ്വാസികളുമായുള്ള ബന്ധം, വിശ്വാസികളുടെ മാതൃകകൾ, പരലോകത്തെ രക്തബന്ധങ്ങളുടെ അവസ്ഥ എന്നിവയെക്കുറിച്ചുള്ള ഖുർആനിക വചനങ്ങളുടെ വിശദീകരണം.",
+   "author": "അബ്ദുറഹ്മാൻ നാസിർ അസ്സുഅദി",
+   "issue_date": "2020-10-03",
+   "html_url": "/ml/quran/tafsir-of-surah-al-mumtahanah-part-2-20201003-9.html",
+   "md_url": "/ml/quran/tafsir-of-surah-al-mumtahanah-part-2-20201003-9.md"
+  },
+  {
    "slug": "tafsir-of-surah-at-taghabun-20200613-10",
    "lang": "ml",
    "category": "quran",
@@ -27357,6 +27445,17 @@
    "issue_date": "2019-11-30",
    "html_url": "/ml/seerah/oppressions-and-the-prophet-s-stance-20191130-10.html",
    "md_url": "/ml/seerah/oppressions-and-the-prophet-s-stance-20191130-10.md"
+  },
+  {
+   "slug": "plain-water-and-dates-20201003-6",
+   "lang": "ml",
+   "category": "seerah",
+   "title": "പച്ചവെള്ളവും കാരക്കയും",
+   "summary": "പ്രവാചകൻ മുഹമ്മദ് നബിയുടെയും കുടുംബത്തിന്റെയും ലളിതമായ ജീവിതശൈലിയെക്കുറിച്ചുള്ള ചരിത്രപരമായ വിവരണം. ഉർവത്തുബ്നു സുബൈർ (റ) വഴി കൈമാറ്റം ചെയ്യപ്പെട്ട ഈ അനുഭവങ്ങൾ ഇന്നത്തെ തലമുറയ്ക്ക് മാതൃകയാണെന്ന് ലേഖകൻ ചൂണ്ടിക്കാട്ടുന്നു.",
+   "author": "സി",
+   "issue_date": "2020-10-03",
+   "html_url": "/ml/seerah/plain-water-and-dates-20201003-6.html",
+   "md_url": "/ml/seerah/plain-water-and-dates-20201003-6.md"
   },
   {
    "slug": "post-war-uhud-20191019-3",
@@ -28391,6 +28490,17 @@
    "issue_date": "2020-07-04",
    "html_url": "/ml/story/a-gulf-malayali-s-house-during-the-covid-period-20200704-15.html",
    "md_url": "/ml/story/a-gulf-malayali-s-house-during-the-covid-period-20200704-15.md"
+  },
+  {
+   "slug": "a-life-gone-astray-20201003-10",
+   "lang": "ml",
+   "category": "story",
+   "title": "വഴിതെറ്റി ഒടുങ്ങിയ ജീവിതം",
+   "summary": "ജീവിതത്തിൽ വഴിതെറ്റിപ്പോയ ഒരു യുവാവിന്റെ കഥ. തെറ്റായ കൂട്ടുകെട്ടുകളും ജീവിതശൈലിയും എങ്ങനെ ഒരു വ്യക്തിയുടെ വിശ്വാസത്തെയും ജീവിതത്തെയും തകർക്കുന്നു എന്ന് ഈ കഥ വിവരിക്കുന്നു.",
+   "author": "ഇബ്നു അലി എടത്തനാട്ടുകര",
+   "issue_date": "2020-10-03",
+   "html_url": "/ml/story/a-life-gone-astray-20201003-10.html",
+   "md_url": "/ml/story/a-life-gone-astray-20201003-10.md"
   },
   {
    "slug": "a-life-like-a-candle-20190126-4",
