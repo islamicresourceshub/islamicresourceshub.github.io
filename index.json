@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T11:36:45.632572+00:00",
+ "generated_at": "2026-09-07T11:38:17.382402+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4429,
+ "count": 4430,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -38962,6 +38962,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/so/dawah/muslims-in-a-pluralistic-society-20170128-1.html",
    "md_url": "/so/dawah/muslims-in-a-pluralistic-society-20170128-1.md"
+  },
+  {
+   "slug": "organization-is-not-for-division-20170218-13",
+   "lang": "so",
+   "category": "dawah",
+   "title": "Ururku ma aha mid loogu talagalay kala qaybsanaan!",
+   "summary": "Qoraalkani wuxuu xusuusinayaa in ujeeddada ururada iyo dhaqdhaqaaqyada Islaamiga ahi ay tahay midnimada, isla markaana aanay ahayn inay sababaan kala qaybsanaan. Wuxuu si qoto dheer uga hadlayaa muhiimadda ay leedahay wada-shaqaynta ka dhexaysa dadka mu'miniinta ah.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2017-02-18",
+   "html_url": "/so/dawah/organization-is-not-for-division-20170218-13.html",
+   "md_url": "/so/dawah/organization-is-not-for-division-20170218-13.md"
   },
   {
    "slug": "prayer-that-is-worship-20170325-6",
