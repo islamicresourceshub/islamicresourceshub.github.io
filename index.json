@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T05:32:09.904715+00:00",
+ "generated_at": "2026-09-07T05:32:35.614600+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4060,
+ "count": 4061,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -40667,6 +40667,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/tl/family/the-methodology-of-conduct-20170128-8.html",
    "md_url": "/tl/family/the-methodology-of-conduct-20170128-8.md"
+  },
+  {
+   "slug": "thoughts-during-pregnancy-20170218-4",
+   "lang": "tl",
+   "category": "family",
+   "title": "Mga Kaisipan sa Panahon ng Pagbubuntis",
+   "summary": "Tinatalakay nito ang mga kagandahang-asal at panalangin na dapat sundin ng mga magulang sa panahon ng pagbubuntis. Bilang bahagi ng Islamic parenting, ipinapaliwanag nito ang epekto ng mental na kalagayan ng mga magulang sa paglaki ng bata.",
+   "author": "അഷ്‌റഫ് എകരൂല്‍",
+   "issue_date": "2017-02-18",
+   "html_url": "/tl/family/thoughts-during-pregnancy-20170218-4.html",
+   "md_url": "/tl/family/thoughts-during-pregnancy-20170218-4.md"
   },
   {
    "slug": "mosque-construction-some-points-to-note-20170325-5",
