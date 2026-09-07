@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T05:47:01.304803+00:00",
+ "generated_at": "2026-09-07T05:47:23.318338+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4103,
+ "count": 4112,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -15919,6 +15919,17 @@
    "md_url": "/ml/dawah/dedication-and-cooperation-20200229-5.md"
   },
   {
+   "slug": "did-god-weaken-when-science-grew-20200905-2",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "ശാസ്ത്രം വളർന്നപ്പോൾ ദൈവം തളർന്നോ?",
+   "summary": "ശാസ്ത്രത്തിന്റെ വളർച്ച ദൈവവിശ്വാസത്തിന് വിരുദ്ധമാണെന്ന യുക്തിവാദികളുടെ വാദത്തെ ഖണ്ഡിക്കുന്ന ലേഖനം. ന്യൂട്ടൺ, ഐൻസ്റ്റീൻ തുടങ്ങിയ പ്രമുഖ ശാസ്ത്രജ്ഞരുടെ ദൈവവിശ്വാസത്തെ ഉദ്ധരിച്ചുകൊണ്ട് ശാസ്ത്രവും മതവും പരസ്പരപൂരകമാണെന്ന് സമർത്ഥിക്കുന്നു.",
+   "author": "ഡോ.സബീൽ പട്ടാമ്പി",
+   "issue_date": "2020-09-05",
+   "html_url": "/ml/dawah/did-god-weaken-when-science-grew-20200905-2.html",
+   "md_url": "/ml/dawah/did-god-weaken-when-science-grew-20200905-2.md"
+  },
+  {
    "slug": "dignified-actions-20190112-1",
    "lang": "ml",
    "category": "dawah",
@@ -16381,6 +16392,17 @@
    "md_url": "/ml/dawah/goal-unity-and-organization-20190928-5.md"
   },
   {
+   "slug": "godown-number-seventeen-20200905-9",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "പതിനേഴാം നമ്പർ ഗോഡൗൺ",
+   "summary": "പ്രതിസന്ധി ഘട്ടങ്ങളിൽ അല്ലാഹുവിലുള്ള വിശ്വാസവും പ്രാർത്ഥനയും എങ്ങനെ ആശ്വാസം നൽകുന്നു എന്ന് ഒരു യഥാർത്ഥ സംഭവത്തിലൂടെ വിവരിക്കുന്ന ലേഖനം.",
+   "author": "ഇബ്‌നു അലി എടത്തനാട്ടുകര",
+   "issue_date": "2020-09-05",
+   "html_url": "/ml/dawah/godown-number-seventeen-20200905-9.html",
+   "md_url": "/ml/dawah/godown-number-seventeen-20200905-9.md"
+  },
+  {
    "slug": "good-thoughts-20200321-6",
    "lang": "ml",
    "category": "dawah",
@@ -16511,6 +16533,17 @@
    "issue_date": "2020-03-07",
    "html_url": "/ml/dawah/humility-20200307-7.html",
    "md_url": "/ml/dawah/humility-20200307-7.md"
+  },
+  {
+   "slug": "humor-and-help-20200905-8",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "തമാശയും സഹായവും",
+   "summary": "ഇസ്‌ലാം അനുവദിക്കുന്ന തമാശകളുടെ അതിരുകളും മറ്റുള്ളവരെ സഹായിക്കുന്നതിന്റെ മഹത്വവും പ്രവാചകചര്യയുടെ വെളിച്ചത്തിൽ വിശദീകരിക്കുന്ന ലേഖനം.",
+   "author": "അബ്ദുൽ ജബ്ബാർ മദീനി",
+   "issue_date": "2020-09-05",
+   "html_url": "/ml/dawah/humor-and-help-20200905-8.html",
+   "md_url": "/ml/dawah/humor-and-help-20200905-8.md"
   },
   {
    "slug": "iblis-s-slogan-20181027-3",
@@ -18196,6 +18229,17 @@
    "md_url": "/ml/dawah/thoughts-during-a-journey-20180929-10.md"
   },
   {
+   "slug": "three-ears-20200905-4",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "മൂന്നുചെവി",
+   "summary": "വ്യക്തിപരമായ വാശികളും തർക്കങ്ങളും എങ്ങനെ പരിഹരിക്കാമെന്ന് പ്രവാചക മാതൃകയിലൂടെ വിശദീകരിക്കുന്ന ലേഖനം. അനാവശ്യമായ തർക്കങ്ങൾ ഒഴിവാക്കി വിവേകത്തോടെ കാര്യങ്ങൾ കൈകാര്യം ചെയ്യേണ്ടതിന്റെ പ്രാധാന്യം വ്യക്തമാക്കുന്നു.",
+   "author": "സി",
+   "issue_date": "2020-09-05",
+   "html_url": "/ml/dawah/three-ears-20200905-4.html",
+   "md_url": "/ml/dawah/three-ears-20200905-4.md"
+  },
+  {
    "slug": "time-does-not-stand-still-20181110-10",
    "lang": "ml",
    "category": "dawah",
@@ -19041,6 +19085,17 @@
    "issue_date": "2019-10-19",
    "html_url": "/ml/family/marriage-age-critics-with-biased-glasses-20191019-2.html",
    "md_url": "/ml/family/marriage-age-critics-with-biased-glasses-20191019-2.md"
+  },
+  {
+   "slug": "marriage-should-the-age-change-or-the-perspective-20200905-1",
+   "lang": "ml",
+   "category": "family",
+   "title": "വിവാഹം: മാറേണ്ടത് പ്രായമോ കാഴ്ചപ്പാടോ?",
+   "summary": "സ്ത്രീകളുടെ വിവാഹപ്രായം ഉയർത്താനുള്ള കേന്ദ്രസർക്കാർ നീക്കത്തെക്കുറിച്ചുള്ള വൈജ്ഞാനിക സംവാദം. സാമൂഹികവും ആരോഗ്യപരവുമായ വശങ്ങൾ പരിശോധിച്ചുകൊണ്ട്, ഈ നീക്കം അപ്രായോഗികവും ഒളിയജണ്ടകൾ നിറഞ്ഞതുമാണെന്ന് പ്രമുഖർ അഭിപ്രായപ്പെടുന്നു.",
+   "author": "ഇ.ടി മുഹമ്മദ് ബഷീർ എ.പി / ഡോ. സെബാസ്റ്റ്യൻ പോൾ / കെ.പി രാമനുണ്ണി / ടി.കെ അഷ്റഫ് / ഡോ. മുഹമ്മദ് കുട്ടി കണ്ണിയിൻ",
+   "issue_date": "2020-09-05",
+   "html_url": "/ml/family/marriage-should-the-age-change-or-the-perspective-20200905-1.html",
+   "md_url": "/ml/family/marriage-should-the-age-change-or-the-perspective-20200905-1.md"
   },
   {
    "slug": "married-life-what-believers-should-note-20200328-3",
@@ -23652,6 +23707,17 @@
    "md_url": "/ml/opinion/superstitions-in-modern-homes-20170304-1.md"
   },
   {
+   "slug": "sweden-burning-in-the-fire-of-islamophobia-20200905-3",
+   "lang": "ml",
+   "category": "opinion",
+   "title": "ഇസ്‌ലാം വിദ്വേഷത്തിന്റെ തീയിൽ എരിയുന്ന സ്വീഡൻ",
+   "summary": "സ്വീഡനിൽ നടന്ന ഖുർആൻ കത്തിക്കൽ സംഭവങ്ങളെയും അതിനെത്തുടർന്നുണ്ടായ പ്രതിഷേധങ്ങളെയും വിശകലനം ചെയ്യുന്ന ലേഖനം. ഇസ്‌ലാമോഫോബിയയുടെ ആഗോള പ്രവണതകളെയും അതിനെതിരായ പ്രതിരോധങ്ങളെയും ഇത് ചർച്ച ചെയ്യുന്നു.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2020-09-05",
+   "html_url": "/ml/opinion/sweden-burning-in-the-fire-of-islamophobia-20200905-3.html",
+   "md_url": "/ml/opinion/sweden-burning-in-the-fire-of-islamophobia-20200905-3.md"
+  },
+  {
    "slug": "ten-books-or-ten-measures-the-question-remains-unanswered-20190126-5",
    "lang": "ml",
    "category": "opinion",
@@ -25599,6 +25665,17 @@
    "md_url": "/ml/quran/surah-an-naba-the-news-20190302-2.md"
   },
   {
+   "slug": "surah-as-saff-the-ranks-20200905-5",
+   "lang": "ml",
+   "category": "quran",
+   "title": "സൂറത്ത് (അണി)",
+   "summary": "ഖുർആനിലെ അസ്-സ്വഫ്ഫ് അധ്യായത്തിന്റെ ലളിതമായ വ്യാഖ്യാനം. മൂസാ നബിയുടെയും ഈസാ നബിയുടെയും ചരിത്രസന്ദർഭങ്ങളിലൂടെ വിശ്വാസികളുടെ ബാധ്യതകളെക്കുറിച്ച് വിശദീകരിക്കുന്നു.",
+   "author": "അബ്ദുറഹ്മാൻ നാസിർ അസ്സഅദി",
+   "issue_date": "2020-09-05",
+   "html_url": "/ml/quran/surah-as-saff-the-ranks-20200905-5.html",
+   "md_url": "/ml/quran/surah-as-saff-the-ranks-20200905-5.md"
+  },
+  {
    "slug": "surah-ash-shams-tafsir-20180728-6",
    "lang": "ml",
    "category": "quran",
@@ -25795,6 +25872,17 @@
    "issue_date": "2018-09-08",
    "html_url": "/ml/quran/the-bitter-consequences-of-disobedience-20180908-1.html",
    "md_url": "/ml/quran/the-bitter-consequences-of-disobedience-20180908-1.md"
+  },
+  {
+   "slug": "the-disappointed-gardener-20200905-6",
+   "lang": "ml",
+   "category": "quran",
+   "title": "പ്രതീക്ഷ മങ്ങിയ തോട്ടക്കാരൻ",
+   "summary": "ഖുർആനിലെ ഉപമകളെ ആസ്പദമാക്കി തയ്യാറാക്കിയ ലേഖന പരമ്പര. ഭൗതിക ജീവിതത്തിന്റെ നശ്വരതയെയും പരലോക വിജയത്തിന്റെ പ്രാധാന്യത്തെയും തോട്ടക്കാരന്റെ ഉപമയിലൂടെ വിവരിക്കുന്നു.",
+   "author": "കുഞ്ഞിമുഹമ്മദ് മദനി പറപ്പൂർ",
+   "issue_date": "2020-09-05",
+   "html_url": "/ml/quran/the-disappointed-gardener-20200905-6.html",
+   "md_url": "/ml/quran/the-disappointed-gardener-20200905-6.md"
   },
   {
    "slug": "the-ever-forgiving-allah-20200229-9",
@@ -27346,6 +27434,17 @@
    "issue_date": "2019-03-23",
    "html_url": "/ml/seerah/the-year-of-sorrow-20190323-4.html",
    "md_url": "/ml/seerah/the-year-of-sorrow-20190323-4.md"
+  },
+  {
+   "slug": "these-unique-companions-20200905-7",
+   "lang": "ml",
+   "category": "seerah",
+   "title": "അതുല്യർ ഈ അനുചരന്മാർ",
+   "summary": "പ്രവാചക അനുചരന്മാരുടെ (സ്വഹാബത്ത്) ശ്രേഷ്ഠതകളെ ഖുർആൻ വചനങ്ങളുടെ അടിസ്ഥാനത്തിൽ വിവരിക്കുന്ന ലേഖനം. അവരുടെ ത്യാഗങ്ങളെയും അല്ലാഹുവിന്റെ പ്രീതിയെയും കുറിച്ച് പ്രതിപാദിക്കുന്നു.",
+   "author": "ഇഹ്‌സാൻ വളപട്ടണം",
+   "issue_date": "2020-09-05",
+   "html_url": "/ml/seerah/these-unique-companions-20200905-7.html",
+   "md_url": "/ml/seerah/these-unique-companions-20200905-7.md"
   },
   {
    "slug": "those-with-hardened-hearts-20180922-3",
