@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T09:02:13.846570+00:00",
+ "generated_at": "2026-09-07T09:03:09.395962+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4294,
+ "count": 4295,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -8162,6 +8162,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/fr/opinion/secular-government-and-muslim-minority-20170218-8.html",
    "md_url": "/fr/opinion/secular-government-and-muslim-minority-20170218-8.md"
+  },
+  {
+   "slug": "strengthening-secular-political-unity-20170218-9",
+   "lang": "fr",
+   "category": "opinion",
+   "title": "Renforcer l'unité politique laïque",
+   "summary": "Cet article souligne l'urgence pour les partis politiques laïques de s'unir afin de contrer les tendances fascistes croissantes dans le pays. Il démontre que cette unité politique est indispensable pour préserver les valeurs constitutionnelles et protéger la diversité de la nation.",
+   "author": "സുഫ്‌യാൻ അബ്ദുസ്സലാം",
+   "issue_date": "2017-02-18",
+   "html_url": "/fr/opinion/strengthening-secular-political-unity-20170218-9.html",
+   "md_url": "/fr/opinion/strengthening-secular-political-unity-20170218-9.md"
   },
   {
    "slug": "terrorism-and-religious-freedom-20170114-1",
