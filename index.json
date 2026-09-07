@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T12:27:17.173542+00:00",
+ "generated_at": "2026-09-07T12:28:17.538727+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4479,
+ "count": 4480,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -49071,6 +49071,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/zh/history/manusmriti-and-the-caste-system-20170218-7.html",
    "md_url": "/zh/history/manusmriti-and-the-caste-system-20170218-7.md"
+  },
+  {
+   "slug": "anxieties-of-those-who-deviated-from-the-path-of-ideology-20170225-1",
+   "lang": "zh",
+   "category": "opinion",
+   "title": "偏离正道者的焦虑",
+   "summary": "本文是对KNM领导人阿卜杜勒·萨拉姆·苏拉米（Abdussalam Sullami）在《Shabab》周刊上发表的文章的回应，探讨了伊斯兰教关于团结的观点，并批判性地分析了当前组织内部的意识形态偏差。",
+   "author": "അബ്ദുല്‍ മാലിക് സലഫി",
+   "issue_date": "2017-02-25",
+   "html_url": "/zh/opinion/anxieties-of-those-who-deviated-from-the-path-of-ideology-20170225-1.html",
+   "md_url": "/zh/opinion/anxieties-of-those-who-deviated-from-the-path-of-ideology-20170225-1.md"
   },
   {
    "slug": "challenges-posed-by-pseudo-nationalism-20170204-4",
