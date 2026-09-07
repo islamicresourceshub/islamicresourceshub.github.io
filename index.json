@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T05:56:01.289540+00:00",
+ "generated_at": "2026-09-07T05:56:21.442920+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4131,
+ "count": 4132,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -6072,6 +6072,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/es/family/the-methodology-of-conduct-20170128-8.html",
    "md_url": "/es/family/the-methodology-of-conduct-20170128-8.md"
+  },
+  {
+   "slug": "the-new-generation-that-makes-us-weep-20170218-6",
+   "lang": "es",
+   "category": "family",
+   "title": "La nueva generación que nos hace llorar",
+   "summary": "Un relato personal sobre la angustia mental que sufren los padres y los comportamientos de la nueva generación. Se discuten aquí las grietas en las relaciones familiares y las circunstancias sociales que las provocan.",
+   "author": "ഇബ്‌നു അലി എടത്തനാട്ടുകര",
+   "issue_date": "2017-02-18",
+   "html_url": "/es/family/the-new-generation-that-makes-us-weep-20170218-6.html",
+   "md_url": "/es/family/the-new-generation-that-makes-us-weep-20170218-6.md"
   },
   {
    "slug": "thoughts-during-pregnancy-20170218-4",
