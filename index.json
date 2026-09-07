@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T04:40:29.635047+00:00",
+ "generated_at": "2026-09-07T04:40:59.324214+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3936,
+ "count": 3937,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -34298,6 +34298,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/si/family/husband-trapped-in-the-mobile-web-20170121-5.html",
    "md_url": "/si/family/husband-trapped-in-the-mobile-web-20170121-5.md"
+  },
+  {
+   "slug": "husband-who-encourages-breaking-family-ties-20170218-2",
+   "lang": "si",
+   "category": "family",
+   "title": "සම්බන්ධතා බිඳ දැමීමට බලපෑම් කරන සැමියා",
+   "summary": "සැමියාගේ මුරණ්ඩුකම නිසා තම පවුලේ අය සමඟ ඇති සබඳතා බිඳ දැමීමට සිදුවන කාන්තාවකගේ කනගාටුදායක තත්ත්වය සහ ඒ සඳහා ඉස්ලාමීය විසඳුම් මෙම ලිපියෙන් විමසා බලයි. පවුල් සබඳතා පවත්වා ගැනීමේ වැදගත්කම පිළිබඳව මෙය සිහිපත් කරයි.",
+   "author": "ഹാരിസ്ബിൻ സലീം",
+   "issue_date": "2017-02-18",
+   "html_url": "/si/family/husband-who-encourages-breaking-family-ties-20170218-2.html",
+   "md_url": "/si/family/husband-who-encourages-breaking-family-ties-20170218-2.md"
   },
   {
    "slug": "if-the-beginning-is-good-20170211-12",
