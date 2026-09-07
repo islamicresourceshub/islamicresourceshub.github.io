@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T05:33:31.181990+00:00",
+ "generated_at": "2026-09-07T05:34:09.051372+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4063,
+ "count": 4064,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -42977,6 +42977,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/uz/family/the-methodology-of-conduct-20170128-8.html",
    "md_url": "/uz/family/the-methodology-of-conduct-20170128-8.md"
+  },
+  {
+   "slug": "thoughts-during-pregnancy-20170218-4",
+   "lang": "uz",
+   "category": "family",
+   "title": "Homiladorlik davridagi fikrlar",
+   "summary": "Ushbu maqolada ota-onalar homiladorlik davrida rioya qilishlari kerak bo'lgan odob-axloq va duolar haqida so'z boradi. Islomiy tarbiyaning bir qismi sifatida ota-onalarning ruhiy holati farzand rivojlanishiga qanday ta'sir ko'rsatishi batafsil yoritilgan.",
+   "author": "അഷ്‌റഫ് എകരൂല്‍",
+   "issue_date": "2017-02-18",
+   "html_url": "/uz/family/thoughts-during-pregnancy-20170218-4.html",
+   "md_url": "/uz/family/thoughts-during-pregnancy-20170218-4.md"
   },
   {
    "slug": "mosque-construction-some-points-to-note-20170325-5",
