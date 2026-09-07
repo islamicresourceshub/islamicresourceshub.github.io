@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T04:50:36.310882+00:00",
+ "generated_at": "2026-09-07T04:51:08.236033+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3951,
+ "count": 3961,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -13851,6 +13851,17 @@
    "md_url": "/ml/aqeedah/belief-in-prophets-20200314-6.md"
   },
   {
+   "slug": "caliph-umar-s-paper-and-the-fruit-thrown-into-the-sea-20200801-9",
+   "lang": "ml",
+   "category": "aqeedah",
+   "title": "ഖലീഫ ഉമറിന്റെ കടലാസും കടലിലെറിയപ്പെട്ട പഴവും",
+   "summary": "മതത്തിന്റെ പേരിൽ നടക്കുന്ന അന്ധവിശ്വാസങ്ങളെയും പുത്തനാചാരങ്ങളെയും ഖുർആൻ വചനങ്ങളുടെയും ചരിത്രരേഖകളുടെയും അടിസ്ഥാനത്തിൽ വിമർശിക്കുന്നു. കടലിലേക്ക് പഴമെറിയുന്നതുപോലുള്ള ആചാരങ്ങൾ ഇസ്‌ലാമിക വിരുദ്ധമാണെന്ന് ലേഖകൻ സമർത്ഥിക്കുന്നു.",
+   "author": "മൂസ സ്വലാഹി, കാര",
+   "issue_date": "2020-08-01",
+   "html_url": "/ml/aqeedah/caliph-umar-s-paper-and-the-fruit-thrown-into-the-sea-20200801-9.html",
+   "md_url": "/ml/aqeedah/caliph-umar-s-paper-and-the-fruit-thrown-into-the-sea-20200801-9.md"
+  },
+  {
    "slug": "can-coincidence-be-a-creator-20180714-4",
    "lang": "ml",
    "category": "aqeedah",
@@ -14566,6 +14577,17 @@
    "md_url": "/ml/aqeedah/the-all-knowing-and-those-who-know-little-20200606-8.md"
   },
   {
+   "slug": "the-characteristics-of-salafis-20200801-2",
+   "lang": "ml",
+   "category": "aqeedah",
+   "title": "സലഫികളുടെ സവിശേഷത",
+   "summary": "സലഫിയ്യത്ത് എന്ന ആദർശത്തിന്റെ അടിസ്ഥാന തത്വങ്ങളെയും പ്രമാണങ്ങളെയും കുറിച്ചുള്ള ലഘുവിവരണം. ഖുർആനിനെയും സുന്നത്തിനെയും അടിസ്ഥാനമാക്കി മതപരമായ പുതുനിർമ്മിതികളെ നിരാകരിക്കുന്ന സലഫികളുടെ നിലപാടുകൾ ഇതിൽ വിശദീകരിക്കുന്നു.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2020-08-01",
+   "html_url": "/ml/aqeedah/the-characteristics-of-salafis-20200801-2.html",
+   "md_url": "/ml/aqeedah/the-characteristics-of-salafis-20200801-2.md"
+  },
+  {
    "slug": "the-dead-end-of-neo-atheist-thoughts-20180707-1",
    "lang": "ml",
    "category": "aqeedah",
@@ -14830,6 +14852,17 @@
    "md_url": "/ml/aqeedah/weighty-deeds-20200314-3.md"
   },
   {
+   "slug": "what-a-believer-should-note-when-approaching-causes-20200801-8",
+   "lang": "ml",
+   "category": "aqeedah",
+   "title": "കാരണങ്ങളെ സമീപിക്കുമ്പോൾ വിശ്വാസി ശ്രദ്ധിക്കേണ്ടത്",
+   "summary": "ഭൗതിക കാരണങ്ങളെ സമീപിക്കുമ്പോൾ വിശ്വാസി പാലിക്കേണ്ട മര്യാദകളെയും മതപരമായ അതിരുകളെയും കുറിച്ച് ചർച്ച ചെയ്യുന്നു. അന്ധവിശ്വാസങ്ങളെയും മതം അനുവദിക്കാത്ത മാർഗ്ഗങ്ങളെയും തള്ളിക്കളയേണ്ടതിന്റെ പ്രാധാന്യം ലേഖകൻ ഊന്നിപ്പറയുന്നു.",
+   "author": "ശമീർ മദ്നി",
+   "issue_date": "2020-08-01",
+   "html_url": "/ml/aqeedah/what-a-believer-should-note-when-approaching-causes-20200801-8.html",
+   "md_url": "/ml/aqeedah/what-a-believer-should-note-when-approaching-causes-20200801-8.md"
+  },
+  {
    "slug": "who-is-worthy-of-worship-20190209-1",
    "lang": "ml",
    "category": "aqeedah",
@@ -15017,6 +15050,17 @@
    "md_url": "/ml/dawah/be-well-wishers-20190803-3.md"
   },
   {
+   "slug": "becoming-great-by-acknowledging-the-small-20200801-7",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "ചെറുപ്പമംഗീകരിച്ച് വലിയവരാവുക",
+   "summary": "അല്ലാഹുവിന്റെ അനുഗ്രഹങ്ങളെ തിരിച്ചറിയുകയും അഹങ്കാരം വെടിഞ്ഞ് ആരാധനകളിൽ മുഴുകുകയും ചെയ്യുന്നതിലൂടെ മനുഷ്യന് എങ്ങനെ ഉന്നതി പ്രാപിക്കാമെന്ന് വിവരിക്കുന്നു. നമസ്കാരം, സകാത്ത്, വ്രതം തുടങ്ങിയ കർമ്മങ്ങൾ ഈ ബോധം വളർത്താൻ സഹായിക്കുന്നു.",
+   "author": "അബൂഅമീൻ",
+   "issue_date": "2020-08-01",
+   "html_url": "/ml/dawah/becoming-great-by-acknowledging-the-small-20200801-7.html",
+   "md_url": "/ml/dawah/becoming-great-by-acknowledging-the-small-20200801-7.md"
+  },
+  {
    "slug": "begging-for-silence-20200627-4",
    "lang": "ml",
    "category": "dawah",
@@ -15136,6 +15180,17 @@
    "issue_date": "2018-06-02",
    "html_url": "/ml/dawah/conditioning-the-mind-20180602-10.html",
    "md_url": "/ml/dawah/conditioning-the-mind-20180602-10.md"
+  },
+  {
+   "slug": "contentment-20200801-4",
+   "lang": "ml",
+   "category": "dawah",
+   "title": "മനഃസംതൃപ്തി",
+   "summary": "അല്ലാഹു നൽകിയ വിധിയിൽ തൃപ്തിപ്പെടുക എന്ന ഉത്തമ സ്വഭാവത്തെക്കുറിച്ച് ഖുർആൻ വചനങ്ങളുടെയും ഹദീസുകളുടെയും വെളിച്ചത്തിൽ പ്രതിപാദിക്കുന്നു. മനഃസംതൃപ്തിയാണ് യഥാർത്ഥ ഐശ്വര്യമെന്നും അത് ജീവിതത്തിൽ സമാധാനം നൽകുമെന്നും ലേഖകൻ ഓർമ്മിപ്പിക്കുന്നു.",
+   "author": "അബ്ദുൽ ജബ്ബാർ മദ്നി",
+   "issue_date": "2020-08-01",
+   "html_url": "/ml/dawah/contentment-20200801-4.html",
+   "md_url": "/ml/dawah/contentment-20200801-4.md"
   },
   {
    "slug": "conversion-of-islam-critics-20190223-2",
@@ -18711,6 +18766,17 @@
    "issue_date": "2019-07-06",
    "html_url": "/ml/family/ways-to-a-contented-life-20190706-10.html",
    "md_url": "/ml/family/ways-to-a-contented-life-20190706-10.md"
+  },
+  {
+   "slug": "wealth-acquisition-and-expenditure-need-for-some-practical-p-20200801-1",
+   "lang": "ml",
+   "category": "family",
+   "title": "ധനസമ്പാദനം, വിനിയോഗം: വേണം ചില പ്രായോഗിക കാഴ്ചപ്പാടുകൾ",
+   "summary": "സാമ്പത്തിക പ്രതിസന്ധികൾക്കിടയിൽ ധനസമ്പാദനത്തിലും വിനിയോഗത്തിലും പാലിക്കേണ്ട അച്ചടക്കത്തെക്കുറിച്ചും പ്രായോഗിക സമീപനങ്ങളെക്കുറിച്ചും ലേഖനം ചർച്ച ചെയ്യുന്നു. കുടുംബത്തിന്റെ വരുമാനത്തിനനുസരിച്ച് ചെലവുകൾ ക്രമീകരിക്കുന്നതിന്റെയും അനാവശ്യ കടബാധ്യതകൾ ഒഴിവാക്കുന്നതിന്റെയും പ്രാധാന്യം ഇതിൽ വ്യക്തമാക്കുന്നു.",
+   "author": "നബീൽ പയ്യോളി",
+   "issue_date": "2020-08-01",
+   "html_url": "/ml/family/wealth-acquisition-and-expenditure-need-for-some-practical-p-20200801-1.html",
+   "md_url": "/ml/family/wealth-acquisition-and-expenditure-need-for-some-practical-p-20200801-1.md"
   },
   {
    "slug": "welcoming-the-newborn-20170225-9",
@@ -24081,6 +24147,17 @@
    "md_url": "/ml/quran/malayalam-translations-of-the-holy-quran-and-malayalis-20190105-1.md"
   },
   {
+   "slug": "man-as-the-bearer-of-trust-amanah-20200801-5",
+   "lang": "ml",
+   "category": "quran",
+   "title": "മനുഷ്യൻ അമാനത്തിന്റെ വാഹകൻ",
+   "summary": "മനുഷ്യൻ ഭൂമിയിൽ അല്ലാഹുവിന്റെ പ്രതിനിധിയാണെന്നും അവന് നൽകപ്പെട്ട അമാനത്ത് (ഉത്തരവാദിത്തം) എന്താണെന്നും ഖുർആൻ വചനങ്ങളുടെ അടിസ്ഥാനത്തിൽ വിശദീകരിക്കുന്നു. ബുദ്ധിയും ഇച്ഛാശക്തിയും ഉപയോഗിച്ച് സ്രഷ്ടാവിന്റെ മാർഗനിർദ്ദേശങ്ങൾ പിന്തുടരേണ്ടതിന്റെ ആവശ്യകതയെക്കുറിച്ച് ലേഖനം ഓർമ്മിപ്പിക്കുന്നു.",
+   "author": "കുഞ്ഞിമുഹമ്മദ് മദ്നി പറപ്പൂർ",
+   "issue_date": "2020-08-01",
+   "html_url": "/ml/quran/man-as-the-bearer-of-trust-amanah-20200801-5.html",
+   "md_url": "/ml/quran/man-as-the-bearer-of-trust-amanah-20200801-5.md"
+  },
+  {
    "slug": "man-in-the-quran-20200725-2",
    "lang": "ml",
    "category": "quran",
@@ -24442,6 +24519,17 @@
    "issue_date": "2019-04-27",
    "html_url": "/ml/quran/surah-al-insan-tafsir-20190427-4.html",
    "md_url": "/ml/quran/surah-al-insan-tafsir-20190427-4.md"
+  },
+  {
+   "slug": "surah-al-jumu-ah-20200801-6",
+   "lang": "ml",
+   "category": "quran",
+   "title": "ജുമുഅ",
+   "summary": "ഖുർആനിലെ 62-ാം അധ്യായമായ ജുമുഅയുടെ തഫ്സീർ (വ്യാഖ്യാനം). പ്രവാചക നിയോഗത്തിന്റെ ലക്ഷ്യങ്ങളും അല്ലാഹുവിന്റെ അനുഗ്രഹങ്ങളെക്കുറിച്ചും ഈ ഭാഗത്ത് വിശദീകരിക്കുന്നു.",
+   "author": "അബ്ദുറഹ്മാൻ നാസിർ അസ്സഅദി",
+   "issue_date": "2020-08-01",
+   "html_url": "/ml/quran/surah-al-jumu-ah-20200801-6.html",
+   "md_url": "/ml/quran/surah-al-jumu-ah-20200801-6.md"
   },
   {
    "slug": "surah-al-ma-arij-the-ways-of-ascent-20191026-2",
@@ -26182,6 +26270,17 @@
    "md_url": "/ml/seerah/the-small-big-man-20180728-4.md"
   },
   {
+   "slug": "the-story-of-al-ashajj-20200801-3",
+   "lang": "ml",
+   "category": "seerah",
+   "title": "അശജ്ജിന്റെ കഥ",
+   "summary": "അബ്ദുൽഖൈസ് ഗോത്രത്തലവൻ അശജ്ജിന്റെ മദീനാ സന്ദർശനവും പ്രവാചകനിൽ നിന്ന് ലഭിച്ച അംഗീകാരവും വിവരിക്കുന്ന ചരിത്രസംഭവം. ക്ഷമയും അവധാനതയും കൈമുതലായുള്ള വ്യക്തിത്വങ്ങളെ പ്രവാചകൻ എങ്ങനെ വിലമതിച്ചു എന്ന് ഈ കഥ വ്യക്തമാക്കുന്നു.",
+   "author": "സി.",
+   "issue_date": "2020-08-01",
+   "html_url": "/ml/seerah/the-story-of-al-ashajj-20200801-3.html",
+   "md_url": "/ml/seerah/the-story-of-al-ashajj-20200801-3.md"
+  },
+  {
    "slug": "the-table-from-heaven-20190504-1",
    "lang": "ml",
    "category": "seerah",
@@ -27126,6 +27225,17 @@
    "issue_date": "2019-06-29",
    "html_url": "/ml/story/rainy-sights-20190629-6.html",
    "md_url": "/ml/story/rainy-sights-20190629-6.md"
+  },
+  {
+   "slug": "refuge-in-allah-20200801-10",
+   "lang": "ml",
+   "category": "story",
+   "title": "അല്ലാഹുവില്‍ അഭയം",
+   "summary": "അല്ലാഹുവിനോട് മാത്രം പ്രാർത്ഥിക്കണമെന്നും പ്രയാസഘട്ടങ്ങളിൽ അവനിൽ മാത്രം അഭയം തേടണമെന്നും ഓർമ്മിപ്പിക്കുന്ന കവിത.",
+   "author": "ഡോ. സി.മുഹമ്മദ് റാഫി ചെമ്പ്ര",
+   "issue_date": "2020-08-01",
+   "html_url": "/ml/story/refuge-in-allah-20200801-10.html",
+   "md_url": "/ml/story/refuge-in-allah-20200801-10.md"
   },
   {
    "slug": "relief-kit-20200516-4",
