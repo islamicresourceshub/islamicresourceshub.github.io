@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-07T04:53:50.685620+00:00",
+ "generated_at": "2026-09-07T04:54:19.107328+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 3966,
+ "count": 3967,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -5665,6 +5665,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/es/dawah/showing-the-light-is-the-duty-of-scholars-20170121-14.html",
    "md_url": "/es/dawah/showing-the-light-is-the-duty-of-scholars-20170121-14.md"
+  },
+  {
+   "slug": "solution-for-divisions-20170218-3",
+   "lang": "es",
+   "category": "dawah",
+   "title": "La solución a las divisiones",
+   "summary": "Este artículo argumenta que la unidad entre los defensores de la paz es esencial para combatir el terrorismo, que amenaza la paz mundial. Se analiza cómo las alianzas basadas en principios pueden ayudar a resistir el fascismo y se cuestiona la falta de claridad ideológica tras la reciente reunificación del movimiento Muyahid.",
+   "author": "ടി.കെ.അശ്‌റഫ്‌",
+   "issue_date": "2017-02-18",
+   "html_url": "/es/dawah/solution-for-divisions-20170218-3.html",
+   "md_url": "/es/dawah/solution-for-divisions-20170218-3.md"
   },
   {
    "slug": "stand-tall-20170121-8",
