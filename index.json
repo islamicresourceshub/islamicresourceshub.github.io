@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-10T05:41:48.841775+00:00",
+ "generated_at": "2026-09-10T05:43:00.304329+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4663,
+ "count": 4664,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -41052,6 +41052,17 @@
    "issue_date": "2017-02-25",
    "html_url": "/so/family/water-and-life-20170225-5.html",
    "md_url": "/so/family/water-and-life-20170225-5.md"
+  },
+  {
+   "slug": "alcohol-islam-s-ever-relevant-approach-20170225-6",
+   "lang": "so",
+   "category": "fiqh",
+   "title": "Khamriga: Habka Islaamku u wajaho arrintan waa mid weligeed taagan",
+   "summary": "Maqaalkani wuxuu iftiiminayaa mowqifka adag ee Islaamku ka taagan yahay cabitaanka khamriga iyo baahida loo qabo bulsho ka caagan waxyaabaha maanka dooriya. Waxa uu soo bandhigayaa wareysi lala yeeshay madaxweynaha guddiga mamnuucida khamriga oo ka hadlaya khatarta bulsho ee khamriga iyo dadaallada lagu ciribtirayo.",
+   "author": "ഇയ്യച്ചേരി കുഞ്ഞികൃഷ്ണന്‍ / ഷംസീര്‍ മുക്കം",
+   "issue_date": "2017-02-25",
+   "html_url": "/so/fiqh/alcohol-islam-s-ever-relevant-approach-20170225-6.html",
+   "md_url": "/so/fiqh/alcohol-islam-s-ever-relevant-approach-20170225-6.md"
   },
   {
    "slug": "mosque-construction-some-points-to-note-20170325-5",
