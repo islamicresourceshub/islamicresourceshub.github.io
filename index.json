@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-10T05:47:42.018647+00:00",
+ "generated_at": "2026-09-10T05:48:39.355472+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4669,
+ "count": 4670,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -46519,6 +46519,17 @@
    "issue_date": "2017-02-25",
    "html_url": "/tl/family/water-and-life-20170225-5.html",
    "md_url": "/tl/family/water-and-life-20170225-5.md"
+  },
+  {
+   "slug": "alcohol-islam-s-ever-relevant-approach-20170225-6",
+   "lang": "tl",
+   "category": "fiqh",
+   "title": "Alakohol: Ang Walang Hanggang Kaugnayan ng Pananaw ng Islam",
+   "summary": "Binibigyang-diin ng artikulong ito ang mahigpit na paninindigan ng Islam laban sa pag-inom ng alak at ang pangangailangan para sa isang lipunang malaya sa alak. Tinatalakay nito ang mga panlipunang pinsala na dulot ng alak at ang kasaysayan ng pakikibaka para sa pagbabawal nito.",
+   "author": "ഇയ്യച്ചേരി കുഞ്ഞികൃഷ്ണന്‍ / ഷംസീര്‍ മുക്കം",
+   "issue_date": "2017-02-25",
+   "html_url": "/tl/fiqh/alcohol-islam-s-ever-relevant-approach-20170225-6.html",
+   "md_url": "/tl/fiqh/alcohol-islam-s-ever-relevant-approach-20170225-6.md"
   },
   {
    "slug": "mosque-construction-some-points-to-note-20170325-5",
