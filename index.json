@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-10T06:21:43.997719+00:00",
+ "generated_at": "2026-09-10T06:22:55.718680+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4705,
+ "count": 4706,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -44176,6 +44176,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/ta/history/manusmriti-and-the-caste-system-20170218-7.html",
    "md_url": "/ta/history/manusmriti-and-the-caste-system-20170218-7.md"
+  },
+  {
+   "slug": "alcohol-abstinence-or-prohibition-20170225-7",
+   "lang": "ta",
+   "category": "opinion",
+   "title": "மதுவிலக்கா அல்லது மது ஒழிப்பா?",
+   "summary": "மதுவிலக்கை விட, மது இல்லாத ஒரு சமூகத்தை எவ்வாறு கட்டமைக்கலாம் என்பது குறித்த ஆக்கபூர்வமான விவாதம் இது. மதுவுக்கு எதிரான விழிப்புணர்வும், சமூகத்தின் தார்மீகப் பொறுப்புணர்வும் இதில் வலியுறுத்தப்படுகிறது.",
+   "author": "സുഫ്‌യാന്‍ അബ്ദുസ്സലാം",
+   "issue_date": "2017-02-25",
+   "html_url": "/ta/opinion/alcohol-abstinence-or-prohibition-20170225-7.html",
+   "md_url": "/ta/opinion/alcohol-abstinence-or-prohibition-20170225-7.md"
   },
   {
    "slug": "anxieties-of-those-who-deviated-from-the-path-of-ideology-20170225-1",
