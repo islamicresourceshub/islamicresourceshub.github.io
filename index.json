@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-10T05:30:07.020166+00:00",
+ "generated_at": "2026-09-10T05:30:57.225322+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4650,
+ "count": 4651,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -13508,6 +13508,17 @@
    "issue_date": "2017-02-25",
    "html_url": "/it/family/water-and-life-20170225-5.html",
    "md_url": "/it/family/water-and-life-20170225-5.md"
+  },
+  {
+   "slug": "alcohol-islam-s-ever-relevant-approach-20170225-6",
+   "lang": "it",
+   "category": "fiqh",
+   "title": "Alcol: l'approccio dell'Islam è sempre attuale",
+   "summary": "Questo articolo illustra la ferma posizione dell'Islam contro il consumo di alcol e sottolinea la necessità di una società libera dalle dipendenze. Attraverso un'intervista a Iyyacheri Kunjikrishnan, viene esplorato il legame tra la protezione dell'intelletto e il benessere sociale.",
+   "author": "ഇയ്യച്ചേരി കുഞ്ഞികൃഷ്ണന്‍ / ഷംസീര്‍ മുക്കം",
+   "issue_date": "2017-02-25",
+   "html_url": "/it/fiqh/alcohol-islam-s-ever-relevant-approach-20170225-6.html",
+   "md_url": "/it/fiqh/alcohol-islam-s-ever-relevant-approach-20170225-6.md"
   },
   {
    "slug": "mosque-construction-some-points-to-note-20170325-5",
