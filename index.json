@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-10T05:45:57.585204+00:00",
+ "generated_at": "2026-09-10T05:46:49.206847+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4667,
+ "count": 4668,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -44671,6 +44671,17 @@
    "issue_date": "2017-02-25",
    "html_url": "/te/family/water-and-life-20170225-5.html",
    "md_url": "/te/family/water-and-life-20170225-5.md"
+  },
+  {
+   "slug": "alcohol-islam-s-ever-relevant-approach-20170225-6",
+   "lang": "te",
+   "category": "fiqh",
+   "title": "మద్యం: ఇస్లాం దృక్పథం ఎప్పటికీ సముచితమే",
+   "summary": "మద్యపానానికి వ్యతిరేకంగా ఇస్లాం అనుసరిస్తున్న కఠినమైన వైఖరిని మరియు మద్యరహిత సమాజం యొక్క ఆవశ్యకతను ఈ వ్యాసం వివరిస్తుంది. మద్యపాన నిషేధ సమితి అధ్యక్షుడు ఇయ్యచేరి కుంజికృష్ణన్‌తో జరిపిన ఇంటర్వ్యూలోని ముఖ్యాంశాలు ఇక్కడ ఉన్నాయి.",
+   "author": "ഇയ്യച്ചേരി കുഞ്ഞികൃഷ്ണന്‍ / ഷംസീര്‍ മുക്കം",
+   "issue_date": "2017-02-25",
+   "html_url": "/te/fiqh/alcohol-islam-s-ever-relevant-approach-20170225-6.html",
+   "md_url": "/te/fiqh/alcohol-islam-s-ever-relevant-approach-20170225-6.md"
   },
   {
    "slug": "mosque-construction-some-points-to-note-20170325-5",
