@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-10T04:38:12.338083+00:00",
+ "generated_at": "2026-09-10T04:39:21.321805+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4595,
+ "count": 4596,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -49247,6 +49247,17 @@
    "issue_date": "2017-02-04",
    "html_url": "/vi/family/children-an-islamic-reading-part-4-20170204-5.html",
    "md_url": "/vi/family/children-an-islamic-reading-part-4-20170204-5.md"
+  },
+  {
+   "slug": "do-not-invite-water-scarcity-20170225-4",
+   "lang": "vi",
+   "category": "family",
+   "title": "Đừng tự chuốc lấy tình trạng khan hiếm nước",
+   "summary": "Bài viết này nâng cao nhận thức về tầm quan trọng của nước và sự cần thiết phải bảo tồn các nguồn tài nguyên thiên nhiên. Tác giả nhấn mạnh vào thực trạng khan hiếm nước tại Kerala và những giải pháp bền vững dựa trên góc nhìn đạo đức và tôn giáo.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2017-02-25",
+   "html_url": "/vi/family/do-not-invite-water-scarcity-20170225-4.html",
+   "md_url": "/vi/family/do-not-invite-water-scarcity-20170225-4.md"
   },
   {
    "slug": "don-t-worry-allah-is-with-you-20170114-10",
