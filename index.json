@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-10T06:46:20.658276+00:00",
+ "generated_at": "2026-09-10T06:47:29.628769+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4720,
+ "count": 4721,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -6655,6 +6655,17 @@
    "issue_date": "2017-02-11",
    "html_url": "/en/seerah/ibn-abbas-ra-a-scholar-of-knowledge-20170211-4.html",
    "md_url": "/en/seerah/ibn-abbas-ra-a-scholar-of-knowledge-20170211-4.md"
+  },
+  {
+   "slug": "prophet-muhammad-pbuh-life-and-message-20170225-8",
+   "lang": "en",
+   "category": "seerah",
+   "title": "Prophet Muhammad (pbuh): Life and Message",
+   "summary": "A brief overview of the life of Prophet Muhammad (pbuh) and the universal message he brought to the world.",
+   "author": "ഫദ്‌ലുല്‍ ഹഖ് ഉമരി",
+   "issue_date": "2017-02-25",
+   "html_url": "/en/seerah/prophet-muhammad-pbuh-life-and-message-20170225-8.html",
+   "md_url": "/en/seerah/prophet-muhammad-pbuh-life-and-message-20170225-8.md"
   },
   {
    "slug": "prophets-and-trials-20170325-7",
