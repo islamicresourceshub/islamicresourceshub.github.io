@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-10T05:39:43.640939+00:00",
+ "generated_at": "2026-09-10T05:40:40.638049+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4661,
+ "count": 4662,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -39226,6 +39226,17 @@
    "issue_date": "2017-02-25",
    "html_url": "/ru/family/water-and-life-20170225-5.html",
    "md_url": "/ru/family/water-and-life-20170225-5.md"
+  },
+  {
+   "slug": "alcohol-islam-s-ever-relevant-approach-20170225-6",
+   "lang": "ru",
+   "category": "fiqh",
+   "title": "Алкоголь: вечно актуальный подход ислама",
+   "summary": "В этой статье рассматривается строгая позиция ислама в отношении употребления алкоголя и необходимость создания общества, свободного от спиртного. Автор подчеркивает, что только через отказ от алкоголя можно эффективно бороться с социальными пороками.",
+   "author": "ഇയ്യച്ചേരി കുഞ്ഞികൃഷ്ണന്‍ / ഷംസീര്‍ മുക്കം",
+   "issue_date": "2017-02-25",
+   "html_url": "/ru/fiqh/alcohol-islam-s-ever-relevant-approach-20170225-6.html",
+   "md_url": "/ru/fiqh/alcohol-islam-s-ever-relevant-approach-20170225-6.md"
   },
   {
    "slug": "mosque-construction-some-points-to-note-20170325-5",
