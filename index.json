@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-10T05:54:25.988713+00:00",
+ "generated_at": "2026-09-10T05:55:12.778265+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4676,
+ "count": 4677,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -1639,6 +1639,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/ar/history/manusmriti-and-the-caste-system-20170218-7.html",
    "md_url": "/ar/history/manusmriti-and-the-caste-system-20170218-7.md"
+  },
+  {
+   "slug": "alcohol-abstinence-or-prohibition-20170225-7",
+   "lang": "ar",
+   "category": "opinion",
+   "title": "هل المطلوب هو الامتناع عن الخمر أم حظرها؟",
+   "summary": "هذا نقاش بناء حول كيفية بناء مجتمع خالٍ من الخمور، متجاوزاً مجرد المطالبة بالحظر القانوني إلى التركيز على التوعية والمسؤولية الأخلاقية.",
+   "author": "സുഫ്‌യാന്‍ അബ്ദുസ്സലാം",
+   "issue_date": "2017-02-25",
+   "html_url": "/ar/opinion/alcohol-abstinence-or-prohibition-20170225-7.html",
+   "md_url": "/ar/opinion/alcohol-abstinence-or-prohibition-20170225-7.md"
   },
   {
    "slug": "anxieties-of-those-who-deviated-from-the-path-of-ideology-20170225-1",
