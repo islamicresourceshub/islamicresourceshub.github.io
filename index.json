@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-10T05:37:59.026023+00:00",
+ "generated_at": "2026-09-10T05:38:53.713463+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4659,
+ "count": 4660,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -37378,6 +37378,17 @@
    "issue_date": "2017-02-25",
    "html_url": "/ps/family/water-and-life-20170225-5.html",
    "md_url": "/ps/family/water-and-life-20170225-5.md"
+  },
+  {
+   "slug": "alcohol-islam-s-ever-relevant-approach-20170225-6",
+   "lang": "ps",
+   "category": "fiqh",
+   "title": "شراب: د اسلام تلپاتې اړونده تګلاره",
+   "summary": "دا لیکنه د شرابو د څښلو پر وړاندې د اسلام د سخت دریځ او د یوې له شرابو پاکې ټولنې د اړتیا په اړه بحث کوي. د شرابو پر ضد د مبارزې د فعال «اییاچیري کنجي کرشنن» سره د یوې مرکې له لارې، د ټولنیزې تباهۍ په مخنیوي کې د اسلامي لارښوونو پر اهمیت رڼا اچول شوې ده.",
+   "author": "ഇയ്യച്ചേരി കുഞ്ഞികൃഷ്ണന്‍ / ഷംസീര്‍ മുക്കം",
+   "issue_date": "2017-02-25",
+   "html_url": "/ps/fiqh/alcohol-islam-s-ever-relevant-approach-20170225-6.html",
+   "md_url": "/ps/fiqh/alcohol-islam-s-ever-relevant-approach-20170225-6.md"
   },
   {
    "slug": "mosque-construction-some-points-to-note-20170325-5",
