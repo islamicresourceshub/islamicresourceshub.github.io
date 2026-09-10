@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-10T04:48:07.043562+00:00",
+ "generated_at": "2026-09-10T04:49:01.488692+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4605,
+ "count": 4606,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -7887,6 +7887,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/fa/family/thoughts-during-pregnancy-20170218-4.html",
    "md_url": "/fa/family/thoughts-during-pregnancy-20170218-4.md"
+  },
+  {
+   "slug": "water-and-life-20170225-5",
+   "lang": "fa",
+   "category": "family",
+   "title": "آب و حیات",
+   "summary": "این نوشتار به بررسی خشکسالی شدید و بحران کم‌آبی در کرالا می‌پردازد و بر ضرورت مسئولیت‌پذیری اجتماعی و صرفه‌جویی در مصرف آب تأکید می‌کند. همچنین با نگاهی دینی، اهمیت آب به عنوان مایه حیات و ضرورت شکرگزاری و دعا برای نزول رحمت الهی را یادآور می‌شود.",
+   "author": "ഡോ. സി.എം സാബിര്‍ നവാസ്",
+   "issue_date": "2017-02-25",
+   "html_url": "/fa/family/water-and-life-20170225-5.html",
+   "md_url": "/fa/family/water-and-life-20170225-5.md"
   },
   {
    "slug": "mosque-construction-some-points-to-note-20170325-5",
