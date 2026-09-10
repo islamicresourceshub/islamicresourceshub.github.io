@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-10T05:45:09.721932+00:00",
+ "generated_at": "2026-09-10T05:45:57.585204+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4666,
+ "count": 4667,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -43769,6 +43769,17 @@
    "issue_date": "2017-02-25",
    "html_url": "/ta/family/water-and-life-20170225-5.html",
    "md_url": "/ta/family/water-and-life-20170225-5.md"
+  },
+  {
+   "slug": "alcohol-islam-s-ever-relevant-approach-20170225-6",
+   "lang": "ta",
+   "category": "fiqh",
+   "title": "மது: இஸ்லாத்தின் அணுகுமுறை என்றும் பொருத்தமானது",
+   "summary": "மதுபானத்திற்கு எதிராக இஸ்லாம் மேற்கொள்ளும் கடுமையான நிலைப்பாடுகளையும், மதுவற்ற சமூகத்தின் அவசியத்தையும் இந்த கட்டுரை விளக்குகிறது. மதுவிலக்கு போராட்டத்தின் முக்கியத்துவத்தை சமூக ஆர்வலர் இயச்சேரி குஞ்சிகிருஷ்ணன் இதில் பகிர்ந்து கொள்கிறார்.",
+   "author": "ഇയ്യച്ചേരി കുഞ്ഞികൃഷ്ണന്‍ / ഷംസീര്‍ മുക്കം",
+   "issue_date": "2017-02-25",
+   "html_url": "/ta/fiqh/alcohol-islam-s-ever-relevant-approach-20170225-6.html",
+   "md_url": "/ta/fiqh/alcohol-islam-s-ever-relevant-approach-20170225-6.md"
   },
   {
    "slug": "mosque-construction-some-points-to-note-20170325-5",
