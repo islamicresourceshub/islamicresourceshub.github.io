@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-10T03:53:28.832905+00:00",
+ "generated_at": "2026-09-10T03:54:39.200160+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4554,
+ "count": 4555,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -47234,6 +47234,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/ur/hadith/criteria-for-accepting-hadith-20170128-2.html",
    "md_url": "/ur/hadith/criteria-for-accepting-hadith-20170128-2.md"
+  },
+  {
+   "slug": "islamophobia-archetypes-of-ancient-history-20170225-3",
+   "lang": "ur",
+   "category": "history",
+   "title": "اسلامو فوبیا: قدیم تاریخ کے نمونے",
+   "summary": "یہ مضمون اس بات کی وضاحت کرتا ہے کہ تاریخی تناظر میں اسلامو فوبیا کیسے تشکیل پایا اور آج کے دور میں اس کی تاریخ کیسے خود کو دہرا رہی ہے۔",
+   "author": "മുഹമ്മദ് അജ്മല്‍ സി",
+   "issue_date": "2017-02-25",
+   "html_url": "/ur/history/islamophobia-archetypes-of-ancient-history-20170225-3.html",
+   "md_url": "/ur/history/islamophobia-archetypes-of-ancient-history-20170225-3.md"
   },
   {
    "slug": "manusmriti-and-the-caste-system-20170218-7",
