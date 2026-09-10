@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-10T04:56:22.600684+00:00",
+ "generated_at": "2026-09-10T04:57:22.593782+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4613,
+ "count": 4614,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -15169,6 +15169,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/kn/family/thoughts-during-pregnancy-20170218-4.html",
    "md_url": "/kn/family/thoughts-during-pregnancy-20170218-4.md"
+  },
+  {
+   "slug": "water-and-life-20170225-5",
+   "lang": "kn",
+   "category": "family",
+   "title": "ನೀರು ಮತ್ತು ಜೀವನ",
+   "summary": "ಕೇರಳ ಎದುರಿಸುತ್ತಿರುವ ತೀವ್ರ ಬರಗಾಲ ಮತ್ತು ನೀರಿನ ಅಭಾವದ ಕುರಿತು ಈ ಲೇಖನ ಚರ್ಚಿಸುತ್ತದೆ. ಜಲಸಂರಕ್ಷಣೆಗಾಗಿ ಪ್ರತಿಯೊಬ್ಬರೂ ಕೈಗೊಳ್ಳಬೇಕಾದ ಜವಾಬ್ದಾರಿಗಳನ್ನು ಇದು ನೆನಪಿಸುತ್ತದೆ.",
+   "author": "ഡോ. സി.എം സാബിര്‍ നവാസ്",
+   "issue_date": "2017-02-25",
+   "html_url": "/kn/family/water-and-life-20170225-5.html",
+   "md_url": "/kn/family/water-and-life-20170225-5.md"
   },
   {
    "slug": "mosque-construction-some-points-to-note-20170325-5",
