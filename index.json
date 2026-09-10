@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-10T04:40:27.143657+00:00",
+ "generated_at": "2026-09-10T04:41:25.246886+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4597,
+ "count": 4598,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -627,6 +627,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/am/family/thoughts-during-pregnancy-20170218-4.html",
    "md_url": "/am/family/thoughts-during-pregnancy-20170218-4.md"
+  },
+  {
+   "slug": "water-and-life-20170225-5",
+   "lang": "am",
+   "category": "family",
+   "title": "ውሃ እና ህይወት",
+   "summary": "ይህ ጽሁፍ በኬረላ እየተከሰተ ስላለው ከፍተኛ ድርቅ እና የውሃ እጥረት ይወያያል። የውሃ ጥበቃን በተመለከተ እያንዳንዱ ግለሰብ ሊወስዳቸው የሚገቡ እርምጃዎችን ያስታውሳል።",
+   "author": "ഡോ. സി.എം സാബിര്‍ നവാസ്",
+   "issue_date": "2017-02-25",
+   "html_url": "/am/family/water-and-life-20170225-5.html",
+   "md_url": "/am/family/water-and-life-20170225-5.md"
   },
   {
    "slug": "mosque-construction-some-points-to-note-20170325-5",
