@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-10T05:38:53.713463+00:00",
+ "generated_at": "2026-09-10T05:39:43.640939+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4660,
+ "count": 4661,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -38302,6 +38302,17 @@
    "issue_date": "2017-02-25",
    "html_url": "/pt/family/water-and-life-20170225-5.html",
    "md_url": "/pt/family/water-and-life-20170225-5.md"
+  },
+  {
+   "slug": "alcohol-islam-s-ever-relevant-approach-20170225-6",
+   "lang": "pt",
+   "category": "fiqh",
+   "title": "Álcool: A abordagem do Islã é eternamente relevante",
+   "summary": "Este artigo destaca a postura rigorosa do Islã contra o consumo de álcool e a necessidade urgente de uma sociedade livre de bebidas alcoólicas. Através de uma entrevista com o ativista Iyyacheri Kunjikrishnan, o texto explora as raízes sociais desse vício e a importância da sobriedade para a humanidade.",
+   "author": "ഇയ്യച്ചേരി കുഞ്ഞികൃഷ്ണന്‍ / ഷംസീര്‍ മുക്കം",
+   "issue_date": "2017-02-25",
+   "html_url": "/pt/fiqh/alcohol-islam-s-ever-relevant-approach-20170225-6.html",
+   "md_url": "/pt/fiqh/alcohol-islam-s-ever-relevant-approach-20170225-6.md"
   },
   {
    "slug": "mosque-construction-some-points-to-note-20170325-5",
