@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-10T04:57:22.593782+00:00",
+ "generated_at": "2026-09-10T04:58:21.447697+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4614,
+ "count": 4615,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -16071,6 +16071,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/ko/family/thoughts-during-pregnancy-20170218-4.html",
    "md_url": "/ko/family/thoughts-during-pregnancy-20170218-4.md"
+  },
+  {
+   "slug": "water-and-life-20170225-5",
+   "lang": "ko",
+   "category": "family",
+   "title": "물과 생명",
+   "summary": "케랄라주가 직면한 심각한 가뭄과 물 부족 문제를 다루며, 물 보존을 위해 각 개인이 실천해야 할 책임과 역할을 강조합니다.",
+   "author": "ഡോ. സി.എം സാബിര്‍ നവാസ്",
+   "issue_date": "2017-02-25",
+   "html_url": "/ko/family/water-and-life-20170225-5.html",
+   "md_url": "/ko/family/water-and-life-20170225-5.md"
   },
   {
    "slug": "mosque-construction-some-points-to-note-20170325-5",
