@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-10T03:52:26.209563+00:00",
+ "generated_at": "2026-09-10T03:53:28.832905+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4553,
+ "count": 4554,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -46343,6 +46343,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/tr/hadith/criteria-for-accepting-hadith-20170128-2.html",
    "md_url": "/tr/hadith/criteria-for-accepting-hadith-20170128-2.md"
+  },
+  {
+   "slug": "islamophobia-archetypes-of-ancient-history-20170225-3",
+   "lang": "tr",
+   "category": "history",
+   "title": "İslamofobi: Kadim Tarihin Kalıpları",
+   "summary": "Bu makale, İslamofobinin tarihsel arka planını nasıl oluşturduğunu ve günümüzde nasıl tekrarlandığını açıklamaktadır. Müslüman toplumun, Peygamber Efendimizin hayatından ve karşılaştığı zorluklardan alması gereken derslere odaklanmaktadır.",
+   "author": "മുഹമ്മദ് അജ്മല്‍ സി",
+   "issue_date": "2017-02-25",
+   "html_url": "/tr/history/islamophobia-archetypes-of-ancient-history-20170225-3.html",
+   "md_url": "/tr/history/islamophobia-archetypes-of-ancient-history-20170225-3.md"
   },
   {
    "slug": "manusmriti-and-the-caste-system-20170218-7",
