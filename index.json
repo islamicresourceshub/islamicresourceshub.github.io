@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-10T05:03:39.598038+00:00",
+ "generated_at": "2026-09-10T05:04:52.056142+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4620,
+ "count": 4621,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -37114,6 +37114,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/ps/family/thoughts-during-pregnancy-20170218-4.html",
    "md_url": "/ps/family/thoughts-during-pregnancy-20170218-4.md"
+  },
+  {
+   "slug": "water-and-life-20170225-5",
+   "lang": "ps",
+   "category": "family",
+   "title": "اوبه او ژوند",
+   "summary": "دا لیکنه په کیرالا کې د سختې وچکالۍ او د اوبو د کمښت په اړه ده. دا د اوبو د سپما او د ټولنیز مسؤلیت په توګه د اوبو د ساتنې په اهمیت ټینګار کوي.",
+   "author": "ഡോ. സി.എം സാബിര്‍ നവാസ്",
+   "issue_date": "2017-02-25",
+   "html_url": "/ps/family/water-and-life-20170225-5.html",
+   "md_url": "/ps/family/water-and-life-20170225-5.md"
   },
   {
    "slug": "mosque-construction-some-points-to-note-20170325-5",
