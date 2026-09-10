@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-10T04:09:58.848165+00:00",
+ "generated_at": "2026-09-10T04:10:50.901943+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4572,
+ "count": 4573,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -13046,6 +13046,17 @@
    "issue_date": "2017-02-04",
    "html_url": "/it/family/children-an-islamic-reading-part-4-20170204-5.html",
    "md_url": "/it/family/children-an-islamic-reading-part-4-20170204-5.md"
+  },
+  {
+   "slug": "do-not-invite-water-scarcity-20170225-4",
+   "lang": "it",
+   "category": "family",
+   "title": "Non provocate la scarsità d'acqua",
+   "summary": "Questo articolo sensibilizza sull'importanza dell'acqua e sulla necessità di preservare le risorse naturali. Esamina la crisi idrica in Kerala e offre una prospettiva islamica sulla conservazione di questo bene prezioso.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2017-02-25",
+   "html_url": "/it/family/do-not-invite-water-scarcity-20170225-4.html",
+   "md_url": "/it/family/do-not-invite-water-scarcity-20170225-4.md"
   },
   {
    "slug": "don-t-worry-allah-is-with-you-20170114-10",
