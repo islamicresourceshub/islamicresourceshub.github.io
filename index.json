@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-10T06:22:55.718680+00:00",
+ "generated_at": "2026-09-10T06:23:49.667598+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4706,
+ "count": 4707,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -45089,6 +45089,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/te/history/manusmriti-and-the-caste-system-20170218-7.html",
    "md_url": "/te/history/manusmriti-and-the-caste-system-20170218-7.md"
+  },
+  {
+   "slug": "alcohol-abstinence-or-prohibition-20170225-7",
+   "lang": "te",
+   "category": "opinion",
+   "title": "మద్యపాన నిషేధమా లేక మద్యపాన వర్జనమా?",
+   "summary": "మద్యపాన నిషేధం కంటే, మద్యపాన రహిత సమాజాన్ని ఎలా నిర్మించాలనే అంశంపై ఇది ఒక నిర్మాణాత్మక చర్చ. చట్టాల కంటే ప్రజల్లో వచ్చే మార్పు మరియు అవగాహన ప్రాముఖ్యతను ఇది వివరిస్తుంది.",
+   "author": "സുഫ്‌യാന്‍ അബ്ദുസ്സലാം",
+   "issue_date": "2017-02-25",
+   "html_url": "/te/opinion/alcohol-abstinence-or-prohibition-20170225-7.html",
+   "md_url": "/te/opinion/alcohol-abstinence-or-prohibition-20170225-7.md"
   },
   {
    "slug": "anxieties-of-those-who-deviated-from-the-path-of-ideology-20170225-1",
