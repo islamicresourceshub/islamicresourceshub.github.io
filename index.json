@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-10T04:09:07.853350+00:00",
+ "generated_at": "2026-09-10T04:09:58.848165+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4571,
+ "count": 4572,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -12155,6 +12155,17 @@
    "issue_date": "2017-02-04",
    "html_url": "/id/family/children-an-islamic-reading-part-4-20170204-5.html",
    "md_url": "/id/family/children-an-islamic-reading-part-4-20170204-5.md"
+  },
+  {
+   "slug": "do-not-invite-water-scarcity-20170225-4",
+   "lang": "id",
+   "category": "family",
+   "title": "Jangan Mengundang Kelangkaan Air",
+   "summary": "Artikel ini memberikan kesadaran mengenai pentingnya air dan perlunya melestarikan sumber daya alam. Tulisan ini juga menyoroti krisis air di Kerala serta perspektif Islam dalam menjaga kelestarian air.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2017-02-25",
+   "html_url": "/id/family/do-not-invite-water-scarcity-20170225-4.html",
+   "md_url": "/id/family/do-not-invite-water-scarcity-20170225-4.md"
   },
   {
    "slug": "don-t-worry-allah-is-with-you-20170114-10",
