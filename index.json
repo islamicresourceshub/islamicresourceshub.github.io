@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-10T06:19:38.584741+00:00",
+ "generated_at": "2026-09-10T06:20:42.422411+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4703,
+ "count": 4704,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -42339,6 +42339,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/sq/history/manusmriti-and-the-caste-system-20170218-7.html",
    "md_url": "/sq/history/manusmriti-and-the-caste-system-20170218-7.md"
+  },
+  {
+   "slug": "alcohol-abstinence-or-prohibition-20170225-7",
+   "lang": "sq",
+   "category": "opinion",
+   "title": "Abstinencë nga alkooli apo ndalim i tij?",
+   "summary": "Ky është një diskutim konstruktiv se si të ndërtojmë një shoqëri pa alkool, përtej thjesht ndalimit të tij me ligj. Fokusimi duhet të jetë te ndërgjegjësimi dhe përpjekjet e sinqerta për të çrrënjosur këtë ves nga rrënjët.",
+   "author": "സുഫ്‌യാന്‍ അബ്ദുസ്സലാം",
+   "issue_date": "2017-02-25",
+   "html_url": "/sq/opinion/alcohol-abstinence-or-prohibition-20170225-7.html",
+   "md_url": "/sq/opinion/alcohol-abstinence-or-prohibition-20170225-7.md"
   },
   {
    "slug": "anxieties-of-those-who-deviated-from-the-path-of-ideology-20170225-1",
