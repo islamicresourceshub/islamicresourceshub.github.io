@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-10T04:19:12.803508+00:00",
+ "generated_at": "2026-09-10T04:20:01.726722+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4583,
+ "count": 4584,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -38522,6 +38522,17 @@
    "issue_date": "2017-02-04",
    "html_url": "/ru/family/children-an-islamic-reading-part-4-20170204-5.html",
    "md_url": "/ru/family/children-an-islamic-reading-part-4-20170204-5.md"
+  },
+  {
+   "slug": "do-not-invite-water-scarcity-20170225-4",
+   "lang": "ru",
+   "category": "family",
+   "title": "Не провоцируйте дефицит воды",
+   "summary": "Эта статья посвящена важности воды и необходимости бережного отношения к природным ресурсам. В ней рассматриваются причины нехватки воды в Керале и предлагаются пути решения проблемы через призму экологической ответственности и исламского вероучения.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2017-02-25",
+   "html_url": "/ru/family/do-not-invite-water-scarcity-20170225-4.html",
+   "md_url": "/ru/family/do-not-invite-water-scarcity-20170225-4.md"
   },
   {
    "slug": "don-t-worry-allah-is-with-you-20170114-10",
