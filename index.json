@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-10T04:20:54.545396+00:00",
+ "generated_at": "2026-09-10T04:21:47.942728+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4585,
+ "count": 4586,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -40304,6 +40304,17 @@
    "issue_date": "2017-02-04",
    "html_url": "/so/family/children-an-islamic-reading-part-4-20170204-5.html",
    "md_url": "/so/family/children-an-islamic-reading-part-4-20170204-5.md"
+  },
+  {
+   "slug": "do-not-invite-water-scarcity-20170225-4",
+   "lang": "so",
+   "category": "family",
+   "title": "Ha u yeerin abaar iyo biyo yari",
+   "summary": "Maqaalkani wuxuu iftiiminayaa muhiimadda biyaha iyo baahida loo qabo in la ilaaliyo khayraadka dabiiciga ah. Waxa kale oo uu ka hadlayaa xaaladda biyaha ee Kerala iyo sida Islaamku u dhiirrigeliyo ilaalinta biyaha.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2017-02-25",
+   "html_url": "/so/family/do-not-invite-water-scarcity-20170225-4.html",
+   "md_url": "/so/family/do-not-invite-water-scarcity-20170225-4.md"
   },
   {
    "slug": "don-t-worry-allah-is-with-you-20170114-10",
