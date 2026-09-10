@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-10T05:30:57.225322+00:00",
+ "generated_at": "2026-09-10T05:31:48.814843+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4651,
+ "count": 4652,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -14432,6 +14432,17 @@
    "issue_date": "2017-02-25",
    "html_url": "/ja/family/water-and-life-20170225-5.html",
    "md_url": "/ja/family/water-and-life-20170225-5.md"
+  },
+  {
+   "slug": "alcohol-islam-s-ever-relevant-approach-20170225-6",
+   "lang": "ja",
+   "category": "fiqh",
+   "title": "アルコール：イスラームの変わらぬアプローチ",
+   "summary": "本稿では、飲酒に対するイスラームの厳格な姿勢と、アルコールのない社会を築くことの重要性について論じます。アルコール禁止運動のリーダーであるイヤチェリ・クンジクリシュナン氏へのインタビューを通じ、社会悪としての飲酒と、それに対する宗教的・社会的視点を紐解きます。",
+   "author": "ഇയ്യച്ചേരി കുഞ്ഞികൃഷ്ണന്‍ / ഷംസീര്‍ മുക്കം",
+   "issue_date": "2017-02-25",
+   "html_url": "/ja/fiqh/alcohol-islam-s-ever-relevant-approach-20170225-6.html",
+   "md_url": "/ja/fiqh/alcohol-islam-s-ever-relevant-approach-20170225-6.md"
   },
   {
    "slug": "mosque-construction-some-points-to-note-20170325-5",
