@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-10T04:51:04.093970+00:00",
+ "generated_at": "2026-09-10T04:52:16.327937+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4608,
+ "count": 4609,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -10626,6 +10626,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/ha/family/thoughts-during-pregnancy-20170218-4.html",
    "md_url": "/ha/family/thoughts-during-pregnancy-20170218-4.md"
+  },
+  {
+   "slug": "water-and-life-20170225-5",
+   "lang": "ha",
+   "category": "family",
+   "title": "Ruwa da Rayuwa",
+   "summary": "Wannan rubutu yana tattauna matsananciyar fari da karancin ruwa da jihar Kerala ke fuskanta. Yana tunatar da kowa nauyin da ya rataya a wuyansa na kare albarkatun ruwa.",
+   "author": "ഡോ. സി.എം സാബിര്‍ നവാസ്",
+   "issue_date": "2017-02-25",
+   "html_url": "/ha/family/water-and-life-20170225-5.html",
+   "md_url": "/ha/family/water-and-life-20170225-5.md"
   },
   {
    "slug": "mosque-construction-some-points-to-note-20170325-5",
