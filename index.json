@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-10T05:19:40.033455+00:00",
+ "generated_at": "2026-09-10T05:20:39.207115+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4638,
+ "count": 4639,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -2475,6 +2475,17 @@
    "issue_date": "2017-02-25",
    "html_url": "/as/family/water-and-life-20170225-5.html",
    "md_url": "/as/family/water-and-life-20170225-5.md"
+  },
+  {
+   "slug": "alcohol-islam-s-ever-relevant-approach-20170225-6",
+   "lang": "as",
+   "category": "fiqh",
+   "title": "মদ: ইছলামৰ দৃষ্টিভংগী চিৰপ্ৰাসংগিক",
+   "summary": "এই প্ৰবন্ধটোৱে মদ্যপানৰ বিৰুদ্ধে ইছলামে গ্ৰহণ কৰা কঠোৰ স্থিতি আৰু এক নিচামুক্ত সমাজৰ প্ৰয়োজনীয়তাৰ ওপৰত আলোকপাত কৰে। ইয়াৰ জৰিয়তে সমাজৰ পৰা অপৰাধ আৰু অৰাজকতা নিৰ্মূল কৰাৰ বাবে মদ্যপান বৰ্জনৰ গুৰুত্ব ব্যাখ্যা কৰা হৈছে।",
+   "author": "ഇയ്യച്ചേരി കുഞ്ഞികൃഷ്ണന്‍ / ഷംസീര്‍ മുക്കം",
+   "issue_date": "2017-02-25",
+   "html_url": "/as/fiqh/alcohol-islam-s-ever-relevant-approach-20170225-6.html",
+   "md_url": "/as/fiqh/alcohol-islam-s-ever-relevant-approach-20170225-6.md"
   },
   {
    "slug": "mosque-construction-some-points-to-note-20170325-5",
