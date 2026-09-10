@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-10T05:34:28.350289+00:00",
+ "generated_at": "2026-09-10T05:35:23.216193+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4655,
+ "count": 4656,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -33704,6 +33704,17 @@
    "issue_date": "2017-02-25",
    "html_url": "/ms/family/water-and-life-20170225-5.html",
    "md_url": "/ms/family/water-and-life-20170225-5.md"
+  },
+  {
+   "slug": "alcohol-islam-s-ever-relevant-approach-20170225-6",
+   "lang": "ms",
+   "category": "fiqh",
+   "title": "Arak: Pendekatan Islam yang Sentiasa Relevan",
+   "summary": "Artikel ini membincangkan pendirian tegas Islam terhadap pengambilan arak serta keperluan mendesak untuk mewujudkan masyarakat yang bebas daripada gejala minuman keras. Ia turut memaparkan temu bual bersama aktivis anti-arak mengenai perjuangan menentang kemusnahan sosial yang berpunca daripada arak.",
+   "author": "ഇയ്യച്ചേരി കുഞ്ഞികൃഷ്ണന്‍ / ഷംസീര്‍ മുക്കം",
+   "issue_date": "2017-02-25",
+   "html_url": "/ms/fiqh/alcohol-islam-s-ever-relevant-approach-20170225-6.html",
+   "md_url": "/ms/fiqh/alcohol-islam-s-ever-relevant-approach-20170225-6.md"
   },
   {
    "slug": "mosque-construction-some-points-to-note-20170325-5",
