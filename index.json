@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-10T04:14:53.519844+00:00",
+ "generated_at": "2026-09-10T04:15:45.022976+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4578,
+ "count": 4579,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -34034,6 +34034,17 @@
    "issue_date": "2017-02-04",
    "html_url": "/ne/family/children-an-islamic-reading-part-4-20170204-5.html",
    "md_url": "/ne/family/children-an-islamic-reading-part-4-20170204-5.md"
+  },
+  {
+   "slug": "do-not-invite-water-scarcity-20170225-4",
+   "lang": "ne",
+   "category": "family",
+   "title": "पानीको अभाव निम्त्याउनु हुँदैन",
+   "summary": "यो लेखले पानीको महत्त्व र प्राकृतिक स्रोतहरूको संरक्षण गर्नुपर्ने आवश्यकताको बारेमा सचेतना जगाउँछ।",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2017-02-25",
+   "html_url": "/ne/family/do-not-invite-water-scarcity-20170225-4.html",
+   "md_url": "/ne/family/do-not-invite-water-scarcity-20170225-4.md"
   },
   {
    "slug": "don-t-worry-allah-is-with-you-20170114-10",
