@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-10T05:37:04.398508+00:00",
+ "generated_at": "2026-09-10T05:37:59.026023+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4658,
+ "count": 4659,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -36465,6 +36465,17 @@
    "issue_date": "2017-02-25",
    "html_url": "/pa/family/water-and-life-20170225-5.html",
    "md_url": "/pa/family/water-and-life-20170225-5.md"
+  },
+  {
+   "slug": "alcohol-islam-s-ever-relevant-approach-20170225-6",
+   "lang": "pa",
+   "category": "fiqh",
+   "title": "ਸ਼ਰਾਬ: ਇਸਲਾਮ ਦਾ ਸਦੀਵੀ ਪ੍ਰਸੰਗਿਕ ਨਜ਼ਰੀਆ",
+   "summary": "ਇਹ ਲੇਖ ਸ਼ਰਾਬਨੋਸ਼ੀ ਦੇ ਵਿਰੁੱਧ ਇਸਲਾਮ ਦੁਆਰਾ ਅਪਣਾਏ ਗਏ ਸਖ਼ਤ ਰੁਖ਼ ਅਤੇ ਸ਼ਰਾਬ-ਮੁਕਤ ਸਮਾਜ ਦੀ ਲੋੜ ਬਾਰੇ ਚਰਚਾ ਕਰਦਾ ਹੈ।",
+   "author": "ഇയ്യച്ചേരി കുഞ്ഞികൃഷ്ണന്‍ / ഷംസീര്‍ മുക്കം",
+   "issue_date": "2017-02-25",
+   "html_url": "/pa/fiqh/alcohol-islam-s-ever-relevant-approach-20170225-6.html",
+   "md_url": "/pa/fiqh/alcohol-islam-s-ever-relevant-approach-20170225-6.md"
   },
   {
    "slug": "mosque-construction-some-points-to-note-20170325-5",
