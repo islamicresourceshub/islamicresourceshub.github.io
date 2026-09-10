@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-10T04:41:25.246886+00:00",
+ "generated_at": "2026-09-10T04:42:26.232002+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4598,
+ "count": 4599,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -1529,6 +1529,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/ar/family/thoughts-during-pregnancy-20170218-4.html",
    "md_url": "/ar/family/thoughts-during-pregnancy-20170218-4.md"
+  },
+  {
+   "slug": "water-and-life-20170225-5",
+   "lang": "ar",
+   "category": "family",
+   "title": "الماء والحياة",
+   "summary": "يتناول هذا المقال أزمة الجفاف ونقص المياه الحادة التي تواجهها ولاية كيرالا، ويذكر بضرورة اتخاذ خطوات عملية للحفاظ على المياه كمسؤولية فردية ومجتمعية.",
+   "author": "ഡോ. സി.എം സാബിര്‍ നവാസ്",
+   "issue_date": "2017-02-25",
+   "html_url": "/ar/family/water-and-life-20170225-5.html",
+   "md_url": "/ar/family/water-and-life-20170225-5.md"
   },
   {
    "slug": "mosque-construction-some-points-to-note-20170325-5",
