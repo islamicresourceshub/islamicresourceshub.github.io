@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-10T05:25:04.401413+00:00",
+ "generated_at": "2026-09-10T05:25:56.466236+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4644,
+ "count": 4645,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -7986,6 +7986,17 @@
    "issue_date": "2017-02-25",
    "html_url": "/fa/family/water-and-life-20170225-5.html",
    "md_url": "/fa/family/water-and-life-20170225-5.md"
+  },
+  {
+   "slug": "alcohol-islam-s-ever-relevant-approach-20170225-6",
+   "lang": "fa",
+   "category": "fiqh",
+   "title": "مشروبات الکلی: رویکرد همواره مرتبط اسلام",
+   "summary": "این مقاله به بررسی مواضع قاطع اسلام در برابر مصرف الکل و ضرورت ایجاد جامعه‌ای عاری از مشروبات الکلی می‌پردازد. این متن شامل گفتگویی با «اییاچری کونجیکریشنان»، رئیس کمیته منع مشروبات الکلی، درباره چالش‌های اجتماعی و دیدگاه‌های اسلامی در این زمینه است.",
+   "author": "ഇയ്യച്ചേരി കുഞ്ഞികൃഷ്ണന്‍ / ഷംസീര്‍ മുക്കം",
+   "issue_date": "2017-02-25",
+   "html_url": "/fa/fiqh/alcohol-islam-s-ever-relevant-approach-20170225-6.html",
+   "md_url": "/fa/fiqh/alcohol-islam-s-ever-relevant-approach-20170225-6.md"
   },
   {
    "slug": "mosque-construction-some-points-to-note-20170325-5",
