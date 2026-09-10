@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-10T05:26:46.475716+00:00",
+ "generated_at": "2026-09-10T05:27:32.127719+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4646,
+ "count": 4647,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -9834,6 +9834,17 @@
    "issue_date": "2017-02-25",
    "html_url": "/gu/family/water-and-life-20170225-5.html",
    "md_url": "/gu/family/water-and-life-20170225-5.md"
+  },
+  {
+   "slug": "alcohol-islam-s-ever-relevant-approach-20170225-6",
+   "lang": "gu",
+   "category": "fiqh",
+   "title": "દારૂ: ઇસ્લામનો અભિગમ જે હંમેશા પ્રસ્તુત છે",
+   "summary": "આ લેખ દારૂના સેવન સામે ઇસ્લામ દ્વારા લેવામાં આવેલા કડક વલણ અને દારૂમુક્ત સમાજની આવશ્યકતા પર પ્રકાશ પાડે છે.",
+   "author": "ഇയ്യച്ചേരി കുഞ്ഞികൃഷ്ണന്‍ / ഷംസീര്‍ മുക്കം",
+   "issue_date": "2017-02-25",
+   "html_url": "/gu/fiqh/alcohol-islam-s-ever-relevant-approach-20170225-6.html",
+   "md_url": "/gu/fiqh/alcohol-islam-s-ever-relevant-approach-20170225-6.md"
   },
   {
    "slug": "mosque-construction-some-points-to-note-20170325-5",
