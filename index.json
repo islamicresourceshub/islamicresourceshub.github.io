@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-10T06:24:50.125589+00:00",
+ "generated_at": "2026-09-10T06:26:00.371276+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4708,
+ "count": 4709,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -46959,6 +46959,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/tl/history/manusmriti-and-the-caste-system-20170218-7.html",
    "md_url": "/tl/history/manusmriti-and-the-caste-system-20170218-7.md"
+  },
+  {
+   "slug": "alcohol-abstinence-or-prohibition-20170225-7",
+   "lang": "tl",
+   "category": "opinion",
+   "title": "Abstinence o Pagbabawal sa Alak?",
+   "summary": "Ito ay isang mapanuring talakayan tungkol sa kung paano bumuo ng isang lipunang malaya sa alak, sa halip na umasa lamang sa pagbabawal nito.",
+   "author": "സുഫ്‌യാന്‍ അബ്ദുസ്സലാം",
+   "issue_date": "2017-02-25",
+   "html_url": "/tl/opinion/alcohol-abstinence-or-prohibition-20170225-7.html",
+   "md_url": "/tl/opinion/alcohol-abstinence-or-prohibition-20170225-7.md"
   },
   {
    "slug": "anxieties-of-those-who-deviated-from-the-path-of-ideology-20170225-1",
