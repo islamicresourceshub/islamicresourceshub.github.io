@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-10T05:17:09.311841+00:00",
+ "generated_at": "2026-09-10T05:17:57.386084+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4635,
+ "count": 4636,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -50710,6 +50710,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/zh/family/thoughts-during-pregnancy-20170218-4.html",
    "md_url": "/zh/family/thoughts-during-pregnancy-20170218-4.md"
+  },
+  {
+   "slug": "water-and-life-20170225-5",
+   "lang": "zh",
+   "category": "family",
+   "title": "水与生命",
+   "summary": "本文探讨了喀拉拉邦目前面临的严重干旱和缺水危机，并提醒每个人在日常生活中应承担起节约用水的社会责任。",
+   "author": "ഡോ. സി.എം സാബിര്‍ നവാസ്",
+   "issue_date": "2017-02-25",
+   "html_url": "/zh/family/water-and-life-20170225-5.html",
+   "md_url": "/zh/family/water-and-life-20170225-5.md"
   },
   {
    "slug": "mosque-construction-some-points-to-note-20170325-5",
