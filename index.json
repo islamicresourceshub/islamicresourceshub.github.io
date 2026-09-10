@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-10T04:22:28.904048+00:00",
+ "generated_at": "2026-09-10T04:23:16.914050+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4587,
+ "count": 4588,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -42086,6 +42086,17 @@
    "issue_date": "2017-02-04",
    "html_url": "/sw/family/children-an-islamic-reading-part-4-20170204-5.html",
    "md_url": "/sw/family/children-an-islamic-reading-part-4-20170204-5.md"
+  },
+  {
+   "slug": "do-not-invite-water-scarcity-20170225-4",
+   "lang": "sw",
+   "category": "family",
+   "title": "Usijitafutie Uhaba wa Maji",
+   "summary": "Makala hii inatoa elimu kuhusu umuhimu wa maji na hitaji la kuhifadhi maliasili ili kuepuka uhaba wa maji katika siku zijazo.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2017-02-25",
+   "html_url": "/sw/family/do-not-invite-water-scarcity-20170225-4.html",
+   "md_url": "/sw/family/do-not-invite-water-scarcity-20170225-4.md"
   },
   {
    "slug": "don-t-worry-allah-is-with-you-20170114-10",
