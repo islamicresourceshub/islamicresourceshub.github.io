@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-10T05:31:48.814843+00:00",
+ "generated_at": "2026-09-10T05:32:44.281100+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4652,
+ "count": 4653,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -15356,6 +15356,17 @@
    "issue_date": "2017-02-25",
    "html_url": "/kn/family/water-and-life-20170225-5.html",
    "md_url": "/kn/family/water-and-life-20170225-5.md"
+  },
+  {
+   "slug": "alcohol-islam-s-ever-relevant-approach-20170225-6",
+   "lang": "kn",
+   "category": "fiqh",
+   "title": "ಮದ್ಯಪಾನ: ಇಸ್ಲಾಮಿನ ದೃಷ್ಟಿಕೋನ ಮತ್ತು ಅದರ ಶಾಶ್ವತ ಪ್ರಸ್ತುತತೆ",
+   "summary": "ಮದ್ಯಪಾನದ ವಿರುದ್ಧ ಇಸ್ಲಾಂ ಹೊಂದಿರುವ ಕಠಿಣ ನಿಲುವುಗಳನ್ನು ಮತ್ತು ಮದ್ಯಮುಕ್ತ ಸಮಾಜದ ಅಗತ್ಯತೆಯನ್ನು ಈ ಲೇಖನವು ವಿವರಿಸುತ್ತದೆ. ಮದ್ಯಪಾನವು ಎಲ್ಲಾ ದುಷ್ಟತನಗಳ ಮೂಲವಾಗಿದೆ ಎಂದು ಪ್ರತಿಪಾದಿಸುತ್ತಾ, ಸಮಾಜದ ಸುಧಾರಣೆಗೆ ಮದ್ಯಪಾನ ನಿಷೇಧ ಎಷ್ಟು ಅನಿವಾರ್ಯ ಎಂಬುದನ್ನು ಇಲ್ಲಿ ಚರ್ಚಿಸಲಾಗಿದೆ.",
+   "author": "ഇയ്യച്ചേരി കുഞ്ഞികൃഷ്ണന്‍ / ഷംസീര്‍ മുക്കം",
+   "issue_date": "2017-02-25",
+   "html_url": "/kn/fiqh/alcohol-islam-s-ever-relevant-approach-20170225-6.html",
+   "md_url": "/kn/fiqh/alcohol-islam-s-ever-relevant-approach-20170225-6.md"
   },
   {
    "slug": "mosque-construction-some-points-to-note-20170325-5",
