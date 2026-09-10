@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-10T06:18:34.537509+00:00",
+ "generated_at": "2026-09-10T06:19:38.584741+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4702,
+ "count": 4703,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -41426,6 +41426,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/so/history/manusmriti-and-the-caste-system-20170218-7.html",
    "md_url": "/so/history/manusmriti-and-the-caste-system-20170218-7.md"
+  },
+  {
+   "slug": "alcohol-abstinence-or-prohibition-20170225-7",
+   "lang": "so",
+   "category": "opinion",
+   "title": "Ka-reeb-idda khamriga mise mamnuucitaan?",
+   "summary": "Kani waa dood wax ku ool ah oo ku saabsan sidii loo dhisi lahaa bulsho ka caagan khamriga, taas oo ka muhiimsan kaliya mamnuucida khamriga.",
+   "author": "സുഫ്‌യാന്‍ അബ്ദുസ്സലാം",
+   "issue_date": "2017-02-25",
+   "html_url": "/so/opinion/alcohol-abstinence-or-prohibition-20170225-7.html",
+   "md_url": "/so/opinion/alcohol-abstinence-or-prohibition-20170225-7.md"
   },
   {
    "slug": "anxieties-of-those-who-deviated-from-the-path-of-ideology-20170225-1",
