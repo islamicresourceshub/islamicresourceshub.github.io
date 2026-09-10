@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-10T05:51:44.823524+00:00",
+ "generated_at": "2026-09-10T05:52:37.677664+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4673,
+ "count": 4674,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -50215,6 +50215,17 @@
    "issue_date": "2017-02-25",
    "html_url": "/vi/family/water-and-life-20170225-5.html",
    "md_url": "/vi/family/water-and-life-20170225-5.md"
+  },
+  {
+   "slug": "alcohol-islam-s-ever-relevant-approach-20170225-6",
+   "lang": "vi",
+   "category": "fiqh",
+   "title": "Rượu bia: Cách tiếp cận của Hồi giáo vẫn luôn mang tính thời đại",
+   "summary": "Bài viết này làm rõ lập trường cứng rắn của Hồi giáo đối với việc uống rượu bia và sự cần thiết của một xã hội không cồn. Đây là cuộc phỏng vấn giữa Shamsheer Mukkam và Iyyacheri Kunjikrishnan, chủ tịch Ủy ban Cấm rượu, về những thách thức trong việc xây dựng một xã hội lành mạnh.",
+   "author": "ഇയ്യച്ചേരി കുഞ്ഞികൃഷ്ണന്‍ / ഷംസീര്‍ മുക്കം",
+   "issue_date": "2017-02-25",
+   "html_url": "/vi/fiqh/alcohol-islam-s-ever-relevant-approach-20170225-6.html",
+   "md_url": "/vi/fiqh/alcohol-islam-s-ever-relevant-approach-20170225-6.md"
   },
   {
    "slug": "mosque-construction-some-points-to-note-20170325-5",
