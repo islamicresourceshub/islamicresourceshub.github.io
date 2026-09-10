@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-10T05:33:36.209642+00:00",
+ "generated_at": "2026-09-10T05:34:28.350289+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4654,
+ "count": 4655,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -32802,6 +32802,17 @@
    "issue_date": "2017-02-25",
    "html_url": "/mr/family/water-and-life-20170225-5.html",
    "md_url": "/mr/family/water-and-life-20170225-5.md"
+  },
+  {
+   "slug": "alcohol-islam-s-ever-relevant-approach-20170225-6",
+   "lang": "mr",
+   "category": "fiqh",
+   "title": "मद्यपान: इस्लामचा दृष्टिकोन आणि त्याची शाश्वत प्रासंगिकता",
+   "summary": "हे लेख मद्यपानाविरुद्ध इस्लामने घेतलेली कठोर भूमिका आणि मद्यमुक्त समाजाची आवश्यकता यावर प्रकाश टाकते. मद्यपान हे सर्व वाईट गोष्टींचे मूळ असल्याचे सांगत, लेखकाने मद्यनिषेध चळवळीतील आपल्या अनुभवांचे कथन केले आहे.",
+   "author": "ഇയ്യച്ചേരി കുഞ്ഞികൃഷ്ണന്‍ / ഷംസീര്‍ മുക്കം",
+   "issue_date": "2017-02-25",
+   "html_url": "/mr/fiqh/alcohol-islam-s-ever-relevant-approach-20170225-6.html",
+   "md_url": "/mr/fiqh/alcohol-islam-s-ever-relevant-approach-20170225-6.md"
   },
   {
    "slug": "mosque-construction-some-points-to-note-20170325-5",
