@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-10T05:28:26.172350+00:00",
+ "generated_at": "2026-09-10T05:29:16.932324+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4648,
+ "count": 4649,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -11671,6 +11671,17 @@
    "issue_date": "2017-02-25",
    "html_url": "/hi/family/water-and-life-20170225-5.html",
    "md_url": "/hi/family/water-and-life-20170225-5.md"
+  },
+  {
+   "slug": "alcohol-islam-s-ever-relevant-approach-20170225-6",
+   "lang": "hi",
+   "category": "fiqh",
+   "title": "मदिरा: इस्लाम का दृष्टिकोण और उसकी शाश्वत प्रासंगिकता",
+   "summary": "यह लेख मद्यपान के विरुद्ध इस्लाम के कठोर रुख और एक नशामुक्त समाज की आवश्यकता पर प्रकाश डालता है। इसमें मद्यपान निषेध समिति के अध्यक्ष इय्याचेरी कुंजिकृष्णन के साथ हुए एक साक्षात्कार के माध्यम से सामाजिक बुराइयों को मिटाने में इस्लाम की भूमिका पर चर्चा की गई है।",
+   "author": "ഇയ്യച്ചേരി കുഞ്ഞികൃഷ്ണന്‍ / ഷംസീര്‍ മുക്കം",
+   "issue_date": "2017-02-25",
+   "html_url": "/hi/fiqh/alcohol-islam-s-ever-relevant-approach-20170225-6.html",
+   "md_url": "/hi/fiqh/alcohol-islam-s-ever-relevant-approach-20170225-6.md"
   },
   {
    "slug": "mosque-construction-some-points-to-note-20170325-5",
