@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-10T04:28:17.281711+00:00",
+ "generated_at": "2026-09-10T04:38:12.338083+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4594,
+ "count": 4595,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -48345,6 +48345,17 @@
    "issue_date": "2017-02-04",
    "html_url": "/uz/family/children-an-islamic-reading-part-4-20170204-5.html",
    "md_url": "/uz/family/children-an-islamic-reading-part-4-20170204-5.md"
+  },
+  {
+   "slug": "do-not-invite-water-scarcity-20170225-4",
+   "lang": "uz",
+   "category": "family",
+   "title": "Suv tanqisligini o'zingiz chaqirmang",
+   "summary": "Ushbu maqola suvning hayotimizdagi ahamiyati hamda tabiiy resurslarni asrab-avaylash zarurati haqida ogohlantiradi. U suv tanqisligi muammosini tahlil qilib, islomiy nuqtai nazardan suvni tejash muhimligini ta'kidlaydi.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2017-02-25",
+   "html_url": "/uz/family/do-not-invite-water-scarcity-20170225-4.html",
+   "md_url": "/uz/family/do-not-invite-water-scarcity-20170225-4.md"
   },
   {
    "slug": "don-t-worry-allah-is-with-you-20170114-10",
