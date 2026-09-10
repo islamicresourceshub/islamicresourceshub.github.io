@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-10T05:32:44.281100+00:00",
+ "generated_at": "2026-09-10T05:33:36.209642+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4653,
+ "count": 4654,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -16269,6 +16269,17 @@
    "issue_date": "2017-02-25",
    "html_url": "/ko/family/water-and-life-20170225-5.html",
    "md_url": "/ko/family/water-and-life-20170225-5.md"
+  },
+  {
+   "slug": "alcohol-islam-s-ever-relevant-approach-20170225-6",
+   "lang": "ko",
+   "category": "fiqh",
+   "title": "술: 이슬람의 시각은 언제나 유효하다",
+   "summary": "이 글은 술에 대해 이슬람이 취하는 엄격한 입장과 술 없는 사회의 필요성을 강조합니다. 술 반대 운동가인 이야체리 쿤지크리슈난과의 인터뷰를 통해 알코올이 사회에 미치는 악영향과 이슬람의 금주 원칙을 살펴봅니다.",
+   "author": "ഇയ്യച്ചേരി കുഞ്ഞികൃഷ്ണന്‍ / ഷംസീര്‍ മുക്കം",
+   "issue_date": "2017-02-25",
+   "html_url": "/ko/fiqh/alcohol-islam-s-ever-relevant-approach-20170225-6.html",
+   "md_url": "/ko/fiqh/alcohol-islam-s-ever-relevant-approach-20170225-6.md"
   },
   {
    "slug": "mosque-construction-some-points-to-note-20170325-5",
