@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-10T03:32:34.718506+00:00",
+ "generated_at": "2026-09-10T03:33:38.621893+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4536,
+ "count": 4537,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -15730,6 +15730,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/ko/hadith/criteria-for-accepting-hadith-20170128-2.html",
    "md_url": "/ko/hadith/criteria-for-accepting-hadith-20170128-2.md"
+  },
+  {
+   "slug": "islamophobia-archetypes-of-ancient-history-20170225-3",
+   "lang": "ko",
+   "category": "history",
+   "title": "이슬람 혐오증: 고대 역사의 원형",
+   "summary": "이 글은 이슬람 혐오증이 역사적 맥락에서 어떻게 형성되었고, 현대에 어떻게 반복되는지를 설명합니다.",
+   "author": "മുഹമ്മദ് അജ്മല്‍ സി",
+   "issue_date": "2017-02-25",
+   "html_url": "/ko/history/islamophobia-archetypes-of-ancient-history-20170225-3.html",
+   "md_url": "/ko/history/islamophobia-archetypes-of-ancient-history-20170225-3.md"
   },
   {
    "slug": "manusmriti-and-the-caste-system-20170218-7",
