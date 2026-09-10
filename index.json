@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-10T06:59:15.244392+00:00",
+ "generated_at": "2026-09-10T07:00:23.583938+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4729,
+ "count": 4730,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -16071,6 +16071,17 @@
    "issue_date": "2017-02-11",
    "html_url": "/kn/seerah/ibn-abbas-ra-a-scholar-of-knowledge-20170211-4.html",
    "md_url": "/kn/seerah/ibn-abbas-ra-a-scholar-of-knowledge-20170211-4.md"
+  },
+  {
+   "slug": "prophet-muhammad-pbuh-life-and-message-20170225-8",
+   "lang": "kn",
+   "category": "seerah",
+   "title": "ಪ್ರವಾದಿ ಮುಹಮ್ಮದ್ (ಸ): ಜೀವನ ಮತ್ತು ಸಂದೇಶ",
+   "summary": "ಪ್ರವಾದಿ ಮುಹಮ್ಮದ್ (ಸ) ಅವರ ಜೀವನ ಮತ್ತು ಅವರು ಜಗತ್ತಿಗೆ ನೀಡಿದ ಸಂದೇಶಗಳ ಕುರಿತಾದ ಕಿರು ಪರಿಚಯ.",
+   "author": "ഫദ്‌ലുല്‍ ഹഖ് ഉമരി",
+   "issue_date": "2017-02-25",
+   "html_url": "/kn/seerah/prophet-muhammad-pbuh-life-and-message-20170225-8.html",
+   "md_url": "/kn/seerah/prophet-muhammad-pbuh-life-and-message-20170225-8.md"
   },
   {
    "slug": "prophets-and-trials-20170325-7",
