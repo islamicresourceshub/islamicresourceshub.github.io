@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-10T05:21:31.606254+00:00",
+ "generated_at": "2026-09-10T05:22:26.094055+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4640,
+ "count": 4641,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -4312,6 +4312,17 @@
    "issue_date": "2017-02-25",
    "html_url": "/bs/family/water-and-life-20170225-5.html",
    "md_url": "/bs/family/water-and-life-20170225-5.md"
+  },
+  {
+   "slug": "alcohol-islam-s-ever-relevant-approach-20170225-6",
+   "lang": "bs",
+   "category": "fiqh",
+   "title": "Alkohol: Islamski pristup koji je uvijek aktuelan",
+   "summary": "Ovaj članak pojašnjava stroge stavove koje islam zauzima protiv konzumacije alkohola i naglašava prijeku potrebu za društvom oslobođenim od alkoholizma. Kroz intervju sa aktivistom, tekst istražuje duhovne i društvene razloge zbog kojih je alkoholizam prepoznat kao korijen svih zala.",
+   "author": "ഇയ്യച്ചേരി കുഞ്ഞികൃഷ്ണന്‍ / ഷംസീര്‍ മുക്കം",
+   "issue_date": "2017-02-25",
+   "html_url": "/bs/fiqh/alcohol-islam-s-ever-relevant-approach-20170225-6.html",
+   "md_url": "/bs/fiqh/alcohol-islam-s-ever-relevant-approach-20170225-6.md"
   },
   {
    "slug": "mosque-construction-some-points-to-note-20170325-5",
