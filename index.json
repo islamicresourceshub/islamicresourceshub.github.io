@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-10T03:47:49.360933+00:00",
+ "generated_at": "2026-09-10T03:48:51.200434+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4548,
+ "count": 4549,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -41943,6 +41943,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/sw/hadith/criteria-for-accepting-hadith-20170128-2.html",
    "md_url": "/sw/hadith/criteria-for-accepting-hadith-20170128-2.md"
+  },
+  {
+   "slug": "islamophobia-archetypes-of-ancient-history-20170225-3",
+   "lang": "sw",
+   "category": "history",
+   "title": "Uislamuphobia: Mifano ya Kihistoria ya Kale",
+   "summary": "Makala haya yanaelezea jinsi chuki dhidi ya Uislamu ilivyojitokeza katika muktadha wa kihistoria na jinsi inavyojirudia katika ulimwengu wa sasa. Inatoa mwongozo wa jinsi ya kukabiliana na changamoto hizi kwa kuzingatia mafunzo ya maisha ya Mtume Muhammad (SAW).",
+   "author": "മുഹമ്മദ് അജ്മല്‍ സി",
+   "issue_date": "2017-02-25",
+   "html_url": "/sw/history/islamophobia-archetypes-of-ancient-history-20170225-3.html",
+   "md_url": "/sw/history/islamophobia-archetypes-of-ancient-history-20170225-3.md"
   },
   {
    "slug": "manusmriti-and-the-caste-system-20170218-7",
