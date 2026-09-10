@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-10T06:41:17.359271+00:00",
+ "generated_at": "2026-09-10T06:42:28.106235+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4716,
+ "count": 4717,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -2893,6 +2893,17 @@
    "issue_date": "2017-02-11",
    "html_url": "/as/seerah/ibn-abbas-ra-a-scholar-of-knowledge-20170211-4.html",
    "md_url": "/as/seerah/ibn-abbas-ra-a-scholar-of-knowledge-20170211-4.md"
+  },
+  {
+   "slug": "prophet-muhammad-pbuh-life-and-message-20170225-8",
+   "lang": "as",
+   "category": "seerah",
+   "title": "মুহাম্মদ নবী (ছঃ): জীৱন আৰু বাৰ্তা",
+   "summary": "প্ৰৱক্তা মুহাম্মদ (ছঃ)-ৰ জীৱন আৰু তেওঁ বিশ্ববাসীক দি যোৱা মহান বাৰ্তাসমূহৰ এক চমু পৰিচয়।",
+   "author": "ഫദ്‌ലുല്‍ ഹഖ് ഉമരി",
+   "issue_date": "2017-02-25",
+   "html_url": "/as/seerah/prophet-muhammad-pbuh-life-and-message-20170225-8.html",
+   "md_url": "/as/seerah/prophet-muhammad-pbuh-life-and-message-20170225-8.md"
   },
   {
    "slug": "prophets-and-trials-20170325-7",
