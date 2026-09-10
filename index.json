@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-10T04:13:22.028005+00:00",
+ "generated_at": "2026-09-10T04:14:05.562181+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4576,
+ "count": 4577,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -32263,6 +32263,17 @@
    "issue_date": "2017-02-04",
    "html_url": "/mr/family/children-an-islamic-reading-part-4-20170204-5.html",
    "md_url": "/mr/family/children-an-islamic-reading-part-4-20170204-5.md"
+  },
+  {
+   "slug": "do-not-invite-water-scarcity-20170225-4",
+   "lang": "mr",
+   "category": "family",
+   "title": "पाणीटंचाई ओढवून घेऊ नका",
+   "summary": "हा लेख पाण्याच्या महत्त्वावर आणि नैसर्गिक संसाधने जपण्याच्या गरजेवर प्रकाश टाकतो. जलसंधारण आणि पावसाच्या पाण्याचे नियोजन कसे महत्त्वाचे आहे, हे यात स्पष्ट केले आहे.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2017-02-25",
+   "html_url": "/mr/family/do-not-invite-water-scarcity-20170225-4.html",
+   "md_url": "/mr/family/do-not-invite-water-scarcity-20170225-4.md"
   },
   {
    "slug": "don-t-worry-allah-is-with-you-20170114-10",
