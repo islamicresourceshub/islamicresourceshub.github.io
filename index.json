@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-10T05:04:52.056142+00:00",
+ "generated_at": "2026-09-10T05:06:00.768274+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4621,
+ "count": 4622,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -38027,6 +38027,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/pt/family/thoughts-during-pregnancy-20170218-4.html",
    "md_url": "/pt/family/thoughts-during-pregnancy-20170218-4.md"
+  },
+  {
+   "slug": "water-and-life-20170225-5",
+   "lang": "pt",
+   "category": "family",
+   "title": "Água e Vida",
+   "summary": "Este artigo aborda a grave seca e a escassez de água que o estado de Kerala enfrenta atualmente. Ele destaca a necessidade urgente de conservação da água e a responsabilidade social de cada indivíduo em preservar este recurso vital.",
+   "author": "ഡോ. സി.എം സാബിര്‍ നവാസ്",
+   "issue_date": "2017-02-25",
+   "html_url": "/pt/family/water-and-life-20170225-5.html",
+   "md_url": "/pt/family/water-and-life-20170225-5.md"
   },
   {
    "slug": "mosque-construction-some-points-to-note-20170325-5",
