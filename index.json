@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-10T05:52:37.677664+00:00",
+ "generated_at": "2026-09-10T05:53:30.606539+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4674,
+ "count": 4675,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -51139,6 +51139,17 @@
    "issue_date": "2017-02-25",
    "html_url": "/zh/family/water-and-life-20170225-5.html",
    "md_url": "/zh/family/water-and-life-20170225-5.md"
+  },
+  {
+   "slug": "alcohol-islam-s-ever-relevant-approach-20170225-6",
+   "lang": "zh",
+   "category": "fiqh",
+   "title": "酒精：伊斯兰教始终如一的立场",
+   "summary": "本文阐述了伊斯兰教对饮酒行为的严厉立场，并强调了建立无酒精社会的重要性。通过对禁酒运动人士的采访，文章探讨了酒精对社会的危害以及宗教教义在禁酒运动中的指导作用。",
+   "author": "ഇയ്യച്ചേരി കുഞ്ഞികൃഷ്ണന്‍ / ഷംസീര്‍ മുക്കം",
+   "issue_date": "2017-02-25",
+   "html_url": "/zh/fiqh/alcohol-islam-s-ever-relevant-approach-20170225-6.html",
+   "md_url": "/zh/fiqh/alcohol-islam-s-ever-relevant-approach-20170225-6.md"
   },
   {
    "slug": "mosque-construction-some-points-to-note-20170325-5",
