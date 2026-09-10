@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-10T05:35:23.216193+00:00",
+ "generated_at": "2026-09-10T05:36:07.499924+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4656,
+ "count": 4657,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -34628,6 +34628,17 @@
    "issue_date": "2017-02-25",
    "html_url": "/ne/family/water-and-life-20170225-5.html",
    "md_url": "/ne/family/water-and-life-20170225-5.md"
+  },
+  {
+   "slug": "alcohol-islam-s-ever-relevant-approach-20170225-6",
+   "lang": "ne",
+   "category": "fiqh",
+   "title": "मदिरा: इस्लामको दृष्टिकोण सधैं सान्दर्भिक",
+   "summary": "यस लेखले मदिरापान विरुद्ध इस्लामले अपनाएको कडा अडान र मदिरामुक्त समाजको आवश्यकतालाई स्पष्ट पार्छ। मदिरापानलाई सबै खराबीको जड मान्दै, यसले कसरी समाजलाई विनाशको बाटोमा लैजान्छ भन्ने कुरामा जोड दिइएको छ।",
+   "author": "ഇയ്യച്ചേരി കുഞ്ഞികൃഷ്ണന്‍ / ഷംസീര്‍ മുക്കം",
+   "issue_date": "2017-02-25",
+   "html_url": "/ne/fiqh/alcohol-islam-s-ever-relevant-approach-20170225-6.html",
+   "md_url": "/ne/fiqh/alcohol-islam-s-ever-relevant-approach-20170225-6.md"
   },
   {
    "slug": "mosque-construction-some-points-to-note-20170325-5",
