@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-10T05:17:57.386084+00:00",
+ "generated_at": "2026-09-10T05:18:44.947075+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4636,
+ "count": 4637,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -638,6 +638,17 @@
    "issue_date": "2017-02-25",
    "html_url": "/am/family/water-and-life-20170225-5.html",
    "md_url": "/am/family/water-and-life-20170225-5.md"
+  },
+  {
+   "slug": "alcohol-islam-s-ever-relevant-approach-20170225-6",
+   "lang": "am",
+   "category": "fiqh",
+   "title": "አልኮል፡ የእስልምና ዘላለማዊ ተገቢነት ያለው አቋም",
+   "summary": "ይህ መጣጥፍ እስልምና በአልኮል መጠጥ ላይ የሚወስደውን ጥብቅ አቋም እና ከአልኮል ነፃ የሆነ ማህበረሰብ መገንባት ያለውን አስፈላጊነት ይዳስሳል።",
+   "author": "ഇയ്യച്ചേരി കുഞ്ഞികൃഷ്ണന്‍ / ഷംസീര്‍ മുക്കം",
+   "issue_date": "2017-02-25",
+   "html_url": "/am/fiqh/alcohol-islam-s-ever-relevant-approach-20170225-6.html",
+   "md_url": "/am/fiqh/alcohol-islam-s-ever-relevant-approach-20170225-6.md"
   },
   {
    "slug": "mosque-construction-some-points-to-note-20170325-5",
