@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-10T05:09:45.630910+00:00",
+ "generated_at": "2026-09-10T05:10:23.970332+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4626,
+ "count": 4627,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -42548,6 +42548,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/sw/family/thoughts-during-pregnancy-20170218-4.html",
    "md_url": "/sw/family/thoughts-during-pregnancy-20170218-4.md"
+  },
+  {
+   "slug": "water-and-life-20170225-5",
+   "lang": "sw",
+   "category": "family",
+   "title": "Maji na Uhai",
+   "summary": "Makala hii inazungumzia ukame mkali na uhaba wa maji unaolikabili jimbo la Kerala. Inatukumbusha wajibu wa kila mmoja wetu katika kuhifadhi rasilimali hii muhimu ya maji.",
+   "author": "ഡോ. സി.എം സാബിര്‍ നവാസ്",
+   "issue_date": "2017-02-25",
+   "html_url": "/sw/family/water-and-life-20170225-5.html",
+   "md_url": "/sw/family/water-and-life-20170225-5.md"
   },
   {
    "slug": "mosque-construction-some-points-to-note-20170325-5",
