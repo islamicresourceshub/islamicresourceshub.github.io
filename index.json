@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-10T06:02:12.888360+00:00",
+ "generated_at": "2026-09-10T06:03:06.906842+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4685,
+ "count": 4686,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -10021,6 +10021,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/gu/history/manusmriti-and-the-caste-system-20170218-7.html",
    "md_url": "/gu/history/manusmriti-and-the-caste-system-20170218-7.md"
+  },
+  {
+   "slug": "alcohol-abstinence-or-prohibition-20170225-7",
+   "lang": "gu",
+   "category": "opinion",
+   "title": "દારૂનો ત્યાગ કે દારૂબંધી?",
+   "summary": "આ લેખ દારૂબંધી કરતાં પણ વધુ મહત્વના એવા દારૂમુક્ત સમાજનું નિર્માણ કેવી રીતે કરી શકાય, તે અંગેની એક રચનાત્મક ચર્ચા છે.",
+   "author": "സുഫ്‌യാന്‍ അബ്ദുസ്സലാം",
+   "issue_date": "2017-02-25",
+   "html_url": "/gu/opinion/alcohol-abstinence-or-prohibition-20170225-7.html",
+   "md_url": "/gu/opinion/alcohol-abstinence-or-prohibition-20170225-7.md"
   },
   {
    "slug": "anxieties-of-those-who-deviated-from-the-path-of-ideology-20170225-1",
