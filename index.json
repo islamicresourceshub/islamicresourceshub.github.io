@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-10T05:20:39.207115+00:00",
+ "generated_at": "2026-09-10T05:21:31.606254+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4639,
+ "count": 4640,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -3388,6 +3388,17 @@
    "issue_date": "2017-02-25",
    "html_url": "/bn/family/water-and-life-20170225-5.html",
    "md_url": "/bn/family/water-and-life-20170225-5.md"
+  },
+  {
+   "slug": "alcohol-islam-s-ever-relevant-approach-20170225-6",
+   "lang": "bn",
+   "category": "fiqh",
+   "title": "মদ: ইসলামের চিরপ্রাসঙ্গিক দৃষ্টিভঙ্গি",
+   "summary": "এই নিবন্ধটি মদ্যপানের বিরুদ্ধে ইসলামের কঠোর অবস্থান এবং একটি মাদকমুক্ত সমাজের প্রয়োজনীয়তা নিয়ে আলোচনা করে। মদ্যপানবিরোধী আন্দোলনের কর্মী ইয়াচেরি কুঞ্জিকৃষ্ণনের সাথে একটি সাক্ষাৎকারের মাধ্যমে এখানে সামাজিক অবক্ষয় রোধে ইসলামের দিকনির্দেশনা তুলে ধরা হয়েছে।",
+   "author": "ഇയ്യച്ചേരി കുഞ്ഞികൃഷ്ണന്‍ / ഷംസീര്‍ മുക്കം",
+   "issue_date": "2017-02-25",
+   "html_url": "/bn/fiqh/alcohol-islam-s-ever-relevant-approach-20170225-6.html",
+   "md_url": "/bn/fiqh/alcohol-islam-s-ever-relevant-approach-20170225-6.md"
   },
   {
    "slug": "mosque-construction-some-points-to-note-20170325-5",
