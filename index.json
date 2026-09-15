@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T12:45:46.611897+00:00",
+ "generated_at": "2026-09-15T12:46:49.360669+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5153,
+ "count": 5154,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -12749,6 +12749,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/ha/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.html",
    "md_url": "/ha/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.md"
+  },
+  {
+   "slug": "surah-ash-shu-ara-the-poets-20260822-7",
+   "lang": "ha",
+   "category": "quran",
+   "title": "Surah Ash-Shu'ara - Mawaka",
+   "summary": "Wannan fassarar tafsirin ayoyin Surah Ash-Shu'ara ce. Tana bayyana tarihin annabawa da kiran da suka yi wa mutanensu zuwa ga tafarkin gaskiya.",
+   "author": "അബ്ദുറഹ്മാനുബ്നു നാസിറുസ്സഅ്ദി",
+   "issue_date": "2026-08-22",
+   "html_url": "/ha/quran/surah-ash-shu-ara-the-poets-20260822-7.html",
+   "md_url": "/ha/quran/surah-ash-shu-ara-the-poets-20260822-7.md"
   },
   {
    "slug": "universal-calls-in-the-quran-19-truth-falsehood-and-human-fr-20260822-3",
