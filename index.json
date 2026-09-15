@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T12:04:15.773771+00:00",
+ "generated_at": "2026-09-15T12:05:09.552692+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5105,
+ "count": 5106,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -2959,6 +2959,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/as/opinion/everyone-should-have-a-beard-20170121-3.html",
    "md_url": "/as/opinion/everyone-should-have-a-beard-20170121-3.md"
+  },
+  {
+   "slug": "freedom-for-what-20260822-6",
+   "lang": "as",
+   "category": "opinion",
+   "title": "কিয় স্বাধীনতা?",
+   "summary": "স্বাধীনতা শব্দটোৰ আৰত আজি চলি থকা অৰাজকতা আৰু ভুল প্ৰৱণতাসমূহক সমালোচনাৰে বিশ্লেষণ কৰা এক প্ৰবন্ধ।",
+   "author": "നസീമ വാദാനപ്പള്ളി",
+   "issue_date": "2026-08-22",
+   "html_url": "/as/opinion/freedom-for-what-20260822-6.html",
+   "md_url": "/as/opinion/freedom-for-what-20260822-6.md"
   },
   {
    "slug": "freedom-of-speech-should-not-be-one-sided-20170211-1",
