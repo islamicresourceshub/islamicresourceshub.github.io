@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T11:57:52.497926+00:00",
+ "generated_at": "2026-09-15T11:58:47.418088+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5098,
+ "count": 5099,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -51139,6 +51139,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/tr/aqeedah/become-the-guardian-of-the-sources-20170128-9.html",
    "md_url": "/tr/aqeedah/become-the-guardian-of-the-sources-20170128-9.md"
+  },
+  {
+   "slug": "celebrating-nabi-day-is-un-islamic-20260822-5",
+   "lang": "tr",
+   "category": "aqeedah",
+   "title": "Mevlid Kandili Kutlaması İslam Dışı Bir Uygulamadır",
+   "summary": "Yazar, Mevlid Kandili kutlamalarının İslami kaynaklarda hiçbir temeli olmadığını ve dinde sonradan ortaya çıkarılmış bir bidat olduğunu savunmaktadır.",
+   "author": "ആദിൽ നിസാമുദ്ദീൻ",
+   "issue_date": "2026-08-22",
+   "html_url": "/tr/aqeedah/celebrating-nabi-day-is-un-islamic-20260822-5.html",
+   "md_url": "/tr/aqeedah/celebrating-nabi-day-is-un-islamic-20260822-5.md"
   },
   {
    "slug": "faith-is-the-foundation-of-islam-20170128-13",
