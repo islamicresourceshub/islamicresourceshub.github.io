@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T11:04:43.108240+00:00",
+ "generated_at": "2026-09-15T11:05:36.990820+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5042,
+ "count": 5043,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -18227,6 +18227,17 @@
    "issue_date": "2026-08-22",
    "html_url": "/ko/health/know-this-for-those-caring-for-the-sick-20260822-1.html",
    "md_url": "/ko/health/know-this-for-those-caring-for-the-sick-20260822-1.md"
+  },
+  {
+   "slug": "when-menstruating-20260822-4",
+   "lang": "ko",
+   "category": "health",
+   "title": "초경을 맞이할 때",
+   "summary": "이 글은 소녀들의 첫 월경에 관한 과학적 지식과 그 시기에 필요한 위생 관리, 그리고 종교적 규범에 대해 상세히 설명합니다.",
+   "author": "ഡോ. റഫീദ കെ.",
+   "issue_date": "2026-08-22",
+   "html_url": "/ko/health/when-menstruating-20260822-4.html",
+   "md_url": "/ko/health/when-menstruating-20260822-4.md"
   },
   {
    "slug": "islamophobia-archetypes-of-ancient-history-20170225-3",
