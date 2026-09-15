@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T09:36:03.356959+00:00",
+ "generated_at": "2026-09-15T09:37:07.094936+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4985,
+ "count": 4986,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -54098,6 +54098,17 @@
    "issue_date": "2017-02-04",
    "html_url": "/zh/aqeedah/they-want-to-see-god-20170204-2.html",
    "md_url": "/zh/aqeedah/they-want-to-see-god-20170204-2.md"
+  },
+  {
+   "slug": "who-is-wrong-in-ideology-20260822-2",
+   "lang": "zh",
+   "category": "aqeedah",
+   "title": "究竟是谁在信仰上误入歧途？",
+   "summary": "本文是对一篇批评萨拉菲复兴运动文章的回应。文章深入探讨了认主独一（Tawhid）的基本原则，并澄清了关于以物配主（Shirk）的常见误解。",
+   "author": "മൂസ സുലൈമാൻ കാര",
+   "issue_date": "2026-08-22",
+   "html_url": "/zh/aqeedah/who-is-wrong-in-ideology-20260822-2.html",
+   "md_url": "/zh/aqeedah/who-is-wrong-in-ideology-20260822-2.md"
   },
   {
    "slug": "do-not-be-slaves-to-desires-20170211-11",
