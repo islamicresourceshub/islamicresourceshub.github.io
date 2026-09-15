@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T08:54:26.001420+00:00",
+ "generated_at": "2026-09-15T08:55:28.061642+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4951,
+ "count": 4952,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -4290,6 +4290,17 @@
    "issue_date": "2017-02-04",
    "html_url": "/bs/aqeedah/they-want-to-see-god-20170204-2.html",
    "md_url": "/bs/aqeedah/they-want-to-see-god-20170204-2.md"
+  },
+  {
+   "slug": "who-is-wrong-in-ideology-20260822-2",
+   "lang": "bs",
+   "category": "aqeedah",
+   "title": "Ko je zalutao u ideologiji?",
+   "summary": "Ovaj članak je odgovor na kritiku upućenu selefijskom reformističkom pokretu. Autor raspravlja o temeljnim principima tevhida i zabludama vezanim za širk.",
+   "author": "മൂസ സുലൈമാൻ കാര",
+   "issue_date": "2026-08-22",
+   "html_url": "/bs/aqeedah/who-is-wrong-in-ideology-20260822-2.html",
+   "md_url": "/bs/aqeedah/who-is-wrong-in-ideology-20260822-2.md"
   },
   {
    "slug": "do-not-be-slaves-to-desires-20170211-11",
