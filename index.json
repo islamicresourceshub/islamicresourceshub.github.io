@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T11:42:20.860216+00:00",
+ "generated_at": "2026-09-15T11:43:13.560925+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5082,
+ "count": 5083,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -34573,6 +34573,17 @@
    "issue_date": "2018-06-16",
    "html_url": "/ml/youth/when-bidding-farewell-to-the-holy-month-20180616-9.html",
    "md_url": "/ml/youth/when-bidding-farewell-to-the-holy-month-20180616-9.md"
+  },
+  {
+   "slug": "celebrating-nabi-day-is-un-islamic-20260822-5",
+   "lang": "mr",
+   "category": "aqeedah",
+   "title": "नबीदिनाचे आयोजन पूर्णपणे अनैसर्गिक",
+   "summary": "नबीदिनाच्या उत्सवाला इस्लामिक प्रमाणग्रंथांमध्ये कोणताही आधार नाही आणि हा धर्मात नव्याने घुसलेला एक प्रकारचा विधी आहे, असे लेखक या लेखात मांडतात.",
+   "author": "ആദിൽ നിസാമുദ്ദീൻ",
+   "issue_date": "2026-08-22",
+   "html_url": "/mr/aqeedah/celebrating-nabi-day-is-un-islamic-20260822-5.html",
+   "md_url": "/mr/aqeedah/celebrating-nabi-day-is-un-islamic-20260822-5.md"
   },
   {
    "slug": "faith-is-the-foundation-of-islam-20170128-13",
