@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T09:25:40.574998+00:00",
+ "generated_at": "2026-09-15T09:26:56.371038+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4975,
+ "count": 4976,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -44033,6 +44033,17 @@
    "issue_date": "2017-02-04",
    "html_url": "/sq/aqeedah/they-want-to-see-god-20170204-2.html",
    "md_url": "/sq/aqeedah/they-want-to-see-god-20170204-2.md"
+  },
+  {
+   "slug": "who-is-wrong-in-ideology-20260822-2",
+   "lang": "sq",
+   "category": "aqeedah",
+   "title": "Kush ka gabuar në ideologji?",
+   "summary": "Ky artikull është një përgjigje ndaj një shkrimi që kritikonte lëvizjen reformiste Selefi. Ai trajton parimet themelore të Teuhidit dhe sqaron keqkuptimet rreth Shirkut.",
+   "author": "മൂസ സുലൈമാൻ കാര",
+   "issue_date": "2026-08-22",
+   "html_url": "/sq/aqeedah/who-is-wrong-in-ideology-20260822-2.html",
+   "md_url": "/sq/aqeedah/who-is-wrong-in-ideology-20260822-2.md"
   },
   {
    "slug": "do-not-be-slaves-to-desires-20170211-11",
