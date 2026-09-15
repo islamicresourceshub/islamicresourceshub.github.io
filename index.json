@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T10:57:31.987213+00:00",
+ "generated_at": "2026-09-15T10:58:29.517613+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5035,
+ "count": 5036,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -11022,6 +11022,17 @@
    "issue_date": "2026-08-22",
    "html_url": "/gu/health/know-this-for-those-caring-for-the-sick-20260822-1.html",
    "md_url": "/gu/health/know-this-for-those-caring-for-the-sick-20260822-1.md"
+  },
+  {
+   "slug": "when-menstruating-20260822-4",
+   "lang": "gu",
+   "category": "health",
+   "title": "ઋતુમતી થતી વખતે",
+   "summary": "આ લેખ કિશોરીઓમાં થતા પ્રથમ માસિક ધર્મ વિશે વૈજ્ઞાનિક સમજ, તે સમયની સ્વચ્છતા અને ધાર્મિક નિયમો વિશે વિગતવાર માહિતી આપે છે.",
+   "author": "ഡോ. റഫീദ കെ.",
+   "issue_date": "2026-08-22",
+   "html_url": "/gu/health/when-menstruating-20260822-4.html",
+   "md_url": "/gu/health/when-menstruating-20260822-4.md"
   },
   {
    "slug": "islamophobia-archetypes-of-ancient-history-20170225-3",
