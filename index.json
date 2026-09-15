@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T04:45:54.008656+00:00",
+ "generated_at": "2026-09-15T04:46:49.760086+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4765,
+ "count": 4766,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -13013,6 +13013,17 @@
    "issue_date": "2017-02-25",
    "html_url": "/id/family/water-and-life-20170225-5.html",
    "md_url": "/id/family/water-and-life-20170225-5.md"
+  },
+  {
+   "slug": "welcoming-the-newborn-20170225-9",
+   "lang": "id",
+   "category": "family",
+   "title": "Menyambut Tamu Baru",
+   "summary": "Sebagai bagian dari seri parenting Islami, artikel ini memberikan panduan bagi orang tua mengenai hal-hal yang perlu diperhatikan setelah kelahiran buah hati.",
+   "author": "അശ്‌റഫ് എകരൂല്‍",
+   "issue_date": "2017-02-25",
+   "html_url": "/id/family/welcoming-the-newborn-20170225-9.html",
+   "md_url": "/id/family/welcoming-the-newborn-20170225-9.md"
   },
   {
    "slug": "alcohol-islam-s-ever-relevant-approach-20170225-6",
