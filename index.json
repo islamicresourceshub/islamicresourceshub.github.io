@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T09:04:08.582278+00:00",
+ "generated_at": "2026-09-15T09:05:10.267557+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4961,
+ "count": 4962,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -14355,6 +14355,17 @@
    "issue_date": "2017-02-04",
    "html_url": "/it/aqeedah/they-want-to-see-god-20170204-2.html",
    "md_url": "/it/aqeedah/they-want-to-see-god-20170204-2.md"
+  },
+  {
+   "slug": "who-is-wrong-in-ideology-20260822-2",
+   "lang": "it",
+   "category": "aqeedah",
+   "title": "Chi ha deviato dall'ideologia?",
+   "summary": "Questo articolo risponde a una critica mossa contro il movimento di riforma salafita, analizzando i principi fondamentali del Tawhid e chiarendo i malintesi riguardanti lo Shirk. L'autore confuta le argomentazioni che giustificano la richiesta di aiuto ai defunti, sottolineando l'importanza di attenersi alle prove scritturali.",
+   "author": "മൂസ സുലൈമാൻ കാര",
+   "issue_date": "2026-08-22",
+   "html_url": "/it/aqeedah/who-is-wrong-in-ideology-20260822-2.html",
+   "md_url": "/it/aqeedah/who-is-wrong-in-ideology-20260822-2.md"
   },
   {
    "slug": "do-not-be-slaves-to-desires-20170211-11",
