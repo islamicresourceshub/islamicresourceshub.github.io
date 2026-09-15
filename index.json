@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T14:17:42.235164+00:00",
+ "generated_at": "2026-09-15T14:18:59.898272+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5218,
+ "count": 5219,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -56474,6 +56474,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/vi/story/laws-are-to-be-followed-20170128-5.html",
    "md_url": "/vi/story/laws-are-to-be-followed-20170128-5.md"
+  },
+  {
+   "slug": "my-pen-20260822-8",
+   "lang": "vi",
+   "category": "story",
+   "title": "Ngòi bút của tôi",
+   "summary": "Một bài thơ về cách những trải nghiệm cuộc sống và ký ức hóa thành thơ ca và những câu chuyện qua từng con chữ.",
+   "author": "നദ ജബീൻ സി. പി.",
+   "issue_date": "2026-08-22",
+   "html_url": "/vi/story/my-pen-20260822-8.html",
+   "md_url": "/vi/story/my-pen-20260822-8.md"
   },
   {
    "slug": "sugar-like-gold-dust-20170128-11",
