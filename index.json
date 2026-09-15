@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T10:29:45.356248+00:00",
+ "generated_at": "2026-09-15T10:30:46.745532+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5025,
+ "count": 5026,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -737,6 +737,17 @@
    "issue_date": "2026-08-22",
    "html_url": "/am/health/know-this-for-those-caring-for-the-sick-20260822-1.html",
    "md_url": "/am/health/know-this-for-those-caring-for-the-sick-20260822-1.md"
+  },
+  {
+   "slug": "when-menstruating-20260822-4",
+   "lang": "am",
+   "category": "health",
+   "title": "የጉርምስና ወቅት ሲደርስ",
+   "summary": "ይህ ጽሑፍ በሴት ልጆች ላይ ስለሚከሰት የመጀመሪያ የወር አበባ ሳይንሳዊ ግንዛቤ፣ በዚያ ወቅት መከተል ስላለባቸው የንጽህና አጠባበቅ ዘዴዎች እና ሃይማኖታዊ ሕጎች በዝርዝር ያብራራል።",
+   "author": "ഡോ. റഫീദ കെ.",
+   "issue_date": "2026-08-22",
+   "html_url": "/am/health/when-menstruating-20260822-4.html",
+   "md_url": "/am/health/when-menstruating-20260822-4.md"
   },
   {
    "slug": "islamophobia-archetypes-of-ancient-history-20170225-3",
