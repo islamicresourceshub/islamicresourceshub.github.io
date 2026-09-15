@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T11:20:38.273254+00:00",
+ "generated_at": "2026-09-15T11:21:34.201463+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5059,
+ "count": 5060,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -51271,6 +51271,17 @@
    "issue_date": "2026-08-22",
    "html_url": "/tr/health/know-this-for-those-caring-for-the-sick-20260822-1.html",
    "md_url": "/tr/health/know-this-for-those-caring-for-the-sick-20260822-1.md"
+  },
+  {
+   "slug": "when-menstruating-20260822-4",
+   "lang": "tr",
+   "category": "health",
+   "title": "Ergenlik Döneminde İlk Adet",
+   "summary": "Bu makale, kız çocuklarında ilk adet dönemiyle ilgili bilimsel bilgileri, bu süreçte dikkat edilmesi gereken hijyen kurallarını ve dini hükümleri açıklamaktadır.",
+   "author": "ഡോ. റഫീദ കെ.",
+   "issue_date": "2026-08-22",
+   "html_url": "/tr/health/when-menstruating-20260822-4.html",
+   "md_url": "/tr/health/when-menstruating-20260822-4.md"
   },
   {
    "slug": "islamophobia-archetypes-of-ancient-history-20170225-3",
