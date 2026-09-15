@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T06:24:02.640678+00:00",
+ "generated_at": "2026-09-15T06:24:56.629109+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4855,
+ "count": 4856,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -40392,6 +40392,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/ru/dawah/the-message-of-equality-20170121-11.html",
    "md_url": "/ru/dawah/the-message-of-equality-20170121-11.md"
+  },
+  {
+   "slug": "the-path-to-peace-20170225-11",
+   "lang": "ru",
+   "category": "dawah",
+   "title": "Путь к душевному покою",
+   "summary": "В статье рассматриваются пути к обретению мира и спокойствия, которые ислам предлагает современному человеку, теряющему душевное равновесие на фоне растущего материального благополучия. Автор анализирует причины стрессов и предлагает практические советы по достижению гармонии через веру и правильный образ жизни.",
+   "author": "ശമീര്‍ മദീനി",
+   "issue_date": "2017-02-25",
+   "html_url": "/ru/dawah/the-path-to-peace-20170225-11.html",
+   "md_url": "/ru/dawah/the-path-to-peace-20170225-11.md"
   },
   {
    "slug": "the-religion-that-rejects-terrorism-part-1-20170121-12",
