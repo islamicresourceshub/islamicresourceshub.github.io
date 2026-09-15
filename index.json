@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T11:52:27.202193+00:00",
+ "generated_at": "2026-09-15T11:53:22.410638+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5093,
+ "count": 5094,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -45969,6 +45969,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/sw/aqeedah/become-the-guardian-of-the-sources-20170128-9.html",
    "md_url": "/sw/aqeedah/become-the-guardian-of-the-sources-20170128-9.md"
+  },
+  {
+   "slug": "celebrating-nabi-day-is-un-islamic-20260822-5",
+   "lang": "sw",
+   "category": "aqeedah",
+   "title": "Sherehe ya Maulid ni kinyume na Uislamu",
+   "summary": "Mwandishi anasisitiza kuwa sherehe za Maulid hazina msingi wowote katika mafundisho ya Kiislamu na anafafanua kuwa ni uzushi uliopenyezwa katika dini baada ya vizazi bora vya awali.",
+   "author": "ആദിൽ നിസാമുദ്ദീൻ",
+   "issue_date": "2026-08-22",
+   "html_url": "/sw/aqeedah/celebrating-nabi-day-is-un-islamic-20260822-5.html",
+   "md_url": "/sw/aqeedah/celebrating-nabi-day-is-un-islamic-20260822-5.md"
   },
   {
    "slug": "faith-is-the-foundation-of-islam-20170128-13",
