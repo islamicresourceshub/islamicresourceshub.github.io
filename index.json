@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T08:48:37.407549+00:00",
+ "generated_at": "2026-09-15T08:49:30.238660+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4946,
+ "count": 4947,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -54131,6 +54131,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/zh/hadith/criteria-for-accepting-hadith-20170128-2.html",
    "md_url": "/zh/hadith/criteria-for-accepting-hadith-20170128-2.md"
+  },
+  {
+   "slug": "know-this-for-those-caring-for-the-sick-20260822-1",
+   "lang": "zh",
+   "category": "health",
+   "title": "请关注：那些照顾病人的人",
+   "summary": "本文探讨了照护者在照顾病人时所承受的身心压力，并强调了他们自我关怀及获得外界支持的重要性。文章呼吁社会在关注病人的同时，也要给予照护者应有的关怀与帮助。",
+   "author": "ഡോ. ഫുസ്സൻ നൂരസന്ന",
+   "issue_date": "2026-08-22",
+   "html_url": "/zh/health/know-this-for-those-caring-for-the-sick-20260822-1.html",
+   "md_url": "/zh/health/know-this-for-those-caring-for-the-sick-20260822-1.md"
   },
   {
    "slug": "islamophobia-archetypes-of-ancient-history-20170225-3",
