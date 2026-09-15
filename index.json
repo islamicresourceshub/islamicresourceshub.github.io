@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T12:29:37.263305+00:00",
+ "generated_at": "2026-09-15T12:30:29.710531+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5134,
+ "count": 5135,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -48972,6 +48972,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/te/opinion/everyone-should-have-a-beard-20170121-3.html",
    "md_url": "/te/opinion/everyone-should-have-a-beard-20170121-3.md"
+  },
+  {
+   "slug": "freedom-for-what-20260822-6",
+   "lang": "te",
+   "category": "opinion",
+   "title": "స్వేచ్ఛ ఎందుకు?",
+   "summary": "స్వేచ్ఛ అనే పదం ముసుగులో నేడు జరుగుతున్న అరాచకాలను మరియు తప్పుడు ధోరణులను విమర్శనాత్మకంగా విశ్లేషించే వ్యాసం ఇది. మానవ జీవితానికి అసలైన అర్థం మరియు దైవదాస్యపు ప్రాముఖ్యతను ఇది చర్చిస్తుంది.",
+   "author": "നസീമ വാദാനപ്പള്ളി",
+   "issue_date": "2026-08-22",
+   "html_url": "/te/opinion/freedom-for-what-20260822-6.html",
+   "md_url": "/te/opinion/freedom-for-what-20260822-6.md"
   },
   {
    "slug": "freedom-of-speech-should-not-be-one-sided-20170211-1",
