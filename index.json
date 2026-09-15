@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T11:15:59.149412+00:00",
+ "generated_at": "2026-09-15T11:16:58.212036+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5054,
+ "count": 5055,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -46156,6 +46156,17 @@
    "issue_date": "2026-08-22",
    "html_url": "/sw/health/know-this-for-those-caring-for-the-sick-20260822-1.html",
    "md_url": "/sw/health/know-this-for-those-caring-for-the-sick-20260822-1.md"
+  },
+  {
+   "slug": "when-menstruating-20260822-4",
+   "lang": "sw",
+   "category": "health",
+   "title": "Wakati wa Hedhi",
+   "summary": "Makala hii inaelezea maarifa ya kisayansi kuhusu hedhi ya kwanza kwa wasichana, pamoja na mwongozo wa usafi na sheria za kidini zinazopaswa kuzingatiwa katika kipindi hicho.",
+   "author": "ഡോ. റഫീദ കെ.",
+   "issue_date": "2026-08-22",
+   "html_url": "/sw/health/when-menstruating-20260822-4.html",
+   "md_url": "/sw/health/when-menstruating-20260822-4.md"
   },
   {
    "slug": "islamophobia-archetypes-of-ancient-history-20170225-3",
