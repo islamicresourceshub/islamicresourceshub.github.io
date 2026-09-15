@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T05:53:25.768261+00:00",
+ "generated_at": "2026-09-15T05:54:18.545054+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4824,
+ "count": 4825,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -48466,6 +48466,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/tl/story/the-fruit-of-ingratitude-20170121-7.html",
    "md_url": "/tl/story/the-fruit-of-ingratitude-20170121-7.md"
+  },
+  {
+   "slug": "when-the-burden-of-sin-increases-20170225-10",
+   "lang": "tl",
+   "category": "story",
+   "title": "Kapag Tumitindi ang Pasan ng Kasalanan...",
+   "summary": "Isang kuwento na nakabase sa karanasan sa madrasa tungkol sa pag-uugali at moralidad ng mga bata.",
+   "author": "അറബി കഥ - പുനരാഖ്യാനം: തന്‍സീല്‍",
+   "issue_date": "2017-02-25",
+   "html_url": "/tl/story/when-the-burden-of-sin-increases-20170225-10.html",
+   "md_url": "/tl/story/when-the-burden-of-sin-increases-20170225-10.md"
   },
   {
    "slug": "an-agenda-is-needed-during-vacation-too-20170325-1",
