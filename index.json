@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T11:24:47.473377+00:00",
+ "generated_at": "2026-09-15T11:25:50.986616+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5063,
+ "count": 5064,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -55407,6 +55407,17 @@
    "issue_date": "2026-08-22",
    "html_url": "/zh/health/know-this-for-those-caring-for-the-sick-20260822-1.html",
    "md_url": "/zh/health/know-this-for-those-caring-for-the-sick-20260822-1.md"
+  },
+  {
+   "slug": "when-menstruating-20260822-4",
+   "lang": "zh",
+   "category": "health",
+   "title": "当女孩初潮来临时",
+   "summary": "本文详细介绍了关于女孩初潮的科学知识，以及在此期间应遵循的卫生习惯和宗教准则，旨在帮助家长引导孩子以积极的心态面对这一成长阶段。",
+   "author": "ഡോ. റഫീദ കെ.",
+   "issue_date": "2026-08-22",
+   "html_url": "/zh/health/when-menstruating-20260822-4.html",
+   "md_url": "/zh/health/when-menstruating-20260822-4.md"
   },
   {
    "slug": "islamophobia-archetypes-of-ancient-history-20170225-3",
