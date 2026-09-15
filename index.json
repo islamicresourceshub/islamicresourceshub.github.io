@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T09:42:18.223814+00:00",
+ "generated_at": "2026-09-15T09:43:50.286941+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4992,
+ "count": 4993,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -7139,6 +7139,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/en/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.html",
    "md_url": "/en/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.md"
+  },
+  {
+   "slug": "universal-calls-in-the-quran-19-truth-falsehood-and-human-fr-20260822-3",
+   "lang": "en",
+   "category": "quran",
+   "title": "Universal Calls in the Quran 19: Truth, Falsehood, and Human Free Will",
+   "summary": "Based on verses from Surah Yunus, this article explores human freedom and responsibility in recognizing the truth and choosing the path of righteousness.",
+   "author": "ഇജാസ് ബിൻ ഇസ്മാഈൽ",
+   "issue_date": "2026-08-22",
+   "html_url": "/en/quran/universal-calls-in-the-quran-19-truth-falsehood-and-human-fr-20260822-3.html",
+   "md_url": "/en/quran/universal-calls-in-the-quran-19-truth-falsehood-and-human-fr-20260822-3.md"
   },
   {
    "slug": "what-to-beware-of-when-taking-sides-20170128-7",
