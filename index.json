@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T08:44:11.576202+00:00",
+ "generated_at": "2026-09-15T08:45:06.642677+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4941,
+ "count": 4942,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -49126,6 +49126,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/tl/hadith/criteria-for-accepting-hadith-20170128-2.html",
    "md_url": "/tl/hadith/criteria-for-accepting-hadith-20170128-2.md"
+  },
+  {
+   "slug": "know-this-for-those-caring-for-the-sick-20260822-1",
+   "lang": "tl",
+   "category": "health",
+   "title": "Kilalanin ang mga Tagapag-alaga ng Pasyente",
+   "summary": "Tinatalakay ng artikulong ito ang mga pisikal at mental na paghihirap na nararanasan ng mga tagapag-alaga ng pasyente, at ang mga bagay na dapat nilang bigyang-pansin para sa kanilang sarili. Binibigyang-diin nito ang kahalagahan ng pagbibigay ng sapat na pahinga at suporta sa mga tagapag-alaga.",
+   "author": "ഡോ. ഫുസ്സൻ നൂരസന്ന",
+   "issue_date": "2026-08-22",
+   "html_url": "/tl/health/know-this-for-those-caring-for-the-sick-20260822-1.html",
+   "md_url": "/tl/health/know-this-for-those-caring-for-the-sick-20260822-1.md"
   },
   {
    "slug": "islamophobia-archetypes-of-ancient-history-20170225-3",
