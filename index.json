@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T11:15:02.656877+00:00",
+ "generated_at": "2026-09-15T11:15:59.149412+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5053,
+ "count": 5054,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -45122,6 +45122,17 @@
    "issue_date": "2026-08-22",
    "html_url": "/sq/health/know-this-for-those-caring-for-the-sick-20260822-1.html",
    "md_url": "/sq/health/know-this-for-those-caring-for-the-sick-20260822-1.md"
+  },
+  {
+   "slug": "when-menstruating-20260822-4",
+   "lang": "sq",
+   "category": "health",
+   "title": "Kur kur jeni në cikël",
+   "summary": "Ky artikull shpjegon njohuritë shkencore rreth menstruacioneve të para tek vajzat, si dhe higjienën e nevojshme dhe rregullat fetare që duhen ndjekur gjatë kësaj periudhe.",
+   "author": "ഡോ. റഫീദ കെ.",
+   "issue_date": "2026-08-22",
+   "html_url": "/sq/health/when-menstruating-20260822-4.html",
+   "md_url": "/sq/health/when-menstruating-20260822-4.md"
   },
   {
    "slug": "islamophobia-archetypes-of-ancient-history-20170225-3",
