@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T14:13:55.887874+00:00",
+ "generated_at": "2026-09-15T14:15:09.909430+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5214,
+ "count": 5215,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -52162,6 +52162,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/tl/story/laws-are-to-be-followed-20170128-5.html",
    "md_url": "/tl/story/laws-are-to-be-followed-20170128-5.md"
+  },
+  {
+   "slug": "my-pen-20260822-8",
+   "lang": "tl",
+   "category": "story",
+   "title": "Ang Aking Pluma",
+   "summary": "Isang tula tungkol sa kung paano nagiging tula at kuwento ang mga karanasan at alaala sa buhay sa pamamagitan ng mga titik.",
+   "author": "നദ ജബീൻ സി. പി.",
+   "issue_date": "2026-08-22",
+   "html_url": "/tl/story/my-pen-20260822-8.html",
+   "md_url": "/tl/story/my-pen-20260822-8.md"
   },
   {
    "slug": "sugar-like-gold-dust-20170128-11",
