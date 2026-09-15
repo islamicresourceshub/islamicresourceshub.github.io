@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T13:36:34.891071+00:00",
+ "generated_at": "2026-09-15T13:37:31.126838+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5175,
+ "count": 5176,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -51656,6 +51656,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/tl/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.html",
    "md_url": "/tl/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.md"
+  },
+  {
+   "slug": "surah-ash-shu-ara-the-poets-20260822-7",
+   "lang": "tl",
+   "category": "quran",
+   "title": "Surah: Ash-Shu'ara - Ang mga Makata",
+   "summary": "Isang tafsir o paliwanag ng mga talata mula sa Surah Ash-Shu'ara. Tinatalakay nito ang kasaysayan ng mga propeta at ang kanilang panawagan sa mga tao.",
+   "author": "അബ്ദുറഹ്മാനുബ്നു നാസിറുസ്സഅ്ദി",
+   "issue_date": "2026-08-22",
+   "html_url": "/tl/quran/surah-ash-shu-ara-the-poets-20260822-7.html",
+   "md_url": "/tl/quran/surah-ash-shu-ara-the-poets-20260822-7.md"
   },
   {
    "slug": "universal-calls-in-the-quran-19-truth-falsehood-and-human-fr-20260822-3",
