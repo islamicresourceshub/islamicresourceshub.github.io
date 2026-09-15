@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T06:09:35.141807+00:00",
+ "generated_at": "2026-09-15T06:10:30.648219+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4841,
+ "count": 4842,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -11154,6 +11154,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/ha/dawah/the-message-of-equality-20170121-11.html",
    "md_url": "/ha/dawah/the-message-of-equality-20170121-11.md"
+  },
+  {
+   "slug": "the-path-to-peace-20170225-11",
+   "lang": "ha",
+   "category": "dawah",
+   "title": "Hanyar zuwa ga Nutsuwa",
+   "summary": "Wannan rubutu yana bayyana hanyoyin zaman lafiya da Musulunci yake bayarwa ga dan adam na zamani, wanda yake fuskantar rashin kwanciyar hankali duk da karuwar jin dadin rayuwa.",
+   "author": "ശമീര്‍ മദീനി",
+   "issue_date": "2017-02-25",
+   "html_url": "/ha/dawah/the-path-to-peace-20170225-11.html",
+   "md_url": "/ha/dawah/the-path-to-peace-20170225-11.md"
   },
   {
    "slug": "the-religion-that-rejects-terrorism-part-1-20170121-12",
