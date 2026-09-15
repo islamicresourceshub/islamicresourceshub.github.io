@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T06:47:07.807398+00:00",
+ "generated_at": "2026-09-15T06:47:44.987512+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4881,
+ "count": 4882,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -12683,6 +12683,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/hi/opinion/muslim-extremists-defame-islam-20170114-7.html",
    "md_url": "/hi/opinion/muslim-extremists-defame-islam-20170114-7.md"
+  },
+  {
+   "slug": "none-should-forget-the-path-they-came-from-20170225-13",
+   "lang": "hi",
+   "category": "opinion",
+   "title": "कोई भी अपनी जड़ों को न भूले",
+   "summary": "यह लेख सामाजिक सेवा और कृतज्ञता के महत्व पर प्रकाश डालता है। एक प्रेरक अनुभव के माध्यम से, यह हमें याद दिलाता है कि सफलता की ऊंचाइयों पर पहुंचने के बाद भी अपनी जड़ों और संघर्ष के दिनों को याद रखना कितना आवश्यक है।",
+   "author": "ഇബ്‌നു അലി എടത്തനാട്ടുകര",
+   "issue_date": "2017-02-25",
+   "html_url": "/hi/opinion/none-should-forget-the-path-they-came-from-20170225-13.html",
+   "md_url": "/hi/opinion/none-should-forget-the-path-they-came-from-20170225-13.md"
   },
   {
    "slug": "rohingya-muslims-victims-of-racial-hatred-20170128-10",
