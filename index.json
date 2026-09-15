@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T12:17:27.333098+00:00",
+ "generated_at": "2026-09-15T12:18:23.403602+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5120,
+ "count": 5121,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -18722,6 +18722,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/ko/opinion/everyone-should-have-a-beard-20170121-3.html",
    "md_url": "/ko/opinion/everyone-should-have-a-beard-20170121-3.md"
+  },
+  {
+   "slug": "freedom-for-what-20260822-6",
+   "lang": "ko",
+   "category": "opinion",
+   "title": "자유란 무엇을 위한 것인가?",
+   "summary": "오늘날 자유라는 이름 뒤에 숨겨진 무질서와 잘못된 경향들을 비판적으로 고찰하는 글입니다. 진정한 자유의 의미와 인간 존재의 목적을 이슬람적 관점에서 성찰합니다.",
+   "author": "നസീമ വാദാനപ്പള്ളി",
+   "issue_date": "2026-08-22",
+   "html_url": "/ko/opinion/freedom-for-what-20260822-6.html",
+   "md_url": "/ko/opinion/freedom-for-what-20260822-6.md"
   },
   {
    "slug": "freedom-of-speech-should-not-be-one-sided-20170211-1",
