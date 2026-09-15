@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T13:34:44.157453+00:00",
+ "generated_at": "2026-09-15T13:35:40.608482+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5173,
+ "count": 5174,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -49522,6 +49522,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/te/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.html",
    "md_url": "/te/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.md"
+  },
+  {
+   "slug": "surah-ash-shu-ara-the-poets-20260822-7",
+   "lang": "te",
+   "category": "quran",
+   "title": "സൂറ: അശ്ശുഅറാഅ് - കവികൾ",
+   "summary": "സൂറത്തു അശ്ശുഅറാഇലെ വചനങ്ങളുടെ തഫ്സീർ അഥവാ വ്യാഖ്യാനം ഇവിടെ നൽകുന്നു. പ്രവാചകന്മാരുടെ ചരിത്രവും അവർ ജനങ്ങളോട് നടത്തിയ ആഹ്വാനങ്ങളും ഇതിൽ വിവരിക്കുന്നു.",
+   "author": "അബ്ദുറഹ്മാനുബ്നു നാസിറുസ്സഅ്ദി",
+   "issue_date": "2026-08-22",
+   "html_url": "/te/quran/surah-ash-shu-ara-the-poets-20260822-7.html",
+   "md_url": "/te/quran/surah-ash-shu-ara-the-poets-20260822-7.md"
   },
   {
    "slug": "universal-calls-in-the-quran-19-truth-falsehood-and-human-fr-20260822-3",
