@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T11:19:40.309713+00:00",
+ "generated_at": "2026-09-15T11:20:38.273254+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5058,
+ "count": 5059,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -50237,6 +50237,17 @@
    "issue_date": "2026-08-22",
    "html_url": "/tl/health/know-this-for-those-caring-for-the-sick-20260822-1.html",
    "md_url": "/tl/health/know-this-for-those-caring-for-the-sick-20260822-1.md"
+  },
+  {
+   "slug": "when-menstruating-20260822-4",
+   "lang": "tl",
+   "category": "health",
+   "title": "Sa Panahon ng Pagdadalaga",
+   "summary": "Ang artikulong ito ay nagpapaliwanag ng siyentipikong kaalaman tungkol sa unang regla ng mga kabataang babae, pati na rin ang mga hakbang sa kalinisan at mga alituntuning panrelihiyon na dapat sundin sa panahong ito.",
+   "author": "ഡോ. റഫീദ കെ.",
+   "issue_date": "2026-08-22",
+   "html_url": "/tl/health/when-menstruating-20260822-4.html",
+   "md_url": "/tl/health/when-menstruating-20260822-4.md"
   },
   {
    "slug": "islamophobia-archetypes-of-ancient-history-20170225-3",
