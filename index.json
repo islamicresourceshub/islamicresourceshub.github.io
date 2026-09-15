@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T08:22:50.227636+00:00",
+ "generated_at": "2026-09-15T08:24:22.711589+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4920,
+ "count": 4921,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -12661,6 +12661,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/hi/hadith/criteria-for-accepting-hadith-20170128-2.html",
    "md_url": "/hi/hadith/criteria-for-accepting-hadith-20170128-2.md"
+  },
+  {
+   "slug": "know-this-for-those-caring-for-the-sick-20260822-1",
+   "lang": "hi",
+   "category": "health",
+   "title": "जानें; रोगी की देखभाल करने वालों के बारे में",
+   "summary": "यह लेख उन शारीरिक और मानसिक चुनौतियों पर चर्चा करता है जिनका सामना रोगी की देखभाल करने वाले करते हैं। यह इस बात पर जोर देता है कि देखभाल करने वालों को भी आराम और समर्थन की आवश्यकता होती है और हमें उनकी भलाई का भी ध्यान रखना चाहिए।",
+   "author": "ഡോ. ഫുസ്സൻ നൂരസന്ന",
+   "issue_date": "2026-08-22",
+   "html_url": "/hi/health/know-this-for-those-caring-for-the-sick-20260822-1.html",
+   "md_url": "/hi/health/know-this-for-those-caring-for-the-sick-20260822-1.md"
   },
   {
    "slug": "islamophobia-archetypes-of-ancient-history-20170225-3",
