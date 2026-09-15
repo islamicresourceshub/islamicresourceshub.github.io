@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T11:34:23.317291+00:00",
+ "generated_at": "2026-09-15T11:35:15.227307+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5073,
+ "count": 5074,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -9592,6 +9592,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/fr/aqeedah/become-the-guardian-of-the-sources-20170128-9.html",
    "md_url": "/fr/aqeedah/become-the-guardian-of-the-sources-20170128-9.md"
+  },
+  {
+   "slug": "celebrating-nabi-day-is-un-islamic-20260822-5",
+   "lang": "fr",
+   "category": "aqeedah",
+   "title": "La célébration de l'anniversaire du Prophète est bel et bien contraire à l'islam",
+   "summary": "L'auteur soutient que la célébration de l'anniversaire du Prophète, connue sous le nom de Mawlid, n'a aucun fondement dans les sources islamiques et constitue une innovation religieuse non autorisée. Il souligne que le véritable amour pour le Prophète réside dans le suivi de sa Sunna plutôt que dans l'introduction de nouvelles pratiques.",
+   "author": "ആദിൽ നിസാമുദ്ദീൻ",
+   "issue_date": "2026-08-22",
+   "html_url": "/fr/aqeedah/celebrating-nabi-day-is-un-islamic-20260822-5.html",
+   "md_url": "/fr/aqeedah/celebrating-nabi-day-is-un-islamic-20260822-5.md"
   },
   {
    "slug": "faith-is-the-foundation-of-islam-20170128-13",
