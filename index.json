@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T14:23:22.725998+00:00",
+ "generated_at": "2026-09-15T14:24:49.458521+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5223,
+ "count": 5224,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -4224,6 +4224,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/bn/opinion/strengthening-secular-political-unity-20170218-9.html",
    "md_url": "/bn/opinion/strengthening-secular-political-unity-20170218-9.md"
+  },
+  {
+   "slug": "superstitions-in-modern-homes-20170304-1",
+   "lang": "bn",
+   "category": "opinion",
+   "title": "কুসংস্কারের আস্তানা",
+   "summary": "এই নিবন্ধটি বিশ্লেষণ করে যে কীভাবে বৈজ্ঞানিক অগ্রগতির পরেও ভারতীয় সমাজে কুসংস্কার গভীরভাবে শিকড় গেড়ে আছে। এটি কুসংস্কারের সামাজিক প্রভাব এবং এর ফলে সৃষ্ট অযৌক্তিক কর্মকাণ্ডের একটি সমালোচনামূলক পর্যালোচনা।",
+   "author": "ഇ.യൂസുഫ് സാഹിബ് നദ്‌വി",
+   "issue_date": "2017-03-04",
+   "html_url": "/bn/opinion/superstitions-in-modern-homes-20170304-1.html",
+   "md_url": "/bn/opinion/superstitions-in-modern-homes-20170304-1.md"
   },
   {
    "slug": "terrorism-and-religious-freedom-20170114-1",
