@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T15:04:11.055689+00:00",
+ "generated_at": "2026-09-15T15:05:08.128893+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5232,
+ "count": 5233,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -13981,6 +13981,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/hi/opinion/strengthening-secular-political-unity-20170218-9.html",
    "md_url": "/hi/opinion/strengthening-secular-political-unity-20170218-9.md"
+  },
+  {
+   "slug": "superstitions-in-modern-homes-20170304-1",
+   "lang": "hi",
+   "category": "opinion",
+   "title": "अंधविश्वासों से भरे घर",
+   "summary": "यह लेख पड़ताल करता है कि वैज्ञानिक प्रगति के बावजूद भारतीय समाज में अंधविश्वास कैसे जड़ जमाए हुए हैं। यह अंधप्रथाओं के सामाजिक परिणामों का एक आलोचनात्मक विश्लेषण है।",
+   "author": "ഇ.യൂസുഫ് സാഹിബ് നദ്‌വി",
+   "issue_date": "2017-03-04",
+   "html_url": "/hi/opinion/superstitions-in-modern-homes-20170304-1.html",
+   "md_url": "/hi/opinion/superstitions-in-modern-homes-20170304-1.md"
   },
   {
    "slug": "terrorism-and-religious-freedom-20170114-1",
