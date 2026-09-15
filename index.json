@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T11:40:31.497964+00:00",
+ "generated_at": "2026-09-15T11:41:27.469296+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5080,
+ "count": 5081,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -16874,6 +16874,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/kn/aqeedah/become-the-guardian-of-the-sources-20170128-9.html",
    "md_url": "/kn/aqeedah/become-the-guardian-of-the-sources-20170128-9.md"
+  },
+  {
+   "slug": "celebrating-nabi-day-is-un-islamic-20260822-5",
+   "lang": "kn",
+   "category": "aqeedah",
+   "title": "ನಬಿ ದಿನಾಚರಣೆ ಇಸ್ಲಾಮೇತರ ಆಚರಣೆ",
+   "summary": "ನಬಿ ದಿನಾಚರಣೆಗೆ ಇಸ್ಲಾಮಿನ ಮೂಲ ಪ್ರಮಾಣಗಳಲ್ಲಿ ಯಾವುದೇ ಆಧಾರವಿಲ್ಲವೆಂದೂ, ಇದು ಧರ್ಮದಲ್ಲಿ ಹೊಸದಾಗಿ ಸೇರ್ಪಡೆಯಾದ ಆಚರಣೆಯಾಗಿದೆಯೆಂದೂ ಲೇಖಕರು ವಾದಿಸುತ್ತಾರೆ.",
+   "author": "ആദിൽ നിസാമുദ്ദീൻ",
+   "issue_date": "2026-08-22",
+   "html_url": "/kn/aqeedah/celebrating-nabi-day-is-un-islamic-20260822-5.html",
+   "md_url": "/kn/aqeedah/celebrating-nabi-day-is-un-islamic-20260822-5.md"
   },
   {
    "slug": "faith-is-the-foundation-of-islam-20170128-13",
