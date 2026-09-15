@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T11:58:47.418088+00:00",
+ "generated_at": "2026-09-15T11:59:41.130907+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5099,
+ "count": 5100,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -52184,6 +52184,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/ur/aqeedah/become-the-guardian-of-the-sources-20170128-9.html",
    "md_url": "/ur/aqeedah/become-the-guardian-of-the-sources-20170128-9.md"
+  },
+  {
+   "slug": "celebrating-nabi-day-is-un-islamic-20260822-5",
+   "lang": "ur",
+   "category": "aqeedah",
+   "title": "نبی کریم ﷺ کا یومِ ولادت منانا غیر اسلامی ہے",
+   "summary": "مضمون نگار اس بات پر زور دیتے ہیں کہ میلاد النبی منانے کی اسلامی شریعت میں کوئی اصل نہیں ہے اور یہ دین میں ایجاد کردہ ایک نئی رسم ہے۔",
+   "author": "ആദിൽ നിസാമുദ്ദീൻ",
+   "issue_date": "2026-08-22",
+   "html_url": "/ur/aqeedah/celebrating-nabi-day-is-un-islamic-20260822-5.html",
+   "md_url": "/ur/aqeedah/celebrating-nabi-day-is-un-islamic-20260822-5.md"
   },
   {
    "slug": "faith-is-the-foundation-of-islam-20170128-13",
