@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T12:38:02.294309+00:00",
+ "generated_at": "2026-09-15T12:38:57.436986+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5144,
+ "count": 5145,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -3190,6 +3190,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/as/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.html",
    "md_url": "/as/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.md"
+  },
+  {
+   "slug": "surah-ash-shu-ara-the-poets-20260822-7",
+   "lang": "as",
+   "category": "quran",
+   "title": "ছুৰা: আছ-শুআৰা - কবিসকল",
+   "summary": "ছুৰা আছ-শুআৰাৰ আয়াতসমূহৰ তাফছিৰ বা ব্যাখ্যা। ইয়াত নবীসকলৰ ইতিহাস আৰু তেওঁলোকে নিজৰ জাতিৰ প্ৰতি জনোৱা আহ্বানৰ বিৱৰণ দিয়া হৈছে।",
+   "author": "അബ്ദുറഹ്മാനുബ്നു നാസിറുസ്സഅ്ദി",
+   "issue_date": "2026-08-22",
+   "html_url": "/as/quran/surah-ash-shu-ara-the-poets-20260822-7.html",
+   "md_url": "/as/quran/surah-ash-shu-ara-the-poets-20260822-7.md"
   },
   {
    "slug": "universal-calls-in-the-quran-19-truth-falsehood-and-human-fr-20260822-3",
