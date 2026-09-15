@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T09:07:17.210062+00:00",
+ "generated_at": "2026-09-15T09:08:13.261384+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4964,
+ "count": 4965,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -17391,6 +17391,17 @@
    "issue_date": "2017-02-04",
    "html_url": "/ko/aqeedah/they-want-to-see-god-20170204-2.html",
    "md_url": "/ko/aqeedah/they-want-to-see-god-20170204-2.md"
+  },
+  {
+   "slug": "who-is-wrong-in-ideology-20260822-2",
+   "lang": "ko",
+   "category": "aqeedah",
+   "title": "누가 신념에서 길을 잃었는가?",
+   "summary": "이 글은 살라피 개혁 운동을 비판한 기사에 대한 반박문입니다. 타우히드(유일신 신앙)의 기본 원칙과 시르크(다신교적 행위)에 대한 오해를 바로잡고, 성경적 근거를 바탕으로 올바른 신앙의 길을 제시합니다.",
+   "author": "മൂസ സുലൈമാൻ കാര",
+   "issue_date": "2026-08-22",
+   "html_url": "/ko/aqeedah/who-is-wrong-in-ideology-20260822-2.html",
+   "md_url": "/ko/aqeedah/who-is-wrong-in-ideology-20260822-2.md"
   },
   {
    "slug": "do-not-be-slaves-to-desires-20170211-11",
