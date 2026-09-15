@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T06:28:03.544212+00:00",
+ "generated_at": "2026-09-15T06:29:00.157921+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4859,
+ "count": 4860,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -44264,6 +44264,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/sw/dawah/the-message-of-equality-20170121-11.html",
    "md_url": "/sw/dawah/the-message-of-equality-20170121-11.md"
+  },
+  {
+   "slug": "the-path-to-peace-20170225-11",
+   "lang": "sw",
+   "category": "dawah",
+   "title": "Njia ya kuelekea Amani",
+   "summary": "Makala hii inaelezea njia za amani ambazo Uislamu unatoa kwa mwanadamu wa kisasa, ambaye licha ya kuwa na maendeleo mengi ya kimwili, amepoteza utulivu wa moyo.",
+   "author": "ശമീര്‍ മദീനി",
+   "issue_date": "2017-02-25",
+   "html_url": "/sw/dawah/the-path-to-peace-20170225-11.html",
+   "md_url": "/sw/dawah/the-path-to-peace-20170225-11.md"
   },
   {
    "slug": "the-religion-that-rejects-terrorism-part-1-20170121-12",
