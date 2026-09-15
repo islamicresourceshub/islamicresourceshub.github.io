@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T11:07:30.552003+00:00",
+ "generated_at": "2026-09-15T11:08:25.506030+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5045,
+ "count": 5046,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -36916,6 +36916,17 @@
    "issue_date": "2026-08-22",
    "html_url": "/ne/health/know-this-for-those-caring-for-the-sick-20260822-1.html",
    "md_url": "/ne/health/know-this-for-those-caring-for-the-sick-20260822-1.md"
+  },
+  {
+   "slug": "when-menstruating-20260822-4",
+   "lang": "ne",
+   "category": "health",
+   "title": "रजस्वला हुँदा",
+   "summary": "यो लेखले किशोरीहरूको पहिलो महिनावारीको बारेमा वैज्ञानिक जानकारी, त्यस समयमा अपनाउनुपर्ने सरसफाइ र धार्मिक नियमहरूको बारेमा विस्तृत व्याख्या गर्दछ।",
+   "author": "ഡോ. റഫീദ കെ.",
+   "issue_date": "2026-08-22",
+   "html_url": "/ne/health/when-menstruating-20260822-4.html",
+   "md_url": "/ne/health/when-menstruating-20260822-4.md"
   },
   {
    "slug": "islamophobia-archetypes-of-ancient-history-20170225-3",
