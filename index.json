@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T12:55:43.442486+00:00",
+ "generated_at": "2026-09-15T12:56:48.801332+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5164,
+ "count": 5165,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -40029,6 +40029,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/pa/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.html",
    "md_url": "/pa/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.md"
+  },
+  {
+   "slug": "surah-ash-shu-ara-the-poets-20260822-7",
+   "lang": "pa",
+   "category": "quran",
+   "title": "ਸੂਰਾ ਅਸ਼-ਸ਼ੁਅਰਾ - ਕਵੀ",
+   "summary": "ਸੂਰਾ ਅਸ਼-ਸ਼ੁਅਰਾ ਦੀਆਂ ਆਇਤਾਂ ਦੀ ਵਿਆਖਿਆ। ਇਸ ਵਿੱਚ ਪੈਗੰਬਰਾਂ ਦੇ ਇਤਿਹਾਸ ਅਤੇ ਉਨ੍ਹਾਂ ਵੱਲੋਂ ਲੋਕਾਂ ਨੂੰ ਦਿੱਤੇ ਗਏ ਸੱਦੇ ਦਾ ਵਰਣਨ ਕੀਤਾ ਗਿਆ ਹੈ।",
+   "author": "അബ്ദുറഹ്മാനുബ്നു നാസിറുസ്സഅ്ദി",
+   "issue_date": "2026-08-22",
+   "html_url": "/pa/quran/surah-ash-shu-ara-the-poets-20260822-7.html",
+   "md_url": "/pa/quran/surah-ash-shu-ara-the-poets-20260822-7.md"
   },
   {
    "slug": "universal-calls-in-the-quran-19-truth-falsehood-and-human-fr-20260822-3",
