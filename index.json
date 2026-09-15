@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T10:08:53.942994+00:00",
+ "generated_at": "2026-09-15T10:09:47.384887+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5019,
+ "count": 5020,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -50171,6 +50171,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/tl/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.html",
    "md_url": "/tl/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.md"
+  },
+  {
+   "slug": "universal-calls-in-the-quran-19-truth-falsehood-and-human-fr-20260822-3",
+   "lang": "tl",
+   "category": "quran",
+   "title": "Mga Unibersal na Panawagan sa Quran 19: Ang Katotohanan, ang Kasinungalingan, at ang Malayang Pagpili ng Tao",
+   "summary": "Batay sa mga talata ng Surah Yunus, ipinapaliwanag nito ang kalayaan at pananagutan ng tao sa pagkilala sa katotohanan at pagpili sa tamang landas.",
+   "author": "ഇജാസ് ബിൻ ഇസ്മാഈൽ",
+   "issue_date": "2026-08-22",
+   "html_url": "/tl/quran/universal-calls-in-the-quran-19-truth-falsehood-and-human-fr-20260822-3.html",
+   "md_url": "/tl/quran/universal-calls-in-the-quran-19-truth-falsehood-and-human-fr-20260822-3.md"
   },
   {
    "slug": "what-to-beware-of-when-taking-sides-20170128-7",
