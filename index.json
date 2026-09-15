@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T12:33:42.329297+00:00",
+ "generated_at": "2026-09-15T12:34:35.099365+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5139,
+ "count": 5140,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -54252,6 +54252,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/uz/opinion/everyone-should-have-a-beard-20170121-3.html",
    "md_url": "/uz/opinion/everyone-should-have-a-beard-20170121-3.md"
+  },
+  {
+   "slug": "freedom-for-what-20260822-6",
+   "lang": "uz",
+   "category": "opinion",
+   "title": "Ozodlik nima uchun?",
+   "summary": "Ushbu maqola ozodlik so‘zi niqobi ostida bugungi kunda yuz berayotgan tartibsizliklar va noto‘g‘ri tendensiyalarni tanqidiy nuqtai nazardan tahlil qiladi. U insonning haqiqiy erkinligi Yaratuvchiga bo‘lgan itoatda ekanligini ta’kidlaydi.",
+   "author": "നസീമ വാദാനപ്പള്ളി",
+   "issue_date": "2026-08-22",
+   "html_url": "/uz/opinion/freedom-for-what-20260822-6.html",
+   "md_url": "/uz/opinion/freedom-for-what-20260822-6.md"
   },
   {
    "slug": "freedom-of-speech-should-not-be-one-sided-20170211-1",
