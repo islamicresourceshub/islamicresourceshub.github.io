@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T06:35:38.037031+00:00",
+ "generated_at": "2026-09-15T06:36:34.118952+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4867,
+ "count": 4868,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -52041,6 +52041,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/vi/dawah/the-message-of-equality-20170121-11.html",
    "md_url": "/vi/dawah/the-message-of-equality-20170121-11.md"
+  },
+  {
+   "slug": "the-path-to-peace-20170225-11",
+   "lang": "vi",
+   "category": "dawah",
+   "title": "Con đường dẫn đến sự bình an",
+   "summary": "Bài viết khám phá những con đường dẫn đến sự bình an mà Hồi giáo mang lại cho con người hiện đại, những người đang đánh mất sự an yên trong tâm hồn dù các tiện nghi vật chất ngày càng gia tăng. Tác giả phân tích các nguyên nhân gây ra căng thẳng và đề xuất những giải pháp dựa trên sự hướng dẫn của Đấng Tạo Hóa để đạt được sự an lạc đích thực.",
+   "author": "ശമീര്‍ മദീനി",
+   "issue_date": "2017-02-25",
+   "html_url": "/vi/dawah/the-path-to-peace-20170225-11.html",
+   "md_url": "/vi/dawah/the-path-to-peace-20170225-11.md"
   },
   {
    "slug": "the-religion-that-rejects-terrorism-part-1-20170121-12",
