@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T14:28:15.031083+00:00",
+ "generated_at": "2026-09-15T14:54:54.116110+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5226,
+ "count": 5227,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -7480,6 +7480,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/en/opinion/strengthening-secular-political-unity-20170218-9.html",
    "md_url": "/en/opinion/strengthening-secular-political-unity-20170218-9.md"
+  },
+  {
+   "slug": "superstitions-in-modern-homes-20170304-1",
+   "lang": "en",
+   "category": "opinion",
+   "title": "The Inner Chambers Where Superstition Reigns",
+   "summary": "This article examines how superstitions remain deeply rooted in Indian society despite significant scientific progress. It offers a critical analysis of the social consequences of these irrational practices.",
+   "author": "ഇ.യൂസുഫ് സാഹിബ് നദ്‌വി",
+   "issue_date": "2017-03-04",
+   "html_url": "/en/opinion/superstitions-in-modern-homes-20170304-1.html",
+   "md_url": "/en/opinion/superstitions-in-modern-homes-20170304-1.md"
   },
   {
    "slug": "terrorism-and-religious-freedom-20170114-1",
