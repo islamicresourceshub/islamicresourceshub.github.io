@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T10:28:46.381155+00:00",
+ "generated_at": "2026-09-15T10:29:45.356248+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5024,
+ "count": 5025,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -55286,6 +55286,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/zh/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.html",
    "md_url": "/zh/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.md"
+  },
+  {
+   "slug": "universal-calls-in-the-quran-19-truth-falsehood-and-human-fr-20260822-3",
+   "lang": "zh",
+   "category": "quran",
+   "title": "古兰经中的普世呼唤 19：真理、虚妄与人类的自由选择",
+   "summary": "本文基于《优努斯章》的经文，探讨了人类在识别真理与选择正道方面的自由意志及其所承担的个人责任。",
+   "author": "ഇജാസ് ബിൻ ഇസ്മാഈൽ",
+   "issue_date": "2026-08-22",
+   "html_url": "/zh/quran/universal-calls-in-the-quran-19-truth-falsehood-and-human-fr-20260822-3.html",
+   "md_url": "/zh/quran/universal-calls-in-the-quran-19-truth-falsehood-and-human-fr-20260822-3.md"
   },
   {
    "slug": "what-to-beware-of-when-taking-sides-20170128-7",
