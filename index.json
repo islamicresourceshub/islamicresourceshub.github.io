@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T06:11:27.205466+00:00",
+ "generated_at": "2026-09-15T06:12:25.372886+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4843,
+ "count": 4844,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -13101,6 +13101,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/id/dawah/the-message-of-equality-20170121-11.html",
    "md_url": "/id/dawah/the-message-of-equality-20170121-11.md"
+  },
+  {
+   "slug": "the-path-to-peace-20170225-11",
+   "lang": "id",
+   "category": "dawah",
+   "title": "Jalan Menuju Kedamaian",
+   "summary": "Artikel ini membahas tentang jalan kedamaian yang ditawarkan Islam bagi manusia modern yang kehilangan ketenangan jiwa meski fasilitas hidup terus meningkat. Penulis menguraikan langkah-langkah praktis untuk meraih ketenangan batin sesuai dengan bimbingan Ilahi.",
+   "author": "ശമീര്‍ മദീനി",
+   "issue_date": "2017-02-25",
+   "html_url": "/id/dawah/the-path-to-peace-20170225-11.html",
+   "md_url": "/id/dawah/the-path-to-peace-20170225-11.md"
   },
   {
    "slug": "the-religion-that-rejects-terrorism-part-1-20170121-12",
