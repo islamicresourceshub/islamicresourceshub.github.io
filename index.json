@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T11:39:32.930085+00:00",
+ "generated_at": "2026-09-15T11:40:31.497964+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5079,
+ "count": 5080,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -15829,6 +15829,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/ja/aqeedah/become-the-guardian-of-the-sources-20170128-9.html",
    "md_url": "/ja/aqeedah/become-the-guardian-of-the-sources-20170128-9.md"
+  },
+  {
+   "slug": "celebrating-nabi-day-is-un-islamic-20260822-5",
+   "lang": "ja",
+   "category": "aqeedah",
+   "title": "預言者生誕祭は非イスラム的である",
+   "summary": "預言者生誕祭（ナビー・ディナーム）にはイスラムの教義上の根拠がなく、宗教に後から付け加えられた慣習であると著者は論じています。",
+   "author": "ആദിൽ നിസാമുദ്ദീൻ",
+   "issue_date": "2026-08-22",
+   "html_url": "/ja/aqeedah/celebrating-nabi-day-is-un-islamic-20260822-5.html",
+   "md_url": "/ja/aqeedah/celebrating-nabi-day-is-un-islamic-20260822-5.md"
   },
   {
    "slug": "faith-is-the-foundation-of-islam-20170128-13",
