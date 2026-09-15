@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T11:09:19.161472+00:00",
+ "generated_at": "2026-09-15T11:10:16.990861+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5047,
+ "count": 5048,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -38973,6 +38973,17 @@
    "issue_date": "2026-08-22",
    "html_url": "/pa/health/know-this-for-those-caring-for-the-sick-20260822-1.html",
    "md_url": "/pa/health/know-this-for-those-caring-for-the-sick-20260822-1.md"
+  },
+  {
+   "slug": "when-menstruating-20260822-4",
+   "lang": "pa",
+   "category": "health",
+   "title": "ਜਦੋਂ ਕੁੜੀ ਬਾਲਗ ਹੁੰਦੀ ਹੈ",
+   "summary": "ਇਹ ਲੇਖ ਕੁੜੀਆਂ ਵਿੱਚ ਪਹਿਲੇ ਮਾਹਵਾਰੀ ਚੱਕਰ ਬਾਰੇ ਵਿਗਿਆਨਕ ਜਾਣਕਾਰੀ, ਉਸ ਸਮੇਂ ਰੱਖਣ ਵਾਲੀ ਸਫਾਈ ਅਤੇ ਇਸ ਨਾਲ ਜੁੜੇ ਧਾਰਮਿਕ ਨਿਯਮਾਂ ਦੀ ਵਿਆਖਿਆ ਕਰਦਾ ਹੈ।",
+   "author": "ഡോ. റഫീദ കെ.",
+   "issue_date": "2026-08-22",
+   "html_url": "/pa/health/when-menstruating-20260822-4.html",
+   "md_url": "/pa/health/when-menstruating-20260822-4.md"
   },
   {
    "slug": "islamophobia-archetypes-of-ancient-history-20170225-3",
