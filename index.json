@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T13:31:11.378668+00:00",
+ "generated_at": "2026-09-15T13:32:06.088920+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5169,
+ "count": 5170,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -45320,6 +45320,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/so/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.html",
    "md_url": "/so/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.md"
+  },
+  {
+   "slug": "surah-ash-shu-ara-the-poets-20260822-7",
+   "lang": "so",
+   "category": "quran",
+   "title": "Suuradda: Ash-Shu'araa' - Abwaannada",
+   "summary": "Tafsiirka aayadaha Suuradda Ash-Shu'araa'. Qaybtan waxay ka hadlaysaa taariikhda nabiyada iyo baaqyadii ay u jeediyeen dadkooda.",
+   "author": "അബ്ദുറഹ്മാനുബ്നു നാസിറുസ്സഅ്ദി",
+   "issue_date": "2026-08-22",
+   "html_url": "/so/quran/surah-ash-shu-ara-the-poets-20260822-7.html",
+   "md_url": "/so/quran/surah-ash-shu-ara-the-poets-20260822-7.md"
   },
   {
    "slug": "universal-calls-in-the-quran-19-truth-falsehood-and-human-fr-20260822-3",
