@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T08:45:58.530412+00:00",
+ "generated_at": "2026-09-15T08:46:49.831182+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4943,
+ "count": 4944,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -51128,6 +51128,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/ur/hadith/criteria-for-accepting-hadith-20170128-2.html",
    "md_url": "/ur/hadith/criteria-for-accepting-hadith-20170128-2.md"
+  },
+  {
+   "slug": "know-this-for-those-caring-for-the-sick-20260822-1",
+   "lang": "ur",
+   "category": "health",
+   "title": "جانیں؛ مریض کی تیمارداری کرنے والوں کو",
+   "summary": "یہ مضمون مریضوں کی دیکھ بھال کرنے والوں کو درپیش جسمانی اور ذہنی مشکلات پر روشنی ڈالتا ہے اور اس بات پر زور دیتا ہے کہ ان کی اپنی صحت اور آرام کا خیال رکھنا کتنا ضروری ہے۔ یہ دوسروں کو بھی ترغیب دیتا ہے کہ وہ تیمارداروں کی مدد کریں اور ان کی خدمات کو سراہیں۔",
+   "author": "ഡോ. ഫുസ്സൻ നൂരസന്ന",
+   "issue_date": "2026-08-22",
+   "html_url": "/ur/health/know-this-for-those-caring-for-the-sick-20260822-1.html",
+   "md_url": "/ur/health/know-this-for-those-caring-for-the-sick-20260822-1.md"
   },
   {
    "slug": "islamophobia-archetypes-of-ancient-history-20170225-3",
