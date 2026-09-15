@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T11:13:08.451152+00:00",
+ "generated_at": "2026-09-15T11:14:05.413337+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5051,
+ "count": 5052,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -43098,6 +43098,17 @@
    "issue_date": "2026-08-22",
    "html_url": "/si/health/know-this-for-those-caring-for-the-sick-20260822-1.html",
    "md_url": "/si/health/know-this-for-those-caring-for-the-sick-20260822-1.md"
+  },
+  {
+   "slug": "when-menstruating-20260822-4",
+   "lang": "si",
+   "category": "health",
+   "title": "ආර්තවය ආරම්භ වන විට",
+   "summary": "මෙම ලිපිය ගැහැණු ළමයින්ගේ පළමු ආර්තවය පිළිබඳ විද්‍යාත්මක දැනුම, ඒ කාලයේදී අනුගමනය කළ යුතු සනීපාරක්ෂක ක්‍රම සහ ආගමික නීති රීති පිළිබඳව පැහැදිලි කරයි.",
+   "author": "ഡോ. റഫീദ കെ.",
+   "issue_date": "2026-08-22",
+   "html_url": "/si/health/when-menstruating-20260822-4.html",
+   "md_url": "/si/health/when-menstruating-20260822-4.md"
   },
   {
    "slug": "islamophobia-archetypes-of-ancient-history-20170225-3",
