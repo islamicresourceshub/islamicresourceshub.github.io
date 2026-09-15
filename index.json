@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T14:00:12.060511+00:00",
+ "generated_at": "2026-09-15T14:02:07.846670+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5200,
+ "count": 5201,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -37191,6 +37191,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/ms/story/laws-are-to-be-followed-20170128-5.html",
    "md_url": "/ms/story/laws-are-to-be-followed-20170128-5.md"
+  },
+  {
+   "slug": "my-pen-20260822-8",
+   "lang": "ms",
+   "category": "story",
+   "title": "Dakwat Saya",
+   "summary": "Sebuah puisi tentang bagaimana pengalaman hidup dan kenangan bertukar menjadi puisi dan cerita melalui huruf. Ia menggambarkan bagaimana perkataan yang tidak terucap, pertemuan, dan luka masa lalu kembali melalui pena, menjadikan kesedihan lebih ringan dan kenangan yang lapuk tidak lagi menyakitkan.",
+   "author": "നദ ജബീൻ സി. പി.",
+   "issue_date": "2026-08-22",
+   "html_url": "/ms/story/my-pen-20260822-8.html",
+   "md_url": "/ms/story/my-pen-20260822-8.md"
   },
   {
    "slug": "sugar-like-gold-dust-20170128-11",
