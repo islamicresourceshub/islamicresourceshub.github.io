@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T11:33:24.004500+00:00",
+ "generated_at": "2026-09-15T11:34:23.317291+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5072,
+ "count": 5073,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -8558,6 +8558,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/fa/aqeedah/become-the-guardian-of-the-sources-20170128-9.html",
    "md_url": "/fa/aqeedah/become-the-guardian-of-the-sources-20170128-9.md"
+  },
+  {
+   "slug": "celebrating-nabi-day-is-un-islamic-20260822-5",
+   "lang": "fa",
+   "category": "aqeedah",
+   "title": "جشن میلاد پیامبر، بدعتی غیر اسلامی است",
+   "summary": "نویسنده در این مقاله استدلال می‌کند که جشن میلاد پیامبر هیچ مبنایی در متون اصیل اسلامی ندارد و یک بدعت نوظهور در دین محسوب می‌شود. او تأکید می‌کند که پیروی واقعی از پیامبر در تبعیت از سنت ایشان است، نه در برگزاری مراسمی که در زمان صحابه وجود نداشته است.",
+   "author": "ആദിൽ നിസാമുദ്ദീൻ",
+   "issue_date": "2026-08-22",
+   "html_url": "/fa/aqeedah/celebrating-nabi-day-is-un-islamic-20260822-5.html",
+   "md_url": "/fa/aqeedah/celebrating-nabi-day-is-un-islamic-20260822-5.md"
   },
   {
    "slug": "salafiyyah-ideology-and-stance-20170211-8",
