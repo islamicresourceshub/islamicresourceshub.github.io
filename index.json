@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T15:00:21.493023+00:00",
+ "generated_at": "2026-09-15T15:01:17.915533+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5228,
+ "count": 5229,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -9647,6 +9647,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/fa/opinion/strengthening-secular-political-unity-20170218-9.html",
    "md_url": "/fa/opinion/strengthening-secular-political-unity-20170218-9.md"
+  },
+  {
+   "slug": "superstitions-in-modern-homes-20170304-1",
+   "lang": "fa",
+   "category": "opinion",
+   "title": "فضاهای داخلی تحت سلطه خرافات",
+   "summary": "این مقاله بررسی می‌کند که چگونه خرافات در جامعه هند با وجود پیشرفت‌های علمی ریشه‌دار شده‌اند. این یک تحلیل انتقادی از پیامدهای اجتماعی رسوم غیرمنطقی است.",
+   "author": "ഇ.യൂസുഫ് സാഹിബ് നദ്‌വി",
+   "issue_date": "2017-03-04",
+   "html_url": "/fa/opinion/superstitions-in-modern-homes-20170304-1.html",
+   "md_url": "/fa/opinion/superstitions-in-modern-homes-20170304-1.md"
   },
   {
    "slug": "terrorism-and-religious-freedom-20170114-1",
