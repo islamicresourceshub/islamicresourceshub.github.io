@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T12:00:35.557499+00:00",
+ "generated_at": "2026-09-15T12:01:29.513532+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5101,
+ "count": 5102,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -54274,6 +54274,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/vi/aqeedah/become-the-guardian-of-the-sources-20170128-9.html",
    "md_url": "/vi/aqeedah/become-the-guardian-of-the-sources-20170128-9.md"
+  },
+  {
+   "slug": "celebrating-nabi-day-is-un-islamic-20260822-5",
+   "lang": "vi",
+   "category": "aqeedah",
+   "title": "Lễ kỷ niệm ngày sinh của Tiên tri Muhammad là hành vi phi Hồi giáo",
+   "summary": "Tác giả lập luận rằng việc kỷ niệm ngày sinh của Tiên tri Muhammad không có cơ sở trong các văn bản Hồi giáo và đây là một sự đổi mới tôn giáo không được chấp nhận. Bài viết nhấn mạnh tầm quan trọng của việc tuân theo Sunnah thay vì tạo ra các nghi lễ mới.",
+   "author": "ആദിൽ നിസാമുദ്ദീൻ",
+   "issue_date": "2026-08-22",
+   "html_url": "/vi/aqeedah/celebrating-nabi-day-is-un-islamic-20260822-5.html",
+   "md_url": "/vi/aqeedah/celebrating-nabi-day-is-un-islamic-20260822-5.md"
   },
   {
    "slug": "faith-is-the-foundation-of-islam-20170128-13",
