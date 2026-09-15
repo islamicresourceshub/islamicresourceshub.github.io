@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T11:16:58.212036+00:00",
+ "generated_at": "2026-09-15T11:17:55.399856+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5055,
+ "count": 5056,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -47157,6 +47157,17 @@
    "issue_date": "2026-08-22",
    "html_url": "/ta/health/know-this-for-those-caring-for-the-sick-20260822-1.html",
    "md_url": "/ta/health/know-this-for-those-caring-for-the-sick-20260822-1.md"
+  },
+  {
+   "slug": "when-menstruating-20260822-4",
+   "lang": "ta",
+   "category": "health",
+   "title": "பூப்பெய்தும் பருவத்தில்",
+   "summary": "பெண் குழந்தைகளின் முதல் மாதவிடாய் குறித்த அறிவியல் பூர்வமான புரிதலையும், அந்த சமயத்தில் கடைபிடிக்க வேண்டிய சுகாதாரம் மற்றும் இஸ்லாமிய வழிமுறைகளையும் இந்த கட்டுரை விளக்குகிறது.",
+   "author": "ഡോ. റഫീദ കെ.",
+   "issue_date": "2026-08-22",
+   "html_url": "/ta/health/when-menstruating-20260822-4.html",
+   "md_url": "/ta/health/when-menstruating-20260822-4.md"
   },
   {
    "slug": "islamophobia-archetypes-of-ancient-history-20170225-3",
