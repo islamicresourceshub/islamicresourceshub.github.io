@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T08:31:26.189839+00:00",
+ "generated_at": "2026-09-15T08:32:25.045776+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4927,
+ "count": 4928,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -35233,6 +35233,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/ms/hadith/criteria-for-accepting-hadith-20170128-2.html",
    "md_url": "/ms/hadith/criteria-for-accepting-hadith-20170128-2.md"
+  },
+  {
+   "slug": "know-this-for-those-caring-for-the-sick-20260822-1",
+   "lang": "ms",
+   "category": "health",
+   "title": "Ketahuilah; Tentang Mereka yang Merawat Pesakit",
+   "summary": "Artikel ini membincangkan cabaran fizikal dan mental yang dihadapi oleh penjaga pesakit serta kepentingan mereka menjaga kesihatan diri sendiri. Ia mengingatkan kita tentang perlunya memberikan sokongan dan rehat yang mencukupi kepada mereka yang berkorban menjaga insan tersayang.",
+   "author": "ഡോ. ഫുസ്സൻ നൂരസന്ന",
+   "issue_date": "2026-08-22",
+   "html_url": "/ms/health/know-this-for-those-caring-for-the-sick-20260822-1.html",
+   "md_url": "/ms/health/know-this-for-those-caring-for-the-sick-20260822-1.md"
   },
   {
    "slug": "islamophobia-archetypes-of-ancient-history-20170225-3",
