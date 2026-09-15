@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T05:05:34.672508+00:00",
+ "generated_at": "2026-09-15T05:06:27.067698+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4786,
+ "count": 4787,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -48554,6 +48554,17 @@
    "issue_date": "2017-02-25",
    "html_url": "/tr/family/water-and-life-20170225-5.html",
    "md_url": "/tr/family/water-and-life-20170225-5.md"
+  },
+  {
+   "slug": "welcoming-the-newborn-20170225-9",
+   "lang": "tr",
+   "category": "family",
+   "title": "Yeni Misafiri Karşılarken",
+   "summary": "İslami ebeveynlik serimizin bu bölümünde, bebeklerin doğumundan sonra anne ve babaların dikkat etmesi gereken temel İslami uygulamalar ve sorumluluklar ele alınıyor.",
+   "author": "അശ്‌റഫ് എകരൂല്‍",
+   "issue_date": "2017-02-25",
+   "html_url": "/tr/family/welcoming-the-newborn-20170225-9.html",
+   "md_url": "/tr/family/welcoming-the-newborn-20170225-9.md"
   },
   {
    "slug": "alcohol-islam-s-ever-relevant-approach-20170225-6",
