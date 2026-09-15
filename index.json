@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T08:20:30.445407+00:00",
+ "generated_at": "2026-09-15T08:21:37.967254+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4918,
+ "count": 4919,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -10670,6 +10670,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/gu/hadith/criteria-for-accepting-hadith-20170128-2.html",
    "md_url": "/gu/hadith/criteria-for-accepting-hadith-20170128-2.md"
+  },
+  {
+   "slug": "know-this-for-those-caring-for-the-sick-20260822-1",
+   "lang": "gu",
+   "category": "health",
+   "title": "જાણો; દર્દીની સેવા કરનારાઓને",
+   "summary": "આ લેખ દર્દીઓની સેવા કરનારાઓ દ્વારા અનુભવાતી શારીરિક અને માનસિક મુશ્કેલીઓ વિશે ચર્ચા કરે છે. તે દર્દીની સંભાળ રાખનારાઓને પોતાના સ્વાસ્થ્યનું ધ્યાન રાખવા અને અન્ય લોકોએ તેમને ટેકો આપવાની જરૂરિયાત વિશે યાદ અપાવે છે.",
+   "author": "ഡോ. ഫുസ്സൻ നൂരസന്ന",
+   "issue_date": "2026-08-22",
+   "html_url": "/gu/health/know-this-for-those-caring-for-the-sick-20260822-1.html",
+   "md_url": "/gu/health/know-this-for-those-caring-for-the-sick-20260822-1.md"
   },
   {
    "slug": "islamophobia-archetypes-of-ancient-history-20170225-3",
