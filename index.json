@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T12:12:09.088163+00:00",
+ "generated_at": "2026-09-15T12:13:03.125355+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5114,
+ "count": 5115,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -12419,6 +12419,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/ha/opinion/everyone-should-have-a-beard-20170121-3.html",
    "md_url": "/ha/opinion/everyone-should-have-a-beard-20170121-3.md"
+  },
+  {
+   "slug": "freedom-for-what-20260822-6",
+   "lang": "ha",
+   "category": "opinion",
+   "title": "Me me 'yanci?",
+   "summary": "Wannan labari yana yin nazari mai zurfi kan yadda ake amfani da kalmar 'yanci a matsayin garkuwa don aikata rashin da'a da kuma munanan dabi'u a yau. Yana kira ga mutane da su sake tunani kan ma'anar rayuwa da kuma dangantakarsu da Mahalicci.",
+   "author": "നസീമ വാദാനപ്പള്ളി",
+   "issue_date": "2026-08-22",
+   "html_url": "/ha/opinion/freedom-for-what-20260822-6.html",
+   "md_url": "/ha/opinion/freedom-for-what-20260822-6.md"
   },
   {
    "slug": "freedom-of-speech-should-not-be-one-sided-20170211-1",
