@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T09:14:54.433744+00:00",
+ "generated_at": "2026-09-15T09:17:39.696375+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4967,
+ "count": 4968,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -36003,6 +36003,17 @@
    "issue_date": "2017-02-04",
    "html_url": "/ne/aqeedah/they-want-to-see-god-20170204-2.html",
    "md_url": "/ne/aqeedah/they-want-to-see-god-20170204-2.md"
+  },
+  {
+   "slug": "who-is-wrong-in-ideology-20260822-2",
+   "lang": "ne",
+   "category": "aqeedah",
+   "title": "आदर्शमा कसको गल्ती?",
+   "summary": "यो लेख सलाफी पुनर्जागरण आन्दोलनको आलोचना गर्ने एक लेखको जवाफमा लेखिएको हो। यसले तौहीदका आधारभूत सिद्धान्तहरू र शिर्क (अल्लाहसँग अरूलाई साझेदार बनाउने कार्य) सम्बन्धी गलत धारणाहरूको बारेमा चर्चा गर्दछ।",
+   "author": "മൂസ സുലൈമാൻ കാര",
+   "issue_date": "2026-08-22",
+   "html_url": "/ne/aqeedah/who-is-wrong-in-ideology-20260822-2.html",
+   "md_url": "/ne/aqeedah/who-is-wrong-in-ideology-20260822-2.md"
   },
   {
    "slug": "do-not-be-slaves-to-desires-20170211-11",
