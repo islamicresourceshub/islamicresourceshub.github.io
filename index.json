@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T12:43:59.565410+00:00",
+ "generated_at": "2026-09-15T12:44:52.205520+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5151,
+ "count": 5152,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -10626,6 +10626,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/fr/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.html",
    "md_url": "/fr/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.md"
+  },
+  {
+   "slug": "surah-ash-shu-ara-the-poets-20260822-7",
+   "lang": "fr",
+   "category": "quran",
+   "title": "Sourate Ach-Chou'ara - Les Poètes",
+   "summary": "Une exégèse des versets de la sourate Ach-Chou'ara, explorant l'histoire des prophètes et les appels qu'ils ont adressés à leurs peuples. Ce texte offre une réflexion profonde sur la guidance divine et les avertissements adressés aux transgresseurs.",
+   "author": "അബ്ദുറഹ്മാനുബ്നു നാസിറുസ്സഅ്ദി",
+   "issue_date": "2026-08-22",
+   "html_url": "/fr/quran/surah-ash-shu-ara-the-poets-20260822-7.html",
+   "md_url": "/fr/quran/surah-ash-shu-ara-the-poets-20260822-7.md"
   },
   {
    "slug": "universal-calls-in-the-quran-19-truth-falsehood-and-human-fr-20260822-3",
