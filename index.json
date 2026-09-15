@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T05:32:29.484750+00:00",
+ "generated_at": "2026-09-15T05:33:22.168804+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4800,
+ "count": 4801,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -9801,6 +9801,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/fr/story/the-fruit-of-ingratitude-20170121-7.html",
    "md_url": "/fr/story/the-fruit-of-ingratitude-20170121-7.md"
+  },
+  {
+   "slug": "when-the-burden-of-sin-increases-20170225-10",
+   "lang": "fr",
+   "category": "story",
+   "title": "Quand le poids du péché s'alourdit...",
+   "summary": "Une histoire inspirante se déroulant dans le cadre d'une madrasa, illustrant à travers une leçon simple comment les petits péchés accumulés pèsent sur l'âme et comment la repentance apporte la paix intérieure.",
+   "author": "അറബി കഥ - പുനരാഖ്യാനം: തന്‍സീല്‍",
+   "issue_date": "2017-02-25",
+   "html_url": "/fr/story/when-the-burden-of-sin-increases-20170225-10.html",
+   "md_url": "/fr/story/when-the-burden-of-sin-increases-20170225-10.md"
   },
   {
    "slug": "an-agenda-is-needed-during-vacation-too-20170325-1",
