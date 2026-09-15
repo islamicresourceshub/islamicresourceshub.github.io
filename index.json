@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T08:37:12.490650+00:00",
+ "generated_at": "2026-09-15T08:38:03.440734+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4933,
+ "count": 4934,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -41217,6 +41217,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/ru/hadith/criteria-for-accepting-hadith-20170128-2.html",
    "md_url": "/ru/hadith/criteria-for-accepting-hadith-20170128-2.md"
+  },
+  {
+   "slug": "know-this-for-those-caring-for-the-sick-20260822-1",
+   "lang": "ru",
+   "category": "health",
+   "title": "Знайте: о тех, кто ухаживает за больными",
+   "summary": "Эта статья посвящена физическим и психологическим трудностям, с которыми сталкиваются люди, ухаживающие за больными, и подчеркивает важность заботы о собственном здоровье. Автор призывает окружающих оказывать поддержку и проявлять внимание к тем, кто взял на себя этот нелегкий труд.",
+   "author": "ഡോ. ഫുസ്സൻ നൂരസന്ന",
+   "issue_date": "2026-08-22",
+   "html_url": "/ru/health/know-this-for-those-caring-for-the-sick-20260822-1.html",
+   "md_url": "/ru/health/know-this-for-those-caring-for-the-sick-20260822-1.md"
   },
   {
    "slug": "islamophobia-archetypes-of-ancient-history-20170225-3",
