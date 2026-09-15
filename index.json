@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T11:11:16.380165+00:00",
+ "generated_at": "2026-09-15T11:12:11.606194+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5049,
+ "count": 5050,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -41030,6 +41030,17 @@
    "issue_date": "2026-08-22",
    "html_url": "/pt/health/know-this-for-those-caring-for-the-sick-20260822-1.html",
    "md_url": "/pt/health/know-this-for-those-caring-for-the-sick-20260822-1.md"
+  },
+  {
+   "slug": "when-menstruating-20260822-4",
+   "lang": "pt",
+   "category": "health",
+   "title": "Ao atingir a puberdade",
+   "summary": "Este artigo explica o conhecimento científico sobre a primeira menstruação em meninas, bem como a higiene necessária e as regras religiosas a serem seguidas durante esse período.",
+   "author": "ഡോ. റഫീദ കെ.",
+   "issue_date": "2026-08-22",
+   "html_url": "/pt/health/when-menstruating-20260822-4.html",
+   "md_url": "/pt/health/when-menstruating-20260822-4.md"
   },
   {
    "slug": "islamophobia-archetypes-of-ancient-history-20170225-3",
