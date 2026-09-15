@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T14:11:15.199015+00:00",
+ "generated_at": "2026-09-15T14:12:08.010571+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5211,
+ "count": 5212,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -48939,6 +48939,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/ta/story/laws-are-to-be-followed-20170128-5.html",
    "md_url": "/ta/story/laws-are-to-be-followed-20170128-5.md"
+  },
+  {
+   "slug": "my-pen-20260822-8",
+   "lang": "ta",
+   "category": "story",
+   "title": "என் பேனா",
+   "summary": "வாழ்க்கை அனுபவங்களும் நினைவுகளும் எழுத்துக்கள் வழியாக கவிதையாகவும் கதையாகவும் மாறுவதைப் பற்றிய ஒரு கவிதை.",
+   "author": "നദ ജബീൻ സി. പി.",
+   "issue_date": "2026-08-22",
+   "html_url": "/ta/story/my-pen-20260822-8.html",
+   "md_url": "/ta/story/my-pen-20260822-8.md"
   },
   {
    "slug": "sugar-like-gold-dust-20170128-11",
