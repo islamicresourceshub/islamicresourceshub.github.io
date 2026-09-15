@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T10:38:08.556037+00:00",
+ "generated_at": "2026-09-15T10:57:31.987213+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5034,
+ "count": 5035,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -9999,6 +9999,17 @@
    "issue_date": "2026-08-22",
    "html_url": "/fr/health/know-this-for-those-caring-for-the-sick-20260822-1.html",
    "md_url": "/fr/health/know-this-for-those-caring-for-the-sick-20260822-1.md"
+  },
+  {
+   "slug": "when-menstruating-20260822-4",
+   "lang": "fr",
+   "category": "health",
+   "title": "Lorsqu'elle devient pubère",
+   "summary": "Cet article explique les aspects scientifiques de la première menstruation chez les jeunes filles, ainsi que les règles d'hygiène et les principes religieux à observer durant cette période.",
+   "author": "ഡോ. റഫീദ കെ.",
+   "issue_date": "2026-08-22",
+   "html_url": "/fr/health/when-menstruating-20260822-4.html",
+   "md_url": "/fr/health/when-menstruating-20260822-4.md"
   },
   {
    "slug": "islamophobia-archetypes-of-ancient-history-20170225-3",
