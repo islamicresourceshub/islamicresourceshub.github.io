@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T11:32:26.668435+00:00",
+ "generated_at": "2026-09-15T11:33:24.004500+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5071,
+ "count": 5072,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -7513,6 +7513,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/es/aqeedah/become-the-guardian-of-the-sources-20170128-9.html",
    "md_url": "/es/aqeedah/become-the-guardian-of-the-sources-20170128-9.md"
+  },
+  {
+   "slug": "celebrating-nabi-day-is-un-islamic-20260822-5",
+   "lang": "es",
+   "category": "aqeedah",
+   "title": "La celebración del nacimiento del Profeta es, de hecho, ajena al Islam",
+   "summary": "El autor sostiene que la celebración del nacimiento del Profeta, conocida como Mawlid, carece de fundamento en las fuentes islámicas y constituye una innovación religiosa introducida posteriormente en la fe.",
+   "author": "ആദിൽ നിസാമുദ്ദീൻ",
+   "issue_date": "2026-08-22",
+   "html_url": "/es/aqeedah/celebrating-nabi-day-is-un-islamic-20260822-5.html",
+   "md_url": "/es/aqeedah/celebrating-nabi-day-is-un-islamic-20260822-5.md"
   },
   {
    "slug": "faith-is-the-foundation-of-islam-20170128-13",
