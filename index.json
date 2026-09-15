@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T12:01:29.513532+00:00",
+ "generated_at": "2026-09-15T12:02:25.926902+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5102,
+ "count": 5103,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -55319,6 +55319,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/zh/aqeedah/become-the-guardian-of-the-sources-20170128-9.html",
    "md_url": "/zh/aqeedah/become-the-guardian-of-the-sources-20170128-9.md"
+  },
+  {
+   "slug": "celebrating-nabi-day-is-un-islamic-20260822-5",
+   "lang": "zh",
+   "category": "aqeedah",
+   "title": "圣纪节庆祝活动确实不符合伊斯兰教义",
+   "summary": "作者论证了庆祝圣纪节在伊斯兰教法依据中毫无根据，并指出这是一种在宗教中新引入的异端行为。",
+   "author": "ആദിൽ നിസാമുദ്ദീൻ",
+   "issue_date": "2026-08-22",
+   "html_url": "/zh/aqeedah/celebrating-nabi-day-is-un-islamic-20260822-5.html",
+   "md_url": "/zh/aqeedah/celebrating-nabi-day-is-un-islamic-20260822-5.md"
   },
   {
    "slug": "faith-is-the-foundation-of-islam-20170128-13",
