@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T09:56:35.116251+00:00",
+ "generated_at": "2026-09-15T09:57:30.810195+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5006,
+ "count": 5007,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -36993,6 +36993,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/ne/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.html",
    "md_url": "/ne/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.md"
+  },
+  {
+   "slug": "universal-calls-in-the-quran-19-truth-falsehood-and-human-fr-20260822-3",
+   "lang": "ne",
+   "category": "quran",
+   "title": "कुरानका विश्वव्यापी आह्वानहरू १९: सत्य, असत्य र मानिसको स्वतन्त्र छनौट",
+   "summary": "सुराह युनुसका आयतहरूमा आधारित रहेर, यो लेखले सत्य पहिचान गर्न र सही मार्ग रोज्नका लागि मानिसलाई दिइएको स्वतन्त्रता र त्यससँग जोडिएको व्यक्तिगत उत्तरदायित्वको बारेमा व्याख्या गर्दछ।",
+   "author": "ഇജാസ് ബിൻ ഇസ്മാഈൽ",
+   "issue_date": "2026-08-22",
+   "html_url": "/ne/quran/universal-calls-in-the-quran-19-truth-falsehood-and-human-fr-20260822-3.html",
+   "md_url": "/ne/quran/universal-calls-in-the-quran-19-truth-falsehood-and-human-fr-20260822-3.md"
   },
   {
    "slug": "what-to-beware-of-when-taking-sides-20170128-7",
