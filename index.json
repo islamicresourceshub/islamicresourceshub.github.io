@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T06:52:20.865619+00:00",
+ "generated_at": "2026-09-15T06:53:44.521141+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4887,
+ "count": 4888,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -34210,6 +34210,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/mr/opinion/muslim-extremists-defame-islam-20170114-7.html",
    "md_url": "/mr/opinion/muslim-extremists-defame-islam-20170114-7.md"
+  },
+  {
+   "slug": "none-should-forget-the-path-they-came-from-20170225-13",
+   "lang": "mr",
+   "category": "opinion",
+   "title": "कोणीही आपला भूतकाळ विसरू नये",
+   "summary": "हा लेख सामाजिक सेवा आणि कृतज्ञतेचे महत्त्व एका वैयक्तिक अनुभवाच्या माध्यमातून मांडतो. आपल्या यशाच्या शिखरावर असतानाही आपली मुळे आणि आपण कुठून आलो आहोत हे लक्षात ठेवणे किती आवश्यक आहे, हे यात अधोरेखित केले आहे.",
+   "author": "ഇബ്‌നു അലി എടത്തനാട്ടുകര",
+   "issue_date": "2017-02-25",
+   "html_url": "/mr/opinion/none-should-forget-the-path-they-came-from-20170225-13.html",
+   "md_url": "/mr/opinion/none-should-forget-the-path-they-came-from-20170225-13.md"
   },
   {
    "slug": "rohingya-muslims-victims-of-racial-hatred-20170128-10",
