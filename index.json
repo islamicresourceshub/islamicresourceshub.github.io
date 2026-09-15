@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T10:35:31.855720+00:00",
+ "generated_at": "2026-09-15T10:36:22.289517+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5031,
+ "count": 5032,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -6919,6 +6919,17 @@
    "issue_date": "2026-08-22",
    "html_url": "/en/health/know-this-for-those-caring-for-the-sick-20260822-1.html",
    "md_url": "/en/health/know-this-for-those-caring-for-the-sick-20260822-1.md"
+  },
+  {
+   "slug": "when-menstruating-20260822-4",
+   "lang": "en",
+   "category": "health",
+   "title": "When Menstruation Begins",
+   "summary": "This article provides scientific knowledge regarding the onset of menstruation in girls, along with essential guidance on hygiene and religious obligations during this period.",
+   "author": "ഡോ. റഫീദ കെ.",
+   "issue_date": "2026-08-22",
+   "html_url": "/en/health/when-menstruating-20260822-4.html",
+   "md_url": "/en/health/when-menstruating-20260822-4.md"
   },
   {
    "slug": "islamophobia-archetypes-of-ancient-history-20170225-3",
