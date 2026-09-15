@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T09:28:09.352680+00:00",
+ "generated_at": "2026-09-15T09:29:14.577199+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4977,
+ "count": 4978,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -46035,6 +46035,17 @@
    "issue_date": "2017-02-04",
    "html_url": "/ta/aqeedah/they-want-to-see-god-20170204-2.html",
    "md_url": "/ta/aqeedah/they-want-to-see-god-20170204-2.md"
+  },
+  {
+   "slug": "who-is-wrong-in-ideology-20260822-2",
+   "lang": "ta",
+   "category": "aqeedah",
+   "title": "கொள்கையில் வழிதவறியது யார்?",
+   "summary": "சலபி மறுமலர்ச்சி இயக்கத்தை விமர்சித்து எழுதப்பட்ட ஒரு கட்டுரைக்கு மறுமொழியாக எழுதப்பட்ட கட்டுரை இது. தவ்ஹீதின் அடிப்படைத் தத்துவங்களையும், ஷிர்க் (இணைவைப்பு) குறித்த தவறான புரிதல்களையும் இக்கட்டுரை அலசுகிறது.",
+   "author": "മൂസ സുലൈമാൻ കാര",
+   "issue_date": "2026-08-22",
+   "html_url": "/ta/aqeedah/who-is-wrong-in-ideology-20260822-2.html",
+   "md_url": "/ta/aqeedah/who-is-wrong-in-ideology-20260822-2.md"
   },
   {
    "slug": "do-not-be-slaves-to-desires-20170211-11",
