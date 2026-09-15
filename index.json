@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T04:54:12.714614+00:00",
+ "generated_at": "2026-09-15T04:55:07.989935+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4774,
+ "count": 4775,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -37180,6 +37180,17 @@
    "issue_date": "2017-02-25",
    "html_url": "/pa/family/water-and-life-20170225-5.html",
    "md_url": "/pa/family/water-and-life-20170225-5.md"
+  },
+  {
+   "slug": "welcoming-the-newborn-20170225-9",
+   "lang": "pa",
+   "category": "family",
+   "title": "ਨਵੇਂ ਮਹਿਮਾਨ ਦਾ ਸੁਆਗਤ ਕਰਦੇ ਸਮੇਂ",
+   "summary": "ਇਸਲਾਮਿਕ ਪਾਲਣ-ਪੋਸ਼ਣ ਲੜੀ ਦੇ ਹਿੱਸੇ ਵਜੋਂ, ਇਹ ਲੇਖ ਬੱਚਿਆਂ ਦੇ ਜਨਮ ਤੋਂ ਬਾਅਦ ਮਾਪਿਆਂ ਦੁਆਰਾ ਧਿਆਨ ਵਿੱਚ ਰੱਖਣ ਵਾਲੀਆਂ ਜ਼ਰੂਰੀ ਗੱਲਾਂ ਬਾਰੇ ਮਾਰਗਦਰਸ਼ਨ ਕਰਦਾ ਹੈ।",
+   "author": "അശ്‌റഫ് എകരൂല്‍",
+   "issue_date": "2017-02-25",
+   "html_url": "/pa/family/welcoming-the-newborn-20170225-9.html",
+   "md_url": "/pa/family/welcoming-the-newborn-20170225-9.md"
   },
   {
    "slug": "alcohol-islam-s-ever-relevant-approach-20170225-6",
