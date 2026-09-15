@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T08:57:21.125758+00:00",
+ "generated_at": "2026-09-15T08:58:22.752055+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4954,
+ "count": 4955,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -7315,6 +7315,17 @@
    "issue_date": "2017-02-04",
    "html_url": "/es/aqeedah/they-want-to-see-god-20170204-2.html",
    "md_url": "/es/aqeedah/they-want-to-see-god-20170204-2.md"
+  },
+  {
+   "slug": "who-is-wrong-in-ideology-20260822-2",
+   "lang": "es",
+   "category": "aqeedah",
+   "title": "¿Quién se ha desviado en su ideología?",
+   "summary": "Este artículo es una respuesta a una crítica dirigida al movimiento de reforma salafista. Analiza los principios fundamentales del Tawhid y aclara los conceptos erróneos sobre el Shirk, refutando los argumentos presentados por los críticos sobre la intercesión y la adoración.",
+   "author": "മൂസ സുലൈമാൻ കാര",
+   "issue_date": "2026-08-22",
+   "html_url": "/es/aqeedah/who-is-wrong-in-ideology-20260822-2.html",
+   "md_url": "/es/aqeedah/who-is-wrong-in-ideology-20260822-2.md"
   },
   {
    "slug": "do-not-be-slaves-to-desires-20170211-11",
