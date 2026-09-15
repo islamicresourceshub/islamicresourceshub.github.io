@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T11:23:38.562371+00:00",
+ "generated_at": "2026-09-15T11:24:47.473377+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5062,
+ "count": 5063,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -54373,6 +54373,17 @@
    "issue_date": "2026-08-22",
    "html_url": "/vi/health/know-this-for-those-caring-for-the-sick-20260822-1.html",
    "md_url": "/vi/health/know-this-for-those-caring-for-the-sick-20260822-1.md"
+  },
+  {
+   "slug": "when-menstruating-20260822-4",
+   "lang": "vi",
+   "category": "health",
+   "title": "Khi con gái bước vào tuổi dậy thì",
+   "summary": "Bài viết này cung cấp những kiến thức khoa học về kỳ kinh nguyệt đầu tiên của các bé gái, đồng thời hướng dẫn về vệ sinh cá nhân và các quy định tôn giáo cần lưu ý trong giai đoạn này.",
+   "author": "ഡോ. റഫീദ കെ.",
+   "issue_date": "2026-08-22",
+   "html_url": "/vi/health/when-menstruating-20260822-4.html",
+   "md_url": "/vi/health/when-menstruating-20260822-4.md"
   },
   {
    "slug": "islamophobia-archetypes-of-ancient-history-20170225-3",
