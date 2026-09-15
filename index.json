@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T11:38:39.810014+00:00",
+ "generated_at": "2026-09-15T11:39:32.930085+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5078,
+ "count": 5079,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -14784,6 +14784,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/it/aqeedah/become-the-guardian-of-the-sources-20170128-9.html",
    "md_url": "/it/aqeedah/become-the-guardian-of-the-sources-20170128-9.md"
+  },
+  {
+   "slug": "celebrating-nabi-day-is-un-islamic-20260822-5",
+   "lang": "it",
+   "category": "aqeedah",
+   "title": "La celebrazione del compleanno del Profeta è effettivamente non islamica",
+   "summary": "L'autore sostiene che la celebrazione del compleanno del Profeta non ha alcuna base nelle fonti islamiche e che si tratta di un'innovazione introdotta successivamente nella religione.",
+   "author": "ആദിൽ നിസാമുദ്ദീൻ",
+   "issue_date": "2026-08-22",
+   "html_url": "/it/aqeedah/celebrating-nabi-day-is-un-islamic-20260822-5.html",
+   "md_url": "/it/aqeedah/celebrating-nabi-day-is-un-islamic-20260822-5.md"
   },
   {
    "slug": "faith-is-the-foundation-of-islam-20170128-13",
