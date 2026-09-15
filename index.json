@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T12:34:35.099365+00:00",
+ "generated_at": "2026-09-15T12:35:25.575223+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5140,
+ "count": 5141,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -55308,6 +55308,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/vi/opinion/everyone-should-have-a-beard-20170121-3.html",
    "md_url": "/vi/opinion/everyone-should-have-a-beard-20170121-3.md"
+  },
+  {
+   "slug": "freedom-for-what-20260822-6",
+   "lang": "vi",
+   "category": "opinion",
+   "title": "Tự do để làm gì?",
+   "summary": "Bài viết này xem xét một cách phê phán những hỗn loạn và xu hướng sai lệch đang diễn ra dưới danh nghĩa tự do ngày nay. Tác giả nhấn mạnh tầm quan trọng của việc nhận thức đúng đắn về mục đích sống thông qua mối quan hệ với Đấng Tạo Hóa.",
+   "author": "നസീമ വാദാനപ്പള്ളി",
+   "issue_date": "2026-08-22",
+   "html_url": "/vi/opinion/freedom-for-what-20260822-6.html",
+   "md_url": "/vi/opinion/freedom-for-what-20260822-6.md"
   },
   {
    "slug": "freedom-of-speech-should-not-be-one-sided-20170211-1",
