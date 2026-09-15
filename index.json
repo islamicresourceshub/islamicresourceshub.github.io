@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T15:05:08.128893+00:00",
+ "generated_at": "2026-09-15T15:06:10.684724+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5233,
+ "count": 5234,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -15070,6 +15070,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/id/opinion/strengthening-secular-political-unity-20170218-9.html",
    "md_url": "/id/opinion/strengthening-secular-political-unity-20170218-9.md"
+  },
+  {
+   "slug": "superstitions-in-modern-homes-20170304-1",
+   "lang": "id",
+   "category": "opinion",
+   "title": "Ruang-ruang yang Dikuasai oleh Takhayul",
+   "summary": "Artikel ini mengkaji bagaimana takhayul tertanam dalam masyarakat India meskipun ada kemajuan ilmiah. Ini adalah analisis kritis tentang konsekuensi sosial dari praktik-praktik yang tidak rasional.",
+   "author": "ഇ.യൂസുഫ് സാഹിബ് നദ്‌വി",
+   "issue_date": "2017-03-04",
+   "html_url": "/id/opinion/superstitions-in-modern-homes-20170304-1.html",
+   "md_url": "/id/opinion/superstitions-in-modern-homes-20170304-1.md"
   },
   {
    "slug": "terrorism-and-religious-freedom-20170114-1",
