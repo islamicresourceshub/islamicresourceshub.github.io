@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T10:31:46.429979+00:00",
+ "generated_at": "2026-09-15T10:32:38.766082+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5027,
+ "count": 5028,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -2794,6 +2794,17 @@
    "issue_date": "2026-08-22",
    "html_url": "/as/health/know-this-for-those-caring-for-the-sick-20260822-1.html",
    "md_url": "/as/health/know-this-for-those-caring-for-the-sick-20260822-1.md"
+  },
+  {
+   "slug": "when-menstruating-20260822-4",
+   "lang": "as",
+   "category": "health",
+   "title": "ঋতুমতী হোৱাৰ সময়ত",
+   "summary": "এই প্ৰবন্ধটোৱে কিশোৰীসকলৰ প্ৰথম ঋতুস্ৰাৱৰ সৈতে জড়িত বৈজ্ঞানিক জ্ঞান, সেই সময়ত পালন কৰিবলগীয়া স্বাস্থ্যবিধি আৰু ধৰ্মীয় নিয়মসমূহৰ বিষয়ে বিতংভাৱে আলোচনা কৰে।",
+   "author": "ഡോ. റഫീദ കെ.",
+   "issue_date": "2026-08-22",
+   "html_url": "/as/health/when-menstruating-20260822-4.html",
+   "md_url": "/as/health/when-menstruating-20260822-4.md"
   },
   {
    "slug": "islamophobia-archetypes-of-ancient-history-20170225-3",
