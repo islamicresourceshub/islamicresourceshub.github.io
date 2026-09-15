@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T14:22:03.085826+00:00",
+ "generated_at": "2026-09-15T14:23:22.725998+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5222,
+ "count": 5223,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -3146,6 +3146,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/as/opinion/strengthening-secular-political-unity-20170218-9.html",
    "md_url": "/as/opinion/strengthening-secular-political-unity-20170218-9.md"
+  },
+  {
+   "slug": "superstitions-in-modern-homes-20170304-1",
+   "lang": "as",
+   "category": "opinion",
+   "title": "অন্ধবিশ্বাসৰ কবলত অন্দৰমহল",
+   "summary": "এই প্ৰবন্ধটোৱে বৈজ্ঞানিক প্ৰগতিৰ স্বত্বেও ভাৰতীয় সমাজত অন্ধবিশ্বাস কেনেকৈ শিপাই আছে তাৰ ওপৰত আলোকপাত কৰে। ই কুসংস্কাৰসমূহৰ সামাজিক প্ৰভাৱৰ এক সমালোচনাত্মক বিশ্লেষণ।",
+   "author": "ഇ.യൂസുഫ് സാഹിബ് നദ്‌വി",
+   "issue_date": "2017-03-04",
+   "html_url": "/as/opinion/superstitions-in-modern-homes-20170304-1.html",
+   "md_url": "/as/opinion/superstitions-in-modern-homes-20170304-1.md"
   },
   {
    "slug": "terrorism-and-religious-freedom-20170114-1",
