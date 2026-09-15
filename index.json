@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T10:33:37.465551+00:00",
+ "generated_at": "2026-09-15T10:34:37.129425+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5029,
+ "count": 5030,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -4851,6 +4851,17 @@
    "issue_date": "2026-08-22",
    "html_url": "/bs/health/know-this-for-those-caring-for-the-sick-20260822-1.html",
    "md_url": "/bs/health/know-this-for-those-caring-for-the-sick-20260822-1.md"
+  },
+  {
+   "slug": "when-menstruating-20260822-4",
+   "lang": "bs",
+   "category": "health",
+   "title": "Kada djevojčica postane punoljetna",
+   "summary": "Ovaj članak pruža naučna saznanja o prvoj menstruaciji kod djevojčica, objašnjavajući važnost higijene, pravilne ishrane i vjerskih propisa koje treba poštovati u tom periodu.",
+   "author": "ഡോ. റഫീദ കെ.",
+   "issue_date": "2026-08-22",
+   "html_url": "/bs/health/when-menstruating-20260822-4.html",
+   "md_url": "/bs/health/when-menstruating-20260822-4.md"
   },
   {
    "slug": "islamophobia-archetypes-of-ancient-history-20170225-3",
