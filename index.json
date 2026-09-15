@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T15:10:27.356021+00:00",
+ "generated_at": "2026-09-15T15:11:31.479987+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5237,
+ "count": 5238,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -19404,6 +19404,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/ko/opinion/strengthening-secular-political-unity-20170218-9.html",
    "md_url": "/ko/opinion/strengthening-secular-political-unity-20170218-9.md"
+  },
+  {
+   "slug": "superstitions-in-modern-homes-20170304-1",
+   "lang": "ko",
+   "category": "opinion",
+   "title": "미신이 지배하는 실내",
+   "summary": "이 글은 과학 기술의 발전에도 불구하고 인도 사회에 미신이 어떻게 뿌리내리고 있는지 살펴봅니다. 이는 비합리적인 관습의 사회적 영향에 대한 비판적 분석입니다.",
+   "author": "ഇ.യൂസുഫ് സാഹിബ് നദ്‌വി",
+   "issue_date": "2017-03-04",
+   "html_url": "/ko/opinion/superstitions-in-modern-homes-20170304-1.html",
+   "md_url": "/ko/opinion/superstitions-in-modern-homes-20170304-1.md"
   },
   {
    "slug": "terrorism-and-religious-freedom-20170114-1",
