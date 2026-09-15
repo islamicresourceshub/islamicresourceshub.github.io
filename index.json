@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T14:24:49.458521+00:00",
+ "generated_at": "2026-09-15T14:26:02.861845+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5224,
+ "count": 5225,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -5313,6 +5313,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/bs/opinion/strengthening-secular-political-unity-20170218-9.html",
    "md_url": "/bs/opinion/strengthening-secular-political-unity-20170218-9.md"
+  },
+  {
+   "slug": "superstitions-in-modern-homes-20170304-1",
+   "lang": "bs",
+   "category": "opinion",
+   "title": "Domovi u kojima vladaju praznovjerja",
+   "summary": "Ovaj članak istražuje kako su praznovjerja ostala duboko ukorijenjena u indijskom društvu uprkos naučnom napretku. Autor nudi kritičku analizu društvenih posljedica takvih iracionalnih praksi.",
+   "author": "ഇ.യൂസുഫ് സാഹിബ് നദ്‌വി",
+   "issue_date": "2017-03-04",
+   "html_url": "/bs/opinion/superstitions-in-modern-homes-20170304-1.html",
+   "md_url": "/bs/opinion/superstitions-in-modern-homes-20170304-1.md"
   },
   {
    "slug": "terrorism-and-religious-freedom-20170114-1",
