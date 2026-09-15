@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T05:01:02.268835+00:00",
+ "generated_at": "2026-09-15T05:01:55.446401+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4781,
+ "count": 4782,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -43824,6 +43824,17 @@
    "issue_date": "2017-02-25",
    "html_url": "/sw/family/water-and-life-20170225-5.html",
    "md_url": "/sw/family/water-and-life-20170225-5.md"
+  },
+  {
+   "slug": "welcoming-the-newborn-20170225-9",
+   "lang": "sw",
+   "category": "family",
+   "title": "Wakati wa Kumkaribisha Mgeni Mpya",
+   "summary": "Kama sehemu ya mfululizo wa malezi ya Kiislamu, makala hii inatoa mwongozo kwa wazazi kuhusu mambo muhimu ya kuzingatia baada ya mtoto kuzaliwa.",
+   "author": "അശ്‌റഫ് എകരൂല്‍",
+   "issue_date": "2017-02-25",
+   "html_url": "/sw/family/welcoming-the-newborn-20170225-9.html",
+   "md_url": "/sw/family/welcoming-the-newborn-20170225-9.md"
   },
   {
    "slug": "alcohol-islam-s-ever-relevant-approach-20170225-6",
