@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T12:28:44.779685+00:00",
+ "generated_at": "2026-09-15T12:29:37.263305+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5133,
+ "count": 5134,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -47938,6 +47938,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/ta/opinion/everyone-should-have-a-beard-20170121-3.html",
    "md_url": "/ta/opinion/everyone-should-have-a-beard-20170121-3.md"
+  },
+  {
+   "slug": "freedom-for-what-20260822-6",
+   "lang": "ta",
+   "category": "opinion",
+   "title": "சுதந்திரம் எதற்கு?",
+   "summary": "சுதந்திரம் என்ற சொல்லின் பெயரால் இன்று அரங்கேறும் அராஜகங்களையும் தவறான போக்குகளையும் விமர்சன ரீதியாக அணுகும் கட்டுரை. மனிதன் தனது வாழ்வின் நோக்கத்தை மறந்து திசைமாறிச் செல்வதை இது சுட்டிக்காட்டுகிறது.",
+   "author": "നസീമ വാദാനപ്പള്ളി",
+   "issue_date": "2026-08-22",
+   "html_url": "/ta/opinion/freedom-for-what-20260822-6.html",
+   "md_url": "/ta/opinion/freedom-for-what-20260822-6.md"
   },
   {
    "slug": "freedom-of-speech-should-not-be-one-sided-20170211-1",
