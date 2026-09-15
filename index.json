@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T13:49:19.476040+00:00",
+ "generated_at": "2026-09-15T13:50:10.318001+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5189,
+ "count": 5190,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -9790,6 +9790,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/fa/story/laws-are-to-be-followed-20170128-5.html",
    "md_url": "/fa/story/laws-are-to-be-followed-20170128-5.md"
+  },
+  {
+   "slug": "my-pen-20260822-8",
+   "lang": "fa",
+   "category": "story",
+   "title": "قلم من",
+   "summary": "شعری درباره تبدیل شدن تجربیات زندگی و خاطرات به شعر و داستان از طریق کلمات. این اثر به چگونگی بازتاب احساسات و دردهای درونی در قالب نوشته‌ها می‌پردازد.",
+   "author": "നദ ജബീൻ സി. പി.",
+   "issue_date": "2026-08-22",
+   "html_url": "/fa/story/my-pen-20260822-8.html",
+   "md_url": "/fa/story/my-pen-20260822-8.md"
   },
   {
    "slug": "sugar-like-gold-dust-20170128-11",
