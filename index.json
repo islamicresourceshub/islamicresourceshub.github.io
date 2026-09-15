@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T13:41:03.759047+00:00",
+ "generated_at": "2026-09-15T13:42:00.792796+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5180,
+ "count": 5181,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -56991,6 +56991,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/zh/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.html",
    "md_url": "/zh/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.md"
+  },
+  {
+   "slug": "surah-ash-shu-ara-the-poets-20260822-7",
+   "lang": "zh",
+   "category": "quran",
+   "title": "古兰经：众诗人章",
+   "summary": "本文是对《古兰经》众诗人章（Surah Ash-Shu'ara）部分经文的注释，详细阐述了先知们的历史及其对民众的劝诫。",
+   "author": "അബ്ദുറഹ്മാനുബ്നു നാസിറുസ്സഅ്ദി",
+   "issue_date": "2026-08-22",
+   "html_url": "/zh/quran/surah-ash-shu-ara-the-poets-20260822-7.html",
+   "md_url": "/zh/quran/surah-ash-shu-ara-the-poets-20260822-7.md"
   },
   {
    "slug": "universal-calls-in-the-quran-19-truth-falsehood-and-human-fr-20260822-3",
