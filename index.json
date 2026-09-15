@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T12:26:06.097643+00:00",
+ "generated_at": "2026-09-15T12:26:59.727749+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5130,
+ "count": 5131,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -44825,6 +44825,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/so/opinion/everyone-should-have-a-beard-20170121-3.html",
    "md_url": "/so/opinion/everyone-should-have-a-beard-20170121-3.md"
+  },
+  {
+   "slug": "freedom-for-what-20260822-6",
+   "lang": "so",
+   "category": "opinion",
+   "title": "Maxay tahay xorriyad?",
+   "summary": "Maqaalkan wuxuu si dhaliil leh u eegayaa fowdada iyo dhaqamada qalloocan ee maanta lagu qariyo magaca xorriyadda. Wuxuu iftiiminayaa baahida loo qabo in bini'aadamku garto ujeeddada dhabta ah ee noloshiisa iyo xiriirka uu la leeyahay Rabbigiis.",
+   "author": "നസീമ വാദാനപ്പള്ളി",
+   "issue_date": "2026-08-22",
+   "html_url": "/so/opinion/freedom-for-what-20260822-6.html",
+   "md_url": "/so/opinion/freedom-for-what-20260822-6.md"
   },
   {
    "slug": "freedom-of-speech-should-not-be-one-sided-20170211-1",
