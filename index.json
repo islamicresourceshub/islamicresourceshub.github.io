@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T11:05:36.990820+00:00",
+ "generated_at": "2026-09-15T11:06:34.798784+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5043,
+ "count": 5044,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -34870,6 +34870,17 @@
    "issue_date": "2026-08-22",
    "html_url": "/mr/health/know-this-for-those-caring-for-the-sick-20260822-1.html",
    "md_url": "/mr/health/know-this-for-those-caring-for-the-sick-20260822-1.md"
+  },
+  {
+   "slug": "when-menstruating-20260822-4",
+   "lang": "mr",
+   "category": "health",
+   "title": "ऋतुमती होताना",
+   "summary": "मुलींमधील पहिल्या मासिक पाळीबद्दलची शास्त्रीय माहिती, त्या काळात पाळायची स्वच्छता आणि धार्मिक नियम या लेखात स्पष्ट केले आहेत.",
+   "author": "ഡോ. റഫീദ കെ.",
+   "issue_date": "2026-08-22",
+   "html_url": "/mr/health/when-menstruating-20260822-4.html",
+   "md_url": "/mr/health/when-menstruating-20260822-4.md"
   },
   {
    "slug": "islamophobia-archetypes-of-ancient-history-20170225-3",
