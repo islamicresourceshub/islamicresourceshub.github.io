@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T11:51:29.906360+00:00",
+ "generated_at": "2026-09-15T11:52:27.202193+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5092,
+ "count": 5093,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -44924,6 +44924,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/sq/aqeedah/become-the-guardian-of-the-sources-20170128-9.html",
    "md_url": "/sq/aqeedah/become-the-guardian-of-the-sources-20170128-9.md"
+  },
+  {
+   "slug": "celebrating-nabi-day-is-un-islamic-20260822-5",
+   "lang": "sq",
+   "category": "aqeedah",
+   "title": "Festimi i ditëlindjes së Profetit është vërtet jo-islamik",
+   "summary": "Autori argumenton se festimi i ditëlindjes së Profetit nuk ka asnjë bazë në burimet islame dhe se ky është një ritual i futur rishtazi në fe.",
+   "author": "ആദിൽ നിസാമുദ്ദീൻ",
+   "issue_date": "2026-08-22",
+   "html_url": "/sq/aqeedah/celebrating-nabi-day-is-un-islamic-20260822-5.html",
+   "md_url": "/sq/aqeedah/celebrating-nabi-day-is-un-islamic-20260822-5.md"
   },
   {
    "slug": "faith-is-the-foundation-of-islam-20170128-13",
