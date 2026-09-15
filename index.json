@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T11:03:46.301366+00:00",
+ "generated_at": "2026-09-15T11:04:43.108240+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5041,
+ "count": 5042,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -17204,6 +17204,17 @@
    "issue_date": "2026-08-22",
    "html_url": "/kn/health/know-this-for-those-caring-for-the-sick-20260822-1.html",
    "md_url": "/kn/health/know-this-for-those-caring-for-the-sick-20260822-1.md"
+  },
+  {
+   "slug": "when-menstruating-20260822-4",
+   "lang": "kn",
+   "category": "health",
+   "title": "ಋತುಮತಿಯಾದಾಗ",
+   "summary": "ಹೆಣ್ಣುಮಕ್ಕಳ ಮೊದಲ ಮುಟ್ಟಿನ ಕುರಿತಾದ ವೈಜ್ಞಾನಿಕ ತಿಳುವಳಿಕೆ, ಆ ಸಮಯದಲ್ಲಿ ಪಾಲಿಸಬೇಕಾದ ನೈರ್ಮಲ್ಯ ಮತ್ತು ಧಾರ್ಮಿಕ ನಿಯಮಗಳ ಕುರಿತು ಈ ಲೇಖನ ವಿವರಿಸುತ್ತದೆ.",
+   "author": "ഡോ. റഫീദ കെ.",
+   "issue_date": "2026-08-22",
+   "html_url": "/kn/health/when-menstruating-20260822-4.html",
+   "md_url": "/kn/health/when-menstruating-20260822-4.md"
   },
   {
    "slug": "islamophobia-archetypes-of-ancient-history-20170225-3",
