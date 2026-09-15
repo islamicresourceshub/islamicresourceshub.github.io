@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T13:50:10.318001+00:00",
+ "generated_at": "2026-09-15T13:51:40.722757+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5190,
+ "count": 5191,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -10857,6 +10857,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/fr/story/laws-are-to-be-followed-20170128-5.html",
    "md_url": "/fr/story/laws-are-to-be-followed-20170128-5.md"
+  },
+  {
+   "slug": "my-pen-20260822-8",
+   "lang": "fr",
+   "category": "story",
+   "title": "Ma plume",
+   "summary": "Un poème sur la manière dont les expériences de vie et les souvenirs se transforment en poésie et en récits à travers l'écriture. Il explore comment les mots non dits trouvent une nouvelle vie sur le papier.",
+   "author": "നദ ജബീൻ സി. പി.",
+   "issue_date": "2026-08-22",
+   "html_url": "/fr/story/my-pen-20260822-8.html",
+   "md_url": "/fr/story/my-pen-20260822-8.md"
   },
   {
    "slug": "sugar-like-gold-dust-20170128-11",
