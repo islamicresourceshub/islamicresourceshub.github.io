@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T08:42:34.819274+00:00",
+ "generated_at": "2026-09-15T08:43:24.495427+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4939,
+ "count": 4940,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -47124,6 +47124,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/te/hadith/criteria-for-accepting-hadith-20170128-2.html",
    "md_url": "/te/hadith/criteria-for-accepting-hadith-20170128-2.md"
+  },
+  {
+   "slug": "know-this-for-those-caring-for-the-sick-20260822-1",
+   "lang": "te",
+   "category": "health",
+   "title": "తెలుసుకోండి; రోగిని చూసుకునే వారి గురించి",
+   "summary": "రోగులను చూసుకునే వారు ఎదుర్కొనే శారీరక, మానసిక ఒత్తిడిల గురించి మరియు వారు తమను తాము ఎలా జాగ్రత్తగా చూసుకోవాలో ఈ వ్యాసం వివరిస్తుంది. రోగిని చూసుకునే వారికి విశ్రాంతి మరియు ఇతరుల మద్దతు ఎంత అవసరమో ఇది గుర్తు చేస్తుంది.",
+   "author": "ഡോ. ഫുസ്സൻ നൂരസന്ന",
+   "issue_date": "2026-08-22",
+   "html_url": "/te/health/know-this-for-those-caring-for-the-sick-20260822-1.html",
+   "md_url": "/te/health/know-this-for-those-caring-for-the-sick-20260822-1.md"
   },
   {
    "slug": "islamophobia-archetypes-of-ancient-history-20170225-3",
