@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T12:24:21.969336+00:00",
+ "generated_at": "2026-09-15T12:25:13.581069+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5128,
+ "count": 5129,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -42735,6 +42735,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/ru/opinion/everyone-should-have-a-beard-20170121-3.html",
    "md_url": "/ru/opinion/everyone-should-have-a-beard-20170121-3.md"
+  },
+  {
+   "slug": "freedom-for-what-20260822-6",
+   "lang": "ru",
+   "category": "opinion",
+   "title": "Зачем нужна свобода?",
+   "summary": "Статья критически рассматривает хаос и ложные тенденции, которые сегодня скрываются под прикрытием слова «свобода». Автор размышляет об истинном смысле человеческого существования и ответственности перед Творцом.",
+   "author": "നസീമ വാദാനപ്പള്ളി",
+   "issue_date": "2026-08-22",
+   "html_url": "/ru/opinion/freedom-for-what-20260822-6.html",
+   "md_url": "/ru/opinion/freedom-for-what-20260822-6.md"
   },
   {
    "slug": "freedom-of-speech-should-not-be-one-sided-20170211-1",
