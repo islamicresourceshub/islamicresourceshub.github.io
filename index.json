@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T11:26:46.972013+00:00",
+ "generated_at": "2026-09-15T11:27:47.639684+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5065,
+ "count": 5066,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -1276,6 +1276,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/ar/aqeedah/become-the-guardian-of-the-sources-20170128-9.html",
    "md_url": "/ar/aqeedah/become-the-guardian-of-the-sources-20170128-9.md"
+  },
+  {
+   "slug": "celebrating-nabi-day-is-un-islamic-20260822-5",
+   "lang": "ar",
+   "category": "aqeedah",
+   "title": "الاحتفال بالمولد النبوي بدعة غير إسلامية",
+   "summary": "يؤكد الكاتب أن الاحتفال بالمولد النبوي لا أصل له في المصادر الإسلامية، معتبراً إياه بدعة محدثة في الدين لم يمارسها النبي صلى الله عليه وسلم ولا صحابته الكرام.",
+   "author": "ആദിൽ നിസാമുദ്ദീൻ",
+   "issue_date": "2026-08-22",
+   "html_url": "/ar/aqeedah/celebrating-nabi-day-is-un-islamic-20260822-5.html",
+   "md_url": "/ar/aqeedah/celebrating-nabi-day-is-un-islamic-20260822-5.md"
   },
   {
    "slug": "faith-is-the-foundation-of-islam-20170128-13",
