@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T08:19:20.951708+00:00",
+ "generated_at": "2026-09-15T08:20:30.445407+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4917,
+ "count": 4918,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -9680,6 +9680,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/fr/hadith/criteria-for-accepting-hadith-20170128-2.html",
    "md_url": "/fr/hadith/criteria-for-accepting-hadith-20170128-2.md"
+  },
+  {
+   "slug": "know-this-for-those-caring-for-the-sick-20260822-1",
+   "lang": "fr",
+   "category": "health",
+   "title": "Sachez ceci : à propos de ceux qui prennent soin des malades",
+   "summary": "Cet article aborde les défis physiques et mentaux auxquels sont confrontés les aidants naturels et souligne l'importance cruciale de leur accorder du repos et du soutien. Il rappelle que prendre soin de soi est essentiel pour pouvoir continuer à accompagner dignement un proche malade.",
+   "author": "ഡോ. ഫുസ്സൻ നൂരസന്ന",
+   "issue_date": "2026-08-22",
+   "html_url": "/fr/health/know-this-for-those-caring-for-the-sick-20260822-1.html",
+   "md_url": "/fr/health/know-this-for-those-caring-for-the-sick-20260822-1.md"
   },
   {
    "slug": "islamophobia-archetypes-of-ancient-history-20170225-3",
