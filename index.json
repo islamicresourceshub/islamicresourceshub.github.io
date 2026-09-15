@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T14:09:28.496645+00:00",
+ "generated_at": "2026-09-15T14:10:22.708725+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5209,
+ "count": 5210,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -46827,6 +46827,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/sq/story/laws-are-to-be-followed-20170128-5.html",
    "md_url": "/sq/story/laws-are-to-be-followed-20170128-5.md"
+  },
+  {
+   "slug": "my-pen-20260822-8",
+   "lang": "sq",
+   "category": "story",
+   "title": "Pena ime",
+   "summary": "Një poezi rreth mënyrës se si përvojat e jetës dhe kujtimet shndërrohen në poezi dhe tregime përmes shkronjave.",
+   "author": "നദ ജബീൻ സി. പി.",
+   "issue_date": "2026-08-22",
+   "html_url": "/sq/story/my-pen-20260822-8.html",
+   "md_url": "/sq/story/my-pen-20260822-8.md"
   },
   {
    "slug": "sugar-like-gold-dust-20170128-11",
