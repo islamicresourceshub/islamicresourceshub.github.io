@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T14:13:01.487539+00:00",
+ "generated_at": "2026-09-15T14:13:55.887874+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5213,
+ "count": 5214,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -51084,6 +51084,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/th/story/laws-are-to-be-followed-20170128-5.html",
    "md_url": "/th/story/laws-are-to-be-followed-20170128-5.md"
+  },
+  {
+   "slug": "my-pen-20260822-8",
+   "lang": "th",
+   "category": "story",
+   "title": "ปลายปากกาของฉัน",
+   "summary": "บทกวีที่ถ่ายทอดเรื่องราวเกี่ยวกับประสบการณ์ชีวิตและความทรงจำที่ถูกเปลี่ยนให้กลายเป็นตัวอักษร ทั้งในรูปแบบของบทกวีและเรื่องเล่า",
+   "author": "നദ ജബീൻ സി. പി.",
+   "issue_date": "2026-08-22",
+   "html_url": "/th/story/my-pen-20260822-8.html",
+   "md_url": "/th/story/my-pen-20260822-8.md"
   },
   {
    "slug": "sugar-like-gold-dust-20170128-11",
