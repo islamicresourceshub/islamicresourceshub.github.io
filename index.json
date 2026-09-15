@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T05:39:22.375429+00:00",
+ "generated_at": "2026-09-15T05:40:13.805645+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4808,
+ "count": 4809,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -17512,6 +17512,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/ko/story/the-fruit-of-ingratitude-20170121-7.html",
    "md_url": "/ko/story/the-fruit-of-ingratitude-20170121-7.md"
+  },
+  {
+   "slug": "when-the-burden-of-sin-increases-20170225-10",
+   "lang": "ko",
+   "category": "story",
+   "title": "죄의 무게가 더해질 때...",
+   "summary": "마드라사(이슬람 학교)를 배경으로 아이들의 행동과 도덕성을 주제로 엮은 이야기입니다.",
+   "author": "അറബി കഥ - പുനരാഖ്യാനം: തന്‍സീല്‍",
+   "issue_date": "2017-02-25",
+   "html_url": "/ko/story/when-the-burden-of-sin-increases-20170225-10.html",
+   "md_url": "/ko/story/when-the-burden-of-sin-increases-20170225-10.md"
   },
   {
    "slug": "an-agenda-is-needed-during-vacation-too-20170325-1",
