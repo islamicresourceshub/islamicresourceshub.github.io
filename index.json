@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T11:48:39.023066+00:00",
+ "generated_at": "2026-09-15T11:49:32.710244+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5089,
+ "count": 5090,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -41833,6 +41833,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/ru/aqeedah/become-the-guardian-of-the-sources-20170128-9.html",
    "md_url": "/ru/aqeedah/become-the-guardian-of-the-sources-20170128-9.md"
+  },
+  {
+   "slug": "celebrating-nabi-day-is-un-islamic-20260822-5",
+   "lang": "ru",
+   "category": "aqeedah",
+   "title": "Празднование дня рождения Пророка — это неисламское нововведение",
+   "summary": "Автор утверждает, что празднование дня рождения Пророка не имеет под собой никаких оснований в исламских первоисточниках и является поздним нововведением в религии. В статье подчеркивается, что истинная любовь к Пророку заключается в следовании его сунне, а не в создании новых обрядов.",
+   "author": "ആദിൽ നിസാമുദ്ദീൻ",
+   "issue_date": "2026-08-22",
+   "html_url": "/ru/aqeedah/celebrating-nabi-day-is-un-islamic-20260822-5.html",
+   "md_url": "/ru/aqeedah/celebrating-nabi-day-is-un-islamic-20260822-5.md"
   },
   {
    "slug": "faith-is-the-foundation-of-islam-20170128-13",
