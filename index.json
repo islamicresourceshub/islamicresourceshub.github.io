@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T11:46:09.274724+00:00",
+ "generated_at": "2026-09-15T11:46:54.563729+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5086,
+ "count": 5087,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -38709,6 +38709,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/pa/aqeedah/become-the-guardian-of-the-sources-20170128-9.html",
    "md_url": "/pa/aqeedah/become-the-guardian-of-the-sources-20170128-9.md"
+  },
+  {
+   "slug": "celebrating-nabi-day-is-un-islamic-20260822-5",
+   "lang": "pa",
+   "category": "aqeedah",
+   "title": "ਨਬੀ ਦਿਵਸ ਮਨਾਉਣਾ ਗੈਰ-ਇਸਲਾਮੀ ਹੈ",
+   "summary": "ਲੇਖਕ ਦਲੀਲ ਦਿੰਦਾ ਹੈ ਕਿ ਨਬੀ ਦਿਵਸ ਮਨਾਉਣ ਦਾ ਇਸਲਾਮੀ ਪ੍ਰਮਾਣਾਂ ਵਿੱਚ ਕੋਈ ਆਧਾਰ ਨਹੀਂ ਹੈ ਅਤੇ ਇਹ ਧਰਮ ਵਿੱਚ ਬਾਅਦ ਵਿੱਚ ਸ਼ਾਮਲ ਕੀਤੀ ਗਈ ਇੱਕ ਨਵੀਂ ਰਸਮ ਹੈ।",
+   "author": "ആദിൽ നിസാമുദ്ദീൻ",
+   "issue_date": "2026-08-22",
+   "html_url": "/pa/aqeedah/celebrating-nabi-day-is-un-islamic-20260822-5.html",
+   "md_url": "/pa/aqeedah/celebrating-nabi-day-is-un-islamic-20260822-5.md"
   },
   {
    "slug": "faith-is-the-foundation-of-islam-20170128-13",
