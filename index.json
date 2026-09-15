@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T08:52:45.086470+00:00",
+ "generated_at": "2026-09-15T08:54:26.001420+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4950,
+ "count": 4951,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -3278,6 +3278,17 @@
    "issue_date": "2017-02-04",
    "html_url": "/bn/aqeedah/they-want-to-see-god-20170204-2.html",
    "md_url": "/bn/aqeedah/they-want-to-see-god-20170204-2.md"
+  },
+  {
+   "slug": "who-is-wrong-in-ideology-20260822-2",
+   "lang": "bn",
+   "category": "aqeedah",
+   "title": "আদর্শের বিচ্যুতি কার?",
+   "summary": "সালাফি নবজাগরণ আন্দোলনকে সমালোচনা করে লেখা একটি নিবন্ধের জবাব হিসেবে এটি রচিত। এই নিবন্ধে তাওহিদের মৌলিক নীতিসমূহ এবং শিরক সংক্রান্ত ভুল ধারণাগুলো নিয়ে আলোচনা করা হয়েছে।",
+   "author": "മൂസ സുലൈമാൻ കാര",
+   "issue_date": "2026-08-22",
+   "html_url": "/bn/aqeedah/who-is-wrong-in-ideology-20260822-2.html",
+   "md_url": "/bn/aqeedah/who-is-wrong-in-ideology-20260822-2.md"
   },
   {
    "slug": "do-not-be-slaves-to-desires-20170211-11",
