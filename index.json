@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T09:21:35.083551+00:00",
+ "generated_at": "2026-09-15T09:22:35.423035+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4971,
+ "count": 4972,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -40029,6 +40029,17 @@
    "issue_date": "2017-02-04",
    "html_url": "/pt/aqeedah/they-want-to-see-god-20170204-2.html",
    "md_url": "/pt/aqeedah/they-want-to-see-god-20170204-2.md"
+  },
+  {
+   "slug": "who-is-wrong-in-ideology-20260822-2",
+   "lang": "pt",
+   "category": "aqeedah",
+   "title": "Quem se desviou da ideologia?",
+   "summary": "Este artigo é uma resposta a uma crítica feita ao movimento de reforma Salafi. O texto discute os princípios fundamentais do Tawhid e esclarece os equívocos comuns sobre o Shirk, defendendo a pureza da adoração a Deus.",
+   "author": "മൂസ സുലൈമാൻ കാര",
+   "issue_date": "2026-08-22",
+   "html_url": "/pt/aqeedah/who-is-wrong-in-ideology-20260822-2.html",
+   "md_url": "/pt/aqeedah/who-is-wrong-in-ideology-20260822-2.md"
   },
   {
    "slug": "do-not-be-slaves-to-desires-20170211-11",
