@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T06:34:37.923526+00:00",
+ "generated_at": "2026-09-15T06:35:38.037031+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4866,
+ "count": 4867,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -51062,6 +51062,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/uz/dawah/the-message-of-equality-20170121-11.html",
    "md_url": "/uz/dawah/the-message-of-equality-20170121-11.md"
+  },
+  {
+   "slug": "the-path-to-peace-20170225-11",
+   "lang": "uz",
+   "category": "dawah",
+   "title": "Huzur sari tomon yo‘l",
+   "summary": "Moddiy imkoniyatlar ortib borayotganiga qaramay, xotirjamlikni yo‘qotayotgan zamonaviy inson uchun Islom taqdim etadigan tinchlik yo‘llari haqida so‘z boradi.",
+   "author": "ശമീര്‍ മദീനി",
+   "issue_date": "2017-02-25",
+   "html_url": "/uz/dawah/the-path-to-peace-20170225-11.html",
+   "md_url": "/uz/dawah/the-path-to-peace-20170225-11.md"
   },
   {
    "slug": "the-religion-that-rejects-terrorism-part-1-20170121-12",
