@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T11:29:37.183795+00:00",
+ "generated_at": "2026-09-15T11:30:34.462232+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5068,
+ "count": 5069,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -4389,6 +4389,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/bs/aqeedah/become-the-guardian-of-the-sources-20170128-9.html",
    "md_url": "/bs/aqeedah/become-the-guardian-of-the-sources-20170128-9.md"
+  },
+  {
+   "slug": "celebrating-nabi-day-is-un-islamic-20260822-5",
+   "lang": "bs",
+   "category": "aqeedah",
+   "title": "Proslava rođendana Poslanika je uistinu neislamska",
+   "summary": "Autor tvrdi da proslava rođendana Poslanika nema utemeljenja u islamskim izvorima i da predstavlja novotariju koja je naknadno uvedena u vjeru. Tekst poziva na povratak izvornom slijeđenju sunneta umjesto uvođenja novih običaja.",
+   "author": "ആദിൽ നിസാമുദ്ദീൻ",
+   "issue_date": "2026-08-22",
+   "html_url": "/bs/aqeedah/celebrating-nabi-day-is-un-islamic-20260822-5.html",
+   "md_url": "/bs/aqeedah/celebrating-nabi-day-is-un-islamic-20260822-5.md"
   },
   {
    "slug": "faith-is-the-foundation-of-islam-20170128-13",
