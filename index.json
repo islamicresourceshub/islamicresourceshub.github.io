@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T06:50:45.144338+00:00",
+ "generated_at": "2026-09-15T06:51:32.594555+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4885,
+ "count": 4886,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -16632,6 +16632,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/kn/opinion/muslim-extremists-defame-islam-20170114-7.html",
    "md_url": "/kn/opinion/muslim-extremists-defame-islam-20170114-7.md"
+  },
+  {
+   "slug": "none-should-forget-the-path-they-came-from-20170225-13",
+   "lang": "kn",
+   "category": "opinion",
+   "title": "ತಾನು ಬಂದ ದಾರಿಯನ್ನು ಯಾರೂ ಮರೆಯಬಾರದು",
+   "summary": "ಸಾಮಾಜಿಕ ಸೇವೆ ಮತ್ತು ಕೃತಜ್ಞತೆಯ ಮಹತ್ವವನ್ನು ಒಂದು ಅನುಭವದ ಮೂಲಕ ಈ ಲೇಖನ ವಿವರಿಸುತ್ತದೆ. ತಾನು ಬೆಳೆದು ಬಂದ ಹಾದಿಯನ್ನು ಮರೆಯದ ವ್ಯಕ್ತಿಯೊಬ್ಬರ ಜೀವನಗಾಥೆಯನ್ನು ಇಲ್ಲಿ ಹಂಚಿಕೊಳ್ಳಲಾಗಿದೆ.",
+   "author": "ഇബ്‌നു അലി എടത്തനാട്ടുകര",
+   "issue_date": "2017-02-25",
+   "html_url": "/kn/opinion/none-should-forget-the-path-they-came-from-20170225-13.html",
+   "md_url": "/kn/opinion/none-should-forget-the-path-they-came-from-20170225-13.md"
   },
   {
    "slug": "rohingya-muslims-victims-of-racial-hatred-20170128-10",
