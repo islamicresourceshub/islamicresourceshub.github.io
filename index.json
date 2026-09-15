@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T09:05:10.267557+00:00",
+ "generated_at": "2026-09-15T09:06:13.302847+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4962,
+ "count": 4963,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -15367,6 +15367,17 @@
    "issue_date": "2017-02-04",
    "html_url": "/ja/aqeedah/they-want-to-see-god-20170204-2.html",
    "md_url": "/ja/aqeedah/they-want-to-see-god-20170204-2.md"
+  },
+  {
+   "slug": "who-is-wrong-in-ideology-20260822-2",
+   "lang": "ja",
+   "category": "aqeedah",
+   "title": "誰が教義を誤ったのか？",
+   "summary": "サラフィー改革派を批判する記事に対する反論として書かれた論考です。本稿では、タウヒード（唯一神教）の基本原則と、シルク（多神教的行為）に関する誤解について議論しています。",
+   "author": "മൂസ സുലൈമാൻ കാര",
+   "issue_date": "2026-08-22",
+   "html_url": "/ja/aqeedah/who-is-wrong-in-ideology-20260822-2.html",
+   "md_url": "/ja/aqeedah/who-is-wrong-in-ideology-20260822-2.md"
   },
   {
    "slug": "do-not-be-slaves-to-desires-20170211-11",
