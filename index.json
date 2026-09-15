@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T15:03:11.391117+00:00",
+ "generated_at": "2026-09-15T15:04:11.055689+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5231,
+ "count": 5232,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -12903,6 +12903,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/ha/opinion/strengthening-secular-political-unity-20170218-9.html",
    "md_url": "/ha/opinion/strengthening-secular-political-unity-20170218-9.md"
+  },
+  {
+   "slug": "superstitions-in-modern-homes-20170304-1",
+   "lang": "ha",
+   "category": "opinion",
+   "title": "Dakunan da Rufe Suka Yi Mulki",
+   "summary": "Wannan labarin ya bincika yadda imani da ba shi da tushe ya yi tasiri a al'ummar Indiya duk da ci gaban kimiyya. Yana nazarin tasirin zamantakewar al'adun da ba su dace ba.",
+   "author": "ഇ.യൂസുഫ് സാഹിബ് നദ്‌വി",
+   "issue_date": "2017-03-04",
+   "html_url": "/ha/opinion/superstitions-in-modern-homes-20170304-1.html",
+   "md_url": "/ha/opinion/superstitions-in-modern-homes-20170304-1.md"
   },
   {
    "slug": "terrorism-and-religious-freedom-20170114-1",
