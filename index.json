@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T04:53:13.810424+00:00",
+ "generated_at": "2026-09-15T04:54:12.714614+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4773,
+ "count": 4774,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -36223,6 +36223,17 @@
    "issue_date": "2017-02-25",
    "html_url": "/or/family/water-and-life-20170225-5.html",
    "md_url": "/or/family/water-and-life-20170225-5.md"
+  },
+  {
+   "slug": "welcoming-the-newborn-20170225-9",
+   "lang": "or",
+   "category": "family",
+   "title": "ନବଜାତ ଶିଶୁକୁ ସ୍ୱାଗତ କରିବା",
+   "summary": "ଇସଲାମିକ ପ୍ୟାରେଣ୍ଟିଂ ବା ପିଲାଙ୍କ ଲାଳନପାଳନ ସିରିଜର ଏହି ଅଷ୍ଟମ ଭାଗରେ, ସନ୍ତାନ ଜନ୍ମ ପରେ ପିତାମାତାମାନେ ପାଳନ କରିବାକୁ ଥିବା ଗୁରୁତ୍ୱପୂର୍ଣ୍ଣ ଇସଲାମୀୟ ନୀତିନିୟମ ସମ୍ପର୍କରେ ଆଲୋଚନା କରାଯାଇଛି।",
+   "author": "അശ്‌റഫ് എകരൂല്‍",
+   "issue_date": "2017-02-25",
+   "html_url": "/or/family/welcoming-the-newborn-20170225-9.html",
+   "md_url": "/or/family/welcoming-the-newborn-20170225-9.md"
   },
   {
    "slug": "alcohol-islam-s-ever-relevant-approach-20170225-6",
