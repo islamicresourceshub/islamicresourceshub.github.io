@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T12:37:11.518404+00:00",
+ "generated_at": "2026-09-15T12:38:02.294309+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5143,
+ "count": 5144,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -2123,6 +2123,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/ar/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.html",
    "md_url": "/ar/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.md"
+  },
+  {
+   "slug": "surah-ash-shu-ara-the-poets-20260822-7",
+   "lang": "ar",
+   "category": "quran",
+   "title": "سورة الشعراء",
+   "summary": "تفسير لآيات من سورة الشعراء، يتناول قصص الأنبياء ودعوتهم لأقوامهم، مع التركيز على توجيهات النبي صالح عليه السلام لقومه.",
+   "author": "അബ്ദുറഹ്മാനുബ്നു നാസിറുസ്സഅ്ദി",
+   "issue_date": "2026-08-22",
+   "html_url": "/ar/quran/surah-ash-shu-ara-the-poets-20260822-7.html",
+   "md_url": "/ar/quran/surah-ash-shu-ara-the-poets-20260822-7.md"
   },
   {
    "slug": "universal-calls-in-the-quran-19-truth-falsehood-and-human-fr-20260822-3",
