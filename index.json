@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T11:37:02.090976+00:00",
+ "generated_at": "2026-09-15T11:37:46.263472+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5076,
+ "count": 5077,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -12716,6 +12716,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/hi/aqeedah/become-the-guardian-of-the-sources-20170128-9.html",
    "md_url": "/hi/aqeedah/become-the-guardian-of-the-sources-20170128-9.md"
+  },
+  {
+   "slug": "celebrating-nabi-day-is-un-islamic-20260822-5",
+   "lang": "hi",
+   "category": "aqeedah",
+   "title": "नबी दिवस का जश्न पूरी तरह से गैर-इस्लामी है",
+   "summary": "लेखक का तर्क है कि नबी दिवस यानी मिलाद-उन-नबी मनाने का इस्लामी प्रमाणों में कोई आधार नहीं है और यह धर्म में बाद में शामिल की गई एक नई प्रथा है।",
+   "author": "ആദിൽ നിസാമുദ്ദീൻ",
+   "issue_date": "2026-08-22",
+   "html_url": "/hi/aqeedah/celebrating-nabi-day-is-un-islamic-20260822-5.html",
+   "md_url": "/hi/aqeedah/celebrating-nabi-day-is-un-islamic-20260822-5.md"
   },
   {
    "slug": "faith-is-the-foundation-of-islam-20170128-13",
