@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T11:00:13.604160+00:00",
+ "generated_at": "2026-09-15T11:01:05.266969+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5037,
+ "count": 5038,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -13079,6 +13079,17 @@
    "issue_date": "2026-08-22",
    "html_url": "/hi/health/know-this-for-those-caring-for-the-sick-20260822-1.html",
    "md_url": "/hi/health/know-this-for-those-caring-for-the-sick-20260822-1.md"
+  },
+  {
+   "slug": "when-menstruating-20260822-4",
+   "lang": "hi",
+   "category": "health",
+   "title": "ऋतुमती होने पर",
+   "summary": "यह लेख किशोरियों में पहली बार होने वाले मासिक धर्म के बारे में वैज्ञानिक जानकारी, स्वच्छता के नियमों और इससे संबंधित धार्मिक पहलुओं पर विस्तार से प्रकाश डालता है।",
+   "author": "ഡോ. റഫീദ കെ.",
+   "issue_date": "2026-08-22",
+   "html_url": "/hi/health/when-menstruating-20260822-4.html",
+   "md_url": "/hi/health/when-menstruating-20260822-4.md"
   },
   {
    "slug": "islamophobia-archetypes-of-ancient-history-20170225-3",
