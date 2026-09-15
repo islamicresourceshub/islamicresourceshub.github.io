@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T10:05:26.005289+00:00",
+ "generated_at": "2026-09-15T10:06:19.832783+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5015,
+ "count": 5016,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -46134,6 +46134,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/sw/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.html",
    "md_url": "/sw/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.md"
+  },
+  {
+   "slug": "universal-calls-in-the-quran-19-truth-falsehood-and-human-fr-20260822-3",
+   "lang": "sw",
+   "category": "quran",
+   "title": "Wito wa Ulimwengu katika Quran 19: Ukweli, Uongo, na Uhuru wa Kuchagua wa Mwanadamu",
+   "summary": "Kwa kuzingatia aya za Surah Yunus, makala haya yanaelezea uhuru na wajibu wa mwanadamu katika kutambua ukweli na kuchagua njia iliyo sawa.",
+   "author": "ഇജാസ് ബിൻ ഇസ്മാഈൽ",
+   "issue_date": "2026-08-22",
+   "html_url": "/sw/quran/universal-calls-in-the-quran-19-truth-falsehood-and-human-fr-20260822-3.html",
+   "md_url": "/sw/quran/universal-calls-in-the-quran-19-truth-falsehood-and-human-fr-20260822-3.md"
   },
   {
    "slug": "what-to-beware-of-when-taking-sides-20170128-7",
