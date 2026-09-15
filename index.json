@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T13:44:22.609825+00:00",
+ "generated_at": "2026-09-15T13:45:12.402676+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5183,
+ "count": 5184,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -3355,6 +3355,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/as/story/laws-are-to-be-followed-20170128-5.html",
    "md_url": "/as/story/laws-are-to-be-followed-20170128-5.md"
+  },
+  {
+   "slug": "my-pen-20260822-8",
+   "lang": "as",
+   "category": "story",
+   "title": "মোৰ কলম",
+   "summary": "জীৱনৰ অভিজ্ঞতা আৰু স্মৃতিবোৰ কেনেকৈ আখৰৰ জৰিয়তে কবিতা আৰু গল্পলৈ ৰূপান্তৰিত হয়, সেই বিষয়ে লিখা এটি কবিতা।",
+   "author": "നദ ജബീൻ സി. പി.",
+   "issue_date": "2026-08-22",
+   "html_url": "/as/story/my-pen-20260822-8.html",
+   "md_url": "/as/story/my-pen-20260822-8.md"
   },
   {
    "slug": "the-currency-that-was-not-accepted-20170114-3",
