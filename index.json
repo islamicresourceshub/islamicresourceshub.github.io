@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T11:59:41.130907+00:00",
+ "generated_at": "2026-09-15T12:00:35.557499+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5100,
+ "count": 5101,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -53229,6 +53229,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/uz/aqeedah/become-the-guardian-of-the-sources-20170128-9.html",
    "md_url": "/uz/aqeedah/become-the-guardian-of-the-sources-20170128-9.md"
+  },
+  {
+   "slug": "celebrating-nabi-day-is-un-islamic-20260822-5",
+   "lang": "uz",
+   "category": "aqeedah",
+   "title": "Mavlid bayrami islomga zid",
+   "summary": "Muallif Mavlid bayramining islomiy manbalarda hech qanday asosi yo'qligini va bu dinga kiritilgan yangi bid'at ekanligini ta'kidlaydi. U musulmonlarni faqat Qur'on va Sunnatga ergashishga chaqiradi.",
+   "author": "ആദിൽ നിസാമുദ്ദീൻ",
+   "issue_date": "2026-08-22",
+   "html_url": "/uz/aqeedah/celebrating-nabi-day-is-un-islamic-20260822-5.html",
+   "md_url": "/uz/aqeedah/celebrating-nabi-day-is-un-islamic-20260822-5.md"
   },
   {
    "slug": "faith-is-the-foundation-of-islam-20170128-13",
