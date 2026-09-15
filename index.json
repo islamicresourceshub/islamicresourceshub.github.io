@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T05:23:38.907214+00:00",
+ "generated_at": "2026-09-15T05:24:34.937076+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4790,
+ "count": 4791,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -52382,6 +52382,17 @@
    "issue_date": "2017-02-25",
    "html_url": "/zh/family/water-and-life-20170225-5.html",
    "md_url": "/zh/family/water-and-life-20170225-5.md"
+  },
+  {
+   "slug": "welcoming-the-newborn-20170225-9",
+   "lang": "zh",
+   "category": "family",
+   "title": "迎接新生儿",
+   "summary": "作为伊斯兰育儿系列的一部分，本文探讨了父母在孩子出生后应关注的重要事项，包括迎接新生儿的礼仪与传统。",
+   "author": "അശ്‌റഫ് എകരൂല്‍",
+   "issue_date": "2017-02-25",
+   "html_url": "/zh/family/welcoming-the-newborn-20170225-9.html",
+   "md_url": "/zh/family/welcoming-the-newborn-20170225-9.md"
   },
   {
    "slug": "alcohol-islam-s-ever-relevant-approach-20170225-6",
