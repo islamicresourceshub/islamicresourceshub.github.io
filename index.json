@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T05:27:18.404307+00:00",
+ "generated_at": "2026-09-15T05:28:10.371178+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4794,
+ "count": 4795,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -4026,6 +4026,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/bn/story/the-fruit-of-ingratitude-20170121-7.html",
    "md_url": "/bn/story/the-fruit-of-ingratitude-20170121-7.md"
+  },
+  {
+   "slug": "when-the-burden-of-sin-increases-20170225-10",
+   "lang": "bn",
+   "category": "story",
+   "title": "পাপের বোঝা যখন বেড়ে যায়...",
+   "summary": "মাদ্রাসার প্রেক্ষাপটে শিশুদের আচরণ এবং নৈতিকতা নিয়ে তৈরি একটি শিক্ষামূলক গল্প। এতে পাপের বোঝা এবং তা থেকে মুক্তির উপায় সম্পর্কে চমৎকার একটি উপমা তুলে ধরা হয়েছে।",
+   "author": "അറബി കഥ - പുനരാഖ്യാനം: തന്‍സീല്‍",
+   "issue_date": "2017-02-25",
+   "html_url": "/bn/story/when-the-burden-of-sin-increases-20170225-10.html",
+   "md_url": "/bn/story/when-the-burden-of-sin-increases-20170225-10.md"
   },
   {
    "slug": "an-agenda-is-needed-during-vacation-too-20170325-1",
