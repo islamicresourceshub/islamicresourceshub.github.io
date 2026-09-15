@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T12:02:25.926902+00:00",
+ "generated_at": "2026-09-15T12:03:21.920751+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5103,
+ "count": 5104,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -858,6 +858,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/am/opinion/everyone-should-have-a-beard-20170121-3.html",
    "md_url": "/am/opinion/everyone-should-have-a-beard-20170121-3.md"
+  },
+  {
+   "slug": "freedom-for-what-20260822-6",
+   "lang": "am",
+   "category": "opinion",
+   "title": "ነፃነት ለምን?",
+   "summary": "ይህ መጣጥፍ በነፃነት ስም ዛሬ እየተካሄዱ ያሉትን የሥነ ምግባር ብልሽቶች እና የተሳሳቱ አዝማሚያዎች በወሳኝ እይታ ይፈትሻል። የሰው ልጅ ከፈጣሪው ጋር ያለውን ግንኙነት በመዘንጋት ወደ አውሬነት መውረዱን እና እውነተኛ ነፃነት በአምላክ ባርነት ውስጥ መሆኑን ያብራራል።",
+   "author": "നസീമ വാദാനപ്പള്ളി",
+   "issue_date": "2026-08-22",
+   "html_url": "/am/opinion/freedom-for-what-20260822-6.html",
+   "md_url": "/am/opinion/freedom-for-what-20260822-6.md"
   },
   {
    "slug": "freedom-of-speech-should-not-be-one-sided-20170211-1",
