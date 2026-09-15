@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T12:51:04.352675+00:00",
+ "generated_at": "2026-09-15T12:51:55.991395+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5159,
+ "count": 5160,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -19118,6 +19118,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/ko/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.html",
    "md_url": "/ko/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.md"
+  },
+  {
+   "slug": "surah-ash-shu-ara-the-poets-20260822-7",
+   "lang": "ko",
+   "category": "quran",
+   "title": "수라: 아슈아라 - 시인들",
+   "summary": "수라 아슈아라의 구절들에 대한 타프시르(해석)입니다. 이 장에서는 예언자들의 역사와 그들이 백성들에게 전한 메시지를 다루고 있습니다.",
+   "author": "അബ്ദുറഹ്മാനുബ്നു നാസിറുസ്സഅ്ദി",
+   "issue_date": "2026-08-22",
+   "html_url": "/ko/quran/surah-ash-shu-ara-the-poets-20260822-7.html",
+   "md_url": "/ko/quran/surah-ash-shu-ara-the-poets-20260822-7.md"
   },
   {
    "slug": "universal-calls-in-the-quran-19-truth-falsehood-and-human-fr-20260822-3",
