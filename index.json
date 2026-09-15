@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T06:42:21.803249+00:00",
+ "generated_at": "2026-09-15T06:43:09.617768+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4875,
+ "count": 4876,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -6787,6 +6787,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/en/opinion/muslim-extremists-defame-islam-20170114-7.html",
    "md_url": "/en/opinion/muslim-extremists-defame-islam-20170114-7.md"
+  },
+  {
+   "slug": "none-should-forget-the-path-they-came-from-20170225-13",
+   "lang": "en",
+   "category": "opinion",
+   "title": "None Should Forget the Path They Came From",
+   "summary": "This article reflects on the importance of social service and gratitude through a personal experience. It highlights how a successful individual remained humble and connected to his roots by supporting his local community.",
+   "author": "ഇബ്‌നു അലി എടത്തനാട്ടുകര",
+   "issue_date": "2017-02-25",
+   "html_url": "/en/opinion/none-should-forget-the-path-they-came-from-20170225-13.html",
+   "md_url": "/en/opinion/none-should-forget-the-path-they-came-from-20170225-13.md"
   },
   {
    "slug": "rohingya-muslims-victims-of-racial-hatred-20170128-10",
