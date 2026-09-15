@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T08:36:21.270830+00:00",
+ "generated_at": "2026-09-15T08:37:12.490650+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4932,
+ "count": 4933,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -40216,6 +40216,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/pt/hadith/criteria-for-accepting-hadith-20170128-2.html",
    "md_url": "/pt/hadith/criteria-for-accepting-hadith-20170128-2.md"
+  },
+  {
+   "slug": "know-this-for-those-caring-for-the-sick-20260822-1",
+   "lang": "pt",
+   "category": "health",
+   "title": "Compreender aqueles que cuidam dos enfermos",
+   "summary": "Este artigo aborda as dificuldades físicas e mentais enfrentadas pelos cuidadores de pacientes, enfatizando a importância de eles também cuidarem de si mesmos. O texto destaca a necessidade de apoio, descanso e reconhecimento para aqueles que dedicam suas vidas ao cuidado de entes queridos.",
+   "author": "ഡോ. ഫുസ്സൻ നൂരസന്ന",
+   "issue_date": "2026-08-22",
+   "html_url": "/pt/health/know-this-for-those-caring-for-the-sick-20260822-1.html",
+   "md_url": "/pt/health/know-this-for-those-caring-for-the-sick-20260822-1.md"
   },
   {
    "slug": "islamophobia-archetypes-of-ancient-history-20170225-3",
