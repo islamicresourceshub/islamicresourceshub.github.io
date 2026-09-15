@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T12:57:42.492865+00:00",
+ "generated_at": "2026-09-15T12:58:34.983284+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5166,
+ "count": 5167,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -42152,6 +42152,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/pt/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.html",
    "md_url": "/pt/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.md"
+  },
+  {
+   "slug": "surah-ash-shu-ara-the-poets-20260822-7",
+   "lang": "pt",
+   "category": "quran",
+   "title": "Surata Ash-Shu'ara - Os Poetas",
+   "summary": "Uma interpretação (tafsir) dos versículos da Surata Ash-Shu'ara. O texto detalha a história dos profetas e os chamados que eles fizeram aos seus povos.",
+   "author": "അബ്ദുറഹ്മാനുബ്നു നാസിറുസ്സഅ്ദി",
+   "issue_date": "2026-08-22",
+   "html_url": "/pt/quran/surah-ash-shu-ara-the-poets-20260822-7.html",
+   "md_url": "/pt/quran/surah-ash-shu-ara-the-poets-20260822-7.md"
   },
   {
    "slug": "universal-calls-in-the-quran-19-truth-falsehood-and-human-fr-20260822-3",
