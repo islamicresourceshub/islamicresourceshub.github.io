@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T14:02:07.846670+00:00",
+ "generated_at": "2026-09-15T14:03:02.514538+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5201,
+ "count": 5202,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -38269,6 +38269,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/ne/story/laws-are-to-be-followed-20170128-5.html",
    "md_url": "/ne/story/laws-are-to-be-followed-20170128-5.md"
+  },
+  {
+   "slug": "my-pen-20260822-8",
+   "lang": "ne",
+   "category": "story",
+   "title": "मेरो कलम",
+   "summary": "जीवनका अनुभव र स्मृतिहरू कसरी अक्षरहरू मार्फत कविता र कथामा रूपान्तरित हुन्छन् भन्ने विषयमा आधारित एक कविता।",
+   "author": "നദ ജബീൻ സി. പി.",
+   "issue_date": "2026-08-22",
+   "html_url": "/ne/story/my-pen-20260822-8.html",
+   "md_url": "/ne/story/my-pen-20260822-8.md"
   },
   {
    "slug": "sugar-like-gold-dust-20170128-11",
