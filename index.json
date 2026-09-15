@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T06:36:34.118952+00:00",
+ "generated_at": "2026-09-15T06:37:34.409622+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4868,
+ "count": 4869,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -53020,6 +53020,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/zh/dawah/the-message-of-equality-20170121-11.html",
    "md_url": "/zh/dawah/the-message-of-equality-20170121-11.md"
+  },
+  {
+   "slug": "the-path-to-peace-20170225-11",
+   "lang": "zh",
+   "category": "dawah",
+   "title": "通往宁静之路",
+   "summary": "本文探讨了在物质条件日益优越却倍感焦虑的现代社会中，伊斯兰教如何为人类提供获得内心平静与安宁的途径。文章强调了通过信仰、节制、审慎和知足来化解生活压力，实现身心和谐的重要性。",
+   "author": "ശമീര്‍ മദീനി",
+   "issue_date": "2017-02-25",
+   "html_url": "/zh/dawah/the-path-to-peace-20170225-11.html",
+   "md_url": "/zh/dawah/the-path-to-peace-20170225-11.md"
   },
   {
    "slug": "the-religion-that-rejects-terrorism-part-1-20170121-12",
