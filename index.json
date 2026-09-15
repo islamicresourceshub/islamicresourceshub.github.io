@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T13:42:00.792796+00:00",
+ "generated_at": "2026-09-15T13:42:52.528792+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5181,
+ "count": 5182,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -1210,6 +1210,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/am/story/laws-are-to-be-followed-20170128-5.html",
    "md_url": "/am/story/laws-are-to-be-followed-20170128-5.md"
+  },
+  {
+   "slug": "my-pen-20260822-8",
+   "lang": "am",
+   "category": "story",
+   "title": "የእኔ ብዕር",
+   "summary": "የሕይወት ተሞክሮዎች እና ትዝታዎች በፊደላት አማካኝነት ወደ ግጥም እና ታሪክ እንዴት እንደሚቀየሩ የሚገልጽ ግጥም ነው።",
+   "author": "നദ ജബീൻ സി. പി.",
+   "issue_date": "2026-08-22",
+   "html_url": "/am/story/my-pen-20260822-8.html",
+   "md_url": "/am/story/my-pen-20260822-8.md"
   },
   {
    "slug": "sugar-like-gold-dust-20170128-11",
