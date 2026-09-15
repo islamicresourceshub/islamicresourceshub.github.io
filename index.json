@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T05:04:41.511353+00:00",
+ "generated_at": "2026-09-15T05:05:34.672508+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4785,
+ "count": 4786,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -47597,6 +47597,17 @@
    "issue_date": "2017-02-25",
    "html_url": "/tl/family/water-and-life-20170225-5.html",
    "md_url": "/tl/family/water-and-life-20170225-5.md"
+  },
+  {
+   "slug": "welcoming-the-newborn-20170225-9",
+   "lang": "tl",
+   "category": "family",
+   "title": "Pagtanggap sa Bagong Silang",
+   "summary": "Bilang bahagi ng serye sa pagpapalaki ng anak ayon sa Islam, ang artikulong ito ay nagbibigay ng payo sa mga magulang tungkol sa mga dapat gawin pagkapanganak ng sanggol.",
+   "author": "അശ്‌റഫ് എകരൂല്‍",
+   "issue_date": "2017-02-25",
+   "html_url": "/tl/family/welcoming-the-newborn-20170225-9.html",
+   "md_url": "/tl/family/welcoming-the-newborn-20170225-9.md"
   },
   {
    "slug": "alcohol-islam-s-ever-relevant-approach-20170225-6",
