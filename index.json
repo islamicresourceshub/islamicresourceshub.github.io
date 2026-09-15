@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T08:46:49.831182+00:00",
+ "generated_at": "2026-09-15T08:47:44.637013+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4944,
+ "count": 4945,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -52129,6 +52129,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/uz/hadith/criteria-for-accepting-hadith-20170128-2.html",
    "md_url": "/uz/hadith/criteria-for-accepting-hadith-20170128-2.md"
+  },
+  {
+   "slug": "know-this-for-those-caring-for-the-sick-20260822-1",
+   "lang": "uz",
+   "category": "health",
+   "title": "Biling; bemorni parvarish qiluvchilar haqida",
+   "summary": "Ushbu maqola bemorlarni parvarish qiluvchi insonlar duch keladigan jismoniy va ruhiy qiyinchiliklar, shuningdek, ularning o'z salomatliklariga e'tibor qaratishlari muhimligi haqida so'z yuritadi. Shuningdek, parvarish qiluvchilarga ko'rsatilishi kerak bo'lgan yordam va qo'llab-quvvatlashning ahamiyatini eslatib o'tadi.",
+   "author": "ഡോ. ഫുസ്സൻ നൂരസന്ന",
+   "issue_date": "2026-08-22",
+   "html_url": "/uz/health/know-this-for-those-caring-for-the-sick-20260822-1.html",
+   "md_url": "/uz/health/know-this-for-those-caring-for-the-sick-20260822-1.md"
   },
   {
    "slug": "islamophobia-archetypes-of-ancient-history-20170225-3",
