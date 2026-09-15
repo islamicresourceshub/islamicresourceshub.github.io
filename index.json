@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T11:53:22.410638+00:00",
+ "generated_at": "2026-09-15T11:55:04.306530+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5094,
+ "count": 5095,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -46992,6 +46992,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/sw/youth/what-will-the-waste-do-20170114-5.html",
    "md_url": "/sw/youth/what-will-the-waste-do-20170114-5.md"
+  },
+  {
+   "slug": "celebrating-nabi-day-is-un-islamic-20260822-5",
+   "lang": "ta",
+   "category": "aqeedah",
+   "title": "நபிதின கொண்டாட்டம் இஸ்லாத்திற்கு முரணானது",
+   "summary": "நபிதின கொண்டாட்டத்திற்கு இஸ்லாமிய ஆதாரங்களில் எந்த அடிப்படையும் இல்லை என்றும், இது மார்க்கத்தில் புதிதாக நுழைக்கப்பட்ட ஒரு சடங்கு என்றும் ஆசிரியர் வாதிடுகிறார்.",
+   "author": "ആദിൽ നിസാമുദ്ദീൻ",
+   "issue_date": "2026-08-22",
+   "html_url": "/ta/aqeedah/celebrating-nabi-day-is-un-islamic-20260822-5.html",
+   "md_url": "/ta/aqeedah/celebrating-nabi-day-is-un-islamic-20260822-5.md"
   },
   {
    "slug": "faith-is-the-foundation-of-islam-20170128-13",
