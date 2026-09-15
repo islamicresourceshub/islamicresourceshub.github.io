@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T06:10:30.648219+00:00",
+ "generated_at": "2026-09-15T06:11:27.205466+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4842,
+ "count": 4843,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -12122,6 +12122,17 @@
    "issue_date": "2017-02-25",
    "html_url": "/hi/dawah/the-chemistry-of-unity-20170225-2.html",
    "md_url": "/hi/dawah/the-chemistry-of-unity-20170225-2.md"
+  },
+  {
+   "slug": "the-path-to-peace-20170225-11",
+   "lang": "hi",
+   "category": "dawah",
+   "title": "शांति का मार्ग",
+   "summary": "भौतिक सुख-सुविधाओं के बढ़ने के बावजूद आधुनिक मनुष्य मानसिक शांति खो रहा है। यह लेख इस्लाम द्वारा बताए गए उन शांतिपूर्ण रास्तों पर प्रकाश डालता है जो मनुष्य को वास्तविक सुकून और संतोष की ओर ले जाते हैं।",
+   "author": "ശമീര്‍ മദീനി",
+   "issue_date": "2017-02-25",
+   "html_url": "/hi/dawah/the-path-to-peace-20170225-11.html",
+   "md_url": "/hi/dawah/the-path-to-peace-20170225-11.md"
   },
   {
    "slug": "the-religion-that-rejects-terrorism-part-1-20170121-12",
