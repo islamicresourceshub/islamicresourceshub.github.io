@@ -1,0 +1,115 @@
+---
+title: Ai là người sai lầm trong tư tưởng?
+author: മൂസ സുലൈമാൻ കാര
+lang: vi
+category: aqeedah
+kind: article
+tags:
+- aqeedah
+- tawheed
+- shirk
+- debate
+summary: Bài viết này là lời phản hồi cho một bài báo chỉ trích phong trào cải cách Salafi. Tác giả thảo luận về các nguyên tắc cơ bản của Tawhid (độc thần) và làm rõ những hiểu lầm phổ biến về Shirk (đa thần) trong cộng đồng Hồi giáo.
+source:
+  magazine: Nerpatham Weekly
+  issue_date: '2026-08-22'
+  pdf_url: http://nerpatham.com/vol-no-10/images/2026/archives/Nerpatham-2026Aug22.pdf
+date_processed: '2026-08-27T16:23:29Z'
+slug: who-is-wrong-in-ideology-20260822-2
+translation_of: who-is-wrong-in-ideology-20260822-2
+---
+
+# Ai là người sai lầm trong tư tưởng?
+
+**Moosa Sulaiman Kara**
+**☎ : 97473 45768**
+
+> Đấng Tạo Hóa của vũ trụ là Đấng Duy Nhất, không có ai khác xứng đáng được thờ phụng ngoài Ngài. Đây là nền tảng cốt lõi của Hồi giáo. Mỗi người Hồi giáo cần phải hiểu và thực hành rằng lời cầu nguyện và các hành vi thờ phụng khác chỉ được dành riêng cho Đấng Tạo Hóa. Những người thực hiện điều này chính là những người đã thấu hiểu Tawhid và không thực hiện các hành vi trái ngược với nó.
+
+Trong ấn bản ngày 16-30 tháng 6 năm 2026 của tạp chí ‘Sunni Mela’, tôi đã đọc được một bài viết có tiêu đề ‘Những người cải cách Salafi đắm chìm trong Shirk’. Cần phải vạch trần trước cộng đồng những lập luận sai lệch mà một vị giáo sĩ đã đưa ra trong bài viết đó nhằm cố gắng chứng minh rằng những người Mujahid - những người kiên định trên con đường của Ahlus Sunnah - là những người bị vấy bẩn bởi Shirk, trong khi con đường của họ là hoàn hảo.
+
+### Sự chỉ trích
+
+Những giáo sĩ đã thành lập các tổ chức để dẫn dắt cộng đồng bằng cách cầu nguyện với người chết, trực tiếp tìm kiếm sự giúp đỡ từ họ, và thực hiện các hành vi trung gian thông qua quyền năng, địa vị và phước lành của họ, chính là những người đặt nền móng cho sự chia rẽ! Sự ra đời của Samastha về mặt lịch sử chính là sự chia rẽ đầu tiên! Họ tuyên bố rằng họ không đặt ra bất kỳ đối tác nào cho Allah và không biến bất cứ thứ gì thành Ilah (đối tượng thờ phụng), nhưng thực tế họ lại khuyến khích việc dâng hiến các hành vi thờ phụng cho những thực thể khác ngoài Thiên Chúa.
+
+## Những người Hồi giáo dòng chính và các trào lưu khác
+
+Hãy xem đánh giá của vị giáo sĩ về các tổ chức Hồi giáo chính đang hoạt động và tương tác trong xã hội: “Hãy nhìn vào Kerala. Có ba trào lưu chính tồn tại ở đây liên quan đến Tawhid: Ahlus Sunnah wal Jama’ah (những người Hồi giáo dòng chính), Salafi và Jama’at-e-Islami. Trong đó, bản thân nhóm Salafi cũng có ba dòng. Họ tự coi nhau là những người đa thần và mời gọi các nhóm khác theo Tawhid của riêng họ” (trang 12).
+
+Những người tự xưng là đại diện của Ahlus Sunnah lại đang đi theo những niềm tin và nghi lễ sai lạc của các nhóm Shia và Sufi! Những người Shia coi tất cả những ai không đứng về phía họ là những kẻ vô đạo. Tương tự, những người thuộc Samastha coi những ai không đi cùng con đường với họ là những kẻ lầm lạc và vô thần. Những người có tư tưởng thống nhất nhưng lại chia rẽ thành nhiều tổ chức khác nhau lại đi cáo buộc người khác có nhiều trào lưu khác biệt! Bằng chứng về việc họ cáo buộc lẫn nhau về sự lầm lạc và vô thần tràn ngập trên mạng xã hội, nhưng họ vẫn tự mãn bằng cách chỉ trích người khác.
+
+Tại sao họ lại gọi những người thuộc Samastha là ‘người Hồi giáo dòng chính’? Có lẽ lý do là vì ‘số lượng đông đảo’. Nếu vậy, hãy hiểu một điều: trong suốt lịch sử, những người đứng về phía chân lý luôn là thiểu số, trong khi những người đại diện cho sự giả dối lại là đa số! Lịch sử đã dạy chúng ta điều đó. Lời dạy của Tiên tri nhấn mạnh rằng luôn có một nhóm nhỏ đứng vững trên con đường chân lý, chứ không phải là đa số.
+
+Allah phán: “Hay ngươi tưởng rằng phần đông họ nghe hoặc suy nghĩ? Họ chỉ như những con gia súc, thậm chí họ còn lầm lạc hơn về con đường” (25:44).
+
+Ibn Kathir (cầu mong Allah thương xót ông) nói: “Tình trạng của họ còn tồi tệ hơn cả gia súc đang gặm cỏ. Bởi vì gia súc biết chúng được tạo ra để làm gì. Còn những người này được tạo ra chỉ để thờ phụng một mình Allah mà không có bất kỳ đối tác nào. Mặc dù các bằng chứng đã được thiết lập và các sứ giả đã được gửi đến, họ vẫn đặt ra các đối tác cho Allah.”
+
+## Tiên tri Muhammad đã hỏi
+
+Việc các câu hỏi của Tiên tri Muhammad bị trộn lẫn với các tư tưởng Shirk, và việc những câu hỏi của Tiên tri không bao giờ xuất phát từ sự nghi ngờ hay sợ hãi, là điểm kết thúc cho một số câu hỏi của người Hồi giáo trong lịch sử:
+
+> “Khi giải thích về Ilah mà Muhammad đã mang đến, nếu bạn nghi ngờ, chỉ cần hỏi những người đọc Kinh Thánh trước bạn là đủ. Vậy vấn đề nằm ở đâu?” (Quran 12).
+
+Khi nghiên cứu sâu hơn về Đấng Tối Cao, câu hỏi này xuất hiện: “Chúng ta có một tôn giáo chân chính...” (13:14).
+
+## Tôi là Đấng Tối Cao
+
+Khi những người có vấn đề về tâm thần tự xưng là ‘Tôi là Đấng Tối Cao’ hay ‘Tôi là người kiểm soát thế giới’, và những người cố gắng làm xấu đi hình ảnh của Hồi giáo bằng cách chấp nhận những kẻ này như những vị thánh, khi họ hỏi ‘vấn đề nằm ở đâu’, câu trả lời thích hợp nhất là vấn đề chính là sự thao túng tư tưởng mà những người Sunni đã thực hiện.
+
+Người Hồi giáo lại hỏi: “Tại sao họ chỉ nói về khả năng mà Allah ban cho các thiên thần, các Jinn và những vĩ nhân, mà không nói về khả năng của chính Allah?” (Quran 15).
+
+Không có bằng chứng nào cho thấy bất kỳ ai có thể can thiệp vào khả năng của Đấng Tối Cao. Vì mọi quyền năng và sức mạnh đều thuộc về Ngài, chúng ta nên tìm kiếm sự giúp đỡ từ Ngài trong mọi việc.
+
+Không có nơi nào dạy rằng chúng ta có thể phá vỡ trật tự mà Đấng Tối Cao đã thiết lập cho các Jinn và thiên thần để tin vào những điều trái ngược. Họ không thể nâng những kẻ giả mạo lên vị trí của Đấng Tối Cao hay coi họ ngang hàng với Ngài trong các danh xưng và thuộc tính. Tuy nhiên, niềm tin rằng họ được ban cho những khả năng không có căn cứ vẫn đang được lan truyền.
+
+> “Có những người không coi ai ngang hàng với Đấng Tối Cao. Đấng Tối Cao yêu thương...”
+
+# Những người Salafi Tawhid đắm chìm trong Shirk
+
+**Tiến sĩ Faisal Ahsani Randathani**
+
+Nếu tất cả người Hồi giáo trên toàn cầu không nằm dưới nhãn hiệu độc thần, thì liệu tất cả cộng đồng Hồi giáo có phải là những người thờ phụng Allah? Lời của Tiên tri Muhammad mà tất cả người Hồi giáo đều chấp nhận là Tawhid (độc thần) cũng chính là điều này. Vậy tại sao lại có sự khác biệt về quan điểm giữa họ về Tawhid?
+
+Sự chia rẽ này bắt nguồn từ sự khác biệt trong việc giải thích từ ‘Ilah’ trong lời tuyên thệ Tawhid. Mọi người đều đưa ra ý nghĩa là không có sự thờ phụng nào khác ngoài Allah. Vậy vấn đề nằm ở đâu? Vấn đề là người Hồi giáo không rõ ràng về việc thờ phụng là gì. Định nghĩa này được mọi người chấp nhận. Nhưng vấn đề bắt đầu từ việc hiểu thế nào là ‘tối cao’.
+
+Hãy nhìn vào Kerala. Có ba trào lưu chính tồn tại ở đây liên quan đến Tawhid: Ahlus Sunnah wal Jama’ah, Salafi và Jama’at-e-Islami. Trong đó, bản thân nhóm Salafi cũng có ba dòng. Họ tự coi nhau là những người đa thần và mời gọi các nhóm khác theo Tawhid của riêng họ.
+
+*Hình ảnh: Các tín đồ đang chìm đắm trong lời cầu nguyện tại Masjid al-Haram, Mecca.*
+
+“...như thể họ yêu thương Allah, họ cũng yêu thương những kẻ đó. Nhưng những người có đức tin chân chính thì có tình yêu mãnh liệt đối với Allah. Nếu những kẻ áp bức này thấy được hình phạt ở thế giới bên kia, họ sẽ biết rằng mọi quyền năng đều thuộc về Allah và Ngài là Đấng trừng phạt nghiêm khắc” (2:165).
+
+Một câu hỏi khác của vị giáo sĩ là: “Vậy nếu chúng ta chào người chết tại mộ và họ nghe thấy những gì chúng ta nói, thì có gì phi lý khi yêu cầu họ thực hiện những việc mà chúng ta muốn?” (trang 17).
+
+Vị giáo sĩ đã thiếu kiến thức cơ bản rằng Allah không thiết lập những người đã qua đời làm trung gian cho những người còn sống. Nghi thức khi thăm mộ là chào hỏi và cầu nguyện cho họ. Việc họ có nghe hay phản hồi hay không liên quan đến cuộc sống ở Barzakh. Không có bằng chứng nào cho thấy chúng ta có thể trò chuyện với họ. Các giáo sĩ chưa bao giờ có thể chỉ ra bất kỳ vị Imam nào của Ahlus Sunnah giải thích rằng người chết có thể nghe và giải quyết các khiếu nại dựa trên những Hadith này! Việc các giáo sĩ dẫn dắt người dân đến các ngôi mộ để cầu xin những điều không thể xảy ra là điều vô nghĩa. Allah phán: “Ngươi không thể làm cho người chết nghe được; chắc chắn là vậy. Ngươi cũng không thể làm cho những kẻ điếc nghe được khi họ quay lưng bỏ đi” (27:79,80). Chỉ những người thuộc Samastha mới có thể tin rằng những gì Tiên tri (hòa bình và phước lành của Allah ở trên ông) không thể làm được thì người khác lại có thể làm.
+
+Giáo sĩ có thể hỏi: “Việc các vĩ nhân thực hiện các khả năng mà Allah ban cho chỉ là sự thể hiện quyền năng của Ngài. Nếu lập luận rằng họ giống như Allah, chẳng phải chúng ta sẽ phải nói rằng khả năng của Allah cũng đến từ người khác sao? Chẳng phải đó là sự hạ thấp Allah và gán ghép đối tác cho Ngài sao?” (trang 17,18).
+
+Câu hỏi này của vị giáo sĩ đang lay chuyển nền tảng đức tin của Samastha. Việc chuyển từ tư tưởng rằng các vị thánh được Allah ban cho khả năng làm mọi việc sang ‘khả năng do Allah ban cho’ là một bước tiến, nếu được củng cố, có thể dẫn họ đến với tư tưởng của Ahlus Sunnah rằng Allah không bao giờ ban quyền năng của Ngài cho bất kỳ ai. Những giáo sĩ chia sẻ các thuộc tính của Allah cho người khác chẳng phải là những người thực sự xúc phạm Allah sao? Nếu vị giáo sĩ thấu hiểu câu: “Không có gì giống Ngài. Ngài là Đấng nghe mọi thứ, thấy mọi thứ” (42:1), ông ta sẽ không đặt ra những câu hỏi tầm thường như vậy.
+
+Giáo sĩ hỏi: “Nếu không tin như vậy, liệu việc cầu xin một vĩ nhân đã khuất hoặc còn sống với niềm tin rằng Allah có thể làm cho họ nghe và Allah sẽ khiến lời cầu nguyện này trở thành lý do để tôi nhận được sự giúp đỡ, có khiến người Sunni trở thành kẻ đa thần không?” (trang 18).
+
+Việc tìm kiếm sự chữa lành thông qua cầu nguyện và điều trị khi bị bệnh là nguyên nhân công khai được xác nhận qua mặc khải. Không có bằng chứng nào cho thấy người chết là nguyên nhân để chữa bệnh. Do đó, ‘nguyên nhân bí ẩn’ này không có trong tôn giáo mà chỉ là tôn giáo của các giáo sĩ. Những giáo sĩ đang trải qua khó khăn về mặt tư tưởng khi ném đá vào một đức tin không có sự vướng mắc nào.
+
+Đừng bao giờ dán nhãn đa thần cho người khác, mà hãy làm rõ rằng Shirk là tội lỗi không được phép phạm phải dù ở bất kỳ đâu hay bởi bất kỳ ai. Hãy xem Quran hỏi: “Hay họ có những vị thần khác ngoài Allah? Allah vinh quang thay, vượt xa những gì họ gán ghép cho Ngài” (52:43).
+
+Câu hỏi tiếp theo của giáo sĩ: “Nếu bất kỳ vị thánh nào chỉ nghe được những gì Allah muốn họ nghe, vào thời điểm Allah muốn và với mức độ Allah muốn, thì làm sao Shirk có thể xảy ra?” (trang 18).
+
+Không nghi ngờ gì rằng chỉ những gì Allah muốn mới xảy ra. Nhưng liệu Allah có ban cho con người bất kỳ khả năng nào thuộc về riêng Ngài không? Các phép lạ mà các Tiên tri thể hiện là do Allah bày tỏ qua họ để làm bằng chứng cho sự chân thật của họ. Các vị thánh mà họ nói đến có cần thiết như vậy không? Allah phán: “Họ đã đặt ra những đối tác cho Allah để làm chệch hướng (mọi người) khỏi con đường của Ngài. Hãy nói: Hãy tận hưởng đi. Nơi trở về của các người là Hỏa ngục” (14:30).
+
+Một câu hỏi khác của giáo sĩ: “Vậy, họ có tin rằng Allah không thể làm cho ai đó nghe bất cứ điều gì, bất cứ lúc nào, từ bất cứ đâu không? Chúa của những người Wahhabi yếu đuối và bất lực đến thế sao?” (trang 18).
+
+“Chắc chắn Allah có khả năng làm mọi việc” (2:20). Đây là đức tin của những người Mujahid. Nhưng các bằng chứng không dạy rằng Allah ban cho bất kỳ con người nào khả năng kiểm soát thế giới hay thực hiện các công việc vũ trụ khác. Đó là Allah mà những người Mujahid tin tưởng.
+
+Giáo sĩ hỏi tiếp: “Nếu giả sử Allah ban cho ai đó khả năng nghe như vậy, liệu có thể nói rằng họ đã biến người đó thành Chúa không? Nếu gọi khả năng chỉ tồn tại theo ý muốn của người khác là Chúa, thì làm sao có thể nói rằng khả năng của Chúa cũng không phải là thứ nhận được như vậy?” (trang 18).
+
+Đây là kết quả của việc tưởng tượng ra một đức tin không có thật và đọc các thuộc tính của Allah theo quan điểm của các nhà logic học. Bất cứ điều gì được gán ghép vào quyền lợi của Allah đều trở thành Shirk. Những người vô thần đặt các đối tượng thờ phụng của họ vào mục tiêu nào thì những người Samastha cũng nhìn nhận các vị thánh giả mạo theo mục tiêu đó. Họ đang cố gắng tẩy trắng Shirk theo cách mà họ đã biện minh cho nó. Allah trong sạch khỏi tất cả những điều này. Quran nói: “Đừng nghi ngờ về những gì họ thờ phụng. Họ chỉ đang thực hiện sự thờ phụng giống như tổ tiên họ đã làm. Chắc chắn Chúng ta sẽ ban cho họ phần của họ mà không hề thiếu hụt” (11:109).
+
+Giáo sĩ cũng cố gắng đánh đồng sự giúp đỡ và trung gian vốn khác biệt về ý nghĩa: “Đó là lý do tại sao những người Wahhabi thường xuyên giảng về vấn đề này phải thừa nhận rằng Tawassul (trung gian) mà Bilal bin Harith (cầu mong Allah hài lòng với ông) đã thực hiện không phải là Shirk” (trang 17).
+
+Giáo sĩ đã phá vỡ một lập trường khác của Samastha. Kể từ khi nào họ gộp Tawassul và Istighatha làm một, trong khi trước đây họ giải thích chúng là hai khái niệm khác nhau? Liệu tư tưởng về việc đưa các thiên thần vào Istighatha cũng sẽ thay đổi theo? Câu chuyện yếu ớt về việc đến gặp Tiên tri (hòa bình và phước lành của Allah ở trên ông) để cầu mưa là chiếc phao cứu sinh duy nhất mà các giáo sĩ có để tìm kiếm sự giúp đỡ từ các vĩ nhân.
+
+Một phát hiện thú vị của giáo sĩ: “Chỉ có một sự khác biệt giữa việc yêu cầu bác sĩ chữa bệnh và yêu cầu một vị thánh. Một người là nguyên nhân rõ ràng, người kia là nguyên nhân bí ẩn” (trang 20).
+
+Việc tìm kiếm sự chữa lành thông qua cầu nguyện và điều trị khi bị bệnh là nguyên nhân công khai được xác nhận qua mặc khải. Không có bằng chứng nào cho thấy người chết là nguyên nhân để chữa bệnh. Do đó, ‘nguyên nhân bí ẩn’ này không có trong tôn giáo mà chỉ là tôn giáo của các giáo sĩ.
+
+Những giáo sĩ đang trải qua khó khăn về mặt tư tưởng khi ném đá vào một đức tin không có sự vướng mắc nào. Điều cần nói với họ là hãy quay trở lại với các bằng chứng.
