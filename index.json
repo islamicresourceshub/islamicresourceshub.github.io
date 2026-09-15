@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T04:47:46.041237+00:00",
+ "generated_at": "2026-09-15T04:48:45.574580+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4767,
+ "count": 4768,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -14916,6 +14916,17 @@
    "issue_date": "2017-02-25",
    "html_url": "/ja/family/water-and-life-20170225-5.html",
    "md_url": "/ja/family/water-and-life-20170225-5.md"
+  },
+  {
+   "slug": "welcoming-the-newborn-20170225-9",
+   "lang": "ja",
+   "category": "family",
+   "title": "新しい命を迎えるとき",
+   "summary": "イスラミック・ペアレンティング・シリーズの一環として、本稿では子供が誕生した直後に両親が留意すべきイスラームの教えと実践について解説します。",
+   "author": "അശ്‌റഫ് എകരൂല്‍",
+   "issue_date": "2017-02-25",
+   "html_url": "/ja/family/welcoming-the-newborn-20170225-9.html",
+   "md_url": "/ja/family/welcoming-the-newborn-20170225-9.md"
   },
   {
    "slug": "alcohol-islam-s-ever-relevant-approach-20170225-6",
