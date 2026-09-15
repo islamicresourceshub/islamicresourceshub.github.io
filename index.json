@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T11:36:06.993491+00:00",
+ "generated_at": "2026-09-15T11:37:02.090976+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5075,
+ "count": 5076,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -11671,6 +11671,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/ha/aqeedah/become-the-guardian-of-the-sources-20170128-9.html",
    "md_url": "/ha/aqeedah/become-the-guardian-of-the-sources-20170128-9.md"
+  },
+  {
+   "slug": "celebrating-nabi-day-is-un-islamic-20260822-5",
+   "lang": "ha",
+   "category": "aqeedah",
+   "title": "Bikin Maulidi ba aiki ne na Musulunci ba",
+   "summary": "Marubucin ya bayyana cewa bikin Maulidi ba shi da wani tushe a cikin koyarwar Musulunci, kuma ya dauke shi a matsayin wani sabon abu da aka kirkira a cikin addini.",
+   "author": "ആദിൽ നിസാമുദ്ദീൻ",
+   "issue_date": "2026-08-22",
+   "html_url": "/ha/aqeedah/celebrating-nabi-day-is-un-islamic-20260822-5.html",
+   "md_url": "/ha/aqeedah/celebrating-nabi-day-is-un-islamic-20260822-5.md"
   },
   {
    "slug": "faith-is-the-foundation-of-islam-20170128-13",
