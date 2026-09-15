@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T08:35:24.061934+00:00",
+ "generated_at": "2026-09-15T08:36:21.270830+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4931,
+ "count": 4932,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -39215,6 +39215,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/ps/hadith/criteria-for-accepting-hadith-20170128-2.html",
    "md_url": "/ps/hadith/criteria-for-accepting-hadith-20170128-2.md"
+  },
+  {
+   "slug": "know-this-for-those-caring-for-the-sick-20260822-1",
+   "lang": "ps",
+   "category": "health",
+   "title": "پوه شئ؛ د ناروغ پالونکي څوک دي",
+   "summary": "دا لیکنه د هغو کسانو د فزیکي او رواني ستونزو په اړه ده چې د ناروغانو پالنه کوي او د دوی د ځان ساتنې او ملاتړ پر اهمیت ټینګار کوي. دا یادونه کوي چې پالونکي هم د نورو د پاملرنې او آرام ته اړتیا لري.",
+   "author": "ഡോ. ഫുസ്സൻ നൂരസന്ന",
+   "issue_date": "2026-08-22",
+   "html_url": "/ps/health/know-this-for-those-caring-for-the-sick-20260822-1.html",
+   "md_url": "/ps/health/know-this-for-those-caring-for-the-sick-20260822-1.md"
   },
   {
    "slug": "islamophobia-archetypes-of-ancient-history-20170225-3",
