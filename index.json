@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T08:38:03.440734+00:00",
+ "generated_at": "2026-09-15T08:38:57.620403+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4934,
+ "count": 4935,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -42218,6 +42218,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/si/hadith/criteria-for-accepting-hadith-20170128-2.html",
    "md_url": "/si/hadith/criteria-for-accepting-hadith-20170128-2.md"
+  },
+  {
+   "slug": "know-this-for-those-caring-for-the-sick-20260822-1",
+   "lang": "si",
+   "category": "health",
+   "title": "අවබෝධ කරගන්න; රෝගීන් රැකබලා ගන්නන්",
+   "summary": "රෝගීන් රැකබලා ගන්නන් මුහුණ දෙන ශාරීරික හා මානසික අභියෝග සහ ඔවුන් තමන් ගැනම සැලකිලිමත් විය යුතු ආකාරය පිළිබඳව මෙම ලිපිය සාකච්ඡා කරයි. රැකබලා ගන්නන්ට අවශ්‍ය විවේකය සහ සහයෝගය ලබා දීමේ වැදගත්කම පිළිබඳව මෙය සිහිපත් කරයි.",
+   "author": "ഡോ. ഫുസ്സൻ നൂരസന്ന",
+   "issue_date": "2026-08-22",
+   "html_url": "/si/health/know-this-for-those-caring-for-the-sick-20260822-1.html",
+   "md_url": "/si/health/know-this-for-those-caring-for-the-sick-20260822-1.md"
   },
   {
    "slug": "islamophobia-archetypes-of-ancient-history-20170225-3",
