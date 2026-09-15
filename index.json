@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T06:33:43.116499+00:00",
+ "generated_at": "2026-09-15T06:34:37.923526+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 4865,
+ "count": 4866,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -50083,6 +50083,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/ur/dawah/the-message-of-equality-20170121-11.html",
    "md_url": "/ur/dawah/the-message-of-equality-20170121-11.md"
+  },
+  {
+   "slug": "the-path-to-peace-20170225-11",
+   "lang": "ur",
+   "category": "dawah",
+   "title": "سکون کی جانب سفر",
+   "summary": "مادی سہولیات میں اضافے کے باوجود جدید انسان ذہنی سکون سے محروم ہے۔ یہ تحریر اسلام کی روشنی میں ان طریقوں کا احاطہ کرتی ہے جو انسان کو حقیقی اطمینان اور سکونِ قلب تک پہنچاتے ہیں۔",
+   "author": "ശമീര്‍ മദീനി",
+   "issue_date": "2017-02-25",
+   "html_url": "/ur/dawah/the-path-to-peace-20170225-11.html",
+   "md_url": "/ur/dawah/the-path-to-peace-20170225-11.md"
   },
   {
    "slug": "the-religion-that-rejects-terrorism-part-1-20170121-12",
