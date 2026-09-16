@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-16T17:29:07.196901+00:00",
+ "generated_at": "2026-09-16T17:30:26.477661+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5625,
+ "count": 5626,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -18128,6 +18128,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/it/youth/what-will-the-waste-do-20170114-5.html",
    "md_url": "/it/youth/what-will-the-waste-do-20170114-5.md"
+  },
+  {
+   "slug": "allegations-of-deviation-and-responses-20170401-8",
+   "lang": "ja",
+   "category": "aqeedah",
+   "title": "逸脱の告発とそれに対する回答",
+   "summary": "ケララ州におけるイスラム復興運動の歴史の一幕を記録した記事です。組織内部で生じた思想的な対立と、それらを解決するために行われた議論や決定事項がまとめられています。",
+   "author": "മുബാറക് ബിൻ ഉമർ",
+   "issue_date": "2017-04-01",
+   "html_url": "/ja/aqeedah/allegations-of-deviation-and-responses-20170401-8.html",
+   "md_url": "/ja/aqeedah/allegations-of-deviation-and-responses-20170401-8.md"
   },
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
