@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-16T11:56:13.867449+00:00",
+ "generated_at": "2026-09-16T11:57:06.639244+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5581,
+ "count": 5582,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -13134,6 +13134,17 @@
    "issue_date": "2026-08-22",
    "html_url": "/gu/story/my-pen-20260822-8.html",
    "md_url": "/gu/story/my-pen-20260822-8.md"
+  },
+  {
+   "slug": "obey-your-parents-20170401-7",
+   "lang": "gu",
+   "category": "story",
+   "title": "માતા-પિતાની આજ્ઞાનું પાલન",
+   "summary": "આ વાર્તા એક બાળક દ્વારા તેના માતા-પિતાની આજ્ઞા ન માનવાના પરિણામો અને માતા-પિતાના આદરનું મહત્વ સમજાવે છે. તે બાળકોને શીખવે છે કે માતા-પિતાની સેવા અને આજ્ઞાનું પાલન કરવું એ ઈશ્વરની પ્રસન્નતા મેળવવાનો માર્ગ છે.",
+   "author": "ഉസ്മാൻ പാലക്കാഴി",
+   "issue_date": "2017-04-01",
+   "html_url": "/gu/story/obey-your-parents-20170401-7.html",
+   "md_url": "/gu/story/obey-your-parents-20170401-7.md"
   },
   {
    "slug": "sugar-like-gold-dust-20170128-11",
