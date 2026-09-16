@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-16T07:46:49.460125+00:00",
+ "generated_at": "2026-09-16T07:48:08.100782+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5399,
+ "count": 5400,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -41899,6 +41899,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/ps/dawah/muslims-in-a-pluralistic-society-20170128-1.html",
    "md_url": "/ps/dawah/muslims-in-a-pluralistic-society-20170128-1.md"
+  },
+  {
+   "slug": "not-to-falter-in-crises-20170401-2",
+   "lang": "ps",
+   "category": "dawah",
+   "title": "په کړاوونو کې د نه وارخطا کېدو لپاره",
+   "summary": "دا بیانوي چې یو مؤمن باید په ژوند کې له کړاوونو سره څنګه مقابله وکړي. دا د پیغمبرانو له ژوند څخه د درسونو په اخیستلو سره د نه وارخطا کېدو او پرمختګ غوښتنه کوي.",
+   "author": "ഷമീർ മദീനി",
+   "issue_date": "2017-04-01",
+   "html_url": "/ps/dawah/not-to-falter-in-crises-20170401-2.html",
+   "md_url": "/ps/dawah/not-to-falter-in-crises-20170401-2.md"
   },
   {
    "slug": "organization-is-not-for-division-20170218-13",
