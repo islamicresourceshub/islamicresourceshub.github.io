@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-16T05:26:18.497328+00:00",
+ "generated_at": "2026-09-16T05:27:13.771288+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5292,
+ "count": 5293,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -52195,6 +52195,17 @@
    "issue_date": "2017-02-04",
    "html_url": "/tl/family/children-an-islamic-reading-part-4-20170204-5.html",
    "md_url": "/tl/family/children-an-islamic-reading-part-4-20170204-5.md"
+  },
+  {
+   "slug": "conduct-towards-one-s-spouse-20170304-2",
+   "lang": "tl",
+   "category": "family",
+   "title": "Pakikitungo sa Asawa",
+   "summary": "Batay sa pahayag ng Propeta na ang pinakamabuti sa mga mananampalataya ay ang mga mahusay makitungo sa kanilang mga asawa, tinatalakay ng artikulong ito ang mga kagandahang-asal sa buhay pampamilya.",
+   "author": "അബൂ റാഷിദ",
+   "issue_date": "2017-03-04",
+   "html_url": "/tl/family/conduct-towards-one-s-spouse-20170304-2.html",
+   "md_url": "/tl/family/conduct-towards-one-s-spouse-20170304-2.md"
   },
   {
    "slug": "do-not-invite-water-scarcity-20170225-4",
