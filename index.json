@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-16T06:52:32.692925+00:00",
+ "generated_at": "2026-09-16T06:53:23.664092+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5380,
+ "count": 5381,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -4873,6 +4873,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/bs/dawah/muslims-in-a-pluralistic-society-20170128-1.html",
    "md_url": "/bs/dawah/muslims-in-a-pluralistic-society-20170128-1.md"
+  },
+  {
+   "slug": "not-to-falter-in-crises-20170401-2",
+   "lang": "bs",
+   "category": "dawah",
+   "title": "Kako ostati nepokolebljiv u kriznim situacijama",
+   "summary": "Ovaj tekst objašnjava kako vjernik treba da se suoči sa životnim iskušenjima. Kroz primjere iz života poslanika, autor nas poziva da ostanemo čvrsti i ne posustanemo pred nedaćama.",
+   "author": "ഷമീർ മദീനി",
+   "issue_date": "2017-04-01",
+   "html_url": "/bs/dawah/not-to-falter-in-crises-20170401-2.html",
+   "md_url": "/bs/dawah/not-to-falter-in-crises-20170401-2.md"
   },
   {
    "slug": "organization-is-not-for-division-20170218-13",
