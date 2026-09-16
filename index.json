@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-16T11:54:14.903750+00:00",
+ "generated_at": "2026-09-16T11:55:09.022386+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5579,
+ "count": 5580,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -10769,6 +10769,17 @@
    "issue_date": "2026-08-22",
    "html_url": "/fa/story/my-pen-20260822-8.html",
    "md_url": "/fa/story/my-pen-20260822-8.md"
+  },
+  {
+   "slug": "obey-your-parents-20170401-7",
+   "lang": "fa",
+   "category": "story",
+   "title": "اطاعت از والدین",
+   "summary": "این داستان کوتاه به اهمیت اطاعت از والدین و پیامدهای بی‌توجهی به دستورات آنان می‌پردازد. نویسنده با روایت ماجرای پسری به نام فیصل، به کودکان می‌آموزد که چگونه با احترام و مهربانی با پدر و مادر خود رفتار کنند.",
+   "author": "ഉസ്മാൻ പാലക്കാഴി",
+   "issue_date": "2017-04-01",
+   "html_url": "/fa/story/obey-your-parents-20170401-7.html",
+   "md_url": "/fa/story/obey-your-parents-20170401-7.md"
   },
   {
    "slug": "sugar-like-gold-dust-20170128-11",
