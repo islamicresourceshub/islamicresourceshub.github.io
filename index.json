@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-16T06:10:36.329165+00:00",
+ "generated_at": "2026-09-16T06:11:35.215007+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5334,
+ "count": 5335,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -56639,6 +56639,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/uz/story/the-currency-that-was-not-accepted-20170114-3.html",
    "md_url": "/uz/story/the-currency-that-was-not-accepted-20170114-3.md"
+  },
+  {
+   "slug": "the-duty-of-the-sighted-20170304-3",
+   "lang": "uz",
+   "category": "story",
+   "title": "Ko'zi ochiqlarning burchi",
+   "summary": "Bu bolalarga ijtimoiy mas'uliyatni o'rgatuvchi qisqa hikoyadir. Jasim va Fahim ismli aka-uka misolida insonning o'z burchlari haqida so'z boradi.",
+   "author": "ഉസ്മാന്‍ പാലക്കാഴി",
+   "issue_date": "2017-03-04",
+   "html_url": "/uz/story/the-duty-of-the-sighted-20170304-3.html",
+   "md_url": "/uz/story/the-duty-of-the-sighted-20170304-3.md"
   },
   {
    "slug": "the-fruit-of-ingratitude-20170121-7",
