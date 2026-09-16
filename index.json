@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-16T17:10:15.564971+00:00",
+ "generated_at": "2026-09-16T17:11:11.028181+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5609,
+ "count": 5610,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -61831,6 +61831,17 @@
    "issue_date": "2026-08-22",
    "html_url": "/zh/story/my-pen-20260822-8.html",
    "md_url": "/zh/story/my-pen-20260822-8.md"
+  },
+  {
+   "slug": "obey-your-parents-20170401-7",
+   "lang": "zh",
+   "category": "story",
+   "title": "顺从父母",
+   "summary": "本文通过一个关于小男孩费萨尔的故事，讲述了不顺从父母所带来的后果。故事旨在让孩子们明白，听从父母的教诲并尊重他们是多么重要。",
+   "author": "ഉസ്മാൻ പാലക്കാഴി",
+   "issue_date": "2017-04-01",
+   "html_url": "/zh/story/obey-your-parents-20170401-7.html",
+   "md_url": "/zh/story/obey-your-parents-20170401-7.md"
   },
   {
    "slug": "sugar-like-gold-dust-20170128-11",
