@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-16T11:59:12.377364+00:00",
+ "generated_at": "2026-09-16T12:00:09.515828+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5584,
+ "count": 5585,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -16676,6 +16676,17 @@
    "issue_date": "2026-08-22",
    "html_url": "/id/story/my-pen-20260822-8.html",
    "md_url": "/id/story/my-pen-20260822-8.md"
+  },
+  {
+   "slug": "obey-your-parents-20170401-7",
+   "lang": "id",
+   "category": "story",
+   "title": "Taatilah Orang Tua",
+   "summary": "Melalui sebuah kisah anak, tulisan ini menjelaskan dampak buruk dari ketidakpatuhan kepada orang tua. Kisah ini menyadarkan anak-anak akan pentingnya menghargai perkataan orang tua.",
+   "author": "ഉസ്മാൻ പാലക്കാഴി",
+   "issue_date": "2017-04-01",
+   "html_url": "/id/story/obey-your-parents-20170401-7.html",
+   "md_url": "/id/story/obey-your-parents-20170401-7.md"
   },
   {
    "slug": "sugar-like-gold-dust-20170128-11",
