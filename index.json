@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-16T04:58:25.789248+00:00",
+ "generated_at": "2026-09-16T04:59:41.838180+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5262,
+ "count": 5263,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -3795,6 +3795,17 @@
    "issue_date": "2017-02-04",
    "html_url": "/bn/family/children-an-islamic-reading-part-4-20170204-5.html",
    "md_url": "/bn/family/children-an-islamic-reading-part-4-20170204-5.md"
+  },
+  {
+   "slug": "conduct-towards-one-s-spouse-20170304-2",
+   "lang": "bn",
+   "category": "family",
+   "title": "জীবনসঙ্গীর সাথে আচরণ",
+   "summary": "বিশ্বাসীদের মধ্যে সেই ব্যক্তিই সর্বোত্তম যে তার স্ত্রীর সাথে উত্তম আচরণ করে—নবীজির এই বাণীর আলোকে পারিবারিক জীবনের শিষ্টাচার ও করণীয় সম্পর্কে এখানে আলোচনা করা হয়েছে।",
+   "author": "അബൂ റാഷിദ",
+   "issue_date": "2017-03-04",
+   "html_url": "/bn/family/conduct-towards-one-s-spouse-20170304-2.html",
+   "md_url": "/bn/family/conduct-towards-one-s-spouse-20170304-2.md"
   },
   {
    "slug": "do-not-invite-water-scarcity-20170225-4",
