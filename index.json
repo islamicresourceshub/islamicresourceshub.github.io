@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-16T17:02:14.958696+00:00",
+ "generated_at": "2026-09-16T17:03:13.116078+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5601,
+ "count": 5602,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -52338,6 +52338,17 @@
    "issue_date": "2026-08-22",
    "html_url": "/ta/story/my-pen-20260822-8.html",
    "md_url": "/ta/story/my-pen-20260822-8.md"
+  },
+  {
+   "slug": "obey-your-parents-20170401-7",
+   "lang": "ta",
+   "category": "story",
+   "title": "பெற்றோர்களுக்குக் கீழ்ப்படியுங்கள்",
+   "summary": "பெற்றோர்களுக்குக் கீழ்ப்படியாமல் இருப்பதன் தீய விளைவுகளை ஒரு சிறு கதையின் மூலம் இக்கட்டுரை விளக்குகிறது. குழந்தைகளின் வாழ்வில் பெற்றோரின் சொற்களுக்கு மதிப்பளிப்பதன் முக்கியத்துவத்தை இது வலியுறுத்துகிறது.",
+   "author": "ഉസ്മാൻ പാലക്കാഴി",
+   "issue_date": "2017-04-01",
+   "html_url": "/ta/story/obey-your-parents-20170401-7.html",
+   "md_url": "/ta/story/obey-your-parents-20170401-7.md"
   },
   {
    "slug": "sugar-like-gold-dust-20170128-11",
