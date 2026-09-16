@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-16T11:21:37.377354+00:00",
+ "generated_at": "2026-09-16T11:22:34.237482+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5544,
+ "count": 5545,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -15169,6 +15169,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/hi/opinion/warning-signs-from-the-reconstruction-of-history-20170114-2.html",
    "md_url": "/hi/opinion/warning-signs-from-the-reconstruction-of-history-20170114-2.md"
+  },
+  {
+   "slug": "water-murmurs-20170401-6",
+   "lang": "hi",
+   "category": "opinion",
+   "title": "जल की फुसफुसाहटें",
+   "summary": "यह लेख बढ़ते जल संकट और पानी के उपयोग में हमारी लापरवाही के बारे में याद दिलाता है। यह पर्यावरण संरक्षण के महत्व पर जोर देता है।",
+   "author": "ഇബ്‌നു അലി എടത്തനാട്ടുകര",
+   "issue_date": "2017-04-01",
+   "html_url": "/hi/opinion/water-murmurs-20170401-6.html",
+   "md_url": "/hi/opinion/water-murmurs-20170401-6.md"
   },
   {
    "slug": "when-national-tradition-is-questioned-20170121-2",
