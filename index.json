@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-16T05:30:25.193249+00:00",
+ "generated_at": "2026-09-16T05:31:18.224481+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5296,
+ "count": 5297,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -56595,6 +56595,17 @@
    "issue_date": "2017-02-04",
    "html_url": "/vi/family/children-an-islamic-reading-part-4-20170204-5.html",
    "md_url": "/vi/family/children-an-islamic-reading-part-4-20170204-5.md"
+  },
+  {
+   "slug": "conduct-towards-one-s-spouse-20170304-2",
+   "lang": "vi",
+   "category": "family",
+   "title": "Cách ứng xử với người bạn đời",
+   "summary": "Dựa trên lời dạy của Tiên tri rằng người tốt nhất trong số các tín đồ là người đối xử tử tế với vợ mình, bài viết này trình bày về các nguyên tắc ứng xử trong đời sống gia đình.",
+   "author": "അബൂ റാഷിദ",
+   "issue_date": "2017-03-04",
+   "html_url": "/vi/family/conduct-towards-one-s-spouse-20170304-2.html",
+   "md_url": "/vi/family/conduct-towards-one-s-spouse-20170304-2.md"
   },
   {
    "slug": "do-not-invite-water-scarcity-20170225-4",
