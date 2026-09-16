@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-16T06:48:11.616929+00:00",
+ "generated_at": "2026-09-16T06:49:03.424826+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5375,
+ "count": 5376,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -58267,6 +58267,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/zh/aqeedah/faith-is-the-foundation-of-islam-20170128-13.html",
    "md_url": "/zh/aqeedah/faith-is-the-foundation-of-islam-20170128-13.md"
+  },
+  {
+   "slug": "identify-yourself-20170401-1",
+   "lang": "zh",
+   "category": "aqeedah",
+   "title": "认识自我",
+   "summary": "本文简要探讨了人类本性与伊斯兰生活方式，提醒人们必须按照真主所设定的本性去生活。文章强调了回归造物主、认清自身受造本质的重要性。",
+   "author": "എഡിറ്റർ",
+   "issue_date": "2017-04-01",
+   "html_url": "/zh/aqeedah/identify-yourself-20170401-1.html",
+   "md_url": "/zh/aqeedah/identify-yourself-20170401-1.md"
   },
   {
    "slug": "salafiyyah-ideology-and-stance-20170211-8",
