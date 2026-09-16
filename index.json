@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-16T08:00:57.746288+00:00",
+ "generated_at": "2026-09-16T08:01:52.772726+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5412,
+ "count": 5413,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -56529,6 +56529,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/uz/dawah/muslims-in-a-pluralistic-society-20170128-1.html",
    "md_url": "/uz/dawah/muslims-in-a-pluralistic-society-20170128-1.md"
+  },
+  {
+   "slug": "not-to-falter-in-crises-20170401-2",
+   "lang": "uz",
+   "category": "dawah",
+   "title": "Qiyinchiliklar qarshisida taslim bo‘lmaslik",
+   "summary": "Ushbu maqolada mo‘min kishi hayotdagi sinovlarga qanday munosabatda bo‘lishi kerakligi bayon etiladi. Payg‘ambarlar hayotidan ibrat olgan holda, qiyinchiliklar qarshisida matonat bilan oldinga intilishga chaqiradi.",
+   "author": "ഷമീർ മദീനി",
+   "issue_date": "2017-04-01",
+   "html_url": "/uz/dawah/not-to-falter-in-crises-20170401-2.html",
+   "md_url": "/uz/dawah/not-to-falter-in-crises-20170401-2.md"
   },
   {
    "slug": "organization-is-not-for-division-20170218-13",
