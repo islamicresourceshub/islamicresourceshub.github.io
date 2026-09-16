@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-16T05:11:23.891534+00:00",
+ "generated_at": "2026-09-16T05:12:20.143322+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5275,
+ "count": 5276,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -18040,6 +18040,17 @@
    "issue_date": "2017-02-04",
    "html_url": "/kn/family/children-an-islamic-reading-part-4-20170204-5.html",
    "md_url": "/kn/family/children-an-islamic-reading-part-4-20170204-5.md"
+  },
+  {
+   "slug": "conduct-towards-one-s-spouse-20170304-2",
+   "lang": "kn",
+   "category": "family",
+   "title": "ಜೀವನ ಸಂಗಾತಿಯೊಂದಿಗಿನ ವರ್ತನೆ",
+   "summary": "ತನ್ನ ಪತ್ನಿಯೊಂದಿಗೆ ಉತ್ತಮವಾಗಿ ವರ್ತಿಸುವವನೇ ವಿಶ್ವಾಸಿಗಳಲ್ಲಿ ಅತ್ಯುತ್ತಮನು ಎಂಬ ಪ್ರವಾದಿ ವಚನದ ಆಧಾರದಲ್ಲಿ, ಕೌಟುಂಬಿಕ ಜೀವನದ ಮರ್ಯಾದೆಗಳ ಕುರಿತು ಇಲ್ಲಿ ವಿವರಿಸಲಾಗಿದೆ.",
+   "author": "അബൂ റാഷിദ",
+   "issue_date": "2017-03-04",
+   "html_url": "/kn/family/conduct-towards-one-s-spouse-20170304-2.html",
+   "md_url": "/kn/family/conduct-towards-one-s-spouse-20170304-2.md"
   },
   {
    "slug": "do-not-invite-water-scarcity-20170225-4",
