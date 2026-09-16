@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-16T17:16:20.293312+00:00",
+ "generated_at": "2026-09-16T17:17:22.422998+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5615,
+ "count": 5616,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -6193,6 +6193,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/bs/youth/what-will-the-waste-do-20170114-5.html",
    "md_url": "/bs/youth/what-will-the-waste-do-20170114-5.md"
+  },
+  {
+   "slug": "allegations-of-deviation-and-responses-20170401-8",
+   "lang": "de",
+   "category": "aqeedah",
+   "title": "Vorwürfe der Abweichung und die Reaktion darauf",
+   "summary": "Ein Bericht über eine entscheidende Phase in der Geschichte der islamischen Renaissance in Kerala. Das Dokument hält die ideologischen Differenzen innerhalb der Organisation sowie die geführten Diskussionen und Beschlüsse zur Klärung dieser Fragen fest.",
+   "author": "മുബാറക് ബിൻ ഉമർ",
+   "issue_date": "2017-04-01",
+   "html_url": "/de/aqeedah/allegations-of-deviation-and-responses-20170401-8.html",
+   "md_url": "/de/aqeedah/allegations-of-deviation-and-responses-20170401-8.md"
   },
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
