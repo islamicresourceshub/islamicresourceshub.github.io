@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-16T17:03:13.116078+00:00",
+ "generated_at": "2026-09-16T17:03:51.084070+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5602,
+ "count": 5603,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -53515,6 +53515,17 @@
    "issue_date": "2026-08-22",
    "html_url": "/te/story/my-pen-20260822-8.html",
    "md_url": "/te/story/my-pen-20260822-8.md"
+  },
+  {
+   "slug": "obey-your-parents-20170401-7",
+   "lang": "te",
+   "category": "story",
+   "title": "తల్లిదండ్రులను అనుసరించండి",
+   "summary": "తల్లిదండ్రుల మాట వినకపోవడం వల్ల కలిగే పరిణామాలను ఒక చిన్న కథ ద్వారా ఈ వ్యాసం వివరిస్తుంది. పిల్లలు తమ తల్లిదండ్రుల పట్ల ఎలా ప్రవర్తించాలో మరియు వారిని గౌరవించడం ఎంత ముఖ్యమో ఇది తెలియజేస్తుంది.",
+   "author": "ഉസ്മാൻ പാലക്കാഴി",
+   "issue_date": "2017-04-01",
+   "html_url": "/te/story/obey-your-parents-20170401-7.html",
+   "md_url": "/te/story/obey-your-parents-20170401-7.md"
   },
   {
    "slug": "sugar-like-gold-dust-20170128-11",
