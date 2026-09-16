@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-16T08:23:42.368123+00:00",
+ "generated_at": "2026-09-16T08:24:31.484147+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5435,
+ "count": 5436,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -39039,6 +39039,17 @@
    "issue_date": "2017-02-11",
    "html_url": "/ne/family/school-annual-day-experiences-20170211-10.html",
    "md_url": "/ne/family/school-annual-day-experiences-20170211-10.md"
+  },
+  {
+   "slug": "sexual-anarchy-problems-and-solutions-20170401-3",
+   "lang": "ne",
+   "category": "family",
+   "title": "यौन अराजकता: समस्या र समाधानहरू",
+   "summary": "यस लेखमा यौन अराजकताका सामाजिक प्रभावहरू र इस्लामले सुझाएका समाधानहरूबारे चर्चा गरिएको छ। विवाहबाह्य सम्बन्ध र अश्लीलताका खतराहरूलाई यसमा विशेष रूपमा प्रकाश पारिएको छ।",
+   "author": "മുഹമ്മദുബ്‌നു ബഷീർ",
+   "issue_date": "2017-04-01",
+   "html_url": "/ne/family/sexual-anarchy-problems-and-solutions-20170401-3.html",
+   "md_url": "/ne/family/sexual-anarchy-problems-and-solutions-20170401-3.md"
   },
   {
    "slug": "the-methodology-of-conduct-20170128-8",
