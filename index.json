@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-16T17:33:04.356087+00:00",
+ "generated_at": "2026-09-16T17:34:18.223625+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5628,
+ "count": 5629,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -37345,6 +37345,17 @@
    "issue_date": "2018-06-16",
    "html_url": "/ml/youth/when-bidding-farewell-to-the-holy-month-20180616-9.html",
    "md_url": "/ml/youth/when-bidding-farewell-to-the-holy-month-20180616-9.md"
+  },
+  {
+   "slug": "allegations-of-deviation-and-responses-20170401-8",
+   "lang": "mr",
+   "category": "aqeedah",
+   "title": "विचलन के आरोप और प्रतिक्रिया",
+   "summary": "यह लेख केरल में मुस्लिम पुनर्जागरण के इतिहास के एक महत्वपूर्ण चरण का वर्णन करता है। इसमें संगठन के भीतर वैचारिक मतभेदों और उन्हें सुलझाने के लिए आयोजित चर्चाओं और निर्णयों का विवरण दिया गया है।",
+   "author": "മുബാറക് ബിൻ ഉമർ",
+   "issue_date": "2017-04-01",
+   "html_url": "/mr/aqeedah/allegations-of-deviation-and-responses-20170401-8.html",
+   "md_url": "/mr/aqeedah/allegations-of-deviation-and-responses-20170401-8.md"
   },
   {
    "slug": "celebrating-nabi-day-is-un-islamic-20260822-5",
