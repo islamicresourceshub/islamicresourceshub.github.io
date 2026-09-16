@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-16T11:57:06.639244+00:00",
+ "generated_at": "2026-09-16T11:58:19.704881+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5582,
+ "count": 5583,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -14322,6 +14322,17 @@
    "issue_date": "2026-08-22",
    "html_url": "/ha/story/my-pen-20260822-8.html",
    "md_url": "/ha/story/my-pen-20260822-8.md"
+  },
+  {
+   "slug": "obey-your-parents-20170401-7",
+   "lang": "ha",
+   "category": "story",
+   "title": "Biyayya ga iyaye",
+   "summary": "Wannan labarin yara ne da ke bayyana illar rashin biyayya ga iyaye. Yana nuna mahimmancin sauraron maganar iyaye da kuma yadda Allah yake kallon biyayya a gare su.",
+   "author": "ഉസ്മാൻ പാലക്കാഴി",
+   "issue_date": "2017-04-01",
+   "html_url": "/ha/story/obey-your-parents-20170401-7.html",
+   "md_url": "/ha/story/obey-your-parents-20170401-7.md"
   },
   {
    "slug": "sugar-like-gold-dust-20170128-11",
