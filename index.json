@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-16T17:38:34.542455+00:00",
+ "generated_at": "2026-09-16T17:48:27.349550+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5632,
+ "count": 5633,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -42086,6 +42086,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/or/youth/what-will-the-waste-do-20170114-5.html",
    "md_url": "/or/youth/what-will-the-waste-do-20170114-5.md"
+  },
+  {
+   "slug": "allegations-of-deviation-and-responses-20170401-8",
+   "lang": "pa",
+   "category": "aqeedah",
+   "title": "ਵਿਚਾਰਧਾਰਕ ਭਟਕਾਅ ਦੇ ਦੋਸ਼ ਅਤੇ ਉਨ੍ਹਾਂ ਦਾ ਜਵਾਬ",
+   "summary": "ਇਹ ਲੇਖ ਕੇਰਲ ਵਿੱਚ ਮੁਸਲਿਮ ਨਵਜਾਗਰਣ ਦੇ ਇਤਿਹਾਸ ਦੇ ਇੱਕ ਅਹਿਮ ਪੜਾਅ ਨੂੰ ਦਰਸਾਉਂਦਾ ਹੈ। ਇਸ ਵਿੱਚ ਸੰਗਠਨ ਦੇ ਅੰਦਰ ਪੈਦਾ ਹੋਏ ਵਿਚਾਰਧਾਰਕ ਮਤਭੇਦਾਂ ਅਤੇ ਉਨ੍ਹਾਂ ਨੂੰ ਸੁਲਝਾਉਣ ਲਈ ਕੀਤੀਆਂ ਗਈਆਂ ਚਰਚਾਵਾਂ ਅਤੇ ਫੈਸਲਿਆਂ ਦਾ ਵੇਰਵਾ ਦਿੱਤਾ ਗਿਆ ਹੈ।",
+   "author": "മുബാറക് ബിൻ ഉമർ",
+   "issue_date": "2017-04-01",
+   "html_url": "/pa/aqeedah/allegations-of-deviation-and-responses-20170401-8.html",
+   "md_url": "/pa/aqeedah/allegations-of-deviation-and-responses-20170401-8.md"
   },
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
