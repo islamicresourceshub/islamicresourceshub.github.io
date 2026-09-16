@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-16T06:37:54.279754+00:00",
+ "generated_at": "2026-09-16T06:38:49.098317+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5364,
+ "count": 5365,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -46013,6 +46013,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/so/aqeedah/faith-is-the-foundation-of-islam-20170128-13.html",
    "md_url": "/so/aqeedah/faith-is-the-foundation-of-islam-20170128-13.md"
+  },
+  {
+   "slug": "identify-yourself-20170401-1",
+   "lang": "so",
+   "category": "aqeedah",
+   "title": "Naftaada garo",
+   "summary": "Qoraalkan wuxuu sharxayaa dabeecadda aadanaha iyo hab-nololeedka Islaamka. Wuxuu xusuusinayaa muhiimadda ay leedahay in qofku uu ku noolaado dabeecadda uu Alle u abuuray.",
+   "author": "എഡിറ്റർ",
+   "issue_date": "2017-04-01",
+   "html_url": "/so/aqeedah/identify-yourself-20170401-1.html",
+   "md_url": "/so/aqeedah/identify-yourself-20170401-1.md"
   },
   {
    "slug": "salafiyyah-ideology-and-stance-20170211-8",
