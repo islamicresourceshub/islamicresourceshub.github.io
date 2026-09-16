@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-16T06:07:28.496425+00:00",
+ "generated_at": "2026-09-16T06:08:30.938569+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5331,
+ "count": 5332,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -53306,6 +53306,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/tl/story/the-currency-that-was-not-accepted-20170114-3.html",
    "md_url": "/tl/story/the-currency-that-was-not-accepted-20170114-3.md"
+  },
+  {
+   "slug": "the-duty-of-the-sighted-20170304-3",
+   "lang": "tl",
+   "category": "story",
+   "title": "Ang Tungkulin ng mga Nakakakita",
+   "summary": "Ito ay isang maikling kuwento na nagtuturo sa mga bata tungkol sa panlipunang responsibilidad. Sa pamamagitan ng magkapatid na sina Jasim at Fahim, ipinapaalala nito ang kahalagahan ng pagtulong sa kapwa nang may tamang intensyon.",
+   "author": "ഉസ്മാന്‍ പാലക്കാഴി",
+   "issue_date": "2017-03-04",
+   "html_url": "/tl/story/the-duty-of-the-sighted-20170304-3.html",
+   "md_url": "/tl/story/the-duty-of-the-sighted-20170304-3.md"
   },
   {
    "slug": "the-fruit-of-ingratitude-20170121-7",
