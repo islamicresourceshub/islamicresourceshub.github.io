@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-16T11:51:34.407347+00:00",
+ "generated_at": "2026-09-16T11:52:29.668320+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5576,
+ "count": 5577,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -7227,6 +7227,17 @@
    "issue_date": "2026-08-22",
    "html_url": "/de/story/my-pen-20260822-8.html",
    "md_url": "/de/story/my-pen-20260822-8.md"
+  },
+  {
+   "slug": "obey-your-parents-20170401-7",
+   "lang": "de",
+   "category": "story",
+   "title": "Gehorsam gegenüber den Eltern",
+   "summary": "Anhand einer Erzählung über einen Jungen namens Faisal wird die Bedeutung des Gehorsams gegenüber den Eltern verdeutlicht. Die Geschichte zeigt die negativen Folgen von Ungehorsam auf und erinnert an die hohe Stellung der Eltern im Islam.",
+   "author": "ഉസ്മാൻ പാലക്കാഴി",
+   "issue_date": "2017-04-01",
+   "html_url": "/de/story/obey-your-parents-20170401-7.html",
+   "md_url": "/de/story/obey-your-parents-20170401-7.md"
   },
   {
    "slug": "sugar-like-gold-dust-20170128-11",
