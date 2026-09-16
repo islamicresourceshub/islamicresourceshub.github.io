@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-16T17:06:39.246059+00:00",
+ "generated_at": "2026-09-16T17:07:34.299877+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5606,
+ "count": 5607,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -58267,6 +58267,17 @@
    "issue_date": "2026-08-22",
    "html_url": "/ur/story/my-pen-20260822-8.html",
    "md_url": "/ur/story/my-pen-20260822-8.md"
+  },
+  {
+   "slug": "obey-your-parents-20170401-7",
+   "lang": "ur",
+   "category": "story",
+   "title": "والدین کی اطاعت",
+   "summary": "یہ تحریر ایک مختصر کہانی کے ذریعے والدین کی نافرمانی کے برے نتائج کو بیان کرتی ہے۔ اس کا مقصد بچوں کو یہ سمجھانا ہے کہ والدین کی بات ماننا اور ان کا احترام کرنا کتنا ضروری ہے۔",
+   "author": "ഉസ്മാൻ പാലക്കാഴി",
+   "issue_date": "2017-04-01",
+   "html_url": "/ur/story/obey-your-parents-20170401-7.html",
+   "md_url": "/ur/story/obey-your-parents-20170401-7.md"
   },
   {
    "slug": "sugar-like-gold-dust-20170128-11",
