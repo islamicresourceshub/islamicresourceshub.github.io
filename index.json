@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-16T12:08:05.541520+00:00",
+ "generated_at": "2026-09-16T12:08:58.129332+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5592,
+ "count": 5593,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -41745,6 +41745,17 @@
    "issue_date": "2026-08-22",
    "html_url": "/or/story/my-pen-20260822-8.html",
    "md_url": "/or/story/my-pen-20260822-8.md"
+  },
+  {
+   "slug": "obey-your-parents-20170401-7",
+   "lang": "or",
+   "category": "story",
+   "title": "ପିତାମାତାଙ୍କ ଆଜ୍ଞା ପାଳନ କରନ୍ତୁ",
+   "summary": "ପିତାମାତାଙ୍କ କଥା ନ ମାନିବାର ପରିଣାମ ବିଷୟରେ ଏହି କ୍ଷୁଦ୍ର ଗଳ୍ପଟି ବର୍ଣ୍ଣନା କରେ। ପିଲାମାନେ ନିଜ ପିତାମାତାଙ୍କ ଆଦେଶକୁ କାହିଁକି ଗୁରୁତ୍ୱ ଦେବା ଉଚିତ, ତାହା ଏଥିରେ ବୁଝାଯାଇଛି।",
+   "author": "ഉസ്മാൻ പാലക്കാഴി",
+   "issue_date": "2017-04-01",
+   "html_url": "/or/story/obey-your-parents-20170401-7.html",
+   "md_url": "/or/story/obey-your-parents-20170401-7.md"
   },
   {
    "slug": "sugar-like-gold-dust-20170128-11",
