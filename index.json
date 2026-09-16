@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-16T12:01:06.922294+00:00",
+ "generated_at": "2026-09-16T12:02:10.681312+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5586,
+ "count": 5587,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -19052,6 +19052,17 @@
    "issue_date": "2026-08-22",
    "html_url": "/ja/story/my-pen-20260822-8.html",
    "md_url": "/ja/story/my-pen-20260822-8.md"
+  },
+  {
+   "slug": "obey-your-parents-20170401-7",
+   "lang": "ja",
+   "category": "story",
+   "title": "両親に従うこと",
+   "summary": "両親に従わなかったことで起きた出来事を通して、子供が親の言葉を大切にすることの重要性を説く物語です。親への敬意と感謝の念を育むことの大切さを伝えます。",
+   "author": "ഉസ്മാൻ പാലക്കാഴി",
+   "issue_date": "2017-04-01",
+   "html_url": "/ja/story/obey-your-parents-20170401-7.html",
+   "md_url": "/ja/story/obey-your-parents-20170401-7.md"
   },
   {
    "slug": "sugar-like-gold-dust-20170128-11",
