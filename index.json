@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-16T09:24:10.588012+00:00",
+ "generated_at": "2026-09-16T09:25:06.893758+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5467,
+ "count": 5468,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -15774,6 +15774,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/id/history/manusmriti-and-the-caste-system-20170218-7.html",
    "md_url": "/id/history/manusmriti-and-the-caste-system-20170218-7.md"
+  },
+  {
+   "slug": "the-verdict-of-babri-20170401-4",
+   "lang": "id",
+   "category": "history",
+   "title": "Putusan Babri",
+   "summary": "Sebuah investigasi mengenai proses hukum dan kasus konspirasi terkait penghancuran Masjid Babri. Tulisan ini menggambarkan kondisi kaum minoritas yang menantikan keadilan hukum.",
+   "author": "സുഫ്‌യാൻ അബ്ദുസ്സലാം",
+   "issue_date": "2017-04-01",
+   "html_url": "/id/history/the-verdict-of-babri-20170401-4.html",
+   "md_url": "/id/history/the-verdict-of-babri-20170401-4.md"
   },
   {
    "slug": "alcohol-abstinence-or-prohibition-20170225-7",
