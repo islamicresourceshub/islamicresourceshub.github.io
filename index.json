@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-16T06:23:46.030470+00:00",
+ "generated_at": "2026-09-16T06:24:38.949866+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5348,
+ "count": 5349,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -12540,6 +12540,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/ha/aqeedah/faith-is-the-foundation-of-islam-20170128-13.html",
    "md_url": "/ha/aqeedah/faith-is-the-foundation-of-islam-20170128-13.md"
+  },
+  {
+   "slug": "identify-yourself-20170401-1",
+   "lang": "ha",
+   "category": "aqeedah",
+   "title": "Gane kanka",
+   "summary": "Wani gajeren bayani game da yanayin halittar dan adam da kuma tsarin rayuwar Musulunci. Yana tunatar da mu muhimmancin rayuwa bisa ga yanayin halittar da Allah Ya tsara.",
+   "author": "എഡിറ്റർ",
+   "issue_date": "2017-04-01",
+   "html_url": "/ha/aqeedah/identify-yourself-20170401-1.html",
+   "md_url": "/ha/aqeedah/identify-yourself-20170401-1.md"
   },
   {
    "slug": "salafiyyah-ideology-and-stance-20170211-8",
