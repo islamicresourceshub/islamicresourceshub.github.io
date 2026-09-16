@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-16T05:57:57.215596+00:00",
+ "generated_at": "2026-09-16T05:59:00.787269+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5322,
+ "count": 5323,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -43406,6 +43406,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/pt/story/the-currency-that-was-not-accepted-20170114-3.html",
    "md_url": "/pt/story/the-currency-that-was-not-accepted-20170114-3.md"
+  },
+  {
+   "slug": "the-duty-of-the-sighted-20170304-3",
+   "lang": "pt",
+   "category": "story",
+   "title": "O Dever dos que Enxergam",
+   "summary": "Este é um conto que ensina às crianças sobre a responsabilidade social. Através dos irmãos Jasim e Fahim, somos lembrados da importância de ajudar o próximo e da sinceridade nas boas ações.",
+   "author": "ഉസ്മാന്‍ പാലക്കാഴി",
+   "issue_date": "2017-03-04",
+   "html_url": "/pt/story/the-duty-of-the-sighted-20170304-3.html",
+   "md_url": "/pt/story/the-duty-of-the-sighted-20170304-3.md"
   },
   {
    "slug": "the-fruit-of-ingratitude-20170121-7",
