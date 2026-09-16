@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-16T06:00:09.224038+00:00",
+ "generated_at": "2026-09-16T06:01:18.982893+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5324,
+ "count": 5325,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -45617,6 +45617,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/si/story/the-currency-that-was-not-accepted-20170114-3.html",
    "md_url": "/si/story/the-currency-that-was-not-accepted-20170114-3.md"
+  },
+  {
+   "slug": "the-duty-of-the-sighted-20170304-3",
+   "lang": "si",
+   "category": "story",
+   "title": "දෑස් ඇති අයගේ වගකීම",
+   "summary": "මෙය දරුවන්ට සමාජ වගකීම පිළිබඳව අවබෝධයක් ලබා දෙන කෙටි කතාවකි. ජාසිම් සහ ෆාහිම් යන සහෝදරයන් දෙදෙනා හරහා අන් අයට උපකාර කිරීමේ වැදගත්කම සහ එම ක්‍රියාවන්හි පවතින අවංකභාවය පිළිබඳව මෙහි විස්තර කෙරේ.",
+   "author": "ഉസ്മാന്‍ പാലക്കാഴി",
+   "issue_date": "2017-03-04",
+   "html_url": "/si/story/the-duty-of-the-sighted-20170304-3.html",
+   "md_url": "/si/story/the-duty-of-the-sighted-20170304-3.md"
   },
   {
    "slug": "the-fruit-of-ingratitude-20170121-7",
