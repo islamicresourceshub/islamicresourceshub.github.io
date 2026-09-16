@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-16T17:09:16.836569+00:00",
+ "generated_at": "2026-09-16T17:10:15.564971+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5608,
+ "count": 5609,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -60643,6 +60643,17 @@
    "issue_date": "2026-08-22",
    "html_url": "/vi/story/my-pen-20260822-8.html",
    "md_url": "/vi/story/my-pen-20260822-8.md"
+  },
+  {
+   "slug": "obey-your-parents-20170401-7",
+   "lang": "vi",
+   "category": "story",
+   "title": "Vâng lời cha mẹ",
+   "summary": "Câu chuyện kể về một cậu bé tên Faisal, người đã nhận ra tầm quan trọng của việc vâng lời cha mẹ sau một tai nạn đáng tiếc. Qua lời khuyên của thầy giáo, cậu hiểu rằng sự hiếu thảo là nghĩa vụ thiêng liêng được Allah nhắc nhở trong Kinh Qur'an và lời dạy của Tiên tri.",
+   "author": "ഉസ്മാൻ പാലക്കാഴി",
+   "issue_date": "2017-04-01",
+   "html_url": "/vi/story/obey-your-parents-20170401-7.html",
+   "md_url": "/vi/story/obey-your-parents-20170401-7.md"
   },
   {
    "slug": "sugar-like-gold-dust-20170128-11",
