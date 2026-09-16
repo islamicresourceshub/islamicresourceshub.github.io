@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-16T11:44:37.129286+00:00",
+ "generated_at": "2026-09-16T11:45:30.154403+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5568,
+ "count": 5569,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -58861,6 +58861,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/uz/opinion/warning-signs-from-the-reconstruction-of-history-20170114-2.html",
    "md_url": "/uz/opinion/warning-signs-from-the-reconstruction-of-history-20170114-2.md"
+  },
+  {
+   "slug": "water-murmurs-20170401-6",
+   "lang": "uz",
+   "category": "opinion",
+   "title": "Suvlar shiviri",
+   "summary": "Ushbu maqola ortib borayotgan suv tanqisligi va suvdan foydalanishdagi beparvoligimiz haqida eslatib o‘tadi. Shuningdek, atrof-muhitni muhofaza qilishning ahamiyatiga urg‘u beradi.",
+   "author": "ഇബ്‌നു അലി എടത്തനാട്ടുകര",
+   "issue_date": "2017-04-01",
+   "html_url": "/uz/opinion/water-murmurs-20170401-6.html",
+   "md_url": "/uz/opinion/water-murmurs-20170401-6.md"
   },
   {
    "slug": "when-national-tradition-is-questioned-20170121-2",
