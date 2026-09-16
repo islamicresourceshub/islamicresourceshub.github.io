@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-16T17:30:26.477661+00:00",
+ "generated_at": "2026-09-16T17:31:51.025324+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5626,
+ "count": 5627,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -19327,6 +19327,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/ja/youth/what-will-the-waste-do-20170114-5.html",
    "md_url": "/ja/youth/what-will-the-waste-do-20170114-5.md"
+  },
+  {
+   "slug": "allegations-of-deviation-and-responses-20170401-8",
+   "lang": "kn",
+   "category": "aqeedah",
+   "title": "ವ್ಯತ್ಯಯದ ಆರೋಪಗಳು ಮತ್ತು ಪ್ರತಿಕ್ರಿಯೆ",
+   "summary": "ಕೇರಳದ ಮುಸ್ಲಿಂ ನವೋದಯ ಇತಿಹಾಸದ ಒಂದು ಹಂತದ ವಿವರಣೆ ಇಲ್ಲಿದೆ. ಸಂಘಟನೆಯೊಳಗಿನ ಸೈದ್ಧಾಂತಿಕ ಭಿನ್ನಾಭಿಪ್ರಾಯಗಳು ಮತ್ತು ಅವುಗಳನ್ನು ಪರಿಹರಿಸಲು ನಡೆಸಿದ ಚರ್ಚೆಗಳನ್ನು ಇಲ್ಲಿ ದಾಖಲಿಸಲಾಗಿದೆ.",
+   "author": "മുബാറക് ബിൻ ഉമർ",
+   "issue_date": "2017-04-01",
+   "html_url": "/kn/aqeedah/allegations-of-deviation-and-responses-20170401-8.html",
+   "md_url": "/kn/aqeedah/allegations-of-deviation-and-responses-20170401-8.md"
   },
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
