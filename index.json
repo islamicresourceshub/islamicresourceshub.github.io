@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-16T09:03:10.083946+00:00",
+ "generated_at": "2026-09-16T09:04:12.693341+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5449,
+ "count": 5450,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -54934,6 +54934,17 @@
    "issue_date": "2017-02-11",
    "html_url": "/tr/family/school-annual-day-experiences-20170211-10.html",
    "md_url": "/tr/family/school-annual-day-experiences-20170211-10.md"
+  },
+  {
+   "slug": "sexual-anarchy-problems-and-solutions-20170401-3",
+   "lang": "tr",
+   "category": "family",
+   "title": "Cinsel Yozlaşma: Sorunlar ve Çözümler",
+   "summary": "Bu yazı, cinsel yozlaşmanın toplumsal etkilerini ve İslam'ın bu konudaki çözüm önerilerini ele almaktadır. Evlilik dışı ilişkilerin ve müstehcenliğin tehlikelerine dikkat çekilmektedir.",
+   "author": "മുഹമ്മദുബ്‌നു ബഷീർ",
+   "issue_date": "2017-04-01",
+   "html_url": "/tr/family/sexual-anarchy-problems-and-solutions-20170401-3.html",
+   "md_url": "/tr/family/sexual-anarchy-problems-and-solutions-20170401-3.md"
   },
   {
    "slug": "the-methodology-of-conduct-20170128-8",
