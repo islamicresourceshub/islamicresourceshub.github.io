@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-16T17:04:48.236653+00:00",
+ "generated_at": "2026-09-16T17:05:46.618647+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5604,
+ "count": 5605,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -55891,6 +55891,17 @@
    "issue_date": "2026-08-22",
    "html_url": "/tl/story/my-pen-20260822-8.html",
    "md_url": "/tl/story/my-pen-20260822-8.md"
+  },
+  {
+   "slug": "obey-your-parents-20170401-7",
+   "lang": "tl",
+   "category": "story",
+   "title": "Pagsunod sa mga Magulang",
+   "summary": "Ipinapaliwanag ng kuwentong ito ang masamang bunga ng hindi pagsunod sa mga magulang sa pamamagitan ng isang aral para sa mga bata. Binibigyang-diin nito ang kahalagahan ng pagpapahalaga sa mga salita at utos ng ating mga magulang.",
+   "author": "ഉസ്മാൻ പാലക്കാഴി",
+   "issue_date": "2017-04-01",
+   "html_url": "/tl/story/obey-your-parents-20170401-7.html",
+   "md_url": "/tl/story/obey-your-parents-20170401-7.md"
   },
   {
    "slug": "sugar-like-gold-dust-20170128-11",
