@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-16T08:24:31.484147+00:00",
+ "generated_at": "2026-09-16T08:25:37.134237+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5436,
+ "count": 5437,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -40172,6 +40172,17 @@
    "issue_date": "2017-02-11",
    "html_url": "/or/family/school-annual-day-experiences-20170211-10.html",
    "md_url": "/or/family/school-annual-day-experiences-20170211-10.md"
+  },
+  {
+   "slug": "sexual-anarchy-problems-and-solutions-20170401-3",
+   "lang": "or",
+   "category": "family",
+   "title": "ଯୌନ ଅରାଜକତା: ସମସ୍ୟା ଓ ସମାଧାନ",
+   "summary": "ଏହି ଲେଖାଟି ଯୌନ ଅରାଜକତାର ସାମାଜିକ ପ୍ରଭାବ ଏବଂ ଇସଲାମ ପ୍ରଦାନ କରୁଥିବା ସମାଧାନ ଉପରେ ଆଲୋକପାତ କରେ। ଏଥିରେ ବିବାହ ବହିର୍ଭୂତ ସମ୍ପର୍କ ଏବଂ ଅଶ୍ଳୀଳତାର ବିପଦ ସମ୍ପର୍କରେ ସଚେତନ କରାଯାଇଛି।",
+   "author": "മുഹമ്മദുബ്‌നു ബഷീർ",
+   "issue_date": "2017-04-01",
+   "html_url": "/or/family/sexual-anarchy-problems-and-solutions-20170401-3.html",
+   "md_url": "/or/family/sexual-anarchy-problems-and-solutions-20170401-3.md"
   },
   {
    "slug": "the-methodology-of-conduct-20170128-8",
