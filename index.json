@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-16T07:38:26.129117+00:00",
+ "generated_at": "2026-09-16T07:39:29.913980+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5392,
+ "count": 5393,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -18414,6 +18414,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/kn/dawah/muslims-in-a-pluralistic-society-20170128-1.html",
    "md_url": "/kn/dawah/muslims-in-a-pluralistic-society-20170128-1.md"
+  },
+  {
+   "slug": "not-to-falter-in-crises-20170401-2",
+   "lang": "kn",
+   "category": "dawah",
+   "title": "ಸಂಕಷ್ಟಗಳಲ್ಲಿ ಧೃತಿಗೆಡದಿರಲು",
+   "summary": "ಜೀವನದಲ್ಲಿ ಎದುರಾಗುವ ಸಂಕಷ್ಟಗಳನ್ನು ಒಬ್ಬ ವಿಶ್ವಾಸಿ ಹೇಗೆ ಎದುರಿಸಬೇಕು ಎಂಬುದನ್ನು ವಿವರಿಸುತ್ತದೆ. ಪ್ರವಾದಿಗಳ ಜೀವನದಿಂದ ಪಾಠಗಳನ್ನು ಕಲಿತು, ಧೃತಿಗೆಡದೆ ಮುನ್ನಡೆಯಲು ಕರೆ ನೀಡುತ್ತದೆ.",
+   "author": "ഷമീർ മദീനി",
+   "issue_date": "2017-04-01",
+   "html_url": "/kn/dawah/not-to-falter-in-crises-20170401-2.html",
+   "md_url": "/kn/dawah/not-to-falter-in-crises-20170401-2.md"
   },
   {
    "slug": "organization-is-not-for-division-20170218-13",
