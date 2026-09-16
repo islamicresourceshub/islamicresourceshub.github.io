@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-16T06:25:44.226894+00:00",
+ "generated_at": "2026-09-16T06:26:34.968192+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5350,
+ "count": 5351,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -14773,6 +14773,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/id/aqeedah/faith-is-the-foundation-of-islam-20170128-13.html",
    "md_url": "/id/aqeedah/faith-is-the-foundation-of-islam-20170128-13.md"
+  },
+  {
+   "slug": "identify-yourself-20170401-1",
+   "lang": "id",
+   "category": "aqeedah",
+   "title": "Mengenali Diri Sendiri",
+   "summary": "Sebuah penjelasan singkat mengenai fitrah manusia dan cara hidup Islami. Tulisan ini mengingatkan kita akan pentingnya menjalani kehidupan yang selaras dengan fitrah yang telah ditetapkan oleh Allah.",
+   "author": "എഡിറ്റർ",
+   "issue_date": "2017-04-01",
+   "html_url": "/id/aqeedah/identify-yourself-20170401-1.html",
+   "md_url": "/id/aqeedah/identify-yourself-20170401-1.md"
   },
   {
    "slug": "salafiyyah-ideology-and-stance-20170211-8",
