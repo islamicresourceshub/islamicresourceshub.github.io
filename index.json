@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-16T04:56:02.654563+00:00",
+ "generated_at": "2026-09-16T04:57:09.508630+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5260,
+ "count": 5261,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -1606,6 +1606,17 @@
    "issue_date": "2017-02-04",
    "html_url": "/ar/family/children-an-islamic-reading-part-4-20170204-5.html",
    "md_url": "/ar/family/children-an-islamic-reading-part-4-20170204-5.md"
+  },
+  {
+   "slug": "conduct-towards-one-s-spouse-20170304-2",
+   "lang": "ar",
+   "category": "family",
+   "title": "حسن المعاملة مع الزوجة",
+   "summary": "يتناول هذا المقال آداب الحياة الزوجية في ضوء التوجيهات النبوية التي تؤكد أن خير المؤمنين هو أحسنهم خلقاً وأفضلهم معاملة لزوجته.",
+   "author": "അബൂ റാഷിദ",
+   "issue_date": "2017-03-04",
+   "html_url": "/ar/family/conduct-towards-one-s-spouse-20170304-2.html",
+   "md_url": "/ar/family/conduct-towards-one-s-spouse-20170304-2.md"
   },
   {
    "slug": "do-not-invite-water-scarcity-20170225-4",
