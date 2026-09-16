@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-16T12:04:51.555573+00:00",
+ "generated_at": "2026-09-16T12:05:59.605712+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5589,
+ "count": 5590,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -38203,6 +38203,17 @@
    "issue_date": "2026-08-22",
    "html_url": "/mr/story/my-pen-20260822-8.html",
    "md_url": "/mr/story/my-pen-20260822-8.md"
+  },
+  {
+   "slug": "obey-your-parents-20170401-7",
+   "lang": "mr",
+   "category": "story",
+   "title": "आई-वडिलांचे ऐका",
+   "summary": "आई-वडिलांचे न ऐकल्यामुळे होणाऱ्या दुष्परिणामांची गोष्ट एका बालकाच्या अनुभवातून यात मांडली आहे. मुलांनी आपल्या पालकांच्या शब्दाला मान देणे किती महत्त्वाचे आहे, हे यात स्पष्ट केले आहे.",
+   "author": "ഉസ്മാൻ പാലക്കാഴി",
+   "issue_date": "2017-04-01",
+   "html_url": "/mr/story/obey-your-parents-20170401-7.html",
+   "md_url": "/mr/story/obey-your-parents-20170401-7.md"
   },
   {
    "slug": "sugar-like-gold-dust-20170128-11",
