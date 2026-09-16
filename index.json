@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-16T11:41:53.683693+00:00",
+ "generated_at": "2026-09-16T11:42:49.871232+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5565,
+ "count": 5566,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -55330,6 +55330,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/tl/opinion/warning-signs-from-the-reconstruction-of-history-20170114-2.html",
    "md_url": "/tl/opinion/warning-signs-from-the-reconstruction-of-history-20170114-2.md"
+  },
+  {
+   "slug": "water-murmurs-20170401-6",
+   "lang": "tl",
+   "category": "opinion",
+   "title": "Mga Bulong ng Tubig",
+   "summary": "Isang paalala tungkol sa lumalalang kakulangan sa tubig at ang ating kapabayaan sa paggamit nito. Binibigyang-diin nito ang kahalagahan ng pangangalaga sa kalikasan.",
+   "author": "ഇബ്‌നു അലി എടത്തനാട്ടുകര",
+   "issue_date": "2017-04-01",
+   "html_url": "/tl/opinion/water-murmurs-20170401-6.html",
+   "md_url": "/tl/opinion/water-murmurs-20170401-6.md"
   },
   {
    "slug": "when-national-tradition-is-questioned-20170121-2",
