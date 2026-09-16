@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-16T17:13:18.835059+00:00",
+ "generated_at": "2026-09-16T17:14:04.606336+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5612,
+ "count": 5613,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -2607,6 +2607,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/ar/youth/what-will-the-waste-do-20170114-5.html",
    "md_url": "/ar/youth/what-will-the-waste-do-20170114-5.md"
+  },
+  {
+   "slug": "allegations-of-deviation-and-responses-20170401-8",
+   "lang": "as",
+   "category": "aqeedah",
+   "title": "মতাদর্শিক বিচ্যুতি ও তার প্রতিক্রিয়া",
+   "summary": "কেরালার মুসলিম নবজাগরণের ইতিহাসের একটি গুরুত্বপূর্ণ পর্যায় নিয়ে এই নিবন্ধটি রচিত। এতে সংগঠনের অভ্যন্তরীণ মতাদর্শিক মতপার্থক্য এবং তা নিরসনের জন্য আয়োজিত আলোচনার বিবরণ ও সিদ্ধান্তগুলো তুলে ধরা হয়েছে।",
+   "author": "മുബാറക് ബിൻ ഉമർ",
+   "issue_date": "2017-04-01",
+   "html_url": "/as/aqeedah/allegations-of-deviation-and-responses-20170401-8.html",
+   "md_url": "/as/aqeedah/allegations-of-deviation-and-responses-20170401-8.md"
   },
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
