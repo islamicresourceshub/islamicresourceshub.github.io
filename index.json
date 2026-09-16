@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-16T06:02:23.265526+00:00",
+ "generated_at": "2026-09-16T06:03:21.117774+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5326,
+ "count": 5327,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -47806,6 +47806,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/sq/story/the-currency-that-was-not-accepted-20170114-3.html",
    "md_url": "/sq/story/the-currency-that-was-not-accepted-20170114-3.md"
+  },
+  {
+   "slug": "the-duty-of-the-sighted-20170304-3",
+   "lang": "sq",
+   "category": "story",
+   "title": "Detyra e atyre që shohin",
+   "summary": "Kjo është një tregim i shkurtër që u mëson fëmijëve për përgjegjësinë sociale. Nëpërmjet vëllezërve Jasim dhe Fahim, tregimi na kujton rëndësinë e detyrave tona ndaj të tjerëve.",
+   "author": "ഉസ്മാന്‍ പാലക്കാഴി",
+   "issue_date": "2017-03-04",
+   "html_url": "/sq/story/the-duty-of-the-sighted-20170304-3.html",
+   "md_url": "/sq/story/the-duty-of-the-sighted-20170304-3.md"
   },
   {
    "slug": "the-fruit-of-ingratitude-20170121-7",
