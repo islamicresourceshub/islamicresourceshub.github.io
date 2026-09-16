@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-16T08:31:51.189966+00:00",
+ "generated_at": "2026-09-16T08:35:36.472365+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5443,
+ "count": 5444,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -48125,6 +48125,17 @@
    "issue_date": "2017-02-11",
    "html_url": "/sq/family/school-annual-day-experiences-20170211-10.html",
    "md_url": "/sq/family/school-annual-day-experiences-20170211-10.md"
+  },
+  {
+   "slug": "sexual-anarchy-problems-and-solutions-20170401-3",
+   "lang": "sq",
+   "category": "family",
+   "title": "Anarkia seksuale: Problemet dhe zgjidhjet",
+   "summary": "Ky shkrim trajton pasojat shoqërore të anarkisë seksuale dhe zgjidhjet që ofron Islami. Ai thekson rreziqet e marrëdhënieve jashtëmartesore dhe ndikimin shkatërrues të pornografisë në jetën familjare.",
+   "author": "മുഹമ്മദുബ്‌നു ബഷീർ",
+   "issue_date": "2017-04-01",
+   "html_url": "/sq/family/sexual-anarchy-problems-and-solutions-20170401-3.html",
+   "md_url": "/sq/family/sexual-anarchy-problems-and-solutions-20170401-3.md"
   },
   {
    "slug": "the-methodology-of-conduct-20170128-8",
