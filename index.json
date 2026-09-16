@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-16T17:19:24.460220+00:00",
+ "generated_at": "2026-09-16T17:20:24.662191+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5618,
+ "count": 5619,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -9779,6 +9779,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/es/youth/what-will-the-waste-do-20170114-5.html",
    "md_url": "/es/youth/what-will-the-waste-do-20170114-5.md"
+  },
+  {
+   "slug": "allegations-of-deviation-and-responses-20170401-8",
+   "lang": "fa",
+   "category": "aqeedah",
+   "title": "اتهامات انحراف و پاسخ‌های آن",
+   "summary": "این مطلب به شرح مرحله‌ای از تاریخ نوزایی اسلامی در کرالا می‌پردازد و اختلافات فکری درون‌سازمانی و گفتگوهای انجام‌شده برای حل این چالش‌ها را مستند می‌کند.",
+   "author": "മുബാറക് ബിൻ ഉമർ",
+   "issue_date": "2017-04-01",
+   "html_url": "/fa/aqeedah/allegations-of-deviation-and-responses-20170401-8.html",
+   "md_url": "/fa/aqeedah/allegations-of-deviation-and-responses-20170401-8.md"
   },
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
