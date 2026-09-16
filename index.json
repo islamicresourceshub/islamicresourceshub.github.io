@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-16T06:43:31.987852+00:00",
+ "generated_at": "2026-09-16T06:44:30.757959+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5370,
+ "count": 5371,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -52657,6 +52657,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/tl/aqeedah/faith-is-the-foundation-of-islam-20170128-13.html",
    "md_url": "/tl/aqeedah/faith-is-the-foundation-of-islam-20170128-13.md"
+  },
+  {
+   "slug": "identify-yourself-20170401-1",
+   "lang": "tl",
+   "category": "aqeedah",
+   "title": "Kilalanin ang Iyong Sarili",
+   "summary": "Isang maikling pagtalakay tungkol sa kalikasan ng tao at sa pamamaraan ng pamumuhay sa Islam. Binibigyang-diin nito ang kahalagahan ng pamumuhay ayon sa likas na katangiang itinakda ng Allah.",
+   "author": "എഡിറ്റർ",
+   "issue_date": "2017-04-01",
+   "html_url": "/tl/aqeedah/identify-yourself-20170401-1.html",
+   "md_url": "/tl/aqeedah/identify-yourself-20170401-1.md"
   },
   {
    "slug": "salafiyyah-ideology-and-stance-20170211-8",
