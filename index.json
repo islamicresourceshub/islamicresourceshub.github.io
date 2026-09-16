@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-16T05:51:05.358041+00:00",
+ "generated_at": "2026-09-16T05:52:17.074298+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5316,
+ "count": 5317,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -36773,6 +36773,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/mr/story/the-currency-that-was-not-accepted-20170114-3.html",
    "md_url": "/mr/story/the-currency-that-was-not-accepted-20170114-3.md"
+  },
+  {
+   "slug": "the-duty-of-the-sighted-20170304-3",
+   "lang": "mr",
+   "category": "story",
+   "title": "दृष्टिमान लोकांचे कर्तव्य",
+   "summary": "ही एक लघुकथा आहे जी मुलांना सामाजिक जबाबदारीची जाणीव करून देते. जासिम आणि फाहिम या दोन भावांच्या माध्यमातून ही कथा कर्तव्यांचे महत्त्व पटवून देते.",
+   "author": "ഉസ്മാന്‍ പാലക്കാഴി",
+   "issue_date": "2017-03-04",
+   "html_url": "/mr/story/the-duty-of-the-sighted-20170304-3.html",
+   "md_url": "/mr/story/the-duty-of-the-sighted-20170304-3.md"
   },
   {
    "slug": "the-fruit-of-ingratitude-20170121-7",
