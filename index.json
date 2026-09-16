@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-16T08:35:36.472365+00:00",
+ "generated_at": "2026-09-16T08:36:47.023130+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5444,
+ "count": 5445,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -49269,6 +49269,17 @@
    "issue_date": "2017-02-11",
    "html_url": "/sw/family/school-annual-day-experiences-20170211-10.html",
    "md_url": "/sw/family/school-annual-day-experiences-20170211-10.md"
+  },
+  {
+   "slug": "sexual-anarchy-problems-and-solutions-20170401-3",
+   "lang": "sw",
+   "category": "family",
+   "title": "Uharibifu wa Kimaadili katika Masuala ya Jinsia: Changamoto na Suluhisho",
+   "summary": "Makala hii inajadili athari za kijamii za uharibifu wa kimaadili katika masuala ya jinsia na kupendekeza suluhisho zinazotolewa na Uislamu. Inasisitiza hatari za mahusiano nje ya ndoa na maudhui ya uasherati.",
+   "author": "മുഹമ്മദുബ്‌നു ബഷീർ",
+   "issue_date": "2017-04-01",
+   "html_url": "/sw/family/sexual-anarchy-problems-and-solutions-20170401-3.html",
+   "md_url": "/sw/family/sexual-anarchy-problems-and-solutions-20170401-3.md"
   },
   {
    "slug": "the-methodology-of-conduct-20170128-8",
