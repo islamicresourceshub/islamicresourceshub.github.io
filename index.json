@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-16T17:22:32.082055+00:00",
+ "generated_at": "2026-09-16T17:23:42.733669+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5621,
+ "count": 5622,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -13354,6 +13354,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/gu/youth/what-will-the-waste-do-20170114-5.html",
    "md_url": "/gu/youth/what-will-the-waste-do-20170114-5.md"
+  },
+  {
+   "slug": "allegations-of-deviation-and-responses-20170401-8",
+   "lang": "ha",
+   "category": "aqeedah",
+   "title": "Zarge da Zarge da Akidar da kuma Martanin da aka bayar",
+   "summary": "Wannan rubutu yana bayyana wani muhimmin babi a tarihin gyaran Musulunci a Kerala. Yana tattara muhawarar da aka yi kan sabanin akida a cikin kungiya da kuma matakan da aka dauka don warware su.",
+   "author": "മുബാറക് ബിൻ ഉമർ",
+   "issue_date": "2017-04-01",
+   "html_url": "/ha/aqeedah/allegations-of-deviation-and-responses-20170401-8.html",
+   "md_url": "/ha/aqeedah/allegations-of-deviation-and-responses-20170401-8.md"
   },
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
