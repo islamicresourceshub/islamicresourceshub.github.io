@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-16T08:37:47.854593+00:00",
+ "generated_at": "2026-09-16T09:00:55.450140+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5446,
+ "count": 5447,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -51502,6 +51502,17 @@
    "issue_date": "2017-02-11",
    "html_url": "/te/family/school-annual-day-experiences-20170211-10.html",
    "md_url": "/te/family/school-annual-day-experiences-20170211-10.md"
+  },
+  {
+   "slug": "sexual-anarchy-problems-and-solutions-20170401-3",
+   "lang": "te",
+   "category": "family",
+   "title": "లైంగిక అరాచకం: సమస్యలు మరియు పరిష్కారాలు",
+   "summary": "ఈ వ్యాసం లైంగిక అరాచకం వల్ల కలిగే సామాజిక దుష్ప్రభావాలను మరియు ఇస్లాం సూచించే పరిష్కారాలను చర్చిస్తుంది. వివాహేతర సంబంధాలు మరియు అశ్లీలత వల్ల కలిగే ప్రమాదాలను ఇది వివరిస్తుంది.",
+   "author": "മുഹമ്മദുബ്‌നു ബഷീർ",
+   "issue_date": "2017-04-01",
+   "html_url": "/te/family/sexual-anarchy-problems-and-solutions-20170401-3.html",
+   "md_url": "/te/family/sexual-anarchy-problems-and-solutions-20170401-3.md"
   },
   {
    "slug": "the-methodology-of-conduct-20170128-8",
