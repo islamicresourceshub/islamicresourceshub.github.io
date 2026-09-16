@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-16T04:54:52.164951+00:00",
+ "generated_at": "2026-09-16T04:56:02.654563+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5259,
+ "count": 5260,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -517,6 +517,17 @@
    "issue_date": "2017-02-04",
    "html_url": "/am/family/children-an-islamic-reading-part-4-20170204-5.html",
    "md_url": "/am/family/children-an-islamic-reading-part-4-20170204-5.md"
+  },
+  {
+   "slug": "conduct-towards-one-s-spouse-20170304-2",
+   "lang": "am",
+   "category": "family",
+   "title": "ከባለቤት ጋር የሚደረግ ግንኙነት",
+   "summary": "ከባለቤታቸው ጋር በመልካም ሁኔታ የሚኖሩት ሰዎች ከምእመናን ሁሉ በላጭ እንደሆኑ የሚገልጸውን የነቢዩን ትምህርት መሠረት በማድረግ፣ በቤተሰብ ሕይወት ውስጥ ሊኖሩ የሚገቡ ሥነ ምግባሮችን ይህ ጽሑፍ ይዳስሳል።",
+   "author": "അബൂ റാഷിദ",
+   "issue_date": "2017-03-04",
+   "html_url": "/am/family/conduct-towards-one-s-spouse-20170304-2.html",
+   "md_url": "/am/family/conduct-towards-one-s-spouse-20170304-2.md"
   },
   {
    "slug": "do-not-invite-water-scarcity-20170225-4",
