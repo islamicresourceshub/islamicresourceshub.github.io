@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-16T09:29:03.445884+00:00",
+ "generated_at": "2026-09-16T09:30:00.287602+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5472,
+ "count": 5473,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -37136,6 +37136,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/mr/history/manusmriti-and-the-caste-system-20170218-7.html",
    "md_url": "/mr/history/manusmriti-and-the-caste-system-20170218-7.md"
+  },
+  {
+   "slug": "the-verdict-of-babri-20170401-4",
+   "lang": "mr",
+   "category": "history",
+   "title": "बाबरीचा निकाल",
+   "summary": "बाबरी मशीद पाडल्याच्या घटनेशी संबंधित कायदेशीर प्रक्रिया आणि कटकारस्थानाच्या खटल्यांचा हा एक आढावा आहे. न्याय्य निकालाची प्रतीक्षा करणाऱ्या अल्पसंख्याकांच्या स्थितीचे यात वर्णन केले आहे.",
+   "author": "സുഫ്‌യാൻ അബ്ദുസ്സലാം",
+   "issue_date": "2017-04-01",
+   "html_url": "/mr/history/the-verdict-of-babri-20170401-4.html",
+   "md_url": "/mr/history/the-verdict-of-babri-20170401-4.md"
   },
   {
    "slug": "alcohol-abstinence-or-prohibition-20170225-7",
