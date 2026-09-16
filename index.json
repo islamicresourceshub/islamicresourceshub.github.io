@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-16T06:34:14.842502+00:00",
+ "generated_at": "2026-09-16T06:35:11.601299+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5360,
+ "count": 5361,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -41536,6 +41536,17 @@
    "issue_date": "2026-08-22",
    "html_url": "/ps/aqeedah/celebrating-nabi-day-is-un-islamic-20260822-5.html",
    "md_url": "/ps/aqeedah/celebrating-nabi-day-is-un-islamic-20260822-5.md"
+  },
+  {
+   "slug": "identify-yourself-20170401-1",
+   "lang": "ps",
+   "category": "aqeedah",
+   "title": "خپل ځان وپېژنئ",
+   "summary": "دا لیکنه د انسان د فطرت او اسلامي ژوند د طریقې په اړه یو لنډ وضاحت دی. دا د الله تعالی لخوا ټاکل شوي فطرت سره سم د ژوند کولو په اړتیا ټینګار کوي.",
+   "author": "എഡിറ്റർ",
+   "issue_date": "2017-04-01",
+   "html_url": "/ps/aqeedah/identify-yourself-20170401-1.html",
+   "md_url": "/ps/aqeedah/identify-yourself-20170401-1.md"
   },
   {
    "slug": "salafiyyah-ideology-and-stance-20170211-8",
