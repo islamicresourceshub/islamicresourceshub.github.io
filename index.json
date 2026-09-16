@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-16T06:21:10.094683+00:00",
+ "generated_at": "2026-09-16T06:22:05.632463+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5345,
+ "count": 5346,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -9185,6 +9185,17 @@
    "issue_date": "2026-08-22",
    "html_url": "/fa/aqeedah/celebrating-nabi-day-is-un-islamic-20260822-5.html",
    "md_url": "/fa/aqeedah/celebrating-nabi-day-is-un-islamic-20260822-5.md"
+  },
+  {
+   "slug": "identify-yourself-20170401-1",
+   "lang": "fa",
+   "category": "aqeedah",
+   "title": "خودشناسی",
+   "summary": "این نوشتار نگاهی کوتاه به سرشت انسان و سبک زندگی اسلامی دارد و بر ضرورت زیستن بر اساس فطرت الهی تأکید می‌کند.",
+   "author": "എഡിറ്റർ",
+   "issue_date": "2017-04-01",
+   "html_url": "/fa/aqeedah/identify-yourself-20170401-1.html",
+   "md_url": "/fa/aqeedah/identify-yourself-20170401-1.md"
   },
   {
    "slug": "salafiyyah-ideology-and-stance-20170211-8",
