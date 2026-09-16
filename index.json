@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-16T06:50:42.930512+00:00",
+ "generated_at": "2026-09-16T06:51:39.876174+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5378,
+ "count": 5379,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -2618,6 +2618,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/as/dawah/muslims-in-a-pluralistic-society-20170128-1.html",
    "md_url": "/as/dawah/muslims-in-a-pluralistic-society-20170128-1.md"
+  },
+  {
+   "slug": "not-to-falter-in-crises-20170401-2",
+   "lang": "as",
+   "category": "dawah",
+   "title": "সংকটৰ সময়ত বিচলিত নহ’বলৈ",
+   "summary": "জীৱনৰ সংকটবোৰক এজন বিশ্বাসীয়ে কেনেকৈ মোকাবিলা কৰিব লাগে, এই প্ৰবন্ধত তাৰ বৰ্ণনা কৰা হৈছে। নবীসকলৰ জীৱনৰ পৰা শিক্ষা লৈ বিচলিত নোহোৱাকৈ আগুৱাই যাবলৈ ইয়াত আহ্বান জনোৱা হৈছে।",
+   "author": "ഷമീർ മദീനി",
+   "issue_date": "2017-04-01",
+   "html_url": "/as/dawah/not-to-falter-in-crises-20170401-2.html",
+   "md_url": "/as/dawah/not-to-falter-in-crises-20170401-2.md"
   },
   {
    "slug": "organization-is-not-for-division-20170218-13",
