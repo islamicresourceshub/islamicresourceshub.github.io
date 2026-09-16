@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-16T09:05:15.113710+00:00",
+ "generated_at": "2026-09-16T09:06:33.664720+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5451,
+ "count": 5452,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -57222,6 +57222,17 @@
    "issue_date": "2017-02-11",
    "html_url": "/uz/family/school-annual-day-experiences-20170211-10.html",
    "md_url": "/uz/family/school-annual-day-experiences-20170211-10.md"
+  },
+  {
+   "slug": "sexual-anarchy-problems-and-solutions-20170401-3",
+   "lang": "uz",
+   "category": "family",
+   "title": "Jinsiy tartibsizlik: muammolar va yechimlar",
+   "summary": "Ushbu maqolada jinsiy tartibsizlikning ijtimoiy oqibatlari va Islom dini taklif etayotgan yechimlar muhokama qilinadi. Nikohdan tashqari munosabatlar va behayolikning xavfli tomonlari yoritib beriladi.",
+   "author": "മുഹമ്മദുബ്‌നു ബഷീർ",
+   "issue_date": "2017-04-01",
+   "html_url": "/uz/family/sexual-anarchy-problems-and-solutions-20170401-3.html",
+   "md_url": "/uz/family/sexual-anarchy-problems-and-solutions-20170401-3.md"
   },
   {
    "slug": "the-methodology-of-conduct-20170128-8",
