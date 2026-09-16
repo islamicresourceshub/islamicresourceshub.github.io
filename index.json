@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-16T10:57:12.237336+00:00",
+ "generated_at": "2026-09-16T10:58:37.862428+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5520,
+ "count": 5521,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -47740,6 +47740,17 @@
    "issue_date": "2026-08-22",
    "html_url": "/so/health/when-menstruating-20260822-4.html",
    "md_url": "/so/health/when-menstruating-20260822-4.md"
+  },
+  {
+   "slug": "islamic-history-an-overview-20170401-5",
+   "lang": "so",
+   "category": "history",
+   "title": "Taariikhda Islaamka: Dulmar guud",
+   "summary": "Qoraalkan wuxuu ka hadlayaa muhiimadda barashada taariikhda iyo waxyaabaha ay tahay in laga fiirsado marka la qorayo taariikhda Islaamka. Sidoo kale, wuxuu caddeynayaa mowqifka culimada ee ku aaddan Israa'iiliyaadka.",
+   "author": "മുഹമ്മദ് സ്യാദിബ് മദീനി",
+   "issue_date": "2017-04-01",
+   "html_url": "/so/history/islamic-history-an-overview-20170401-5.html",
+   "md_url": "/so/history/islamic-history-an-overview-20170401-5.md"
   },
   {
    "slug": "islamophobia-archetypes-of-ancient-history-20170225-3",
