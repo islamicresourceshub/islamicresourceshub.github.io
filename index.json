@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-16T05:07:33.364849+00:00",
+ "generated_at": "2026-09-16T05:08:30.275224+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5271,
+ "count": 5272,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -13651,6 +13651,17 @@
    "issue_date": "2017-02-04",
    "html_url": "/hi/family/children-an-islamic-reading-part-4-20170204-5.html",
    "md_url": "/hi/family/children-an-islamic-reading-part-4-20170204-5.md"
+  },
+  {
+   "slug": "conduct-towards-one-s-spouse-20170304-2",
+   "lang": "hi",
+   "category": "family",
+   "title": "जीवनसाथी के साथ व्यवहार",
+   "summary": "यह लेख पैगंबर मुहम्मद (सल्लल्लाहु अलैहि वसल्लम) के उस कथन पर आधारित है जिसमें कहा गया है कि विश्वासियों में सबसे उत्तम वह है जो अपनी पत्नी के साथ अच्छा व्यवहार करता है। इसमें पारिवारिक जीवन की मर्यादाओं और इस्लामी दृष्टिकोण पर प्रकाश डाला गया है।",
+   "author": "അബൂ റാഷിദ",
+   "issue_date": "2017-03-04",
+   "html_url": "/hi/family/conduct-towards-one-s-spouse-20170304-2.html",
+   "md_url": "/hi/family/conduct-towards-one-s-spouse-20170304-2.md"
   },
   {
    "slug": "do-not-invite-water-scarcity-20170225-4",
