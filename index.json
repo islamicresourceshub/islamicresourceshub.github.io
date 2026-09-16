@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-16T17:14:04.606336+00:00",
+ "generated_at": "2026-09-16T17:15:19.000550+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5613,
+ "count": 5614,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -3795,6 +3795,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/as/youth/what-will-the-waste-do-20170114-5.html",
    "md_url": "/as/youth/what-will-the-waste-do-20170114-5.md"
+  },
+  {
+   "slug": "allegations-of-deviation-and-responses-20170401-8",
+   "lang": "bn",
+   "category": "aqeedah",
+   "title": "বিচ্যুতি সংক্রান্ত অভিযোগ এবং প্রতিক্রিয়া",
+   "summary": "কেরালার মুসলিম নবজাগরণের ইতিহাসের একটি পর্যায় নিয়ে আলোচনা। সংগঠনের অভ্যন্তরীণ মতাদর্শিক মতবিরোধ এবং সেগুলো সমাধানের জন্য পরিচালিত আলোচনা নথিভুক্ত করা হয়েছে।",
+   "author": "മുബാറക് ബിൻ ഉമർ",
+   "issue_date": "2017-04-01",
+   "html_url": "/bn/aqeedah/allegations-of-deviation-and-responses-20170401-8.html",
+   "md_url": "/bn/aqeedah/allegations-of-deviation-and-responses-20170401-8.md"
   },
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
