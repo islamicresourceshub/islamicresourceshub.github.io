@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-16T04:43:51.555538+00:00",
+ "generated_at": "2026-09-16T04:44:42.346920+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5249,
+ "count": 5250,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -47993,6 +47993,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/sw/opinion/strengthening-secular-political-unity-20170218-9.html",
    "md_url": "/sw/opinion/strengthening-secular-political-unity-20170218-9.md"
+  },
+  {
+   "slug": "superstitions-in-modern-homes-20170304-1",
+   "lang": "sw",
+   "category": "opinion",
+   "title": "Vyumba vya ndani vilivyotawaliwa na imani za kishirikina",
+   "summary": "Makala haya yanachunguza jinsi imani za kishirikina zilivyojikita katika jamii ya India licha ya maendeleo ya kisayansi. Ni uchambuzi wa kina kuhusu athari za kijamii za mila potofu na desturi zisizo na msingi.",
+   "author": "ഇ.യൂസുഫ് സാഹിബ് നദ്‌വി",
+   "issue_date": "2017-03-04",
+   "html_url": "/sw/opinion/superstitions-in-modern-homes-20170304-1.html",
+   "md_url": "/sw/opinion/superstitions-in-modern-homes-20170304-1.md"
   },
   {
    "slug": "terrorism-and-religious-freedom-20170114-1",
