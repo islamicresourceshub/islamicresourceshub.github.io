@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-15T15:15:52.480190+00:00",
+ "generated_at": "2026-09-16T04:37:41.239764+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5241,
+ "count": 5242,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -39336,6 +39336,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/or/opinion/strengthening-secular-political-unity-20170218-9.html",
    "md_url": "/or/opinion/strengthening-secular-political-unity-20170218-9.md"
+  },
+  {
+   "slug": "superstitions-in-modern-homes-20170304-1",
+   "lang": "or",
+   "category": "opinion",
+   "title": "ଅନ୍ଧବିଶ୍ୱାସର ଅନ୍ଧକାର ଗୃହ",
+   "summary": "ବୈଜ୍ଞାନିକ ପ୍ରଗତି ହାସଲ କରିଥିଲେ ମଧ୍ୟ ଭାରତୀୟ ସମାଜରେ ଅନ୍ଧବିଶ୍ୱାସ କିପରି ଗଭୀର ଭାବରେ ପ୍ରତିଷ୍ଠିତ ହୋଇଛି, ତାହା ଏହି ଲେଖା ପରୀକ୍ଷା କରେ। ଏହା କୁସଂସ୍କାରର ସାମାଜିକ ପ୍ରଭାବ ଉପରେ ଏକ ସମାଲୋଚନାତ୍ମକ ବିଶ୍ଳେଷଣ।",
+   "author": "ഇ.യൂസുഫ് സാഹിബ് നദ്‌വി",
+   "issue_date": "2017-03-04",
+   "html_url": "/or/opinion/superstitions-in-modern-homes-20170304-1.html",
+   "md_url": "/or/opinion/superstitions-in-modern-homes-20170304-1.md"
   },
   {
    "slug": "terrorism-and-religious-freedom-20170114-1",
