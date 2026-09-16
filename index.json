@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-16T11:45:30.154403+00:00",
+ "generated_at": "2026-09-16T11:46:20.284174+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5569,
+ "count": 5570,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -60038,6 +60038,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/vi/opinion/warning-signs-from-the-reconstruction-of-history-20170114-2.html",
    "md_url": "/vi/opinion/warning-signs-from-the-reconstruction-of-history-20170114-2.md"
+  },
+  {
+   "slug": "water-murmurs-20170401-6",
+   "lang": "vi",
+   "category": "opinion",
+   "title": "Tiếng thì thầm của nước",
+   "summary": "Bài viết nhắc nhở về tình trạng khan hiếm nước ngày càng trầm trọng và sự lãng phí trong cách chúng ta sử dụng nguồn tài nguyên quý giá này. Đồng thời, tác giả nhấn mạnh tầm quan trọng của việc bảo vệ môi trường và sự sẻ chia trong cộng đồng.",
+   "author": "ഇബ്‌നു അലി എടത്തനാട്ടുകര",
+   "issue_date": "2017-04-01",
+   "html_url": "/vi/opinion/water-murmurs-20170401-6.html",
+   "md_url": "/vi/opinion/water-murmurs-20170401-6.md"
   },
   {
    "slug": "when-national-tradition-is-questioned-20170121-2",
