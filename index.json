@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-16T10:59:35.470008+00:00",
+ "generated_at": "2026-09-16T11:00:33.728001+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5522,
+ "count": 5523,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -50050,6 +50050,17 @@
    "issue_date": "2026-08-22",
    "html_url": "/sw/health/when-menstruating-20260822-4.html",
    "md_url": "/sw/health/when-menstruating-20260822-4.md"
+  },
+  {
+   "slug": "islamic-history-an-overview-20170401-5",
+   "lang": "sw",
+   "category": "history",
+   "title": "Historia ya Kiislamu: Muhtasari",
+   "summary": "Makala hii inajadili umuhimu wa kusoma historia na mambo ya kuzingatia katika uandishi wa historia ya Kiislamu. Pia, inaelezea misimamo ya wanazuoni kuhusu simulizi za Israiliyyat.",
+   "author": "മുഹമ്മദ് സ്യാദിബ് മദീനി",
+   "issue_date": "2017-04-01",
+   "html_url": "/sw/history/islamic-history-an-overview-20170401-5.html",
+   "md_url": "/sw/history/islamic-history-an-overview-20170401-5.md"
   },
   {
    "slug": "islamophobia-archetypes-of-ancient-history-20170225-3",
