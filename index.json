@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-16T06:45:29.863165+00:00",
+ "generated_at": "2026-09-16T06:46:26.395056+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5372,
+ "count": 5373,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -54901,6 +54901,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/ur/aqeedah/faith-is-the-foundation-of-islam-20170128-13.html",
    "md_url": "/ur/aqeedah/faith-is-the-foundation-of-islam-20170128-13.md"
+  },
+  {
+   "slug": "identify-yourself-20170401-1",
+   "lang": "ur",
+   "category": "aqeedah",
+   "title": "اپنی حقیقت کو پہچانیں",
+   "summary": "یہ مضمون انسانی فطرت اور اسلامی طرز زندگی کے باہمی تعلق پر ایک مختصر روشنی ڈالتا ہے۔ یہ اس بات کی یاد دہانی کراتا ہے کہ انسان کو اللہ تعالیٰ کی مقرر کردہ فطرت کے مطابق زندگی گزارنے کی ضرورت ہے۔",
+   "author": "എഡിറ്റർ",
+   "issue_date": "2017-04-01",
+   "html_url": "/ur/aqeedah/identify-yourself-20170401-1.html",
+   "md_url": "/ur/aqeedah/identify-yourself-20170401-1.md"
   },
   {
    "slug": "salafiyyah-ideology-and-stance-20170211-8",
