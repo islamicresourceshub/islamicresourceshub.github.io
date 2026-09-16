@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-16T06:20:15.709120+00:00",
+ "generated_at": "2026-09-16T06:21:10.094683+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5344,
+ "count": 5345,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -8074,6 +8074,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/es/aqeedah/faith-is-the-foundation-of-islam-20170128-13.html",
    "md_url": "/es/aqeedah/faith-is-the-foundation-of-islam-20170128-13.md"
+  },
+  {
+   "slug": "identify-yourself-20170401-1",
+   "lang": "es",
+   "category": "aqeedah",
+   "title": "Reconócete a ti mismo",
+   "summary": "Una breve reflexión sobre la naturaleza humana y el estilo de vida islámico. Nos recuerda la necesidad de vivir en armonía con la naturaleza innata establecida por Al-lah.",
+   "author": "എഡിറ്റർ",
+   "issue_date": "2017-04-01",
+   "html_url": "/es/aqeedah/identify-yourself-20170401-1.html",
+   "md_url": "/es/aqeedah/identify-yourself-20170401-1.md"
   },
   {
    "slug": "salafiyyah-ideology-and-stance-20170211-8",
