@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-16T04:53:40.632855+00:00",
+ "generated_at": "2026-09-16T04:54:52.164951+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5258,
+ "count": 5259,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -57739,6 +57739,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/zh/opinion/strengthening-secular-political-unity-20170218-9.html",
    "md_url": "/zh/opinion/strengthening-secular-political-unity-20170218-9.md"
+  },
+  {
+   "slug": "superstitions-in-modern-homes-20170304-1",
+   "lang": "zh",
+   "category": "opinion",
+   "title": "迷信笼罩的内室",
+   "summary": "本文探讨了尽管科学技术不断进步，迷信思想在印度社会中依然根深蒂固的现象。文章通过对社会弊端和政治决策中迷信影响的批判性分析，揭示了这些陈规陋习带来的负面社会后果。",
+   "author": "ഇ.യൂസുഫ് സാഹിബ് നദ്‌വി",
+   "issue_date": "2017-03-04",
+   "html_url": "/zh/opinion/superstitions-in-modern-homes-20170304-1.html",
+   "md_url": "/zh/opinion/superstitions-in-modern-homes-20170304-1.md"
   },
   {
    "slug": "terrorism-and-religious-freedom-20170114-1",
