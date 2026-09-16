@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-16T11:48:53.193282+00:00",
+ "generated_at": "2026-09-16T11:49:49.381945+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5573,
+ "count": 5574,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -3674,6 +3674,17 @@
    "issue_date": "2026-08-22",
    "html_url": "/as/story/my-pen-20260822-8.html",
    "md_url": "/as/story/my-pen-20260822-8.md"
+  },
+  {
+   "slug": "obey-your-parents-20170401-7",
+   "lang": "as",
+   "category": "story",
+   "title": "মা-দেউতাকৰ আজ্ঞা পালন কৰক",
+   "summary": "মা-দেউতাকৰ কথা অমান্য কৰাৰ পৰিণতিৰ বিষয়ে এটি সৰু কাহিনীৰ জৰিয়তে ইয়াত বৰ্ণনা কৰা হৈছে। ল’ৰা-ছোৱালীয়ে কিয় নিজৰ পিতৃ-মাতৃৰ আজ্ঞা পালন কৰা উচিত, সেই গুৰুত্বপূৰ্ণ শিক্ষা ইয়াত প্ৰদান কৰা হৈছে।",
+   "author": "ഉസ്മാൻ പാലക്കാഴി",
+   "issue_date": "2017-04-01",
+   "html_url": "/as/story/obey-your-parents-20170401-7.html",
+   "md_url": "/as/story/obey-your-parents-20170401-7.md"
   },
   {
    "slug": "the-currency-that-was-not-accepted-20170114-3",
