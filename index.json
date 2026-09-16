@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-16T07:51:36.691809+00:00",
+ "generated_at": "2026-09-16T07:52:55.766002+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5403,
+ "count": 5404,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -46409,6 +46409,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/so/dawah/muslims-in-a-pluralistic-society-20170128-1.html",
    "md_url": "/so/dawah/muslims-in-a-pluralistic-society-20170128-1.md"
+  },
+  {
+   "slug": "not-to-falter-in-crises-20170401-2",
+   "lang": "so",
+   "category": "dawah",
+   "title": "In aan la gariirin xilliyada adag",
+   "summary": "Qoraalkan waxa uu sharxayaa sida uu mu'minku ula tacaalo dhibaatooyinka nolosha. Waxa uu ku boorrinayaa in aan la gariirin, laguna horumaro iyadoo casharro laga qaadanayo nolosha anbiyada.",
+   "author": "ഷമീർ മദീനി",
+   "issue_date": "2017-04-01",
+   "html_url": "/so/dawah/not-to-falter-in-crises-20170401-2.html",
+   "md_url": "/so/dawah/not-to-falter-in-crises-20170401-2.md"
   },
   {
    "slug": "organization-is-not-for-division-20170218-13",
