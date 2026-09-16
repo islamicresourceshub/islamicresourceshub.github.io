@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-16T17:48:27.349550+00:00",
+ "generated_at": "2026-09-16T17:49:49.426778+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5633,
+ "count": 5634,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -43285,6 +43285,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/pa/youth/what-will-the-waste-do-20170114-5.html",
    "md_url": "/pa/youth/what-will-the-waste-do-20170114-5.md"
+  },
+  {
+   "slug": "allegations-of-deviation-and-responses-20170401-8",
+   "lang": "ps",
+   "category": "aqeedah",
+   "title": "د انحراف تورونه او غبرګونونه",
+   "summary": "دا لیکنه د کېرالا د مسلمانانو د اصلاحي غورځنګ په تاریخ کې د یوې مهمې مرحلې په اړه ده. په دې کې د تنظیم دننه د فکري اختلافاتو، د هغو د حل لپاره د ترسره شویو بحثونو او د وروستیو پرېکړو تفصیل بیان شوی دی.",
+   "author": "മുബാറക് ബിൻ ഉമർ",
+   "issue_date": "2017-04-01",
+   "html_url": "/ps/aqeedah/allegations-of-deviation-and-responses-20170401-8.html",
+   "md_url": "/ps/aqeedah/allegations-of-deviation-and-responses-20170401-8.md"
   },
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
