@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-16T06:08:30.938569+00:00",
+ "generated_at": "2026-09-16T06:09:37.820991+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5332,
+ "count": 5333,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -54417,6 +54417,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/tr/story/the-currency-that-was-not-accepted-20170114-3.html",
    "md_url": "/tr/story/the-currency-that-was-not-accepted-20170114-3.md"
+  },
+  {
+   "slug": "the-duty-of-the-sighted-20170304-3",
+   "lang": "tr",
+   "category": "story",
+   "title": "Görenlerin Görevi",
+   "summary": "Bu kısa hikaye, çocuklara sosyal sorumluluk bilincini aşılamayı amaçlamaktadır. Kasım ve Fahim adlı iki kardeşin yaşadığı bir olay üzerinden, iyilik yapmanın ve bu iyiliği gizli tutmanın önemi vurgulanmaktadır.",
+   "author": "ഉസ്മാന്‍ പാലക്കാഴി",
+   "issue_date": "2017-03-04",
+   "html_url": "/tr/story/the-duty-of-the-sighted-20170304-3.html",
+   "md_url": "/tr/story/the-duty-of-the-sighted-20170304-3.md"
   },
   {
    "slug": "the-fruit-of-ingratitude-20170121-7",
