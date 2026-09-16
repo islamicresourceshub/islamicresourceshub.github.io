@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-16T04:45:37.316764+00:00",
+ "generated_at": "2026-09-16T04:47:10.575008+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5251,
+ "count": 5252,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -50116,6 +50116,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/te/opinion/strengthening-secular-political-unity-20170218-9.html",
    "md_url": "/te/opinion/strengthening-secular-political-unity-20170218-9.md"
+  },
+  {
+   "slug": "superstitions-in-modern-homes-20170304-1",
+   "lang": "te",
+   "category": "opinion",
+   "title": "అంధవిశ్వాసాలు రాజ్యమేలే అంతఃపురాలు",
+   "summary": "శాస్త్రీయ పురోగతి సాధించినప్పటికీ భారతీయ సమాజంలో అంధవిశ్వాసాలు ఎలా పాతుకుపోయాయో ఈ వ్యాసం విశ్లేషిస్తుంది. మూఢనమ్మకాల వల్ల కలిగే సామాజిక పరిణామాలపై ఇది ఒక విమర్శనాత్మక విశ్లేషణ.",
+   "author": "ഇ.യൂസുഫ് സാഹിബ് നദ്‌വി",
+   "issue_date": "2017-03-04",
+   "html_url": "/te/opinion/superstitions-in-modern-homes-20170304-1.html",
+   "md_url": "/te/opinion/superstitions-in-modern-homes-20170304-1.md"
   },
   {
    "slug": "terrorism-and-religious-freedom-20170114-1",
