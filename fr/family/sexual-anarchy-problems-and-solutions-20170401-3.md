@@ -1,0 +1,73 @@
+---
+title: 'Le chaos sexuel : problèmes et solutions'
+author: മുഹമ്മദുബ്‌നു ബഷീർ
+lang: fr
+category: family
+kind: article
+tags:
+- morality
+- marriage
+- social-issues
+summary: Cet article analyse les conséquences sociales du chaos sexuel et propose les solutions préconisées par l'Islam. Il met en lumière les dangers des relations extraconjugales et de l'obscénité pour l'individu et la société.
+source:
+  magazine: Nerpatham Weekly
+  issue_date: '2017-04-01'
+  pdf_url: http://nerpatham.com/vol-no-01/images/archives/Nerpatham-2017Apr01.pdf
+date_processed: '2026-08-28T04:05:44Z'
+slug: sexual-anarchy-problems-and-solutions-20170401-3
+translation_of: sexual-anarchy-problems-and-solutions-20170401-3
+---
+
+# Le chaos sexuel : problèmes et solutions
+
+L'Islam exige qu'un individu n'exprime sa sexualité que dans le cadre du mariage légitime. Toute relation en dehors de ce cadre est destructrice. Les relations sexuelles extraconjugales sèment le doute dans la vie conjugale et créent des traumatismes psychologiques qui affectent l'avenir. Dans un contexte où les relations illicites se multiplient, il est nécessaire d'analyser la moralité sexuelle.
+
+*Illustration symbolisant le chaos sexuel*
+
+La sexualité est une bénédiction divine dont l'objectif principal est la procréation. La santé mentale, la stabilité familiale et la paix sociale sont intrinsèquement liées à la sexualité. Son usage en dehors des directives appropriées peut déstabiliser l'équilibre mental de l'individu, briser la cohésion familiale et détruire la structure sociale. La plupart des maladies sexuellement transmissibles sont le résultat de relations extraconjugales.
+
+L'Islam exige qu'un individu n'exprime sa sexualité que dans le cadre du mariage légitime. Toute relation en dehors de ce cadre est destructrice. Les relations sexuelles extraconjugales sèment le doute dans la vie conjugale et créent des traumatismes psychologiques qui affectent l'avenir.
+
+Dans la société du Kerala, avide d'adopter la culture occidentale, les résultats des études sur les dérives liées à ce sujet donnent matière à réflexion aux personnes dotées d'une conscience morale. Dans la capitale du Kerala, on rapporte qu'en moyenne 300 personnes se présentent chaque mois pour vérifier, par des tests, si l'enfant né de leur conjoint est bien le leur !
+
+Les relations adultères, qu'elles soient masculines ou féminines, sont devenues courantes et fragmentent les liens familiaux. Il est alarmant de constater que certains réclament une protection juridique pour le chaos sexuel que représente l'homosexualité.
+
+La société envisagée par l'Islam est tout autre. Pour préserver un environnement familial serein et une vie conjugale paisible, les relations extraconjugales doivent être totalement évitées. L'Islam enseigne toutes les directives nécessaires pour qu'un être humain utilise sa sexualité de la meilleure façon possible et se préserve des voies déviantes. « Et n'approchez point la fornication. En vérité, c'est une turpitude et quel mauvais chemin ! » (Coran 17:32). Le commandement coranique est de ne même pas s'approcher de la fornication. Le Prophète ﷺ a enseigné au monde qu'il est impératif d'éviter tout ce qui mène à cet acte.
+
+L'Islam ne considère pas seulement les rapports physiques entre hommes et femmes étrangers comme de la fornication. Regarder des femmes étrangères sans nécessité, ainsi que visionner des vidéos et des images obscènes via Internet ou la télévision, sont des formes de fornication comportementale. Les conversations obscènes entre hommes et femmes étrangers, que ce soit par téléphone ou en personne, constituent également une forme de fornication. La plupart des relations illicites commencent ainsi.
+
+En décrivant les qualités des humbles serviteurs du Tout-Miséricordieux, le Coran dit : « Qui n'invoquent aucune autre divinité avec Allah et ne tuent pas la vie qu'Allah a rendue sacrée, sauf à bon droit ; qui ne commettent pas de fornication. Car quiconque fait cela encourra une punition » (25:68).
+
+Le noble Prophète a mis en garde contre l'état terrible qui attend ceux qui quittent ce monde en ayant commis ce péché majeur. En racontant une vision des châtiments de l'Enfer, il a dit :
+
+« ...Puis ils m'ont emmené. Nous sommes arrivés près d'une structure semblable à un four, étroit en haut et large en bas, d'où s'échappaient des cris et des voix. Nous avons regardé à l'intérieur et y avons trouvé des hommes et des femmes nus. Une flamme montait du dessous, et lorsqu'elle les atteignait, ils hurlaient. J'ai demandé : "Qui sont-ils ?" Ils ont répondu : "Ce sont les fornicateurs et les fornicatrices" » (Al-Bukhari).
+
+Le Prophète ﷺ a également souligné que les deux causes principales menant à l'Enfer sont « la langue et les parties intimes » (Al-Bukhari).
+
+L'Islam s'oppose fermement à l'homosexualité, qui est contraire à la nature humaine. Bien que de nombreux pays l'aient autorisée, le Coran relate la destruction de la communauté qui a pratiqué cette abomination pour la première fois. Le monde se souvient de ce mal en le rattachant au nom de ce peuple. Il s'agit du peuple de Sodome, où le Prophète Loth ﷺ fut envoyé. Allah dit :
+
+« Le peuple de Loth traita de menteurs les messagers, lorsque leur frère Loth leur dit : "Ne craindrez-vous pas Allah ? Je suis pour vous un messager digne de confiance. Craignez Allah donc et obéissez-moi. Je ne vous demande aucun salaire pour cela ; mon salaire n'incombe qu'au Seigneur de l'univers. Accomplissez-vous l'acte charnel avec les mâles de ce monde ? Et délaissez-vous les épouses que votre Seigneur a créées pour vous ? Vous êtes plutôt un peuple de transgresseurs." Ils dirent : "Si tu ne cesses pas, Loth, tu seras certainement du nombre des expulsés." Il dit : "Je suis de ceux qui détestent votre comportement." "Seigneur, sauve-moi ainsi que ma famille de ce qu'ils font." Nous le sauvâmes donc, lui et sa famille, à l'exception d'une vieille femme qui fut parmi les exterminés. Ensuite, Nous détruisîmes les autres, et fîmes pleuvoir sur eux une pluie. Et quelle mauvaise pluie que celle des gens avertis ! »
+
+Allah a maintenu ce châtiment comme une leçon pour l'humanité jusqu'à la fin des temps : la mer Morte.
+
+La masturbation, par laquelle un individu cherche à satisfaire ses désirs seul, est une pratique qui se répand dans le monde. Les savants s'accordent à dire que, bien qu'il s'agisse d'un effort solitaire, cet acte est fondamentalement interdit. Quiconque comprend les bases de l'Islam sait que cette religion, qui a offert une civilisation élevée au monde, ne peut encourager une telle abomination.
+
+Il est remarquable qu'Allah mentionne la pureté sexuelle parmi les qualités des croyants qui hériteront du Paradis (23:1-7).
+
+Sur cette base, les savants considèrent la masturbation comme un mal. Elle n'est pas non plus bénéfique sur le plan physique. L'énergie dépensée lors de cet acte est sept fois supérieure à celle d'un rapport avec son conjoint. Pour que le sperme soit évacué correctement, une excitation complète est nécessaire, ce qui n'est pas le cas ici. Par conséquent, le corps dépense une énergie considérable pour cette activité, ce qui entraîne une grande fatigue.
+
+La jeune génération, qui retarde le mariage, finit souvent par devenir esclave de cette mauvaise habitude, ce qui entrave l'injonction islamique de se marier. Même après le mariage, ces personnes peuvent éprouver des difficultés à mener une vie conjugale épanouie. Toute personne pratiquant la masturbation est soumise à une forme de fornication mentale. L'Islam définit comme péché ce qui trouble l'esprit et ce que l'on craint de voir révélé au grand jour.
+
+L'Islam est la religion de la nature. Elle contient les lois et les préceptes du Créateur. En sensibilisant aux déviances sexuelles, l'Islam propose des solutions claires. La première est de se marier dès l'âge nubile. Toute personne capable doit se marier. Le noble Prophète a dit : « Ô jeunes gens ! Que celui d'entre vous qui en a la capacité se marie, car cela aide à baisser le regard et à protéger ses parties intimes » (Al-Bukhari, Muslim).
+
+Les parents qui retardent le mariage de leurs enfants pour des raisons futiles agissent à l'encontre des lois de la nature. Si les études sont un obstacle, la sociologie et la psychologie modernes reconnaissent que le mariage peut être bénéfique pour la concentration et la stabilité mentale. Si la difficulté est d'ordre financier, l'Islam encourage à ne pas craindre la pauvreté.
+
+Le Prophète ﷺ a dit : « Il incombe à Allah d'aider celui qui se marie par désir de chasteté » (Ibn Adi, Sahih al-Jami - 3152).
+
+Contrôler les pensées impures et éviter de poser un regard inutile sur les femmes étrangères fait partie des solutions pour préserver la pureté sexuelle. « Dis aux croyants de baisser leurs regards et de garder leur chasteté. C'est plus pur pour eux. Allah est, certes, Parfaitement Connaisseur de ce qu'ils font » (24:30).
+
+Il est de notoriété publique que les regards inutiles sont la cause de l'égarement de nombreuses personnes. Pour ceux qui ne peuvent se marier, le Prophète ﷺ a suggéré le jeûne comme remède :
+
+« ...Et celui qui n'en a pas la capacité, qu'il jeûne, car cela atténue le désir » (Al-Bukhari).
+
+Pour préserver la pureté sexuelle, la connaissance de soi est essentielle. Quiconque utilise sa sexualité de manière inappropriée se soumet à ses passions et aux incitations diaboliques. Nul n'entre en Enfer sans avoir succombé à ses désirs charnels. Par conséquent, dès qu'une mauvaise pensée surgit, il faut prendre conscience qu'il s'agit d'un chemin menant à l'Enfer.
