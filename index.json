@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-16T04:48:08.727515+00:00",
+ "generated_at": "2026-09-16T04:49:04.691749+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5253,
+ "count": 5254,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -52294,6 +52294,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/tl/opinion/strengthening-secular-political-unity-20170218-9.html",
    "md_url": "/tl/opinion/strengthening-secular-political-unity-20170218-9.md"
+  },
+  {
+   "slug": "superstitions-in-modern-homes-20170304-1",
+   "lang": "tl",
+   "category": "opinion",
+   "title": "Ang mga Silid na Pinamumugaran ng Pamahiin",
+   "summary": "Sinusuri ng artikulong ito kung paano nananatiling nakaugat ang mga pamahiin sa lipunang Indian sa kabila ng siyentipikong pag-unlad. Isa itong kritikal na pagsusuri sa panlipunang epekto ng mga maling paniniwala at tradisyon.",
+   "author": "ഇ.യൂസുഫ് സാഹിബ് നദ്‌വി",
+   "issue_date": "2017-03-04",
+   "html_url": "/tl/opinion/superstitions-in-modern-homes-20170304-1.html",
+   "md_url": "/tl/opinion/superstitions-in-modern-homes-20170304-1.md"
   },
   {
    "slug": "terrorism-and-religious-freedom-20170114-1",
