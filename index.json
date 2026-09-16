@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-16T06:11:35.215007+00:00",
+ "generated_at": "2026-09-16T06:12:34.291497+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5335,
+ "count": 5336,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -57750,6 +57750,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/vi/story/the-currency-that-was-not-accepted-20170114-3.html",
    "md_url": "/vi/story/the-currency-that-was-not-accepted-20170114-3.md"
+  },
+  {
+   "slug": "the-duty-of-the-sighted-20170304-3",
+   "lang": "vi",
+   "category": "story",
+   "title": "Trách nhiệm của người sáng mắt",
+   "summary": "Đây là một câu chuyện ngắn giúp trẻ em nhận thức về trách nhiệm xã hội. Thông qua hai anh em Jasim và Fahim, câu chuyện nhắc nhở chúng ta về tầm quan trọng của việc thực hiện nghĩa vụ một cách khiêm nhường.",
+   "author": "ഉസ്മാന്‍ പാലക്കാഴി",
+   "issue_date": "2017-03-04",
+   "html_url": "/vi/story/the-duty-of-the-sighted-20170304-3.html",
+   "md_url": "/vi/story/the-duty-of-the-sighted-20170304-3.md"
   },
   {
    "slug": "the-fruit-of-ingratitude-20170121-7",
