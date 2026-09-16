@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-16T17:11:11.028181+00:00",
+ "generated_at": "2026-09-16T17:12:16.973729+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,8 +219,19 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5610,
+ "count": 5611,
  "articles": [
+  {
+   "slug": "allegations-of-deviation-and-responses-20170401-8",
+   "lang": "am",
+   "category": "aqeedah",
+   "title": "የአመለካከት ልዩነት ክሶች እና ምላሾች",
+   "summary": "ይህ ጽሑፍ በኬረላ የሙስሊም ህዳሴ ታሪክ ውስጥ የተከሰተውን አንድ ወሳኝ ምዕራፍ ይዳስሳል። በድርጅቱ ውስጥ የተፈጠሩትን የአመለካከት ልዩነቶች እና እነሱን ለመፍታት የተደረጉትን ውይይቶችና ውሳኔዎች በዝርዝር ይመዘግባል።",
+   "author": "മുബാറക് ബിൻ ഉമർ",
+   "issue_date": "2017-04-01",
+   "html_url": "/am/aqeedah/allegations-of-deviation-and-responses-20170401-8.html",
+   "md_url": "/am/aqeedah/allegations-of-deviation-and-responses-20170401-8.md"
+  },
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
    "lang": "am",
