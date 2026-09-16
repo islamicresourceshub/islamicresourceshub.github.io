@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-16T05:49:54.057312+00:00",
+ "generated_at": "2026-09-16T05:51:05.358041+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5315,
+ "count": 5316,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -20064,6 +20064,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/ko/story/the-currency-that-was-not-accepted-20170114-3.html",
    "md_url": "/ko/story/the-currency-that-was-not-accepted-20170114-3.md"
+  },
+  {
+   "slug": "the-duty-of-the-sighted-20170304-3",
+   "lang": "ko",
+   "category": "story",
+   "title": "눈을 가진 자의 의무",
+   "summary": "이 이야기는 아이들에게 사회적 책임감을 일깨워주는 짧은 동화입니다. 자심과 파힘이라는 두 형제를 통해 우리가 실천해야 할 선행과 그 마음가짐에 대해 이야기합니다.",
+   "author": "ഉസ്മാന്‍ പാലക്കാഴി",
+   "issue_date": "2017-03-04",
+   "html_url": "/ko/story/the-duty-of-the-sighted-20170304-3.html",
+   "md_url": "/ko/story/the-duty-of-the-sighted-20170304-3.md"
   },
   {
    "slug": "the-fruit-of-ingratitude-20170121-7",
