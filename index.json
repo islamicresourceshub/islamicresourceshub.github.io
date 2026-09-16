@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-16T17:31:51.025324+00:00",
+ "generated_at": "2026-09-16T17:33:04.356087+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5627,
+ "count": 5628,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -20526,6 +20526,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/kn/youth/what-will-the-waste-do-20170114-5.html",
    "md_url": "/kn/youth/what-will-the-waste-do-20170114-5.md"
+  },
+  {
+   "slug": "allegations-of-deviation-and-responses-20170401-8",
+   "lang": "ko",
+   "category": "aqeedah",
+   "title": "변질에 대한 비판과 대응",
+   "summary": "케랄라 무슬림 르네상스 역사 속 한 시기를 다루며, 조직 내부의 이념적 갈등과 이를 해결하기 위해 진행된 논의 및 결정 사항들을 기록하고 있습니다.",
+   "author": "മുബാറക് ബിൻ ഉമർ",
+   "issue_date": "2017-04-01",
+   "html_url": "/ko/aqeedah/allegations-of-deviation-and-responses-20170401-8.html",
+   "md_url": "/ko/aqeedah/allegations-of-deviation-and-responses-20170401-8.md"
   },
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
