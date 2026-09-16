@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-16T04:51:14.906779+00:00",
+ "generated_at": "2026-09-16T04:52:25.938998+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5256,
+ "count": 5257,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -55561,6 +55561,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/uz/opinion/strengthening-secular-political-unity-20170218-9.html",
    "md_url": "/uz/opinion/strengthening-secular-political-unity-20170218-9.md"
+  },
+  {
+   "slug": "superstitions-in-modern-homes-20170304-1",
+   "lang": "uz",
+   "category": "opinion",
+   "title": "Xurofotlar hukmron bo‘lgan xonadonlar",
+   "summary": "Ushbu maqola ilmiy taraqqiyotga erishilganiga qaramay, Hindiston jamiyatida xurofotlar qanday ildiz otganini tahlil qiladi. Unda asossiz e’tiqodlarning ijtimoiy oqibatlari tanqidiy nuqtai nazardan ko‘rib chiqiladi.",
+   "author": "ഇ.യൂസുഫ് സാഹിബ് നദ്‌വി",
+   "issue_date": "2017-03-04",
+   "html_url": "/uz/opinion/superstitions-in-modern-homes-20170304-1.html",
+   "md_url": "/uz/opinion/superstitions-in-modern-homes-20170304-1.md"
   },
   {
    "slug": "terrorism-and-religious-freedom-20170114-1",
