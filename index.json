@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-16T07:42:58.873067+00:00",
+ "generated_at": "2026-09-16T07:44:06.128258+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5396,
+ "count": 5397,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -38522,6 +38522,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/ne/dawah/muslims-in-a-pluralistic-society-20170128-1.html",
    "md_url": "/ne/dawah/muslims-in-a-pluralistic-society-20170128-1.md"
+  },
+  {
+   "slug": "not-to-falter-in-crises-20170401-2",
+   "lang": "ne",
+   "category": "dawah",
+   "title": "संकटहरूमा विचलित नहुनुहोस्",
+   "summary": "यो लेखले जीवनका संकटहरूलाई विश्वासीले कसरी सामना गर्नुपर्छ भन्ने वर्णन गर्दछ। पैगम्बरहरूको जीवनबाट पाठ सिकेर विचलित नभई अगाडि बढ्न आह्वान गर्दछ।",
+   "author": "ഷമീർ മദീനി",
+   "issue_date": "2017-04-01",
+   "html_url": "/ne/dawah/not-to-falter-in-crises-20170401-2.html",
+   "md_url": "/ne/dawah/not-to-falter-in-crises-20170401-2.md"
   },
   {
    "slug": "organization-is-not-for-division-20170218-13",
