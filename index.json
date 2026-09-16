@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-16T12:11:18.856351+00:00",
+ "generated_at": "2026-09-16T12:12:13.824897+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5595,
+ "count": 5596,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -45298,6 +45298,17 @@
    "issue_date": "2026-08-22",
    "html_url": "/pt/story/my-pen-20260822-8.html",
    "md_url": "/pt/story/my-pen-20260822-8.md"
+  },
+  {
+   "slug": "obey-your-parents-20170401-7",
+   "lang": "pt",
+   "category": "story",
+   "title": "Obedecer aos pais",
+   "summary": "Através de uma história infantil, este texto explora as consequências de desobedecer aos pais. Ele destaca a importância de valorizar as palavras dos pais e a responsabilidade dos filhos em tratá-los com bondade e respeito.",
+   "author": "ഉസ്മാൻ പാലക്കാഴി",
+   "issue_date": "2017-04-01",
+   "html_url": "/pt/story/obey-your-parents-20170401-7.html",
+   "md_url": "/pt/story/obey-your-parents-20170401-7.md"
   },
   {
    "slug": "sugar-like-gold-dust-20170128-11",
