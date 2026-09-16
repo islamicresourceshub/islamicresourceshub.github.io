@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-16T08:18:34.695286+00:00",
+ "generated_at": "2026-09-16T08:19:39.469753+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5430,
+ "count": 5431,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -17743,6 +17743,17 @@
    "issue_date": "2017-02-11",
    "html_url": "/ja/family/school-annual-day-experiences-20170211-10.html",
    "md_url": "/ja/family/school-annual-day-experiences-20170211-10.md"
+  },
+  {
+   "slug": "sexual-anarchy-problems-and-solutions-20170401-3",
+   "lang": "ja",
+   "category": "family",
+   "title": "性的無秩序：問題と解決策",
+   "summary": "性的無秩序が社会に与える深刻な影響と、イスラームが提示する解決策について論じます。婚外関係やポルノグラフィーの危険性を指摘し、健全な家庭と社会を築くための指針を解説します。",
+   "author": "മുഹമ്മദുബ്‌നു ബഷീർ",
+   "issue_date": "2017-04-01",
+   "html_url": "/ja/family/sexual-anarchy-problems-and-solutions-20170401-3.html",
+   "md_url": "/ja/family/sexual-anarchy-problems-and-solutions-20170401-3.md"
   },
   {
    "slug": "the-methodology-of-conduct-20170128-8",
