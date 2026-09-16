@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-16T06:29:04.919218+00:00",
+ "generated_at": "2026-09-16T06:29:55.842182+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5354,
+ "count": 5355,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -19250,6 +19250,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/ko/aqeedah/faith-is-the-foundation-of-islam-20170128-13.html",
    "md_url": "/ko/aqeedah/faith-is-the-foundation-of-islam-20170128-13.md"
+  },
+  {
+   "slug": "identify-yourself-20170401-1",
+   "lang": "ko",
+   "category": "aqeedah",
+   "title": "자신을 성찰하십시오",
+   "summary": "인간의 본성과 이슬람적 삶의 방식에 대한 간략한 설명입니다. 알라께서 정하신 본성에 따라 살아가는 것이 왜 중요한지를 상기시켜 줍니다.",
+   "author": "എഡിറ്റർ",
+   "issue_date": "2017-04-01",
+   "html_url": "/ko/aqeedah/identify-yourself-20170401-1.html",
+   "md_url": "/ko/aqeedah/identify-yourself-20170401-1.md"
   },
   {
    "slug": "salafiyyah-ideology-and-stance-20170211-8",
