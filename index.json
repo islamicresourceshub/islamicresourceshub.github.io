@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-16T05:35:30.738339+00:00",
+ "generated_at": "2026-09-16T05:36:32.815274+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5301,
+ "count": 5302,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -4576,6 +4576,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/bn/story/the-currency-that-was-not-accepted-20170114-3.html",
    "md_url": "/bn/story/the-currency-that-was-not-accepted-20170114-3.md"
+  },
+  {
+   "slug": "the-duty-of-the-sighted-20170304-3",
+   "lang": "bn",
+   "category": "story",
+   "title": "দৃষ্টিশক্তি সম্পন্নদের কর্তব্য",
+   "summary": "এটি একটি ছোট গল্প যা শিশুদের সামাজিক দায়বদ্ধতা সম্পর্কে সচেতন করে তোলে। জাসিম ও ফাহিম নামের দুই ভাইয়ের অভিজ্ঞতার মাধ্যমে এখানে কর্তব্যের গুরুত্ব তুলে ধরা হয়েছে।",
+   "author": "ഉസ്മാന്‍ പാലക്കാഴി",
+   "issue_date": "2017-03-04",
+   "html_url": "/bn/story/the-duty-of-the-sighted-20170304-3.html",
+   "md_url": "/bn/story/the-duty-of-the-sighted-20170304-3.md"
   },
   {
    "slug": "the-fruit-of-ingratitude-20170121-7",
