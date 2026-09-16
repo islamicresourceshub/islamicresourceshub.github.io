@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-16T04:41:26.036201+00:00",
+ "generated_at": "2026-09-16T04:42:08.425086+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5246,
+ "count": 5247,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -44770,6 +44770,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/si/opinion/strengthening-secular-political-unity-20170218-9.html",
    "md_url": "/si/opinion/strengthening-secular-political-unity-20170218-9.md"
+  },
+  {
+   "slug": "superstitions-in-modern-homes-20170304-1",
+   "lang": "si",
+   "category": "opinion",
+   "title": "අන්ධවිශ්වාසයන් රජයන අභ්‍යන්තරයන්",
+   "summary": "විද්‍යාත්මක දියුණුවක් ලබා තිබියදීත් ඉන්දියානු සමාජය තුළ අන්ධවිශ්වාසයන් මුල් බැසගෙන ඇති ආකාරය මෙම ලිපිය විමසා බලයි. අනාචාරයන්ගේ සමාජ බලපෑම් පිළිබඳ විවේචනාත්මක විශ්ලේෂණයක් මෙහි අන්තර්ගත වේ.",
+   "author": "ഇ.യൂസുഫ് സാഹിബ് നദ്‌വി",
+   "issue_date": "2017-03-04",
+   "html_url": "/si/opinion/superstitions-in-modern-homes-20170304-1.html",
+   "md_url": "/si/opinion/superstitions-in-modern-homes-20170304-1.md"
   },
   {
    "slug": "terrorism-and-religious-freedom-20170114-1",
