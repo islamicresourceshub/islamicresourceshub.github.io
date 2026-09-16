@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-16T05:17:33.745102+00:00",
+ "generated_at": "2026-09-16T05:18:25.091561+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5282,
+ "count": 5283,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -41294,6 +41294,17 @@
    "issue_date": "2017-02-04",
    "html_url": "/ps/family/children-an-islamic-reading-part-4-20170204-5.html",
    "md_url": "/ps/family/children-an-islamic-reading-part-4-20170204-5.md"
+  },
+  {
+   "slug": "conduct-towards-one-s-spouse-20170304-2",
+   "lang": "ps",
+   "category": "family",
+   "title": "د خپلې ښځې سره د چلند څرنګوالی",
+   "summary": "د دې نبوي وینا پر بنسټ چې «تر ټولو غوره مؤمن هغه دی چې د خپلې ښځې سره ښه چلند کوي»، دا لیکنه د کورني ژوند په آدابو او د ښځې او خاوند ترمنځ د متقابل درناوي په اهمیت رڼا اچوي.",
+   "author": "അബൂ റാഷിദ",
+   "issue_date": "2017-03-04",
+   "html_url": "/ps/family/conduct-towards-one-s-spouse-20170304-2.html",
+   "md_url": "/ps/family/conduct-towards-one-s-spouse-20170304-2.md"
   },
   {
    "slug": "do-not-invite-water-scarcity-20170225-4",
