@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-16T04:57:09.508630+00:00",
+ "generated_at": "2026-09-16T04:58:25.789248+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5261,
+ "count": 5262,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -2706,6 +2706,17 @@
    "issue_date": "2017-02-04",
    "html_url": "/as/family/children-an-islamic-reading-part-4-20170204-5.html",
    "md_url": "/as/family/children-an-islamic-reading-part-4-20170204-5.md"
+  },
+  {
+   "slug": "conduct-towards-one-s-spouse-20170304-2",
+   "lang": "as",
+   "category": "family",
+   "title": "জীৱনসংগীৰ সৈতে আচৰণ",
+   "summary": "বিশ্বাসীসকলৰ ভিতৰত যিজনে নিজৰ পত্নীৰ সৈতে উত্তম ব্যৱহাৰ কৰে তেৱেঁই শ্ৰেষ্ঠ বুলি নবীৰ বাণীৰ আধাৰত পাৰিবাৰিক জীৱনৰ মৰ্যাদাসমূহৰ বিষয়ে ইয়াত আলোচনা কৰা হৈছে।",
+   "author": "അബൂ റാഷിദ",
+   "issue_date": "2017-03-04",
+   "html_url": "/as/family/conduct-towards-one-s-spouse-20170304-2.html",
+   "md_url": "/as/family/conduct-towards-one-s-spouse-20170304-2.md"
   },
   {
    "slug": "do-not-invite-water-scarcity-20170225-4",
