@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-16T11:00:33.728001+00:00",
+ "generated_at": "2026-09-16T11:01:31.346187+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5523,
+ "count": 5524,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -51183,6 +51183,17 @@
    "issue_date": "2026-08-22",
    "html_url": "/ta/health/when-menstruating-20260822-4.html",
    "md_url": "/ta/health/when-menstruating-20260822-4.md"
+  },
+  {
+   "slug": "islamic-history-an-overview-20170401-5",
+   "lang": "ta",
+   "category": "history",
+   "title": "இஸ்லாமிய வரலாறு: ஒரு கண்ணோட்டம்",
+   "summary": "வரலாற்றுப் படிப்பின் முக்கியத்துவம் மற்றும் இஸ்லாமிய வரலாற்று நூல்களை அணுகும்போது கவனிக்க வேண்டிய அம்சங்கள் குறித்து இக்கட்டுரை விளக்குகிறது. குறிப்பாக, இஸ்ராயீலிய்யாத் செய்திகள் குறித்த அறிஞர்களின் நிலைப்பாடுகளை இது தெளிவாக எடுத்துரைக்கிறது.",
+   "author": "മുഹമ്മദ് സ്യാദിബ് മദീനി",
+   "issue_date": "2017-04-01",
+   "html_url": "/ta/history/islamic-history-an-overview-20170401-5.html",
+   "md_url": "/ta/history/islamic-history-an-overview-20170401-5.md"
   },
   {
    "slug": "islamophobia-archetypes-of-ancient-history-20170225-3",
