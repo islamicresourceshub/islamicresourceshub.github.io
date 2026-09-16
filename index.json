@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-16T08:04:38.749962+00:00",
+ "generated_at": "2026-09-16T08:05:24.560946+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5416,
+ "count": 5417,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -1793,6 +1793,17 @@
    "issue_date": "2017-02-11",
    "html_url": "/ar/family/school-annual-day-experiences-20170211-10.html",
    "md_url": "/ar/family/school-annual-day-experiences-20170211-10.md"
+  },
+  {
+   "slug": "sexual-anarchy-problems-and-solutions-20170401-3",
+   "lang": "ar",
+   "category": "family",
+   "title": "الانحلال الجنسي: المشكلات والحلول",
+   "summary": "يتناول هذا المقال الآثار الاجتماعية المترتبة على الانحلال الجنسي والحلول التي يقدمها الإسلام لمواجهتها، مع تسليط الضوء على مخاطر العلاقات خارج إطار الزواج والممارسات المنافية للفطرة.",
+   "author": "മുഹമ്മദുബ്‌നു ബഷീർ",
+   "issue_date": "2017-04-01",
+   "html_url": "/ar/family/sexual-anarchy-problems-and-solutions-20170401-3.html",
+   "md_url": "/ar/family/sexual-anarchy-problems-and-solutions-20170401-3.md"
   },
   {
    "slug": "the-methodology-of-conduct-20170128-8",
