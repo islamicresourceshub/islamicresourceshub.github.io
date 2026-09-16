@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-16T07:58:20.457582+00:00",
+ "generated_at": "2026-09-16T07:59:12.484023+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5409,
+ "count": 5410,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -53130,6 +53130,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/tl/dawah/muslims-in-a-pluralistic-society-20170128-1.html",
    "md_url": "/tl/dawah/muslims-in-a-pluralistic-society-20170128-1.md"
+  },
+  {
+   "slug": "not-to-falter-in-crises-20170401-2",
+   "lang": "tl",
+   "category": "dawah",
+   "title": "Paano Hindi Matinag sa Gita ng mga Pagsubok",
+   "summary": "Ipinapaliwanag nito kung paano dapat harapin ng isang mananampalataya ang mga pagsubok sa buhay. Hinihikayat nito ang mambabasa na kumuha ng aral mula sa buhay ng mga propeta upang magpatuloy nang hindi nawawalan ng pag-asa.",
+   "author": "ഷമീർ മദീനി",
+   "issue_date": "2017-04-01",
+   "html_url": "/tl/dawah/not-to-falter-in-crises-20170401-2.html",
+   "md_url": "/tl/dawah/not-to-falter-in-crises-20170401-2.md"
   },
   {
    "slug": "organization-is-not-for-division-20170218-13",
