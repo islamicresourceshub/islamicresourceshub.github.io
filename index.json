@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-16T17:23:42.733669+00:00",
+ "generated_at": "2026-09-16T17:26:34.271808+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5622,
+ "count": 5623,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -14553,6 +14553,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/ha/youth/what-will-the-waste-do-20170114-5.html",
    "md_url": "/ha/youth/what-will-the-waste-do-20170114-5.md"
+  },
+  {
+   "slug": "allegations-of-deviation-and-responses-20170401-8",
+   "lang": "hi",
+   "category": "aqeedah",
+   "title": "विचलन के आरोप और प्रतिक्रिया",
+   "summary": "यह लेख केरल के मुस्लिम पुनर्जागरण इतिहास के एक महत्वपूर्ण चरण का विवरण देता है। इसमें संगठन के भीतर वैचारिक मतभेदों, उन पर हुई चर्चाओं और विवादों को सुलझाने के लिए लिए गए निर्णयों को दर्ज किया गया है।",
+   "author": "മുബാറക് ബിൻ ഉമർ",
+   "issue_date": "2017-04-01",
+   "html_url": "/hi/aqeedah/allegations-of-deviation-and-responses-20170401-8.html",
+   "md_url": "/hi/aqeedah/allegations-of-deviation-and-responses-20170401-8.md"
   },
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
