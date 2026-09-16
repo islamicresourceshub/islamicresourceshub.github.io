@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-16T05:04:43.229275+00:00",
+ "generated_at": "2026-09-16T05:05:41.741206+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5268,
+ "count": 5269,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -10373,6 +10373,17 @@
    "issue_date": "2017-02-04",
    "html_url": "/fr/family/children-an-islamic-reading-part-4-20170204-5.html",
    "md_url": "/fr/family/children-an-islamic-reading-part-4-20170204-5.md"
+  },
+  {
+   "slug": "conduct-towards-one-s-spouse-20170304-2",
+   "lang": "fr",
+   "category": "family",
+   "title": "Le comportement envers son conjoint",
+   "summary": "En s'appuyant sur la parole du Prophète selon laquelle le meilleur des croyants est celui qui se comporte le mieux envers son épouse, cet article détaille les convenances et les principes de la vie de famille.",
+   "author": "അബൂ റാഷിദ",
+   "issue_date": "2017-03-04",
+   "html_url": "/fr/family/conduct-towards-one-s-spouse-20170304-2.html",
+   "md_url": "/fr/family/conduct-towards-one-s-spouse-20170304-2.md"
   },
   {
    "slug": "do-not-invite-water-scarcity-20170225-4",
