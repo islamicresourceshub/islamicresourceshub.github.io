@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-16T04:47:10.575008+00:00",
+ "generated_at": "2026-09-16T04:48:08.727515+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5252,
+ "count": 5253,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -51205,6 +51205,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/th/opinion/strengthening-secular-political-unity-20170218-9.html",
    "md_url": "/th/opinion/strengthening-secular-political-unity-20170218-9.md"
+  },
+  {
+   "slug": "superstitions-in-modern-homes-20170304-1",
+   "lang": "th",
+   "category": "opinion",
+   "title": "พื้นที่ภายในที่ถูกครอบงำด้วยความงมงาย",
+   "summary": "บทความนี้ตรวจสอบว่าความงมงายยังคงหยั่งรากลึกในสังคมอินเดียได้อย่างไรแม้จะมีความก้าวหน้าทางวิทยาศาสตร์ พร้อมวิเคราะห์ผลกระทบทางสังคมของความเชื่อที่ไร้เหตุผลเหล่านี้อย่างตรงไปตรงมา",
+   "author": "ഇ.യൂസുഫ് സാഹിബ് നദ്‌വി",
+   "issue_date": "2017-03-04",
+   "html_url": "/th/opinion/superstitions-in-modern-homes-20170304-1.html",
+   "md_url": "/th/opinion/superstitions-in-modern-homes-20170304-1.md"
   },
   {
    "slug": "terrorism-and-religious-freedom-20170114-1",
