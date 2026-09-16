@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-16T17:35:39.624478+00:00",
+ "generated_at": "2026-09-16T17:37:03.630374+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5630,
+ "count": 5631,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -39699,6 +39699,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/ms/youth/what-will-the-waste-do-20170114-5.html",
    "md_url": "/ms/youth/what-will-the-waste-do-20170114-5.md"
+  },
+  {
+   "slug": "allegations-of-deviation-and-responses-20170401-8",
+   "lang": "ne",
+   "category": "aqeedah",
+   "title": "विचलनका आरोप र तिनको प्रतिवाद",
+   "summary": "केरलको मुस्लिम पुनर्जागरण इतिहासको एक चरणको विवरण। यसले संगठनभित्रका वैचारिक मतभेद र तिनलाई समाधान गर्न गरिएका छलफलहरूलाई लिपिबद्ध गर्दछ।",
+   "author": "മുബാറക് ബിൻ ഉമർ",
+   "issue_date": "2017-04-01",
+   "html_url": "/ne/aqeedah/allegations-of-deviation-and-responses-20170401-8.html",
+   "md_url": "/ne/aqeedah/allegations-of-deviation-and-responses-20170401-8.md"
   },
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
