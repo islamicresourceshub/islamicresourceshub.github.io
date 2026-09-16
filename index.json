@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-16T05:10:28.092929+00:00",
+ "generated_at": "2026-09-16T05:11:23.891534+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5274,
+ "count": 5275,
  "articles": [
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
@@ -16940,6 +16940,17 @@
    "issue_date": "2017-02-04",
    "html_url": "/ja/family/children-an-islamic-reading-part-4-20170204-5.html",
    "md_url": "/ja/family/children-an-islamic-reading-part-4-20170204-5.md"
+  },
+  {
+   "slug": "conduct-towards-one-s-spouse-20170304-2",
+   "lang": "ja",
+   "category": "family",
+   "title": "配偶者への接し方",
+   "summary": "「妻に対して最も優しく接する者こそ、信者の中で最も優れた者である」という預言者の教えに基づき、円満な家庭生活を送るための礼儀と心構えについて解説します。",
+   "author": "അബൂ റാഷിദ",
+   "issue_date": "2017-03-04",
+   "html_url": "/ja/family/conduct-towards-one-s-spouse-20170304-2.html",
+   "md_url": "/ja/family/conduct-towards-one-s-spouse-20170304-2.md"
   },
   {
    "slug": "do-not-invite-water-scarcity-20170225-4",
