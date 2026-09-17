@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-17T05:20:45.771477+00:00",
+ "generated_at": "2026-09-17T05:21:53.537574+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5705,
+ "count": 5706,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -21923,6 +21923,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/ko/seerah/prophets-and-trials-20170325-7.html",
    "md_url": "/ko/seerah/prophets-and-trials-20170325-7.md"
+  },
+  {
+   "slug": "prophets-are-humans-20170401-10",
+   "lang": "ko",
+   "category": "seerah",
+   "title": "선지자들은 인간입니다",
+   "summary": "이 글은 선지자들에 대한 과도한 숭배와 잘못된 선전을 반박합니다. 선지자들은 인간 중 가장 고귀한 존재이지만, 신적인 속성을 가진 것이 아니라 인간으로서의 본성을 지녔음을 명확히 밝힙니다.",
+   "author": "ഹുസൈൻ സലഫി, ഷാർജ",
+   "issue_date": "2017-04-01",
+   "html_url": "/ko/seerah/prophets-are-humans-20170401-10.html",
+   "md_url": "/ko/seerah/prophets-are-humans-20170401-10.md"
   },
   {
    "slug": "abdullah-s-mistake-20170204-1",
