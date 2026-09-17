@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-17T11:31:19.906738+00:00",
+ "generated_at": "2026-09-17T11:32:27.824987+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5968,
+ "count": 5969,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -10362,6 +10362,17 @@
    "issue_date": "2017-02-25",
    "html_url": "/es/seerah/prophet-muhammad-pbuh-life-and-message-20170225-8.html",
    "md_url": "/es/seerah/prophet-muhammad-pbuh-life-and-message-20170225-8.md"
+  },
+  {
+   "slug": "prophet-musa-a-s-20180428-4",
+   "lang": "es",
+   "category": "seerah",
+   "title": "Musa (la paz sea con él)",
+   "summary": "Un artículo que detalla la historia de vida y el camino de predicación del Profeta Musa, quien es mencionado con mayor frecuencia en el Sagrado Corán.",
+   "author": "ഹുസൈന്‍ സലഫി, ഷാര്‍ജ",
+   "issue_date": "2018-04-28",
+   "html_url": "/es/seerah/prophet-musa-a-s-20180428-4.html",
+   "md_url": "/es/seerah/prophet-musa-a-s-20180428-4.md"
   },
   {
    "slug": "prophets-and-trials-20170325-7",
