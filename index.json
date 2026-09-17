@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-17T11:44:51.036101+00:00",
+ "generated_at": "2026-09-17T11:45:52.795443+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5980,
+ "count": 5981,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -41470,6 +41470,17 @@
    "issue_date": "2017-02-25",
    "html_url": "/ms/seerah/prophet-muhammad-pbuh-life-and-message-20170225-8.html",
    "md_url": "/ms/seerah/prophet-muhammad-pbuh-life-and-message-20170225-8.md"
+  },
+  {
+   "slug": "prophet-musa-a-s-20180428-4",
+   "lang": "ms",
+   "category": "seerah",
+   "title": "Nabi Musa (AS)",
+   "summary": "Artikel ini mengisahkan riwayat hidup Nabi Musa (AS), salah seorang nabi yang paling banyak disebut dalam al-Quran, serta menelusuri perjalanan dakwah dan ujian yang beliau tempuhi.",
+   "author": "ഹുസൈന്‍ സലഫി, ഷാര്‍ജ",
+   "issue_date": "2018-04-28",
+   "html_url": "/ms/seerah/prophet-musa-a-s-20180428-4.html",
+   "md_url": "/ms/seerah/prophet-musa-a-s-20180428-4.md"
   },
   {
    "slug": "prophets-and-trials-20170325-7",
