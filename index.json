@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-17T05:48:07.416573+00:00",
+ "generated_at": "2026-09-17T05:49:02.069973+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5731,
+ "count": 5732,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -5456,6 +5456,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/bs/dawah/what-do-we-have-for-ourselves-20170218-10.html",
    "md_url": "/bs/dawah/what-do-we-have-for-ourselves-20170218-10.md"
+  },
+  {
+   "slug": "better-safe-than-sorry-20170401-11",
+   "lang": "bs",
+   "category": "family",
+   "title": "Prevencija je bolja od kajanja",
+   "summary": "Tekst istražuje uzroke skretanja djece s pravog puta i naglašava odgovornost roditelja. Poseban fokus je stavljen na važnost dobrog društva i islamskog odgoja u očuvanju moralnih vrijednosti.",
+   "author": "അഷ്റഫ് എകരൂൽ",
+   "issue_date": "2017-04-01",
+   "html_url": "/bs/family/better-safe-than-sorry-20170401-11.html",
+   "md_url": "/bs/family/better-safe-than-sorry-20170401-11.md"
   },
   {
    "slug": "children-an-islamic-reading-part-4-20170204-5",
