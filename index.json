@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-17T05:05:49.416545+00:00",
+ "generated_at": "2026-09-17T05:06:48.820666+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5691,
+ "count": 5692,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -4895,6 +4895,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/bn/seerah/prophets-and-trials-20170325-7.html",
    "md_url": "/bn/seerah/prophets-and-trials-20170325-7.md"
+  },
+  {
+   "slug": "prophets-are-humans-20170401-10",
+   "lang": "bn",
+   "category": "seerah",
+   "title": "নবীগণ মানুষ",
+   "summary": "এই নিবন্ধটি নবীগণের মর্যাদা সম্পর্কে প্রচলিত অতিরঞ্জিত বিশ্বাস ও ভুল ধারণাগুলো খণ্ডন করে। লেখক কুরআন ও সুন্নাহর আলোকে প্রমাণ করেন যে, নবীগণ মানুষ হওয়া সত্ত্বেও আল্লাহর মনোনীত শ্রেষ্ঠ সৃষ্টি, তবে তাঁদেরকে অতিমানবীয় বা ঐশ্বরিক গুণাবলি দিয়ে বিশেষায়িত করা ইসলামসম্মত নয়।",
+   "author": "ഹുസൈൻ സലഫി, ഷാർജ",
+   "issue_date": "2017-04-01",
+   "html_url": "/bn/seerah/prophets-are-humans-20170401-10.html",
+   "md_url": "/bn/seerah/prophets-are-humans-20170401-10.md"
   },
   {
    "slug": "abdullah-s-mistake-20170204-1",
