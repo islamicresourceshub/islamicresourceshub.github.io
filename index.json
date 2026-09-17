@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-17T12:04:54.803056+00:00",
+ "generated_at": "2026-09-17T12:06:09.960257+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5994,
+ "count": 5995,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -59521,6 +59521,17 @@
    "issue_date": "2017-02-25",
    "html_url": "/tl/seerah/prophet-muhammad-pbuh-life-and-message-20170225-8.html",
    "md_url": "/tl/seerah/prophet-muhammad-pbuh-life-and-message-20170225-8.md"
+  },
+  {
+   "slug": "prophet-musa-a-s-20180428-4",
+   "lang": "tl",
+   "category": "seerah",
+   "title": "Si Propeta Musa (AS)",
+   "summary": "Isang artikulo na nagdedetalye ng kasaysayan ng buhay ni Propeta Musa (AS), na pinakamaraming binanggit sa Qur'an, at ang kanyang mga pamamaraan ng pangangaral.",
+   "author": "ഹുസൈന്‍ സലഫി, ഷാര്‍ജ",
+   "issue_date": "2018-04-28",
+   "html_url": "/tl/seerah/prophet-musa-a-s-20180428-4.html",
+   "md_url": "/tl/seerah/prophet-musa-a-s-20180428-4.md"
   },
   {
    "slug": "prophets-and-trials-20170325-7",
