@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-17T08:25:25.948465+00:00",
+ "generated_at": "2026-09-17T08:26:19.970513+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5849,
+ "count": 5850,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -7194,6 +7194,17 @@
    "issue_date": "2017-04-01",
    "html_url": "/de/history/the-verdict-of-babri-20170401-4.html",
    "md_url": "/de/history/the-verdict-of-babri-20170401-4.md"
+  },
+  {
+   "slug": "alas-asifa-20180428-1",
+   "lang": "de",
+   "category": "opinion",
+   "title": "Asafan ya Asifa...!",
+   "summary": "Ein Artikel, der die tragische Ermordung des kleinen Mädchens Asifa nach einer grausamen Vergewaltigung in Kathua thematisiert und Gedanken zur Sicherheit von Frauen in der Gesellschaft teilt.",
+   "author": "ഉസ്മാന്‍ പാലക്കാഴി",
+   "issue_date": "2018-04-28",
+   "html_url": "/de/opinion/alas-asifa-20180428-1.html",
+   "md_url": "/de/opinion/alas-asifa-20180428-1.md"
   },
   {
    "slug": "alcohol-abstinence-or-prohibition-20170225-7",
