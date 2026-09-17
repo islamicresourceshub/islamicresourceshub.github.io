@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-17T05:50:43.326682+00:00",
+ "generated_at": "2026-09-17T05:51:40.222074+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5734,
+ "count": 5735,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -9141,6 +9141,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/es/dawah/what-do-we-have-for-ourselves-20170218-10.html",
    "md_url": "/es/dawah/what-do-we-have-for-ourselves-20170218-10.md"
+  },
+  {
+   "slug": "better-safe-than-sorry-20170401-11",
+   "lang": "es",
+   "category": "family",
+   "title": "Más vale prevenir que lamentar",
+   "summary": "Este artículo analiza las causas por las que los hijos se desvían del buen camino y ofrece pautas para los padres. Se enfatiza la importancia de una educación islámica equilibrada, la supervisión de las amistades y la necesidad de un trato amable y comprensivo en el hogar.",
+   "author": "അഷ്റഫ് എകരൂൽ",
+   "issue_date": "2017-04-01",
+   "html_url": "/es/family/better-safe-than-sorry-20170401-11.html",
+   "md_url": "/es/family/better-safe-than-sorry-20170401-11.md"
   },
   {
    "slug": "children-an-islamic-reading-part-4-20170204-5",
