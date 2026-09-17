@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-17T08:08:53.520566+00:00",
+ "generated_at": "2026-09-17T08:09:46.060247+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5831,
+ "count": 5832,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -49225,6 +49225,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/si/opinion/uapa-wielding-sedition-law-20170114-9.html",
    "md_url": "/si/opinion/uapa-wielding-sedition-law-20170114-9.md"
+  },
+  {
+   "slug": "unanswered-north-kerala-20170401-13",
+   "lang": "si",
+   "category": "opinion",
+   "title": "පිළිතුරක් නොලැබෙන උතුරු කේරළය",
+   "summary": "උතුරු කේරළයේ වර්ධනය වන වාර්ගික ඝාතන සහ ෆැසිස්ට් ප්‍රවණතා පිළිබඳව මෙම ලිපිය විවේචනාත්මකව විශ්ලේෂණය කරයි. පාලනාධිකාරියේ නොසැලකිලිමත්කම සහ වගකීම් විරහිතභාවය පිළිබඳව මෙහිදී ප්‍රශ්න කෙරේ.",
+   "author": "ഡോ. സി.എം സാബിർ നവാസ്",
+   "issue_date": "2017-04-01",
+   "html_url": "/si/opinion/unanswered-north-kerala-20170401-13.html",
+   "md_url": "/si/opinion/unanswered-north-kerala-20170401-13.md"
   },
   {
    "slug": "warning-signs-from-the-reconstruction-of-history-20170114-2",
