@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-17T05:10:39.171842+00:00",
+ "generated_at": "2026-09-17T05:11:40.817594+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5696,
+ "count": 5697,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -10978,6 +10978,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/fa/seerah/prophets-and-trials-20170325-7.html",
    "md_url": "/fa/seerah/prophets-and-trials-20170325-7.md"
+  },
+  {
+   "slug": "prophets-are-humans-20170401-10",
+   "lang": "fa",
+   "category": "seerah",
+   "title": "پیامبران انسان هستند",
+   "summary": "این مقاله باورهای افراطی و ادعاهای نادرست درباره پیامبران را رد می‌کند. نویسنده با استناد به متون دینی تبیین می‌کند که پیامبران اگرچه برگزیده‌ترین انسان‌ها هستند، اما ماهیت بشری دارند و نباید برای آن‌ها صفات الهی قائل شد.",
+   "author": "ഹുസൈൻ സലഫി, ഷാർജ",
+   "issue_date": "2017-04-01",
+   "html_url": "/fa/seerah/prophets-are-humans-20170401-10.html",
+   "md_url": "/fa/seerah/prophets-are-humans-20170401-10.md"
   },
   {
    "slug": "abdullah-s-mistake-20170204-1",
