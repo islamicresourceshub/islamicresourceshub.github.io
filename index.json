@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-17T06:30:56.481906+00:00",
+ "generated_at": "2026-09-17T06:31:52.357310+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5775,
+ "count": 5776,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -11484,6 +11484,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/fr/dawah/do-not-waver-in-trials-20170121-9.html",
    "md_url": "/fr/dawah/do-not-waver-in-trials-20170121-9.md"
+  },
+  {
+   "slug": "getting-closer-to-the-creator-20170401-12",
+   "lang": "fr",
+   "category": "dawah",
+   "title": "Se rapprocher du Créateur",
+   "summary": "Cet article explore les voies islamiques pour se rapprocher d'Allah, en rejetant les pratiques ascétiques extrêmes au profit des enseignements authentiques du Coran et de la Sunna. Il souligne que la proximité divine s'obtient par l'accomplissement des obligations religieuses et une conduite vertueuse au quotidien.",
+   "author": "അബൂ മുഫിദ്",
+   "issue_date": "2017-04-01",
+   "html_url": "/fr/dawah/getting-closer-to-the-creator-20170401-12.html",
+   "md_url": "/fr/dawah/getting-closer-to-the-creator-20170401-12.md"
   },
   {
    "slug": "jallikattu-and-the-islamic-approach-to-animals-20170128-4",
