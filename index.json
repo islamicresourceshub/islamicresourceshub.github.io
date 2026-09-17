@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-17T12:06:09.960257+00:00",
+ "generated_at": "2026-09-17T12:07:20.415120+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5995,
+ "count": 5996,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -60819,6 +60819,17 @@
    "issue_date": "2017-02-25",
    "html_url": "/tr/seerah/prophet-muhammad-pbuh-life-and-message-20170225-8.html",
    "md_url": "/tr/seerah/prophet-muhammad-pbuh-life-and-message-20170225-8.md"
+  },
+  {
+   "slug": "prophet-musa-a-s-20180428-4",
+   "lang": "tr",
+   "category": "seerah",
+   "title": "Hz. Musa (a.s.)",
+   "summary": "Kur'an-ı Kerim'de en çok zikredilen peygamberlerden biri olan Hz. Musa'nın (a.s.) hayatını, mücadelesini ve tebliğ yolculuğunu konu alan bir yazı.",
+   "author": "ഹുസൈന്‍ സലഫി, ഷാര്‍ജ",
+   "issue_date": "2018-04-28",
+   "html_url": "/tr/seerah/prophet-musa-a-s-20180428-4.html",
+   "md_url": "/tr/seerah/prophet-musa-a-s-20180428-4.md"
   },
   {
    "slug": "prophets-and-trials-20170325-7",
