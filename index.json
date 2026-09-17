@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-17T03:28:04.033131+00:00",
+ "generated_at": "2026-09-17T03:29:00.221382+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5645,
+ "count": 5646,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -57563,6 +57563,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/tr/youth/what-will-the-waste-do-20170114-5.html",
    "md_url": "/tr/youth/what-will-the-waste-do-20170114-5.md"
+  },
+  {
+   "slug": "allegations-of-deviation-and-responses-20170401-8",
+   "lang": "ur",
+   "category": "aqeedah",
+   "title": "انحراف کے الزامات اور ان کا جواب",
+   "summary": "یہ تحریر کیرالہ میں مسلم نشاۃ ثانیہ کی تاریخ کے ایک اہم موڑ کی عکاسی کرتی ہے۔ اس میں تنظیم کے اندر پیدا ہونے والے نظریاتی اختلافات اور ان کو حل کرنے کے لیے کی گئی بات چیت اور فیصلوں کی تفصیلات درج ہیں۔",
+   "author": "മുബാറക് ബിൻ ഉമർ",
+   "issue_date": "2017-04-01",
+   "html_url": "/ur/aqeedah/allegations-of-deviation-and-responses-20170401-8.html",
+   "md_url": "/ur/aqeedah/allegations-of-deviation-and-responses-20170401-8.md"
   },
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
