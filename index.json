@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-17T05:02:34.012727+00:00",
+ "generated_at": "2026-09-17T05:03:44.363916+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5688,
+ "count": 5689,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -1254,6 +1254,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/am/seerah/prophets-and-trials-20170325-7.html",
    "md_url": "/am/seerah/prophets-and-trials-20170325-7.md"
+  },
+  {
+   "slug": "prophets-are-humans-20170401-10",
+   "lang": "am",
+   "category": "seerah",
+   "title": "ነቢያት የሰው ልጆች ናቸው",
+   "summary": "ይህ ጽሑፍ ስለ ነቢያት የሚነገሩ የተጋነኑ እምነቶችን እና የተሳሳቱ ፕሮፓጋንዳዎችን ይቃወማል። ነቢያት የሰው ልጆች እንደሆኑ፣ ነገር ግን በክብር ከፍ ያለ ደረጃ ያላቸው መሆናቸውን በግልጽ ያስረዳል።",
+   "author": "ഹുസൈൻ സലഫി, ഷാർജ",
+   "issue_date": "2017-04-01",
+   "html_url": "/am/seerah/prophets-are-humans-20170401-10.html",
+   "md_url": "/am/seerah/prophets-are-humans-20170401-10.md"
   },
   {
    "slug": "abdullah-s-mistake-20170204-1",
