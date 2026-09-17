@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-17T12:08:31.967171+00:00",
+ "generated_at": "2026-09-17T12:09:34.548504+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5997,
+ "count": 5998,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -63415,6 +63415,17 @@
    "issue_date": "2017-02-25",
    "html_url": "/uz/seerah/prophet-muhammad-pbuh-life-and-message-20170225-8.html",
    "md_url": "/uz/seerah/prophet-muhammad-pbuh-life-and-message-20170225-8.md"
+  },
+  {
+   "slug": "prophet-musa-a-s-20180428-4",
+   "lang": "uz",
+   "category": "seerah",
+   "title": "Muso (alayhissalom)",
+   "summary": "Ushbu maqola Qur'onda eng ko'p zikr qilingan payg'ambarlardan biri bo'lgan Muso (alayhissalom)ning hayot yo'li va da'vatlari haqida hikoya qiladi.",
+   "author": "ഹുസൈന്‍ സലഫി, ഷാര്‍ജ",
+   "issue_date": "2018-04-28",
+   "html_url": "/uz/seerah/prophet-musa-a-s-20180428-4.html",
+   "md_url": "/uz/seerah/prophet-musa-a-s-20180428-4.md"
   },
   {
    "slug": "prophets-and-trials-20170325-7",
