@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-17T05:43:18.339719+00:00",
+ "generated_at": "2026-09-17T05:44:20.730983+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5726,
+ "count": 5727,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -63030,6 +63030,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/zh/seerah/prophets-and-trials-20170325-7.html",
    "md_url": "/zh/seerah/prophets-and-trials-20170325-7.md"
+  },
+  {
+   "slug": "prophets-are-humans-20170401-10",
+   "lang": "zh",
+   "category": "seerah",
+   "title": "先知们是凡人",
+   "summary": "本文驳斥了关于先知们的过度崇拜和错误宣传。文章明确指出，先知们虽然是人类中最卓越的，但他们本质上依然是凡人，不应被赋予神性或超自然的属性。",
+   "author": "ഹുസൈൻ സലഫി, ഷാർജ",
+   "issue_date": "2017-04-01",
+   "html_url": "/zh/seerah/prophets-are-humans-20170401-10.html",
+   "md_url": "/zh/seerah/prophets-are-humans-20170401-10.md"
   },
   {
    "slug": "abdullah-s-mistake-20170204-1",
