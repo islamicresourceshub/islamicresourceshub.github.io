@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-17T11:12:47.073970+00:00",
+ "generated_at": "2026-09-17T11:14:06.922373+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5957,
+ "count": 5958,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -61655,6 +61655,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/ur/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.html",
    "md_url": "/ur/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.md"
+  },
+  {
+   "slug": "surah-al-adiyat-the-chargers-20180428-3",
+   "lang": "ur",
+   "category": "quran",
+   "title": "سورۃ العادیات (دوڑنے والے گھوڑے)",
+   "summary": "یہ مضمون قرآن مجید کی سویں سورت، سورۃ العادیات کی آسان تشریح اور اس سے حاصل ہونے والے اسباق پر مشتمل ہے۔",
+   "author": "അബ്ദുറഹ്മാന്‍ നാസിര്‍ അസ്സഅദി",
+   "issue_date": "2018-04-28",
+   "html_url": "/ur/quran/surah-al-adiyat-the-chargers-20180428-3.html",
+   "md_url": "/ur/quran/surah-al-adiyat-the-chargers-20180428-3.md"
   },
   {
    "slug": "surah-ash-shu-ara-the-poets-20260822-7",
