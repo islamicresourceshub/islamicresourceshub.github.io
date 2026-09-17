@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-17T09:04:08.158962+00:00",
+ "generated_at": "2026-09-17T09:05:13.341880+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5889,
+ "count": 5890,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -8382,6 +8382,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/en/family/thoughts-during-pregnancy-20170218-4.html",
    "md_url": "/en/family/thoughts-during-pregnancy-20170218-4.md"
+  },
+  {
+   "slug": "vacation-and-family-visits-20180428-2",
+   "lang": "en",
+   "category": "family",
+   "title": "Vacation Time and Family Visits",
+   "summary": "An article discussing the importance of visiting relatives during vacation time and the positive influence it has on children.",
+   "author": "അബൂഫായിദ",
+   "issue_date": "2018-04-28",
+   "html_url": "/en/family/vacation-and-family-visits-20180428-2.html",
+   "md_url": "/en/family/vacation-and-family-visits-20180428-2.md"
   },
   {
    "slug": "water-and-life-20170225-5",
