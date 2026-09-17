@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-17T08:03:47.827424+00:00",
+ "generated_at": "2026-09-17T08:05:17.877200+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5826,
+ "count": 5827,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -42966,6 +42966,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/or/opinion/uapa-wielding-sedition-law-20170114-9.html",
    "md_url": "/or/opinion/uapa-wielding-sedition-law-20170114-9.md"
+  },
+  {
+   "slug": "unanswered-north-kerala-20170401-13",
+   "lang": "or",
+   "category": "opinion",
+   "title": "ଅନୁତ୍ତରିତ ଉତ୍ତର କେରଳ",
+   "summary": "ଉତ୍ତର କେରଳରେ ବୃଦ୍ଧି ପାଉଥିବା ସାମ୍ପ୍ରଦାୟିକ ହତ୍ୟାକାଣ୍ଡ ଏବଂ ଫାସିବାଦୀ ପ୍ରବୃତ୍ତିଗୁଡ଼ିକୁ ଏହି ବ୍ଲଗ୍ ପୋଷ୍ଟରେ ସମାଲୋଚନାତ୍ମକ ଭାବରେ ବିଶ୍ଳେଷଣ କରାଯାଇଛି। ଏହା ଶାସନର ସତର୍କତାର ଅଭାବକୁ ମଧ୍ୟ ପ୍ରଶ୍ନ କରେ।",
+   "author": "ഡോ. സി.എം സാബിർ നവാസ്",
+   "issue_date": "2017-04-01",
+   "html_url": "/or/opinion/unanswered-north-kerala-20170401-13.html",
+   "md_url": "/or/opinion/unanswered-north-kerala-20170401-13.md"
   },
   {
    "slug": "warning-signs-from-the-reconstruction-of-history-20170114-2",
