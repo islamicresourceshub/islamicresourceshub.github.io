@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-17T04:38:56.481528+00:00",
+ "generated_at": "2026-09-17T04:40:14.669588+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5667,
+ "count": 5668,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -37620,6 +37620,17 @@
    "issue_date": "2026-08-22",
    "html_url": "/mr/aqeedah/who-is-wrong-in-ideology-20260822-2.html",
    "md_url": "/mr/aqeedah/who-is-wrong-in-ideology-20260822-2.md"
+  },
+  {
+   "slug": "dawah-obligation-and-execution-20170401-9",
+   "lang": "mr",
+   "category": "dawah",
+   "title": "प्रबोधन: दायित्व आणि अंमलबजावणी",
+   "summary": "इस्लामी प्रबोधनाचे महत्त्व आणि ते पार पाडण्याची पद्धत कुरआनच्या आयतींच्या आधारे या लेखात स्पष्ट केली आहे.",
+   "author": "സജ്ജാദ് ബിൻ അബ്ദുറസാഖ്",
+   "issue_date": "2017-04-01",
+   "html_url": "/mr/dawah/dawah-obligation-and-execution-20170401-9.html",
+   "md_url": "/mr/dawah/dawah-obligation-and-execution-20170401-9.md"
   },
   {
    "slug": "do-not-be-slaves-to-desires-20170211-11",
