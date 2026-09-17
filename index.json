@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-17T06:17:17.627111+00:00",
+ "generated_at": "2026-09-17T06:18:14.149948+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5761,
+ "count": 5762,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -57816,6 +57816,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/tr/dawah/what-do-we-have-for-ourselves-20170218-10.html",
    "md_url": "/tr/dawah/what-do-we-have-for-ourselves-20170218-10.md"
+  },
+  {
+   "slug": "better-safe-than-sorry-20170401-11",
+   "lang": "tr",
+   "category": "family",
+   "title": "Tedbirli Olursanız Üzülmezsiniz",
+   "summary": "Çocukların yoldan çıkma nedenlerini ve ebeveynlerin dikkat etmesi gereken hususları ele alıyoruz. İyi arkadaş çevresinin ve İslami eğitimin önemi üzerinde durulmaktadır.",
+   "author": "അഷ്റഫ് എകരൂൽ",
+   "issue_date": "2017-04-01",
+   "html_url": "/tr/family/better-safe-than-sorry-20170401-11.html",
+   "md_url": "/tr/family/better-safe-than-sorry-20170401-11.md"
   },
   {
    "slug": "children-an-islamic-reading-part-4-20170204-5",
