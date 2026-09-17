@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-17T03:30:56.907647+00:00",
+ "generated_at": "2026-09-17T03:31:53.635694+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5648,
+ "count": 5649,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -61160,6 +61160,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/vi/youth/what-will-the-waste-do-20170114-5.html",
    "md_url": "/vi/youth/what-will-the-waste-do-20170114-5.md"
+  },
+  {
+   "slug": "allegations-of-deviation-and-responses-20170401-8",
+   "lang": "zh",
+   "category": "aqeedah",
+   "title": "关于偏离指控及其回应",
+   "summary": "本文记录了喀拉拉邦穆斯林复兴运动历史中的一个关键阶段，详细描述了组织内部出现的思想分歧，以及为解决这些分歧所进行的讨论与最终决议。",
+   "author": "മുബാറക് ബിൻ ഉമർ",
+   "issue_date": "2017-04-01",
+   "html_url": "/zh/aqeedah/allegations-of-deviation-and-responses-20170401-8.html",
+   "md_url": "/zh/aqeedah/allegations-of-deviation-and-responses-20170401-8.md"
   },
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
