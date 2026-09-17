@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-17T11:02:13.748595+00:00",
+ "generated_at": "2026-09-17T11:03:30.500724+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5952,
+ "count": 5953,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -55231,6 +55231,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/ta/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.html",
    "md_url": "/ta/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.md"
+  },
+  {
+   "slug": "surah-al-adiyat-the-chargers-20180428-3",
+   "lang": "ta",
+   "category": "quran",
+   "title": "அல் ஆதியாத் - பாய்ந்து செல்பவை",
+   "summary": "திருக்குர்ஆனின் நூறாவது அத்தியாயமான சூரா அல் ஆதியாத்தின் எளிய விளக்கம் மற்றும் பாடங்களை உள்ளடக்கிய கட்டுரை.",
+   "author": "അബ്ദുറഹ്മാന്‍ നാസിര്‍ അസ്സഅദി",
+   "issue_date": "2018-04-28",
+   "html_url": "/ta/quran/surah-al-adiyat-the-chargers-20180428-3.html",
+   "md_url": "/ta/quran/surah-al-adiyat-the-chargers-20180428-3.md"
   },
   {
    "slug": "surah-ash-shu-ara-the-poets-20260822-7",
