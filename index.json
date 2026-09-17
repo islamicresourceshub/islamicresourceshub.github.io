@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-17T05:57:12.528715+00:00",
+ "generated_at": "2026-09-17T05:58:09.273989+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5741,
+ "count": 5742,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -17721,6 +17721,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/it/dawah/what-do-we-have-for-ourselves-20170218-10.html",
    "md_url": "/it/dawah/what-do-we-have-for-ourselves-20170218-10.md"
+  },
+  {
+   "slug": "better-safe-than-sorry-20170401-11",
+   "lang": "it",
+   "category": "family",
+   "title": "Prevenire è meglio che curare",
+   "summary": "L'articolo analizza le cause che portano i figli a smarrire la retta via e le responsabilità dei genitori. Viene sottolineata l'importanza di un comportamento amorevole in famiglia, di attività costruttive per il tempo libero e di una selezione attenta delle amicizie, il tutto guidato dai principi educativi islamici.",
+   "author": "അഷ്റഫ് എകരൂൽ",
+   "issue_date": "2017-04-01",
+   "html_url": "/it/family/better-safe-than-sorry-20170401-11.html",
+   "md_url": "/it/family/better-safe-than-sorry-20170401-11.md"
   },
   {
    "slug": "children-an-islamic-reading-part-4-20170204-5",
