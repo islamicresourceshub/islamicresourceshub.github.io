@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-17T05:46:11.624405+00:00",
+ "generated_at": "2026-09-17T05:47:10.652452+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5729,
+ "count": 5730,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -3003,6 +3003,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/as/dawah/what-do-we-have-for-ourselves-20170218-10.html",
    "md_url": "/as/dawah/what-do-we-have-for-ourselves-20170218-10.md"
+  },
+  {
+   "slug": "better-safe-than-sorry-20170401-11",
+   "lang": "as",
+   "category": "family",
+   "title": "সতর্ক হ’লে দুখ কৰিব নালাগে",
+   "summary": "সন্তান বিপথে যোৱাৰ কাৰণসমূহ আৰু অভিভাৱকসকলে গুৰুত্ব দিবলগীয়া দিশসমূহ ইয়াত বৰ্ণনা কৰা হৈছে। লগতে সু-সংগত আৰু ইছলামিক শিক্ষাৰ গুৰুত্বৰ ওপৰত আলোকপাত কৰা হৈছে।",
+   "author": "അഷ്റഫ് എകരൂൽ",
+   "issue_date": "2017-04-01",
+   "html_url": "/as/family/better-safe-than-sorry-20170401-11.html",
+   "md_url": "/as/family/better-safe-than-sorry-20170401-11.md"
   },
   {
    "slug": "children-an-islamic-reading-part-4-20170204-5",
