@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-17T06:04:53.731749+00:00",
+ "generated_at": "2026-09-17T06:05:50.513701+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5749,
+ "count": 5750,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -43142,6 +43142,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/pa/dawah/what-do-we-have-for-ourselves-20170218-10.html",
    "md_url": "/pa/dawah/what-do-we-have-for-ourselves-20170218-10.md"
+  },
+  {
+   "slug": "better-safe-than-sorry-20170401-11",
+   "lang": "pa",
+   "category": "family",
+   "title": "ਸਾਵਧਾਨ ਰਹੋ ਤਾਂ ਜੋ ਪਛਤਾਉਣਾ ਨਾ ਪਵੇ",
+   "summary": "ਇਸ ਲੇਖ ਵਿੱਚ ਬੱਚਿਆਂ ਦੇ ਗਲਤ ਰਾਹ ਪੈਣ ਦੇ ਕਾਰਨਾਂ ਅਤੇ ਮਾਪਿਆਂ ਲਈ ਜ਼ਰੂਰੀ ਸਾਵਧਾਨੀਆਂ ਬਾਰੇ ਦੱਸਿਆ ਗਿਆ ਹੈ। ਚੰਗੀ ਸੰਗਤ ਅਤੇ ਇਸਲਾਮੀ ਸਿੱਖਿਆ ਦੇ ਮਹੱਤਵ 'ਤੇ ਵਿਸ਼ੇਸ਼ ਜ਼ੋਰ ਦਿੱਤਾ ਗਿਆ ਹੈ।",
+   "author": "അഷ്റഫ് എകരൂൽ",
+   "issue_date": "2017-04-01",
+   "html_url": "/pa/family/better-safe-than-sorry-20170401-11.html",
+   "md_url": "/pa/family/better-safe-than-sorry-20170401-11.md"
   },
   {
    "slug": "children-an-islamic-reading-part-4-20170204-5",
