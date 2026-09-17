@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-17T06:25:06.423757+00:00",
+ "generated_at": "2026-09-17T06:26:04.583304+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5769,
+ "count": 5770,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -4048,6 +4048,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/bn/dawah/do-not-waver-in-trials-20170121-9.html",
    "md_url": "/bn/dawah/do-not-waver-in-trials-20170121-9.md"
+  },
+  {
+   "slug": "getting-closer-to-the-creator-20170401-12",
+   "lang": "bn",
+   "category": "dawah",
+   "title": "স্রষ্টার সান্নিধ্য লাভ",
+   "summary": "এই নিবন্ধটি আল্লাহর নৈকট্য লাভের ইসলামি পথগুলো নিয়ে আলোচনা করে। এটি ভুল সন্ন্যাসী প্রথাগুলোকে প্রত্যাখ্যান করে কুরআন ও সুন্নাহর আলোকে জীবন গড়ার পরামর্শ দেয়।",
+   "author": "അബൂ മുഫിദ്",
+   "issue_date": "2017-04-01",
+   "html_url": "/bn/dawah/getting-closer-to-the-creator-20170401-12.html",
+   "md_url": "/bn/dawah/getting-closer-to-the-creator-20170401-12.md"
   },
   {
    "slug": "jallikattu-and-the-islamic-approach-to-animals-20170128-4",
