@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-17T10:55:44.829695+00:00",
+ "generated_at": "2026-09-17T10:57:05.214589+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5948,
+ "count": 5949,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -50171,6 +50171,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/si/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.html",
    "md_url": "/si/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.md"
+  },
+  {
+   "slug": "surah-al-adiyat-the-chargers-20180428-3",
+   "lang": "si",
+   "category": "quran",
+   "title": "අල් ආදියාත් - වේගයෙන් දිවෙන්නන්",
+   "summary": "ශුද්ධ වූ අල් කුර්ආනයේ සියවන පරිච්ඡේදය වන සූරතුල් ආදියාත් හි සරල පැහැදිලි කිරීම සහ අධ්‍යයනය අඩංගු ලිපියකි.",
+   "author": "അബ്ദുറഹ്മാന്‍ നാസിര്‍ അസ്സഅദി",
+   "issue_date": "2018-04-28",
+   "html_url": "/si/quran/surah-al-adiyat-the-chargers-20180428-3.html",
+   "md_url": "/si/quran/surah-al-adiyat-the-chargers-20180428-3.md"
   },
   {
    "slug": "surah-ash-shu-ara-the-poets-20260822-7",
