@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-17T06:48:50.862053+00:00",
+ "generated_at": "2026-09-17T06:49:43.201284+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5794,
+ "count": 5795,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -50578,6 +50578,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/sq/dawah/do-not-waver-in-trials-20170121-9.html",
    "md_url": "/sq/dawah/do-not-waver-in-trials-20170121-9.md"
+  },
+  {
+   "slug": "getting-closer-to-the-creator-20170401-12",
+   "lang": "sq",
+   "category": "dawah",
+   "title": "Afria drejt Krijuesit",
+   "summary": "Ky shkrim shpjegon rrugët islame për t'u afruar me Allahun. Ai hedh poshtë praktikat e gabuara asketike dhe këshillon ndjekjen e rrugës së Kuranit dhe traditës profetike.",
+   "author": "അബൂ മുഫിദ്",
+   "issue_date": "2017-04-01",
+   "html_url": "/sq/dawah/getting-closer-to-the-creator-20170401-12.html",
+   "md_url": "/sq/dawah/getting-closer-to-the-creator-20170401-12.md"
   },
   {
    "slug": "jallikattu-and-the-islamic-approach-to-animals-20170128-4",
