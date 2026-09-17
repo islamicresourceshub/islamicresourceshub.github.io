@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-17T11:58:33.597001+00:00",
+ "generated_at": "2026-09-17T12:02:29.771273+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5991,
+ "count": 5992,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -55638,6 +55638,17 @@
    "issue_date": "2017-02-25",
    "html_url": "/ta/seerah/prophet-muhammad-pbuh-life-and-message-20170225-8.html",
    "md_url": "/ta/seerah/prophet-muhammad-pbuh-life-and-message-20170225-8.md"
+  },
+  {
+   "slug": "prophet-musa-a-s-20180428-4",
+   "lang": "ta",
+   "category": "seerah",
+   "title": "மூஸா (அ)",
+   "summary": "குர்ஆனில் அதிகம் குறிப்பிடப்பட்டுள்ள நபி மூஸா (அ) அவர்களின் வாழ்க்கை வரலாறு மற்றும் அவரது அழைப்புப் பாதைகளை விவரிக்கும் கட்டுரை.",
+   "author": "ഹുസൈന്‍ സലഫി, ഷാര്‍ജ",
+   "issue_date": "2018-04-28",
+   "html_url": "/ta/seerah/prophet-musa-a-s-20180428-4.html",
+   "md_url": "/ta/seerah/prophet-musa-a-s-20180428-4.md"
   },
   {
    "slug": "prophets-and-trials-20170325-7",
