@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-17T10:47:16.602333+00:00",
+ "generated_at": "2026-09-17T10:48:40.108301+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5942,
+ "count": 5943,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -42471,6 +42471,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/ne/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.html",
    "md_url": "/ne/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.md"
+  },
+  {
+   "slug": "surah-al-adiyat-the-chargers-20180428-3",
+   "lang": "ne",
+   "category": "quran",
+   "title": "अल-आदियात (दौडनेवाला)",
+   "summary": "पवित्र कुरानको सयौं अध्याय, सुरह अल-आदियातको सरल व्याख्या र अध्ययन प्रस्तुत गर्ने लेख।",
+   "author": "അബ്ദുറഹ്മാന്‍ നാസിര്‍ അസ്സഅദി",
+   "issue_date": "2018-04-28",
+   "html_url": "/ne/quran/surah-al-adiyat-the-chargers-20180428-3.html",
+   "md_url": "/ne/quran/surah-al-adiyat-the-chargers-20180428-3.md"
   },
   {
    "slug": "surah-ash-shu-ara-the-poets-20260822-7",
