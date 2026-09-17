@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-17T09:42:15.959263+00:00",
+ "generated_at": "2026-09-17T09:43:40.421317+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5914,
+ "count": 5915,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -55682,6 +55682,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/te/family/thoughts-during-pregnancy-20170218-4.html",
    "md_url": "/te/family/thoughts-during-pregnancy-20170218-4.md"
+  },
+  {
+   "slug": "vacation-and-family-visits-20180428-2",
+   "lang": "te",
+   "category": "family",
+   "title": "సెలవు దినాలు మరియు కుటుంబ సందర్శనలు",
+   "summary": "సెలవు కాలంలో బంధువులను సందర్శించడం యొక్క ప్రాముఖ్యతను మరియు అది పిల్లలపై చూపే సానుకూల ప్రభావాలను ఈ వ్యాసం చర్చిస్తుంది.",
+   "author": "അബൂഫായിദ",
+   "issue_date": "2018-04-28",
+   "html_url": "/te/family/vacation-and-family-visits-20180428-2.html",
+   "md_url": "/te/family/vacation-and-family-visits-20180428-2.md"
   },
   {
    "slug": "water-and-life-20170225-5",
