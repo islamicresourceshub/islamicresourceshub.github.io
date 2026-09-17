@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-17T08:05:17.877200+00:00",
+ "generated_at": "2026-09-17T08:06:18.725528+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5827,
+ "count": 5828,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -44220,6 +44220,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/pa/opinion/uapa-wielding-sedition-law-20170114-9.html",
    "md_url": "/pa/opinion/uapa-wielding-sedition-law-20170114-9.md"
+  },
+  {
+   "slug": "unanswered-north-kerala-20170401-13",
+   "lang": "pa",
+   "category": "opinion",
+   "title": "ਉੱਤਰੀ ਕੇਰਲ: ਜਵਾਬਾਂ ਦੀ ਉਡੀਕ ਵਿੱਚ",
+   "summary": "ਇਹ ਲੇਖ ਉੱਤਰੀ ਕੇਰਲ ਵਿੱਚ ਵਧ ਰਹੀ ਫਿਰਕੂ ਹਿੰਸਾ ਅਤੇ ਫਾਸੀਵਾਦੀ ਰੁਝਾਨਾਂ ਦਾ ਆਲੋਚਨਾਤਮਕ ਵਿਸ਼ਲੇਸ਼ਣ ਕਰਦਾ ਹੈ। ਲੇਖਕ ਪ੍ਰਸ਼ਾਸਨ ਦੀ ਲਾਪਰਵਾਹੀ 'ਤੇ ਸਵਾਲ ਚੁੱਕਦਾ ਹੈ ਅਤੇ ਸਮਾਜਿਕ ਸਦਭਾਵਨਾ ਬਣਾਈ ਰੱਖਣ ਦੀ ਲੋੜ 'ਤੇ ਜ਼ੋਰ ਦਿੰਦਾ ਹੈ।",
+   "author": "ഡോ. സി.എം സാബിർ നവാസ്",
+   "issue_date": "2017-04-01",
+   "html_url": "/pa/opinion/unanswered-north-kerala-20170401-13.html",
+   "md_url": "/pa/opinion/unanswered-north-kerala-20170401-13.md"
   },
   {
    "slug": "warning-signs-from-the-reconstruction-of-history-20170114-2",
