@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-17T04:56:57.014937+00:00",
+ "generated_at": "2026-09-17T04:57:54.725395+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5682,
+ "count": 5683,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -55616,6 +55616,17 @@
    "issue_date": "2026-08-22",
    "html_url": "/tl/aqeedah/who-is-wrong-in-ideology-20260822-2.html",
    "md_url": "/tl/aqeedah/who-is-wrong-in-ideology-20260822-2.md"
+  },
+  {
+   "slug": "dawah-obligation-and-execution-20170401-9",
+   "lang": "tl",
+   "category": "dawah",
+   "title": "Pagpapalaganap: Obligasyon at Pagsasakatuparan",
+   "summary": "Ipinaliliwanag nito ang kahalagahan ng pagpapalaganap ng Islam at ang metodolohiya sa pagsasagawa nito batay sa mga talata ng Qur'an.",
+   "author": "സജ്ജാദ് ബിൻ അബ്ദുറസാഖ്",
+   "issue_date": "2017-04-01",
+   "html_url": "/tl/dawah/dawah-obligation-and-execution-20170401-9.html",
+   "md_url": "/tl/dawah/dawah-obligation-and-execution-20170401-9.md"
   },
   {
    "slug": "do-not-be-slaves-to-desires-20170211-11",
