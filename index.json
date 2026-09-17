@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-17T06:20:19.509572+00:00",
+ "generated_at": "2026-09-17T06:21:13.909316+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5764,
+ "count": 5765,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -61512,6 +61512,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/vi/dawah/what-do-we-have-for-ourselves-20170218-10.html",
    "md_url": "/vi/dawah/what-do-we-have-for-ourselves-20170218-10.md"
+  },
+  {
+   "slug": "better-safe-than-sorry-20170401-11",
+   "lang": "vi",
+   "category": "family",
+   "title": "Phòng bệnh hơn chữa bệnh",
+   "summary": "Bài viết phân tích những nguyên nhân khiến con cái đi chệch hướng và những điều cha mẹ cần lưu ý. Tác giả nhấn mạnh tầm quan trọng của việc xây dựng tình bạn tốt và giáo dục con cái theo khuôn mẫu Hồi giáo.",
+   "author": "അഷ്റഫ് എകരൂൽ",
+   "issue_date": "2017-04-01",
+   "html_url": "/vi/family/better-safe-than-sorry-20170401-11.html",
+   "md_url": "/vi/family/better-safe-than-sorry-20170401-11.md"
   },
   {
    "slug": "children-an-islamic-reading-part-4-20170204-5",
