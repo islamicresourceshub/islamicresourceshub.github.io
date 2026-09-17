@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-17T05:51:40.222074+00:00",
+ "generated_at": "2026-09-17T05:52:36.340898+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5735,
+ "count": 5736,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -10362,6 +10362,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/fa/dawah/what-do-we-have-for-ourselves-20170218-10.html",
    "md_url": "/fa/dawah/what-do-we-have-for-ourselves-20170218-10.md"
+  },
+  {
+   "slug": "better-safe-than-sorry-20170401-11",
+   "lang": "fa",
+   "category": "family",
+   "title": "پیشگیری بهتر از پشیمانی است",
+   "summary": "این مقاله به بررسی دلایل انحراف فرزندان و وظایف والدین در این زمینه می‌پردازد. همچنین بر اهمیت انتخاب دوستان شایسته و تربیت اسلامی در مسیر رشد و تعالی فرزندان تأکید می‌کند.",
+   "author": "അഷ്റഫ് എകരൂൽ",
+   "issue_date": "2017-04-01",
+   "html_url": "/fa/family/better-safe-than-sorry-20170401-11.html",
+   "md_url": "/fa/family/better-safe-than-sorry-20170401-11.md"
   },
   {
    "slug": "children-an-islamic-reading-part-4-20170204-5",
