@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-17T11:03:30.500724+00:00",
+ "generated_at": "2026-09-17T11:08:51.469467+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5953,
+ "count": 5954,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -56507,6 +56507,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/te/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.html",
    "md_url": "/te/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.md"
+  },
+  {
+   "slug": "surah-al-adiyat-the-chargers-20180428-3",
+   "lang": "te",
+   "category": "quran",
+   "title": "అల్ ఆదియాత్ - పరుగెత్తేవి",
+   "summary": "పవిత్ర ఖురాన్‌లోని వందవ అధ్యాయమైన సూరతుల్ ఆదియాత్ యొక్క సరళమైన వివరణ మరియు అధ్యయనం అందించే వ్యాసం.",
+   "author": "അബ്ദുറഹ്മാന്‍ നാസിര്‍ അസ്സഅദി",
+   "issue_date": "2018-04-28",
+   "html_url": "/te/quran/surah-al-adiyat-the-chargers-20180428-3.html",
+   "md_url": "/te/quran/surah-al-adiyat-the-chargers-20180428-3.md"
   },
   {
    "slug": "surah-ash-shu-ara-the-poets-20260822-7",
