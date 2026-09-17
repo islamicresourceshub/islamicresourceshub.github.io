@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-17T08:12:19.210981+00:00",
+ "generated_at": "2026-09-17T08:13:10.847142+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5835,
+ "count": 5836,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -54153,6 +54153,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/ta/opinion/uapa-wielding-sedition-law-20170114-9.html",
    "md_url": "/ta/opinion/uapa-wielding-sedition-law-20170114-9.md"
+  },
+  {
+   "slug": "unanswered-north-kerala-20170401-13",
+   "lang": "ta",
+   "category": "opinion",
+   "title": "பதிலளிக்கப்படாத வடகேரளம்",
+   "summary": "வடகேரளத்தில் அதிகரித்து வரும் வகுப்புவாத படுகொலைகளையும் பாசிசப் போக்குகளையும் விமர்சன ரீதியாக ஆய்வு செய்கிறது. அரசின் மெத்தனப் போக்கை இக்கட்டுரை கேள்விக்குள்ளாக்குகிறது.",
+   "author": "ഡോ. സി.എം സാബിർ നവാസ്",
+   "issue_date": "2017-04-01",
+   "html_url": "/ta/opinion/unanswered-north-kerala-20170401-13.html",
+   "md_url": "/ta/opinion/unanswered-north-kerala-20170401-13.md"
   },
   {
    "slug": "warning-signs-from-the-reconstruction-of-history-20170114-2",
