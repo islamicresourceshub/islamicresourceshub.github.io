@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-17T04:24:37.849224+00:00",
+ "generated_at": "2026-09-17T04:25:52.858479+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5656,
+ "count": 5657,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -8745,6 +8745,17 @@
    "issue_date": "2026-08-22",
    "html_url": "/es/aqeedah/who-is-wrong-in-ideology-20260822-2.html",
    "md_url": "/es/aqeedah/who-is-wrong-in-ideology-20260822-2.md"
+  },
+  {
+   "slug": "dawah-obligation-and-execution-20170401-9",
+   "lang": "es",
+   "category": "dawah",
+   "title": "La Da'wah: Obligación y cumplimiento",
+   "summary": "Este artículo explica la importancia de la invitación al Islam, conocida como Da'wah, y la metodología para llevarla a cabo basándose en las enseñanzas del Corán y la Sunnah.",
+   "author": "സജ്ജാദ് ബിൻ അബ്ദുറസാഖ്",
+   "issue_date": "2017-04-01",
+   "html_url": "/es/dawah/dawah-obligation-and-execution-20170401-9.html",
+   "md_url": "/es/dawah/dawah-obligation-and-execution-20170401-9.md"
   },
   {
    "slug": "do-not-be-slaves-to-desires-20170211-11",
