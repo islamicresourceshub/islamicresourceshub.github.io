@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-17T11:25:48.093852+00:00",
+ "generated_at": "2026-09-17T11:26:57.225486+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5963,
+ "count": 5964,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -3894,6 +3894,17 @@
    "issue_date": "2017-02-25",
    "html_url": "/as/seerah/prophet-muhammad-pbuh-life-and-message-20170225-8.html",
    "md_url": "/as/seerah/prophet-muhammad-pbuh-life-and-message-20170225-8.md"
+  },
+  {
+   "slug": "prophet-musa-a-s-20180428-4",
+   "lang": "as",
+   "category": "seerah",
+   "title": "মুছা (আঃ)",
+   "summary": "কোৰআনত সৰ্বাধিক উল্লেখ থকা নবী মুছা (আঃ)-ৰ জীৱন কাহিনী আৰু তেওঁৰ প্ৰচাৰ অভিযানৰ ওপৰত আলোকপাত কৰা এক প্ৰবন্ধ।",
+   "author": "ഹുസൈന്‍ സലഫി, ഷാര്‍ജ",
+   "issue_date": "2018-04-28",
+   "html_url": "/as/seerah/prophet-musa-a-s-20180428-4.html",
+   "md_url": "/as/seerah/prophet-musa-a-s-20180428-4.md"
   },
   {
    "slug": "prophets-and-trials-20170325-7",
