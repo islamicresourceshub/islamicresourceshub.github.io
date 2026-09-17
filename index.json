@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-17T08:37:14.107467+00:00",
+ "generated_at": "2026-09-17T08:38:05.231316+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5861,
+ "count": 5862,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -22308,6 +22308,17 @@
    "issue_date": "2017-04-01",
    "html_url": "/ko/history/the-verdict-of-babri-20170401-4.html",
    "md_url": "/ko/history/the-verdict-of-babri-20170401-4.md"
+  },
+  {
+   "slug": "alas-asifa-20180428-1",
+   "lang": "ko",
+   "category": "opinion",
+   "title": "아사판 야 아시파...!",
+   "summary": "카트와에서 잔혹하게 성폭행당하고 살해된 아시파라는 소녀의 비극적인 사건과 여성 안전에 대한 사회적 성찰을 담은 글입니다.",
+   "author": "ഉസ്മാന്‍ പാലക്കാഴി",
+   "issue_date": "2018-04-28",
+   "html_url": "/ko/opinion/alas-asifa-20180428-1.html",
+   "md_url": "/ko/opinion/alas-asifa-20180428-1.md"
   },
   {
    "slug": "alcohol-abstinence-or-prohibition-20170225-7",
