@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-17T03:18:55.400996+00:00",
+ "generated_at": "2026-09-17T03:20:04.900307+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5639,
+ "count": 5640,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -50424,6 +50424,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/sq/youth/what-will-the-waste-do-20170114-5.html",
    "md_url": "/sq/youth/what-will-the-waste-do-20170114-5.md"
+  },
+  {
+   "slug": "allegations-of-deviation-and-responses-20170401-8",
+   "lang": "sw",
+   "category": "aqeedah",
+   "title": "Madai ya Kupotoka na Majibu Yake",
+   "summary": "Makala hii inaelezea kipindi muhimu katika historia ya mageuzi ya Kiislamu huko Kerala, ikirekodi mivutano ya kiitikadi ndani ya shirika na majadiliano yaliyofanyika ili kutatua tofauti hizo.",
+   "author": "മുബാറക് ബിൻ ഉമർ",
+   "issue_date": "2017-04-01",
+   "html_url": "/sw/aqeedah/allegations-of-deviation-and-responses-20170401-8.html",
+   "md_url": "/sw/aqeedah/allegations-of-deviation-and-responses-20170401-8.md"
   },
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
