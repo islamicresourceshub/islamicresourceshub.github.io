@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-17T08:06:18.725528+00:00",
+ "generated_at": "2026-09-17T08:07:14.441910+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5828,
+ "count": 5829,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -45463,6 +45463,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/ps/opinion/uapa-wielding-sedition-law-20170114-9.html",
    "md_url": "/ps/opinion/uapa-wielding-sedition-law-20170114-9.md"
+  },
+  {
+   "slug": "unanswered-north-kerala-20170401-13",
+   "lang": "ps",
+   "category": "opinion",
+   "title": "ځواب نه موندونکی شمالي کېرالا",
+   "summary": "دا لیکنه په شمالي کېرالا کې د مخ په زیاتیدونکي فرقه ییزو وژنو او فاشستي تمایلاتو انتقادي تحلیل وړاندې کوي. دغه راز د حکومت په بې غورۍ او د امنیتي ادارو په کمزورتیا باندې پوښتنې راپورته کوي.",
+   "author": "ഡോ. സി.എം സാബിർ നവാസ്",
+   "issue_date": "2017-04-01",
+   "html_url": "/ps/opinion/unanswered-north-kerala-20170401-13.html",
+   "md_url": "/ps/opinion/unanswered-north-kerala-20170401-13.md"
   },
   {
    "slug": "warning-signs-from-the-reconstruction-of-history-20170114-2",
