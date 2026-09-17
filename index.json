@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-17T06:12:12.313101+00:00",
+ "generated_at": "2026-09-17T06:13:21.411485+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5756,
+ "count": 5757,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -51711,6 +51711,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/sw/dawah/what-do-we-have-for-ourselves-20170218-10.html",
    "md_url": "/sw/dawah/what-do-we-have-for-ourselves-20170218-10.md"
+  },
+  {
+   "slug": "better-safe-than-sorry-20170401-11",
+   "lang": "sw",
+   "category": "family",
+   "title": "Jihadhari ili Usijute",
+   "summary": "Makala hii inaelezea sababu zinazopelekea watoto kupotea njia na mambo ambayo wazazi wanapaswa kuzingatia. Inasisitiza umuhimu wa kuwa na marafiki wema na malezi ya Kiislamu.",
+   "author": "അഷ്റഫ് എകരൂൽ",
+   "issue_date": "2017-04-01",
+   "html_url": "/sw/family/better-safe-than-sorry-20170401-11.html",
+   "md_url": "/sw/family/better-safe-than-sorry-20170401-11.md"
   },
   {
    "slug": "children-an-islamic-reading-part-4-20170204-5",
