@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-17T05:41:11.540827+00:00",
+ "generated_at": "2026-09-17T05:42:15.930632+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5724,
+ "count": 5725,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -60588,6 +60588,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/uz/seerah/prophets-and-trials-20170325-7.html",
    "md_url": "/uz/seerah/prophets-and-trials-20170325-7.md"
+  },
+  {
+   "slug": "prophets-are-humans-20170401-10",
+   "lang": "uz",
+   "category": "seerah",
+   "title": "Paygʻambarlar insonlardir",
+   "summary": "Ushbu maqola paygʻambarlar haqidagi haddan tashqari oshirilgan eʼtiqodlar va notoʻgʻri tushunchalarni rad etadi. Paygʻambarlar inson boʻlsalar-da, ular Alloh tomonidan tanlab olingan eng oliyjanob zotlar ekanligini tushuntiradi.",
+   "author": "ഹുസൈൻ സലഫി, ഷാർജ",
+   "issue_date": "2017-04-01",
+   "html_url": "/uz/seerah/prophets-are-humans-20170401-10.html",
+   "md_url": "/uz/seerah/prophets-are-humans-20170401-10.md"
   },
   {
    "slug": "abdullah-s-mistake-20170204-1",
