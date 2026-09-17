@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-17T09:40:51.519412+00:00",
+ "generated_at": "2026-09-17T09:42:15.959263+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5913,
+ "count": 5914,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -54428,6 +54428,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/ta/family/thoughts-during-pregnancy-20170218-4.html",
    "md_url": "/ta/family/thoughts-during-pregnancy-20170218-4.md"
+  },
+  {
+   "slug": "vacation-and-family-visits-20180428-2",
+   "lang": "ta",
+   "category": "family",
+   "title": "விடுமுறைக்காலமும் குடும்ப உறவுகளும்",
+   "summary": "விடுமுறை நாட்களில் உறவினர்களைச் சந்திப்பதன் முக்கியத்துவத்தையும், அது குழந்தைகளின் மனதில் ஏற்படுத்தும் நேர்மறையான தாக்கத்தையும் விளக்கும் கட்டுரை.",
+   "author": "അബൂഫായിദ",
+   "issue_date": "2018-04-28",
+   "html_url": "/ta/family/vacation-and-family-visits-20180428-2.html",
+   "md_url": "/ta/family/vacation-and-family-visits-20180428-2.md"
   },
   {
    "slug": "water-and-life-20170225-5",
