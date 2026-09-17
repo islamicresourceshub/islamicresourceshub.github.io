@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-17T05:17:44.259663+00:00",
+ "generated_at": "2026-09-17T05:18:39.966345+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5702,
+ "count": 5703,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -18271,6 +18271,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/it/seerah/prophets-and-trials-20170325-7.html",
    "md_url": "/it/seerah/prophets-and-trials-20170325-7.md"
+  },
+  {
+   "slug": "prophets-are-humans-20170401-10",
+   "lang": "it",
+   "category": "seerah",
+   "title": "I Profeti sono Umani",
+   "summary": "Questo articolo confuta le esagerate credenze e le false propagande sui profeti. Sottolinea che i profeti sono esseri umani, ma anche esseri scelti ed elevati.",
+   "author": "ഹുസൈൻ സലഫി, ഷാർജ",
+   "issue_date": "2017-04-01",
+   "html_url": "/it/seerah/prophets-are-humans-20170401-10.html",
+   "md_url": "/it/seerah/prophets-are-humans-20170401-10.md"
   },
   {
    "slug": "abdullah-s-mistake-20170204-1",
