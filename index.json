@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-17T05:18:39.966345+00:00",
+ "generated_at": "2026-09-17T05:19:42.004042+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5703,
+ "count": 5704,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -19492,6 +19492,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/ja/seerah/prophets-and-trials-20170325-7.html",
    "md_url": "/ja/seerah/prophets-and-trials-20170325-7.md"
+  },
+  {
+   "slug": "prophets-are-humans-20170401-10",
+   "lang": "ja",
+   "category": "seerah",
+   "title": "預言者たちは人間である",
+   "summary": "預言者に対する過度な崇拝や誤った宣伝を否定し、預言者もまた人間であることを論じています。彼らは人間として最も優れた存在ではあるものの、神の属性を付与されるべきではないことを明確にしています。",
+   "author": "ഹുസൈൻ സലഫി, ഷാർജ",
+   "issue_date": "2017-04-01",
+   "html_url": "/ja/seerah/prophets-are-humans-20170401-10.html",
+   "md_url": "/ja/seerah/prophets-are-humans-20170401-10.md"
   },
   {
    "slug": "abdullah-s-mistake-20170204-1",
