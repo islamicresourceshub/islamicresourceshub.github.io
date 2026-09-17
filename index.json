@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-17T03:17:50.367957+00:00",
+ "generated_at": "2026-09-17T03:18:55.400996+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5638,
+ "count": 5639,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -49225,6 +49225,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/so/youth/what-will-the-waste-do-20170114-5.html",
    "md_url": "/so/youth/what-will-the-waste-do-20170114-5.md"
+  },
+  {
+   "slug": "allegations-of-deviation-and-responses-20170401-8",
+   "lang": "sq",
+   "category": "aqeedah",
+   "title": "Akuzat për devijim dhe përgjigjet",
+   "summary": "Ky artikull përshkruan një fazë kritike në historinë e rilindjes islame në Kerala, duke dokumentuar mosmarrëveshjet ideologjike brenda organizatës dhe përpjekjet për t'i zgjidhur ato përmes dialogut.",
+   "author": "മുബാറക് ബിൻ ഉമർ",
+   "issue_date": "2017-04-01",
+   "html_url": "/sq/aqeedah/allegations-of-deviation-and-responses-20170401-8.html",
+   "md_url": "/sq/aqeedah/allegations-of-deviation-and-responses-20170401-8.md"
   },
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
