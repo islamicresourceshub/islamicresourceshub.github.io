@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-17T05:03:44.363916+00:00",
+ "generated_at": "2026-09-17T05:04:45.249894+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5689,
+ "count": 5690,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -2464,6 +2464,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/ar/seerah/prophets-and-trials-20170325-7.html",
    "md_url": "/ar/seerah/prophets-and-trials-20170325-7.md"
+  },
+  {
+   "slug": "prophets-are-humans-20170401-10",
+   "lang": "ar",
+   "category": "seerah",
+   "title": "الأنبياء بشر",
+   "summary": "يفند هذا المقال المعتقدات المبالغ فيها والمزاعم الخاطئة حول الأنبياء، موضحاً أنهم بشر اصطفاهم الله، وأن رفعهم فوق منزلتهم البشرية يتنافى مع تعاليم الإسلام الصحيحة.",
+   "author": "ഹുസൈൻ സലഫി, ഷാർജ",
+   "issue_date": "2017-04-01",
+   "html_url": "/ar/seerah/prophets-are-humans-20170401-10.html",
+   "md_url": "/ar/seerah/prophets-are-humans-20170401-10.md"
   },
   {
    "slug": "abdullah-s-mistake-20170204-1",
