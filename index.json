@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-17T03:13:59.872225+00:00",
+ "generated_at": "2026-09-17T03:15:10.878348+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5635,
+ "count": 5636,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -45672,6 +45672,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/pt/youth/what-will-the-waste-do-20170114-5.html",
    "md_url": "/pt/youth/what-will-the-waste-do-20170114-5.md"
+  },
+  {
+   "slug": "allegations-of-deviation-and-responses-20170401-8",
+   "lang": "ru",
+   "category": "aqeedah",
+   "title": "Обвинения в отклонениях и реакция на них",
+   "summary": "Описание этапа в истории исламского возрождения в Керале. В статье фиксируются идеологические разногласия внутри организации и дискуссии, проведенные для их разрешения.",
+   "author": "മുബാറക് ബിൻ ഉമർ",
+   "issue_date": "2017-04-01",
+   "html_url": "/ru/aqeedah/allegations-of-deviation-and-responses-20170401-8.html",
+   "md_url": "/ru/aqeedah/allegations-of-deviation-and-responses-20170401-8.md"
   },
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
