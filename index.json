@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-17T03:27:04.948766+00:00",
+ "generated_at": "2026-09-17T03:28:04.033131+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5644,
+ "count": 5645,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -56364,6 +56364,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/tl/youth/what-will-the-waste-do-20170114-5.html",
    "md_url": "/tl/youth/what-will-the-waste-do-20170114-5.md"
+  },
+  {
+   "slug": "allegations-of-deviation-and-responses-20170401-8",
+   "lang": "tr",
+   "category": "aqeedah",
+   "title": "Sapma İddiaları ve Yanıtlar",
+   "summary": "Kerala'daki Müslüman rönesans tarihinin bir dönemine dair bu yazı, örgüt içindeki fikir ayrılıklarını ve bu sorunları çözmek için yürütülen tartışmaları ve alınan kararları belgelemektedir.",
+   "author": "മുബാറക് ബിൻ ഉമർ",
+   "issue_date": "2017-04-01",
+   "html_url": "/tr/aqeedah/allegations-of-deviation-and-responses-20170401-8.html",
+   "md_url": "/tr/aqeedah/allegations-of-deviation-and-responses-20170401-8.md"
   },
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
