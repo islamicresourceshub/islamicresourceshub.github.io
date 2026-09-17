@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-17T05:58:58.940805+00:00",
+ "generated_at": "2026-09-17T06:00:00.477236+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5743,
+ "count": 5744,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -20185,6 +20185,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/kn/dawah/what-do-we-have-for-ourselves-20170218-10.html",
    "md_url": "/kn/dawah/what-do-we-have-for-ourselves-20170218-10.md"
+  },
+  {
+   "slug": "better-safe-than-sorry-20170401-11",
+   "lang": "kn",
+   "category": "family",
+   "title": "ಮುನ್ನೆಚ್ಚರಿಕೆ ವಹಿಸಿದರೆ ಪಶ್ಚಾತ್ತಾಪ ಪಡಬೇಕಿಲ್ಲ",
+   "summary": "ಮಕ್ಕಳು ದಾರಿ ತಪ್ಪಲು ಕಾರಣಗಳೇನು ಮತ್ತು ಪೋಷಕರು ಗಮನಿಸಬೇಕಾದ ಅಂಶಗಳೇನು ಎಂಬುದನ್ನು ಈ ಲೇಖನ ವಿವರಿಸುತ್ತದೆ. ಉತ್ತಮ ಸ್ನೇಹ ಮತ್ತು ಇಸ್ಲಾಮಿಕ್ ಶಿಕ್ಷಣದ ಮಹತ್ವವನ್ನು ಇಲ್ಲಿ ಒತ್ತಿ ಹೇಳಲಾಗಿದೆ.",
+   "author": "അഷ്റഫ് എകരൂൽ",
+   "issue_date": "2017-04-01",
+   "html_url": "/kn/family/better-safe-than-sorry-20170401-11.html",
+   "md_url": "/kn/family/better-safe-than-sorry-20170401-11.md"
   },
   {
    "slug": "children-an-islamic-reading-part-4-20170204-5",
