@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-17T07:58:11.138688+00:00",
+ "generated_at": "2026-09-17T07:59:20.831042+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5821,
+ "count": 5822,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -21131,6 +21131,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/kn/opinion/uapa-wielding-sedition-law-20170114-9.html",
    "md_url": "/kn/opinion/uapa-wielding-sedition-law-20170114-9.md"
+  },
+  {
+   "slug": "unanswered-north-kerala-20170401-13",
+   "lang": "kn",
+   "category": "opinion",
+   "title": "ಉತ್ತರ ಸಿಗದ ಉತ್ತರ ಕೇರಳ",
+   "summary": "ಉತ್ತರ ಕೇರಳದಲ್ಲಿ ಹೆಚ್ಚುತ್ತಿರುವ ಕೋಮುವಾದಿ ಕೊಲೆಗಳು ಮತ್ತು ಫ್ಯಾಸಿಸ್ಟ್ ಪ್ರವೃತ್ತಿಗಳನ್ನು ವಿಮರ್ಶಾತ್ಮಕವಾಗಿ ವಿಶ್ಲೇಷಿಸುತ್ತದೆ. ಸರ್ಕಾರದ ಜಾಗರೂಕತೆಯ ಕೊರತೆಯನ್ನು ಪ್ರಶ್ನಿಸುತ್ತದೆ.",
+   "author": "ഡോ. സി.എം സാബിർ നവാസ്",
+   "issue_date": "2017-04-01",
+   "html_url": "/kn/opinion/unanswered-north-kerala-20170401-13.html",
+   "md_url": "/kn/opinion/unanswered-north-kerala-20170401-13.md"
   },
   {
    "slug": "warning-signs-from-the-reconstruction-of-history-20170114-2",
