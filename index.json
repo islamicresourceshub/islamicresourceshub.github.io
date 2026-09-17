@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-17T04:35:03.402646+00:00",
+ "generated_at": "2026-09-17T04:36:20.902200+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5664,
+ "count": 5665,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -18381,6 +18381,17 @@
    "issue_date": "2026-08-22",
    "html_url": "/ja/aqeedah/who-is-wrong-in-ideology-20260822-2.html",
    "md_url": "/ja/aqeedah/who-is-wrong-in-ideology-20260822-2.md"
+  },
+  {
+   "slug": "dawah-obligation-and-execution-20170401-9",
+   "lang": "ja",
+   "category": "dawah",
+   "title": "宣教：義務とその遂行",
+   "summary": "イスラームにおける宣教（ダアワ）の重要性と、クルアーンの教えに基づいたその実践的な方法論について解説します。",
+   "author": "സജ്ജാദ് ബിൻ അബ്ദുറസാഖ്",
+   "issue_date": "2017-04-01",
+   "html_url": "/ja/dawah/dawah-obligation-and-execution-20170401-9.html",
+   "md_url": "/ja/dawah/dawah-obligation-and-execution-20170401-9.md"
   },
   {
    "slug": "do-not-be-slaves-to-desires-20170211-11",
