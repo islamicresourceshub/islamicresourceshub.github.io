@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-17T04:44:00.409509+00:00",
+ "generated_at": "2026-09-17T04:45:57.054751+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5671,
+ "count": 5672,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -42416,6 +42416,17 @@
    "issue_date": "2026-08-22",
    "html_url": "/pa/aqeedah/who-is-wrong-in-ideology-20260822-2.html",
    "md_url": "/pa/aqeedah/who-is-wrong-in-ideology-20260822-2.md"
+  },
+  {
+   "slug": "dawah-obligation-and-execution-20170401-9",
+   "lang": "pa",
+   "category": "dawah",
+   "title": "ਦਾਅਵਤ: ਜ਼ਿੰਮੇਵਾਰੀ ਅਤੇ ਇਸਦੀ ਪੂਰਤੀ",
+   "summary": "ਇਹ ਲੇਖ ਕੁਰਾਨ ਦੀਆਂ ਆਇਤਾਂ ਦੇ ਆਧਾਰ 'ਤੇ ਇਸਲਾਮੀ ਪ੍ਰਚਾਰ (ਦਾਅਵਤ) ਦੀ ਮਹੱਤਤਾ ਅਤੇ ਇਸ ਨੂੰ ਅੰਜਾਮ ਦੇਣ ਦੇ ਤਰੀਕਿਆਂ ਬਾਰੇ ਵਿਸਥਾਰ ਨਾਲ ਚਰਚਾ ਕਰਦਾ ਹੈ।",
+   "author": "സജ്ജാദ് ബിൻ അബ്ദുറസാഖ്",
+   "issue_date": "2017-04-01",
+   "html_url": "/pa/dawah/dawah-obligation-and-execution-20170401-9.html",
+   "md_url": "/pa/dawah/dawah-obligation-and-execution-20170401-9.md"
   },
   {
    "slug": "do-not-be-slaves-to-desires-20170211-11",
