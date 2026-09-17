@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-17T05:35:49.492608+00:00",
+ "generated_at": "2026-09-17T05:36:55.922269+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5719,
+ "count": 5720,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -54483,6 +54483,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/te/seerah/prophets-and-trials-20170325-7.html",
    "md_url": "/te/seerah/prophets-and-trials-20170325-7.md"
+  },
+  {
+   "slug": "prophets-are-humans-20170401-10",
+   "lang": "te",
+   "category": "seerah",
+   "title": "ప్రవక్తలు మానవులే",
+   "summary": "ప్రవక్తల పట్ల ఉన్న అతివాద నమ్మకాలను మరియు తప్పుడు ప్రచారాలను ఈ వ్యాసం ఖండిస్తుంది. ప్రవక్తలు మానవులేనని, అయితే వారు అత్యున్నతమైన వ్యక్తిత్వం కలిగిన వారని ఇది స్పష్టం చేస్తుంది.",
+   "author": "ഹുസൈൻ സലഫി, ഷാർജ",
+   "issue_date": "2017-04-01",
+   "html_url": "/te/seerah/prophets-are-humans-20170401-10.html",
+   "md_url": "/te/seerah/prophets-are-humans-20170401-10.md"
   },
   {
    "slug": "abdullah-s-mistake-20170204-1",
