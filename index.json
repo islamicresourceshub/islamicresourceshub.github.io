@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-17T06:19:22.801163+00:00",
+ "generated_at": "2026-09-17T06:20:19.509572+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5763,
+ "count": 5764,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -60280,6 +60280,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/uz/dawah/what-do-we-have-for-ourselves-20170218-10.html",
    "md_url": "/uz/dawah/what-do-we-have-for-ourselves-20170218-10.md"
+  },
+  {
+   "slug": "better-safe-than-sorry-20170401-11",
+   "lang": "uz",
+   "category": "family",
+   "title": "Ehtiyot qilsangiz, afsuslanmaysiz",
+   "summary": "Ushbu maqolada farzandlarning to‘g‘ri yo‘ldan adashish sabablari va ota-onalar e’tibor qaratishi lozim bo‘lgan jihatlar tahlil qilinadi. Yaxshi do‘stlik va islomiy tarbiyaning ahamiyati alohida ta’kidlanadi.",
+   "author": "അഷ്റഫ് എകരൂൽ",
+   "issue_date": "2017-04-01",
+   "html_url": "/uz/family/better-safe-than-sorry-20170401-11.html",
+   "md_url": "/uz/family/better-safe-than-sorry-20170401-11.md"
   },
   {
    "slug": "children-an-islamic-reading-part-4-20170204-5",
