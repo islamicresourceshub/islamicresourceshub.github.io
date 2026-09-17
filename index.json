@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-17T05:42:15.930632+00:00",
+ "generated_at": "2026-09-17T05:43:18.339719+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5725,
+ "count": 5726,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -61809,6 +61809,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/vi/seerah/prophets-and-trials-20170325-7.html",
    "md_url": "/vi/seerah/prophets-and-trials-20170325-7.md"
+  },
+  {
+   "slug": "prophets-are-humans-20170401-10",
+   "lang": "vi",
+   "category": "seerah",
+   "title": "Các vị tiên tri là con người",
+   "summary": "Bài viết này bác bỏ những niềm tin thái quá và các tuyên truyền sai lệch về các vị tiên tri. Tác giả khẳng định rằng các vị tiên tri là con người, dù họ là những cá nhân ưu tú và cao quý nhất.",
+   "author": "ഹുസൈൻ സലഫി, ഷാർജ",
+   "issue_date": "2017-04-01",
+   "html_url": "/vi/seerah/prophets-are-humans-20170401-10.html",
+   "md_url": "/vi/seerah/prophets-are-humans-20170401-10.md"
   },
   {
    "slug": "abdullah-s-mistake-20170204-1",
