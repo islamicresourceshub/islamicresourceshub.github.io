@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-17T04:13:52.126640+00:00",
+ "generated_at": "2026-09-17T04:16:17.275452+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5651,
+ "count": 5652,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -2717,6 +2717,17 @@
    "issue_date": "2026-08-22",
    "html_url": "/as/aqeedah/who-is-wrong-in-ideology-20260822-2.html",
    "md_url": "/as/aqeedah/who-is-wrong-in-ideology-20260822-2.md"
+  },
+  {
+   "slug": "dawah-obligation-and-execution-20170401-9",
+   "lang": "as",
+   "category": "dawah",
+   "title": "প্ৰচাৰ: দায়িত্ব আৰু ইয়াৰ পালন",
+   "summary": "ইছলামী প্ৰচাৰৰ গুৰুত্ব আৰু ইয়াৰ পদ্ধতিসমূহ কোৰআনৰ আয়াতৰ ভিত্তিত এই প্ৰবন্ধত ব্যাখ্যা কৰা হৈছে।",
+   "author": "സജ്ജാദ് ബിൻ അബ്ദുറസാഖ്",
+   "issue_date": "2017-04-01",
+   "html_url": "/as/dawah/dawah-obligation-and-execution-20170401-9.html",
+   "md_url": "/as/dawah/dawah-obligation-and-execution-20170401-9.md"
   },
   {
    "slug": "do-not-be-slaves-to-desires-20170211-11",
