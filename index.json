@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-17T05:37:59.262700+00:00",
+ "generated_at": "2026-09-17T05:39:10.563276+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5721,
+ "count": 5722,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -56925,6 +56925,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/tl/seerah/prophets-and-trials-20170325-7.html",
    "md_url": "/tl/seerah/prophets-and-trials-20170325-7.md"
+  },
+  {
+   "slug": "prophets-are-humans-20170401-10",
+   "lang": "tl",
+   "category": "seerah",
+   "title": "Ang mga Propeta ay mga Tao",
+   "summary": "Tinututulan ng artikulong ito ang mga labis na paniniwala at maling propaganda tungkol sa mga Propeta. Nililinaw nito na ang mga Propeta ay mga tao, bagaman sila ay pinili at napakataas ng antas.",
+   "author": "ഹുസൈൻ സലഫി, ഷാർജ",
+   "issue_date": "2017-04-01",
+   "html_url": "/tl/seerah/prophets-are-humans-20170401-10.html",
+   "md_url": "/tl/seerah/prophets-are-humans-20170401-10.md"
   },
   {
    "slug": "abdullah-s-mistake-20170204-1",
