@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-17T09:39:30.642624+00:00",
+ "generated_at": "2026-09-17T09:40:51.519412+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5912,
+ "count": 5913,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -53185,6 +53185,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/sw/family/thoughts-during-pregnancy-20170218-4.html",
    "md_url": "/sw/family/thoughts-during-pregnancy-20170218-4.md"
+  },
+  {
+   "slug": "vacation-and-family-visits-20180428-2",
+   "lang": "sw",
+   "category": "family",
+   "title": "Muda wa mapumziko na ziara za kifamilia",
+   "summary": "Makala hii inajadili umuhimu wa kuwatembelea ndugu wakati wa likizo na athari chanya ambazo ziara hizi huleta kwa watoto.",
+   "author": "അബൂഫായിദ",
+   "issue_date": "2018-04-28",
+   "html_url": "/sw/family/vacation-and-family-visits-20180428-2.html",
+   "md_url": "/sw/family/vacation-and-family-visits-20180428-2.md"
   },
   {
    "slug": "water-and-life-20170225-5",
