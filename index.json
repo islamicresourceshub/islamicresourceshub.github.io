@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-17T05:26:28.337524+00:00",
+ "generated_at": "2026-09-17T05:27:29.799159+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5710,
+ "count": 5711,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -43604,6 +43604,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/pa/seerah/prophets-and-trials-20170325-7.html",
    "md_url": "/pa/seerah/prophets-and-trials-20170325-7.md"
+  },
+  {
+   "slug": "prophets-are-humans-20170401-10",
+   "lang": "pa",
+   "category": "seerah",
+   "title": "ਪੈਗੰਬਰ ਇਨਸਾਨ ਹਨ",
+   "summary": "ਇਹ ਲੇਖ ਪੈਗੰਬਰਾਂ ਬਾਰੇ ਫੈਲੀਆਂ ਗਲਤ ਧਾਰਨਾਵਾਂ ਅਤੇ ਅਤਿਕਥਨੀ ਦਾ ਖੰਡਨ ਕਰਦਾ ਹੈ। ਇਹ ਸਪੱਸ਼ਟ ਕਰਦਾ ਹੈ ਕਿ ਪੈਗੰਬਰ ਇਨਸਾਨ ਸਨ, ਭਾਵੇਂ ਉਹ ਸਭ ਤੋਂ ਉੱਤਮ ਅਤੇ ਮਹਾਨ ਸਨ।",
+   "author": "ഹുസൈൻ സലഫി, ഷാർജ",
+   "issue_date": "2017-04-01",
+   "html_url": "/pa/seerah/prophets-are-humans-20170401-10.html",
+   "md_url": "/pa/seerah/prophets-are-humans-20170401-10.md"
   },
   {
    "slug": "abdullah-s-mistake-20170204-1",
