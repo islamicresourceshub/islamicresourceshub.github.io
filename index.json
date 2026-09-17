@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-17T03:29:59.649094+00:00",
+ "generated_at": "2026-09-17T03:30:56.907647+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5647,
+ "count": 5648,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -59961,6 +59961,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/uz/youth/what-will-the-waste-do-20170114-5.html",
    "md_url": "/uz/youth/what-will-the-waste-do-20170114-5.md"
+  },
+  {
+   "slug": "allegations-of-deviation-and-responses-20170401-8",
+   "lang": "vi",
+   "category": "aqeedah",
+   "title": "Các cáo buộc sai lệch và phản hồi",
+   "summary": "Bài viết ghi lại một giai đoạn quan trọng trong lịch sử cải cách Hồi giáo tại Kerala, tập trung vào những bất đồng tư tưởng trong tổ chức và các cuộc thảo luận nhằm giải quyết những vấn đề này.",
+   "author": "മുബാറക് ബിൻ ഉമർ",
+   "issue_date": "2017-04-01",
+   "html_url": "/vi/aqeedah/allegations-of-deviation-and-responses-20170401-8.html",
+   "md_url": "/vi/aqeedah/allegations-of-deviation-and-responses-20170401-8.md"
   },
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
