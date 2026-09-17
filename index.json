@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-17T06:38:44.449199+00:00",
+ "generated_at": "2026-09-17T06:39:38.521002+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5783,
+ "count": 5784,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -21395,6 +21395,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/ko/dawah/do-not-waver-in-trials-20170121-9.html",
    "md_url": "/ko/dawah/do-not-waver-in-trials-20170121-9.md"
+  },
+  {
+   "slug": "getting-closer-to-the-creator-20170401-12",
+   "lang": "ko",
+   "category": "dawah",
+   "title": "창조주께 가까이 다가가기",
+   "summary": "이 글은 알라께 가까이 다가가는 이슬람의 올바른 길을 설명합니다. 잘못된 금욕주의를 배격하고 꾸란과 예언자의 가르침에 따른 신앙 생활의 중요성을 강조합니다.",
+   "author": "അബൂ മുഫിദ്",
+   "issue_date": "2017-04-01",
+   "html_url": "/ko/dawah/getting-closer-to-the-creator-20170401-12.html",
+   "md_url": "/ko/dawah/getting-closer-to-the-creator-20170401-12.md"
   },
   {
    "slug": "jallikattu-and-the-islamic-approach-to-animals-20170128-4",
