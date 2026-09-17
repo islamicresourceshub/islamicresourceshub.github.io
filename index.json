@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-17T10:41:07.566400+00:00",
+ "generated_at": "2026-09-17T10:42:31.430592+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5938,
+ "count": 5939,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -21747,6 +21747,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/kn/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.html",
    "md_url": "/kn/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.md"
+  },
+  {
+   "slug": "surah-al-adiyat-the-chargers-20180428-3",
+   "lang": "kn",
+   "category": "quran",
+   "title": "ಅಲ್-ಆದಿಯಾತ್ (ಓಡುವ ಕುದುರೆಗಳು)",
+   "summary": "ಪವಿತ್ರ ಕುರ್‌ಆನಿನ ನೂರನೇ ಅಧ್ಯಾಯವಾದ ಸೂರಾ ಅಲ್-ಆದಿಯಾತ್‌ನ ಸರಳ ವಿವರಣೆ ಮತ್ತು ಅಧ್ಯಯನವನ್ನು ಒಳಗೊಂಡ ಲೇಖನ.",
+   "author": "അബ്ദുറഹ്മാന്‍ നാസിര്‍ അസ്സഅദി",
+   "issue_date": "2018-04-28",
+   "html_url": "/kn/quran/surah-al-adiyat-the-chargers-20180428-3.html",
+   "md_url": "/kn/quran/surah-al-adiyat-the-chargers-20180428-3.md"
   },
   {
    "slug": "surah-ash-shu-ara-the-poets-20260822-7",
