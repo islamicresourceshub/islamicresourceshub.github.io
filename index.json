@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-17T05:49:02.069973+00:00",
+ "generated_at": "2026-09-17T05:49:53.024172+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5732,
+ "count": 5733,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -6688,6 +6688,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/de/dawah/what-do-we-have-for-ourselves-20170218-10.html",
    "md_url": "/de/dawah/what-do-we-have-for-ourselves-20170218-10.md"
+  },
+  {
+   "slug": "better-safe-than-sorry-20170401-11",
+   "lang": "de",
+   "category": "family",
+   "title": "Vorsorge bewahrt vor Leid",
+   "summary": "Dieser Beitrag beleuchtet die Ursachen für das Abgleiten von Kindern und die Verantwortung der Eltern. Er betont die Bedeutung eines guten Umfelds und einer islamischen Erziehung, um Kinder vor negativen Einflüssen zu schützen.",
+   "author": "അഷ്റഫ് എകരൂൽ",
+   "issue_date": "2017-04-01",
+   "html_url": "/de/family/better-safe-than-sorry-20170401-11.html",
+   "md_url": "/de/family/better-safe-than-sorry-20170401-11.md"
   },
   {
    "slug": "children-an-islamic-reading-part-4-20170204-5",
