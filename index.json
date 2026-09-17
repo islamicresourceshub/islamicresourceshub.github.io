@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-17T06:51:35.612249+00:00",
+ "generated_at": "2026-09-17T06:52:34.009716+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5797,
+ "count": 5798,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -54263,6 +54263,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/te/dawah/do-not-waver-in-trials-20170121-9.html",
    "md_url": "/te/dawah/do-not-waver-in-trials-20170121-9.md"
+  },
+  {
+   "slug": "getting-closer-to-the-creator-20170401-12",
+   "lang": "te",
+   "category": "dawah",
+   "title": "సృష్టికర్తకు చేరువవ్వడం",
+   "summary": "అల్లాహ్‌కు చేరువయ్యే ఇస్లామీయ మార్గాల గురించి ఈ వ్యాసం వివరిస్తుంది. తప్పుడు సన్యాస పద్ధతులను తిరస్కరిస్తూ, ఖురాన్ మరియు ప్రవక్త సున్నత్ ఆధారంగా దైవసామీప్యాన్ని పొందే సరైన మార్గాలను ఇది తెలియజేస్తుంది.",
+   "author": "അബൂ മുഫിദ്",
+   "issue_date": "2017-04-01",
+   "html_url": "/te/dawah/getting-closer-to-the-creator-20170401-12.html",
+   "md_url": "/te/dawah/getting-closer-to-the-creator-20170401-12.md"
   },
   {
    "slug": "jallikattu-and-the-islamic-approach-to-animals-20170128-4",
