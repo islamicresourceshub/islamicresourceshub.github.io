@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-17T06:58:10.863674+00:00",
+ "generated_at": "2026-09-17T06:59:03.213020+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5804,
+ "count": 5805,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -62953,6 +62953,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/zh/dawah/do-not-waver-in-trials-20170121-9.html",
    "md_url": "/zh/dawah/do-not-waver-in-trials-20170121-9.md"
+  },
+  {
+   "slug": "getting-closer-to-the-creator-20170401-12",
+   "lang": "zh",
+   "category": "dawah",
+   "title": "亲近造物主",
+   "summary": "本文探讨了伊斯兰教中亲近真主的途径，强调了通过履行主命功课和善行来获得真主喜悦的重要性，并摒弃了背离生活的极端苦行方式。",
+   "author": "അബൂ മുഫിദ്",
+   "issue_date": "2017-04-01",
+   "html_url": "/zh/dawah/getting-closer-to-the-creator-20170401-12.html",
+   "md_url": "/zh/dawah/getting-closer-to-the-creator-20170401-12.md"
   },
   {
    "slug": "jallikattu-and-the-islamic-approach-to-animals-20170128-4",
