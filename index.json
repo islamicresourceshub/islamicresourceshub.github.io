@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-17T06:37:30.554646+00:00",
+ "generated_at": "2026-09-17T06:38:44.449199+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5782,
+ "count": 5783,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -20152,6 +20152,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/kn/dawah/do-not-waver-in-trials-20170121-9.html",
    "md_url": "/kn/dawah/do-not-waver-in-trials-20170121-9.md"
+  },
+  {
+   "slug": "getting-closer-to-the-creator-20170401-12",
+   "lang": "kn",
+   "category": "dawah",
+   "title": "ಸೃಷ್ಟಿಕರ್ತನ ಸಾಮೀಪ್ಯ",
+   "summary": "ಅಲ್ಲಾಹನ ಸಾಮೀಪ್ಯವನ್ನು ಪಡೆಯುವ ಇಸ್ಲಾಮೀ ಮಾರ್ಗಗಳ ಬಗ್ಗೆ ಈ ಲೇಖನ ವಿವರಿಸುತ್ತದೆ. ತಪ್ಪು ಸನ್ಯಾಸಿ ಪದ್ಧತಿಗಳನ್ನು ತಿರಸ್ಕರಿಸಿ, ಕುರ್‌ಆನ್ ಮತ್ತು ಪ್ರವಾದಿ ಚರ್ಯೆಯ ಆಧಾರದಲ್ಲಿ ಜೀವನ ನಡೆಸಲು ಇದು ಕರೆ ನೀಡುತ್ತದೆ.",
+   "author": "അബൂ മുഫിദ്",
+   "issue_date": "2017-04-01",
+   "html_url": "/kn/dawah/getting-closer-to-the-creator-20170401-12.html",
+   "md_url": "/kn/dawah/getting-closer-to-the-creator-20170401-12.md"
   },
   {
    "slug": "jallikattu-and-the-islamic-approach-to-animals-20170128-4",
