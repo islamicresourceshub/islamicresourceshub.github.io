@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-17T04:33:48.552855+00:00",
+ "generated_at": "2026-09-17T04:35:03.402646+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5663,
+ "count": 5664,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -17171,6 +17171,17 @@
    "issue_date": "2026-08-22",
    "html_url": "/it/aqeedah/who-is-wrong-in-ideology-20260822-2.html",
    "md_url": "/it/aqeedah/who-is-wrong-in-ideology-20260822-2.md"
+  },
+  {
+   "slug": "dawah-obligation-and-execution-20170401-9",
+   "lang": "it",
+   "category": "dawah",
+   "title": "La predicazione: obbligo e adempimento",
+   "summary": "Questo articolo illustra l'importanza della predicazione islamica e la metodologia per attuarla, basandosi sui versetti del Corano e sugli insegnamenti profetici.",
+   "author": "സജ്ജാദ് ബിൻ അബ്ദുറസാഖ്",
+   "issue_date": "2017-04-01",
+   "html_url": "/it/dawah/dawah-obligation-and-execution-20170401-9.html",
+   "md_url": "/it/dawah/dawah-obligation-and-execution-20170401-9.md"
   },
   {
    "slug": "do-not-be-slaves-to-desires-20170211-11",
