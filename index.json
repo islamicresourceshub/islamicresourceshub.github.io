@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-17T04:50:25.481121+00:00",
+ "generated_at": "2026-09-17T04:51:39.789148+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5676,
+ "count": 5677,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -48444,6 +48444,17 @@
    "issue_date": "2026-08-22",
    "html_url": "/so/aqeedah/who-is-wrong-in-ideology-20260822-2.html",
    "md_url": "/so/aqeedah/who-is-wrong-in-ideology-20260822-2.md"
+  },
+  {
+   "slug": "dawah-obligation-and-execution-20170401-9",
+   "lang": "so",
+   "category": "dawah",
+   "title": "Dacwada: Waajibaadka iyo Fulintiisa",
+   "summary": "Qoraalkani wuxuu sharxayaa muhiimadda ay leedahay dacwada Islaamka iyo hababka loo fuliyo iyadoo la raacayo aayadaha Qur'aanka kariimka ah.",
+   "author": "സജ്ജാദ് ബിൻ അബ്ദുറസാഖ്",
+   "issue_date": "2017-04-01",
+   "html_url": "/so/dawah/dawah-obligation-and-execution-20170401-9.html",
+   "md_url": "/so/dawah/dawah-obligation-and-execution-20170401-9.md"
   },
   {
    "slug": "do-not-be-slaves-to-desires-20170211-11",
