@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-17T10:45:09.675414+00:00",
+ "generated_at": "2026-09-17T10:47:16.602333+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5941,
+ "count": 5942,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -41184,6 +41184,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/ms/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.html",
    "md_url": "/ms/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.md"
+  },
+  {
+   "slug": "surah-al-adiyat-the-chargers-20180428-3",
+   "lang": "ms",
+   "category": "quran",
+   "title": "Al-Adiyat (Kuda-kuda yang Berlari Kencang)",
+   "summary": "Artikel ini menyajikan penjelasan ringkas dan kajian mengenai Surah al-Adiyat, surah ke-100 dalam al-Quran yang penuh dengan pengajaran tentang sifat manusia dan hari kebangkitan.",
+   "author": "അബ്ദുറഹ്മാന്‍ നാസിര്‍ അസ്സഅദി",
+   "issue_date": "2018-04-28",
+   "html_url": "/ms/quran/surah-al-adiyat-the-chargers-20180428-3.html",
+   "md_url": "/ms/quran/surah-al-adiyat-the-chargers-20180428-3.md"
   },
   {
    "slug": "surah-ash-shu-ara-the-poets-20260822-7",
