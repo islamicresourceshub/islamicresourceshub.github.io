@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-17T08:16:42.445061+00:00",
+ "generated_at": "2026-09-17T08:17:36.997306+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5840,
+ "count": 5841,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -60412,6 +60412,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/ur/opinion/uapa-wielding-sedition-law-20170114-9.html",
    "md_url": "/ur/opinion/uapa-wielding-sedition-law-20170114-9.md"
+  },
+  {
+   "slug": "unanswered-north-kerala-20170401-13",
+   "lang": "ur",
+   "category": "opinion",
+   "title": "جواب طلب شمالی کیرالہ",
+   "summary": "یہ مضمون شمالی کیرالہ میں بڑھتے ہوئے فرقہ وارانہ قتل و غارت اور فسطائی رجحانات کا تنقیدی جائزہ لیتا ہے۔ اس میں ریاستی انتظامیہ کی غفلت پر سوال اٹھایا گیا ہے اور فرقہ وارانہ ہم آہنگی کی ضرورت پر زور دیا گیا ہے۔",
+   "author": "ഡോ. സി.എം സാബിർ നവാസ്",
+   "issue_date": "2017-04-01",
+   "html_url": "/ur/opinion/unanswered-north-kerala-20170401-13.html",
+   "md_url": "/ur/opinion/unanswered-north-kerala-20170401-13.md"
   },
   {
    "slug": "warning-signs-from-the-reconstruction-of-history-20170114-2",
