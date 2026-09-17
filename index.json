@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-17T03:20:04.900307+00:00",
+ "generated_at": "2026-09-17T03:23:57.601075+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5640,
+ "count": 5641,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -51612,6 +51612,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/sw/youth/what-will-the-waste-do-20170114-5.html",
    "md_url": "/sw/youth/what-will-the-waste-do-20170114-5.md"
+  },
+  {
+   "slug": "allegations-of-deviation-and-responses-20170401-8",
+   "lang": "ta",
+   "category": "aqeedah",
+   "title": "கொள்கை பிறழ்வு குற்றச்சாட்டுகளும் பதில்களும்",
+   "summary": "கேரள முஸ்லிம் மறுமலர்ச்சி வரலாற்றின் ஒரு முக்கிய கட்டத்தைப் பற்றிய பதிவு இது. அமைப்பிற்குள் ஏற்பட்ட கொள்கை ரீதியான கருத்து வேறுபாடுகள் மற்றும் அவற்றைச் சரிசெய்ய மேற்கொள்ளப்பட்ட கலந்துரையாடல்கள் இதில் ஆவணப்படுத்தப்பட்டுள்ளன.",
+   "author": "മുബാറക് ബിൻ ഉമർ",
+   "issue_date": "2017-04-01",
+   "html_url": "/ta/aqeedah/allegations-of-deviation-and-responses-20170401-8.html",
+   "md_url": "/ta/aqeedah/allegations-of-deviation-and-responses-20170401-8.md"
   },
   {
    "slug": "celebrating-nabi-day-is-un-islamic-20260822-5",
