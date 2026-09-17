@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-17T04:32:16.557777+00:00",
+ "generated_at": "2026-09-17T04:33:48.552855+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5662,
+ "count": 5663,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -15972,6 +15972,17 @@
    "issue_date": "2026-08-22",
    "html_url": "/id/aqeedah/who-is-wrong-in-ideology-20260822-2.html",
    "md_url": "/id/aqeedah/who-is-wrong-in-ideology-20260822-2.md"
+  },
+  {
+   "slug": "dawah-obligation-and-execution-20170401-9",
+   "lang": "id",
+   "category": "dawah",
+   "title": "Dakwah: Kewajiban dan Pelaksanaannya",
+   "summary": "Artikel ini menjelaskan pentingnya dakwah Islam dan metodologi pelaksanaannya berdasarkan ayat-ayat Al-Qur'an. Penulis menekankan bahwa dakwah adalah tanggung jawab setiap Muslim untuk menyampaikan pesan kebenaran kepada orang lain.",
+   "author": "സജ്ജാദ് ബിൻ അബ്ദുറസാഖ്",
+   "issue_date": "2017-04-01",
+   "html_url": "/id/dawah/dawah-obligation-and-execution-20170401-9.html",
+   "md_url": "/id/dawah/dawah-obligation-and-execution-20170401-9.md"
   },
   {
    "slug": "do-not-be-slaves-to-desires-20170211-11",
