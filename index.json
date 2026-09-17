@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-17T11:15:31.142534+00:00",
+ "generated_at": "2026-09-17T11:16:47.059557+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5959,
+ "count": 5960,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -64229,6 +64229,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/vi/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.html",
    "md_url": "/vi/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.md"
+  },
+  {
+   "slug": "surah-al-adiyat-the-chargers-20180428-3",
+   "lang": "vi",
+   "category": "quran",
+   "title": "Al-Adiyat (Những chiến mã)",
+   "summary": "Bài viết này cung cấp lời giải thích và bài học đơn giản về Surah Al-Adiyat, chương thứ 100 của Kinh Qur'an Thánh.",
+   "author": "അബ്ദുറഹ്മാന്‍ നാസിര്‍ അസ്സഅദി",
+   "issue_date": "2018-04-28",
+   "html_url": "/vi/quran/surah-al-adiyat-the-chargers-20180428-3.html",
+   "md_url": "/vi/quran/surah-al-adiyat-the-chargers-20180428-3.md"
   },
   {
    "slug": "surah-ash-shu-ara-the-poets-20260822-7",
