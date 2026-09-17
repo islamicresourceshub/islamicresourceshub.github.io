@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-17T05:08:39.750531+00:00",
+ "generated_at": "2026-09-17T05:09:38.288834+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5694,
+ "count": 5695,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -8547,6 +8547,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/en/seerah/prophets-and-trials-20170325-7.html",
    "md_url": "/en/seerah/prophets-and-trials-20170325-7.md"
+  },
+  {
+   "slug": "prophets-are-humans-20170401-10",
+   "lang": "en",
+   "category": "seerah",
+   "title": "Prophets are Human Beings",
+   "summary": "This article refutes the excessive beliefs and false propaganda surrounding the Prophets. It clarifies that while Prophets are the most noble of creations, they are fundamentally human beings.",
+   "author": "ഹുസൈൻ സലഫി, ഷാർജ",
+   "issue_date": "2017-04-01",
+   "html_url": "/en/seerah/prophets-are-humans-20170401-10.html",
+   "md_url": "/en/seerah/prophets-are-humans-20170401-10.md"
   },
   {
    "slug": "abdullah-s-mistake-20170204-1",
