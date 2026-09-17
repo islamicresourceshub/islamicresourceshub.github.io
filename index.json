@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-17T06:15:21.319155+00:00",
+ "generated_at": "2026-09-17T06:16:21.216466+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5759,
+ "count": 5760,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -55352,6 +55352,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/th/dawah/what-do-we-have-for-ourselves-20170218-10.html",
    "md_url": "/th/dawah/what-do-we-have-for-ourselves-20170218-10.md"
+  },
+  {
+   "slug": "better-safe-than-sorry-20170401-11",
+   "lang": "th",
+   "category": "family",
+   "title": "ป้องกันไว้ดีกว่าต้องเสียใจภายหลัง",
+   "summary": "บทความนี้อธิบายถึงสาเหตุที่ทำให้บุตรหลานหลงผิดและสิ่งที่ผู้ปกครองควรให้ความสำคัญ โดยเน้นย้ำถึงความสำคัญของการคบเพื่อนที่ดีและการอบรมสั่งสอนตามหลักการอิสลาม",
+   "author": "അഷ്റഫ് എകരൂൽ",
+   "issue_date": "2017-04-01",
+   "html_url": "/th/family/better-safe-than-sorry-20170401-11.html",
+   "md_url": "/th/family/better-safe-than-sorry-20170401-11.md"
   },
   {
    "slug": "children-an-islamic-reading-part-4-20170204-5",
