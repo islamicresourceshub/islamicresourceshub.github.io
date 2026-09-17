@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-17T06:39:38.521002+00:00",
+ "generated_at": "2026-09-17T06:40:36.795656+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5784,
+ "count": 5785,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -38247,6 +38247,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/mr/dawah/do-not-waver-in-trials-20170121-9.html",
    "md_url": "/mr/dawah/do-not-waver-in-trials-20170121-9.md"
+  },
+  {
+   "slug": "getting-closer-to-the-creator-20170401-12",
+   "lang": "mr",
+   "category": "dawah",
+   "title": "स्रष्ट्याशी जवळीक साधणे",
+   "summary": "अल्लाहच्या सानिध्यात पोहोचण्याचे इस्लामिक मार्ग या लेखात स्पष्ट केले आहेत. चुकीच्या संन्यासी पद्धतींचा त्याग करून कुराण आणि प्रेषितांच्या शिकवणीनुसार आचरण करण्याचे महत्त्व यात अधोरेखित केले आहे.",
+   "author": "അബൂ മുഫിദ്",
+   "issue_date": "2017-04-01",
+   "html_url": "/mr/dawah/getting-closer-to-the-creator-20170401-12.html",
+   "md_url": "/mr/dawah/getting-closer-to-the-creator-20170401-12.md"
   },
   {
    "slug": "jallikattu-and-the-islamic-approach-to-animals-20170128-4",
