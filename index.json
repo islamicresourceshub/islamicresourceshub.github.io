@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-17T05:19:42.004042+00:00",
+ "generated_at": "2026-09-17T05:20:45.771477+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5704,
+ "count": 5705,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -20713,6 +20713,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/kn/seerah/prophets-and-trials-20170325-7.html",
    "md_url": "/kn/seerah/prophets-and-trials-20170325-7.md"
+  },
+  {
+   "slug": "prophets-are-humans-20170401-10",
+   "lang": "kn",
+   "category": "seerah",
+   "title": "ಪ್ರವಾದಿಗಳು ಮನುಷ್ಯರೇ",
+   "summary": "ಪ್ರವಾದಿಗಳ ಕುರಿತಾದ ಅತಿಯಾದ ನಂಬಿಕೆಗಳು ಮತ್ತು ತಪ್ಪು ಪ್ರಚಾರಗಳನ್ನು ಈ ಲೇಖನವು ಖಂಡಿಸುತ್ತದೆ. ಪ್ರವಾದಿಗಳು ಮನುಷ್ಯರೇ ಆಗಿದ್ದರೂ ಅವರು ಅತ್ಯುನ್ನತ ವ್ಯಕ್ತಿತ್ವದವರು ಎಂಬುದನ್ನು ಇದು ಸ್ಪಷ್ಟಪಡಿಸುತ್ತದೆ.",
+   "author": "ഹുസൈൻ സലഫി, ഷാർജ",
+   "issue_date": "2017-04-01",
+   "html_url": "/kn/seerah/prophets-are-humans-20170401-10.html",
+   "md_url": "/kn/seerah/prophets-are-humans-20170401-10.md"
   },
   {
    "slug": "abdullah-s-mistake-20170204-1",
