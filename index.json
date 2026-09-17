@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-17T08:40:49.491755+00:00",
+ "generated_at": "2026-09-17T08:41:44.168171+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5865,
+ "count": 5866,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -42944,6 +42944,17 @@
    "issue_date": "2017-04-01",
    "html_url": "/or/history/the-verdict-of-babri-20170401-4.html",
    "md_url": "/or/history/the-verdict-of-babri-20170401-4.md"
+  },
+  {
+   "slug": "alas-asifa-20180428-1",
+   "lang": "or",
+   "category": "opinion",
+   "title": "ଅସଫନ୍ ୟା ଆସିଫା...!",
+   "summary": "କଠୁଆରେ ବଳାତ୍କାର ଓ ହତ୍ୟାର ଶିକାର ହୋଇଥିବା ଆସିଫା ନାମ୍ନୀ ବାଳିକାର ଦୁଃଖଦ ଘଟଣା ଏବଂ ମହିଳା ସୁରକ୍ଷା ସମ୍ବନ୍ଧୀୟ ଚିନ୍ତାଧାରାକୁ ନେଇ ଲିଖିତ ଏକ ପ୍ରବନ୍ଧ।",
+   "author": "ഉസ്മാന്‍ പാലക്കാഴി",
+   "issue_date": "2018-04-28",
+   "html_url": "/or/opinion/alas-asifa-20180428-1.html",
+   "md_url": "/or/opinion/alas-asifa-20180428-1.md"
   },
   {
    "slug": "alcohol-abstinence-or-prohibition-20170225-7",
