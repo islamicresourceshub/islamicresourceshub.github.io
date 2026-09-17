@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-17T06:00:00.477236+00:00",
+ "generated_at": "2026-09-17T06:01:08.036181+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5744,
+ "count": 5745,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -21417,6 +21417,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/ko/dawah/what-do-we-have-for-ourselves-20170218-10.html",
    "md_url": "/ko/dawah/what-do-we-have-for-ourselves-20170218-10.md"
+  },
+  {
+   "slug": "better-safe-than-sorry-20170401-11",
+   "lang": "ko",
+   "category": "family",
+   "title": "미리 조심하면 후회할 일은 없다",
+   "summary": "자녀가 올바른 길에서 벗어나는 원인과 부모가 주의해야 할 점들을 다룹니다. 특히 좋은 교우 관계와 이슬람식 교육의 중요성을 강조합니다.",
+   "author": "അഷ്റഫ് എകരൂൽ",
+   "issue_date": "2017-04-01",
+   "html_url": "/ko/family/better-safe-than-sorry-20170401-11.html",
+   "md_url": "/ko/family/better-safe-than-sorry-20170401-11.md"
   },
   {
    "slug": "children-an-islamic-reading-part-4-20170204-5",
