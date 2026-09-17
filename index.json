@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-17T04:53:43.811320+00:00",
+ "generated_at": "2026-09-17T04:54:50.628051+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5679,
+ "count": 5680,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -52019,6 +52019,17 @@
    "issue_date": "2026-08-22",
    "html_url": "/ta/aqeedah/who-is-wrong-in-ideology-20260822-2.html",
    "md_url": "/ta/aqeedah/who-is-wrong-in-ideology-20260822-2.md"
+  },
+  {
+   "slug": "dawah-obligation-and-execution-20170401-9",
+   "lang": "ta",
+   "category": "dawah",
+   "title": "பிரபோதனம்: கடமையும் நிறைவேற்றமும்",
+   "summary": "இஸ்லாமிய அழைப்புப் பணியின் (தஃவா) முக்கியத்துவத்தையும், குர்ஆன் வசனங்களின் அடிப்படையில் அதை எவ்வாறு மேற்கொள்ள வேண்டும் என்பதையும் இக்கட்டுரை விளக்குகிறது.",
+   "author": "സജ്ജാദ് ബിൻ അബ്ദുറസാഖ്",
+   "issue_date": "2017-04-01",
+   "html_url": "/ta/dawah/dawah-obligation-and-execution-20170401-9.html",
+   "md_url": "/ta/dawah/dawah-obligation-and-execution-20170401-9.md"
   },
   {
    "slug": "do-not-be-slaves-to-desires-20170211-11",
