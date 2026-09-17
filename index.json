@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-17T11:33:28.881651+00:00",
+ "generated_at": "2026-09-17T11:34:35.802271+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5970,
+ "count": 5971,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -12936,6 +12936,17 @@
    "issue_date": "2017-02-11",
    "html_url": "/fr/seerah/ibn-abbas-ra-a-scholar-of-knowledge-20170211-4.html",
    "md_url": "/fr/seerah/ibn-abbas-ra-a-scholar-of-knowledge-20170211-4.md"
+  },
+  {
+   "slug": "prophet-musa-a-s-20180428-4",
+   "lang": "fr",
+   "category": "seerah",
+   "title": "Musa (paix sur lui)",
+   "summary": "Un article détaillant la vie et le parcours prophétique de Musa (paix sur lui), le prophète le plus fréquemment mentionné dans le Saint Coran.",
+   "author": "ഹുസൈന്‍ സലഫി, ഷാര്‍ജ",
+   "issue_date": "2018-04-28",
+   "html_url": "/fr/seerah/prophet-musa-a-s-20180428-4.html",
+   "md_url": "/fr/seerah/prophet-musa-a-s-20180428-4.md"
   },
   {
    "slug": "prophets-and-trials-20170325-7",
