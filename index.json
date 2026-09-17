@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-17T05:55:19.290641+00:00",
+ "generated_at": "2026-09-17T05:56:15.667350+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5739,
+ "count": 5740,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -15268,6 +15268,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/hi/dawah/what-do-we-have-for-ourselves-20170218-10.html",
    "md_url": "/hi/dawah/what-do-we-have-for-ourselves-20170218-10.md"
+  },
+  {
+   "slug": "better-safe-than-sorry-20170401-11",
+   "lang": "hi",
+   "category": "family",
+   "title": "सावधानी बरतें, ताकि बाद में पछताना न पड़े",
+   "summary": "यह लेख बच्चों के पथभ्रष्ट होने के कारणों और अभिभावकों की जिम्मेदारियों पर प्रकाश डालता है। इसमें अच्छी संगति और इस्लामी प्रशिक्षण के महत्व को रेखांकित किया गया है।",
+   "author": "അഷ്റഫ് എകരൂൽ",
+   "issue_date": "2017-04-01",
+   "html_url": "/hi/family/better-safe-than-sorry-20170401-11.html",
+   "md_url": "/hi/family/better-safe-than-sorry-20170401-11.md"
   },
   {
    "slug": "children-an-islamic-reading-part-4-20170204-5",
