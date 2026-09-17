@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-17T05:52:36.340898+00:00",
+ "generated_at": "2026-09-17T05:53:28.399563+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5736,
+ "count": 5737,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -11594,6 +11594,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/fr/dawah/what-do-we-have-for-ourselves-20170218-10.html",
    "md_url": "/fr/dawah/what-do-we-have-for-ourselves-20170218-10.md"
+  },
+  {
+   "slug": "better-safe-than-sorry-20170401-11",
+   "lang": "fr",
+   "category": "family",
+   "title": "Mieux vaut prévenir que guérir",
+   "summary": "Cet article explore les causes de la déviance chez les jeunes et les responsabilités des parents. Il souligne l'importance cruciale d'une éducation islamique bienveillante et d'un entourage sain pour préserver l'équilibre des enfants.",
+   "author": "അഷ്റഫ് എകരൂൽ",
+   "issue_date": "2017-04-01",
+   "html_url": "/fr/family/better-safe-than-sorry-20170401-11.html",
+   "md_url": "/fr/family/better-safe-than-sorry-20170401-11.md"
   },
   {
    "slug": "children-an-islamic-reading-part-4-20170204-5",
