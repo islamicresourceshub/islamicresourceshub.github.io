@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-17T09:28:10.172342+00:00",
+ "generated_at": "2026-09-17T09:29:52.524022+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5905,
+ "count": 5906,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -44308,6 +44308,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/pa/family/thoughts-during-pregnancy-20170218-4.html",
    "md_url": "/pa/family/thoughts-during-pregnancy-20170218-4.md"
+  },
+  {
+   "slug": "vacation-and-family-visits-20180428-2",
+   "lang": "pa",
+   "category": "family",
+   "title": "ਛੁੱਟੀਆਂ ਅਤੇ ਪਰਿਵਾਰਕ ਮੁਲਾਕਾਤਾਂ",
+   "summary": "ਇਹ ਲੇਖ ਛੁੱਟੀਆਂ ਦੌਰਾਨ ਰਿਸ਼ਤੇਦਾਰਾਂ ਨਾਲ ਮੁਲਾਕਾਤ ਕਰਨ ਦੀ ਮਹੱਤਤਾ ਅਤੇ ਬੱਚਿਆਂ 'ਤੇ ਇਸ ਦੇ ਸਕਾਰਾਤਮਕ ਪ੍ਰਭਾਵਾਂ ਬਾਰੇ ਚਰਚਾ ਕਰਦਾ ਹੈ।",
+   "author": "അബൂഫായിദ",
+   "issue_date": "2018-04-28",
+   "html_url": "/pa/family/vacation-and-family-visits-20180428-2.html",
+   "md_url": "/pa/family/vacation-and-family-visits-20180428-2.md"
   },
   {
    "slug": "water-and-life-20170225-5",
