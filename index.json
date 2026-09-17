@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-17T05:40:09.978560+00:00",
+ "generated_at": "2026-09-17T05:41:11.540827+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5723,
+ "count": 5724,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -59367,6 +59367,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/ur/seerah/prophets-and-trials-20170325-7.html",
    "md_url": "/ur/seerah/prophets-and-trials-20170325-7.md"
+  },
+  {
+   "slug": "prophets-are-humans-20170401-10",
+   "lang": "ur",
+   "category": "seerah",
+   "title": "انبیاء انسان ہیں",
+   "summary": "یہ تحریر انبیاء کرام کے بارے میں پائی جانے والی مبالغہ آرائیوں اور غلط عقائد کی تردید کرتی ہے۔ اس میں واضح کیا گیا ہے کہ انبیاء انسان تھے، اگرچہ وہ تمام مخلوقات میں سب سے افضل اور برگزیدہ ہیں۔",
+   "author": "ഹുസൈൻ സലഫി, ഷാർജ",
+   "issue_date": "2017-04-01",
+   "html_url": "/ur/seerah/prophets-are-humans-20170401-10.html",
+   "md_url": "/ur/seerah/prophets-are-humans-20170401-10.md"
   },
   {
    "slug": "abdullah-s-mistake-20170204-1",
