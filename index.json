@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-17T11:34:35.802271+00:00",
+ "generated_at": "2026-09-17T11:36:10.129282+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5971,
+ "count": 5972,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -14234,6 +14234,17 @@
    "issue_date": "2017-02-25",
    "html_url": "/gu/seerah/prophet-muhammad-pbuh-life-and-message-20170225-8.html",
    "md_url": "/gu/seerah/prophet-muhammad-pbuh-life-and-message-20170225-8.md"
+  },
+  {
+   "slug": "prophet-musa-a-s-20180428-4",
+   "lang": "gu",
+   "category": "seerah",
+   "title": "મૂસા (અ)",
+   "summary": "કુરાનમાં સૌથી વધુ વખત ઉલ્લેખિત પયગંબર મૂસા (અ) ના જીવનચરિત્ર અને તેમના પ્રબોધન માર્ગોનું વર્ણન કરતો લેખ.",
+   "author": "ഹുസൈന്‍ സലഫി, ഷാര്‍ജ",
+   "issue_date": "2018-04-28",
+   "html_url": "/gu/seerah/prophet-musa-a-s-20180428-4.html",
+   "md_url": "/gu/seerah/prophet-musa-a-s-20180428-4.md"
   },
   {
    "slug": "prophets-and-trials-20170325-7",
