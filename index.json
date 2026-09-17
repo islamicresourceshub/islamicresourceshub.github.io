@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-17T04:25:52.858479+00:00",
+ "generated_at": "2026-09-17T04:27:08.162096+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5657,
+ "count": 5658,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -9944,6 +9944,17 @@
    "issue_date": "2026-08-22",
    "html_url": "/fa/aqeedah/who-is-wrong-in-ideology-20260822-2.html",
    "md_url": "/fa/aqeedah/who-is-wrong-in-ideology-20260822-2.md"
+  },
+  {
+   "slug": "dawah-obligation-and-execution-20170401-9",
+   "lang": "fa",
+   "category": "dawah",
+   "title": "دعوت: مسئولیت و انجام آن",
+   "summary": "این مقاله به اهمیت دعوت اسلامی و روش‌شناسی انجام آن بر اساس آیات قرآن کریم می‌پردازد و بر ضرورت ابلاغ پیام اسلام به عنوان یک وظیفه ایمانی تأکید می‌کند.",
+   "author": "സജ്ജാദ് ബിൻ അബ്ദുറസാഖ്",
+   "issue_date": "2017-04-01",
+   "html_url": "/fa/dawah/dawah-obligation-and-execution-20170401-9.html",
+   "md_url": "/fa/dawah/dawah-obligation-and-execution-20170401-9.md"
   },
   {
    "slug": "do-not-be-slaves-to-desires-20170211-11",
