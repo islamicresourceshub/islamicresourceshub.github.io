@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-17T08:56:35.871042+00:00",
+ "generated_at": "2026-09-17T08:57:38.086052+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5882,
+ "count": 5883,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -64339,6 +64339,17 @@
    "issue_date": "2017-04-01",
    "html_url": "/zh/history/the-verdict-of-babri-20170401-4.html",
    "md_url": "/zh/history/the-verdict-of-babri-20170401-4.md"
+  },
+  {
+   "slug": "alas-asifa-20180428-1",
+   "lang": "zh",
+   "category": "opinion",
+   "title": "哀哉，阿西法……！",
+   "summary": "本文探讨了卡图瓦地区年幼女孩阿西法遭残忍强奸杀害的悲剧，并反思了社会对女性安全及此类事件背后政治动机的关注。",
+   "author": "ഉസ്മാന്‍ പാലക്കാഴി",
+   "issue_date": "2018-04-28",
+   "html_url": "/zh/opinion/alas-asifa-20180428-1.html",
+   "md_url": "/zh/opinion/alas-asifa-20180428-1.md"
   },
   {
    "slug": "alcohol-abstinence-or-prohibition-20170225-7",
