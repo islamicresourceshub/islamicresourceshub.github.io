@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-17T09:24:49.016263+00:00",
+ "generated_at": "2026-09-17T09:26:23.230893+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5903,
+ "count": 5904,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -41767,6 +41767,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/ne/family/thoughts-during-pregnancy-20170218-4.html",
    "md_url": "/ne/family/thoughts-during-pregnancy-20170218-4.md"
+  },
+  {
+   "slug": "vacation-and-family-visits-20180428-2",
+   "lang": "ne",
+   "category": "family",
+   "title": "बिदाको समय र पारिवारिक भेटघाट",
+   "summary": "बिदाको समयमा आफन्तहरूलाई भेट्नुको महत्त्व र यसले बालबालिकामा पार्ने सकारात्मक प्रभावबारे चर्चा गर्ने एक लेख।",
+   "author": "അബൂഫായിദ",
+   "issue_date": "2018-04-28",
+   "html_url": "/ne/family/vacation-and-family-visits-20180428-2.html",
+   "md_url": "/ne/family/vacation-and-family-visits-20180428-2.md"
   },
   {
    "slug": "water-and-life-20170225-5",
