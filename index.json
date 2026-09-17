@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-17T11:39:39.411502+00:00",
+ "generated_at": "2026-09-17T11:40:37.661214+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5975,
+ "count": 5976,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -19404,6 +19404,17 @@
    "issue_date": "2017-02-25",
    "html_url": "/it/seerah/prophet-muhammad-pbuh-life-and-message-20170225-8.html",
    "md_url": "/it/seerah/prophet-muhammad-pbuh-life-and-message-20170225-8.md"
+  },
+  {
+   "slug": "prophet-musa-a-s-20180428-4",
+   "lang": "it",
+   "category": "seerah",
+   "title": "Musa (pace su di lui)",
+   "summary": "Un articolo che ripercorre la storia della vita e il percorso profetico di Musa (pace su di lui), il profeta menzionato più frequentemente nel Corano.",
+   "author": "ഹുസൈന്‍ സലഫി, ഷാര്‍ജ",
+   "issue_date": "2018-04-28",
+   "html_url": "/it/seerah/prophet-musa-a-s-20180428-4.html",
+   "md_url": "/it/seerah/prophet-musa-a-s-20180428-4.md"
   },
   {
    "slug": "prophets-and-trials-20170325-7",
