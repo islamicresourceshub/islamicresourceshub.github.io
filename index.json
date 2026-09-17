@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-17T05:49:53.024172+00:00",
+ "generated_at": "2026-09-17T05:50:43.326682+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5733,
+ "count": 5734,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -7920,6 +7920,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/en/dawah/what-do-we-have-for-ourselves-20170218-10.html",
    "md_url": "/en/dawah/what-do-we-have-for-ourselves-20170218-10.md"
+  },
+  {
+   "slug": "better-safe-than-sorry-20170401-11",
+   "lang": "en",
+   "category": "family",
+   "title": "Prevention is Better than Regret",
+   "summary": "This article explores the reasons behind children going astray and the responsibilities of parents. It emphasizes the importance of positive companionship and Islamic upbringing in guiding the younger generation.",
+   "author": "അഷ്റഫ് എകരൂൽ",
+   "issue_date": "2017-04-01",
+   "html_url": "/en/family/better-safe-than-sorry-20170401-11.html",
+   "md_url": "/en/family/better-safe-than-sorry-20170401-11.md"
   },
   {
    "slug": "children-an-islamic-reading-part-4-20170204-5",
