@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-17T05:34:46.158582+00:00",
+ "generated_at": "2026-09-17T05:35:49.492608+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5718,
+ "count": 5719,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -53273,6 +53273,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/ta/seerah/prophets-and-trials-20170325-7.html",
    "md_url": "/ta/seerah/prophets-and-trials-20170325-7.md"
+  },
+  {
+   "slug": "prophets-are-humans-20170401-10",
+   "lang": "ta",
+   "category": "seerah",
+   "title": "நபிமார்கள் மனிதர்களே",
+   "summary": "நபிமார்களைப் பற்றிய மிகையான நம்பிக்கைகளையும் தவறான பிரச்சாரங்களையும் இக்கட்டுரை மறுக்கிறது. நபிமார்கள் மனிதர்களாகவே படைக்கப்பட்டார்கள் என்பதையும், அதே சமயம் அவர்கள் மிக உயர்ந்த அந்தஸ்து கொண்டவர்கள் என்பதையும் இது தெளிவுபடுத்துகிறது.",
+   "author": "ഹുസൈൻ സലഫി, ഷാർജ",
+   "issue_date": "2017-04-01",
+   "html_url": "/ta/seerah/prophets-are-humans-20170401-10.html",
+   "md_url": "/ta/seerah/prophets-are-humans-20170401-10.md"
   },
   {
    "slug": "abdullah-s-mistake-20170204-1",
