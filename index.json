@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-17T05:25:20.111130+00:00",
+ "generated_at": "2026-09-17T05:26:28.337524+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5709,
+ "count": 5710,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -42383,6 +42383,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/or/seerah/prophets-and-trials-20170325-7.html",
    "md_url": "/or/seerah/prophets-and-trials-20170325-7.md"
+  },
+  {
+   "slug": "prophets-are-humans-20170401-10",
+   "lang": "or",
+   "category": "seerah",
+   "title": "ପ୍ରଫେଟମାନେ ମନୁଷ୍ୟ ଅଟନ୍ତି",
+   "summary": "ଏହି ଲେଖାଟି ପ୍ରଫେଟମାନଙ୍କ ବିଷୟରେ ରହିଥିବା ଅତ୍ୟଧିକ ବିଶ୍ୱାସ ଏବଂ ଭୁଲ ପ୍ରଚାରକୁ ଖଣ୍ଡନ କରେ। ପ୍ରଫେଟମାନେ ମନୁଷ୍ୟ ହୋଇଥିଲେ ମଧ୍ୟ ସେମାନେ ସର୍ବଶ୍ରେଷ୍ଠ ମାନବ ଥିଲେ ବୋଲି ଏଥିରେ ସ୍ପଷ୍ଟ କରାଯାଇଛି।",
+   "author": "ഹുസൈൻ സലഫി, ഷാർജ",
+   "issue_date": "2017-04-01",
+   "html_url": "/or/seerah/prophets-are-humans-20170401-10.html",
+   "md_url": "/or/seerah/prophets-are-humans-20170401-10.md"
   },
   {
    "slug": "abdullah-s-mistake-20170204-1",
