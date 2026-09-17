@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-17T06:59:58.932417+00:00",
+ "generated_at": "2026-09-17T07:01:20.199155+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5806,
+ "count": 5807,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -2387,6 +2387,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/ar/opinion/uapa-wielding-sedition-law-20170114-9.html",
    "md_url": "/ar/opinion/uapa-wielding-sedition-law-20170114-9.md"
+  },
+  {
+   "slug": "unanswered-north-kerala-20170401-13",
+   "lang": "ar",
+   "category": "opinion",
+   "title": "شمال كيرالا: أسئلة بلا إجابات",
+   "summary": "تحليل نقدي لجرائم القتل الطائفية المتزايدة والتوجهات الفاشية في شمال كيرالا، مع تساؤلات حول تقصير السلطات في اتخاذ إجراءات حازمة.",
+   "author": "ഡോ. സി.എം സാബിർ നവാസ്",
+   "issue_date": "2017-04-01",
+   "html_url": "/ar/opinion/unanswered-north-kerala-20170401-13.html",
+   "md_url": "/ar/opinion/unanswered-north-kerala-20170401-13.md"
   },
   {
    "slug": "warning-signs-from-the-reconstruction-of-history-20170114-2",
