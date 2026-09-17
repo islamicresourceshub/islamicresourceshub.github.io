@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-17T11:32:27.824987+00:00",
+ "generated_at": "2026-09-17T11:33:28.881651+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5969,
+ "count": 5970,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -11649,6 +11649,17 @@
    "issue_date": "2017-02-25",
    "html_url": "/fa/seerah/prophet-muhammad-pbuh-life-and-message-20170225-8.html",
    "md_url": "/fa/seerah/prophet-muhammad-pbuh-life-and-message-20170225-8.md"
+  },
+  {
+   "slug": "prophet-musa-a-s-20180428-4",
+   "lang": "fa",
+   "category": "seerah",
+   "title": "حضرت موسیٰ (علیہ السلام)",
+   "summary": "این مقاله به بررسی زندگی‌نامه، مسیر دعوت و وقایع تاریخی حضرت موسیٰ (علیہ السلام) می‌پردازد که نام مبارک ایشان بیش از هر پیامبر دیگری در قرآن کریم ذکر شده است.",
+   "author": "ഹുസൈന്‍ സലഫി, ഷാര്‍ജ",
+   "issue_date": "2018-04-28",
+   "html_url": "/fa/seerah/prophet-musa-a-s-20180428-4.html",
+   "md_url": "/fa/seerah/prophet-musa-a-s-20180428-4.md"
   },
   {
    "slug": "prophets-and-trials-20170325-7",
