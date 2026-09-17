@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-17T11:21:49.223159+00:00",
+ "generated_at": "2026-09-17T11:25:48.093852+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5962,
+ "count": 5963,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -2596,6 +2596,17 @@
    "issue_date": "2017-02-25",
    "html_url": "/ar/seerah/prophet-muhammad-pbuh-life-and-message-20170225-8.html",
    "md_url": "/ar/seerah/prophet-muhammad-pbuh-life-and-message-20170225-8.md"
+  },
+  {
+   "slug": "prophet-musa-a-s-20180428-4",
+   "lang": "ar",
+   "category": "seerah",
+   "title": "موسى عليه السلام",
+   "summary": "مقال يتناول سيرة النبي موسى عليه السلام، الذي ذُكر في القرآن الكريم أكثر من غيره، ويستعرض مسيرته الدعوية والتحديات التي واجهها في مواجهة طغيان فرعون.",
+   "author": "ഹുസൈന്‍ സലഫി, ഷാര്‍ജ",
+   "issue_date": "2018-04-28",
+   "html_url": "/ar/seerah/prophet-musa-a-s-20180428-4.html",
+   "md_url": "/ar/seerah/prophet-musa-a-s-20180428-4.md"
   },
   {
    "slug": "prophets-and-trials-20170325-7",
