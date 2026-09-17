@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-17T11:57:25.516211+00:00",
+ "generated_at": "2026-09-17T11:58:33.597001+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5990,
+ "count": 5991,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -54384,6 +54384,17 @@
    "issue_date": "2017-02-25",
    "html_url": "/sw/seerah/prophet-muhammad-pbuh-life-and-message-20170225-8.html",
    "md_url": "/sw/seerah/prophet-muhammad-pbuh-life-and-message-20170225-8.md"
+  },
+  {
+   "slug": "prophet-musa-a-s-20180428-4",
+   "lang": "sw",
+   "category": "seerah",
+   "title": "Nabii Musa (A.S)",
+   "summary": "Makala hii inaelezea historia ya maisha na njia za da'wah za Nabii Musa (A.S), ambaye ametajwa mara nyingi zaidi katika Qur'an.",
+   "author": "ഹുസൈന്‍ സലഫി, ഷാര്‍ജ",
+   "issue_date": "2018-04-28",
+   "html_url": "/sw/seerah/prophet-musa-a-s-20180428-4.html",
+   "md_url": "/sw/seerah/prophet-musa-a-s-20180428-4.md"
   },
   {
    "slug": "prophets-and-trials-20170325-7",
