@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-17T06:01:08.036181+00:00",
+ "generated_at": "2026-09-17T06:02:06.814449+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5745,
+ "count": 5746,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -38258,6 +38258,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/mr/dawah/what-do-we-have-for-ourselves-20170218-10.html",
    "md_url": "/mr/dawah/what-do-we-have-for-ourselves-20170218-10.md"
+  },
+  {
+   "slug": "better-safe-than-sorry-20170401-11",
+   "lang": "mr",
+   "category": "family",
+   "title": "सावध राहिल्यास पश्चात्ताप करण्याची वेळ येणार नाही",
+   "summary": "मुले भरकटण्याची कारणे आणि पालकांनी घ्यायची काळजी यावर यात प्रकाश टाकला आहे. चांगल्या मित्रपरिवाराचे महत्त्व आणि इस्लामिक शिस्तीची गरज यावर विशेष भर देण्यात आला आहे.",
+   "author": "അഷ്റഫ് എകരൂൽ",
+   "issue_date": "2017-04-01",
+   "html_url": "/mr/family/better-safe-than-sorry-20170401-11.html",
+   "md_url": "/mr/family/better-safe-than-sorry-20170401-11.md"
   },
   {
    "slug": "children-an-islamic-reading-part-4-20170204-5",
