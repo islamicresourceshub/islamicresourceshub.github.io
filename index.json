@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-17T08:01:35.116439+00:00",
+ "generated_at": "2026-09-17T08:02:37.883536+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5824,
+ "count": 5825,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -40469,6 +40469,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/ms/opinion/uapa-wielding-sedition-law-20170114-9.html",
    "md_url": "/ms/opinion/uapa-wielding-sedition-law-20170114-9.md"
+  },
+  {
+   "slug": "unanswered-north-kerala-20170401-13",
+   "lang": "ms",
+   "category": "opinion",
+   "title": "Utara Kerala yang Tanpa Jawapan",
+   "summary": "Analisis kritikal terhadap peningkatan pembunuhan berasaskan perkauman dan kecenderungan fasis di Utara Kerala. Artikel ini mempersoalkan kegagalan pihak berkuasa dalam menangani ancaman tersebut.",
+   "author": "ഡോ. സി.എം സാബിർ നവാസ്",
+   "issue_date": "2017-04-01",
+   "html_url": "/ms/opinion/unanswered-north-kerala-20170401-13.html",
+   "md_url": "/ms/opinion/unanswered-north-kerala-20170401-13.md"
   },
   {
    "slug": "warning-signs-from-the-reconstruction-of-history-20170114-2",
