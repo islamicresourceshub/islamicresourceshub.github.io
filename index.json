@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-17T06:21:13.909316+00:00",
+ "generated_at": "2026-09-17T06:22:09.177083+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5765,
+ "count": 5766,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -62744,6 +62744,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/zh/dawah/what-do-we-have-for-ourselves-20170218-10.html",
    "md_url": "/zh/dawah/what-do-we-have-for-ourselves-20170218-10.md"
+  },
+  {
+   "slug": "better-safe-than-sorry-20170401-11",
+   "lang": "zh",
+   "category": "family",
+   "title": "防患于未然，免得日后忧伤",
+   "summary": "本文探讨了导致子女误入歧途的原因，并提出了家长应关注的重点。文章强调了良好社交圈和伊斯兰教导在子女成长过程中的重要性。",
+   "author": "അഷ്റഫ് എകരൂൽ",
+   "issue_date": "2017-04-01",
+   "html_url": "/zh/family/better-safe-than-sorry-20170401-11.html",
+   "md_url": "/zh/family/better-safe-than-sorry-20170401-11.md"
   },
   {
    "slug": "children-an-islamic-reading-part-4-20170204-5",
