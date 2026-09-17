@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-17T05:31:32.539225+00:00",
+ "generated_at": "2026-09-17T05:32:33.109553+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5715,
+ "count": 5716,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -49665,6 +49665,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/so/seerah/prophets-and-trials-20170325-7.html",
    "md_url": "/so/seerah/prophets-and-trials-20170325-7.md"
+  },
+  {
+   "slug": "prophets-are-humans-20170401-10",
+   "lang": "so",
+   "category": "seerah",
+   "title": "Nabiyada waa dad",
+   "summary": "Maqaalkani wuxuu ka hadlayaa caqiidada khaldan ee ku saabsan nabiyada, isagoo caddeynaya in nabiyadu ay yihiin dad bini-aadam ah oo leh sharaf iyo maqaam sare, balse aan lahayn sifooyin u gaar ah Ilaahay.",
+   "author": "ഹുസൈൻ സലഫി, ഷാർജ",
+   "issue_date": "2017-04-01",
+   "html_url": "/so/seerah/prophets-are-humans-20170401-10.html",
+   "md_url": "/so/seerah/prophets-are-humans-20170401-10.md"
   },
   {
    "slug": "abdullah-s-mistake-20170204-1",
