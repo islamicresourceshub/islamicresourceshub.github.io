@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-17T06:56:19.923050+00:00",
+ "generated_at": "2026-09-17T06:57:16.479495+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5802,
+ "count": 5803,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -60467,6 +60467,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/uz/dawah/do-not-waver-in-trials-20170121-9.html",
    "md_url": "/uz/dawah/do-not-waver-in-trials-20170121-9.md"
+  },
+  {
+   "slug": "getting-closer-to-the-creator-20170401-12",
+   "lang": "uz",
+   "category": "dawah",
+   "title": "Yaratuvchiga yaqinlashish",
+   "summary": "Ushbu maqolada Allohga yaqinlashishning islomiy yo'llari bayon etiladi. Unda noto'g'ri zohidlik usullari rad etilib, Qur'on va Payg'ambarimiz sunnatiga muvofiq bo'lgan yo'llarni tutish tavsiya qilinadi.",
+   "author": "അബൂ മുഫിദ്",
+   "issue_date": "2017-04-01",
+   "html_url": "/uz/dawah/getting-closer-to-the-creator-20170401-12.html",
+   "md_url": "/uz/dawah/getting-closer-to-the-creator-20170401-12.md"
   },
   {
    "slug": "jallikattu-and-the-islamic-approach-to-animals-20170128-4",
