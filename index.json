@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-17T03:25:09.305773+00:00",
+ "generated_at": "2026-09-17T03:26:01.098224+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5642,
+ "count": 5643,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -53966,6 +53966,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/te/youth/what-will-the-waste-do-20170114-5.html",
    "md_url": "/te/youth/what-will-the-waste-do-20170114-5.md"
+  },
+  {
+   "slug": "allegations-of-deviation-and-responses-20170401-8",
+   "lang": "th",
+   "category": "aqeedah",
+   "title": "ข้อกล่าวหาเรื่องการเบี่ยงเบนและการตอบโต้",
+   "summary": "บันทึกประวัติศาสตร์ช่วงหนึ่งของการฟื้นฟูอิสลามในเกรละ ซึ่งกล่าวถึงความขัดแย้งทางความคิดภายในองค์กรและการอภิปรายเพื่อหาข้อยุติในประเด็นต่างๆ",
+   "author": "മുബാറക് ബിൻ ഉമർ",
+   "issue_date": "2017-04-01",
+   "html_url": "/th/aqeedah/allegations-of-deviation-and-responses-20170401-8.html",
+   "md_url": "/th/aqeedah/allegations-of-deviation-and-responses-20170401-8.md"
   },
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
