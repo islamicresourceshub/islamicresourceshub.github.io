@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-17T12:10:41.557028+00:00",
+ "generated_at": "2026-09-17T12:11:48.851979+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5999,
+ "count": 6000,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -66011,6 +66011,17 @@
    "issue_date": "2017-02-25",
    "html_url": "/zh/seerah/prophet-muhammad-pbuh-life-and-message-20170225-8.html",
    "md_url": "/zh/seerah/prophet-muhammad-pbuh-life-and-message-20170225-8.md"
+  },
+  {
+   "slug": "prophet-musa-a-s-20180428-4",
+   "lang": "zh",
+   "category": "seerah",
+   "title": "穆萨（愿主安拉赐他平安）",
+   "summary": "本文介绍了在古兰经中被提及次数最多的先知穆萨（愿主安拉赐他平安）的生平事迹及其传教历程。",
+   "author": "ഹുസൈന്‍ സലഫി, ഷാര്‍ജ",
+   "issue_date": "2018-04-28",
+   "html_url": "/zh/seerah/prophet-musa-a-s-20180428-4.html",
+   "md_url": "/zh/seerah/prophet-musa-a-s-20180428-4.md"
   },
   {
    "slug": "prophets-and-trials-20170325-7",
