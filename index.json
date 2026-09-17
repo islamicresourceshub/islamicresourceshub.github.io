@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-17T05:36:55.922269+00:00",
+ "generated_at": "2026-09-17T05:37:59.262700+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5720,
+ "count": 5721,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -55704,6 +55704,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/th/seerah/prophets-and-trials-20170325-7.html",
    "md_url": "/th/seerah/prophets-and-trials-20170325-7.md"
+  },
+  {
+   "slug": "prophets-are-humans-20170401-10",
+   "lang": "th",
+   "category": "seerah",
+   "title": "บรรดาศาสดาคือมนุษย์",
+   "summary": "บทความนี้ชี้แจงความเชื่อที่เกินจริงและคำกล่าวอ้างที่ผิดพลาดเกี่ยวกับบรรดาศาสดา โดยยืนยันว่าท่านเหล่านั้นเป็นมนุษย์แม้จะเป็นมนุษย์ที่ประเสริฐที่สุดก็ตาม พร้อมทั้งตักเตือนให้ยึดมั่นในหลักฐานที่ถูกต้องตามบทบัญญัติอิสลาม",
+   "author": "ഹുസൈൻ സലഫി, ഷാർജ",
+   "issue_date": "2017-04-01",
+   "html_url": "/th/seerah/prophets-are-humans-20170401-10.html",
+   "md_url": "/th/seerah/prophets-are-humans-20170401-10.md"
   },
   {
    "slug": "abdullah-s-mistake-20170204-1",
