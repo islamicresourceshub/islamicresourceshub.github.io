@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-17T11:00:25.640047+00:00",
+ "generated_at": "2026-09-17T11:02:13.748595+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5951,
+ "count": 5952,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -53988,6 +53988,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/sw/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.html",
    "md_url": "/sw/quran/praise-be-to-the-lord-of-the-worlds-20170325-9.md"
+  },
+  {
+   "slug": "surah-al-adiyat-the-chargers-20180428-3",
+   "lang": "sw",
+   "category": "quran",
+   "title": "Al-Adiyat (Wanaoana)",
+   "summary": "Makala hii inatoa ufafanuzi rahisi na mafunzo ya Surah al-Adiyat, sura ya 100 katika Qur'ani Tukufu.",
+   "author": "അബ്ദുറഹ്മാന്‍ നാസിര്‍ അസ്സഅദി",
+   "issue_date": "2018-04-28",
+   "html_url": "/sw/quran/surah-al-adiyat-the-chargers-20180428-3.html",
+   "md_url": "/sw/quran/surah-al-adiyat-the-chargers-20180428-3.md"
   },
   {
    "slug": "surah-ash-shu-ara-the-poets-20260822-7",
