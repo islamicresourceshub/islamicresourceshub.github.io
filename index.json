@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-17T05:12:44.768203+00:00",
+ "generated_at": "2026-09-17T05:13:52.859821+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5698,
+ "count": 5699,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -13409,6 +13409,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/gu/seerah/prophets-and-trials-20170325-7.html",
    "md_url": "/gu/seerah/prophets-and-trials-20170325-7.md"
+  },
+  {
+   "slug": "prophets-are-humans-20170401-10",
+   "lang": "gu",
+   "category": "seerah",
+   "title": "પયગંબરો મનુષ્યો છે",
+   "summary": "આ લેખ પયગંબરો વિશેની અતિશયોક્તિપૂર્ણ માન્યતાઓ અને ખોટા પ્રચારનું ખંડન કરે છે. તે સ્પષ્ટ કરે છે કે પયગંબરો મનુષ્યો જ હતા, જોકે તેઓ તમામ માનવજાતમાં શ્રેષ્ઠ અને ઉચ્ચ દરજ્જો ધરાવતા હતા.",
+   "author": "ഹുസൈൻ സലഫി, ഷാർജ",
+   "issue_date": "2017-04-01",
+   "html_url": "/gu/seerah/prophets-are-humans-20170401-10.html",
+   "md_url": "/gu/seerah/prophets-are-humans-20170401-10.md"
   },
   {
    "slug": "abdullah-s-mistake-20170204-1",
