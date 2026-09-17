@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-17T05:04:45.249894+00:00",
+ "generated_at": "2026-09-17T05:05:49.416545+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5690,
+ "count": 5691,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -3685,6 +3685,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/as/seerah/prophets-and-trials-20170325-7.html",
    "md_url": "/as/seerah/prophets-and-trials-20170325-7.md"
+  },
+  {
+   "slug": "prophets-are-humans-20170401-10",
+   "lang": "as",
+   "category": "seerah",
+   "title": "নবীসকল মানুহ",
+   "summary": "এই প্ৰবন্ধটোৱে নবীসকলৰ সম্পৰ্কে থকা অতিৰঞ্জিত বিশ্বাস আৰু ভুল ধাৰণাসমূহ খণ্ডন কৰে। নবীসকল যে মানুহ আছিল, কিন্তু তেওঁলোক যে অতি উচ্চ মৰ্যাদাৰ অধিকাৰী আছিল, সেই কথা ইয়াত স্পষ্ট কৰা হৈছে।",
+   "author": "ഹുസൈൻ സലഫി, ഷാർജ",
+   "issue_date": "2017-04-01",
+   "html_url": "/as/seerah/prophets-are-humans-20170401-10.html",
+   "md_url": "/as/seerah/prophets-are-humans-20170401-10.md"
   },
   {
    "slug": "abdullah-s-mistake-20170204-1",
