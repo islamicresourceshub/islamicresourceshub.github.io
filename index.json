@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-17T05:16:43.290758+00:00",
+ "generated_at": "2026-09-17T05:17:44.259663+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5701,
+ "count": 5702,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -17050,6 +17050,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/id/seerah/prophets-and-trials-20170325-7.html",
    "md_url": "/id/seerah/prophets-and-trials-20170325-7.md"
+  },
+  {
+   "slug": "prophets-are-humans-20170401-10",
+   "lang": "id",
+   "category": "seerah",
+   "title": "Para Nabi Adalah Manusia",
+   "summary": "Artikel ini membantah keyakinan berlebihan dan propaganda keliru mengenai para nabi. Penulis menegaskan bahwa para nabi adalah manusia biasa, meskipun mereka adalah makhluk yang paling mulia.",
+   "author": "ഹുസൈൻ സലഫി, ഷാർജ",
+   "issue_date": "2017-04-01",
+   "html_url": "/id/seerah/prophets-are-humans-20170401-10.html",
+   "md_url": "/id/seerah/prophets-are-humans-20170401-10.md"
   },
   {
    "slug": "abdullah-s-mistake-20170204-1",
