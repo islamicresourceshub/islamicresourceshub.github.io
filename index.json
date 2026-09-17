@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-17T06:43:17.556090+00:00",
+ "generated_at": "2026-09-17T06:44:14.912650+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5788,
+ "count": 5789,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -43175,6 +43175,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/pa/dawah/do-not-waver-in-trials-20170121-9.html",
    "md_url": "/pa/dawah/do-not-waver-in-trials-20170121-9.md"
+  },
+  {
+   "slug": "getting-closer-to-the-creator-20170401-12",
+   "lang": "pa",
+   "category": "dawah",
+   "title": "ਸ੍ਰਿਸ਼ਟੀਕਰਤਾ ਦੇ ਨੇੜੇ ਹੋਣਾ",
+   "summary": "ਇਹ ਲੇਖ ਅੱਲ੍ਹਾ ਦੇ ਨੇੜੇ ਹੋਣ ਦੇ ਇਸਲਾਮੀ ਤਰੀਕਿਆਂ ਬਾਰੇ ਚਰਚਾ ਕਰਦਾ ਹੈ। ਇਹ ਗਲਤ ਸੰਨਿਆਸੀ ਰੀਤਾਂ ਨੂੰ ਰੱਦ ਕਰਦੇ ਹੋਏ ਕੁਰਾਨ ਅਤੇ ਪੈਗੰਬਰ ਮੁਹੰਮਦ (ਸ) ਦੀਆਂ ਸਿੱਖਿਆਵਾਂ ਅਨੁਸਾਰ ਜੀਵਨ ਜਿਊਣ ਦੀ ਸਲਾਹ ਦਿੰਦਾ ਹੈ।",
+   "author": "അബൂ മുഫിദ്",
+   "issue_date": "2017-04-01",
+   "html_url": "/pa/dawah/getting-closer-to-the-creator-20170401-12.html",
+   "md_url": "/pa/dawah/getting-closer-to-the-creator-20170401-12.md"
   },
   {
    "slug": "jallikattu-and-the-islamic-approach-to-animals-20170128-4",
