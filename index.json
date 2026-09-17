@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-17T03:23:57.601075+00:00",
+ "generated_at": "2026-09-17T03:25:09.305773+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 5641,
+ "count": 5642,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -52778,6 +52778,17 @@
    "issue_date": "2017-01-14",
    "html_url": "/ta/youth/what-will-the-waste-do-20170114-5.html",
    "md_url": "/ta/youth/what-will-the-waste-do-20170114-5.md"
+  },
+  {
+   "slug": "allegations-of-deviation-and-responses-20170401-8",
+   "lang": "te",
+   "category": "aqeedah",
+   "title": "വ്യതിയാനാരോപണങ്ങളും പ്രതികരണവും (విచలన ఆరోపణలు మరియు ప్రతిస్పందనలు)",
+   "summary": "కేరళలోని ముస్లిం నవోద్యమ చరిత్రలో ఒక కీలక దశను ఈ వ్యాసం వివరిస్తుంది. సంస్థలోని అంతర్గత సైద్ధాంతిక విభేదాలు మరియు వాటిని పరిష్కరించడానికి జరిగిన చర్చలు, తీసుకున్న నిర్ణయాలను ఇందులో నమోదు చేశారు.",
+   "author": "മുബാറക് ബിൻ ഉമർ",
+   "issue_date": "2017-04-01",
+   "html_url": "/te/aqeedah/allegations-of-deviation-and-responses-20170401-8.html",
+   "md_url": "/te/aqeedah/allegations-of-deviation-and-responses-20170401-8.md"
   },
   {
    "slug": "become-the-guardian-of-the-sources-20170128-9",
