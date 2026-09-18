@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T03:25:08.167465+00:00",
+ "generated_at": "2026-09-18T03:26:19.849284+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6119,
+ "count": 6120,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -3718,6 +3718,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/as/opinion/india-which-way-forward-20170325-2.html",
    "md_url": "/as/opinion/india-which-way-forward-20170325-2.md"
+  },
+  {
+   "slug": "is-a-safe-society-becoming-a-dream-20180428-8",
+   "lang": "as",
+   "category": "opinion",
+   "title": "সুৰক্ষিত সমাজ কি কেৱল এক সপোন হৈ ৰৈ যাব?",
+   "summary": "কাঠুৱাৰ আচিফা হত্যাকাণ্ডৰ পটভূমিত দেশত বৃদ্ধি পোৱা সাম্প্ৰদায়িকতা আৰু মহিলাৰ সুৰক্ষাৰ প্ৰতি থকা ভাবুকিৰ ওপৰত আলোকপাত কৰা এক বিশ্লেষণাত্মক প্ৰবন্ধ।",
+   "author": "അബ്ദുല്ല ബാസില്‍ സി.പി",
+   "issue_date": "2018-04-28",
+   "html_url": "/as/opinion/is-a-safe-society-becoming-a-dream-20180428-8.html",
+   "md_url": "/as/opinion/is-a-safe-society-becoming-a-dream-20180428-8.md"
   },
   {
    "slug": "join-the-party-let-the-battle-begin-20170128-6",
