@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T09:07:26.521788+00:00",
+ "generated_at": "2026-09-18T09:08:19.511965+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6329,
+ "count": 6330,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -24244,6 +24244,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/ko/dawah/what-do-we-have-for-ourselves-20170218-10.html",
    "md_url": "/ko/dawah/what-do-we-have-for-ourselves-20170218-10.md"
+  },
+  {
+   "slug": "who-are-cultural-leaders-20180505-1",
+   "lang": "ko",
+   "category": "dawah",
+   "title": "문화적 지도자란 누구인가?",
+   "summary": "딸의 질문에서 시작된 이 글은 우리 사회의 문화적 지도자란 누구이며, 그들이 가져야 할 진정한 책임과 역할은 무엇인지에 대해 고찰합니다. 사회적 영향력을 가진 이들이 지녀야 할 도덕적 기준과 편향되지 않은 태도의 중요성을 다룹니다.",
+   "author": "ഉസ്മാന്‍ പാലക്കാഴി",
+   "issue_date": "2018-05-05",
+   "html_url": "/ko/dawah/who-are-cultural-leaders-20180505-1.html",
+   "md_url": "/ko/dawah/who-are-cultural-leaders-20180505-1.md"
   },
   {
    "slug": "better-safe-than-sorry-20170401-11",
