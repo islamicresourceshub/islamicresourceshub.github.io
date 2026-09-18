@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T11:56:47.639952+00:00",
+ "generated_at": "2026-09-18T11:57:45.377268+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6460,
+ "count": 6461,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -60038,6 +60038,17 @@
    "issue_date": "2017-04-01",
    "html_url": "/te/dawah/dawah-obligation-and-execution-20170401-9.html",
    "md_url": "/te/dawah/dawah-obligation-and-execution-20170401-9.md"
+  },
+  {
+   "slug": "death-and-patience-20180505-4",
+   "lang": "te",
+   "category": "dawah",
+   "title": "మరణం మరియు సహనం",
+   "summary": "'అఫ్కారున్ ఉఖ్రవియ్య' (పరలోక చింతనలు) శీర్షికలోని ఏడవ భాగం. మరణం మరియు పరీక్షలు ఎదురైనప్పుడు సహనంతో ఎలా వ్యవహరించాలో ఖురాన్ మరియు సున్నతు వెలుగులో ఈ వ్యాసం విశ్లేషిస్తుంది.",
+   "author": "വെള്ളില പി. അബ്ദുല്ല",
+   "issue_date": "2018-05-05",
+   "html_url": "/te/dawah/death-and-patience-20180505-4.html",
+   "md_url": "/te/dawah/death-and-patience-20180505-4.md"
   },
   {
    "slug": "do-not-be-slaves-to-desires-20170211-11",
