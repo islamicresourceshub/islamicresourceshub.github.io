@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T03:24:05.329267+00:00",
+ "generated_at": "2026-09-18T03:25:08.167465+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6118,
+ "count": 6119,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -2376,6 +2376,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/ar/opinion/india-which-way-forward-20170325-2.html",
    "md_url": "/ar/opinion/india-which-way-forward-20170325-2.md"
+  },
+  {
+   "slug": "is-a-safe-society-becoming-a-dream-20180428-8",
+   "lang": "ar",
+   "category": "opinion",
+   "title": "هل أصبح المجتمع الآمن مجرد حلم؟",
+   "summary": "مقالة تناقش تصاعد النزعات الطائفية والتهديدات التي تواجه أمن النساء في الهند، وذلك في أعقاب جريمة قتل الطفلة آصفة في منطقة كاثوا.",
+   "author": "അബ്ദുല്ല ബാസില്‍ സി.പി",
+   "issue_date": "2018-04-28",
+   "html_url": "/ar/opinion/is-a-safe-society-becoming-a-dream-20180428-8.html",
+   "md_url": "/ar/opinion/is-a-safe-society-becoming-a-dream-20180428-8.md"
   },
   {
    "slug": "join-the-party-let-the-battle-begin-20170128-6",
