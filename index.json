@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T06:33:24.288597+00:00",
+ "generated_at": "2026-09-18T06:34:22.361129+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6292,
+ "count": 6293,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -42372,6 +42372,17 @@
    "issue_date": "2017-02-25",
    "html_url": "/ms/dawah/the-path-to-peace-20170225-11.html",
    "md_url": "/ms/dawah/the-path-to-peace-20170225-11.md"
+  },
+  {
+   "slug": "the-relevance-of-cleanliness-20180428-13",
+   "lang": "ms",
+   "category": "dawah",
+   "title": "Kepentingan Kebersihan",
+   "summary": "Artikel ini menjelaskan kepentingan kebersihan dalam Islam dan relevansi sabda Nabi SAW yang menyatakan bahawa kebersihan adalah sebahagian daripada iman. Ia mengupas bagaimana ajaran Islam mengenai kebersihan merangkumi aspek ibadah, kesihatan diri, serta tanggungjawab sosial.",
+   "author": "ഡോ.ജസ്‌റതുന്നിസ",
+   "issue_date": "2018-04-28",
+   "html_url": "/ms/dawah/the-relevance-of-cleanliness-20180428-13.html",
+   "md_url": "/ms/dawah/the-relevance-of-cleanliness-20180428-13.md"
   },
   {
    "slug": "the-religion-that-rejects-terrorism-part-1-20170121-12",
