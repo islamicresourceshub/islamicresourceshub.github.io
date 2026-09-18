@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T10:09:46.408235+00:00",
+ "generated_at": "2026-09-18T10:10:40.427988+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6392,
+ "count": 6393,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -3641,6 +3641,17 @@
    "issue_date": "2017-02-25",
    "html_url": "/as/fiqh/alcohol-islam-s-ever-relevant-approach-20170225-6.html",
    "md_url": "/as/fiqh/alcohol-islam-s-ever-relevant-approach-20170225-6.md"
+  },
+  {
+   "slug": "duties-and-rights-20180505-3",
+   "lang": "as",
+   "category": "fiqh",
+   "title": "কৰ্তব্য আৰু অধিকাৰ",
+   "summary": "ইছলামী আইনশাস্ত্ৰৰ আধাৰত কৰ্তব্য আৰু অধিকাৰ সম্পৰ্কীয় এক আলোচনা। আইনী কৰ্তব্য পালন আৰু অধিকাৰ সুৰক্ষিত কৰাৰ গুৰুত্ব ইয়াত ব্যাখ্যা কৰা হৈছে।",
+   "author": "മുസാഫിര്‍",
+   "issue_date": "2018-05-05",
+   "html_url": "/as/fiqh/duties-and-rights-20180505-3.html",
+   "md_url": "/as/fiqh/duties-and-rights-20180505-3.md"
   },
   {
    "slug": "mosque-construction-some-points-to-note-20170325-5",
