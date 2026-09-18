@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T02:40:42.825329+00:00",
+ "generated_at": "2026-09-18T02:41:35.094586+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6076,
+ "count": 6077,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -65120,6 +65120,17 @@
    "issue_date": "2017-04-01",
    "html_url": "/vi/history/the-verdict-of-babri-20170401-4.html",
    "md_url": "/vi/history/the-verdict-of-babri-20170401-4.md"
+  },
+  {
+   "slug": "a-glance-into-laws-20180428-6",
+   "lang": "vi",
+   "category": "opinion",
+   "title": "Cái nhìn thoáng qua về các bộ luật",
+   "summary": "Một bài viết giải thích đơn giản về Hiến pháp Ấn Độ và các quyền cơ bản mà nó đảm bảo cho công dân. Bài viết cũng phân tích mối quan hệ mật thiết giữa quyền và nghĩa vụ trong khuôn khổ pháp luật.",
+   "author": "മുസാഫിര്‍",
+   "issue_date": "2018-04-28",
+   "html_url": "/vi/opinion/a-glance-into-laws-20180428-6.html",
+   "md_url": "/vi/opinion/a-glance-into-laws-20180428-6.md"
   },
   {
    "slug": "alas-asifa-20180428-1",
