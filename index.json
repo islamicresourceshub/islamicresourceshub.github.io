@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T11:36:56.390723+00:00",
+ "generated_at": "2026-09-18T11:37:50.633869+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6439,
+ "count": 6440,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -14564,6 +14564,17 @@
    "issue_date": "2017-04-01",
    "html_url": "/gu/dawah/dawah-obligation-and-execution-20170401-9.html",
    "md_url": "/gu/dawah/dawah-obligation-and-execution-20170401-9.md"
+  },
+  {
+   "slug": "death-and-patience-20180505-4",
+   "lang": "gu",
+   "category": "dawah",
+   "title": "મૃત્યુ અને ધીરજ",
+   "summary": "'અફકારુન ઉખ્રવિય્ય' (પરલોકના વિચારો) શ્રેણીનો સાતમો ભાગ. આ લેખમાં કુરાનના સંદર્ભો દ્વારા મૃત્યુ અને જીવનની કસોટીઓ સામે ધીરજ રાખવાની આવશ્યકતાનું વિશ્લેષણ કરવામાં આવ્યું છે.",
+   "author": "വെള്ളില പി. അബ്ദുല്ല",
+   "issue_date": "2018-05-05",
+   "html_url": "/gu/dawah/death-and-patience-20180505-4.html",
+   "md_url": "/gu/dawah/death-and-patience-20180505-4.md"
   },
   {
    "slug": "do-not-be-slaves-to-desires-20170211-11",
