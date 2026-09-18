@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T02:21:09.359713+00:00",
+ "generated_at": "2026-09-18T02:21:59.336182+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6054,
+ "count": 6055,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -20625,6 +20625,17 @@
    "issue_date": "2017-04-01",
    "html_url": "/ja/history/the-verdict-of-babri-20170401-4.html",
    "md_url": "/ja/history/the-verdict-of-babri-20170401-4.md"
+  },
+  {
+   "slug": "a-glance-into-laws-20180428-6",
+   "lang": "ja",
+   "category": "opinion",
+   "title": "法体系を俯瞰する",
+   "summary": "インド憲法と、それが市民に保障する基本的人権について分かりやすく解説した記事です。",
+   "author": "മുസാഫിര്‍",
+   "issue_date": "2018-04-28",
+   "html_url": "/ja/opinion/a-glance-into-laws-20180428-6.html",
+   "md_url": "/ja/opinion/a-glance-into-laws-20180428-6.md"
   },
   {
    "slug": "alas-asifa-20180428-1",
