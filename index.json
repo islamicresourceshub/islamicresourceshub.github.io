@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T08:52:20.493255+00:00",
+ "generated_at": "2026-09-18T08:53:31.258457+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6314,
+ "count": 6315,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -3355,6 +3355,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/as/dawah/what-do-we-have-for-ourselves-20170218-10.html",
    "md_url": "/as/dawah/what-do-we-have-for-ourselves-20170218-10.md"
+  },
+  {
+   "slug": "who-are-cultural-leaders-20180505-1",
+   "lang": "as",
+   "category": "dawah",
+   "title": "সাংস্কৃতিক নেতা কোন?",
+   "summary": "এগৰাকী কন্যাৰ প্ৰশ্নৰ পৰা উদ্ভৱ হোৱা এই টোকাত সমাজৰ সাংস্কৃতিক নেতা কোন সেই প্ৰশ্ন উত্থাপন কৰা হৈছে। প্ৰকৃত সাংস্কৃতিক নেতৃত্বৰ স্বৰূপ আৰু দায়িত্বসমূহ বিশ্লেষণ কৰা হৈছে।",
+   "author": "ഉസ്മാന്‍ പാലക്കാഴി",
+   "issue_date": "2018-05-05",
+   "html_url": "/as/dawah/who-are-cultural-leaders-20180505-1.html",
+   "md_url": "/as/dawah/who-are-cultural-leaders-20180505-1.md"
   },
   {
    "slug": "better-safe-than-sorry-20170401-11",
