@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T09:25:59.507734+00:00",
+ "generated_at": "2026-09-18T09:27:00.745551+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6348,
+ "count": 6349,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -66242,6 +66242,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/uz/dawah/what-do-we-have-for-ourselves-20170218-10.html",
    "md_url": "/uz/dawah/what-do-we-have-for-ourselves-20170218-10.md"
+  },
+  {
+   "slug": "who-are-cultural-leaders-20180505-1",
+   "lang": "uz",
+   "category": "dawah",
+   "title": "Madaniyat yetakchilari kimlar?",
+   "summary": "Qizing bergan savolidan kelib chiqqan ushbu maqola jamiyatdagi madaniyat yetakchilari kimlar ekanligini va ularning haqiqiy mas'uliyatini tahlil qiladi. Muallif madaniyat yetakchisi degan nomga loyiq bo'lish uchun qanday fazilatlar zarurligini va bugungi kundagi ayrim salbiy tendensiyalarni tanqidiy ko'z bilan o'rganadi.",
+   "author": "ഉസ്മാന്‍ പാലക്കാഴി",
+   "issue_date": "2018-05-05",
+   "html_url": "/uz/dawah/who-are-cultural-leaders-20180505-1.html",
+   "md_url": "/uz/dawah/who-are-cultural-leaders-20180505-1.md"
   },
   {
    "slug": "better-safe-than-sorry-20170401-11",
