@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T08:44:22.885867+00:00",
+ "generated_at": "2026-09-18T08:46:05.799840+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6308,
+ "count": 6309,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -64416,6 +64416,17 @@
    "issue_date": "2017-02-25",
    "html_url": "/ur/dawah/the-path-to-peace-20170225-11.html",
    "md_url": "/ur/dawah/the-path-to-peace-20170225-11.md"
+  },
+  {
+   "slug": "the-relevance-of-cleanliness-20180428-13",
+   "lang": "ur",
+   "category": "dawah",
+   "title": "صفائی کی اہمیت",
+   "summary": "یہ مضمون اسلام میں صفائی کی اہمیت اور اس نبوی فرمان کی معنویت کو بیان کرتا ہے کہ صفائی ایمان کا حصہ ہے۔",
+   "author": "ഡോ.ജസ്‌റതുന്നിസ",
+   "issue_date": "2018-04-28",
+   "html_url": "/ur/dawah/the-relevance-of-cleanliness-20180428-13.html",
+   "md_url": "/ur/dawah/the-relevance-of-cleanliness-20180428-13.md"
   },
   {
    "slug": "the-religion-that-rejects-terrorism-part-1-20170121-12",
