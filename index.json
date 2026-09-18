@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T03:45:27.940747+00:00",
+ "generated_at": "2026-09-18T03:46:43.494250+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6138,
+ "count": 6139,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -44715,6 +44715,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/or/opinion/india-which-way-forward-20170325-2.html",
    "md_url": "/or/opinion/india-which-way-forward-20170325-2.md"
+  },
+  {
+   "slug": "is-a-safe-society-becoming-a-dream-20180428-8",
+   "lang": "or",
+   "category": "opinion",
+   "title": "ଏକ ସୁରକ୍ଷିତ ସମାଜ କ’ଣ କେବଳ ଏକ ସ୍ୱପ୍ନ ହୋଇ ରହିଯିବ?",
+   "summary": "କଠୁଆରେ ଆସିଫାଙ୍କ ହତ୍ୟାକାଣ୍ଡର ପୃଷ୍ଠଭୂମିରେ ଦେଶରେ ବଢ଼ୁଥିବା ସାମ୍ପ୍ରଦାୟିକତା ଏବଂ ମହିଳାଙ୍କ ସୁରକ୍ଷା ପ୍ରତି ଥିବା ବିପଦକୁ ନେଇ ଏହି ପ୍ରବନ୍ଧଟି ଆଲୋଚନା କରୁଛି।",
+   "author": "അബ്ദുല്ല ബാസില്‍ സി.പി",
+   "issue_date": "2018-04-28",
+   "html_url": "/or/opinion/is-a-safe-society-becoming-a-dream-20180428-8.html",
+   "md_url": "/or/opinion/is-a-safe-society-becoming-a-dream-20180428-8.md"
   },
   {
    "slug": "join-the-party-let-the-battle-begin-20170128-6",
