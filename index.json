@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T11:50:07.468442+00:00",
+ "generated_at": "2026-09-18T11:51:04.108036+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6453,
+ "count": 6454,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -50116,6 +50116,17 @@
    "issue_date": "2017-04-01",
    "html_url": "/pt/dawah/dawah-obligation-and-execution-20170401-9.html",
    "md_url": "/pt/dawah/dawah-obligation-and-execution-20170401-9.md"
+  },
+  {
+   "slug": "death-and-patience-20180505-4",
+   "lang": "pt",
+   "category": "dawah",
+   "title": "A Morte e a Paciência",
+   "summary": "A sétima parte da série 'Afkarun Ukhrawiyya' (Reflexões sobre o Além). Este artigo analisa, através de contextos do Alcorão, a necessidade de responder com paciência diante da morte e das provações da vida.",
+   "author": "വെള്ളില പി. അബ്ദുല്ല",
+   "issue_date": "2018-05-05",
+   "html_url": "/pt/dawah/death-and-patience-20180505-4.html",
+   "md_url": "/pt/dawah/death-and-patience-20180505-4.md"
   },
   {
    "slug": "do-not-be-slaves-to-desires-20170211-11",
