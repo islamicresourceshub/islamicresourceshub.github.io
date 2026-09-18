@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T02:22:56.792371+00:00",
+ "generated_at": "2026-09-18T02:23:58.124834+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6056,
+ "count": 6057,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -23254,6 +23254,17 @@
    "issue_date": "2017-04-01",
    "html_url": "/ko/history/the-verdict-of-babri-20170401-4.html",
    "md_url": "/ko/history/the-verdict-of-babri-20170401-4.md"
+  },
+  {
+   "slug": "a-glance-into-laws-20180428-6",
+   "lang": "ko",
+   "category": "opinion",
+   "title": "법률에 대한 간략한 고찰",
+   "summary": "인도 헌법과 시민에게 보장된 기본권에 대해 알기 쉽게 설명하는 글입니다.",
+   "author": "മുസാഫിര്‍",
+   "issue_date": "2018-04-28",
+   "html_url": "/ko/opinion/a-glance-into-laws-20180428-6.html",
+   "md_url": "/ko/opinion/a-glance-into-laws-20180428-6.md"
   },
   {
    "slug": "alas-asifa-20180428-1",
