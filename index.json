@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T09:02:04.875600+00:00",
+ "generated_at": "2026-09-18T09:02:56.874987+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6323,
+ "count": 6324,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -15884,6 +15884,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/ha/dawah/what-do-we-have-for-ourselves-20170218-10.html",
    "md_url": "/ha/dawah/what-do-we-have-for-ourselves-20170218-10.md"
+  },
+  {
+   "slug": "who-are-cultural-leaders-20180505-1",
+   "lang": "ha",
+   "category": "dawah",
+   "title": "Su waye shugabannin al'adu?",
+   "summary": "Wannan rubutu ya samo asali ne daga tambayar da wata diya ta yi, inda yake binciko wanene ainihin shugabannin al'adu a cikin al'umma. Yana kuma nazarin halaye da nauyin da ke rataye a wuyan wadanda ake kira da wannan suna.",
+   "author": "ഉസ്മാന്‍ പാലക്കാഴി",
+   "issue_date": "2018-05-05",
+   "html_url": "/ha/dawah/who-are-cultural-leaders-20180505-1.html",
+   "md_url": "/ha/dawah/who-are-cultural-leaders-20180505-1.md"
   },
   {
    "slug": "better-safe-than-sorry-20170401-11",
