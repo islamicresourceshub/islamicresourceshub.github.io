@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T09:46:46.768550+00:00",
+ "generated_at": "2026-09-18T09:47:50.890208+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6368,
+ "count": 6369,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -25179,6 +25179,17 @@
    "issue_date": "2026-08-22",
    "html_url": "/ko/quran/surah-ash-shu-ara-the-poets-20260822-7.html",
    "md_url": "/ko/quran/surah-ash-shu-ara-the-poets-20260822-7.md"
+  },
+  {
+   "slug": "surah-az-zalzalah-the-earthquake-tafsir-20180505-2",
+   "lang": "ko",
+   "category": "quran",
+   "title": "잘잘라 - 지진",
+   "summary": "쿠란 제99장인 수라트 아즈잘잘라(지진)에 대한 해설입니다. 세상의 종말에 지구가 겪게 될 거대한 흔들림과 그날 인간이 행한 모든 행위가 낱낱이 드러나게 되는 과정을 설명합니다.",
+   "author": "അബ്ദുറഹ്മാന്‍ നാസിര്‍ അസ്സഅദി",
+   "issue_date": "2018-05-05",
+   "html_url": "/ko/quran/surah-az-zalzalah-the-earthquake-tafsir-20180505-2.html",
+   "md_url": "/ko/quran/surah-az-zalzalah-the-earthquake-tafsir-20180505-2.md"
   },
   {
    "slug": "universal-calls-in-the-quran-19-truth-falsehood-and-human-fr-20260822-3",
