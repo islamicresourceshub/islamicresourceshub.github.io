@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T09:14:30.401515+00:00",
+ "generated_at": "2026-09-18T09:15:42.298169+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6337,
+ "count": 6338,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -50974,6 +50974,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/ru/dawah/what-do-we-have-for-ourselves-20170218-10.html",
    "md_url": "/ru/dawah/what-do-we-have-for-ourselves-20170218-10.md"
+  },
+  {
+   "slug": "who-are-cultural-leaders-20180505-1",
+   "lang": "ru",
+   "category": "dawah",
+   "title": "Кто такие деятели культуры?",
+   "summary": "Заметка, родившаяся из вопроса дочери, поднимает вопрос о том, кто такие деятели культуры в обществе. В ней анализируются природа и обязанности истинного культурного лидерства.",
+   "author": "ഉസ്മാന്‍ പാലക്കാഴി",
+   "issue_date": "2018-05-05",
+   "html_url": "/ru/dawah/who-are-cultural-leaders-20180505-1.html",
+   "md_url": "/ru/dawah/who-are-cultural-leaders-20180505-1.md"
   },
   {
    "slug": "better-safe-than-sorry-20170401-11",
