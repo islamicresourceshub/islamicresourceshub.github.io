@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T10:06:15.625422+00:00",
+ "generated_at": "2026-09-18T10:07:09.175085+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6388,
+ "count": 6389,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -68805,6 +68805,17 @@
    "issue_date": "2026-08-22",
    "html_url": "/vi/quran/surah-ash-shu-ara-the-poets-20260822-7.html",
    "md_url": "/vi/quran/surah-ash-shu-ara-the-poets-20260822-7.md"
+  },
+  {
+   "slug": "surah-az-zalzalah-the-earthquake-tafsir-20180505-2",
+   "lang": "vi",
+   "category": "quran",
+   "title": "Az-Zalzalah (Sự rung chuyển)",
+   "summary": "Bài viết trình bày phần giải thích về chương thứ 99 của Kinh Qur'an, Surah Az-Zalzalah. Nội dung bao gồm ý nghĩa của các câu kinh mô tả ngày tận thế khi trái đất bị rung chuyển dữ dội.",
+   "author": "അബ്ദുറഹ്മാന്‍ നാസിര്‍ അസ്സഅദി",
+   "issue_date": "2018-05-05",
+   "html_url": "/vi/quran/surah-az-zalzalah-the-earthquake-tafsir-20180505-2.html",
+   "md_url": "/vi/quran/surah-az-zalzalah-the-earthquake-tafsir-20180505-2.md"
   },
   {
    "slug": "universal-calls-in-the-quran-19-truth-falsehood-and-human-fr-20260822-3",
