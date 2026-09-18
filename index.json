@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T11:27:32.924147+00:00",
+ "generated_at": "2026-09-18T11:28:37.862368+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6429,
+ "count": 6430,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -319,6 +319,17 @@
    "issue_date": "2017-04-01",
    "html_url": "/am/dawah/dawah-obligation-and-execution-20170401-9.html",
    "md_url": "/am/dawah/dawah-obligation-and-execution-20170401-9.md"
+  },
+  {
+   "slug": "death-and-patience-20180505-4",
+   "lang": "am",
+   "category": "dawah",
+   "title": "ሞት እና ትዕግስት",
+   "summary": "ይህ 'አፍካሩን ኡኽረዊያ' (የአኺራ ሀሳቦች) ተከታታይ ሰባተኛ ክፍል ነው። ጽሁፉ በህይወት ውስጥ የሚያጋጥሙ ሞትን እና የተለያዩ ፈተናዎችን በትዕግስት መቀበል ስላለው አስፈላጊነት በቁርአን እና በነቢዩ ሙሐመድ (ሰ.ዐ.ወ) ትምህርቶች አማካኝነት ይተነትናል።",
+   "author": "വെള്ളില പി. അബ്ദുല്ല",
+   "issue_date": "2018-05-05",
+   "html_url": "/am/dawah/death-and-patience-20180505-4.html",
+   "md_url": "/am/dawah/death-and-patience-20180505-4.md"
   },
   {
    "slug": "do-not-be-slaves-to-desires-20170211-11",
