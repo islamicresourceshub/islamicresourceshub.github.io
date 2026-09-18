@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T09:18:41.764499+00:00",
+ "generated_at": "2026-09-18T09:19:41.441564+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6341,
+ "count": 6342,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -56518,6 +56518,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/sw/dawah/what-do-we-have-for-ourselves-20170218-10.html",
    "md_url": "/sw/dawah/what-do-we-have-for-ourselves-20170218-10.md"
+  },
+  {
+   "slug": "who-are-cultural-leaders-20180505-1",
+   "lang": "sw",
+   "category": "dawah",
+   "title": "Ni nani wanaoitwa viongozi wa kitamaduni?",
+   "summary": "Makala hii iliyochochewa na swali la binti mdogo, inachunguza nani hasa anayestahili kuitwa kiongozi wa kitamaduni katika jamii. Inachambua sifa, wajibu, na changamoto zinazokabili dhana hii ya uongozi wa kitamaduni katika muktadha wa sasa.",
+   "author": "ഉസ്മാന്‍ പാലക്കാഴി",
+   "issue_date": "2018-05-05",
+   "html_url": "/sw/dawah/who-are-cultural-leaders-20180505-1.html",
+   "md_url": "/sw/dawah/who-are-cultural-leaders-20180505-1.md"
   },
   {
    "slug": "better-safe-than-sorry-20170401-11",
