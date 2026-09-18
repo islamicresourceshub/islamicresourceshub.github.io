@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T11:25:26.607613+00:00",
+ "generated_at": "2026-09-18T11:26:31.217777+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6427,
+ "count": 6428,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -68695,6 +68695,17 @@
    "issue_date": "2017-02-25",
    "html_url": "/vi/fiqh/alcohol-islam-s-ever-relevant-approach-20170225-6.html",
    "md_url": "/vi/fiqh/alcohol-islam-s-ever-relevant-approach-20170225-6.md"
+  },
+  {
+   "slug": "duties-and-rights-20180505-3",
+   "lang": "vi",
+   "category": "fiqh",
+   "title": "Nghĩa vụ và Quyền lợi",
+   "summary": "Một nghiên cứu về luật học Hồi giáo liên quan đến nghĩa vụ và quyền lợi. Bài viết giải thích tầm quan trọng của việc thực hiện các nghĩa vụ pháp lý và bảo vệ các quyền lợi cá nhân cũng như xã hội.",
+   "author": "മുസാഫിര്‍",
+   "issue_date": "2018-05-05",
+   "html_url": "/vi/fiqh/duties-and-rights-20180505-3.html",
+   "md_url": "/vi/fiqh/duties-and-rights-20180505-3.md"
   },
   {
    "slug": "mosque-construction-some-points-to-note-20170325-5",
