@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T04:20:42.684897+00:00",
+ "generated_at": "2026-09-18T04:21:46.609418+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6155,
+ "count": 6156,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -67419,6 +67419,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/zh/opinion/india-which-way-forward-20170325-2.html",
    "md_url": "/zh/opinion/india-which-way-forward-20170325-2.md"
+  },
+  {
+   "slug": "is-a-safe-society-becoming-a-dream-20180428-8",
+   "lang": "zh",
+   "category": "opinion",
+   "title": "安全的社会，正在成为一种梦想吗？",
+   "summary": "本文以卡图瓦地区阿西法遇害案为背景，深入探讨了印度国内日益严重的宗派主义倾向以及对女性安全构成的严峻威胁，并呼吁社会各界团结一致抵制法西斯主义。",
+   "author": "അബ്ദുല്ല ബാസില്‍ സി.പി",
+   "issue_date": "2018-04-28",
+   "html_url": "/zh/opinion/is-a-safe-society-becoming-a-dream-20180428-8.html",
+   "md_url": "/zh/opinion/is-a-safe-society-becoming-a-dream-20180428-8.md"
   },
   {
    "slug": "join-the-party-let-the-battle-begin-20170128-6",
