@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T11:04:14.946786+00:00",
+ "generated_at": "2026-09-18T11:05:16.876062+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6408,
+ "count": 6409,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -41877,6 +41877,17 @@
    "issue_date": "2017-02-25",
    "html_url": "/mr/fiqh/alcohol-islam-s-ever-relevant-approach-20170225-6.html",
    "md_url": "/mr/fiqh/alcohol-islam-s-ever-relevant-approach-20170225-6.md"
+  },
+  {
+   "slug": "duties-and-rights-20180505-3",
+   "lang": "mr",
+   "category": "fiqh",
+   "title": "कर्तव्ये आणि अधिकार",
+   "summary": "इस्लामी कायद्यातील कर्तव्ये आणि अधिकारांचा फिक्ह (इस्लामी न्यायशास्त्र) अभ्यास. कायदेशीर कर्तव्ये पार पाडणे आणि अधिकारांचे रक्षण करणे याचे महत्त्व यात स्पष्ट केले आहे.",
+   "author": "മുസാഫിര്‍",
+   "issue_date": "2018-05-05",
+   "html_url": "/mr/fiqh/duties-and-rights-20180505-3.html",
+   "md_url": "/mr/fiqh/duties-and-rights-20180505-3.md"
   },
   {
    "slug": "mosque-construction-some-points-to-note-20170325-5",
