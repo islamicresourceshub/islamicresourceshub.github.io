@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T05:31:49.741296+00:00",
+ "generated_at": "2026-09-18T05:32:43.311425+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6231,
+ "count": 6232,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -65329,6 +65329,17 @@
    "issue_date": "2026-08-22",
    "html_url": "/uz/health/know-this-for-those-caring-for-the-sick-20260822-1.html",
    "md_url": "/uz/health/know-this-for-those-caring-for-the-sick-20260822-1.md"
+  },
+  {
+   "slug": "thyroid-problems-20180428-10",
+   "lang": "uz",
+   "category": "health",
+   "title": "Qalqonsimon bez muammolari",
+   "summary": "Ushbu sog'liqni saqlash maqolasida tananing metabolik jarayonlarini boshqaruvchi qalqonsimon bez bilan bog'liq muammolar va ularning belgilari haqida so'z boradi.",
+   "author": "ഡോ. മുഹമ്മദ് കുട്ടി കണ്ണിയന്‍",
+   "issue_date": "2018-04-28",
+   "html_url": "/uz/health/thyroid-problems-20180428-10.html",
+   "md_url": "/uz/health/thyroid-problems-20180428-10.md"
   },
   {
    "slug": "when-menstruating-20260822-4",
