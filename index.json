@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T02:38:47.030399+00:00",
+ "generated_at": "2026-09-18T02:39:47.434125+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6074,
+ "count": 6075,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -62480,6 +62480,17 @@
    "issue_date": "2017-04-01",
    "html_url": "/ur/history/the-verdict-of-babri-20170401-4.html",
    "md_url": "/ur/history/the-verdict-of-babri-20170401-4.md"
+  },
+  {
+   "slug": "a-glance-into-laws-20180428-6",
+   "lang": "ur",
+   "category": "opinion",
+   "title": "قوانین پر ایک نظر",
+   "summary": "یہ مضمون ہندوستانی آئین اور اس کے ذریعے شہریوں کو فراہم کردہ بنیادی حقوق کی سادہ انداز میں وضاحت کرتا ہے۔",
+   "author": "മുസാഫിര്‍",
+   "issue_date": "2018-04-28",
+   "html_url": "/ur/opinion/a-glance-into-laws-20180428-6.html",
+   "md_url": "/ur/opinion/a-glance-into-laws-20180428-6.md"
   },
   {
    "slug": "alas-asifa-20180428-1",
