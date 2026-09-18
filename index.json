@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T08:39:41.679746+00:00",
+ "generated_at": "2026-09-18T08:42:24.526189+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6306,
+ "count": 6307,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -61644,6 +61644,17 @@
    "issue_date": "2017-02-25",
    "html_url": "/tl/dawah/the-path-to-peace-20170225-11.html",
    "md_url": "/tl/dawah/the-path-to-peace-20170225-11.md"
+  },
+  {
+   "slug": "the-relevance-of-cleanliness-20180428-13",
+   "lang": "tl",
+   "category": "dawah",
+   "title": "Ang Kahalagahan ng Kalinisan",
+   "summary": "Isang artikulo na nagpapaliwanag sa kahalagahan ng kalinisan sa Islam at ang kaugnayan nito sa turo ng Propeta na ang kalinisan ay bahagi ng pananampalataya.",
+   "author": "ഡോ.ജസ്‌റതുന്നിസ",
+   "issue_date": "2018-04-28",
+   "html_url": "/tl/dawah/the-relevance-of-cleanliness-20180428-13.html",
+   "md_url": "/tl/dawah/the-relevance-of-cleanliness-20180428-13.md"
   },
   {
    "slug": "the-religion-that-rejects-terrorism-part-1-20170121-12",
