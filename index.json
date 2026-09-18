@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T05:19:17.975761+00:00",
+ "generated_at": "2026-09-18T05:20:12.190452+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6218,
+ "count": 6219,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -47696,6 +47696,17 @@
    "issue_date": "2026-08-22",
    "html_url": "/ps/health/know-this-for-those-caring-for-the-sick-20260822-1.html",
    "md_url": "/ps/health/know-this-for-those-caring-for-the-sick-20260822-1.md"
+  },
+  {
+   "slug": "thyroid-problems-20180428-10",
+   "lang": "ps",
+   "category": "health",
+   "title": "د تایرایډ ستونزې",
+   "summary": "دا روغتیايي مقاله د تایرایډ غدې په اړه معلومات وړاندې کوي چې د بدن میټابولیزم تنظیموي، او د هغې د ستونزو او نښو نښانو په اړه بحث کوي.",
+   "author": "ഡോ. മുഹമ്മദ് കുട്ടി കണ്ണിയന്‍",
+   "issue_date": "2018-04-28",
+   "html_url": "/ps/health/thyroid-problems-20180428-10.html",
+   "md_url": "/ps/health/thyroid-problems-20180428-10.md"
   },
   {
    "slug": "when-menstruating-20260822-4",
