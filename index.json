@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T03:05:53.094730+00:00",
+ "generated_at": "2026-09-18T03:06:44.893044+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6100,
+ "count": 6101,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -45925,6 +45925,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/pa/opinion/the-shackles-of-consumerist-culture-20170121-13.html",
    "md_url": "/pa/opinion/the-shackles-of-consumerist-culture-20170121-13.md"
+  },
+  {
+   "slug": "the-traps-behind-women-s-liberation-20180428-7",
+   "lang": "pa",
+   "category": "opinion",
+   "title": "ਔਰਤਾਂ ਦੀ ਆਜ਼ਾਦੀ ਦੇ ਪਿੱਛੇ ਲੁਕੀਆਂ ਚਾਲਾਂ",
+   "summary": "ਇਹ ਲੇਖ ਇਸ ਗੱਲ 'ਤੇ ਚਾਨਣਾ ਪਾਉਂਦਾ ਹੈ ਕਿ ਕਿਵੇਂ ਆਧੁਨਿਕ ਸਮਾਜ ਔਰਤਾਂ ਦੀ ਆਜ਼ਾਦੀ ਦੇ ਨਾਮ 'ਤੇ ਉਨ੍ਹਾਂ ਨੂੰ ਸਿਰਫ਼ ਇੱਕ ਵਸਤੂ ਬਣਾ ਕੇ ਪੇਸ਼ ਕਰ ਰਿਹਾ ਹੈ। ਇਹ ਇਸਲਾਮੀ ਦ੍ਰਿਸ਼ਟੀਕੋਣ ਤੋਂ ਔਰਤਾਂ ਦੀ ਅਸਲ ਇੱਜ਼ਤ ਅਤੇ ਸੁਰੱਖਿਆ ਨੂੰ ਸਮਝਣ ਦੀ ਲੋੜ 'ਤੇ ਜ਼ੋਰ ਦਿੰਦਾ ਹੈ।",
+   "author": "ഉമ്മുഖദീജ പൂക്കത്ത് പറമ്പ്",
+   "issue_date": "2018-04-28",
+   "html_url": "/pa/opinion/the-traps-behind-women-s-liberation-20180428-7.html",
+   "md_url": "/pa/opinion/the-traps-behind-women-s-liberation-20180428-7.md"
   },
   {
    "slug": "trump-and-his-racism-20170211-14",
