@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T08:42:24.526189+00:00",
+ "generated_at": "2026-09-18T08:44:22.885867+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6307,
+ "count": 6308,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -63030,6 +63030,17 @@
    "issue_date": "2017-02-25",
    "html_url": "/tr/dawah/the-path-to-peace-20170225-11.html",
    "md_url": "/tr/dawah/the-path-to-peace-20170225-11.md"
+  },
+  {
+   "slug": "the-relevance-of-cleanliness-20180428-13",
+   "lang": "tr",
+   "category": "dawah",
+   "title": "Temizliğin Önemi",
+   "summary": "Bu makale, İslam'da temizliğin taşıdığı büyük önemi ve temizliğin imanın bir parçası olduğunu belirten nebevi öğretilerin günümüzdeki geçerliliğini açıklamaktadır. Kişisel hijyen, çevre temizliği ve ibadet öncesi arınma gibi konuların İslami perspektiften nasıl ele alındığını detaylandırmaktadır.",
+   "author": "ഡോ.ജസ്‌റതുന്നിസ",
+   "issue_date": "2018-04-28",
+   "html_url": "/tr/dawah/the-relevance-of-cleanliness-20180428-13.html",
+   "md_url": "/tr/dawah/the-relevance-of-cleanliness-20180428-13.md"
   },
   {
    "slug": "the-religion-that-rejects-terrorism-part-1-20170121-12",
