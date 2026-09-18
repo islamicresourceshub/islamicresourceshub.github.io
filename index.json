@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T11:20:32.349571+00:00",
+ "generated_at": "2026-09-18T11:21:45.975934+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6423,
+ "count": 6424,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -63019,6 +63019,17 @@
    "issue_date": "2017-02-25",
    "html_url": "/tl/fiqh/alcohol-islam-s-ever-relevant-approach-20170225-6.html",
    "md_url": "/tl/fiqh/alcohol-islam-s-ever-relevant-approach-20170225-6.md"
+  },
+  {
+   "slug": "duties-and-rights-20180505-3",
+   "lang": "tl",
+   "category": "fiqh",
+   "title": "Mga Tungkulin at Karapatan",
+   "summary": "Isang pag-aaral sa fiqh o hurisprudensyang Islamiko tungkol sa mga tungkulin at karapatan. Ipinapaliwanag nito ang kahalagahan ng pagtupad sa mga legal na obligasyon at pagprotekta sa mga karapatan.",
+   "author": "മുസാഫിര്‍",
+   "issue_date": "2018-05-05",
+   "html_url": "/tl/fiqh/duties-and-rights-20180505-3.html",
+   "md_url": "/tl/fiqh/duties-and-rights-20180505-3.md"
   },
   {
    "slug": "mosque-construction-some-points-to-note-20170325-5",
