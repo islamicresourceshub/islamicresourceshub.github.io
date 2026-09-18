@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T11:32:31.189882+00:00",
+ "generated_at": "2026-09-18T11:33:23.381867+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6434,
+ "count": 6435,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -7447,6 +7447,17 @@
    "issue_date": "2017-04-01",
    "html_url": "/de/dawah/dawah-obligation-and-execution-20170401-9.html",
    "md_url": "/de/dawah/dawah-obligation-and-execution-20170401-9.md"
+  },
+  {
+   "slug": "death-and-patience-20180505-4",
+   "lang": "de",
+   "category": "dawah",
+   "title": "Tod und Geduld",
+   "summary": "Der siebte Teil der Reihe 'Afkarun Ukhrawiyya' (Gedanken über das Jenseits). Dieser Beitrag analysiert anhand von Koranversen und Überlieferungen die Notwendigkeit, dem Tod und den Prüfungen des Lebens mit Geduld zu begegnen.",
+   "author": "വെള്ളില പി. അബ്ദുല്ല",
+   "issue_date": "2018-05-05",
+   "html_url": "/de/dawah/death-and-patience-20180505-4.html",
+   "md_url": "/de/dawah/death-and-patience-20180505-4.md"
   },
   {
    "slug": "do-not-be-slaves-to-desires-20170211-11",
