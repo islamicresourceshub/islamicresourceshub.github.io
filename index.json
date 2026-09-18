@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T06:03:25.304073+00:00",
+ "generated_at": "2026-09-18T06:04:27.108570+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6265,
+ "count": 6266,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -59543,6 +59543,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/te/story/the-fruit-of-ingratitude-20170121-7.html",
    "md_url": "/te/story/the-fruit-of-ingratitude-20170121-7.md"
+  },
+  {
+   "slug": "the-path-of-success-20180428-12",
+   "lang": "te",
+   "category": "story",
+   "title": "విజయపథం",
+   "summary": "ఐదు పూటల నమాజు యొక్క ప్రాముఖ్యతను మరియు అది మనిషికి ప్రసాదించే ఆధ్యాత్మిక విజయాన్ని వివరించే ఒక సులభమైన కవిత.",
+   "author": "അബ്ദുൽ ഗഫൂര്‍ പുതുപ്പണം",
+   "issue_date": "2018-04-28",
+   "html_url": "/te/story/the-path-of-success-20180428-12.html",
+   "md_url": "/te/story/the-path-of-success-20180428-12.md"
   },
   {
    "slug": "when-the-burden-of-sin-increases-20170225-10",
