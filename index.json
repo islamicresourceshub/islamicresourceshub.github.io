@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T05:54:19.971734+00:00",
+ "generated_at": "2026-09-18T05:55:07.290305+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6255,
+ "count": 6256,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -45903,6 +45903,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/or/story/the-fruit-of-ingratitude-20170121-7.html",
    "md_url": "/or/story/the-fruit-of-ingratitude-20170121-7.md"
+  },
+  {
+   "slug": "the-path-of-success-20180428-12",
+   "lang": "or",
+   "category": "story",
+   "title": "ସଫଳତାର ପଥ",
+   "summary": "ପାଞ୍ଚ ଓଳି ନମାଜର ଗୁରୁତ୍ୱ ଏବଂ ଏହା ମଣିଷକୁ ପ୍ରଦାନ କରୁଥିବା ଆଧ୍ୟାତ୍ମିକ ସଫଳତା ସମ୍ପର୍କରେ ଏକ ସରଳ କବିତା।",
+   "author": "അബ്ദുൽ ഗഫൂര്‍ പുതുപ്പണം",
+   "issue_date": "2018-04-28",
+   "html_url": "/or/story/the-path-of-success-20180428-12.html",
+   "md_url": "/or/story/the-path-of-success-20180428-12.md"
   },
   {
    "slug": "when-the-burden-of-sin-increases-20170225-10",
