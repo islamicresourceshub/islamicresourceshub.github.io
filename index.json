@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T05:05:18.424271+00:00",
+ "generated_at": "2026-09-18T05:06:13.895372+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6203,
+ "count": 6204,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -11715,6 +11715,17 @@
    "issue_date": "2026-08-22",
    "html_url": "/fa/health/know-this-for-those-caring-for-the-sick-20260822-1.html",
    "md_url": "/fa/health/know-this-for-those-caring-for-the-sick-20260822-1.md"
+  },
+  {
+   "slug": "thyroid-problems-20180428-10",
+   "lang": "fa",
+   "category": "health",
+   "title": "مشکلات تیروئید",
+   "summary": "این مقاله به بررسی غده تیروئید که مسئول تنظیم سوخت‌وساز بدن است، مشکلات مربوط به آن و علائم ناشی از اختلال در عملکرد این غده می‌پردازد.",
+   "author": "ഡോ. മുഹമ്മദ് കുട്ടി കണ്ണിയന്‍",
+   "issue_date": "2018-04-28",
+   "html_url": "/fa/health/thyroid-problems-20180428-10.html",
+   "md_url": "/fa/health/thyroid-problems-20180428-10.md"
   },
   {
    "slug": "when-menstruating-20260822-4",
