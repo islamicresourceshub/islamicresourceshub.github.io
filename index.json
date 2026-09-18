@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T05:40:48.815463+00:00",
+ "generated_at": "2026-09-18T05:41:39.259904+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6241,
+ "count": 6242,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -11132,6 +11132,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/es/story/the-fruit-of-ingratitude-20170121-7.html",
    "md_url": "/es/story/the-fruit-of-ingratitude-20170121-7.md"
+  },
+  {
+   "slug": "the-path-of-success-20180428-12",
+   "lang": "es",
+   "category": "story",
+   "title": "El camino del éxito",
+   "summary": "Un poema que describe de manera sencilla la importancia de las cinco oraciones diarias y el éxito espiritual que estas brindan al ser humano.",
+   "author": "അബ്ദുൽ ഗഫൂര്‍ പുതുപ്പണം",
+   "issue_date": "2018-04-28",
+   "html_url": "/es/story/the-path-of-success-20180428-12.html",
+   "md_url": "/es/story/the-path-of-success-20180428-12.md"
   },
   {
    "slug": "when-the-burden-of-sin-increases-20170225-10",
