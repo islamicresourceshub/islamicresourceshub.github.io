@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T05:38:11.135624+00:00",
+ "generated_at": "2026-09-18T05:39:03.433743+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6238,
+ "count": 6239,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -7018,6 +7018,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/bs/story/the-fruit-of-ingratitude-20170121-7.html",
    "md_url": "/bs/story/the-fruit-of-ingratitude-20170121-7.md"
+  },
+  {
+   "slug": "the-path-of-success-20180428-12",
+   "lang": "bs",
+   "category": "story",
+   "title": "Put uspjeha",
+   "summary": "Pjesma koja na jednostavan način opisuje važnost obavljanja pet dnevnih namaza i duhovni uspjeh koji oni donose čovjeku.",
+   "author": "അബ്ദുൽ ഗഫൂര്‍ പുതുപ്പണം",
+   "issue_date": "2018-04-28",
+   "html_url": "/bs/story/the-path-of-success-20180428-12.html",
+   "md_url": "/bs/story/the-path-of-success-20180428-12.md"
   },
   {
    "slug": "when-the-burden-of-sin-increases-20170225-10",
