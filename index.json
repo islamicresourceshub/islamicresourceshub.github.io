@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T06:23:58.484100+00:00",
+ "generated_at": "2026-09-18T06:24:55.080077+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6283,
+ "count": 6284,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -14333,6 +14333,17 @@
    "issue_date": "2017-02-25",
    "html_url": "/gu/dawah/the-path-to-peace-20170225-11.html",
    "md_url": "/gu/dawah/the-path-to-peace-20170225-11.md"
+  },
+  {
+   "slug": "the-relevance-of-cleanliness-20180428-13",
+   "lang": "gu",
+   "category": "dawah",
+   "title": "સ્વચ્છતાનું મહત્વ",
+   "summary": "આ લેખ ઇસ્લામમાં સ્વચ્છતાના મહત્વ અને 'સ્વચ્છતા એ અડધું ઈમાન છે' તેવા પયગંબર સાહેબના કથનની પ્રસ્તુતતા વિશે સમજાવે છે. તે વ્યક્તિગત સ્વચ્છતા, ધાર્મિક વિધિઓ અને સામાજિક જવાબદારી તરીકે સ્વચ્છતાના વિવિધ પાસાઓ પર પ્રકાશ પાડે છે.",
+   "author": "ഡോ.ജസ്‌റതുന്നിസ",
+   "issue_date": "2018-04-28",
+   "html_url": "/gu/dawah/the-relevance-of-cleanliness-20180428-13.html",
+   "md_url": "/gu/dawah/the-relevance-of-cleanliness-20180428-13.md"
   },
   {
    "slug": "the-religion-that-rejects-terrorism-part-1-20170121-12",
