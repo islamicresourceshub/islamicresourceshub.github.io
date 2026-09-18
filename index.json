@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T10:00:54.278607+00:00",
+ "generated_at": "2026-09-18T10:01:47.759465+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6382,
+ "count": 6383,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -60357,6 +60357,17 @@
    "issue_date": "2026-08-22",
    "html_url": "/te/quran/surah-ash-shu-ara-the-poets-20260822-7.html",
    "md_url": "/te/quran/surah-ash-shu-ara-the-poets-20260822-7.md"
+  },
+  {
+   "slug": "surah-az-zalzalah-the-earthquake-tafsir-20180505-2",
+   "lang": "te",
+   "category": "quran",
+   "title": "സൽസല (പ്രകമ്പനം)",
+   "summary": "ഖുർആനിലെ 99-ാം അധ്യായമായ സൂറത്തുസ്സൽസലയുടെ തഫ്സീർ ഇവിടെ അവതരിപ്പിക്കുന്നു. ഭൂമി കുലുക്കപ്പെടുന്ന അന്ത്യദിനത്തെക്കുറിച്ചുള്ള സൂക്തങ്ങളുടെ അർത്ഥവിശദീകരണവും കർമ്മങ്ങളുടെ പ്രതിഫലത്തെക്കുറിച്ചുള്ള ഓർമ്മപ്പെടുത്തലും ഇതിൽ ഉൾക്കൊള്ളുന്നു.",
+   "author": "അബ്ദുറഹ്മാന്‍ നാസിര്‍ അസ്സഅദി",
+   "issue_date": "2018-05-05",
+   "html_url": "/te/quran/surah-az-zalzalah-the-earthquake-tafsir-20180505-2.html",
+   "md_url": "/te/quran/surah-az-zalzalah-the-earthquake-tafsir-20180505-2.md"
   },
   {
    "slug": "universal-calls-in-the-quran-19-truth-falsehood-and-human-fr-20260822-3",
