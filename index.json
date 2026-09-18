@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T03:01:50.712134+00:00",
+ "generated_at": "2026-09-18T03:02:54.698384+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6096,
+ "count": 6097,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -40634,6 +40634,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/mr/opinion/the-shackles-of-consumerist-culture-20170121-13.html",
    "md_url": "/mr/opinion/the-shackles-of-consumerist-culture-20170121-13.md"
+  },
+  {
+   "slug": "the-traps-behind-women-s-liberation-20180428-7",
+   "lang": "mr",
+   "category": "opinion",
+   "title": "स्त्री स्वातंत्र्याच्या नावाखालील सापळे",
+   "summary": "स्त्री स्वातंत्र्याच्या नावाखाली आधुनिक समाज स्त्रियांना केवळ एक उपभोग्य वस्तू बनवत आहे, या वास्तवावर प्रकाश टाकणारा लेख.",
+   "author": "ഉമ്മുഖദീജ പൂക്കത്ത് പറമ്പ്",
+   "issue_date": "2018-04-28",
+   "html_url": "/mr/opinion/the-traps-behind-women-s-liberation-20180428-7.html",
+   "md_url": "/mr/opinion/the-traps-behind-women-s-liberation-20180428-7.md"
   },
   {
    "slug": "uapa-wielding-sedition-law-20170114-9",
