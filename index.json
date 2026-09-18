@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T05:34:31.916360+00:00",
+ "generated_at": "2026-09-18T05:35:22.822547+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6234,
+ "count": 6235,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -1540,6 +1540,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/am/story/the-fruit-of-ingratitude-20170121-7.html",
    "md_url": "/am/story/the-fruit-of-ingratitude-20170121-7.md"
+  },
+  {
+   "slug": "the-path-of-success-20180428-12",
+   "lang": "am",
+   "category": "story",
+   "title": "የስኬት መንገድ",
+   "summary": "አምስት ጊዜ የሚደረገው የሶላት አስፈላጊነትን እና ለሰው ልጅ የሚሰጠውን መንፈሳዊ ድል በግጥም መልክ የሚያብራራ ጽሑፍ።",
+   "author": "അബ്ദുൽ ഗഫൂര്‍ പുതുപ്പണം",
+   "issue_date": "2018-04-28",
+   "html_url": "/am/story/the-path-of-success-20180428-12.html",
+   "md_url": "/am/story/the-path-of-success-20180428-12.md"
   },
   {
    "slug": "when-the-burden-of-sin-increases-20170225-10",
