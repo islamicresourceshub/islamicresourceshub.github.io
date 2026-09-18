@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T02:28:59.276763+00:00",
+ "generated_at": "2026-09-18T02:29:51.335528+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6063,
+ "count": 6064,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -48059,6 +48059,17 @@
    "issue_date": "2017-04-01",
    "html_url": "/pt/history/the-verdict-of-babri-20170401-4.html",
    "md_url": "/pt/history/the-verdict-of-babri-20170401-4.md"
+  },
+  {
+   "slug": "a-glance-into-laws-20180428-6",
+   "lang": "pt",
+   "category": "opinion",
+   "title": "Um olhar sobre as leis",
+   "summary": "Um artigo que explica de forma simples a Constituição indiana e os direitos fundamentais que ela garante aos cidadãos.",
+   "author": "മുസാഫിര്‍",
+   "issue_date": "2018-04-28",
+   "html_url": "/pt/opinion/a-glance-into-laws-20180428-6.html",
+   "md_url": "/pt/opinion/a-glance-into-laws-20180428-6.md"
   },
   {
    "slug": "alas-asifa-20180428-1",
