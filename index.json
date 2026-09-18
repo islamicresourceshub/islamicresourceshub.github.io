@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T12:05:23.910011+00:00",
+ "generated_at": "2026-09-18T12:06:27.184655+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6469,
+ "count": 6470,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -2266,6 +2266,17 @@
    "issue_date": "2018-05-05",
    "html_url": "/ar/fiqh/duties-and-rights-20180505-3.html",
    "md_url": "/ar/fiqh/duties-and-rights-20180505-3.md"
+  },
+  {
+   "slug": "embalming-the-dead-an-islamic-perspective-20180505-5",
+   "lang": "ar",
+   "category": "fiqh",
+   "title": "تحنيط الميت: من منظور إسلامي",
+   "summary": "مقال يستند إلى المبدأ الإسلامي القائل بأن كرامة الإنسان يجب أن تُصان حتى بعد وفاته. يتناول المقال الحكم الشرعي المتعلق بنقل جثامين المتوفين في الغربة إلى أوطانهم، ومسألة التحنيط في ضوء النصوص الشرعية.",
+   "author": "അഷ്‌റഫ് എകരൂല്‍",
+   "issue_date": "2018-05-05",
+   "html_url": "/ar/fiqh/embalming-the-dead-an-islamic-perspective-20180505-5.html",
+   "md_url": "/ar/fiqh/embalming-the-dead-an-islamic-perspective-20180505-5.md"
   },
   {
    "slug": "mosque-construction-some-points-to-note-20170325-5",
