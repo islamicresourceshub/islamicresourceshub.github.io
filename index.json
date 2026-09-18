@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T04:38:30.169562+00:00",
+ "generated_at": "2026-09-18T04:39:23.506259+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6175,
+ "count": 6176,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -42097,6 +42097,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/ms/history/manusmriti-and-the-caste-system-20170218-7.html",
    "md_url": "/ms/history/manusmriti-and-the-caste-system-20170218-7.md"
+  },
+  {
+   "slug": "reclaim-the-strong-nation-20180428-9",
+   "lang": "ms",
+   "category": "history",
+   "title": "Membina Semula Negara yang Perkasa",
+   "summary": "Artikel ini mengimbau kembali sejarah agung dan tradisi toleransi India, sambil membincangkan keperluan mendesak untuk memulihkan kekuatan dan kestabilan negara tersebut.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2018-04-28",
+   "html_url": "/ms/history/reclaim-the-strong-nation-20180428-9.html",
+   "md_url": "/ms/history/reclaim-the-strong-nation-20180428-9.md"
   },
   {
    "slug": "the-verdict-of-babri-20170401-4",
