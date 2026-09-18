@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T11:47:07.163444+00:00",
+ "generated_at": "2026-09-18T11:48:10.165749+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6450,
+ "count": 6451,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -45848,6 +45848,17 @@
    "issue_date": "2017-04-01",
    "html_url": "/or/dawah/dawah-obligation-and-execution-20170401-9.html",
    "md_url": "/or/dawah/dawah-obligation-and-execution-20170401-9.md"
+  },
+  {
+   "slug": "death-and-patience-20180505-4",
+   "lang": "or",
+   "category": "dawah",
+   "title": "ମୃତ୍ୟୁ ଓ ଧୈର୍ଯ୍ୟ",
+   "summary": "'ଅଫକାରୁନ୍ ଉଖ୍ରବିୟ୍ୟା' (ପରଲୋକ ଚିନ୍ତନ) ସିରିଜର ସପ୍ତମ ଭାଗ। ଏହି ଲେଖାରେ ମୃତ୍ୟୁ ଏବଂ ବିଭିନ୍ନ ପରୀକ୍ଷା ସମୟରେ ଧୈର୍ଯ୍ୟର ସହିତ ମୁକାବିଲା କରିବାର ଆବଶ୍ୟକତାକୁ କୁରାନର ଆଲୋକରେ ବିଶ୍ଳେଷଣ କରାଯାଇଛି।",
+   "author": "വെള്ളില പി. അബ്ദുല്ല",
+   "issue_date": "2018-05-05",
+   "html_url": "/or/dawah/death-and-patience-20180505-4.html",
+   "md_url": "/or/dawah/death-and-patience-20180505-4.md"
   },
   {
    "slug": "do-not-be-slaves-to-desires-20170211-11",
