@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T05:37:12.525495+00:00",
+ "generated_at": "2026-09-18T05:38:11.135624+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6237,
+ "count": 6238,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -5643,6 +5643,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/bn/story/the-fruit-of-ingratitude-20170121-7.html",
    "md_url": "/bn/story/the-fruit-of-ingratitude-20170121-7.md"
+  },
+  {
+   "slug": "the-path-of-success-20180428-12",
+   "lang": "bn",
+   "category": "story",
+   "title": "সাফল্যের পথ",
+   "summary": "পাঁচ ওয়াক্ত নামাজের গুরুত্ব এবং এটি মানুষকে যে আধ্যাত্মিক সাফল্য প্রদান করে, তা নিয়ে সহজ ভাষায় রচিত একটি কবিতা।",
+   "author": "അബ്ദുൽ ഗഫൂര്‍ പുതുപ്പണം",
+   "issue_date": "2018-04-28",
+   "html_url": "/bn/story/the-path-of-success-20180428-12.html",
+   "md_url": "/bn/story/the-path-of-success-20180428-12.md"
   },
   {
    "slug": "when-the-burden-of-sin-increases-20170225-10",
