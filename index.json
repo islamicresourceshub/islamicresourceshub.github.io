@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T06:19:03.357071+00:00",
+ "generated_at": "2026-09-18T06:20:05.864438+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6278,
+ "count": 6279,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -7436,6 +7436,17 @@
    "issue_date": "2017-02-25",
    "html_url": "/de/dawah/the-path-to-peace-20170225-11.html",
    "md_url": "/de/dawah/the-path-to-peace-20170225-11.md"
+  },
+  {
+   "slug": "the-relevance-of-cleanliness-20180428-13",
+   "lang": "de",
+   "category": "dawah",
+   "title": "Die Bedeutung der Reinheit",
+   "summary": "Ein Artikel, der die Bedeutung der Reinheit im Islam erläutert und erklärt, warum sie als Teil des Glaubens gilt, wie es in den Überlieferungen des Propheten zum Ausdruck kommt.",
+   "author": "ഡോ.ജസ്‌റതുന്നിസ",
+   "issue_date": "2018-04-28",
+   "html_url": "/de/dawah/the-relevance-of-cleanliness-20180428-13.html",
+   "md_url": "/de/dawah/the-relevance-of-cleanliness-20180428-13.md"
   },
   {
    "slug": "the-religion-that-rejects-terrorism-part-1-20170121-12",
