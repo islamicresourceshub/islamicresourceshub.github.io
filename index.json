@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T05:48:56.552390+00:00",
+ "generated_at": "2026-09-18T05:49:55.832588+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6249,
+ "count": 6250,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -22088,6 +22088,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/ja/story/the-fruit-of-ingratitude-20170121-7.html",
    "md_url": "/ja/story/the-fruit-of-ingratitude-20170121-7.md"
+  },
+  {
+   "slug": "the-path-of-success-20180428-12",
+   "lang": "ja",
+   "category": "story",
+   "title": "成功への道",
+   "summary": "一日に五度の礼拝が持つ重要性と、それが人間に与える精神的な成功について、分かりやすく綴った詩です。",
+   "author": "അബ്ദുൽ ഗഫൂര്‍ പുതുപ്പണം",
+   "issue_date": "2018-04-28",
+   "html_url": "/ja/story/the-path-of-success-20180428-12.html",
+   "md_url": "/ja/story/the-path-of-success-20180428-12.md"
   },
   {
    "slug": "when-the-burden-of-sin-increases-20170225-10",
