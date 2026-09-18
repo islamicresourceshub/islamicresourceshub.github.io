@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T06:36:33.366836+00:00",
+ "generated_at": "2026-09-18T06:37:28.637125+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6295,
+ "count": 6296,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -46508,6 +46508,17 @@
    "issue_date": "2017-02-25",
    "html_url": "/pa/dawah/the-path-to-peace-20170225-11.html",
    "md_url": "/pa/dawah/the-path-to-peace-20170225-11.md"
+  },
+  {
+   "slug": "the-relevance-of-cleanliness-20180428-13",
+   "lang": "pa",
+   "category": "dawah",
+   "title": "ਸਫ਼ਾਈ ਦੀ ਅਹਿਮੀਅਤ",
+   "summary": "ਇਹ ਲੇਖ ਇਸਲਾਮ ਵਿੱਚ ਸਫ਼ਾਈ ਦੇ ਮਹੱਤਵ ਅਤੇ 'ਸਫ਼ਾਈ ਅੱਧਾ ਈਮਾਨ ਹੈ' ਦੇ ਨਬੀ ਦੇ ਕਥਨ ਦੀ ਸਾਰਥਕਤਾ ਬਾਰੇ ਵਿਸਥਾਰ ਨਾਲ ਚਰਚਾ ਕਰਦਾ ਹੈ। ਇਹ ਦੱਸਦਾ ਹੈ ਕਿ ਕਿਵੇਂ ਇਸਲਾਮੀ ਸਿੱਖਿਆਵਾਂ ਵਿਅਕਤੀਗਤ ਅਤੇ ਸਮਾਜਿਕ ਸਫਾਈ ਨੂੰ ਇੱਕ ਲਾਜ਼ਮੀ ਇਬਾਦਤ ਵਜੋਂ ਪੇਸ਼ ਕਰਦੀਆਂ ਹਨ।",
+   "author": "ഡോ.ജസ്‌റതുന്നിസ",
+   "issue_date": "2018-04-28",
+   "html_url": "/pa/dawah/the-relevance-of-cleanliness-20180428-13.html",
+   "md_url": "/pa/dawah/the-relevance-of-cleanliness-20180428-13.md"
   },
   {
    "slug": "the-religion-that-rejects-terrorism-part-1-20170121-12",
