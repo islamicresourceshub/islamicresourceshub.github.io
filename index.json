@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T06:07:14.985752+00:00",
+ "generated_at": "2026-09-18T06:08:10.169198+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6269,
+ "count": 6270,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -65043,6 +65043,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/ur/story/the-fruit-of-ingratitude-20170121-7.html",
    "md_url": "/ur/story/the-fruit-of-ingratitude-20170121-7.md"
+  },
+  {
+   "slug": "the-path-of-success-20180428-12",
+   "lang": "ur",
+   "category": "story",
+   "title": "کامیابی کی راہ",
+   "summary": "یہ نظم پانچ وقت کی نماز کی اہمیت اور اس سے انسان کو حاصل ہونے والی روحانی کامیابی کے بارے میں سادہ انداز میں بیان کرتی ہے۔",
+   "author": "അബ്ദുൽ ഗഫൂര്‍ പുതുപ്പണം",
+   "issue_date": "2018-04-28",
+   "html_url": "/ur/story/the-path-of-success-20180428-12.html",
+   "md_url": "/ur/story/the-path-of-success-20180428-12.md"
   },
   {
    "slug": "when-the-burden-of-sin-increases-20170225-10",
