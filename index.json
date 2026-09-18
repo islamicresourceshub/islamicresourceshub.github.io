@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T02:53:01.987991+00:00",
+ "generated_at": "2026-09-18T02:54:08.133799+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6088,
+ "count": 6089,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -14410,6 +14410,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/gu/opinion/the-shackles-of-consumerist-culture-20170121-13.html",
    "md_url": "/gu/opinion/the-shackles-of-consumerist-culture-20170121-13.md"
+  },
+  {
+   "slug": "the-traps-behind-women-s-liberation-20180428-7",
+   "lang": "gu",
+   "category": "opinion",
+   "title": "સ્ત્રી સ્વાતંત્ર્યવાદ પાછળના છળકપટ",
+   "summary": "આ લેખ એ વાત પર પ્રકાશ પાડે છે કે કેવી રીતે આધુનિક સમાજ સ્ત્રી સ્વાતંત્ર્યના નામે મહિલાઓને માત્ર એક બજારની વસ્તુ બનાવી રહ્યો છે. તે ઇસ્લામિક દ્રષ્ટિકોણથી સ્ત્રીઓના સન્માન અને સુરક્ષા પર ભાર મૂકે છે.",
+   "author": "ഉമ്മുഖദീജ പൂക്കത്ത് പറമ്പ്",
+   "issue_date": "2018-04-28",
+   "html_url": "/gu/opinion/the-traps-behind-women-s-liberation-20180428-7.html",
+   "md_url": "/gu/opinion/the-traps-behind-women-s-liberation-20180428-7.md"
   },
   {
    "slug": "trump-and-his-racism-20170211-14",
