@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T05:26:18.439229+00:00",
+ "generated_at": "2026-09-18T05:27:09.562843+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6225,
+ "count": 6226,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -57167,6 +57167,17 @@
    "issue_date": "2026-08-22",
    "html_url": "/ta/health/know-this-for-those-caring-for-the-sick-20260822-1.html",
    "md_url": "/ta/health/know-this-for-those-caring-for-the-sick-20260822-1.md"
+  },
+  {
+   "slug": "thyroid-problems-20180428-10",
+   "lang": "ta",
+   "category": "health",
+   "title": "தைராய்டு பிரச்சனைகள்",
+   "summary": "உடலின் வளர்சிதை மாற்றங்களை ஒழுங்குபடுத்தும் தைராய்டு சுரப்பியை பாதிக்கும் பிரச்சனைகள் மற்றும் அவற்றின் அறிகுறிகள் குறித்த மருத்துவக் கட்டுரை.",
+   "author": "ഡോ. മുഹമ്മദ് കുട്ടി കണ്ണിയന്‍",
+   "issue_date": "2018-04-28",
+   "html_url": "/ta/health/thyroid-problems-20180428-10.html",
+   "md_url": "/ta/health/thyroid-problems-20180428-10.md"
   },
   {
    "slug": "when-menstruating-20260822-4",
