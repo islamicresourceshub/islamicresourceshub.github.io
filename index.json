@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T03:08:49.687775+00:00",
+ "generated_at": "2026-09-18T03:09:55.672220+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6103,
+ "count": 6104,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -49907,6 +49907,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/ru/opinion/the-shackles-of-consumerist-culture-20170121-13.html",
    "md_url": "/ru/opinion/the-shackles-of-consumerist-culture-20170121-13.md"
+  },
+  {
+   "slug": "the-traps-behind-women-s-liberation-20180428-7",
+   "lang": "ru",
+   "category": "opinion",
+   "title": "Ловушки, скрывающиеся за идеями женской «свободы»",
+   "summary": "Статья, указывающая на то, как современное общество под предлогом женской свободы превращает женщин в простой товар, и призывающая взглянуть на права женщины через призму исламских предписаний.",
+   "author": "ഉമ്മുഖദീജ പൂക്കത്ത് പറമ്പ്",
+   "issue_date": "2018-04-28",
+   "html_url": "/ru/opinion/the-traps-behind-women-s-liberation-20180428-7.html",
+   "md_url": "/ru/opinion/the-traps-behind-women-s-liberation-20180428-7.md"
   },
   {
    "slug": "trump-and-his-racism-20170211-14",
