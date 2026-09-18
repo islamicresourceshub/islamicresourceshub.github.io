@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T11:13:49.541286+00:00",
+ "generated_at": "2026-09-18T11:15:04.843635+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6417,
+ "count": 6418,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -54582,6 +54582,17 @@
    "issue_date": "2017-02-25",
    "html_url": "/so/fiqh/alcohol-islam-s-ever-relevant-approach-20170225-6.html",
    "md_url": "/so/fiqh/alcohol-islam-s-ever-relevant-approach-20170225-6.md"
+  },
+  {
+   "slug": "duties-and-rights-20180505-3",
+   "lang": "so",
+   "category": "fiqh",
+   "title": "Waajibaadka iyo Xuquuqda",
+   "summary": "Daraasad ku saabsan fiqhiga oo ku saabsan waajibaadka iyo xuquuqda sharciga Islaamka. Waxay sharraxaysaa muhiimadda ay leedahay gudashada waajibaadka sharciga ah iyo ilaalinta xuquuqda.",
+   "author": "മുസാഫിര്‍",
+   "issue_date": "2018-05-05",
+   "html_url": "/so/fiqh/duties-and-rights-20180505-3.html",
+   "md_url": "/so/fiqh/duties-and-rights-20180505-3.md"
   },
   {
    "slug": "mosque-construction-some-points-to-note-20170325-5",
