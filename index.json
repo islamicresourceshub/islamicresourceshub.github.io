@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T02:41:35.094586+00:00",
+ "generated_at": "2026-09-18T02:42:29.750709+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6077,
+ "count": 6078,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -66440,6 +66440,17 @@
    "issue_date": "2017-04-01",
    "html_url": "/zh/history/the-verdict-of-babri-20170401-4.html",
    "md_url": "/zh/history/the-verdict-of-babri-20170401-4.md"
+  },
+  {
+   "slug": "a-glance-into-laws-20180428-6",
+   "lang": "zh",
+   "category": "opinion",
+   "title": "法律一瞥",
+   "summary": "本文简要介绍了印度宪法，并以通俗易懂的方式阐述了宪法赋予公民的基本权利及其与法律义务之间的关系。",
+   "author": "മുസാഫിര്‍",
+   "issue_date": "2018-04-28",
+   "html_url": "/zh/opinion/a-glance-into-laws-20180428-6.html",
+   "md_url": "/zh/opinion/a-glance-into-laws-20180428-6.md"
   },
   {
    "slug": "alas-asifa-20180428-1",
