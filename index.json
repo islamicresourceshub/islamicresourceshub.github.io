@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T03:11:00.460844+00:00",
+ "generated_at": "2026-09-18T03:12:03.345709+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6105,
+ "count": 6106,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -52547,6 +52547,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/so/opinion/the-shackles-of-consumerist-culture-20170121-13.html",
    "md_url": "/so/opinion/the-shackles-of-consumerist-culture-20170121-13.md"
+  },
+  {
+   "slug": "the-traps-behind-women-s-liberation-20180428-7",
+   "lang": "so",
+   "category": "opinion",
+   "title": "Dabinaha ku jira xorriyadda haweenka",
+   "summary": "Maqaalkani wuxuu iftiiminayaa sida bulshada casriga ah ay haweenka ugu beddeshay badeeco ganacsi iyadoo adeegsanaysa magaca xorriyadda, wuxuuna ku boorrinayaa in dib loogu laabto manhajka Islaamka si loo helo sharaf iyo badbaado dhab ah.",
+   "author": "ഉമ്മുഖദീജ പൂക്കത്ത് പറമ്പ്",
+   "issue_date": "2018-04-28",
+   "html_url": "/so/opinion/the-traps-behind-women-s-liberation-20180428-7.html",
+   "md_url": "/so/opinion/the-traps-behind-women-s-liberation-20180428-7.md"
   },
   {
    "slug": "uapa-wielding-sedition-law-20170114-9",
