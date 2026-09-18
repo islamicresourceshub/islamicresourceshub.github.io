@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T03:49:37.974481+00:00",
+ "generated_at": "2026-09-18T03:50:38.439207+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6142,
+ "count": 6143,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -50072,6 +50072,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/ru/opinion/india-which-way-forward-20170325-2.html",
    "md_url": "/ru/opinion/india-which-way-forward-20170325-2.md"
+  },
+  {
+   "slug": "is-a-safe-society-becoming-a-dream-20180428-8",
+   "lang": "ru",
+   "category": "opinion",
+   "title": "Становится ли безопасное общество лишь мечтой?",
+   "summary": "Статья обсуждает рост религиозной нетерпимости и угрозы безопасности женщин в Индии на фоне трагического убийства восьмилетней Асифы в Катхуа. Автор призывает к единству всех слоев общества перед лицом фашистских идеологий и подчеркивает важность сохранения мира и взаимопонимания.",
+   "author": "അബ്ദുല്ല ബാസില്‍ സി.പി",
+   "issue_date": "2018-04-28",
+   "html_url": "/ru/opinion/is-a-safe-society-becoming-a-dream-20180428-8.html",
+   "md_url": "/ru/opinion/is-a-safe-society-becoming-a-dream-20180428-8.md"
   },
   {
    "slug": "join-the-party-let-the-battle-begin-20170128-6",
