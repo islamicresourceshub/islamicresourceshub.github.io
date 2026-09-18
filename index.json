@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T11:38:44.593874+00:00",
+ "generated_at": "2026-09-18T11:39:41.870203+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6441,
+ "count": 6442,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -17424,6 +17424,17 @@
    "issue_date": "2017-04-01",
    "html_url": "/hi/dawah/dawah-obligation-and-execution-20170401-9.html",
    "md_url": "/hi/dawah/dawah-obligation-and-execution-20170401-9.md"
+  },
+  {
+   "slug": "death-and-patience-20180505-4",
+   "lang": "hi",
+   "category": "dawah",
+   "title": "मृत्यु और धैर्य",
+   "summary": "'अफ़कारुन उख्रविय्या' (परलोक संबंधी विचार) श्रृंखला का सातवां भाग। यह लेख कुरान के संदर्भों के माध्यम से मृत्यु और जीवन की परीक्षाओं के प्रति धैर्यवान बने रहने की आवश्यकता का विश्लेषण करता है।",
+   "author": "വെള്ളില പി. അബ്ദുല്ല",
+   "issue_date": "2018-05-05",
+   "html_url": "/hi/dawah/death-and-patience-20180505-4.html",
+   "md_url": "/hi/dawah/death-and-patience-20180505-4.md"
   },
   {
    "slug": "do-not-be-slaves-to-desires-20170211-11",
