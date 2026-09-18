@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T05:44:14.130505+00:00",
+ "generated_at": "2026-09-18T05:45:06.645770+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6245,
+ "count": 6246,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -16610,6 +16610,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/ha/story/the-fruit-of-ingratitude-20170121-7.html",
    "md_url": "/ha/story/the-fruit-of-ingratitude-20170121-7.md"
+  },
+  {
+   "slug": "the-path-of-success-20180428-12",
+   "lang": "ha",
+   "category": "story",
+   "title": "Hanyar Nasara",
+   "summary": "Waka ce mai sauki da ke bayyana muhimmancin sallar farilla guda biyar da kuma nasarar ruhaniya da take ba wa dan Adam.",
+   "author": "അബ്ദുൽ ഗഫൂര്‍ പുതുപ്പണം",
+   "issue_date": "2018-04-28",
+   "html_url": "/ha/story/the-path-of-success-20180428-12.html",
+   "md_url": "/ha/story/the-path-of-success-20180428-12.md"
   },
   {
    "slug": "when-the-burden-of-sin-increases-20170225-10",
