@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T08:55:41.033914+00:00",
+ "generated_at": "2026-09-18T08:56:50.112988+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6317,
+ "count": 6318,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -7535,6 +7535,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/de/dawah/what-do-we-have-for-ourselves-20170218-10.html",
    "md_url": "/de/dawah/what-do-we-have-for-ourselves-20170218-10.md"
+  },
+  {
+   "slug": "who-are-cultural-leaders-20180505-1",
+   "lang": "de",
+   "category": "dawah",
+   "title": "Wer sind Kulturpersönlichkeiten?",
+   "summary": "Dieser Beitrag entstand aus der Frage einer Tochter und stellt die Frage, wer die Kulturpersönlichkeiten in der Gesellschaft sind. Er analysiert die Natur und die Verantwortlichkeiten wahrer kultureller Führung.",
+   "author": "ഉസ്മാന്‍ പാലക്കാഴി",
+   "issue_date": "2018-05-05",
+   "html_url": "/de/dawah/who-are-cultural-leaders-20180505-1.html",
+   "md_url": "/de/dawah/who-are-cultural-leaders-20180505-1.md"
   },
   {
    "slug": "better-safe-than-sorry-20170401-11",
