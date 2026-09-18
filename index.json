@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T06:22:59.953729+00:00",
+ "generated_at": "2026-09-18T06:23:58.484100+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6282,
+ "count": 6283,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -12958,6 +12958,17 @@
    "issue_date": "2017-02-25",
    "html_url": "/fr/dawah/the-path-to-peace-20170225-11.html",
    "md_url": "/fr/dawah/the-path-to-peace-20170225-11.md"
+  },
+  {
+   "slug": "the-relevance-of-cleanliness-20180428-13",
+   "lang": "fr",
+   "category": "dawah",
+   "title": "La pertinence de la propreté",
+   "summary": "Cet article explore l'importance de la propreté en islam et la signification profonde de la parole prophétique selon laquelle la pureté fait partie intégrante de la foi.",
+   "author": "ഡോ.ജസ്‌റതുന്നിസ",
+   "issue_date": "2018-04-28",
+   "html_url": "/fr/dawah/the-relevance-of-cleanliness-20180428-13.html",
+   "md_url": "/fr/dawah/the-relevance-of-cleanliness-20180428-13.md"
   },
   {
    "slug": "the-religion-that-rejects-terrorism-part-1-20170121-12",
