@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T03:46:43.494250+00:00",
+ "generated_at": "2026-09-18T03:47:45.894872+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6139,
+ "count": 6140,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -46057,6 +46057,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/pa/opinion/india-which-way-forward-20170325-2.html",
    "md_url": "/pa/opinion/india-which-way-forward-20170325-2.md"
+  },
+  {
+   "slug": "is-a-safe-society-becoming-a-dream-20180428-8",
+   "lang": "pa",
+   "category": "opinion",
+   "title": "ਕੀ ਇੱਕ ਸੁਰੱਖਿਅਤ ਸਮਾਜ ਸਿਰਫ਼ ਇੱਕ ਸੁਪਨਾ ਬਣ ਕੇ ਰਹਿ ਜਾਵੇਗਾ?",
+   "summary": "ਕਠੂਆ ਵਿੱਚ ਆਸਿਫਾ ਦੇ ਕਤਲ ਦੇ ਪਿਛੋਕੜ ਵਿੱਚ, ਇਹ ਲੇਖ ਭਾਰਤ ਵਿੱਚ ਵੱਧ ਰਹੀ ਫਿਰਕਾਪ੍ਰਸਤੀ ਅਤੇ ਔਰਤਾਂ ਦੀ ਸੁਰੱਖਿਆ ਨੂੰ ਦਰਪੇਸ਼ ਖਤਰਿਆਂ ਬਾਰੇ ਚਰਚਾ ਕਰਦਾ ਹੈ। ਇਹ ਸਮਾਜਿਕ ਸਦਭਾਵਨਾ ਅਤੇ ਫਾਸ਼ੀਵਾਦੀ ਵਿਚਾਰਧਾਰਾ ਦੇ ਟਾਕਰੇ ਦੀ ਲੋੜ 'ਤੇ ਜ਼ੋਰ ਦਿੰਦਾ ਹੈ।",
+   "author": "അബ്ദുല്ല ബാസില്‍ സി.പി",
+   "issue_date": "2018-04-28",
+   "html_url": "/pa/opinion/is-a-safe-society-becoming-a-dream-20180428-8.html",
+   "md_url": "/pa/opinion/is-a-safe-society-becoming-a-dream-20180428-8.md"
   },
   {
    "slug": "join-the-party-let-the-battle-begin-20170128-6",
