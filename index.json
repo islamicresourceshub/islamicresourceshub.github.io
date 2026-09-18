@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T03:30:17.556633+00:00",
+ "generated_at": "2026-09-18T03:31:18.866087+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6124,
+ "count": 6125,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -10406,6 +10406,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/es/opinion/india-which-way-forward-20170325-2.html",
    "md_url": "/es/opinion/india-which-way-forward-20170325-2.md"
+  },
+  {
+   "slug": "is-a-safe-society-becoming-a-dream-20180428-8",
+   "lang": "es",
+   "category": "opinion",
+   "title": "¿Se está convirtiendo en un sueño una sociedad segura?",
+   "summary": "Un artículo que analiza el creciente comunalismo y las amenazas a la seguridad de las mujeres en la India, a raíz del brutal asesinato de Asifa en Kathua. El texto reflexiona sobre la necesidad de unidad frente al fascismo y la importancia de no caer en las provocaciones que buscan dividir a la sociedad.",
+   "author": "അബ്ദുല്ല ബാസില്‍ സി.പി",
+   "issue_date": "2018-04-28",
+   "html_url": "/es/opinion/is-a-safe-society-becoming-a-dream-20180428-8.html",
+   "md_url": "/es/opinion/is-a-safe-society-becoming-a-dream-20180428-8.md"
   },
   {
    "slug": "join-the-party-let-the-battle-begin-20170128-6",
