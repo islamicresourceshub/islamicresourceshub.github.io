@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T03:47:45.894872+00:00",
+ "generated_at": "2026-09-18T03:48:39.308699+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6140,
+ "count": 6141,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -47388,6 +47388,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/ps/opinion/india-which-way-forward-20170325-2.html",
    "md_url": "/ps/opinion/india-which-way-forward-20170325-2.md"
+  },
+  {
+   "slug": "is-a-safe-society-becoming-a-dream-20180428-8",
+   "lang": "ps",
+   "category": "opinion",
+   "title": "آیا یو خوندي ټولنه یوازې په خوب بدلېږي؟",
+   "summary": "دا مقاله د کټوه په سیمه کې د آصفه په نوم د یوې ماشومې د وژنې په پلمه په هند کې د مخ پر زیاتېدونکې مذهبي کرکې او د ښځو د خوندیتوب د ننګونو په اړه بحث کوي. لیکوال د دې پېښې له لارې د ټولنیز یووالي او د فاشیزم پر وړاندې د ګډې مبارزې پر اړتیا ټینګار کوي.",
+   "author": "അബ്ദുല്ല ബാസില്‍ സി.പി",
+   "issue_date": "2018-04-28",
+   "html_url": "/ps/opinion/is-a-safe-society-becoming-a-dream-20180428-8.html",
+   "md_url": "/ps/opinion/is-a-safe-society-becoming-a-dream-20180428-8.md"
   },
   {
    "slug": "join-the-party-let-the-battle-begin-20170128-6",
