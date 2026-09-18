@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T11:24:13.915436+00:00",
+ "generated_at": "2026-09-18T11:25:26.607613+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6426,
+ "count": 6427,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -67276,6 +67276,17 @@
    "issue_date": "2017-02-25",
    "html_url": "/uz/fiqh/alcohol-islam-s-ever-relevant-approach-20170225-6.html",
    "md_url": "/uz/fiqh/alcohol-islam-s-ever-relevant-approach-20170225-6.md"
+  },
+  {
+   "slug": "duties-and-rights-20180505-3",
+   "lang": "uz",
+   "category": "fiqh",
+   "title": "Majburiyatlar va huquqlar",
+   "summary": "Ushbu maqola islom huquqshunosligi nuqtai nazaridan majburiyatlar va huquqlar tushunchasini tahlil qiladi. Unda qonuniy majburiyatlarni bajarish va huquqlarni himoya qilishning ahamiyati hamda fuqarolik va jinoiy huquq o'rtasidagi farqlar yoritilgan.",
+   "author": "മുസാഫിര്‍",
+   "issue_date": "2018-05-05",
+   "html_url": "/uz/fiqh/duties-and-rights-20180505-3.html",
+   "md_url": "/uz/fiqh/duties-and-rights-20180505-3.md"
   },
   {
    "slug": "mosque-construction-some-points-to-note-20170325-5",
