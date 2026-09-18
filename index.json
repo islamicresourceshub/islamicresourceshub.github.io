@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T06:04:27.108570+00:00",
+ "generated_at": "2026-09-18T06:05:25.071034+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6266,
+ "count": 6267,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -60918,6 +60918,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/th/story/the-fruit-of-ingratitude-20170121-7.html",
    "md_url": "/th/story/the-fruit-of-ingratitude-20170121-7.md"
+  },
+  {
+   "slug": "the-path-of-success-20180428-12",
+   "lang": "th",
+   "category": "story",
+   "title": "หนทางสู่ความสำเร็จ",
+   "summary": "บทกวีที่อธิบายถึงความสำคัญของการละหมาดห้าเวลาและความสำเร็จทางจิตวิญญาณที่มนุษย์จะได้รับอย่างเรียบง่ายและงดงาม",
+   "author": "അബ്ദുൽ ഗഫൂര്‍ പുതുപ്പണം",
+   "issue_date": "2018-04-28",
+   "html_url": "/th/story/the-path-of-success-20180428-12.html",
+   "md_url": "/th/story/the-path-of-success-20180428-12.md"
   },
   {
    "slug": "when-the-burden-of-sin-increases-20170225-10",
