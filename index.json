@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T11:18:23.427651+00:00",
+ "generated_at": "2026-09-18T11:19:21.793594+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6421,
+ "count": 6422,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -60181,6 +60181,17 @@
    "issue_date": "2017-02-25",
    "html_url": "/te/fiqh/alcohol-islam-s-ever-relevant-approach-20170225-6.html",
    "md_url": "/te/fiqh/alcohol-islam-s-ever-relevant-approach-20170225-6.md"
+  },
+  {
+   "slug": "duties-and-rights-20180505-3",
+   "lang": "te",
+   "category": "fiqh",
+   "title": "బాధ్యతలు మరియు హక్కులు",
+   "summary": "ఇస్లామీయ ధర్మశాస్త్రం ప్రకారం బాధ్యతలు మరియు హక్కుల గురించిన విశ్లేషణ. చట్టపరమైన బాధ్యతలను నెరవేర్చడం మరియు హక్కులను కాపాడుకోవడం యొక్క ప్రాముఖ్యతను ఈ వ్యాసం వివరిస్తుంది.",
+   "author": "മുസാഫിര്‍",
+   "issue_date": "2018-05-05",
+   "html_url": "/te/fiqh/duties-and-rights-20180505-3.html",
+   "md_url": "/te/fiqh/duties-and-rights-20180505-3.md"
   },
   {
    "slug": "mosque-construction-some-points-to-note-20170325-5",
