@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T11:58:41.943093+00:00",
+ "generated_at": "2026-09-18T11:59:36.659498+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6462,
+ "count": 6463,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -62887,6 +62887,17 @@
    "issue_date": "2017-04-01",
    "html_url": "/tl/dawah/dawah-obligation-and-execution-20170401-9.html",
    "md_url": "/tl/dawah/dawah-obligation-and-execution-20170401-9.md"
+  },
+  {
+   "slug": "death-and-patience-20180505-4",
+   "lang": "tl",
+   "category": "dawah",
+   "title": "Kamatayan at Pagtitimpi",
+   "summary": "Ikapitong bahagi ng seryeng 'Afkarun Ukhrawiyyah' (Mga Kaisipan tungkol sa Kabilang Buhay). Sinusuri nito ang kahalagahan ng pagtugon sa kamatayan at mga pagsubok nang may pagtitiis batay sa mga aral ng Qur'an.",
+   "author": "വെള്ളില പി. അബ്ദുല്ല",
+   "issue_date": "2018-05-05",
+   "html_url": "/tl/dawah/death-and-patience-20180505-4.html",
+   "md_url": "/tl/dawah/death-and-patience-20180505-4.md"
   },
   {
    "slug": "do-not-be-slaves-to-desires-20170211-11",
