@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T05:02:34.627270+00:00",
+ "generated_at": "2026-09-18T05:03:34.931162+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6200,
+ "count": 6201,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -7645,6 +7645,17 @@
    "issue_date": "2026-08-22",
    "html_url": "/de/health/know-this-for-those-caring-for-the-sick-20260822-1.html",
    "md_url": "/de/health/know-this-for-those-caring-for-the-sick-20260822-1.md"
+  },
+  {
+   "slug": "thyroid-problems-20180428-10",
+   "lang": "de",
+   "category": "health",
+   "title": "Schilddrüsenprobleme",
+   "summary": "Ein Gesundheitsartikel, der die Funktionen der Schilddrüse, die den Stoffwechsel des Körpers reguliert, sowie die Symptome und Ursachen ihrer Funktionsstörungen erläutert.",
+   "author": "ഡോ. മുഹമ്മദ് കുട്ടി കണ്ണിയന്‍",
+   "issue_date": "2018-04-28",
+   "html_url": "/de/health/thyroid-problems-20180428-10.html",
+   "md_url": "/de/health/thyroid-problems-20180428-10.md"
   },
   {
    "slug": "when-menstruating-20260822-4",
