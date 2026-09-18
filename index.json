@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T05:58:24.066547+00:00",
+ "generated_at": "2026-09-18T05:59:12.725281+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6260,
+ "count": 6261,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -52756,6 +52756,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/si/story/the-fruit-of-ingratitude-20170121-7.html",
    "md_url": "/si/story/the-fruit-of-ingratitude-20170121-7.md"
+  },
+  {
+   "slug": "the-path-of-success-20180428-12",
+   "lang": "si",
+   "category": "story",
+   "title": "ජයග්‍රහණයේ මාවත",
+   "summary": "දිනකට පස් වරක් ඉටු කරන සලාතයේ වැදගත්කම සහ එය මිනිසාට ලබා දෙන ආධ්‍යාත්මික ජයග්‍රහණය පිළිබඳ සරල කාව්‍යමය විස්තරයකි.",
+   "author": "അബ്ദുൽ ഗഫൂര്‍ പുതുപ്പണം",
+   "issue_date": "2018-04-28",
+   "html_url": "/si/story/the-path-of-success-20180428-12.html",
+   "md_url": "/si/story/the-path-of-success-20180428-12.md"
   },
   {
    "slug": "when-the-burden-of-sin-increases-20170225-10",
