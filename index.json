@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T09:00:09.484595+00:00",
+ "generated_at": "2026-09-18T09:01:06.684003+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6321,
+ "count": 6322,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -13101,6 +13101,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/fr/dawah/what-do-we-have-for-ourselves-20170218-10.html",
    "md_url": "/fr/dawah/what-do-we-have-for-ourselves-20170218-10.md"
+  },
+  {
+   "slug": "who-are-cultural-leaders-20180505-1",
+   "lang": "fr",
+   "category": "dawah",
+   "title": "Qui sont les figures culturelles ?",
+   "summary": "Ce billet, né d'une question posée par une fille, interroge l'identité des figures culturelles au sein de la société. Il analyse la nature et les responsabilités que devrait réellement porter un leader culturel.",
+   "author": "ഉസ്മാന്‍ പാലക്കാഴി",
+   "issue_date": "2018-05-05",
+   "html_url": "/fr/dawah/who-are-cultural-leaders-20180505-1.html",
+   "md_url": "/fr/dawah/who-are-cultural-leaders-20180505-1.md"
   },
   {
    "slug": "better-safe-than-sorry-20170401-11",
