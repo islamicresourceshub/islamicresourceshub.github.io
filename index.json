@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T03:13:01.722822+00:00",
+ "generated_at": "2026-09-18T03:14:00.198465+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6107,
+ "count": 6108,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -55187,6 +55187,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/sw/opinion/the-shackles-of-consumerist-culture-20170121-13.html",
    "md_url": "/sw/opinion/the-shackles-of-consumerist-culture-20170121-13.md"
+  },
+  {
+   "slug": "the-traps-behind-women-s-liberation-20180428-7",
+   "lang": "sw",
+   "category": "opinion",
+   "title": "Mitego iliyojificha nyuma ya harakati za ukombozi wa wanawake",
+   "summary": "Makala hii inaangazia jinsi jamii ya kisasa inavyowageuza wanawake kuwa bidhaa za kibiashara kwa jina la uhuru, na inasisitiza umuhimu wa kurejea kwenye miongozo ya Kiislamu ili kutambua heshima na haki za kweli za mwanamke.",
+   "author": "ഉമ്മുഖദീജ പൂക്കത്ത് പറമ്പ്",
+   "issue_date": "2018-04-28",
+   "html_url": "/sw/opinion/the-traps-behind-women-s-liberation-20180428-7.html",
+   "md_url": "/sw/opinion/the-traps-behind-women-s-liberation-20180428-7.md"
   },
   {
    "slug": "trump-and-his-racism-20170211-14",
