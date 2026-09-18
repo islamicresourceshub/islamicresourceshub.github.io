@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T09:32:08.175187+00:00",
+ "generated_at": "2026-09-18T09:33:08.362967+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6354,
+ "count": 6355,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -5533,6 +5533,17 @@
    "issue_date": "2026-08-22",
    "html_url": "/bn/quran/surah-ash-shu-ara-the-poets-20260822-7.html",
    "md_url": "/bn/quran/surah-ash-shu-ara-the-poets-20260822-7.md"
+  },
+  {
+   "slug": "surah-az-zalzalah-the-earthquake-tafsir-20180505-2",
+   "lang": "bn",
+   "category": "quran",
+   "title": "যলযলাহ - প্রকম্পন",
+   "summary": "কুরআনের ৯৯তম সূরা সূরা আয-যলযলাহ বা প্রকম্পনের সংক্ষিপ্ত তাফসির। এই সূরার আয়াতগুলোর মাধ্যমে কিয়ামতের দিন পৃথিবীর ভয়াবহ অবস্থা এবং মানুষের আমলনামা উপস্থাপনের বিষয়টি এখানে ব্যাখ্যা করা হয়েছে।",
+   "author": "അബ്ദുറഹ്മാന്‍ നാസിര്‍ അസ്സഅദി",
+   "issue_date": "2018-05-05",
+   "html_url": "/bn/quran/surah-az-zalzalah-the-earthquake-tafsir-20180505-2.html",
+   "md_url": "/bn/quran/surah-az-zalzalah-the-earthquake-tafsir-20180505-2.md"
   },
   {
    "slug": "universal-calls-in-the-quran-19-truth-falsehood-and-human-fr-20260822-3",
