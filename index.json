@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T02:42:29.750709+00:00",
+ "generated_at": "2026-09-18T02:43:56.825842+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6078,
+ "count": 6079,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -1155,6 +1155,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/am/opinion/the-shackles-of-consumerist-culture-20170121-13.html",
    "md_url": "/am/opinion/the-shackles-of-consumerist-culture-20170121-13.md"
+  },
+  {
+   "slug": "the-traps-behind-women-s-liberation-20180428-7",
+   "lang": "am",
+   "category": "opinion",
+   "title": "የሴቶች ነፃነት በሚል ሽፋን የተሸሸጉ ወጥመዶች",
+   "summary": "ዘመናዊው ማህበረሰብ በሴቶች ነፃነት ስም ሴቶችን ለገበያ የሚቀርብ ሸቀጥ ብቻ በማድረግ ላይ መሆኑን የሚተች እና የሚያጋልጥ ጽሁፍ።",
+   "author": "ഉമ്മുഖദീജ പൂക്കത്ത് പറമ്പ്",
+   "issue_date": "2018-04-28",
+   "html_url": "/am/opinion/the-traps-behind-women-s-liberation-20180428-7.html",
+   "md_url": "/am/opinion/the-traps-behind-women-s-liberation-20180428-7.md"
   },
   {
    "slug": "trump-and-his-racism-20170211-14",
