@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T06:21:02.550410+00:00",
+ "generated_at": "2026-09-18T06:22:00.418732+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6280,
+ "count": 6281,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -10197,6 +10197,17 @@
    "issue_date": "2017-02-25",
    "html_url": "/es/dawah/the-path-to-peace-20170225-11.html",
    "md_url": "/es/dawah/the-path-to-peace-20170225-11.md"
+  },
+  {
+   "slug": "the-relevance-of-cleanliness-20180428-13",
+   "lang": "es",
+   "category": "dawah",
+   "title": "La relevancia de la limpieza",
+   "summary": "Un artículo que explica la importancia de la limpieza en el Islam y la relevancia del dicho profético que la considera parte de la fe. Se detalla cómo la higiene personal, la purificación ritual y el cuidado del entorno son pilares fundamentales en la vida de un creyente.",
+   "author": "ഡോ.ജസ്‌റതുന്നിസ",
+   "issue_date": "2018-04-28",
+   "html_url": "/es/dawah/the-relevance-of-cleanliness-20180428-13.html",
+   "md_url": "/es/dawah/the-relevance-of-cleanliness-20180428-13.md"
   },
   {
    "slug": "the-religion-that-rejects-terrorism-part-1-20170121-12",
