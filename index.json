@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T12:06:27.184655+00:00",
+ "generated_at": "2026-09-18T12:07:36.450224+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6470,
+ "count": 6471,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -3707,6 +3707,17 @@
    "issue_date": "2018-05-05",
    "html_url": "/as/fiqh/duties-and-rights-20180505-3.html",
    "md_url": "/as/fiqh/duties-and-rights-20180505-3.md"
+  },
+  {
+   "slug": "embalming-the-dead-an-islamic-perspective-20180505-5",
+   "lang": "as",
+   "category": "fiqh",
+   "title": "মৃতদেহ এমবামিং: ইছলামিক দৃষ্টিভংগী",
+   "summary": "এই প্ৰবন্ধটোত ইছলামৰ সেই মূলনীতিৰ ওপৰত আলোকপাত কৰা হৈছে য’ত মৃত্যুৰ পিছতো মানৱদেহক সন্মান প্ৰদৰ্শন কৰাটো বাধ্যতামূলক। লগতে, দূৰ দেশত মৃত্যু হোৱা লোকৰ মৃতদেহ নিজ দেশলৈ অনাৰ ক্ষেত্ৰত ইছলামী বিধানসমূহৰ বিশদ ব্যাখ্যা আগবঢ়োৱা হৈছে।",
+   "author": "അഷ്‌റഫ് എകരൂല്‍",
+   "issue_date": "2018-05-05",
+   "html_url": "/as/fiqh/embalming-the-dead-an-islamic-perspective-20180505-5.html",
+   "md_url": "/as/fiqh/embalming-the-dead-an-islamic-perspective-20180505-5.md"
   },
   {
    "slug": "mosque-construction-some-points-to-note-20170325-5",
