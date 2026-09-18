@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T09:01:06.684003+00:00",
+ "generated_at": "2026-09-18T09:02:04.875600+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6322,
+ "count": 6323,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -14487,6 +14487,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/gu/dawah/what-do-we-have-for-ourselves-20170218-10.html",
    "md_url": "/gu/dawah/what-do-we-have-for-ourselves-20170218-10.md"
+  },
+  {
+   "slug": "who-are-cultural-leaders-20180505-1",
+   "lang": "gu",
+   "category": "dawah",
+   "title": "સાંસ્કૃતિક નાયકો કોણ છે?",
+   "summary": "એક પુત્રીના પ્રશ્નમાંથી ઉદ્ભવેલી આ નોંધ સમાજમાં સાંસ્કૃતિક નાયકો કોણ છે તે પ્રશ્ન ઉઠાવે છે. તે સાચા સાંસ્કૃતિક નેતૃત્વના સ્વભાવ અને જવાબદારીઓનું વિશ્લેષણ કરે છે.",
+   "author": "ഉസ്മാന്‍ പാലക്കാഴി",
+   "issue_date": "2018-05-05",
+   "html_url": "/gu/dawah/who-are-cultural-leaders-20180505-1.html",
+   "md_url": "/gu/dawah/who-are-cultural-leaders-20180505-1.md"
   },
   {
    "slug": "better-safe-than-sorry-20170401-11",
