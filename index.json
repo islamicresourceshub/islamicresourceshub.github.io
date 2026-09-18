@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T05:52:36.140658+00:00",
+ "generated_at": "2026-09-18T05:53:32.785246+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6253,
+ "count": 6254,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -43164,6 +43164,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/ms/story/the-fruit-of-ingratitude-20170121-7.html",
    "md_url": "/ms/story/the-fruit-of-ingratitude-20170121-7.md"
+  },
+  {
+   "slug": "the-path-of-success-20180428-12",
+   "lang": "ms",
+   "category": "story",
+   "title": "Jalan Menuju Kejayaan",
+   "summary": "Sebuah puisi yang menjelaskan secara ringkas tentang kepentingan solat lima waktu dan kejayaan rohani yang dikurniakan kepada manusia. Ia menekankan bagaimana hubungan dengan Allah membawa ketenangan dan panduan dalam kehidupan.",
+   "author": "അബ്ദുൽ ഗഫൂര്‍ പുതുപ്പണം",
+   "issue_date": "2018-04-28",
+   "html_url": "/ms/story/the-path-of-success-20180428-12.html",
+   "md_url": "/ms/story/the-path-of-success-20180428-12.md"
   },
   {
    "slug": "when-the-burden-of-sin-increases-20170225-10",
