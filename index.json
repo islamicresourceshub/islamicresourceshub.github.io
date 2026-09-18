@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T05:55:07.290305+00:00",
+ "generated_at": "2026-09-18T05:55:55.430376+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6256,
+ "count": 6257,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -47278,6 +47278,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/pa/story/the-fruit-of-ingratitude-20170121-7.html",
    "md_url": "/pa/story/the-fruit-of-ingratitude-20170121-7.md"
+  },
+  {
+   "slug": "the-path-of-success-20180428-12",
+   "lang": "pa",
+   "category": "story",
+   "title": "ਸਫਲਤਾ ਦਾ ਰਾਹ",
+   "summary": "ਇਹ ਕਵਿਤਾ ਪੰਜ ਵਕਤ ਦੀ ਨਮਾਜ਼ ਦੀ ਮਹੱਤਤਾ ਅਤੇ ਇਸ ਦੁਆਰਾ ਮਨੁੱਖ ਨੂੰ ਮਿਲਣ ਵਾਲੀ ਰੂਹਾਨੀ ਸਫਲਤਾ ਬਾਰੇ ਸਰਲ ਸ਼ਬਦਾਂ ਵਿੱਚ ਚਾਨਣਾ ਪਾਉਂਦੀ ਹੈ।",
+   "author": "അബ്ദുൽ ഗഫൂര്‍ പുതുപ്പണം",
+   "issue_date": "2018-04-28",
+   "html_url": "/pa/story/the-path-of-success-20180428-12.html",
+   "md_url": "/pa/story/the-path-of-success-20180428-12.md"
   },
   {
    "slug": "when-the-burden-of-sin-increases-20170225-10",
