@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T02:01:35.565928+00:00",
+ "generated_at": "2026-09-18T02:02:31.065862+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6033,
+ "count": 6034,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -59917,6 +59917,17 @@
    "issue_date": "2017-04-01",
    "html_url": "/tl/seerah/prophets-are-humans-20170401-10.html",
    "md_url": "/tl/seerah/prophets-are-humans-20170401-10.md"
+  },
+  {
+   "slug": "a-good-death-20180428-5",
+   "lang": "tl",
+   "category": "story",
+   "title": "Isang Mabuting Pagpanaw",
+   "summary": "Isang espirituwal na tula na tumatalakay sa kamatayan at sa mga kaisipan tungkol sa kabilang buhay.",
+   "author": "വെള്ളില പി. അബ്ദുല്ല",
+   "issue_date": "2018-04-28",
+   "html_url": "/tl/story/a-good-death-20180428-5.html",
+   "md_url": "/tl/story/a-good-death-20180428-5.md"
   },
   {
    "slug": "abdullah-s-mistake-20170204-1",
