@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T09:08:19.511965+00:00",
+ "generated_at": "2026-09-18T09:09:10.983905+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6330,
+ "count": 6331,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -41250,6 +41250,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/mr/dawah/what-do-we-have-for-ourselves-20170218-10.html",
    "md_url": "/mr/dawah/what-do-we-have-for-ourselves-20170218-10.md"
+  },
+  {
+   "slug": "who-are-cultural-leaders-20180505-1",
+   "lang": "mr",
+   "category": "dawah",
+   "title": "सांस्कृतिक नायक कोण आहेत?",
+   "summary": "मुलीच्या एका प्रश्नातून जन्मलेली ही टिपणी समाजात 'सांस्कृतिक नायक' कोणाला म्हणावे, हा प्रश्न उपस्थित करते. यात खऱ्या सांस्कृतिक नेतृत्वाचे स्वरूप आणि त्यांच्या जबाबदाऱ्यांचे विश्लेषण केले आहे.",
+   "author": "ഉസ്മാന്‍ പാലക്കാഴി",
+   "issue_date": "2018-05-05",
+   "html_url": "/mr/dawah/who-are-cultural-leaders-20180505-1.html",
+   "md_url": "/mr/dawah/who-are-cultural-leaders-20180505-1.md"
   },
   {
    "slug": "better-safe-than-sorry-20170401-11",
