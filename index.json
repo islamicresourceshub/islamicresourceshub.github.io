@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T03:36:30.167113+00:00",
+ "generated_at": "2026-09-18T03:37:35.551499+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6130,
+ "count": 6131,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -18425,6 +18425,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/id/opinion/india-which-way-forward-20170325-2.html",
    "md_url": "/id/opinion/india-which-way-forward-20170325-2.md"
+  },
+  {
+   "slug": "is-a-safe-society-becoming-a-dream-20180428-8",
+   "lang": "id",
+   "category": "opinion",
+   "title": "Apakah Masyarakat Aman Menjadi Mimpi?",
+   "summary": "Artikel ini membahas meningkatnya sektarianisme dan ancaman keamanan perempuan di negara ini, dengan latar belakang pembunuhan Asifa di Kathua. Ini menekankan perlunya persatuan melawan fasisme.",
+   "author": "അബ്ദുല്ല ബാസില്‍ സി.പി",
+   "issue_date": "2018-04-28",
+   "html_url": "/id/opinion/is-a-safe-society-becoming-a-dream-20180428-8.html",
+   "md_url": "/id/opinion/is-a-safe-society-becoming-a-dream-20180428-8.md"
   },
   {
    "slug": "join-the-party-let-the-battle-begin-20170128-6",
