@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T06:01:13.931714+00:00",
+ "generated_at": "2026-09-18T06:02:18.223223+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6263,
+ "count": 6264,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -56837,6 +56837,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/sw/story/the-fruit-of-ingratitude-20170121-7.html",
    "md_url": "/sw/story/the-fruit-of-ingratitude-20170121-7.md"
+  },
+  {
+   "slug": "the-path-of-success-20180428-12",
+   "lang": "sw",
+   "category": "story",
+   "title": "Njia ya Mafanikio",
+   "summary": "Shairi linaloelezea kwa urahisi umuhimu wa swala tano za kila siku na mafanikio ya kiroho ambayo humletea mwanadamu.",
+   "author": "അബ്ദുൽ ഗഫൂര്‍ പുതുപ്പണം",
+   "issue_date": "2018-04-28",
+   "html_url": "/sw/story/the-path-of-success-20180428-12.html",
+   "md_url": "/sw/story/the-path-of-success-20180428-12.md"
   },
   {
    "slug": "when-the-burden-of-sin-increases-20170225-10",
