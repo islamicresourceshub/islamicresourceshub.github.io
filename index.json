@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T08:47:23.876515+00:00",
+ "generated_at": "2026-09-18T08:48:43.874708+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6310,
+ "count": 6311,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -67188,6 +67188,17 @@
    "issue_date": "2017-02-25",
    "html_url": "/vi/dawah/the-path-to-peace-20170225-11.html",
    "md_url": "/vi/dawah/the-path-to-peace-20170225-11.md"
+  },
+  {
+   "slug": "the-relevance-of-cleanliness-20180428-13",
+   "lang": "vi",
+   "category": "dawah",
+   "title": "Tầm quan trọng của sự sạch sẽ",
+   "summary": "Bài viết này giải thích tầm quan trọng của sự sạch sẽ trong Hồi giáo và ý nghĩa của lời dạy của Tiên Tri rằng sự sạch sẽ là một nửa của đức tin.",
+   "author": "ഡോ.ജസ്‌റതുന്നിസ",
+   "issue_date": "2018-04-28",
+   "html_url": "/vi/dawah/the-relevance-of-cleanliness-20180428-13.html",
+   "md_url": "/vi/dawah/the-relevance-of-cleanliness-20180428-13.md"
   },
   {
    "slug": "the-religion-that-rejects-terrorism-part-1-20170121-12",
