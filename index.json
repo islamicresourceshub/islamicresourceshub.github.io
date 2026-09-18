@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T05:39:03.433743+00:00",
+ "generated_at": "2026-09-18T05:39:55.646563+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6239,
+ "count": 6240,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -8393,6 +8393,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/de/story/the-fruit-of-ingratitude-20170121-7.html",
    "md_url": "/de/story/the-fruit-of-ingratitude-20170121-7.md"
+  },
+  {
+   "slug": "the-path-of-success-20180428-12",
+   "lang": "de",
+   "category": "story",
+   "title": "Der Weg zum Erfolg",
+   "summary": "Ein einfaches Gedicht über die Bedeutung der fünf täglichen Gebete und den spirituellen Erfolg, den sie dem Menschen schenken. Es beleuchtet, wie Standhaftigkeit und Gottesbewusstsein zu einem rechtschaffenen Leben führen.",
+   "author": "അബ്ദുൽ ഗഫൂര്‍ പുതുപ്പണം",
+   "issue_date": "2018-04-28",
+   "html_url": "/de/story/the-path-of-success-20180428-12.html",
+   "md_url": "/de/story/the-path-of-success-20180428-12.md"
   },
   {
    "slug": "when-the-burden-of-sin-increases-20170225-10",
