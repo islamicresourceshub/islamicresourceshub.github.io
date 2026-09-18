@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T04:06:31.466496+00:00",
+ "generated_at": "2026-09-18T04:07:37.098801+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6147,
+ "count": 6148,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -56705,6 +56705,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/ta/opinion/india-which-way-forward-20170325-2.html",
    "md_url": "/ta/opinion/india-which-way-forward-20170325-2.md"
+  },
+  {
+   "slug": "is-a-safe-society-becoming-a-dream-20180428-8",
+   "lang": "ta",
+   "category": "opinion",
+   "title": "பாதுகாப்பான சமூகம் வெறும் கனவாகிவிட்டதா?",
+   "summary": "கதுவாவில் ஆசிஃபா என்ற சிறுமி படுகொலை செய்யப்பட்டதன் பின்னணியில், இந்தியாவில் அதிகரித்து வரும் வகுப்புவாதம் மற்றும் பெண்கள் பாதுகாப்பு குறித்த அச்சங்களை அலசும் கட்டுரை.",
+   "author": "അബ്ദുല്ല ബാസില്‍ സി.പി",
+   "issue_date": "2018-04-28",
+   "html_url": "/ta/opinion/is-a-safe-society-becoming-a-dream-20180428-8.html",
+   "md_url": "/ta/opinion/is-a-safe-society-becoming-a-dream-20180428-8.md"
   },
   {
    "slug": "join-the-party-let-the-battle-begin-20170128-6",
