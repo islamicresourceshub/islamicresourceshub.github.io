@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T11:29:39.928191+00:00",
+ "generated_at": "2026-09-18T11:30:37.984329+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6431,
+ "count": 6432,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -3168,6 +3168,17 @@
    "issue_date": "2017-04-01",
    "html_url": "/as/dawah/dawah-obligation-and-execution-20170401-9.html",
    "md_url": "/as/dawah/dawah-obligation-and-execution-20170401-9.md"
+  },
+  {
+   "slug": "death-and-patience-20180505-4",
+   "lang": "as",
+   "category": "dawah",
+   "title": "মৃত্যু আৰু ধৈৰ্য",
+   "summary": "'আফকাৰুন উখৰৱিয়্যাহ' (পৰলোক চিন্তাসমূহ) শিতানৰ সপ্তম খণ্ড। এই লেখাটোত কোৰআনৰ প্ৰসংগসমূহৰ জৰিয়তে মৃত্যু আৰু বিভিন্ন পৰীক্ষাৰ সময়ত ধৈৰ্য অৱলম্বন কৰাৰ প্ৰয়োজনীয়তা বিশ্লেষণ কৰা হৈছে।",
+   "author": "വെള്ളില പി. അബ്ദുല്ല",
+   "issue_date": "2018-05-05",
+   "html_url": "/as/dawah/death-and-patience-20180505-4.html",
+   "md_url": "/as/dawah/death-and-patience-20180505-4.md"
   },
   {
    "slug": "do-not-be-slaves-to-desires-20170211-11",
