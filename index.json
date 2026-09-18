@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T08:50:01.644543+00:00",
+ "generated_at": "2026-09-18T08:51:15.461576+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6312,
+ "count": 6313,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -572,6 +572,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/am/dawah/what-do-we-have-for-ourselves-20170218-10.html",
    "md_url": "/am/dawah/what-do-we-have-for-ourselves-20170218-10.md"
+  },
+  {
+   "slug": "who-are-cultural-leaders-20180505-1",
+   "lang": "am",
+   "category": "dawah",
+   "title": "የባህል መሪዎች እነማን ናቸው?",
+   "summary": "ይህ ጽሑፍ የተጻፈው የአንዲት ልጅ ጥያቄን ተከትሎ ሲሆን፣ በኅብረተሰብ ውስጥ የባህል መሪዎች እነማን እንደሆኑ ይጠይቃል። የእውነተኛ የባህል አመራር ባህሪና ኃላፊነቶችንም ይተነትናል።",
+   "author": "ഉസ്മാന്‍ പാലക്കാഴി",
+   "issue_date": "2018-05-05",
+   "html_url": "/am/dawah/who-are-cultural-leaders-20180505-1.html",
+   "md_url": "/am/dawah/who-are-cultural-leaders-20180505-1.md"
   },
   {
    "slug": "better-safe-than-sorry-20170401-11",
