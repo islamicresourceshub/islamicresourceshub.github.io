@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T02:26:30.787556+00:00",
+ "generated_at": "2026-09-18T02:27:13.208588+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6060,
+ "count": 6061,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -44110,6 +44110,17 @@
    "issue_date": "2017-04-01",
    "html_url": "/or/history/the-verdict-of-babri-20170401-4.html",
    "md_url": "/or/history/the-verdict-of-babri-20170401-4.md"
+  },
+  {
+   "slug": "a-glance-into-laws-20180428-6",
+   "lang": "or",
+   "category": "opinion",
+   "title": "ଆଇନ ଉପରେ ଏକ ଦୃଷ୍ଟିପାତ",
+   "summary": "ଭାରତୀୟ ସମ୍ବିଧାନ ଏବଂ ଏହା ନାଗରିକମାନଙ୍କୁ ପ୍ରଦାନ କରୁଥିବା ମୌଳିକ ଅଧିକାରଗୁଡ଼ିକ ବିଷୟରେ ଏକ ସରଳ ବ୍ୟାଖ୍ୟାମୂଳକ ଲେଖା।",
+   "author": "മുസാഫിര്‍",
+   "issue_date": "2018-04-28",
+   "html_url": "/or/opinion/a-glance-into-laws-20180428-6.html",
+   "md_url": "/or/opinion/a-glance-into-laws-20180428-6.md"
   },
   {
    "slug": "alas-asifa-20180428-1",
