@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T05:21:08.615367+00:00",
+ "generated_at": "2026-09-18T05:22:02.284936+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6220,
+ "count": 6221,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -50424,6 +50424,17 @@
    "issue_date": "2026-08-22",
    "html_url": "/ru/health/know-this-for-those-caring-for-the-sick-20260822-1.html",
    "md_url": "/ru/health/know-this-for-those-caring-for-the-sick-20260822-1.md"
+  },
+  {
+   "slug": "thyroid-problems-20180428-10",
+   "lang": "ru",
+   "category": "health",
+   "title": "Проблемы со щитовидной железой",
+   "summary": "Эта статья о здоровье посвящена щитовидной железе, которая регулирует обмен веществ в организме, а также рассматривает распространенные нарушения ее функций и их основные симптомы.",
+   "author": "ഡോ. മുഹമ്മദ് കുട്ടി കണ്ണിയന്‍",
+   "issue_date": "2018-04-28",
+   "html_url": "/ru/health/thyroid-problems-20180428-10.html",
+   "md_url": "/ru/health/thyroid-problems-20180428-10.md"
   },
   {
    "slug": "when-menstruating-20260822-4",
