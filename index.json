@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T10:07:09.175085+00:00",
+ "generated_at": "2026-09-18T10:08:00.275549+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6389,
+ "count": 6390,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -70213,6 +70213,17 @@
    "issue_date": "2026-08-22",
    "html_url": "/zh/quran/surah-ash-shu-ara-the-poets-20260822-7.html",
    "md_url": "/zh/quran/surah-ash-shu-ara-the-poets-20260822-7.md"
+  },
+  {
+   "slug": "surah-az-zalzalah-the-earthquake-tafsir-20180505-2",
+   "lang": "zh",
+   "category": "quran",
+   "title": "Az-Zalzalah（地震）",
+   "summary": "本文介绍了古兰经第99章《地震章》的注释。文中详细阐述了关于末日审判时大地剧烈震动以及人类行为被清算的经文含义。",
+   "author": "അബ്ദുറഹ്മാന്‍ നാസിര്‍ അസ്സഅദി",
+   "issue_date": "2018-05-05",
+   "html_url": "/zh/quran/surah-az-zalzalah-the-earthquake-tafsir-20180505-2.html",
+   "md_url": "/zh/quran/surah-az-zalzalah-the-earthquake-tafsir-20180505-2.md"
   },
   {
    "slug": "universal-calls-in-the-quran-19-truth-falsehood-and-human-fr-20260822-3",
