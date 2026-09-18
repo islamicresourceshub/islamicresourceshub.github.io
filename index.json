@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T02:45:09.043545+00:00",
+ "generated_at": "2026-09-18T02:46:00.302942+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6080,
+ "count": 6081,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -3806,6 +3806,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/as/opinion/the-shackles-of-consumerist-culture-20170121-13.html",
    "md_url": "/as/opinion/the-shackles-of-consumerist-culture-20170121-13.md"
+  },
+  {
+   "slug": "the-traps-behind-women-s-liberation-20180428-7",
+   "lang": "as",
+   "category": "opinion",
+   "title": "নাৰী স্বাধীনতাৰ নামত থকা প্ৰতাৰণাৰ জাল",
+   "summary": "আধুনিক সমাজত নাৰী স্বাধীনতাৰ নামত নাৰীক কেৱল এক পণ্য সামগ্ৰীলৈ পৰ্যবসিত কৰাৰ বিৰুদ্ধে এই প্ৰবন্ধটোৱে আঙুলি টোৱাইছে। ইছলামিক দৃষ্টিভংগীৰে নাৰীৰ মৰ্যাদা আৰু সুৰক্ষাৰ গুৰুত্ব ইয়াত আলোচনা কৰা হৈছে।",
+   "author": "ഉമ്മുഖദീജ പൂക്കത്ത് പറമ്പ്",
+   "issue_date": "2018-04-28",
+   "html_url": "/as/opinion/the-traps-behind-women-s-liberation-20180428-7.html",
+   "md_url": "/as/opinion/the-traps-behind-women-s-liberation-20180428-7.md"
   },
   {
    "slug": "trump-and-his-racism-20170211-14",
