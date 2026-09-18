@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T05:28:59.919402+00:00",
+ "generated_at": "2026-09-18T05:29:53.459036+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6228,
+ "count": 6229,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -61237,6 +61237,17 @@
    "issue_date": "2026-08-22",
    "html_url": "/tl/health/know-this-for-those-caring-for-the-sick-20260822-1.html",
    "md_url": "/tl/health/know-this-for-those-caring-for-the-sick-20260822-1.md"
+  },
+  {
+   "slug": "thyroid-problems-20180428-10",
+   "lang": "tl",
+   "category": "health",
+   "title": "Mga Problema sa Thyroid",
+   "summary": "Isang artikulong pangkalusugan na tumatalakay sa mga problemang nakakaapekto sa thyroid gland, na siyang kumokontrol sa metabolismo ng katawan, pati na rin ang mga sintomas nito.",
+   "author": "ഡോ. മുഹമ്മദ് കുട്ടി കണ്ണിയന്‍",
+   "issue_date": "2018-04-28",
+   "html_url": "/tl/health/thyroid-problems-20180428-10.html",
+   "md_url": "/tl/health/thyroid-problems-20180428-10.md"
   },
   {
    "slug": "when-menstruating-20260822-4",
