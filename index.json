@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T11:55:52.851984+00:00",
+ "generated_at": "2026-09-18T11:56:47.639952+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6459,
+ "count": 6460,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -58630,6 +58630,17 @@
    "issue_date": "2017-04-01",
    "html_url": "/ta/dawah/dawah-obligation-and-execution-20170401-9.html",
    "md_url": "/ta/dawah/dawah-obligation-and-execution-20170401-9.md"
+  },
+  {
+   "slug": "death-and-patience-20180505-4",
+   "lang": "ta",
+   "category": "dawah",
+   "title": "மரணமும் பொறுமையும்",
+   "summary": "'அஃப்காருன் உக்ரவிய்யா' (மறுமை சிந்தனைகள்) தொடரின் ஏழாம் பகுதி. மரணம் மற்றும் சோதனைகளை பொறுமையுடன் எதிர்கொள்ள வேண்டியதன் அவசியத்தை குர்ஆன் வசனங்கள் மற்றும் நபிமொழிகளின் வெளிச்சத்தில் இப்பதிவு அலசுகிறது.",
+   "author": "വെള്ളില പി. അബ്ദുല്ല",
+   "issue_date": "2018-05-05",
+   "html_url": "/ta/dawah/death-and-patience-20180505-4.html",
+   "md_url": "/ta/dawah/death-and-patience-20180505-4.md"
   },
   {
    "slug": "do-not-be-slaves-to-desires-20170211-11",
