@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T06:37:28.637125+00:00",
+ "generated_at": "2026-09-18T06:38:24.029792+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6296,
+ "count": 6297,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -47883,6 +47883,17 @@
    "issue_date": "2017-02-25",
    "html_url": "/ps/dawah/the-path-to-peace-20170225-11.html",
    "md_url": "/ps/dawah/the-path-to-peace-20170225-11.md"
+  },
+  {
+   "slug": "the-relevance-of-cleanliness-20180428-13",
+   "lang": "ps",
+   "category": "dawah",
+   "title": "د پاکیزګۍ اهمیت",
+   "summary": "دا لیکنه په اسلام کې د پاکیزګۍ پر اهمیت او د دې نبوي وینا پر مانا رڼا اچوي چې پاکیزګي د ایمان یوه برخه ده. په دې کې د شخصي حفظ الصحې، د عبادت لپاره د طهارت او د چاپېریال د پاک ساتلو په اړه د اسلامي لارښوونو په اړه بحث شوی دی.",
+   "author": "ഡോ.ജസ്‌റതുന്നിസ",
+   "issue_date": "2018-04-28",
+   "html_url": "/ps/dawah/the-relevance-of-cleanliness-20180428-13.html",
+   "md_url": "/ps/dawah/the-relevance-of-cleanliness-20180428-13.md"
   },
   {
    "slug": "the-religion-that-rejects-terrorism-part-1-20170121-12",
