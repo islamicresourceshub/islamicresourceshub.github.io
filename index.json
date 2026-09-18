@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T06:30:17.814896+00:00",
+ "generated_at": "2026-09-18T06:31:21.604100+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6289,
+ "count": 6290,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -22627,6 +22627,17 @@
    "issue_date": "2017-02-25",
    "html_url": "/kn/dawah/the-path-to-peace-20170225-11.html",
    "md_url": "/kn/dawah/the-path-to-peace-20170225-11.md"
+  },
+  {
+   "slug": "the-relevance-of-cleanliness-20180428-13",
+   "lang": "kn",
+   "category": "dawah",
+   "title": "ಸ್ವಚ್ಛತೆಯ ಪ್ರಸ್ತುತತೆ",
+   "summary": "ಇಸ್ಲಾಂ ಧರ್ಮದಲ್ಲಿ ಸ್ವಚ್ಛತೆಗೆ ಇರುವ ಮಹತ್ವ ಮತ್ತು 'ಸ್ವಚ್ಛತೆಯು ಈಮಾನಿನ (ನಂಬಿಕೆಯ) ಅರ್ಧ ಭಾಗವಾಗಿದೆ' ಎಂಬ ಪ್ರವಾದಿವಚನದ ಪ್ರಸ್ತುತತೆಯನ್ನು ವಿವರಿಸುವ ಲೇಖನ.",
+   "author": "ഡോ.ജസ്‌റതുന്നിസ",
+   "issue_date": "2018-04-28",
+   "html_url": "/kn/dawah/the-relevance-of-cleanliness-20180428-13.html",
+   "md_url": "/kn/dawah/the-relevance-of-cleanliness-20180428-13.md"
   },
   {
    "slug": "the-religion-that-rejects-terrorism-part-1-20170121-12",
