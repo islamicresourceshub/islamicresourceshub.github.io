@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T03:26:19.849284+00:00",
+ "generated_at": "2026-09-18T03:27:12.028512+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6120,
+ "count": 6121,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -5049,6 +5049,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/bn/opinion/india-which-way-forward-20170325-2.html",
    "md_url": "/bn/opinion/india-which-way-forward-20170325-2.md"
+  },
+  {
+   "slug": "is-a-safe-society-becoming-a-dream-20180428-8",
+   "lang": "bn",
+   "category": "opinion",
+   "title": "নিরাপদ সমাজ কি কেবলই একটি স্বপ্ন?",
+   "summary": "কাঠুয়ায় আসিফার নৃশংস হত্যাকাণ্ডের প্রেক্ষাপটে ভারতে ক্রমবর্ধমান সাম্প্রদায়িকতা এবং নারী নিরাপত্তার হুমকির বিষয়ে একটি বিশ্লেষণাত্মক নিবন্ধ। এটি দেশের ধর্মনিরপেক্ষতা রক্ষায় ঐক্যবদ্ধ হওয়ার প্রয়োজনীয়তার ওপর আলোকপাত করে।",
+   "author": "അബ്ദുല്ല ബാസില്‍ സി.പി",
+   "issue_date": "2018-04-28",
+   "html_url": "/bn/opinion/is-a-safe-society-becoming-a-dream-20180428-8.html",
+   "md_url": "/bn/opinion/is-a-safe-society-becoming-a-dream-20180428-8.md"
   },
   {
    "slug": "join-the-party-let-the-battle-begin-20170128-6",
