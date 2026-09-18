@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T09:22:38.696864+00:00",
+ "generated_at": "2026-09-18T09:23:37.739825+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6345,
+ "count": 6346,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -62051,6 +62051,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/tl/dawah/what-do-we-have-for-ourselves-20170218-10.html",
    "md_url": "/tl/dawah/what-do-we-have-for-ourselves-20170218-10.md"
+  },
+  {
+   "slug": "who-are-cultural-leaders-20180505-1",
+   "lang": "tl",
+   "category": "dawah",
+   "title": "Sino ang mga Pinunong Kultural?",
+   "summary": "Ang artikulong ito ay nagmula sa isang tanong ng isang anak na babae tungkol sa kung sino ang itinuturing na mga pinunong kultural sa lipunan. Sinusuri nito ang tunay na katangian at responsibilidad ng mga taong itinuturing na gabay ng kultura.",
+   "author": "ഉസ്മാന്‍ പാലക്കാഴി",
+   "issue_date": "2018-05-05",
+   "html_url": "/tl/dawah/who-are-cultural-leaders-20180505-1.html",
+   "md_url": "/tl/dawah/who-are-cultural-leaders-20180505-1.md"
   },
   {
    "slug": "better-safe-than-sorry-20170401-11",
