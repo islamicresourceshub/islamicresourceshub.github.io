@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T04:14:19.581948+00:00",
+ "generated_at": "2026-09-18T04:15:25.293761+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6149,
+ "count": 6150,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -59367,6 +59367,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/th/opinion/india-which-way-forward-20170325-2.html",
    "md_url": "/th/opinion/india-which-way-forward-20170325-2.md"
+  },
+  {
+   "slug": "is-a-safe-society-becoming-a-dream-20180428-8",
+   "lang": "th",
+   "category": "opinion",
+   "title": "สังคมที่ปลอดภัยกำลังกลายเป็นเพียงความฝันหรือ?",
+   "summary": "บทความนี้อภิปรายถึงกระแสความเกลียดชังทางศาสนาที่เพิ่มสูงขึ้นและภัยคุกคามต่อความปลอดภัยของผู้หญิงในอินเดีย โดยมีจุดเริ่มต้นจากการสังหารเด็กหญิงอาซิฟาในเขตคาทัว",
+   "author": "അബ്ദുല്ല ബാസില്‍ സി.പി",
+   "issue_date": "2018-04-28",
+   "html_url": "/th/opinion/is-a-safe-society-becoming-a-dream-20180428-8.html",
+   "md_url": "/th/opinion/is-a-safe-society-becoming-a-dream-20180428-8.md"
   },
   {
    "slug": "join-the-party-let-the-battle-begin-20170128-6",
