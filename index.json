@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T02:14:15.662689+00:00",
+ "generated_at": "2026-09-18T02:16:08.103996+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6047,
+ "count": 6048,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -11418,6 +11418,17 @@
    "issue_date": "2017-04-01",
    "html_url": "/fa/history/the-verdict-of-babri-20170401-4.html",
    "md_url": "/fa/history/the-verdict-of-babri-20170401-4.md"
+  },
+  {
+   "slug": "a-glance-into-laws-20180428-6",
+   "lang": "fa",
+   "category": "opinion",
+   "title": "نگاهی گذرا به قوانین",
+   "summary": "مقاله‌ای که به سادگی قانون اساسی هند و حقوق اساسی را که به شهروندان تضمین می‌کند، توضیح می‌دهد.",
+   "author": "മുസാഫിര്‍",
+   "issue_date": "2018-04-28",
+   "html_url": "/fa/opinion/a-glance-into-laws-20180428-6.html",
+   "md_url": "/fa/opinion/a-glance-into-laws-20180428-6.md"
   },
   {
    "slug": "alas-asifa-20180428-1",
