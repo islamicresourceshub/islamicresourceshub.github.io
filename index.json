@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T09:27:00.745551+00:00",
+ "generated_at": "2026-09-18T09:28:01.149826+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6349,
+ "count": 6350,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -67639,6 +67639,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/vi/dawah/what-do-we-have-for-ourselves-20170218-10.html",
    "md_url": "/vi/dawah/what-do-we-have-for-ourselves-20170218-10.md"
+  },
+  {
+   "slug": "who-are-cultural-leaders-20180505-1",
+   "lang": "vi",
+   "category": "dawah",
+   "title": "Ai là những thủ lĩnh văn hóa?",
+   "summary": "Bài viết này bắt nguồn từ câu hỏi của một cô con gái, đặt ra vấn đề về việc ai thực sự là những thủ lĩnh văn hóa trong xã hội. Tác giả phân tích bản chất và trách nhiệm của những người được coi là thủ lĩnh văn hóa thực thụ.",
+   "author": "ഉസ്മാന്‍ പാലക്കാഴി",
+   "issue_date": "2018-05-05",
+   "html_url": "/vi/dawah/who-are-cultural-leaders-20180505-1.html",
+   "md_url": "/vi/dawah/who-are-cultural-leaders-20180505-1.md"
   },
   {
    "slug": "better-safe-than-sorry-20170401-11",
