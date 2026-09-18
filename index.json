@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T04:05:27.383727+00:00",
+ "generated_at": "2026-09-18T04:06:31.466496+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6146,
+ "count": 6147,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -55396,6 +55396,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/sw/opinion/india-which-way-forward-20170325-2.html",
    "md_url": "/sw/opinion/india-which-way-forward-20170325-2.md"
+  },
+  {
+   "slug": "is-a-safe-society-becoming-a-dream-20180428-8",
+   "lang": "sw",
+   "category": "opinion",
+   "title": "Je, Jamii Salama Inageuka Kuwa Ndoto?",
+   "summary": "Makala hii inajadili ongezeko la chuki za kidini na vitisho dhidi ya usalama wa wanawake nchini India, ikichochewa na tukio la kusikitisha la mauaji ya Asifa huko Kathua.",
+   "author": "അബ്ദുല്ല ബാസില്‍ സി.പി",
+   "issue_date": "2018-04-28",
+   "html_url": "/sw/opinion/is-a-safe-society-becoming-a-dream-20180428-8.html",
+   "md_url": "/sw/opinion/is-a-safe-society-becoming-a-dream-20180428-8.md"
   },
   {
    "slug": "join-the-party-let-the-battle-begin-20170128-6",
