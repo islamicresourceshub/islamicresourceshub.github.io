@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T06:09:15.390610+00:00",
+ "generated_at": "2026-09-18T06:10:20.951700+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6271,
+ "count": 6272,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -67793,6 +67793,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/vi/story/the-fruit-of-ingratitude-20170121-7.html",
    "md_url": "/vi/story/the-fruit-of-ingratitude-20170121-7.md"
+  },
+  {
+   "slug": "the-path-of-success-20180428-12",
+   "lang": "vi",
+   "category": "story",
+   "title": "Con đường dẫn đến thành công",
+   "summary": "Một bài thơ giản dị về tầm quan trọng của việc thực hiện năm lời cầu nguyện mỗi ngày và sự thành công về mặt tâm linh mà nó mang lại cho con người.",
+   "author": "അബ്ദുൽ ഗഫൂര്‍ പുതുപ്പണം",
+   "issue_date": "2018-04-28",
+   "html_url": "/vi/story/the-path-of-success-20180428-12.html",
+   "md_url": "/vi/story/the-path-of-success-20180428-12.md"
   },
   {
    "slug": "when-the-burden-of-sin-increases-20170225-10",
