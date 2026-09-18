@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T05:08:08.291924+00:00",
+ "generated_at": "2026-09-18T05:09:07.139098+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6206,
+ "count": 6207,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -15796,6 +15796,17 @@
    "issue_date": "2026-08-22",
    "html_url": "/ha/health/know-this-for-those-caring-for-the-sick-20260822-1.html",
    "md_url": "/ha/health/know-this-for-those-caring-for-the-sick-20260822-1.md"
+  },
+  {
+   "slug": "thyroid-problems-20180428-10",
+   "lang": "ha",
+   "category": "health",
+   "title": "Matsalolin Thyroid",
+   "summary": "Wannan labarin lafiya yana bayyana ayyukan gland din thyroid wanda ke sarrafa sinadaran jiki, tare da tattauna matsalolin da ke shafarsa da kuma alamunsu.",
+   "author": "ഡോ. മുഹമ്മദ് കുട്ടി കണ്ണിയന്‍",
+   "issue_date": "2018-04-28",
+   "html_url": "/ha/health/thyroid-problems-20180428-10.html",
+   "md_url": "/ha/health/thyroid-problems-20180428-10.md"
   },
   {
    "slug": "when-menstruating-20260822-4",
