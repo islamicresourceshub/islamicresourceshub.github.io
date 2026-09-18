@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T02:24:49.906432+00:00",
+ "generated_at": "2026-09-18T02:25:39.866751+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6058,
+ "count": 6059,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -41481,6 +41481,17 @@
    "issue_date": "2017-04-01",
    "html_url": "/ms/history/the-verdict-of-babri-20170401-4.html",
    "md_url": "/ms/history/the-verdict-of-babri-20170401-4.md"
+  },
+  {
+   "slug": "a-glance-into-laws-20180428-6",
+   "lang": "ms",
+   "category": "opinion",
+   "title": "Sekilas Pandang Mengenai Undang-Undang",
+   "summary": "Sebuah artikel yang menjelaskan secara ringkas tentang Perlembagaan India dan hak-hak asasi yang dijamin kepada warganegaranya.",
+   "author": "മുസാഫിര്‍",
+   "issue_date": "2018-04-28",
+   "html_url": "/ms/opinion/a-glance-into-laws-20180428-6.html",
+   "md_url": "/ms/opinion/a-glance-into-laws-20180428-6.md"
   },
   {
    "slug": "alas-asifa-20180428-1",
