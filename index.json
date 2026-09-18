@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T03:37:35.551499+00:00",
+ "generated_at": "2026-09-18T03:38:46.696339+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6131,
+ "count": 6132,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -19756,6 +19756,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/it/opinion/india-which-way-forward-20170325-2.html",
    "md_url": "/it/opinion/india-which-way-forward-20170325-2.md"
+  },
+  {
+   "slug": "is-a-safe-society-becoming-a-dream-20180428-8",
+   "lang": "it",
+   "category": "opinion",
+   "title": "Una società sicura sta diventando solo un sogno?",
+   "summary": "Un articolo che discute l'aumento del settarismo e le minacce alla sicurezza delle donne in India, analizzando il tragico caso dell'omicidio di Asifa a Kathua.",
+   "author": "അബ്ദുല്ല ബാസില്‍ സി.പി",
+   "issue_date": "2018-04-28",
+   "html_url": "/it/opinion/is-a-safe-society-becoming-a-dream-20180428-8.html",
+   "md_url": "/it/opinion/is-a-safe-society-becoming-a-dream-20180428-8.md"
   },
   {
    "slug": "join-the-party-let-the-battle-begin-20170128-6",
