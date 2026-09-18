@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T09:31:07.327709+00:00",
+ "generated_at": "2026-09-18T09:32:08.175187+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6353,
+ "count": 6354,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -4136,6 +4136,17 @@
    "issue_date": "2026-08-22",
    "html_url": "/as/quran/surah-ash-shu-ara-the-poets-20260822-7.html",
    "md_url": "/as/quran/surah-ash-shu-ara-the-poets-20260822-7.md"
+  },
+  {
+   "slug": "surah-az-zalzalah-the-earthquake-tafsir-20180505-2",
+   "lang": "as",
+   "category": "quran",
+   "title": "জলজলাহ (ভূমিকম্প)",
+   "summary": "কোৰআনৰ ৯৯ সংখ্যক অধ্যায় ছুৰাতুজ্জিলজাল (ভূমিকম্প)ৰ তফচিৰ বা ব্যাখ্যা। এই অধ্যায়ত কিয়ামতৰ দিনা পৃথিৱী কঁপিবলৈ ধৰা আৰু মানুহৰ কৰ্মফলৰ হিচাপ লোৱা সম্পৰ্কীয় আয়াতসমূহৰ অৰ্থ ব্যাখ্যা কৰা হৈছে।",
+   "author": "അബ്ദുറഹ്മാന്‍ നാസിര്‍ അസ്സഅദി",
+   "issue_date": "2018-05-05",
+   "html_url": "/as/quran/surah-az-zalzalah-the-earthquake-tafsir-20180505-2.html",
+   "md_url": "/as/quran/surah-az-zalzalah-the-earthquake-tafsir-20180505-2.md"
   },
   {
    "slug": "universal-calls-in-the-quran-19-truth-falsehood-and-human-fr-20260822-3",
