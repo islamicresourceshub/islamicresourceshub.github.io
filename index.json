@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T11:57:45.377268+00:00",
+ "generated_at": "2026-09-18T11:58:41.943093+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6461,
+ "count": 6462,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -61457,6 +61457,17 @@
    "issue_date": "2017-04-01",
    "html_url": "/th/dawah/dawah-obligation-and-execution-20170401-9.html",
    "md_url": "/th/dawah/dawah-obligation-and-execution-20170401-9.md"
+  },
+  {
+   "slug": "death-and-patience-20180505-4",
+   "lang": "th",
+   "category": "dawah",
+   "title": "ความตายและความอดทน",
+   "summary": "บทความตอนที่ 7 ในซีรีส์ 'อัฟการุน อุกรอวิยยะฮ์' (ความคิดคำนึงถึงโลกหน้า) ซึ่งวิเคราะห์ถึงความจำเป็นในการตอบรับต่อความตายและการทดสอบต่างๆ ด้วยความอดทนผ่านมุมมองจากอัลกุรอาน",
+   "author": "വെള്ളില പി. അബ്ദുല്ല",
+   "issue_date": "2018-05-05",
+   "html_url": "/th/dawah/death-and-patience-20180505-4.html",
+   "md_url": "/th/dawah/death-and-patience-20180505-4.md"
   },
   {
    "slug": "do-not-be-slaves-to-desires-20170211-11",
