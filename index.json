@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T03:19:41.442517+00:00",
+ "generated_at": "2026-09-18T03:20:43.279167+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6114,
+ "count": 6115,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -64449,6 +64449,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/uz/opinion/the-shackles-of-consumerist-culture-20170121-13.html",
    "md_url": "/uz/opinion/the-shackles-of-consumerist-culture-20170121-13.md"
+  },
+  {
+   "slug": "the-traps-behind-women-s-liberation-20180428-7",
+   "lang": "uz",
+   "category": "opinion",
+   "title": "Ayol ozodligi da'vosi ortidagi tuzoqlar",
+   "summary": "Ushbu maqola zamonaviy jamiyatda ayol ozodligi niqobi ostida ayollarning shunchaki tijorat buyumiga aylantirilayotganiga qarshi fikr bildiradi. Unda ayolning haqiqiy qadr-qimmati va himoyasi Islom ta'limotlarida qanday aks etgani tushuntiriladi.",
+   "author": "ഉമ്മുഖദീജ പൂക്കത്ത് പറമ്പ്",
+   "issue_date": "2018-04-28",
+   "html_url": "/uz/opinion/the-traps-behind-women-s-liberation-20180428-7.html",
+   "md_url": "/uz/opinion/the-traps-behind-women-s-liberation-20180428-7.md"
   },
   {
    "slug": "trump-and-his-racism-20170211-14",
