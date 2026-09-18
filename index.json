@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T03:41:06.473232+00:00",
+ "generated_at": "2026-09-18T03:42:13.018663+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6134,
+ "count": 6135,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -23771,6 +23771,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/ko/opinion/india-which-way-forward-20170325-2.html",
    "md_url": "/ko/opinion/india-which-way-forward-20170325-2.md"
+  },
+  {
+   "slug": "is-a-safe-society-becoming-a-dream-20180428-8",
+   "lang": "ko",
+   "category": "opinion",
+   "title": "안전한 사회는 꿈이 되어버린 것일까?",
+   "summary": "카트와에서 발생한 아시파 살인 사건을 배경으로, 인도 내에서 점차 심화되는 종교적 갈등과 여성 안전에 대한 위협을 다룬 글입니다. 이 글은 증오의 정치를 넘어선 사회적 연대와 평화로운 공존의 중요성을 강조합니다.",
+   "author": "അബ്ദുല്ല ബാസില്‍ സി.പി",
+   "issue_date": "2018-04-28",
+   "html_url": "/ko/opinion/is-a-safe-society-becoming-a-dream-20180428-8.html",
+   "md_url": "/ko/opinion/is-a-safe-society-becoming-a-dream-20180428-8.md"
   },
   {
    "slug": "join-the-party-let-the-battle-begin-20170128-6",
