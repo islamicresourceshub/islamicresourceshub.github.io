@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T03:42:13.018663+00:00",
+ "generated_at": "2026-09-18T03:43:17.891922+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6135,
+ "count": 6136,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -40722,6 +40722,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/mr/opinion/india-which-way-forward-20170325-2.html",
    "md_url": "/mr/opinion/india-which-way-forward-20170325-2.md"
+  },
+  {
+   "slug": "is-a-safe-society-becoming-a-dream-20180428-8",
+   "lang": "mr",
+   "category": "opinion",
+   "title": "सुरक्षित समाज काय आता केवळ एक स्वप्न उरले आहे?",
+   "summary": "कठुआ येथील आसिफाच्या हत्येच्या पार्श्वभूमीवर देशात वाढत चाललेली जातीयता आणि महिलांच्या सुरक्षेला निर्माण झालेला धोका यावर भाष्य करणारा हा लेख आहे.",
+   "author": "അബ്ദുല്ല ബാസില്‍ സി.പി",
+   "issue_date": "2018-04-28",
+   "html_url": "/mr/opinion/is-a-safe-society-becoming-a-dream-20180428-8.html",
+   "md_url": "/mr/opinion/is-a-safe-society-becoming-a-dream-20180428-8.md"
   },
   {
    "slug": "join-the-party-let-the-battle-begin-20170128-6",
