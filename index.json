@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T09:19:41.441564+00:00",
+ "generated_at": "2026-09-18T09:20:39.081017+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6342,
+ "count": 6343,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -57882,6 +57882,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/ta/dawah/what-do-we-have-for-ourselves-20170218-10.html",
    "md_url": "/ta/dawah/what-do-we-have-for-ourselves-20170218-10.md"
+  },
+  {
+   "slug": "who-are-cultural-leaders-20180505-1",
+   "lang": "ta",
+   "category": "dawah",
+   "title": "கலாச்சார நாயகர்கள் என்பவர்கள் யார்?",
+   "summary": "ஒரு மகளின் கேள்வியில் இருந்து உருவான இந்தக் கட்டுரை, சமூகத்தில் கலாச்சார நாயகர்கள் என்று அழைக்கப்படுபவர்கள் யார் என்ற கேள்வியை எழுப்புகிறது. உண்மையான கலாச்சாரத் தலைமைத்துவத்தின் பண்புகளையும் பொறுப்புகளையும் இது அலசுகிறது.",
+   "author": "ഉസ്മാന്‍ പാലക്കാഴി",
+   "issue_date": "2018-05-05",
+   "html_url": "/ta/dawah/who-are-cultural-leaders-20180505-1.html",
+   "md_url": "/ta/dawah/who-are-cultural-leaders-20180505-1.md"
   },
   {
    "slug": "better-safe-than-sorry-20170401-11",
