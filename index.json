@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T11:05:16.876062+00:00",
+ "generated_at": "2026-09-18T11:06:21.605315+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6409,
+ "count": 6410,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -43274,6 +43274,17 @@
    "issue_date": "2017-02-25",
    "html_url": "/ms/fiqh/alcohol-islam-s-ever-relevant-approach-20170225-6.html",
    "md_url": "/ms/fiqh/alcohol-islam-s-ever-relevant-approach-20170225-6.md"
+  },
+  {
+   "slug": "duties-and-rights-20180505-3",
+   "lang": "ms",
+   "category": "fiqh",
+   "title": "Tanggungjawab dan Hak",
+   "summary": "Satu kajian fiqh mengenai tanggungjawab dan hak dalam perundangan Islam. Artikel ini menjelaskan kepentingan melaksanakan kewajipan undang-undang serta melindungi hak-hak individu dan masyarakat.",
+   "author": "മുസാഫിര്‍",
+   "issue_date": "2018-05-05",
+   "html_url": "/ms/fiqh/duties-and-rights-20180505-3.html",
+   "md_url": "/ms/fiqh/duties-and-rights-20180505-3.md"
   },
   {
    "slug": "mosque-construction-some-points-to-note-20170325-5",
