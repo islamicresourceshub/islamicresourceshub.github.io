@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T06:32:20.726622+00:00",
+ "generated_at": "2026-09-18T06:33:24.288597+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6291,
+ "count": 6292,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -41008,6 +41008,17 @@
    "issue_date": "2017-02-25",
    "html_url": "/mr/dawah/the-path-to-peace-20170225-11.html",
    "md_url": "/mr/dawah/the-path-to-peace-20170225-11.md"
+  },
+  {
+   "slug": "the-relevance-of-cleanliness-20180428-13",
+   "lang": "mr",
+   "category": "dawah",
+   "title": "स्वच्छतेचे महत्त्व",
+   "summary": "इस्लाममध्ये स्वच्छतेला असलेल्या अनन्यसाधारण महत्त्वावर आणि 'स्वच्छता ही अर्धी श्रद्धा आहे' या प्रेषित मुहम्मद (स.) यांच्या वचनाच्या सार्थतेवर प्रकाश टाकणारा लेख.",
+   "author": "ഡോ.ജസ്‌റതുന്നിസ",
+   "issue_date": "2018-04-28",
+   "html_url": "/mr/dawah/the-relevance-of-cleanliness-20180428-13.html",
+   "md_url": "/mr/dawah/the-relevance-of-cleanliness-20180428-13.md"
   },
   {
    "slug": "the-religion-that-rejects-terrorism-part-1-20170121-12",
