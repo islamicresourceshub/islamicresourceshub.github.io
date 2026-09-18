@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T02:35:21.560439+00:00",
+ "generated_at": "2026-09-18T02:36:10.559745+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6070,
+ "count": 6071,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -57200,6 +57200,17 @@
    "issue_date": "2017-04-01",
    "html_url": "/te/history/the-verdict-of-babri-20170401-4.html",
    "md_url": "/te/history/the-verdict-of-babri-20170401-4.md"
+  },
+  {
+   "slug": "a-glance-into-laws-20180428-6",
+   "lang": "te",
+   "category": "opinion",
+   "title": "చట్టాలపై ఒక అవలోకనం",
+   "summary": "భారత రాజ్యాంగం మరియు పౌరులకు అది కల్పించే ప్రాథమిక హక్కుల గురించి సరళంగా వివరించే వ్యాసం.",
+   "author": "മുസാഫിര്‍",
+   "issue_date": "2018-04-28",
+   "html_url": "/te/opinion/a-glance-into-laws-20180428-6.html",
+   "md_url": "/te/opinion/a-glance-into-laws-20180428-6.md"
   },
   {
    "slug": "alas-asifa-20180428-1",
