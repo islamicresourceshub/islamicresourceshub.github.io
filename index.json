@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T09:04:41.900829+00:00",
+ "generated_at": "2026-09-18T09:05:35.244293+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6326,
+ "count": 6327,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -20053,6 +20053,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/it/dawah/what-do-we-have-for-ourselves-20170218-10.html",
    "md_url": "/it/dawah/what-do-we-have-for-ourselves-20170218-10.md"
+  },
+  {
+   "slug": "who-are-cultural-leaders-20180505-1",
+   "lang": "it",
+   "category": "dawah",
+   "title": "Chi sono i leader culturali?",
+   "summary": "Un articolo nato da una domanda posta da una figlia, che interroga su chi siano realmente i leader culturali nella società. Analizza la natura e le responsabilità del vero ruolo di guida culturale.",
+   "author": "ഉസ്മാന്‍ പാലക്കാഴി",
+   "issue_date": "2018-05-05",
+   "html_url": "/it/dawah/who-are-cultural-leaders-20180505-1.html",
+   "md_url": "/it/dawah/who-are-cultural-leaders-20180505-1.md"
   },
   {
    "slug": "better-safe-than-sorry-20170401-11",
