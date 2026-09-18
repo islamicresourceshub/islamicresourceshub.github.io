@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T09:43:33.436788+00:00",
+ "generated_at": "2026-09-18T09:44:42.322723+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6365,
+ "count": 6366,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -20966,6 +20966,17 @@
    "issue_date": "2026-08-22",
    "html_url": "/it/quran/surah-ash-shu-ara-the-poets-20260822-7.html",
    "md_url": "/it/quran/surah-ash-shu-ara-the-poets-20260822-7.md"
+  },
+  {
+   "slug": "surah-az-zalzalah-the-earthquake-tafsir-20180505-2",
+   "lang": "it",
+   "category": "quran",
+   "title": "Az-Zalzalah (Il terremoto)",
+   "summary": "Una presentazione del tafsir della 99ª sura del Corano, Az-Zalzalah. Include una spiegazione dei versetti riguardanti il Giorno del Giudizio, quando la terra sarà scossa.",
+   "author": "അബ്ദുറഹ്മാന്‍ നാസിര്‍ അസ്സഅദി",
+   "issue_date": "2018-05-05",
+   "html_url": "/it/quran/surah-az-zalzalah-the-earthquake-tafsir-20180505-2.html",
+   "md_url": "/it/quran/surah-az-zalzalah-the-earthquake-tafsir-20180505-2.md"
   },
   {
    "slug": "universal-calls-in-the-quran-19-truth-falsehood-and-human-fr-20260822-3",
