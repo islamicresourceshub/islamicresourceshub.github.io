@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T09:28:01.149826+00:00",
+ "generated_at": "2026-09-18T09:29:06.860806+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6350,
+ "count": 6351,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -69036,6 +69036,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/zh/dawah/what-do-we-have-for-ourselves-20170218-10.html",
    "md_url": "/zh/dawah/what-do-we-have-for-ourselves-20170218-10.md"
+  },
+  {
+   "slug": "who-are-cultural-leaders-20180505-1",
+   "lang": "zh",
+   "category": "dawah",
+   "title": "谁是文化领袖？",
+   "summary": "这篇文章源于女儿的一个提问，探讨了社会中“文化领袖”的定义及其标准。文章分析了真正文化领袖应具备的责任与担当，并对当前部分所谓文化领袖在社会议题上的偏颇表现提出了反思。",
+   "author": "ഉസ്മാന്‍ പാലക്കാഴി",
+   "issue_date": "2018-05-05",
+   "html_url": "/zh/dawah/who-are-cultural-leaders-20180505-1.html",
+   "md_url": "/zh/dawah/who-are-cultural-leaders-20180505-1.md"
   },
   {
    "slug": "better-safe-than-sorry-20170401-11",
