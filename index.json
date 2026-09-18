@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T12:01:33.693105+00:00",
+ "generated_at": "2026-09-18T12:02:27.809041+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6465,
+ "count": 6466,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -67177,6 +67177,17 @@
    "issue_date": "2017-04-01",
    "html_url": "/uz/dawah/dawah-obligation-and-execution-20170401-9.html",
    "md_url": "/uz/dawah/dawah-obligation-and-execution-20170401-9.md"
+  },
+  {
+   "slug": "death-and-patience-20180505-4",
+   "lang": "uz",
+   "category": "dawah",
+   "title": "O'lim va sabr",
+   "summary": "«Afkorun uqroviyya» (Oxirat tafakkurlari) ruknining yettinchi qismi. Ushbu maqola Qur'on oyatlari asosida o'lim va hayotiy sinovlarga sabr bilan yondashish zaruriyatini tahlil qiladi.",
+   "author": "വെള്ളില പി. അബ്ദുല്ല",
+   "issue_date": "2018-05-05",
+   "html_url": "/uz/dawah/death-and-patience-20180505-4.html",
+   "md_url": "/uz/dawah/death-and-patience-20180505-4.md"
   },
   {
    "slug": "do-not-be-slaves-to-desires-20170211-11",
