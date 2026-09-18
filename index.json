@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T09:06:29.418174+00:00",
+ "generated_at": "2026-09-18T09:07:26.521788+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6328,
+ "count": 6329,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -22847,6 +22847,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/kn/dawah/what-do-we-have-for-ourselves-20170218-10.html",
    "md_url": "/kn/dawah/what-do-we-have-for-ourselves-20170218-10.md"
+  },
+  {
+   "slug": "who-are-cultural-leaders-20180505-1",
+   "lang": "kn",
+   "category": "dawah",
+   "title": "ಸಾಂಸ್ಕೃತಿಕ ನಾಯಕರು ಯಾರು?",
+   "summary": "ಮಗಳೊಬ್ಬಳ ಪ್ರಶ್ನೆಯಿಂದ ಹುಟ್ಟಿಕೊಂಡ ಈ ಲೇಖನ, ಸಮಾಜದಲ್ಲಿ ಸಾಂಸ್ಕೃತಿಕ ನಾಯಕರು ಎಂದು ಕರೆಯಲ್ಪಡುವವರು ಯಾರು ಮತ್ತು ಅವರ ಜವಾಬ್ದಾರಿಗಳೇನು ಎಂಬುದನ್ನು ವಿಶ್ಲೇಷಿಸುತ್ತದೆ. ನಿಜವಾದ ಸಾಂಸ್ಕೃತಿಕ ನಾಯಕತ್ವದ ಸ್ವರೂಪ ಮತ್ತು ಇಂದಿನ ಸನ್ನಿವೇಶದಲ್ಲಿ ಅದರ ಬದಲಾವಣೆಗಳನ್ನು ಇದು ಚರ್ಚಿಸುತ್ತದೆ.",
+   "author": "ഉസ്മാന്‍ പാലക്കാഴി",
+   "issue_date": "2018-05-05",
+   "html_url": "/kn/dawah/who-are-cultural-leaders-20180505-1.html",
+   "md_url": "/kn/dawah/who-are-cultural-leaders-20180505-1.md"
   },
   {
    "slug": "better-safe-than-sorry-20170401-11",
