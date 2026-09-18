@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T04:07:37.098801+00:00",
+ "generated_at": "2026-09-18T04:14:19.581948+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6148,
+ "count": 6149,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -58025,6 +58025,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/te/opinion/india-which-way-forward-20170325-2.html",
    "md_url": "/te/opinion/india-which-way-forward-20170325-2.md"
+  },
+  {
+   "slug": "is-a-safe-society-becoming-a-dream-20180428-8",
+   "lang": "te",
+   "category": "opinion",
+   "title": "సురక్షిత సమాజం కేవలం ఒక కలగా మిగిలిపోతుందా?",
+   "summary": "కథువాలో జరిగిన ఆసిఫా హత్య నేపథ్యంలో, దేశంలో పెరుగుతున్న మతతత్వం మరియు మహిళా భద్రతకు ఎదురవుతున్న సవాళ్లపై ఈ వ్యాసం చర్చిస్తుంది. మతపరమైన విభజన రాజకీయాలను ఎదిరించి, దేశ లౌకికవాదాన్ని కాపాడుకోవాల్సిన ఆవశ్యకతను ఇది నొక్కి చెబుతుంది.",
+   "author": "അബ്ദുല്ല ബാസില്‍ സി.പി",
+   "issue_date": "2018-04-28",
+   "html_url": "/te/opinion/is-a-safe-society-becoming-a-dream-20180428-8.html",
+   "md_url": "/te/opinion/is-a-safe-society-becoming-a-dream-20180428-8.md"
   },
   {
    "slug": "join-the-party-let-the-battle-begin-20170128-6",
