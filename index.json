@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T09:16:43.181349+00:00",
+ "generated_at": "2026-09-18T09:17:46.230093+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6339,
+ "count": 6340,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -53746,6 +53746,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/so/dawah/what-do-we-have-for-ourselves-20170218-10.html",
    "md_url": "/so/dawah/what-do-we-have-for-ourselves-20170218-10.md"
+  },
+  {
+   "slug": "who-are-cultural-leaders-20180505-1",
+   "lang": "so",
+   "category": "dawah",
+   "title": "Waa ayyee hoggaamiyeyaasha dhaqanka?",
+   "summary": "Qoraalkan oo ka dhashay su'aal ay gabadhaydu waydiisay, ayaa baadhaya cidda dhab ahaan loo aqoonsan karo hoggaamiyeyaasha dhaqanka ee bulshada. Waxa uu falanqaynayaa sifooyinka iyo mas'uuliyadaha dhabta ah ee hoggaamiyaha dhaqanka ee waqtigan casriga ah.",
+   "author": "ഉസ്മാന്‍ പാലക്കാഴി",
+   "issue_date": "2018-05-05",
+   "html_url": "/so/dawah/who-are-cultural-leaders-20180505-1.html",
+   "md_url": "/so/dawah/who-are-cultural-leaders-20180505-1.md"
   },
   {
    "slug": "better-safe-than-sorry-20170401-11",
