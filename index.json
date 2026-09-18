@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T05:51:47.445864+00:00",
+ "generated_at": "2026-09-18T05:52:36.140658+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6252,
+ "count": 6253,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -41800,6 +41800,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/mr/story/the-fruit-of-ingratitude-20170121-7.html",
    "md_url": "/mr/story/the-fruit-of-ingratitude-20170121-7.md"
+  },
+  {
+   "slug": "the-path-of-success-20180428-12",
+   "lang": "mr",
+   "category": "story",
+   "title": "यशाचा मार्ग",
+   "summary": "पाच वेळच्या नमाजाचे महत्त्व आणि ते मानवाला मिळवून देणाऱ्या आध्यात्मिक यशाबद्दलची ही एक साधी आणि सुंदर कविता आहे.",
+   "author": "അബ്ദുൽ ഗഫൂര്‍ പുതുപ്പണം",
+   "issue_date": "2018-04-28",
+   "html_url": "/mr/story/the-path-of-success-20180428-12.html",
+   "md_url": "/mr/story/the-path-of-success-20180428-12.md"
   },
   {
    "slug": "when-the-burden-of-sin-increases-20170225-10",
