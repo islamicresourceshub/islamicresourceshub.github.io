@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T12:07:36.450224+00:00",
+ "generated_at": "2026-09-18T12:08:36.130519+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6471,
+ "count": 6472,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -5137,6 +5137,17 @@
    "issue_date": "2018-05-05",
    "html_url": "/bn/fiqh/duties-and-rights-20180505-3.html",
    "md_url": "/bn/fiqh/duties-and-rights-20180505-3.md"
+  },
+  {
+   "slug": "embalming-the-dead-an-islamic-perspective-20180505-5",
+   "lang": "bn",
+   "category": "fiqh",
+   "title": "মৃতদেহ এমবামিং: একটি ইসলামি দৃষ্টিভঙ্গি",
+   "summary": "মানুষের শরীর মৃত্যুর পরেও সম্মান পাওয়ার যোগ্য—এই ইসলামি মূলনীতির ভিত্তিতে লেখা একটি নিবন্ধ। এতে দূরদেশে মৃত্যুবরণকারীদের মরদেহ নিজ দেশে ফিরিয়ে আনার ক্ষেত্রে এমবামিং বা রাসায়নিক প্রক্রিয়াকরণের ইসলামি বিধান বিস্তারিত আলোচনা করা হয়েছে।",
+   "author": "അഷ്‌റഫ് എകരൂല്‍",
+   "issue_date": "2018-05-05",
+   "html_url": "/bn/fiqh/embalming-the-dead-an-islamic-perspective-20180505-5.html",
+   "md_url": "/bn/fiqh/embalming-the-dead-an-islamic-perspective-20180505-5.md"
   },
   {
    "slug": "mosque-construction-some-points-to-note-20170325-5",
