@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T09:34:18.139112+00:00",
+ "generated_at": "2026-09-18T09:35:22.252199+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6356,
+ "count": 6357,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -8349,6 +8349,17 @@
    "issue_date": "2026-08-22",
    "html_url": "/de/quran/surah-ash-shu-ara-the-poets-20260822-7.html",
    "md_url": "/de/quran/surah-ash-shu-ara-the-poets-20260822-7.md"
+  },
+  {
+   "slug": "surah-az-zalzalah-the-earthquake-tafsir-20180505-2",
+   "lang": "de",
+   "category": "quran",
+   "title": "Az-Zalzalah - Das Beben",
+   "summary": "Eine Exegese der 99. Sure des Korans, Az-Zalzalah, die das Beben der Erde am Tag der Auferstehung thematisiert. Der Beitrag erläutert die Verse, die beschreiben, wie die Erde ihre Geheimnisse offenbart und jeder Mensch für seine Taten zur Rechenschaft gezogen wird.",
+   "author": "അബ്ദുറഹ്മാന്‍ നാസിര്‍ അസ്സഅദി",
+   "issue_date": "2018-05-05",
+   "html_url": "/de/quran/surah-az-zalzalah-the-earthquake-tafsir-20180505-2.html",
+   "md_url": "/de/quran/surah-az-zalzalah-the-earthquake-tafsir-20180505-2.md"
   },
   {
    "slug": "universal-calls-in-the-quran-19-truth-falsehood-and-human-fr-20260822-3",
