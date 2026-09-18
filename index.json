@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T02:23:58.124834+00:00",
+ "generated_at": "2026-09-18T02:24:49.906432+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6057,
+ "count": 6058,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -40183,6 +40183,17 @@
    "issue_date": "2017-04-01",
    "html_url": "/mr/history/the-verdict-of-babri-20170401-4.html",
    "md_url": "/mr/history/the-verdict-of-babri-20170401-4.md"
+  },
+  {
+   "slug": "a-glance-into-laws-20180428-6",
+   "lang": "mr",
+   "category": "opinion",
+   "title": "कायद्यांवर एक नजर",
+   "summary": "भारतीय संविधान आणि ते नागरिकांना प्रदान करत असलेल्या मूलभूत अधिकारांचे सोप्या भाषेत स्पष्टीकरण देणारा लेख.",
+   "author": "മുസാഫിര്‍",
+   "issue_date": "2018-04-28",
+   "html_url": "/mr/opinion/a-glance-into-laws-20180428-6.html",
+   "md_url": "/mr/opinion/a-glance-into-laws-20180428-6.md"
   },
   {
    "slug": "alas-asifa-20180428-1",
