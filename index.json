@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T08:54:33.217705+00:00",
+ "generated_at": "2026-09-18T08:55:41.033914+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6316,
+ "count": 6317,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -6138,6 +6138,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/bs/dawah/what-do-we-have-for-ourselves-20170218-10.html",
    "md_url": "/bs/dawah/what-do-we-have-for-ourselves-20170218-10.md"
+  },
+  {
+   "slug": "who-are-cultural-leaders-20180505-1",
+   "lang": "bs",
+   "category": "dawah",
+   "title": "Ko su kulturne vođe?",
+   "summary": "Bilješka nastala iz kćerkinog pitanja, koja postavlja pitanje ko su kulturne vođe u društvu. Analizira prirodu i odgovornosti istinskog kulturnog liderstva.",
+   "author": "ഉസ്മാന്‍ പാലക്കാഴി",
+   "issue_date": "2018-05-05",
+   "html_url": "/bs/dawah/who-are-cultural-leaders-20180505-1.html",
+   "md_url": "/bs/dawah/who-are-cultural-leaders-20180505-1.md"
   },
   {
    "slug": "better-safe-than-sorry-20170401-11",
