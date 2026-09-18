@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T08:28:50.707383+00:00",
+ "generated_at": "2026-09-18T08:30:56.098444+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6301,
+ "count": 6302,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -54769,6 +54769,17 @@
    "issue_date": "2017-02-25",
    "html_url": "/sq/dawah/the-path-to-peace-20170225-11.html",
    "md_url": "/sq/dawah/the-path-to-peace-20170225-11.md"
+  },
+  {
+   "slug": "the-relevance-of-cleanliness-20180428-13",
+   "lang": "sq",
+   "category": "dawah",
+   "title": "Rëndësia e pastërtisë",
+   "summary": "Ky artikull shpjegon rëndësinë e pastërtisë në Islam dhe domethënien e thënies së Profetit se pastërtia është pjesë e besimit. Ai trajton pastërtinë personale, higjienën dhe përgjegjësinë ndaj mjedisit si pjesë integrale e jetës së një besimtari.",
+   "author": "ഡോ.ജസ്‌റതുന്നിസ",
+   "issue_date": "2018-04-28",
+   "html_url": "/sq/dawah/the-relevance-of-cleanliness-20180428-13.html",
+   "md_url": "/sq/dawah/the-relevance-of-cleanliness-20180428-13.md"
   },
   {
    "slug": "the-religion-that-rejects-terrorism-part-1-20170121-12",
