@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T03:20:43.279167+00:00",
+ "generated_at": "2026-09-18T03:21:46.514116+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6115,
+ "count": 6116,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -65780,6 +65780,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/vi/opinion/the-shackles-of-consumerist-culture-20170121-13.html",
    "md_url": "/vi/opinion/the-shackles-of-consumerist-culture-20170121-13.md"
+  },
+  {
+   "slug": "the-traps-behind-women-s-liberation-20180428-7",
+   "lang": "vi",
+   "category": "opinion",
+   "title": "Những cạm bẫy đằng sau phong trào giải phóng phụ nữ",
+   "summary": "Bài viết này chỉ ra cách xã hội hiện đại, dưới chiêu bài giải phóng phụ nữ, đã biến phụ nữ thành những món hàng thương mại, đồng thời kêu gọi phụ nữ nhận thức rõ những âm mưu truyền thông đang hạ thấp phẩm giá của họ.",
+   "author": "ഉമ്മുഖദീജ പൂക്കത്ത് പറമ്പ്",
+   "issue_date": "2018-04-28",
+   "html_url": "/vi/opinion/the-traps-behind-women-s-liberation-20180428-7.html",
+   "md_url": "/vi/opinion/the-traps-behind-women-s-liberation-20180428-7.md"
   },
   {
    "slug": "trump-and-his-racism-20170211-14",
