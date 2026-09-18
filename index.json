@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T06:25:56.100910+00:00",
+ "generated_at": "2026-09-18T06:27:02.624925+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6285,
+ "count": 6286,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -17094,6 +17094,17 @@
    "issue_date": "2017-02-25",
    "html_url": "/hi/dawah/the-path-to-peace-20170225-11.html",
    "md_url": "/hi/dawah/the-path-to-peace-20170225-11.md"
+  },
+  {
+   "slug": "the-relevance-of-cleanliness-20180428-13",
+   "lang": "hi",
+   "category": "dawah",
+   "title": "स्वच्छता की प्रासंगिकता",
+   "summary": "यह लेख इस्लाम में स्वच्छता के महत्व और इस नबी के कथन की प्रासंगिकता की व्याख्या करता है कि स्वच्छता ईमान का आधा हिस्सा है। इसमें व्यक्तिगत स्वच्छता, धार्मिक अनुष्ठानों के लिए शुद्धता और सामाजिक परिवेश को स्वच्छ रखने के इस्लामी दृष्टिकोण पर विस्तार से चर्चा की गई है।",
+   "author": "ഡോ.ജസ്‌റതുന്നിസ",
+   "issue_date": "2018-04-28",
+   "html_url": "/hi/dawah/the-relevance-of-cleanliness-20180428-13.html",
+   "md_url": "/hi/dawah/the-relevance-of-cleanliness-20180428-13.md"
   },
   {
    "slug": "the-religion-that-rejects-terrorism-part-1-20170121-12",
