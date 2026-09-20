@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-20T15:08:08.228665+00:00",
+ "generated_at": "2026-09-20T15:10:39.567553+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6479,
+ "count": 6480,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -16632,6 +16632,17 @@
    "issue_date": "2018-05-05",
    "html_url": "/ha/fiqh/duties-and-rights-20180505-3.html",
    "md_url": "/ha/fiqh/duties-and-rights-20180505-3.md"
+  },
+  {
+   "slug": "embalming-the-dead-an-islamic-perspective-20180505-5",
+   "lang": "ha",
+   "category": "fiqh",
+   "title": "Embalming na Gawar: A Mahangar Musulunci",
+   "summary": "Wannan labarin ya yi nazari kan koyarwar Musulunci game da girmama gawar dan Adam bayan mutuwa. Ya kuma yi bayani kan hukuncin shari'a dangane da aikin embalming (kare gawa daga lalacewa) da kuma kawo gawar mutumin da ya rasu a kasashen waje zuwa gida.",
+   "author": "അഷ്‌റഫ് എകരൂല്‍",
+   "issue_date": "2018-05-05",
+   "html_url": "/ha/fiqh/embalming-the-dead-an-islamic-perspective-20180505-5.html",
+   "md_url": "/ha/fiqh/embalming-the-dead-an-islamic-perspective-20180505-5.md"
   },
   {
    "slug": "mosque-construction-some-points-to-note-20170325-5",
