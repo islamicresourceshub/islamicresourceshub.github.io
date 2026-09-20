@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-20T15:27:59.193699+00:00",
+ "generated_at": "2026-09-20T15:29:06.751815+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6490,
+ "count": 6491,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -48026,6 +48026,17 @@
    "issue_date": "2018-05-05",
    "html_url": "/pa/fiqh/duties-and-rights-20180505-3.html",
    "md_url": "/pa/fiqh/duties-and-rights-20180505-3.md"
+  },
+  {
+   "slug": "embalming-the-dead-an-islamic-perspective-20180505-5",
+   "lang": "pa",
+   "category": "fiqh",
+   "title": "ਮ੍ਰਿਤਕ ਦੇਹ ਦੀ ਸੰਭਾਲ (Embalming): ਇਸਲਾਮੀ ਨਜ਼ਰੀਆ",
+   "summary": "ਇਹ ਲੇਖ ਇਸਲਾਮੀ ਸਿਧਾਂਤਾਂ ਦੇ ਆਧਾਰ 'ਤੇ ਮ੍ਰਿਤਕ ਦੇਹ ਦੇ ਸਤਿਕਾਰ ਅਤੇ ਦੂਰ-ਦੁਰਾਡੇ ਮੌਤ ਹੋਣ ਦੀ ਸੂਰਤ ਵਿੱਚ ਦੇਹ ਨੂੰ ਵਤਨ ਲਿਆਉਣ ਦੇ ਇਸਲਾਮੀ ਹੁਕਮਾਂ ਦੀ ਵਿਆਖਿਆ ਕਰਦਾ ਹੈ। ਇਸ ਵਿੱਚ ਐਮਬਾਮਿੰਗ (embalming) ਨਾਲ ਜੁੜੇ ਸ਼ਰਈ ਨਿਯਮਾਂ ਅਤੇ ਮ੍ਰਿਤਕ ਦੇਹ ਨੂੰ ਜਲਦੀ ਦਫ਼ਨਾਉਣ ਦੀ ਮਹੱਤਤਾ ਬਾਰੇ ਚਰਚਾ ਕੀਤੀ ਗਈ ਹੈ।",
+   "author": "അഷ്‌റഫ് എകരൂല്‍",
+   "issue_date": "2018-05-05",
+   "html_url": "/pa/fiqh/embalming-the-dead-an-islamic-perspective-20180505-5.html",
+   "md_url": "/pa/fiqh/embalming-the-dead-an-islamic-perspective-20180505-5.md"
   },
   {
    "slug": "mosque-construction-some-points-to-note-20170325-5",
