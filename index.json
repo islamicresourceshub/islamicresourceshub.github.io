@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-20T15:31:37.697775+00:00",
+ "generated_at": "2026-09-20T15:32:50.827257+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6493,
+ "count": 6494,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -52338,6 +52338,17 @@
    "issue_date": "2018-05-05",
    "html_url": "/ru/fiqh/duties-and-rights-20180505-3.html",
    "md_url": "/ru/fiqh/duties-and-rights-20180505-3.md"
+  },
+  {
+   "slug": "embalming-the-dead-an-islamic-perspective-20180505-5",
+   "lang": "ru",
+   "category": "fiqh",
+   "title": "Бальзамирование тел: исламская перспектива",
+   "summary": "Статья рассматривает исламский взгляд на уважение к человеческому телу после смерти и правовые аспекты бальзамирования. В ней анализируется вопрос о целесообразности транспортировки тел умерших на родину в свете исламских норм и предписаний.",
+   "author": "അഷ്‌റഫ് എകരൂല്‍",
+   "issue_date": "2018-05-05",
+   "html_url": "/ru/fiqh/embalming-the-dead-an-islamic-perspective-20180505-5.html",
+   "md_url": "/ru/fiqh/embalming-the-dead-an-islamic-perspective-20180505-5.md"
   },
   {
    "slug": "mosque-construction-some-points-to-note-20170325-5",
