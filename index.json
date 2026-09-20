@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-18T12:08:36.130519+00:00",
+ "generated_at": "2026-09-20T14:54:25.820258+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6472,
+ "count": 6473,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -6578,6 +6578,17 @@
    "issue_date": "2018-05-05",
    "html_url": "/bs/fiqh/duties-and-rights-20180505-3.html",
    "md_url": "/bs/fiqh/duties-and-rights-20180505-3.md"
+  },
+  {
+   "slug": "embalming-the-dead-an-islamic-perspective-20180505-5",
+   "lang": "bs",
+   "category": "fiqh",
+   "title": "Balzamiranje tijela: Islamska perspektiva",
+   "summary": "Članak zasnovan na islamskom principu da se ljudsko tijelo mora poštovati i nakon smrti. Objašnjava islamski propis o prevozu tijela preminulih iz dalekih zemalja u njihovu domovinu.",
+   "author": "അഷ്‌റഫ് എകരൂല്‍",
+   "issue_date": "2018-05-05",
+   "html_url": "/bs/fiqh/embalming-the-dead-an-islamic-perspective-20180505-5.html",
+   "md_url": "/bs/fiqh/embalming-the-dead-an-islamic-perspective-20180505-5.md"
   },
   {
    "slug": "mosque-construction-some-points-to-note-20170325-5",
