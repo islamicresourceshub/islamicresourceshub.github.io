@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-20T15:13:29.597777+00:00",
+ "generated_at": "2026-09-20T15:15:15.772598+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6481,
+ "count": 6482,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -19503,6 +19503,17 @@
    "issue_date": "2018-05-05",
    "html_url": "/id/fiqh/duties-and-rights-20180505-3.html",
    "md_url": "/id/fiqh/duties-and-rights-20180505-3.md"
+  },
+  {
+   "slug": "embalming-the-dead-an-islamic-perspective-20180505-5",
+   "lang": "id",
+   "category": "fiqh",
+   "title": "Pembalseman Jenazah: Perspektif Islam",
+   "summary": "Artikel ini didasarkan pada prinsip Islam bahwa kehormatan tubuh manusia harus tetap terjaga bahkan setelah kematian. Dijelaskan pula hukum Islam mengenai pemindahan jenazah orang yang meninggal di tempat jauh ke kampung halaman.",
+   "author": "അഷ്‌റഫ് എകരൂല്‍",
+   "issue_date": "2018-05-05",
+   "html_url": "/id/fiqh/embalming-the-dead-an-islamic-perspective-20180505-5.html",
+   "md_url": "/id/fiqh/embalming-the-dead-an-islamic-perspective-20180505-5.md"
   },
   {
    "slug": "mosque-construction-some-points-to-note-20170325-5",
