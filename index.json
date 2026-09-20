@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-20T15:29:06.751815+00:00",
+ "generated_at": "2026-09-20T15:30:17.686541+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6491,
+ "count": 6492,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -49456,6 +49456,17 @@
    "issue_date": "2018-05-05",
    "html_url": "/ps/fiqh/duties-and-rights-20180505-3.html",
    "md_url": "/ps/fiqh/duties-and-rights-20180505-3.md"
+  },
+  {
+   "slug": "embalming-the-dead-an-islamic-perspective-20180505-5",
+   "lang": "ps",
+   "category": "fiqh",
+   "title": "د مړي امبالمنګ (جسد ساتنه): د اسلامي لیدلوري څخه",
+   "summary": "دا لیکنه د اسلامي اصولو پر بنسټ د انسان د جسد د درناوي په اړه ده، چې د مرګ وروسته هم باید وساتل شي. په دې کې د هغو کسانو د جسدونو د لېږدولو په اړه د اسلامي حکمونو وضاحت شوی چې په پردیو هېوادونو کې وفات کېږي.",
+   "author": "അഷ്‌റഫ് എകരൂല്‍",
+   "issue_date": "2018-05-05",
+   "html_url": "/ps/fiqh/embalming-the-dead-an-islamic-perspective-20180505-5.html",
+   "md_url": "/ps/fiqh/embalming-the-dead-an-islamic-perspective-20180505-5.md"
   },
   {
    "slug": "mosque-construction-some-points-to-note-20170325-5",
