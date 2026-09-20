@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-20T15:21:11.687021+00:00",
+ "generated_at": "2026-09-20T15:22:44.678223+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6485,
+ "count": 6486,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -25245,6 +25245,17 @@
    "issue_date": "2018-05-05",
    "html_url": "/ko/fiqh/duties-and-rights-20180505-3.html",
    "md_url": "/ko/fiqh/duties-and-rights-20180505-3.md"
+  },
+  {
+   "slug": "embalming-the-dead-an-islamic-perspective-20180505-5",
+   "lang": "ko",
+   "category": "fiqh",
+   "title": "시신 방부 처리: 이슬람적 관점",
+   "summary": "이 글은 인간의 몸에 대한 존중이 죽음 이후에도 지속되어야 한다는 이슬람 원칙에 기반을 두고 있습니다. 멀리 떨어진 곳에서 사망한 이들의 시신을 고향으로 운구하는 것에 대한 이슬람적 판결을 설명합니다.",
+   "author": "അഷ്‌റഫ് എകരൂല്‍",
+   "issue_date": "2018-05-05",
+   "html_url": "/ko/fiqh/embalming-the-dead-an-islamic-perspective-20180505-5.html",
+   "md_url": "/ko/fiqh/embalming-the-dead-an-islamic-perspective-20180505-5.md"
   },
   {
    "slug": "mosque-construction-some-points-to-note-20170325-5",
