@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-20T15:10:39.567553+00:00",
+ "generated_at": "2026-09-20T15:13:29.597777+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6480,
+ "count": 6481,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -18062,6 +18062,17 @@
    "issue_date": "2018-05-05",
    "html_url": "/hi/fiqh/duties-and-rights-20180505-3.html",
    "md_url": "/hi/fiqh/duties-and-rights-20180505-3.md"
+  },
+  {
+   "slug": "embalming-the-dead-an-islamic-perspective-20180505-5",
+   "lang": "hi",
+   "category": "fiqh",
+   "title": "मय्यित का एम्बामिंग: इस्लामी परिप्रेक्ष्य में",
+   "summary": "यह लेख इस्लामी सिद्धांत पर आधारित है कि मानव शरीर का सम्मान मृत्यु के बाद भी बना रहना चाहिए। इसमें उन लोगों की मय्यित को उनके वतन लाने के इस्लामी हुक्म को समझाया गया है जो दूर देशों में मरते हैं।",
+   "author": "അഷ്‌റഫ് എകരൂല്‍",
+   "issue_date": "2018-05-05",
+   "html_url": "/hi/fiqh/embalming-the-dead-an-islamic-perspective-20180505-5.html",
+   "md_url": "/hi/fiqh/embalming-the-dead-an-islamic-perspective-20180505-5.md"
   },
   {
    "slug": "mosque-construction-some-points-to-note-20170325-5",
