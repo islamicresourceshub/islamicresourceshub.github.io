@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-20T15:00:59.373623+00:00",
+ "generated_at": "2026-09-20T15:03:17.188397+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6476,
+ "count": 6477,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -12320,6 +12320,17 @@
    "issue_date": "2018-05-05",
    "html_url": "/fa/fiqh/duties-and-rights-20180505-3.html",
    "md_url": "/fa/fiqh/duties-and-rights-20180505-3.md"
+  },
+  {
+   "slug": "embalming-the-dead-an-islamic-perspective-20180505-5",
+   "lang": "fa",
+   "category": "fiqh",
+   "title": "مومیایی کردن جسد: از منظر اسلامی",
+   "summary": "این مقاله بر اساس اصل اسلامی احترام به بدن انسان حتی پس از مرگ تدوین شده است. در این نوشتار، حکم شرعی مومیایی کردن اجساد و انتقال آن‌ها از دیار غربت به وطن مورد بررسی قرار گرفته است.",
+   "author": "അഷ്‌റഫ് എകരൂല്‍",
+   "issue_date": "2018-05-05",
+   "html_url": "/fa/fiqh/embalming-the-dead-an-islamic-perspective-20180505-5.html",
+   "md_url": "/fa/fiqh/embalming-the-dead-an-islamic-perspective-20180505-5.md"
   },
   {
    "slug": "mosque-construction-some-points-to-note-20170325-5",
