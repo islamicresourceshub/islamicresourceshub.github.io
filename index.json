@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-20T15:30:17.686541+00:00",
+ "generated_at": "2026-09-20T15:31:37.697775+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6492,
+ "count": 6493,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -50897,6 +50897,17 @@
    "issue_date": "2018-05-05",
    "html_url": "/pt/fiqh/duties-and-rights-20180505-3.html",
    "md_url": "/pt/fiqh/duties-and-rights-20180505-3.md"
+  },
+  {
+   "slug": "embalming-the-dead-an-islamic-perspective-20180505-5",
+   "lang": "pt",
+   "category": "fiqh",
+   "title": "Embalsamamento de corpos: uma perspectiva islâmica",
+   "summary": "Este artigo explora a visão islâmica sobre o respeito ao corpo humano após a morte, analisando a prática do embalsamamento e o traslado de corpos sob a luz da jurisprudência islâmica. O texto enfatiza a importância de realizar o sepultamento com brevidade e dignidade, conforme os ensinamentos proféticos.",
+   "author": "അഷ്‌റഫ് എകരൂല്‍",
+   "issue_date": "2018-05-05",
+   "html_url": "/pt/fiqh/embalming-the-dead-an-islamic-perspective-20180505-5.html",
+   "md_url": "/pt/fiqh/embalming-the-dead-an-islamic-perspective-20180505-5.md"
   },
   {
    "slug": "mosque-construction-some-points-to-note-20170325-5",
