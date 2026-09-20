@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-20T14:54:25.820258+00:00",
+ "generated_at": "2026-09-20T14:56:41.641791+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6473,
+ "count": 6474,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -8019,6 +8019,17 @@
    "issue_date": "2018-05-05",
    "html_url": "/de/fiqh/duties-and-rights-20180505-3.html",
    "md_url": "/de/fiqh/duties-and-rights-20180505-3.md"
+  },
+  {
+   "slug": "embalming-the-dead-an-islamic-perspective-20180505-5",
+   "lang": "de",
+   "category": "fiqh",
+   "title": "Einbalsamierung von Verstorbenen: Eine islamische Perspektive",
+   "summary": "Dieser Artikel beleuchtet die islamische Sichtweise auf die Einbalsamierung von Verstorbenen, basierend auf dem Prinzip, dass der menschliche Körper auch nach dem Tod mit Würde behandelt werden muss. Er untersucht die islamischen Richtlinien für die Überführung von Leichnamen und die Bestattung in der Fremde.",
+   "author": "അഷ്‌റഫ് എകരൂല്‍",
+   "issue_date": "2018-05-05",
+   "html_url": "/de/fiqh/embalming-the-dead-an-islamic-perspective-20180505-5.html",
+   "md_url": "/de/fiqh/embalming-the-dead-an-islamic-perspective-20180505-5.md"
   },
   {
    "slug": "mosque-construction-some-points-to-note-20170325-5",
