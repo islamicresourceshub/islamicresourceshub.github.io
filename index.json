@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-20T15:03:17.188397+00:00",
+ "generated_at": "2026-09-20T15:05:47.312680+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6477,
+ "count": 6478,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -13761,6 +13761,17 @@
    "issue_date": "2018-05-05",
    "html_url": "/fr/fiqh/duties-and-rights-20180505-3.html",
    "md_url": "/fr/fiqh/duties-and-rights-20180505-3.md"
+  },
+  {
+   "slug": "embalming-the-dead-an-islamic-perspective-20180505-5",
+   "lang": "fr",
+   "category": "fiqh",
+   "title": "L'embaumement des corps : une perspective islamique",
+   "summary": "Cet article est basé sur le principe islamique selon lequel le corps humain doit être respecté même après la mort. Il explique la décision islamique concernant le rapatriement des corps de ceux qui décèdent loin de leur pays d'origine.",
+   "author": "അഷ്‌റഫ് എകരൂല്‍",
+   "issue_date": "2018-05-05",
+   "html_url": "/fr/fiqh/embalming-the-dead-an-islamic-perspective-20180505-5.html",
+   "md_url": "/fr/fiqh/embalming-the-dead-an-islamic-perspective-20180505-5.md"
   },
   {
    "slug": "mosque-construction-some-points-to-note-20170325-5",
