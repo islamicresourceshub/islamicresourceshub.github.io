@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-20T15:24:30.452588+00:00",
+ "generated_at": "2026-09-20T15:25:33.427117+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6487,
+ "count": 6488,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -43714,6 +43714,17 @@
    "issue_date": "2018-05-05",
    "html_url": "/ms/fiqh/duties-and-rights-20180505-3.html",
    "md_url": "/ms/fiqh/duties-and-rights-20180505-3.md"
+  },
+  {
+   "slug": "embalming-the-dead-an-islamic-perspective-20180505-5",
+   "lang": "ms",
+   "category": "fiqh",
+   "title": "Proses Embalming Mayat: Perspektif Islam",
+   "summary": "Artikel ini membincangkan prinsip Islam mengenai penghormatan terhadap jenazah manusia selepas kematian. Ia turut menjelaskan hukum Islam berkaitan proses embalming (pengawetan mayat) dan membawa pulang jenazah dari luar negara ke tanah air.",
+   "author": "അഷ്‌റഫ് എകരൂല്‍",
+   "issue_date": "2018-05-05",
+   "html_url": "/ms/fiqh/embalming-the-dead-an-islamic-perspective-20180505-5.html",
+   "md_url": "/ms/fiqh/embalming-the-dead-an-islamic-perspective-20180505-5.md"
   },
   {
    "slug": "mosque-construction-some-points-to-note-20170325-5",
