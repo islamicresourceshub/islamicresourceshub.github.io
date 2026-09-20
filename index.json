@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-20T15:05:47.312680+00:00",
+ "generated_at": "2026-09-20T15:08:08.228665+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6478,
+ "count": 6479,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -15191,6 +15191,17 @@
    "issue_date": "2018-05-05",
    "html_url": "/gu/fiqh/duties-and-rights-20180505-3.html",
    "md_url": "/gu/fiqh/duties-and-rights-20180505-3.md"
+  },
+  {
+   "slug": "embalming-the-dead-an-islamic-perspective-20180505-5",
+   "lang": "gu",
+   "category": "fiqh",
+   "title": "મૃતદેહનું એમ્બામિંગ: ઇસ્લામિક પરિપ્રેક્ષ્ય",
+   "summary": "આ લેખ ઇસ્લામિક સિદ્ધાંતો પર આધારિત છે કે માનવ શરીરનો આદર મૃત્યુ પછી પણ જળવાઈ રહેવો જોઈએ. તે દૂરના સ્થળે મૃત્યુ પામેલા વ્યક્તિના મૃતદેહને વતન લાવવા અને એમ્બામિંગ (રાસાયણિક જાળવણી) અંગેના ઇસ્લામિક દ્રષ્ટિકોણને સ્પષ્ટ કરે છે.",
+   "author": "അഷ്‌റഫ് എകരൂല്‍",
+   "issue_date": "2018-05-05",
+   "html_url": "/gu/fiqh/embalming-the-dead-an-islamic-perspective-20180505-5.html",
+   "md_url": "/gu/fiqh/embalming-the-dead-an-islamic-perspective-20180505-5.md"
   },
   {
    "slug": "mosque-construction-some-points-to-note-20170325-5",
