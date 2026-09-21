@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T12:18:18.369019+00:00",
+ "generated_at": "2026-09-21T12:19:24.954429+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 7008,
+ "count": 7009,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -68156,6 +68156,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/tl/dawah/solution-for-divisions-20170218-3.html",
    "md_url": "/tl/dawah/solution-for-divisions-20170218-3.md"
+  },
+  {
+   "slug": "specialities-of-the-month-of-ramadan-20180519-6",
+   "lang": "tl",
+   "category": "dawah",
+   "title": "Ang mga Katangian ng Buwan ng Ramadan",
+   "summary": "Ang artikulong ito ay nagpapaliwanag sa mahahalagang katangian ng buwan ng Ramadan. Tinatalakay nito ang kadakilaan ng buwan kung kailan ipinahayag ang Quran at ginawang obligasyon ang pag-aayuno, gayundin ang mga paraan kung paano mapapakinabangan ng mga mananampalataya ang buwang ito.",
+   "author": "അബ്ദുല്ലത്വീഫ് സുല്ലമി മാറഞ്ചേരി",
+   "issue_date": "2018-05-19",
+   "html_url": "/tl/dawah/specialities-of-the-month-of-ramadan-20180519-6.html",
+   "md_url": "/tl/dawah/specialities-of-the-month-of-ramadan-20180519-6.md"
   },
   {
    "slug": "stand-tall-20170121-8",
