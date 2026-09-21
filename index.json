@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T05:43:27.216234+00:00",
+ "generated_at": "2026-09-21T05:44:20.641922+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6689,
+ "count": 6690,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -55286,6 +55286,17 @@
    "issue_date": "2026-08-22",
    "html_url": "/si/health/know-this-for-those-caring-for-the-sick-20260822-1.html",
    "md_url": "/si/health/know-this-for-those-caring-for-the-sick-20260822-1.md"
+  },
+  {
+   "slug": "nutrients-for-thyroid-health-20180505-10",
+   "lang": "si",
+   "category": "health",
+   "title": "තයිරොයිඩ් ග්‍රන්ථියේ සෞඛ්‍යය සඳහා පෝෂක පදාර්ථ",
+   "summary": "තයිරොයිඩ් ග්‍රන්ථියේ ක්‍රියාකාරිත්වයට සහාය වන පෝෂක පදාර්ථ පිළිබඳ සෞඛ්‍ය ලිපියකි. ආහාර රටාව තුළින් තයිරොයිඩ් සෞඛ්‍යය පවත්වා ගන්නේ කෙසේද යන්න මෙහි විස්තර කෙරේ.",
+   "author": "ഡോ. മുഹമ്മദ് കുട്ടി കണ്ണിയന്‍",
+   "issue_date": "2018-05-05",
+   "html_url": "/si/health/nutrients-for-thyroid-health-20180505-10.html",
+   "md_url": "/si/health/nutrients-for-thyroid-health-20180505-10.md"
   },
   {
    "slug": "thyroid-problems-20180428-10",
