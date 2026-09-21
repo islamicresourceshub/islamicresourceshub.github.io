@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T10:49:05.847276+00:00",
+ "generated_at": "2026-09-21T10:50:18.128669+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6923,
+ "count": 6924,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -56958,6 +56958,17 @@
    "issue_date": "2018-05-05",
    "html_url": "/si/fiqh/embalming-the-dead-an-islamic-perspective-20180505-5.html",
    "md_url": "/si/fiqh/embalming-the-dead-an-islamic-perspective-20180505-5.md"
+  },
+  {
+   "slug": "fasting-and-smoking-20180519-4",
+   "lang": "si",
+   "category": "fiqh",
+   "title": "උපවාසය සහ දුම්පානය",
+   "summary": "උපවාසය යනු දේවභක්තිය සහ උතුම් සංස්කෘතියක් ගොඩනඟා ගැනීමට උපකාරී වන උතුම් වන්දනාවකි. මෙම ලිපිය උපවාසය සහ දුම්පානය අතර ඇති සම්බන්ධය, උපවාසයේ පාරිශුද්ධභාවය සහ දුම්පානයේ අහිතකර ප්‍රතිවිපාක ඉස්ලාමීය දෘෂ්ටිකෝණයෙන් සාකච්ඡා කරයි.",
+   "author": "ഹംസ ജമാലി",
+   "issue_date": "2018-05-19",
+   "html_url": "/si/fiqh/fasting-and-smoking-20180519-4.html",
+   "md_url": "/si/fiqh/fasting-and-smoking-20180519-4.md"
   },
   {
    "slug": "mosque-construction-some-points-to-note-20170325-5",
