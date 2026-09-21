@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T03:23:19.664703+00:00",
+ "generated_at": "2026-09-21T03:24:28.314816+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6548,
+ "count": 6549,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -4389,6 +4389,17 @@
    "issue_date": "2017-04-01",
    "html_url": "/as/seerah/prophets-are-humans-20170401-10.html",
    "md_url": "/as/seerah/prophets-are-humans-20170401-10.md"
+  },
+  {
+   "slug": "the-departure-of-the-prophet-20180505-7",
+   "lang": "as",
+   "category": "seerah",
+   "title": "নবীৰ পৰলোকগমন",
+   "summary": "নবীৰ নুবুৱত বা প্ৰেৰণৰ সমাপ্তি আৰু মুহাম্মদ ﷺ-ৰ পৰলোকগমনৰ ওপৰত আলোকপাত কৰা এক প্ৰবন্ধ। ইয়াৰ জৰিয়তে নুবুৱতৰ ধাৰাবাহিকতাৰ অন্ত আৰু ইছলামৰ পূৰ্ণতাক বিশ্লেষণ কৰা হৈছে।",
+   "author": "സയ്യിദ് സഅ്ഫര്‍ സ്വാദിക്വ് മദീനി",
+   "issue_date": "2018-05-05",
+   "html_url": "/as/seerah/the-departure-of-the-prophet-20180505-7.html",
+   "md_url": "/as/seerah/the-departure-of-the-prophet-20180505-7.md"
   },
   {
    "slug": "a-good-death-20180428-5",
