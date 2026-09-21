@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T09:30:00.867377+00:00",
+ "generated_at": "2026-09-21T09:31:04.872125+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6869,
+ "count": 6870,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -18524,6 +18524,17 @@
    "issue_date": "2017-04-01",
    "html_url": "/ha/seerah/prophets-are-humans-20170401-10.html",
    "md_url": "/ha/seerah/prophets-are-humans-20170401-10.md"
+  },
+  {
+   "slug": "reaching-midian-20180519-3",
+   "lang": "ha",
+   "category": "seerah",
+   "title": "Iska zuwa Madyan",
+   "summary": "Wannan labarin yana bayyana tafiyar Annabi Musa (AS) zuwa Madyan, wani muhimmin mataki a rayuwarsa. Ya kunshi yadda ya isa wajen rijiyar Madyan da kuma yadda ya taimaki wasu mata biyu da suka kasa shayar da dabbobinsu.",
+   "author": "ഹുസൈന്‍ സലഫി, ഷാര്‍ജ",
+   "issue_date": "2018-05-19",
+   "html_url": "/ha/seerah/reaching-midian-20180519-3.html",
+   "md_url": "/ha/seerah/reaching-midian-20180519-3.md"
   },
   {
    "slug": "the-departure-of-the-prophet-20180505-7",
