@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T12:15:01.334724+00:00",
+ "generated_at": "2026-09-21T12:16:02.868635+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 7005,
+ "count": 7006,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -63426,6 +63426,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/ta/dawah/solution-for-divisions-20170218-3.html",
    "md_url": "/ta/dawah/solution-for-divisions-20170218-3.md"
+  },
+  {
+   "slug": "specialities-of-the-month-of-ramadan-20180519-6",
+   "lang": "ta",
+   "category": "dawah",
+   "title": "ரமலான் மாதத்தின் சிறப்புகள்",
+   "summary": "இந்தக் கட்டுரையில் ரமலான் மாதத்தின் முக்கிய சிறப்புகள் விளக்கப்பட்டுள்ளன. குர்ஆன் அருளப்பட்ட மாதம், நோன்பு கடமையாக்கப்பட்ட மாதம் போன்ற ரமலானின் மகத்துவங்களை இது எடுத்துரைக்கிறது. விசுவாசிகள் இந்த மாதத்தை எவ்வாறு பயனுள்ளதாக்கிக் கொள்ளலாம் என்பதையும் இக்கட்டுரை சுட்டிக்காட்டுகிறது.",
+   "author": "അബ്ദുല്ലത്വീഫ് സുല്ലമി മാറഞ്ചേരി",
+   "issue_date": "2018-05-19",
+   "html_url": "/ta/dawah/specialities-of-the-month-of-ramadan-20180519-6.html",
+   "md_url": "/ta/dawah/specialities-of-the-month-of-ramadan-20180519-6.md"
   },
   {
    "slug": "stand-tall-20170121-8",
