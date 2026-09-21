@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T02:33:14.200143+00:00",
+ "generated_at": "2026-09-21T02:34:17.341929+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6500,
+ "count": 6501,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -62326,6 +62326,17 @@
    "issue_date": "2018-05-05",
    "html_url": "/th/fiqh/duties-and-rights-20180505-3.html",
    "md_url": "/th/fiqh/duties-and-rights-20180505-3.md"
+  },
+  {
+   "slug": "embalming-the-dead-an-islamic-perspective-20180505-5",
+   "lang": "th",
+   "category": "fiqh",
+   "title": "การฉีดฟอร์มาลีนศพ: ในมุมมองของอิสลาม",
+   "summary": "บทความนี้อธิบายหลักการอิสลามที่ให้ความสำคัญกับการให้เกียรติร่างกายมนุษย์ทั้งในยามมีชีวิตและหลังเสียชีวิต พร้อมทั้งชี้แจงข้อกำหนดทางศาสนาเกี่ยวกับการฉีดฟอร์มาลีนและการเคลื่อนย้ายศพจากต่างแดนกลับสู่ภูมิลำเนา",
+   "author": "അഷ്‌റഫ് എകരൂല്‍",
+   "issue_date": "2018-05-05",
+   "html_url": "/th/fiqh/embalming-the-dead-an-islamic-perspective-20180505-5.html",
+   "md_url": "/th/fiqh/embalming-the-dead-an-islamic-perspective-20180505-5.md"
   },
   {
    "slug": "mosque-construction-some-points-to-note-20170325-5",
