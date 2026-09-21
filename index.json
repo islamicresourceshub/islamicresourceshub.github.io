@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T05:36:22.010425+00:00",
+ "generated_at": "2026-09-21T05:37:16.850768+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6681,
+ "count": 6682,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -43362,6 +43362,17 @@
    "issue_date": "2026-08-22",
    "html_url": "/mr/health/know-this-for-those-caring-for-the-sick-20260822-1.html",
    "md_url": "/mr/health/know-this-for-those-caring-for-the-sick-20260822-1.md"
+  },
+  {
+   "slug": "nutrients-for-thyroid-health-20180505-10",
+   "lang": "mr",
+   "category": "health",
+   "title": "थायरॉईड आरोग्यासाठी पोषक घटक",
+   "summary": "थायरॉईड ग्रंथीच्या कार्याला मदत करणाऱ्या पोषक घटकांविषयीचा हा एक आरोग्यविषयक लेख आहे. योग्य आहारपद्धतीद्वारे थायरॉईडचे आरोग्य कसे टिकवून ठेवता येईल, याचे सविस्तर मार्गदर्शन यात दिले आहे.",
+   "author": "ഡോ. മുഹമ്മദ് കുട്ടി കണ്ണിയന്‍",
+   "issue_date": "2018-05-05",
+   "html_url": "/mr/health/nutrients-for-thyroid-health-20180505-10.html",
+   "md_url": "/mr/health/nutrients-for-thyroid-health-20180505-10.md"
   },
   {
    "slug": "thyroid-problems-20180428-10",
