@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T09:16:47.234446+00:00",
+ "generated_at": "2026-09-21T09:17:40.798849+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6856,
+ "count": 6857,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -72666,6 +72666,17 @@
    "issue_date": "2026-08-22",
    "html_url": "/vi/aqeedah/who-is-wrong-in-ideology-20260822-2.html",
    "md_url": "/vi/aqeedah/who-is-wrong-in-ideology-20260822-2.md"
+  },
+  {
+   "slug": "curb-extravagance-in-iftar-20180519-2",
+   "lang": "vi",
+   "category": "dawah",
+   "title": "Hãy kiềm chế sự lãng phí trong các bữa tiệc Iftar",
+   "summary": "Nhịn ăn trong tháng Ramadan là một hành động tu tập nhằm kiềm chế ham muốn và nhu cầu ăn uống. Bài viết này lên tiếng phản đối sự lãng phí trong các bữa tiệc Iftar, nhấn mạnh tầm quan trọng của việc tránh xa sự xa hoa để bảo vệ mục tiêu tâm linh của tháng Ramadan.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2018-05-19",
+   "html_url": "/vi/dawah/curb-extravagance-in-iftar-20180519-2.html",
+   "md_url": "/vi/dawah/curb-extravagance-in-iftar-20180519-2.md"
   },
   {
    "slug": "dawah-obligation-and-execution-20170401-9",
