@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T10:58:09.836155+00:00",
+ "generated_at": "2026-09-21T10:59:13.255383+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6930,
+ "count": 6931,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -67793,6 +67793,17 @@
    "issue_date": "2018-05-05",
    "html_url": "/tl/fiqh/embalming-the-dead-an-islamic-perspective-20180505-5.html",
    "md_url": "/tl/fiqh/embalming-the-dead-an-islamic-perspective-20180505-5.md"
+  },
+  {
+   "slug": "fasting-and-smoking-20180519-4",
+   "lang": "tl",
+   "category": "fiqh",
+   "title": "Pag-aayuno at Paninigarilyo",
+   "summary": "Ang pag-aayuno ay isang marangal na pagsamba na naglalayong makamit ang kabanalan at mabuting asal. Tinatalakay ng artikulong ito ang kaugnayan ng pag-aayuno sa paninigarilyo, at ipinapaliwanag ang kabanalan ng pag-aayuno at ang masasamang epekto ng paninigarilyo mula sa pananaw ng Islam.",
+   "author": "ഹംസ ജമാലി",
+   "issue_date": "2018-05-19",
+   "html_url": "/tl/fiqh/fasting-and-smoking-20180519-4.html",
+   "md_url": "/tl/fiqh/fasting-and-smoking-20180519-4.md"
   },
   {
    "slug": "mosque-construction-some-points-to-note-20170325-5",
