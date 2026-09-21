@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T08:14:03.042243+00:00",
+ "generated_at": "2026-09-21T08:15:01.267628+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6797,
+ "count": 6798,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -27258,6 +27258,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/ko/opinion/who-should-leave-india-20170121-1.html",
    "md_url": "/ko/opinion/who-should-leave-india-20170121-1.md"
+  },
+  {
+   "slug": "al-bayyinah-the-clear-proof-20180519-1",
+   "lang": "ko",
+   "category": "quran",
+   "title": "알-바이야이나 (명백한 증거)",
+   "summary": "이 글은 꾸란 제98장 알-바이야이나에 대한 해설입니다. 이 장은 성서의 백성들과 다신교도들이 명백한 증거가 오기 전까지는 그들의 잘못된 신념에서 벗어나지 않았음을 지적하며, 꾸란의 초기 구절들을 상세히 설명합니다.",
+   "author": "അബ്ദുറഹ്മാന്‍ നാസിര്‍ അസ്സഅദി",
+   "issue_date": "2018-05-19",
+   "html_url": "/ko/quran/al-bayyinah-the-clear-proof-20180519-1.html",
+   "md_url": "/ko/quran/al-bayyinah-the-clear-proof-20180519-1.md"
   },
   {
    "slug": "praise-be-to-the-lord-of-the-worlds-20170325-9",
