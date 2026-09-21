@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T08:57:21.745891+00:00",
+ "generated_at": "2026-09-21T08:58:29.450454+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6842,
+ "count": 6843,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -51205,6 +51205,17 @@
    "issue_date": "2026-08-22",
    "html_url": "/ps/aqeedah/who-is-wrong-in-ideology-20260822-2.html",
    "md_url": "/ps/aqeedah/who-is-wrong-in-ideology-20260822-2.md"
+  },
+  {
+   "slug": "curb-extravagance-in-iftar-20180519-2",
+   "lang": "ps",
+   "category": "dawah",
+   "title": "د روژه ماتي په اسراف کنټرول ولګوئ",
+   "summary": "په رمضان کې روژه د خوړو، څښاک او شهوتونو څخه د ځان ساتلو یو عمل دی. دا مقاله د روژه ماتي پر مهال د اسراف په اړه خبرې کوي. دا د ډیر لګښت څخه د مخنیوي پر اهمیت ټینګار کوي چې د رمضان روحاني اهداف زیانمنوي.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2018-05-19",
+   "html_url": "/ps/dawah/curb-extravagance-in-iftar-20180519-2.html",
+   "md_url": "/ps/dawah/curb-extravagance-in-iftar-20180519-2.md"
   },
   {
    "slug": "dawah-obligation-and-execution-20170401-9",
