@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T09:09:58.782127+00:00",
+ "generated_at": "2026-09-21T09:16:47.234446+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6855,
+ "count": 6856,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -71126,6 +71126,17 @@
    "issue_date": "2026-08-22",
    "html_url": "/uz/aqeedah/who-is-wrong-in-ideology-20260822-2.html",
    "md_url": "/uz/aqeedah/who-is-wrong-in-ideology-20260822-2.md"
+  },
+  {
+   "slug": "curb-extravagance-in-iftar-20180519-2",
+   "lang": "uz",
+   "category": "dawah",
+   "title": "Iftorlikdagi isrofgarchilikka chek qo‘ying",
+   "summary": "Ramazon ro‘zasi nafaqat taom va ichimlikdan, balki nafs istaklaridan ham tiyilish ibodatidir. Ushbu maqola iftorlik dasturxonlarida kuzatilayotgan isrofgarchilik va kibr-havoga qarshi qaratilgan bo‘lib, Ramazonning asl ma’naviy maqsadlarini eslatadi.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2018-05-19",
+   "html_url": "/uz/dawah/curb-extravagance-in-iftar-20180519-2.html",
+   "md_url": "/uz/dawah/curb-extravagance-in-iftar-20180519-2.md"
   },
   {
    "slug": "dawah-obligation-and-execution-20170401-9",
