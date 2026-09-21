@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T03:14:49.836463+00:00",
+ "generated_at": "2026-09-21T03:16:09.324208+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6541,
+ "count": 6542,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -66154,6 +66154,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/tr/seerah/can-prophethood-be-attained-by-desire-20170218-1.html",
    "md_url": "/tr/seerah/can-prophethood-be-attained-by-desire-20170218-1.md"
+  },
+  {
+   "slug": "from-the-river-to-the-palace-part-2-20180505-6",
+   "lang": "tr",
+   "category": "seerah",
+   "title": "Nehirden Saraya",
+   "summary": "Hz. Musa'nın (a.s.) hayatının ikinci bölümü. Nil nehrinden Firavun'un sarayına uzanan olaylar ve bu sürecin Kur'an'daki arka planı ele alınıyor.",
+   "author": "ഹുസൈന്‍ സലഫി, ഷാര്‍ജ",
+   "issue_date": "2018-05-05",
+   "html_url": "/tr/seerah/from-the-river-to-the-palace-part-2-20180505-6.html",
+   "md_url": "/tr/seerah/from-the-river-to-the-palace-part-2-20180505-6.md"
   },
   {
    "slug": "ibn-abbas-ra-a-scholar-of-knowledge-20170211-4",
