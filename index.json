@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T02:34:17.341929+00:00",
+ "generated_at": "2026-09-21T02:35:20.699071+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6501,
+ "count": 6502,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -63767,6 +63767,17 @@
    "issue_date": "2018-05-05",
    "html_url": "/tl/fiqh/duties-and-rights-20180505-3.html",
    "md_url": "/tl/fiqh/duties-and-rights-20180505-3.md"
+  },
+  {
+   "slug": "embalming-the-dead-an-islamic-perspective-20180505-5",
+   "lang": "tl",
+   "category": "fiqh",
+   "title": "Embalming ng Bangkay: Mula sa Pananaw ng Islam",
+   "summary": "Ang artikulong ito ay nakabatay sa prinsipyo ng Islam na ang paggalang sa katawan ng tao ay dapat manatili kahit pagkatapos ng kamatayan. Tinatalakay nito ang mga panuntunang Islamiko hinggil sa pag-uwi ng mga labi ng mga yumao mula sa malalayong lugar at ang pagsasagawa ng embalming.",
+   "author": "അഷ്‌റഫ് എകരൂല്‍",
+   "issue_date": "2018-05-05",
+   "html_url": "/tl/fiqh/embalming-the-dead-an-islamic-perspective-20180505-5.html",
+   "md_url": "/tl/fiqh/embalming-the-dead-an-islamic-perspective-20180505-5.md"
   },
   {
    "slug": "mosque-construction-some-points-to-note-20170325-5",
