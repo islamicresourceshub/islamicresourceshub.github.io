@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T10:01:02.441043+00:00",
+ "generated_at": "2026-09-21T10:02:03.510500+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6899,
+ "count": 6900,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -3982,6 +3982,17 @@
    "issue_date": "2018-05-05",
    "html_url": "/as/fiqh/embalming-the-dead-an-islamic-perspective-20180505-5.html",
    "md_url": "/as/fiqh/embalming-the-dead-an-islamic-perspective-20180505-5.md"
+  },
+  {
+   "slug": "fasting-and-smoking-20180519-4",
+   "lang": "as",
+   "category": "fiqh",
+   "title": "ৰোজা আৰু ধুম্ৰপান",
+   "summary": "ৰোজা হৈছে আল্লাহৰ প্ৰতি ভয় আৰু উত্তম চৰিত্ৰ গঢ়ি তোলাৰ এক শ্ৰেষ্ঠ ইবাদত বা উপাসনা। এই প্ৰবন্ধটোত ৰোজা আৰু ধুম্ৰপানৰ মাজৰ সম্পৰ্ক, ৰোজাৰ পৱিত্ৰতা আৰু ধুম্ৰপানৰ ক্ষতিকাৰক দিশসমূহ ইছলামিক দৃষ্টিভংগীৰ পৰা আলোচনা কৰা হৈছে।",
+   "author": "ഹംസ ജമാലി",
+   "issue_date": "2018-05-19",
+   "html_url": "/as/fiqh/fasting-and-smoking-20180519-4.html",
+   "md_url": "/as/fiqh/fasting-and-smoking-20180519-4.md"
   },
   {
    "slug": "mosque-construction-some-points-to-note-20170325-5",
