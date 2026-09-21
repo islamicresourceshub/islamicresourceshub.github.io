@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T08:31:24.123777+00:00",
+ "generated_at": "2026-09-21T08:32:24.978828+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6814,
+ "count": 6815,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -68717,6 +68717,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/tr/opinion/who-should-leave-india-20170121-1.html",
    "md_url": "/tr/opinion/who-should-leave-india-20170121-1.md"
+  },
+  {
+   "slug": "al-bayyinah-the-clear-proof-20180519-1",
+   "lang": "tr",
+   "category": "quran",
+   "title": "Beyyine (Apaçık Delil)",
+   "summary": "Bu yazı, Kur'an'ın 98. suresi olan el-Beyyine suresinin bir tefsiridir. Sure, Kitap Ehli ve müşriklerin kendilerine apaçık bir delil gelene kadar inkarlarından vazgeçmediklerini ve bu delilin gelmesiyle birlikte nasıl bir ayrışma yaşadıklarını ele almaktadır.",
+   "author": "അബ്ദുറഹ്മാന്‍ നാസിര്‍ അസ്സഅദി",
+   "issue_date": "2018-05-19",
+   "html_url": "/tr/quran/al-bayyinah-the-clear-proof-20180519-1.html",
+   "md_url": "/tr/quran/al-bayyinah-the-clear-proof-20180519-1.md"
   },
   {
    "slug": "praise-be-to-the-lord-of-the-worlds-20170325-9",
