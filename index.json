@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T04:52:30.187786+00:00",
+ "generated_at": "2026-09-21T04:53:31.021467+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6636,
+ "count": 6637,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -18282,6 +18282,17 @@
    "issue_date": "2017-02-25",
    "html_url": "/hi/dawah/the-chemistry-of-unity-20170225-2.html",
    "md_url": "/hi/dawah/the-chemistry-of-unity-20170225-2.md"
+  },
+  {
+   "slug": "the-month-of-sha-ban-and-baraat-20180505-9",
+   "lang": "hi",
+   "category": "dawah",
+   "title": "शअबान का महीना और बरात",
+   "summary": "यह लेख इस बात पर प्रकाश डालता है कि कुछ समय और स्थानों को विशेष पवित्रता दी गई है। इसमें शअबान के महीने और बरात की रात के महत्व और उनसे जुड़ी प्रचलित प्रथाओं का कुरान और सुन्नत की रोशनी में विश्लेषण किया गया है।",
+   "author": "ശമീര്‍ മദീനി",
+   "issue_date": "2018-05-05",
+   "html_url": "/hi/dawah/the-month-of-sha-ban-and-baraat-20180505-9.html",
+   "md_url": "/hi/dawah/the-month-of-sha-ban-and-baraat-20180505-9.md"
   },
   {
    "slug": "the-path-to-peace-20170225-11",
