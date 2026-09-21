@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T11:42:13.269503+00:00",
+ "generated_at": "2026-09-21T11:43:05.763204+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6974,
+ "count": 6975,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -76186,6 +76186,17 @@
    "issue_date": "2018-04-28",
    "html_url": "/zh/opinion/a-glance-into-laws-20180428-6.html",
    "md_url": "/zh/opinion/a-glance-into-laws-20180428-6.md"
+  },
+  {
+   "slug": "against-public-nuisance-20180519-5",
+   "lang": "zh",
+   "category": "opinion",
+   "title": "反对公共滋扰",
+   "summary": "印度刑法将公共滋扰定义为对公众造成危险或困扰的行为。本文探讨了针对公共滋扰的法律规定、社会责任，以及通过拉特拉姆市政当局案例强调了维护社会秩序与公共卫生的重要性。",
+   "author": "മുസാഫിര്‍",
+   "issue_date": "2018-05-19",
+   "html_url": "/zh/opinion/against-public-nuisance-20180519-5.html",
+   "md_url": "/zh/opinion/against-public-nuisance-20180519-5.md"
   },
   {
    "slug": "alas-asifa-20180428-1",
