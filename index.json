@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T11:12:17.180397+00:00",
+ "generated_at": "2026-09-21T11:13:16.327636+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6944,
+ "count": 6945,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -13574,6 +13574,17 @@
    "issue_date": "2018-04-28",
    "html_url": "/fa/opinion/a-glance-into-laws-20180428-6.html",
    "md_url": "/fa/opinion/a-glance-into-laws-20180428-6.md"
+  },
+  {
+   "slug": "against-public-nuisance-20180519-5",
+   "lang": "fa",
+   "category": "opinion",
+   "title": "در مقابله با مزاحمت‌های عمومی",
+   "summary": "قانون مجازات هند، مزاحمت عمومی را عملی تعریف می‌کند که برای عموم مردم خطر یا آزار ایجاد کند. این مقاله به بررسی جنبه‌های قانونی مزاحمت‌های عمومی، مسئولیت‌های اجتماعی و اهمیت حفظ نظم و آرامش در جامعه می‌پردازد.",
+   "author": "മുസാഫിര്‍",
+   "issue_date": "2018-05-19",
+   "html_url": "/fa/opinion/against-public-nuisance-20180519-5.html",
+   "md_url": "/fa/opinion/against-public-nuisance-20180519-5.md"
   },
   {
    "slug": "alas-asifa-20180428-1",
