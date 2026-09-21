@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T04:40:03.903740+00:00",
+ "generated_at": "2026-09-21T04:41:00.978590+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6623,
+ "count": 6624,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -72941,6 +72941,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/zh/story/grown-up-children-20170121-6.html",
    "md_url": "/zh/story/grown-up-children-20170121-6.md"
+  },
+  {
+   "slug": "guardians-should-be-role-models-20180505-8",
+   "lang": "zh",
+   "category": "story",
+   "title": "父母应成为榜样",
+   "summary": "通过一个在村庄挖掘宝藏的年轻人的故事，本文探讨了父母作为孩子榜样的重要性。文章强调，父母不仅要在言语上引导，更要在行为上以身作则，通过持续的努力和正确的信仰教育，培养出优秀的下一代。",
+   "author": "സി.മുഹമ്മദ് റാഫി ചെമ്പ്ര",
+   "issue_date": "2018-05-05",
+   "html_url": "/zh/story/guardians-should-be-role-models-20180505-8.html",
+   "md_url": "/zh/story/guardians-should-be-role-models-20180505-8.md"
   },
   {
    "slug": "laws-are-to-be-followed-20170128-5",
