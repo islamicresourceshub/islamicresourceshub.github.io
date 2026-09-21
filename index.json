@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T08:46:17.060819+00:00",
+ "generated_at": "2026-09-21T08:47:13.523087+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6830,
+ "count": 6831,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -17193,6 +17193,17 @@
    "issue_date": "2026-08-22",
    "html_url": "/ha/aqeedah/who-is-wrong-in-ideology-20260822-2.html",
    "md_url": "/ha/aqeedah/who-is-wrong-in-ideology-20260822-2.md"
+  },
+  {
+   "slug": "curb-extravagance-in-iftar-20180519-2",
+   "lang": "ha",
+   "category": "dawah",
+   "title": "A dakatar da almubazzaranci a lokacin buda baki",
+   "summary": "Azumin watan Ramadan wani aiki ne na kame kai daga abinci, abin sha, da kuma sha'awoyi. Wannan rubutu yana magana ne kan almubazzarancin da ake nunawa a lokutan buda baki, yana mai jaddada mahimmancin guje wa kashe kudi fiye da kima wanda ke lalata manufofin ruhaniya na watan Ramadan.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2018-05-19",
+   "html_url": "/ha/dawah/curb-extravagance-in-iftar-20180519-2.html",
+   "md_url": "/ha/dawah/curb-extravagance-in-iftar-20180519-2.md"
   },
   {
    "slug": "dawah-obligation-and-execution-20170401-9",
