@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T11:54:48.147185+00:00",
+ "generated_at": "2026-09-21T11:55:49.874207+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6986,
+ "count": 6987,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -17875,6 +17875,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/ha/dawah/solution-for-divisions-20170218-3.html",
    "md_url": "/ha/dawah/solution-for-divisions-20170218-3.md"
+  },
+  {
+   "slug": "specialities-of-the-month-of-ramadan-20180519-6",
+   "lang": "ha",
+   "category": "dawah",
+   "title": "Abubuwan da suka shafi watan Ramadan",
+   "summary": "Wannan labarin yana bayyana muhimman abubuwan da suka shafi watan Ramadan. Yana bayyana falalar wannan wata, kamar kasancewarsa watan da aka saukar da Alkur'ani da kuma watan da aka wajabta azumi, tare da nuna yadda muminai za su iya amfana da wannan wata.",
+   "author": "അബ്ദുല്ലത്വീഫ് സുല്ലമി മാറഞ്ചേരി",
+   "issue_date": "2018-05-19",
+   "html_url": "/ha/dawah/specialities-of-the-month-of-ramadan-20180519-6.html",
+   "md_url": "/ha/dawah/specialities-of-the-month-of-ramadan-20180519-6.md"
   },
   {
    "slug": "stand-tall-20170121-8",
