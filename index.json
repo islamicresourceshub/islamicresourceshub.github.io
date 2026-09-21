@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T08:24:00.690936+00:00",
+ "generated_at": "2026-09-21T08:25:02.506870+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6807,
+ "count": 6808,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -58080,6 +58080,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/so/opinion/who-should-leave-india-20170121-1.html",
    "md_url": "/so/opinion/who-should-leave-india-20170121-1.md"
+  },
+  {
+   "slug": "al-bayyinah-the-clear-proof-20180519-1",
+   "lang": "so",
+   "category": "quran",
+   "title": "Al-Bayyinah (Caddaynta Cad)",
+   "summary": "Kani waa sharaxaadda cutubka 98-aad ee Qur'aanka oo loo yaqaan Al-Bayyinah. Cutubkani wuxuu sharxayaa in dadka gaalada ah iyo kuwa mushrikiinta ah aysan ka tanaasulin mowqifkooda ilaa ay u timaado caddayn cad, waxaana maqaalkani uu si faahfaahsan u sharxayaa aayadaha ugu horreeya ee suuraddan.",
+   "author": "അബ്ദുറഹ്മാന്‍ നാസിര്‍ അസ്സഅദി",
+   "issue_date": "2018-05-19",
+   "html_url": "/so/quran/al-bayyinah-the-clear-proof-20180519-1.html",
+   "md_url": "/so/quran/al-bayyinah-the-clear-proof-20180519-1.md"
   },
   {
    "slug": "praise-be-to-the-lord-of-the-worlds-20170325-9",
