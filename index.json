@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T08:00:06.074890+00:00",
+ "generated_at": "2026-09-21T08:01:04.272751+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6783,
+ "count": 6784,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -5918,6 +5918,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/bn/opinion/who-should-leave-india-20170121-1.html",
    "md_url": "/bn/opinion/who-should-leave-india-20170121-1.md"
+  },
+  {
+   "slug": "al-bayyinah-the-clear-proof-20180519-1",
+   "lang": "bn",
+   "category": "quran",
+   "title": "আল-বাইয়িনাহ (সুস্পষ্ট প্রমাণ)",
+   "summary": "এটি পবিত্র কুরআনের ৯৮তম সূরা আল-বাইয়িনাহ-এর একটি ব্যাখ্যা। এই সূরায় বলা হয়েছে যে, সত্য অস্বীকারকারী এবং মুশরিকরা সুস্পষ্ট প্রমাণ না আসা পর্যন্ত তাদের ভ্রান্ত অবস্থান থেকে সরে আসার মতো ছিল না। এই নিবন্ধে সূরাটির প্রথম দিকের আয়াতগুলোর বিস্তারিত ব্যাখ্যা তুলে ধরা হয়েছে।",
+   "author": "അബ്ദുറഹ്മാന്‍ നാസിര്‍ അസ്സഅദി",
+   "issue_date": "2018-05-19",
+   "html_url": "/bn/quran/al-bayyinah-the-clear-proof-20180519-1.html",
+   "md_url": "/bn/quran/al-bayyinah-the-clear-proof-20180519-1.md"
   },
   {
    "slug": "praise-be-to-the-lord-of-the-worlds-20170325-9",
