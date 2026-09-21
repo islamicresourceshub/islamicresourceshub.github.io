@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T11:22:30.500077+00:00",
+ "generated_at": "2026-09-21T11:23:41.755021+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6955,
+ "count": 6956,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -46420,6 +46420,17 @@
    "issue_date": "2018-04-28",
    "html_url": "/ms/opinion/a-glance-into-laws-20180428-6.html",
    "md_url": "/ms/opinion/a-glance-into-laws-20180428-6.md"
+  },
+  {
+   "slug": "against-public-nuisance-20180519-5",
+   "lang": "ms",
+   "category": "opinion",
+   "title": "Menangani Gangguan Awam",
+   "summary": "Kanun Keseksaan India mentakrifkan gangguan awam sebagai tindakan yang menyebabkan bahaya atau kacau ganggu kepada masyarakat umum. Artikel ini membincangkan aspek undang-undang mengenai gangguan awam, tanggungjawab sosial, serta kepentingan mengekalkan keamanan dan ketenteraman dalam masyarakat.",
+   "author": "മുസാഫിര്‍",
+   "issue_date": "2018-05-19",
+   "html_url": "/ms/opinion/against-public-nuisance-20180519-5.html",
+   "md_url": "/ms/opinion/against-public-nuisance-20180519-5.md"
   },
   {
    "slug": "alas-asifa-20180428-1",
