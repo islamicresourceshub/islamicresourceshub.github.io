@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T07:00:31.915080+00:00",
+ "generated_at": "2026-09-21T07:01:29.628388+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6769,
+ "count": 6770,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -59653,6 +59653,17 @@
    "issue_date": "2017-02-11",
    "html_url": "/sq/youth/e-ahamed-s-message-to-the-youth-20170211-5.html",
    "md_url": "/sq/youth/e-ahamed-s-message-to-the-youth-20170211-5.md"
+  },
+  {
+   "slug": "value-erosion-misleading-the-younger-generation-20180505-13",
+   "lang": "sq",
+   "category": "youth",
+   "title": "Erozioni i vlerave që po e çon brezin e ri në rrugë të gabuar",
+   "summary": "Një artikull që analizon se si rritja e fëmijëve pa u përcjellë atyre një kulturë morale dhe vlerash po e çon brezin e ri drejt humbjes. Ky shkrim trajton rëndësinë e ndërgjegjes morale dhe besimit në jetën pas vdekjes si mburojë ndaj devijimeve shoqërore.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2018-05-05",
+   "html_url": "/sq/youth/value-erosion-misleading-the-younger-generation-20180505-13.html",
+   "md_url": "/sq/youth/value-erosion-misleading-the-younger-generation-20180505-13.md"
   },
   {
    "slug": "what-will-the-waste-do-20170114-5",
