@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T11:03:17.395460+00:00",
+ "generated_at": "2026-09-21T11:04:15.812896+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6935,
+ "count": 6936,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -75603,6 +75603,17 @@
    "issue_date": "2018-05-05",
    "html_url": "/zh/fiqh/embalming-the-dead-an-islamic-perspective-20180505-5.html",
    "md_url": "/zh/fiqh/embalming-the-dead-an-islamic-perspective-20180505-5.md"
+  },
+  {
+   "slug": "fasting-and-smoking-20180519-4",
+   "lang": "zh",
+   "category": "fiqh",
+   "title": "斋戒与吸烟",
+   "summary": "斋戒是一项旨在培养敬畏之心与高尚品德的崇高功课。本文探讨了斋戒与吸烟之间的关系，并从伊斯兰教的角度阐述了斋戒的神圣性以及吸烟的危害。",
+   "author": "ഹംസ ജമാലി",
+   "issue_date": "2018-05-19",
+   "html_url": "/zh/fiqh/fasting-and-smoking-20180519-4.html",
+   "md_url": "/zh/fiqh/fasting-and-smoking-20180519-4.md"
   },
   {
    "slug": "mosque-construction-some-points-to-note-20170325-5",
