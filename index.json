@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T11:06:21.129481+00:00",
+ "generated_at": "2026-09-21T11:07:19.676668+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6938,
+ "count": 6939,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -4169,6 +4169,17 @@
    "issue_date": "2018-04-28",
    "html_url": "/as/opinion/a-glance-into-laws-20180428-6.html",
    "md_url": "/as/opinion/a-glance-into-laws-20180428-6.md"
+  },
+  {
+   "slug": "against-public-nuisance-20180519-5",
+   "lang": "as",
+   "category": "opinion",
+   "title": "ৰাজহুৱা উপদ্ৰৱৰ বিৰুদ্ধে",
+   "summary": "ভাৰতীয় দণ্ডবিধি অনুসৰি ৰাজহুৱা উপদ্ৰৱ বুলিলে সাধাৰণ জনসাধাৰণৰ বাবে বিপদ বা আমনিৰ সৃষ্টি কৰা যিকোনো কাৰ্যক বুজায়। এই প্ৰবন্ধটোৱে ৰাজহুৱা উপদ্ৰৱৰ বিৰুদ্ধে থকা আইনী ব্যৱস্থা আৰু সামাজিক দায়বদ্ধতাৰ গুৰুত্বৰ বিষয়ে আলোচনা কৰে।",
+   "author": "മുസാഫിര്‍",
+   "issue_date": "2018-05-19",
+   "html_url": "/as/opinion/against-public-nuisance-20180519-5.html",
+   "md_url": "/as/opinion/against-public-nuisance-20180519-5.md"
   },
   {
    "slug": "alas-asifa-20180428-1",
