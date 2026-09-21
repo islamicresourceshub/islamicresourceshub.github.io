@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T07:47:46.470631+00:00",
+ "generated_at": "2026-09-21T07:49:07.523792+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6773,
+ "count": 6774,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -65670,6 +65670,17 @@
    "issue_date": "2017-02-11",
    "html_url": "/th/youth/e-ahamed-s-message-to-the-youth-20170211-5.html",
    "md_url": "/th/youth/e-ahamed-s-message-to-the-youth-20170211-5.md"
+  },
+  {
+   "slug": "value-erosion-misleading-the-younger-generation-20180505-13",
+   "lang": "th",
+   "category": "youth",
+   "title": "การปฏิเสธค่านิยมที่ชักนำเยาวชนให้หลงผิด",
+   "summary": "บทความนี้วิเคราะห์ว่าการเลี้ยงดูเด็กโดยไม่ปลูกฝังวัฒนธรรมทางศีลธรรมและค่านิยมนั้น ชักนำเยาวชนให้หลงผิดได้อย่างไร",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2018-05-05",
+   "html_url": "/th/youth/value-erosion-misleading-the-younger-generation-20180505-13.html",
+   "md_url": "/th/youth/value-erosion-misleading-the-younger-generation-20180505-13.md"
   },
   {
    "slug": "what-will-the-waste-do-20170114-5",
