@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T04:04:05.460573+00:00",
+ "generated_at": "2026-09-21T04:05:05.799178+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6586,
+ "count": 6587,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -3014,6 +3014,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/ar/story/grown-up-children-20170121-6.html",
    "md_url": "/ar/story/grown-up-children-20170121-6.md"
+  },
+  {
+   "slug": "guardians-should-be-role-models-20180505-8",
+   "lang": "ar",
+   "category": "story",
+   "title": "يجب أن يكون أولياء الأمور قدوة حسنة",
+   "summary": "تبدأ هذه المقالة بقصة شاب يحفر بحثاً عن كنز، لتنتقل إلى تسليط الضوء على أهمية دور الآباء كقدوة صالحة لأبنائهم، مؤكدة على ضرورة الاستمرار في التربية الصالحة والعمل الدؤوب لتحقيق الأهداف الدنيوية والأخروية.",
+   "author": "സി.മുഹമ്മദ് റാഫി ചെമ്പ്ര",
+   "issue_date": "2018-05-05",
+   "html_url": "/ar/story/guardians-should-be-role-models-20180505-8.html",
+   "md_url": "/ar/story/guardians-should-be-role-models-20180505-8.md"
   },
   {
    "slug": "laws-are-to-be-followed-20170128-5",
