@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T12:06:24.550679+00:00",
+ "generated_at": "2026-09-21T12:07:31.178879+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6997,
+ "count": 6998,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -50842,6 +50842,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/pa/dawah/solution-for-divisions-20170218-3.html",
    "md_url": "/pa/dawah/solution-for-divisions-20170218-3.md"
+  },
+  {
+   "slug": "specialities-of-the-month-of-ramadan-20180519-6",
+   "lang": "pa",
+   "category": "dawah",
+   "title": "ਰਮਜ਼ਾਨ ਦੇ ਮਹੀਨੇ ਦੀਆਂ ਵਿਸ਼ੇਸ਼ਤਾਵਾਂ",
+   "summary": "ਇਹ ਲੇਖ ਰਮਜ਼ਾਨ ਦੇ ਮਹੀਨੇ ਦੀਆਂ ਮੁੱਖ ਵਿਸ਼ੇਸ਼ਤਾਵਾਂ ਬਾਰੇ ਦੱਸਦਾ ਹੈ। ਇਸ ਵਿੱਚ ਕੁਰਾਨ ਦੇ ਉਤਰਨ, ਵਰਤ ਰੱਖਣ ਦੀ ਮਹੱਤਤਾ ਅਤੇ ਵਿਸ਼ਵਾਸੀਆਂ ਲਈ ਇਸ ਮਹੀਨੇ ਨੂੰ ਕਿਵੇਂ ਲਾਭਦਾਇਕ ਬਣਾਇਆ ਜਾਵੇ, ਇਸ ਬਾਰੇ ਚਰਚਾ ਕੀਤੀ ਗਈ ਹੈ।",
+   "author": "അബ്ദുല്ലത്വീഫ് സുല്ലമി മാറഞ്ചേരി",
+   "issue_date": "2018-05-19",
+   "html_url": "/pa/dawah/specialities-of-the-month-of-ramadan-20180519-6.html",
+   "md_url": "/pa/dawah/specialities-of-the-month-of-ramadan-20180519-6.md"
   },
   {
    "slug": "stand-tall-20170121-8",
