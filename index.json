@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T08:35:23.845601+00:00",
+ "generated_at": "2026-09-21T08:36:20.057668+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6818,
+ "count": 6819,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -74833,6 +74833,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/zh/opinion/who-should-leave-india-20170121-1.html",
    "md_url": "/zh/opinion/who-should-leave-india-20170121-1.md"
+  },
+  {
+   "slug": "al-bayyinah-the-clear-proof-20180519-1",
+   "lang": "zh",
+   "category": "quran",
+   "title": "Al-Bayyinah（明证）",
+   "summary": "本文是对古兰经第98章《明证》的解读。该章指出，在获得明确的证据之前，不信道者和多神教徒始终坚持其错误立场。本文详细阐述了该章开篇经文的含义。",
+   "author": "അബ്ദുറഹ്മാന്‍ നാസിര്‍ അസ്സഅദി",
+   "issue_date": "2018-05-19",
+   "html_url": "/zh/quran/al-bayyinah-the-clear-proof-20180519-1.html",
+   "md_url": "/zh/quran/al-bayyinah-the-clear-proof-20180519-1.md"
   },
   {
    "slug": "praise-be-to-the-lord-of-the-worlds-20170325-9",
