@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T11:05:22.192437+00:00",
+ "generated_at": "2026-09-21T11:06:21.129481+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6937,
+ "count": 6938,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -2596,6 +2596,17 @@
    "issue_date": "2018-04-28",
    "html_url": "/ar/opinion/a-glance-into-laws-20180428-6.html",
    "md_url": "/ar/opinion/a-glance-into-laws-20180428-6.md"
+  },
+  {
+   "slug": "against-public-nuisance-20180519-5",
+   "lang": "ar",
+   "category": "opinion",
+   "title": "في مواجهة الإزعاج العام",
+   "summary": "يعرف قانون العقوبات الهندي الإزعاج العام بأنه أي فعل يسبب خطراً أو مضايقة للجمهور. يتناول هذا المقال الإجراءات القانونية ضد الإزعاج العام، والمسؤولية الاجتماعية، وأهمية الحفاظ على النظام العام، مستشهداً بقضية بلدية راتلام التاريخية.",
+   "author": "മുസാഫിര്‍",
+   "issue_date": "2018-05-19",
+   "html_url": "/ar/opinion/against-public-nuisance-20180519-5.html",
+   "md_url": "/ar/opinion/against-public-nuisance-20180519-5.md"
   },
   {
    "slug": "alas-asifa-20180428-1",
