@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T02:26:41.037638+00:00",
+ "generated_at": "2026-09-21T02:28:50.290709+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6495,
+ "count": 6496,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -55198,6 +55198,17 @@
    "issue_date": "2018-05-05",
    "html_url": "/so/fiqh/duties-and-rights-20180505-3.html",
    "md_url": "/so/fiqh/duties-and-rights-20180505-3.md"
+  },
+  {
+   "slug": "embalming-the-dead-an-islamic-perspective-20180505-5",
+   "lang": "so",
+   "category": "fiqh",
+   "title": "Meydka dhowrista: Aragtida Islaamka",
+   "summary": "Maqaalkan wuxuu ku salaysan yahay mabda'a Islaamiga ah ee ah in sharafta bini'aadamka ay sii jirto xitaa dhimashada ka dib. Waxay si faahfaahsan u sharxaysaa xukunka Islaamiga ah ee ku saabsan meydka loo dhoofinayo waddankii uu ka soo jeeday.",
+   "author": "അഷ്‌റഫ് എകരൂല്‍",
+   "issue_date": "2018-05-05",
+   "html_url": "/so/fiqh/embalming-the-dead-an-islamic-perspective-20180505-5.html",
+   "md_url": "/so/fiqh/embalming-the-dead-an-islamic-perspective-20180505-5.md"
   },
   {
    "slug": "mosque-construction-some-points-to-note-20170325-5",
