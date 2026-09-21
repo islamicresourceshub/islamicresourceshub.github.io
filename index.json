@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T09:21:38.215684+00:00",
+ "generated_at": "2026-09-21T09:22:37.980747+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6861,
+ "count": 6862,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -6149,6 +6149,17 @@
    "issue_date": "2017-04-01",
    "html_url": "/bn/seerah/prophets-are-humans-20170401-10.html",
    "md_url": "/bn/seerah/prophets-are-humans-20170401-10.md"
+  },
+  {
+   "slug": "reaching-midian-20180519-3",
+   "lang": "bn",
+   "category": "seerah",
+   "title": "মাদইয়ানে আগমন",
+   "summary": "মুসা (আ.)-এর জীবনের একটি গুরুত্বপূর্ণ অধ্যায় হলো মাদইয়ান যাত্রা। এই নিবন্ধে বর্ণিত হয়েছে কীভাবে তিনি মাদইয়ানের জলাশয়ে পৌঁছালেন এবং সেখানে তিনি কী কী অভিজ্ঞতার সম্মুখীন হলেন। এটি নবীদের জীবনকাহিনি সিরিজের পঞ্চম পর্ব।",
+   "author": "ഹുസൈന്‍ സലഫി, ഷാര്‍ജ",
+   "issue_date": "2018-05-19",
+   "html_url": "/bn/seerah/reaching-midian-20180519-3.html",
+   "md_url": "/bn/seerah/reaching-midian-20180519-3.md"
   },
   {
    "slug": "the-departure-of-the-prophet-20180505-7",
