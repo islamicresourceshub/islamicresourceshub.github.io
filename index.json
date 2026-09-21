@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T09:04:32.780013+00:00",
+ "generated_at": "2026-09-21T09:05:28.618336+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6849,
+ "count": 6850,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -61919,6 +61919,17 @@
    "issue_date": "2026-08-22",
    "html_url": "/ta/aqeedah/who-is-wrong-in-ideology-20260822-2.html",
    "md_url": "/ta/aqeedah/who-is-wrong-in-ideology-20260822-2.md"
+  },
+  {
+   "slug": "curb-extravagance-in-iftar-20180519-2",
+   "lang": "ta",
+   "category": "dawah",
+   "title": "நோன்பு துறப்பில் நிலவும் ஆடம்பரத்திற்கு முற்றுப்புள்ளி வைப்போம்",
+   "summary": "ரமலான் நோன்பு என்பது உணவு, பானங்கள் மற்றும் இச்சைகளில் இருந்து விலகி இருக்கும் ஒரு உன்னதமான வழிபாடாகும். நோன்பு துறப்பு வேளைகளில் இன்று அதிகரித்து வரும் ஆடம்பரத்தையும் வீண் விரயத்தையும் சுட்டிக்காட்டி, ரமலானின் ஆன்மீக இலக்குகளை அடைவதன் அவசியத்தை இந்த கட்டுரை வலியுறுத்துகிறது.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2018-05-19",
+   "html_url": "/ta/dawah/curb-extravagance-in-iftar-20180519-2.html",
+   "md_url": "/ta/dawah/curb-extravagance-in-iftar-20180519-2.md"
   },
   {
    "slug": "dawah-obligation-and-execution-20170401-9",
