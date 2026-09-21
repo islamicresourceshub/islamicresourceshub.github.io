@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T08:12:08.014186+00:00",
+ "generated_at": "2026-09-21T08:13:03.965673+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6795,
+ "count": 6796,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -24211,6 +24211,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/ja/opinion/who-should-leave-india-20170121-1.html",
    "md_url": "/ja/opinion/who-should-leave-india-20170121-1.md"
+  },
+  {
+   "slug": "al-bayyinah-the-clear-proof-20180519-1",
+   "lang": "ja",
+   "category": "quran",
+   "title": "アル・バイイナ（明白な証拠）",
+   "summary": "クルアーン第98章「アル・バイイナ」の解説です。この章では、明白な証拠が示されるまで、不信仰者や多神教徒たちが自らの立場を改めようとしなかったこと、そして信仰と善行の重要性が説かれています。",
+   "author": "അബ്ദുറഹ്മാന്‍ നാസിര്‍ അസ്സഅദി",
+   "issue_date": "2018-05-19",
+   "html_url": "/ja/quran/al-bayyinah-the-clear-proof-20180519-1.html",
+   "md_url": "/ja/quran/al-bayyinah-the-clear-proof-20180519-1.md"
   },
   {
    "slug": "praise-be-to-the-lord-of-the-worlds-20170325-9",
