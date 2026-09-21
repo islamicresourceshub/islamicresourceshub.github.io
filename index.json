@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T06:23:28.157015+00:00",
+ "generated_at": "2026-09-21T06:24:31.357491+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6730,
+ "count": 6731,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -59169,6 +59169,17 @@
    "issue_date": "2017-02-11",
    "html_url": "/sq/story/allah-is-watching-20170211-3.html",
    "md_url": "/sq/story/allah-is-watching-20170211-3.md"
+  },
+  {
+   "slug": "an-old-man-s-sorrows-20180505-12",
+   "lang": "sq",
+   "category": "story",
+   "title": "Dhembjet e një të moshuare",
+   "summary": "Një histori që fillon në sfondin e një reparti lindjesh, duke shpalosur dhimbjet e një gruaje të moshuar dhe vështirësitë në marrëdhëniet familjare. Një rrëfim prekës mbi vetminë dhe nevojën për ngrohtësi njerëzore.",
+   "author": "ഡോ. ജസീം അലി. എം",
+   "issue_date": "2018-05-05",
+   "html_url": "/sq/story/an-old-man-s-sorrows-20180505-12.html",
+   "md_url": "/sq/story/an-old-man-s-sorrows-20180505-12.md"
   },
   {
    "slug": "broken-hearts-20170218-11",
