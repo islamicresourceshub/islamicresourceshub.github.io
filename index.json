@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T08:07:19.584776+00:00",
+ "generated_at": "2026-09-21T08:08:17.585181+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6790,
+ "count": 6791,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -16588,6 +16588,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/gu/opinion/who-should-leave-india-20170121-1.html",
    "md_url": "/gu/opinion/who-should-leave-india-20170121-1.md"
+  },
+  {
+   "slug": "al-bayyinah-the-clear-proof-20180519-1",
+   "lang": "gu",
+   "category": "quran",
+   "title": "અલ-બય્યિનાહ (સ્પષ્ટ પુરાવો)",
+   "summary": "આ લેખ કુરાનના 98મા અધ્યાય 'અલ-બય્યિનાહ'ની સમજૂતી આપે છે. આ અધ્યાય જણાવે છે કે સત્યનો ઇનકાર કરનારાઓ અને બહુદેવપૂજકો જ્યાં સુધી તેમની પાસે સ્પષ્ટ પુરાવો ન આવ્યો ત્યાં સુધી પોતાના માર્ગ પરથી હટવા તૈયાર નહોતા. આ લેખ આ સૂરાની શરૂઆતની આયતોનો વિગતવાર અર્થ સમજાવે છે.",
+   "author": "അബ്ദുറഹ്മാന്‍ നാസിര്‍ അസ്സഅദി",
+   "issue_date": "2018-05-19",
+   "html_url": "/gu/quran/al-bayyinah-the-clear-proof-20180519-1.html",
+   "md_url": "/gu/quran/al-bayyinah-the-clear-proof-20180519-1.md"
   },
   {
    "slug": "praise-be-to-the-lord-of-the-worlds-20170325-9",
