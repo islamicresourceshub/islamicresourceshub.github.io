@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T11:17:52.031169+00:00",
+ "generated_at": "2026-09-21T11:18:45.333771+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6950,
+ "count": 6951,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -22979,6 +22979,17 @@
    "issue_date": "2018-04-28",
    "html_url": "/it/opinion/a-glance-into-laws-20180428-6.html",
    "md_url": "/it/opinion/a-glance-into-laws-20180428-6.md"
+  },
+  {
+   "slug": "against-public-nuisance-20180519-5",
+   "lang": "it",
+   "category": "opinion",
+   "title": "Contro il disturbo della quiete pubblica",
+   "summary": "Il Codice Penale indiano definisce il disturbo della quiete pubblica come un atto che causa pericolo o fastidio alla collettività. Questo articolo esplora le implicazioni legali di tali atti e la responsabilità sociale, sottolineando l'importanza di mantenere l'ordine e il decoro nella società.",
+   "author": "മുസാഫിര്‍",
+   "issue_date": "2018-05-19",
+   "html_url": "/it/opinion/against-public-nuisance-20180519-5.html",
+   "md_url": "/it/opinion/against-public-nuisance-20180519-5.md"
   },
   {
    "slug": "alas-asifa-20180428-1",
