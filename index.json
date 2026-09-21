@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T09:50:37.765595+00:00",
+ "generated_at": "2026-09-21T09:51:41.280398+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6889,
+ "count": 6890,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -64977,6 +64977,17 @@
    "issue_date": "2017-04-01",
    "html_url": "/te/seerah/prophets-are-humans-20170401-10.html",
    "md_url": "/te/seerah/prophets-are-humans-20170401-10.md"
+  },
+  {
+   "slug": "reaching-midian-20180519-3",
+   "lang": "te",
+   "category": "seerah",
+   "title": "మద్యన్‌కు చేరుకోవడం",
+   "summary": "మూసా(అ) జీవితంలోని ఒక ముఖ్యమైన ఘట్టమైన మద్యన్ ప్రయాణం గురించి ఈ వ్యాసం వివరిస్తుంది. మద్యన్‌లోని జలాశయం వద్ద ఆయనకు ఎదురైన అనుభవాలు మరియు ప్రవక్తల చరిత్రలో ఈ ఘట్టం యొక్క ప్రాముఖ్యతను ఇందులో చూడవచ్చు.",
+   "author": "ഹുസൈന്‍ സലഫി, ഷാര്‍ജ",
+   "issue_date": "2018-05-19",
+   "html_url": "/te/seerah/reaching-midian-20180519-3.html",
+   "md_url": "/te/seerah/reaching-midian-20180519-3.md"
   },
   {
    "slug": "the-departure-of-the-prophet-20180505-7",
