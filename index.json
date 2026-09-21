@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T11:48:18.360402+00:00",
+ "generated_at": "2026-09-21T11:49:23.395352+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6980,
+ "count": 6981,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -8404,6 +8404,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/de/dawah/solution-for-divisions-20170218-3.html",
    "md_url": "/de/dawah/solution-for-divisions-20170218-3.md"
+  },
+  {
+   "slug": "specialities-of-the-month-of-ramadan-20180519-6",
+   "lang": "de",
+   "category": "dawah",
+   "title": "Die Besonderheiten des Monats Ramadan",
+   "summary": "Dieser Artikel erläutert die wichtigsten Vorzüge des Monats Ramadan. Er beleuchtet die Bedeutung des Monats, in dem der Koran offenbart wurde, die Verpflichtung des Fastens und gibt Hinweise, wie Gläubige diese gesegnete Zeit optimal nutzen können.",
+   "author": "അബ്ദുല്ലത്വീഫ് സുല്ലമി മാറഞ്ചേരി",
+   "issue_date": "2018-05-19",
+   "html_url": "/de/dawah/specialities-of-the-month-of-ramadan-20180519-6.html",
+   "md_url": "/de/dawah/specialities-of-the-month-of-ramadan-20180519-6.md"
   },
   {
    "slug": "stand-tall-20170121-8",
