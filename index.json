@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T11:14:10.642362+00:00",
+ "generated_at": "2026-09-21T11:15:07.618529+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6946,
+ "count": 6947,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -16709,6 +16709,17 @@
    "issue_date": "2018-04-28",
    "html_url": "/gu/opinion/a-glance-into-laws-20180428-6.html",
    "md_url": "/gu/opinion/a-glance-into-laws-20180428-6.md"
+  },
+  {
+   "slug": "against-public-nuisance-20180519-5",
+   "lang": "gu",
+   "category": "opinion",
+   "title": "જાહેર ઉપદ્રવની વિરુદ્ધ",
+   "summary": "ભારતીય દંડ સંહિતામાં જાહેર ઉપદ્રવને એવી પ્રવૃત્તિ તરીકે વ્યાખ્યાયિત કરવામાં આવી છે જે સામાન્ય જનતા માટે જોખમ અથવા પરેશાનીનું કારણ બને છે. આ લેખ જાહેર ઉપદ્રવ સામેના કાયદાકીય પગલાં અને સામાજિક જવાબદારી વિશે ચર્ચા કરે છે, જેમાં સમાજમાં શાંતિ અને વ્યવસ્થા જાળવવાના મહત્વ પર ભાર મૂકવામાં આવ્યો છે.",
+   "author": "മുസാഫിര്‍",
+   "issue_date": "2018-05-19",
+   "html_url": "/gu/opinion/against-public-nuisance-20180519-5.html",
+   "md_url": "/gu/opinion/against-public-nuisance-20180519-5.md"
   },
   {
    "slug": "alas-asifa-20180428-1",
