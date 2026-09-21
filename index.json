@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T06:14:03.923192+00:00",
+ "generated_at": "2026-09-21T06:15:02.003968+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6721,
+ "count": 6722,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -45672,6 +45672,17 @@
    "issue_date": "2017-02-11",
    "html_url": "/ms/story/allah-is-watching-20170211-3.html",
    "md_url": "/ms/story/allah-is-watching-20170211-3.md"
+  },
+  {
+   "slug": "an-old-man-s-sorrows-20180505-12",
+   "lang": "ms",
+   "category": "story",
+   "title": "Kesedihan Seorang Warga Emas",
+   "summary": "Sebuah kisah yang bermula dengan latar belakang wad bersalin, menyingkap kesedihan seorang wanita tua dan kepedihan dalam hubungan kekeluargaan. Ia merupakan sebuah naratif sosial yang menyentuh hati tentang realiti kehidupan di usia senja.",
+   "author": "ഡോ. ജസീം അലി. എം",
+   "issue_date": "2018-05-05",
+   "html_url": "/ms/story/an-old-man-s-sorrows-20180505-12.html",
+   "md_url": "/ms/story/an-old-man-s-sorrows-20180505-12.md"
   },
   {
    "slug": "broken-hearts-20170218-11",
