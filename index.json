@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T11:46:17.231061+00:00",
+ "generated_at": "2026-09-21T11:47:16.568921+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6978,
+ "count": 6979,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -5236,6 +5236,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/bn/dawah/solution-for-divisions-20170218-3.html",
    "md_url": "/bn/dawah/solution-for-divisions-20170218-3.md"
+  },
+  {
+   "slug": "specialities-of-the-month-of-ramadan-20180519-6",
+   "lang": "bn",
+   "category": "dawah",
+   "title": "রমজান মাসের বিশেষত্বসমূহ",
+   "summary": "এই নিবন্ধটি রমজান মাসের প্রধান বিশেষত্বগুলো নিয়ে আলোচনা করে। এতে কুরআন নাজিলের মাস, রোজা ফরজ হওয়ার মাসসহ রমজানের ফজিলতগুলো তুলে ধরা হয়েছে এবং মুমিনরা কীভাবে এই মাসকে কাজে লাগাতে পারে সে বিষয়ে দিকনির্দেশনা দেওয়া হয়েছে।",
+   "author": "അബ്ദുല്ലത്വീഫ് സുല്ലമി മാറഞ്ചേരി",
+   "issue_date": "2018-05-19",
+   "html_url": "/bn/dawah/specialities-of-the-month-of-ramadan-20180519-6.html",
+   "md_url": "/bn/dawah/specialities-of-the-month-of-ramadan-20180519-6.md"
   },
   {
    "slug": "stand-tall-20170121-8",
