@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T03:57:50.091034+00:00",
+ "generated_at": "2026-09-21T03:58:51.149263+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6580,
+ "count": 6581,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -66594,6 +66594,17 @@
    "issue_date": "2017-04-01",
    "html_url": "/tr/seerah/prophets-are-humans-20170401-10.html",
    "md_url": "/tr/seerah/prophets-are-humans-20170401-10.md"
+  },
+  {
+   "slug": "the-departure-of-the-prophet-20180505-7",
+   "lang": "tr",
+   "category": "seerah",
+   "title": "Peygamber'in Vefatı",
+   "summary": "Bu makale, peygamberlik silsilesinin son buluşunu ve Hz. Muhammed'in ﷺ vefatını konu almaktadır. Peygamberlik zincirinin nihayete ermesi ve İslam'ın tamamlanması süreci analiz edilmektedir.",
+   "author": "സയ്യിദ് സഅ്ഫര്‍ സ്വാദിക്വ് മദീനി",
+   "issue_date": "2018-05-05",
+   "html_url": "/tr/seerah/the-departure-of-the-prophet-20180505-7.html",
+   "md_url": "/tr/seerah/the-departure-of-the-prophet-20180505-7.md"
   },
   {
    "slug": "a-good-death-20180428-5",
