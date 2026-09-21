@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T02:30:58.703749+00:00",
+ "generated_at": "2026-09-21T02:32:04.242851+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6498,
+ "count": 6499,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -59466,6 +59466,17 @@
    "issue_date": "2018-05-05",
    "html_url": "/ta/fiqh/duties-and-rights-20180505-3.html",
    "md_url": "/ta/fiqh/duties-and-rights-20180505-3.md"
+  },
+  {
+   "slug": "embalming-the-dead-an-islamic-perspective-20180505-5",
+   "lang": "ta",
+   "category": "fiqh",
+   "title": "மறைந்த உடலைப் பதப்படுத்துதல்: ஓர் இஸ்லாமியப் பார்வை",
+   "summary": "மரணத்திற்குப் பிறகும் மனித உடலுக்கு வழங்கப்பட வேண்டிய கண்ணியம் குறித்த இஸ்லாமியக் கோட்பாடுகளை விளக்கும் கட்டுரை. தொலைதூர நாடுகளில் மரணிப்பவர்களின் உடலைத் தாயகம் கொண்டு வருவதன் இஸ்லாமிய சட்ட நிலைப்பாட்டை இது விரிவாக ஆராய்கிறது.",
+   "author": "അഷ്‌റഫ് എകരൂല്‍",
+   "issue_date": "2018-05-05",
+   "html_url": "/ta/fiqh/embalming-the-dead-an-islamic-perspective-20180505-5.html",
+   "md_url": "/ta/fiqh/embalming-the-dead-an-islamic-perspective-20180505-5.md"
   },
   {
    "slug": "mosque-construction-some-points-to-note-20170325-5",
