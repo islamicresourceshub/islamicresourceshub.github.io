@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T05:23:00.809443+00:00",
+ "generated_at": "2026-09-21T05:23:52.701107+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6666,
+ "count": 6667,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -5379,6 +5379,17 @@
    "issue_date": "2026-08-22",
    "html_url": "/bn/health/know-this-for-those-caring-for-the-sick-20260822-1.html",
    "md_url": "/bn/health/know-this-for-those-caring-for-the-sick-20260822-1.md"
+  },
+  {
+   "slug": "nutrients-for-thyroid-health-20180505-10",
+   "lang": "bn",
+   "category": "health",
+   "title": "থাইরয়েডের স্বাস্থ্যের জন্য প্রয়োজনীয় পুষ্টি উপাদান",
+   "summary": "থাইরয়েড গ্রন্থির কার্যকারিতা বৃদ্ধিতে সহায়ক পুষ্টি উপাদানগুলো নিয়ে একটি স্বাস্থ্য বিষয়ক নিবন্ধ। খাদ্যাভ্যাসের মাধ্যমে কীভাবে থাইরয়েডের সুস্বাস্থ্য বজায় রাখা যায়, তা এখানে বিস্তারিত আলোচনা করা হয়েছে।",
+   "author": "ഡോ. മുഹമ്മദ് കുട്ടി കണ്ണിയന്‍",
+   "issue_date": "2018-05-05",
+   "html_url": "/bn/health/nutrients-for-thyroid-health-20180505-10.html",
+   "md_url": "/bn/health/nutrients-for-thyroid-health-20180505-10.md"
   },
   {
    "slug": "thyroid-problems-20180428-10",
