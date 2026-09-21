@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T03:08:42.241364+00:00",
+ "generated_at": "2026-09-21T03:09:41.226100+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6535,
+ "count": 6536,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -57497,6 +57497,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/sq/seerah/can-prophethood-be-attained-by-desire-20170218-1.html",
    "md_url": "/sq/seerah/can-prophethood-be-attained-by-desire-20170218-1.md"
+  },
+  {
+   "slug": "from-the-river-to-the-palace-part-2-20180505-6",
+   "lang": "sq",
+   "category": "seerah",
+   "title": "Nga lumi në pallat",
+   "summary": "Pjesa e dytë e jetës së Profetit Musa (a.s.). Ky shkrim trajton ngjarjet e shpëtimit të tij nga lumi dhe mbërritjen në pallatin e Firaunit, duke u mbështetur në kontekstin kuranor.",
+   "author": "ഹുസൈന്‍ സലഫി, ഷാര്‍ജ",
+   "issue_date": "2018-05-05",
+   "html_url": "/sq/seerah/from-the-river-to-the-palace-part-2-20180505-6.html",
+   "md_url": "/sq/seerah/from-the-river-to-the-palace-part-2-20180505-6.md"
   },
   {
    "slug": "ibn-abbas-ra-a-scholar-of-knowledge-20170211-4",
