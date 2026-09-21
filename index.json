@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T03:43:14.426307+00:00",
+ "generated_at": "2026-09-21T03:44:15.236607+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6566,
+ "count": 6567,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -46233,6 +46233,17 @@
    "issue_date": "2017-04-01",
    "html_url": "/ne/seerah/prophets-are-humans-20170401-10.html",
    "md_url": "/ne/seerah/prophets-are-humans-20170401-10.md"
+  },
+  {
+   "slug": "the-departure-of-the-prophet-20180505-7",
+   "lang": "ne",
+   "category": "seerah",
+   "title": "पैगम्बरको बिदाइ",
+   "summary": "यो लेख पैगम्बर मुहम्मद ﷺ को नबुवतको अन्त्य र उहाँको वफात (निधन) को बारेमा छ। यसले पैगम्बरहरूको शृङ्खलाको समापन र इस्लामको पूर्णताको विश्लेषण गर्दछ।",
+   "author": "സയ്യിദ് സഅ്ഫര്‍ സ്വാദിക്വ് മദീനി",
+   "issue_date": "2018-05-05",
+   "html_url": "/ne/seerah/the-departure-of-the-prophet-20180505-7.html",
+   "md_url": "/ne/seerah/the-departure-of-the-prophet-20180505-7.md"
   },
   {
    "slug": "a-good-death-20180428-5",
