@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T08:29:27.499717+00:00",
+ "generated_at": "2026-09-21T08:30:25.345066+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6812,
+ "count": 6813,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -65659,6 +65659,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/th/opinion/who-should-leave-india-20170121-1.html",
    "md_url": "/th/opinion/who-should-leave-india-20170121-1.md"
+  },
+  {
+   "slug": "al-bayyinah-the-clear-proof-20180519-1",
+   "lang": "th",
+   "category": "quran",
+   "title": "อัล-บัยยินะฮ์ (หลักฐานอันชัดแจ้ง)",
+   "summary": "นี่คือคำอธิบายของซูเราะฮ์ที่ 98 ของอัลกุรอานที่ชื่อว่า อัล-บัยยินะฮ์ บทนี้กล่าวถึงผู้ปฏิเสธศรัทธาและผู้ตั้งภาคีที่ยังคงยืนกรานในจุดยืนเดิมจนกว่าจะมีหลักฐานอันชัดแจ้งมาถึงพวกเขา บทความนี้เป็นการอธิบายโองการช่วงแรกของซูเราะฮ์นี้",
+   "author": "അബ്ദുറഹ്മാന്‍ നാസിര്‍ അസ്സഅദി",
+   "issue_date": "2018-05-19",
+   "html_url": "/th/quran/al-bayyinah-the-clear-proof-20180519-1.html",
+   "md_url": "/th/quran/al-bayyinah-the-clear-proof-20180519-1.md"
   },
   {
    "slug": "praise-be-to-the-lord-of-the-worlds-20170325-9",
