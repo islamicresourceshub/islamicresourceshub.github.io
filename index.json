@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T05:38:07.374650+00:00",
+ "generated_at": "2026-09-21T05:38:59.922672+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6683,
+ "count": 6684,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -46332,6 +46332,17 @@
    "issue_date": "2026-08-22",
    "html_url": "/ne/health/know-this-for-those-caring-for-the-sick-20260822-1.html",
    "md_url": "/ne/health/know-this-for-those-caring-for-the-sick-20260822-1.md"
+  },
+  {
+   "slug": "nutrients-for-thyroid-health-20180505-10",
+   "lang": "ne",
+   "category": "health",
+   "title": "थाइराइड स्वास्थ्यका लागि पोषक तत्वहरू",
+   "summary": "थाइराइड ग्रन्थिको कार्यक्षमतामा सहयोग पुर्‍याउने पोषक तत्वहरूबारेको स्वास्थ्य लेख। सन्तुलित आहारमार्फत थाइराइडको स्वास्थ्य कसरी कायम राख्न सकिन्छ भन्ने कुरा यसमा व्याख्या गरिएको छ।",
+   "author": "ഡോ. മുഹമ്മദ് കുട്ടി കണ്ണിയന്‍",
+   "issue_date": "2018-05-05",
+   "html_url": "/ne/health/nutrients-for-thyroid-health-20180505-10.html",
+   "md_url": "/ne/health/nutrients-for-thyroid-health-20180505-10.md"
   },
   {
    "slug": "thyroid-problems-20180428-10",
