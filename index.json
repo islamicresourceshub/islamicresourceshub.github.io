@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T08:51:46.605156+00:00",
+ "generated_at": "2026-09-21T08:52:41.453143+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6836,
+ "count": 6837,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -26411,6 +26411,17 @@
    "issue_date": "2026-08-22",
    "html_url": "/ko/aqeedah/who-is-wrong-in-ideology-20260822-2.html",
    "md_url": "/ko/aqeedah/who-is-wrong-in-ideology-20260822-2.md"
+  },
+  {
+   "slug": "curb-extravagance-in-iftar-20180519-2",
+   "lang": "ko",
+   "category": "dawah",
+   "title": "낭비적인 이프타르(단식 해제)를 절제하십시오",
+   "summary": "라마단 기간의 단식은 음식과 음료, 그리고 욕망을 절제하는 수행입니다. 이 글은 오늘날 이프타르 자리에서 나타나는 과도한 낭비와 허례허식을 경계하며, 라마단의 본질적인 영적 목표를 되새겨야 함을 강조합니다.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2018-05-19",
+   "html_url": "/ko/dawah/curb-extravagance-in-iftar-20180519-2.html",
+   "md_url": "/ko/dawah/curb-extravagance-in-iftar-20180519-2.md"
   },
   {
    "slug": "dawah-obligation-and-execution-20170401-9",
