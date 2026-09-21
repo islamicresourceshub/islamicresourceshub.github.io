@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T06:05:18.300330+00:00",
+ "generated_at": "2026-09-21T06:06:20.757618+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6712,
+ "count": 6713,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -16555,6 +16555,17 @@
    "issue_date": "2017-02-11",
    "html_url": "/gu/story/allah-is-watching-20170211-3.html",
    "md_url": "/gu/story/allah-is-watching-20170211-3.md"
+  },
+  {
+   "slug": "an-old-man-s-sorrows-20180505-12",
+   "lang": "gu",
+   "category": "story",
+   "title": "વૃદ્ધાવસ્થાની વેદના",
+   "summary": "આ વાર્તા પ્રસૂતિ વિભાગના વાતાવરણમાં એક વૃદ્ધાના સંઘર્ષ અને તેમના પારિવારિક દુઃખને આલેખે છે. હોસ્પિટલના બિછાને પડેલા આ વૃદ્ધાની પીડા માત્ર શારીરિક નથી, પણ તેમના સંતાનો અને વહુના વ્યવહારથી મળેલી માનસિક વ્યથા પણ છે.",
+   "author": "ഡോ. ജസീം അലി. എം",
+   "issue_date": "2018-05-05",
+   "html_url": "/gu/story/an-old-man-s-sorrows-20180505-12.html",
+   "md_url": "/gu/story/an-old-man-s-sorrows-20180505-12.md"
   },
   {
    "slug": "broken-hearts-20170218-11",
