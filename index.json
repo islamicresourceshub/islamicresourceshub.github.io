@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T11:07:19.676668+00:00",
+ "generated_at": "2026-09-21T11:08:18.561103+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6939,
+ "count": 6940,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -5731,6 +5731,17 @@
    "issue_date": "2018-04-28",
    "html_url": "/bn/opinion/a-glance-into-laws-20180428-6.html",
    "md_url": "/bn/opinion/a-glance-into-laws-20180428-6.md"
+  },
+  {
+   "slug": "against-public-nuisance-20180519-5",
+   "lang": "bn",
+   "category": "opinion",
+   "title": "জনদুর্ভোগের বিরুদ্ধে",
+   "summary": "ভারতীয় দণ্ডবিধিতে জনদুর্ভোগ বলতে এমন কোনো কাজকে বোঝায় যা জনসাধারণের জন্য বিপদ বা বিরক্তির কারণ হয়ে দাঁড়ায়। এই নিবন্ধটি জনদুর্ভোগের বিরুদ্ধে আইনি ব্যবস্থা এবং সামাজিক দায়বদ্ধতার বিষয়ে আলোচনা করে, যেখানে সমাজে শান্তি ও শৃঙ্খলা বজায় রাখার গুরুত্বের ওপর জোর দেওয়া হয়েছে।",
+   "author": "മുസാഫിര്‍",
+   "issue_date": "2018-05-19",
+   "html_url": "/bn/opinion/against-public-nuisance-20180519-5.html",
+   "md_url": "/bn/opinion/against-public-nuisance-20180519-5.md"
   },
   {
    "slug": "alas-asifa-20180428-1",
