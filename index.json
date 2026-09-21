@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T11:08:18.561103+00:00",
+ "generated_at": "2026-09-21T11:09:19.906262+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6940,
+ "count": 6941,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -7304,6 +7304,17 @@
    "issue_date": "2018-04-28",
    "html_url": "/bs/opinion/a-glance-into-laws-20180428-6.html",
    "md_url": "/bs/opinion/a-glance-into-laws-20180428-6.md"
+  },
+  {
+   "slug": "against-public-nuisance-20180519-5",
+   "lang": "bs",
+   "category": "opinion",
+   "title": "Protiv javnog uznemiravanja",
+   "summary": "Indijski krivični zakon definiše javno uznemiravanje kao čin koji nanosi štetu ili smetnju široj javnosti. Ovaj članak govori o mjerama protiv takvih pojava i o društvenoj odgovornosti, naglašavajući važnost očuvanja mira i reda u zajednici.",
+   "author": "മുസാഫിര്‍",
+   "issue_date": "2018-05-19",
+   "html_url": "/bs/opinion/against-public-nuisance-20180519-5.html",
+   "md_url": "/bs/opinion/against-public-nuisance-20180519-5.md"
   },
   {
    "slug": "alas-asifa-20180428-1",
