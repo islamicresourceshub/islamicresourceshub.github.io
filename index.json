@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T04:55:30.967449+00:00",
+ "generated_at": "2026-09-21T04:56:33.246682+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6639,
+ "count": 6640,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -22726,6 +22726,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/ja/dawah/the-message-of-equality-20170121-11.html",
    "md_url": "/ja/dawah/the-message-of-equality-20170121-11.md"
+  },
+  {
+   "slug": "the-month-of-sha-ban-and-baraat-20180505-9",
+   "lang": "ja",
+   "category": "dawah",
+   "title": "シャアバーン月とバラアの夜",
+   "summary": "特定の時期や場所に神聖さを見出す際の注意点と、シャアバーン月およびバラアの夜に関する正しい理解について解説します。イスラームの教えに基づき、根拠のない慣習（ビドゥア）を避け、預言者ムハンマド ﷺ の模範に従うことの重要性を説いています。",
+   "author": "ശമീര്‍ മദീനി",
+   "issue_date": "2018-05-05",
+   "html_url": "/ja/dawah/the-month-of-sha-ban-and-baraat-20180505-9.html",
+   "md_url": "/ja/dawah/the-month-of-sha-ban-and-baraat-20180505-9.md"
   },
   {
    "slug": "the-path-to-peace-20170225-11",
