@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T08:30:25.345066+00:00",
+ "generated_at": "2026-09-21T08:31:24.123777+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6813,
+ "count": 6814,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -67188,6 +67188,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/tl/opinion/who-should-leave-india-20170121-1.html",
    "md_url": "/tl/opinion/who-should-leave-india-20170121-1.md"
+  },
+  {
+   "slug": "al-bayyinah-the-clear-proof-20180519-1",
+   "lang": "tl",
+   "category": "quran",
+   "title": "Al-Bayyinah (Ang Malinaw na Katibayan)",
+   "summary": "Ito ay isang paliwanag sa ika-98 na kabanata ng Qur'an, ang Al-Bayyinah. Binibigyang-diin ng kabanatang ito na ang mga tumatanggi sa katotohanan at ang mga sumasamba sa mga diyus-diyosan ay hindi nagbago ng kanilang paninindigan hanggang sa dumating sa kanila ang malinaw na katibayan.",
+   "author": "അബ്ദുറഹ്മാന്‍ നാസിര്‍ അസ്സഅദി",
+   "issue_date": "2018-05-19",
+   "html_url": "/tl/quran/al-bayyinah-the-clear-proof-20180519-1.html",
+   "md_url": "/tl/quran/al-bayyinah-the-clear-proof-20180519-1.md"
   },
   {
    "slug": "praise-be-to-the-lord-of-the-worlds-20170325-9",
