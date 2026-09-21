@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T11:24:44.389618+00:00",
+ "generated_at": "2026-09-21T11:25:48.682461+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6957,
+ "count": 6958,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -49555,6 +49555,17 @@
    "issue_date": "2018-04-28",
    "html_url": "/or/opinion/a-glance-into-laws-20180428-6.html",
    "md_url": "/or/opinion/a-glance-into-laws-20180428-6.md"
+  },
+  {
+   "slug": "against-public-nuisance-20180519-5",
+   "lang": "or",
+   "category": "opinion",
+   "title": "ସର୍ବସାଧାରଣଙ୍କ ଅସୁବିଧା ବିରୁଦ୍ଧରେ",
+   "summary": "ଭାରତୀୟ ଦଣ୍ଡବିଧି ସଂହିତାରେ ସର୍ବସାଧାରଣଙ୍କ ଅସୁବିଧାକୁ ଏପରି ଏକ କାର୍ଯ୍ୟ ଭାବରେ ବର୍ଣ୍ଣନା କରାଯାଇଛି ଯାହା ଜନସାଧାରଣଙ୍କ ପାଇଁ ବିପଦ କିମ୍ବା ଅସୁବିଧା ସୃଷ୍ଟି କରେ। ଏହି ପ୍ରବନ୍ଧଟି ସର୍ବସାଧାରଣଙ୍କ ଅସୁବିଧା ଏବଂ ସାମାଜିକ ଦାୟିତ୍ୱବୋଧ ବିଷୟରେ ଆଲୋଚନା କରିବା ସହ ସମାଜରେ ଶାନ୍ତି ଓ ଶୃଙ୍ଖଳା ବଜାୟ ରଖିବାର ଗୁରୁତ୍ୱ ଉପରେ ଆଲୋକପାତ କରେ।",
+   "author": "മുസാഫിര്‍",
+   "issue_date": "2018-05-19",
+   "html_url": "/or/opinion/against-public-nuisance-20180519-5.html",
+   "md_url": "/or/opinion/against-public-nuisance-20180519-5.md"
   },
   {
    "slug": "alas-asifa-20180428-1",
