@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T08:42:38.624537+00:00",
+ "generated_at": "2026-09-21T08:43:30.622917+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6826,
+ "count": 6827,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -11055,6 +11055,17 @@
    "issue_date": "2026-08-22",
    "html_url": "/es/aqeedah/who-is-wrong-in-ideology-20260822-2.html",
    "md_url": "/es/aqeedah/who-is-wrong-in-ideology-20260822-2.md"
+  },
+  {
+   "slug": "curb-extravagance-in-iftar-20180519-2",
+   "lang": "es",
+   "category": "dawah",
+   "title": "Poner freno a la extravagancia en el iftar",
+   "summary": "El ayuno en el Ramadán es un acto de abstinencia de alimentos, bebidas y deseos. Este artículo aborda la extravagancia que se observa durante las rupturas del ayuno y enfatiza la importancia de evitar el gasto excesivo que socava los objetivos espirituales del mes sagrado.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2018-05-19",
+   "html_url": "/es/dawah/curb-extravagance-in-iftar-20180519-2.html",
+   "md_url": "/es/dawah/curb-extravagance-in-iftar-20180519-2.md"
   },
   {
    "slug": "dawah-obligation-and-execution-20170401-9",
