@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T06:22:27.014033+00:00",
+ "generated_at": "2026-09-21T06:23:28.157015+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6729,
+ "count": 6730,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -57662,6 +57662,17 @@
    "issue_date": "2017-02-04",
    "html_url": "/so/story/abdullah-s-mistake-20170204-1.html",
    "md_url": "/so/story/abdullah-s-mistake-20170204-1.md"
+  },
+  {
+   "slug": "an-old-man-s-sorrows-20180505-12",
+   "lang": "so",
+   "category": "story",
+   "title": "Murugacaanta Waayeelka",
+   "summary": "Sheeko ku bilaabmaysa xaaladaha qaybta dhalmada, taas oo muujinaysa xanuunka iyo murugada ay la kulmaan dadka waayeelka ah ee dhexda u gala dhibaatooyinka qoyska. Waa sheeko bulsho oo si qoto dheer u taabanaysa dareenka iyo xiriirka qoyska.",
+   "author": "ഡോ. ജസീം അലി. എം",
+   "issue_date": "2018-05-05",
+   "html_url": "/so/story/an-old-man-s-sorrows-20180505-12.html",
+   "md_url": "/so/story/an-old-man-s-sorrows-20180505-12.md"
   },
   {
    "slug": "broken-hearts-20170218-11",
