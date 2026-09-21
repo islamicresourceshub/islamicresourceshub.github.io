@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T06:21:28.477630+00:00",
+ "generated_at": "2026-09-21T06:22:27.014033+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6728,
+ "count": 6729,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -56188,6 +56188,17 @@
    "issue_date": "2017-02-04",
    "html_url": "/si/story/abdullah-s-mistake-20170204-1.html",
    "md_url": "/si/story/abdullah-s-mistake-20170204-1.md"
+  },
+  {
+   "slug": "an-old-man-s-sorrows-20180505-12",
+   "lang": "si",
+   "category": "story",
+   "title": "වැඩිහිටියෙකුගේ වේදනාව",
+   "summary": "දරු ප්‍රසූතියක් සිදුවන වාට්ටුවක පසුබිමක ඇරඹෙන මෙම කතාව, වයෝවෘද්ධ මවක් මුහුණ දෙන පවුල් ප්‍රශ්න සහ ඇයගේ හදවතේ සැඟවුණු වේදනාවන් පිළිබඳ සංවේදී සමාජ කතාවකි.",
+   "author": "ഡോ. ജസീം അലി. എം",
+   "issue_date": "2018-05-05",
+   "html_url": "/si/story/an-old-man-s-sorrows-20180505-12.html",
+   "md_url": "/si/story/an-old-man-s-sorrows-20180505-12.md"
   },
   {
    "slug": "broken-hearts-20170218-11",
