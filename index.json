@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T02:29:53.767621+00:00",
+ "generated_at": "2026-09-21T02:30:58.703749+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6497,
+ "count": 6498,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -58058,6 +58058,17 @@
    "issue_date": "2018-05-05",
    "html_url": "/sw/fiqh/duties-and-rights-20180505-3.html",
    "md_url": "/sw/fiqh/duties-and-rights-20180505-3.md"
+  },
+  {
+   "slug": "embalming-the-dead-an-islamic-perspective-20180505-5",
+   "lang": "sw",
+   "category": "fiqh",
+   "title": "Kuhifadhi Maiti kwa Dawa (Embalming): Mtazamo wa Kiislamu",
+   "summary": "Makala hii inachunguza mtazamo wa Kiislamu kuhusu heshima kwa mwili wa mwanadamu baada ya kifo na hukumu ya kisheria ya kuhifadhi maiti kwa dawa (embalming) ili kusafirishwa kwenda nchi nyingine. Inasisitiza umuhimu wa kuzika haraka na kuepuka vitendo vinavyoweza kuudhalilisha mwili wa marehemu.",
+   "author": "അഷ്‌റഫ് എകരൂല്‍",
+   "issue_date": "2018-05-05",
+   "html_url": "/sw/fiqh/embalming-the-dead-an-islamic-perspective-20180505-5.html",
+   "md_url": "/sw/fiqh/embalming-the-dead-an-islamic-perspective-20180505-5.md"
   },
   {
    "slug": "mosque-construction-some-points-to-note-20170325-5",
