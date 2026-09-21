@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T04:54:33.234376+00:00",
+ "generated_at": "2026-09-21T04:55:30.967449+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6638,
+ "count": 6639,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -21241,6 +21241,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/it/dawah/the-message-of-equality-20170121-11.html",
    "md_url": "/it/dawah/the-message-of-equality-20170121-11.md"
+  },
+  {
+   "slug": "the-month-of-sha-ban-and-baraat-20180505-9",
+   "lang": "it",
+   "category": "dawah",
+   "title": "Il mese di Sha'ban e la notte di Bara'at",
+   "summary": "Un articolo che riflette sulla sacralità di determinati tempi e luoghi, analizzando l'importanza del mese di Sha'ban e della notte di Bara'at alla luce delle fonti autentiche, mettendo in guardia contro le innovazioni religiose prive di fondamento.",
+   "author": "ശമീര്‍ മദീനി",
+   "issue_date": "2018-05-05",
+   "html_url": "/it/dawah/the-month-of-sha-ban-and-baraat-20180505-9.html",
+   "md_url": "/it/dawah/the-month-of-sha-ban-and-baraat-20180505-9.md"
   },
   {
    "slug": "the-path-to-peace-20170225-11",
