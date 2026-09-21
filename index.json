@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T08:48:07.042833+00:00",
+ "generated_at": "2026-09-21T08:49:01.019232+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6832,
+ "count": 6833,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -20262,6 +20262,17 @@
    "issue_date": "2026-08-22",
    "html_url": "/id/aqeedah/who-is-wrong-in-ideology-20260822-2.html",
    "md_url": "/id/aqeedah/who-is-wrong-in-ideology-20260822-2.md"
+  },
+  {
+   "slug": "curb-extravagance-in-iftar-20180519-2",
+   "lang": "id",
+   "category": "dawah",
+   "title": "Mengendalikan Pemborosan dalam Berbuka Puasa",
+   "summary": "Puasa Ramadan adalah ibadah menahan diri dari makan, minum, dan pemenuhan nafsu. Artikel ini menyoroti perilaku boros saat berbuka puasa yang justru merusak tujuan spiritual Ramadan dan menekankan pentingnya kesederhanaan.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2018-05-19",
+   "html_url": "/id/dawah/curb-extravagance-in-iftar-20180519-2.html",
+   "md_url": "/id/dawah/curb-extravagance-in-iftar-20180519-2.md"
   },
   {
    "slug": "dawah-obligation-and-execution-20170401-9",
