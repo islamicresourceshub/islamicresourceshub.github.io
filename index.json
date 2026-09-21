@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T09:06:25.607919+00:00",
+ "generated_at": "2026-09-21T09:07:18.255769+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6851,
+ "count": 6852,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -64966,6 +64966,17 @@
    "issue_date": "2026-08-22",
    "html_url": "/th/aqeedah/who-is-wrong-in-ideology-20260822-2.html",
    "md_url": "/th/aqeedah/who-is-wrong-in-ideology-20260822-2.md"
+  },
+  {
+   "slug": "curb-extravagance-in-iftar-20180519-2",
+   "lang": "th",
+   "category": "dawah",
+   "title": "จงยับยั้งความฟุ่มเฟือยในการละศีลอด",
+   "summary": "การถือศีลอดในเดือนรอมฎอนคือการงดเว้นจากอาหาร เครื่องดื่ม และความต้องการทางอารมณ์ บทความนี้กล่าวถึงความฟุ่มเฟือยที่เกิดขึ้นในช่วงเวลาละศีลอด และเน้นย้ำถึงความสำคัญของการหลีกเลี่ยงการใช้จ่ายเกินตัวซึ่งทำลายเป้าหมายทางจิตวิญญาณของเดือนรอมฎอน",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2018-05-19",
+   "html_url": "/th/dawah/curb-extravagance-in-iftar-20180519-2.html",
+   "md_url": "/th/dawah/curb-extravagance-in-iftar-20180519-2.md"
   },
   {
    "slug": "dawah-obligation-and-execution-20170401-9",
