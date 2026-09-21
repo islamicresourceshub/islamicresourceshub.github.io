@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T08:52:41.453143+00:00",
+ "generated_at": "2026-09-21T08:53:39.991342+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6837,
+ "count": 6838,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -43560,6 +43560,17 @@
    "issue_date": "2026-08-22",
    "html_url": "/mr/aqeedah/who-is-wrong-in-ideology-20260822-2.html",
    "md_url": "/mr/aqeedah/who-is-wrong-in-ideology-20260822-2.md"
+  },
+  {
+   "slug": "curb-extravagance-in-iftar-20180519-2",
+   "lang": "mr",
+   "category": "dawah",
+   "title": "इफ्तारमधील उधळपट्टीला लगाम घाला",
+   "summary": "रमजानमधील उपवास हा अन्न, पाणी आणि शारीरिक इच्छांपासून दूर राहण्याचा एक धार्मिक विधी आहे. हा लेख इफ्तारच्या वेळी होणाऱ्या उधळपट्टीवर भाष्य करतो आणि रमजानच्या आध्यात्मिक उद्दिष्टांना बाधा पोहोचवणारा अतिरेक टाळण्याचे महत्त्व अधोरेखित करतो.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2018-05-19",
+   "html_url": "/mr/dawah/curb-extravagance-in-iftar-20180519-2.html",
+   "md_url": "/mr/dawah/curb-extravagance-in-iftar-20180519-2.md"
   },
   {
    "slug": "dawah-obligation-and-execution-20170401-9",
