@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T03:50:25.772253+00:00",
+ "generated_at": "2026-09-21T03:51:31.345420+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6573,
+ "count": 6574,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -56419,6 +56419,17 @@
    "issue_date": "2017-04-01",
    "html_url": "/so/seerah/prophets-are-humans-20170401-10.html",
    "md_url": "/so/seerah/prophets-are-humans-20170401-10.md"
+  },
+  {
+   "slug": "the-departure-of-the-prophet-20180505-7",
+   "lang": "so",
+   "category": "seerah",
+   "title": "Geeridii Nebiga ﷺ",
+   "summary": "Maqaalkan wuxuu ka hadlayaa dhammaadkii waajibaadkii Nebiga iyo geeridii Nebi Muxammad ﷺ. Wuxuu si qoto dheer u falanqeynayaa dhammaadkii silsiladdii nabinnimada iyo dhammaystirka diinta Islaamka.",
+   "author": "സയ്യിദ് സഅ്ഫര്‍ സ്വാദിക്വ് മദീനി",
+   "issue_date": "2018-05-05",
+   "html_url": "/so/seerah/the-departure-of-the-prophet-20180505-7.html",
+   "md_url": "/so/seerah/the-departure-of-the-prophet-20180505-7.md"
   },
   {
    "slug": "a-good-death-20180428-5",
