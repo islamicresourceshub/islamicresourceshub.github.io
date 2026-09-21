@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T06:12:05.377004+00:00",
+ "generated_at": "2026-09-21T06:13:04.965921+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6719,
+ "count": 6720,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -27071,6 +27071,17 @@
    "issue_date": "2017-02-11",
    "html_url": "/ko/story/allah-is-watching-20170211-3.html",
    "md_url": "/ko/story/allah-is-watching-20170211-3.md"
+  },
+  {
+   "slug": "an-old-man-s-sorrows-20180505-12",
+   "lang": "ko",
+   "category": "story",
+   "title": "노년의 슬픔",
+   "summary": "출산 병동의 긴박한 상황 속에서 마주한 한 노인의 이야기를 담고 있습니다. 육체적인 고통보다 더 깊은 가족 관계의 아픔과 외로움을 조명하는 사회적 서사입니다.",
+   "author": "ഡോ. ജസീം അലി. എം",
+   "issue_date": "2018-05-05",
+   "html_url": "/ko/story/an-old-man-s-sorrows-20180505-12.html",
+   "md_url": "/ko/story/an-old-man-s-sorrows-20180505-12.md"
   },
   {
    "slug": "broken-hearts-20170218-11",
