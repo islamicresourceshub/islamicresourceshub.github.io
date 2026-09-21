@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T10:18:36.480957+00:00",
+ "generated_at": "2026-09-21T10:42:36.657498+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6916,
+ "count": 6917,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -46046,6 +46046,17 @@
    "issue_date": "2018-05-05",
    "html_url": "/ms/fiqh/embalming-the-dead-an-islamic-perspective-20180505-5.html",
    "md_url": "/ms/fiqh/embalming-the-dead-an-islamic-perspective-20180505-5.md"
+  },
+  {
+   "slug": "fasting-and-smoking-20180519-4",
+   "lang": "ms",
+   "category": "fiqh",
+   "title": "Puasa dan Tabiat Merokok",
+   "summary": "Puasa adalah ibadah agung untuk meraih ketakwaan dan akhlak yang mulia. Artikel ini membincangkan hubungan antara puasa dan tabiat merokok, serta menjelaskan kesucian puasa dan keburukan merokok dari perspektif Islam.",
+   "author": "ഹംസ ജമാലി",
+   "issue_date": "2018-05-19",
+   "html_url": "/ms/fiqh/fasting-and-smoking-20180519-4.html",
+   "md_url": "/ms/fiqh/fasting-and-smoking-20180519-4.md"
   },
   {
    "slug": "mosque-construction-some-points-to-note-20170325-5",
