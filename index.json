@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T11:02:13.894445+00:00",
+ "generated_at": "2026-09-21T11:03:17.395460+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6934,
+ "count": 6935,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -74041,6 +74041,17 @@
    "issue_date": "2018-05-05",
    "html_url": "/vi/fiqh/embalming-the-dead-an-islamic-perspective-20180505-5.html",
    "md_url": "/vi/fiqh/embalming-the-dead-an-islamic-perspective-20180505-5.md"
+  },
+  {
+   "slug": "fasting-and-smoking-20180519-4",
+   "lang": "vi",
+   "category": "fiqh",
+   "title": "Nhịn ăn và hút thuốc",
+   "summary": "Nhịn ăn là một hình thức thờ phượng cao quý giúp đạt được sự kính sợ và văn hóa tốt đẹp. Bài viết này thảo luận về mối quan hệ giữa việc nhịn ăn và hút thuốc, đồng thời giải thích sự thiêng liêng của việc nhịn ăn và những tác hại của thuốc lá dưới góc nhìn Hồi giáo.",
+   "author": "ഹംസ ജമാലി",
+   "issue_date": "2018-05-19",
+   "html_url": "/vi/fiqh/fasting-and-smoking-20180519-4.html",
+   "md_url": "/vi/fiqh/fasting-and-smoking-20180519-4.md"
   },
   {
    "slug": "mosque-construction-some-points-to-note-20170325-5",
