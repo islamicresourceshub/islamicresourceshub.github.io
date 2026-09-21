@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T10:07:01.540227+00:00",
+ "generated_at": "2026-09-21T10:07:59.712670+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6904,
+ "count": 6905,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -11770,6 +11770,17 @@
    "issue_date": "2018-05-05",
    "html_url": "/es/fiqh/embalming-the-dead-an-islamic-perspective-20180505-5.html",
    "md_url": "/es/fiqh/embalming-the-dead-an-islamic-perspective-20180505-5.md"
+  },
+  {
+   "slug": "fasting-and-smoking-20180519-4",
+   "lang": "es",
+   "category": "fiqh",
+   "title": "El ayuno y el tabaquismo",
+   "summary": "El ayuno es un acto de adoración noble para alcanzar la piedad y una conducta ejemplar. Este artículo analiza la relación entre el ayuno y el tabaquismo, explicando la santidad del ayuno y los efectos nocivos de fumar desde una perspectiva islámica.",
+   "author": "ഹംസ ജമാലി",
+   "issue_date": "2018-05-19",
+   "html_url": "/es/fiqh/fasting-and-smoking-20180519-4.html",
+   "md_url": "/es/fiqh/fasting-and-smoking-20180519-4.md"
   },
   {
    "slug": "mosque-construction-some-points-to-note-20170325-5",
