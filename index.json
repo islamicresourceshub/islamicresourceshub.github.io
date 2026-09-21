@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T05:35:28.348404+00:00",
+ "generated_at": "2026-09-21T05:36:22.010425+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6680,
+ "count": 6681,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -26257,6 +26257,17 @@
    "issue_date": "2026-08-22",
    "html_url": "/ko/health/know-this-for-those-caring-for-the-sick-20260822-1.html",
    "md_url": "/ko/health/know-this-for-those-caring-for-the-sick-20260822-1.md"
+  },
+  {
+   "slug": "nutrients-for-thyroid-health-20180505-10",
+   "lang": "ko",
+   "category": "health",
+   "title": "갑상선 건강을 위한 영양소",
+   "summary": "갑상선 기능을 돕는 필수 영양소에 관한 건강 칼럼입니다. 올바른 식단을 통해 갑상선 건강을 유지하는 방법을 상세히 설명합니다.",
+   "author": "ഡോ. മുഹമ്മദ് കുട്ടി കണ്ണിയന്‍",
+   "issue_date": "2018-05-05",
+   "html_url": "/ko/health/nutrients-for-thyroid-health-20180505-10.html",
+   "md_url": "/ko/health/nutrients-for-thyroid-health-20180505-10.md"
   },
   {
    "slug": "thyroid-problems-20180428-10",
