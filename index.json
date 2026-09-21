@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T10:16:40.541249+00:00",
+ "generated_at": "2026-09-21T10:17:38.043124+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6914,
+ "count": 6915,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -27335,6 +27335,17 @@
    "issue_date": "2018-05-05",
    "html_url": "/ko/fiqh/embalming-the-dead-an-islamic-perspective-20180505-5.html",
    "md_url": "/ko/fiqh/embalming-the-dead-an-islamic-perspective-20180505-5.md"
+  },
+  {
+   "slug": "fasting-and-smoking-20180519-4",
+   "lang": "ko",
+   "category": "fiqh",
+   "title": "금식과 흡연",
+   "summary": "금식은 경건함과 훌륭한 인격을 함양하기 위한 고귀한 예배입니다. 이 글은 금식과 흡연의 관계를 다루며, 이슬람적 관점에서 금식의 신성함과 흡연의 해로움을 설명합니다.",
+   "author": "ഹംസ ജമാലി",
+   "issue_date": "2018-05-19",
+   "html_url": "/ko/fiqh/fasting-and-smoking-20180519-4.html",
+   "md_url": "/ko/fiqh/fasting-and-smoking-20180519-4.md"
   },
   {
    "slug": "mosque-construction-some-points-to-note-20170325-5",
