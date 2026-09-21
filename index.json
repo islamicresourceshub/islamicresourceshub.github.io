@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T02:44:27.194096+00:00",
+ "generated_at": "2026-09-21T02:45:24.433362+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6510,
+ "count": 6511,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -5742,6 +5742,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/bn/seerah/can-prophethood-be-attained-by-desire-20170218-1.html",
    "md_url": "/bn/seerah/can-prophethood-be-attained-by-desire-20170218-1.md"
+  },
+  {
+   "slug": "from-the-river-to-the-palace-part-2-20180505-6",
+   "lang": "bn",
+   "category": "seerah",
+   "title": "নদী থেকে রাজপ্রাসাদে",
+   "summary": "নবী মুসা (আ.)-এর জীবনের দ্বিতীয় পর্ব। নদীতে ভাসিয়ে দেওয়া থেকে শুরু করে ফেরাউনের প্রাসাদে তাঁর বেড়ে ওঠার ঘটনা এবং এর পেছনের কুরআনিক প্রেক্ষাপট এখানে তুলে ধরা হয়েছে।",
+   "author": "ഹുസൈന്‍ സലഫി, ഷാര്‍ജ",
+   "issue_date": "2018-05-05",
+   "html_url": "/bn/seerah/from-the-river-to-the-palace-part-2-20180505-6.html",
+   "md_url": "/bn/seerah/from-the-river-to-the-palace-part-2-20180505-6.md"
   },
   {
    "slug": "ibn-abbas-ra-a-scholar-of-knowledge-20170211-4",
