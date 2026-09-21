@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T10:03:00.388944+00:00",
+ "generated_at": "2026-09-21T10:04:05.151467+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6901,
+ "count": 6902,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -7095,6 +7095,17 @@
    "issue_date": "2018-05-05",
    "html_url": "/bs/fiqh/embalming-the-dead-an-islamic-perspective-20180505-5.html",
    "md_url": "/bs/fiqh/embalming-the-dead-an-islamic-perspective-20180505-5.md"
+  },
+  {
+   "slug": "fasting-and-smoking-20180519-4",
+   "lang": "bs",
+   "category": "fiqh",
+   "title": "Post i pušenje",
+   "summary": "Post je uzvišen oblik ibadeta koji pomaže u postizanju bogobojaznosti i plemenitog karaktera. Ovaj članak istražuje vezu između posta i pušenja, objašnjavajući svetost posta i štetne posljedice pušenja iz islamske perspektive.",
+   "author": "ഹംസ ജമാലി",
+   "issue_date": "2018-05-19",
+   "html_url": "/bs/fiqh/fasting-and-smoking-20180519-4.html",
+   "md_url": "/bs/fiqh/fasting-and-smoking-20180519-4.md"
   },
   {
    "slug": "mosque-construction-some-points-to-note-20170325-5",
