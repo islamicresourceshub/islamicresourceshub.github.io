@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T12:01:10.105907+00:00",
+ "generated_at": "2026-09-21T12:02:14.467670+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6992,
+ "count": 6993,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -27357,6 +27357,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/ko/dawah/solution-for-divisions-20170218-3.html",
    "md_url": "/ko/dawah/solution-for-divisions-20170218-3.md"
+  },
+  {
+   "slug": "specialities-of-the-month-of-ramadan-20180519-6",
+   "lang": "ko",
+   "category": "dawah",
+   "title": "라마단 달의 특징",
+   "summary": "이 글은 라마단 달의 주요 특징들을 설명합니다. 꾸란이 계시된 달이자 단식이 의무화된 달로서 라마단이 갖는 위대함을 다루며, 신자들이 이 달을 어떻게 활용해야 하는지에 대한 지침을 제시합니다.",
+   "author": "അബ്ദുല്ലത്വീഫ് സുല്ലമി മാറഞ്ചേരി",
+   "issue_date": "2018-05-19",
+   "html_url": "/ko/dawah/specialities-of-the-month-of-ramadan-20180519-6.html",
+   "md_url": "/ko/dawah/specialities-of-the-month-of-ramadan-20180519-6.md"
   },
   {
    "slug": "stand-tall-20170121-8",
