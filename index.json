@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T11:41:11.409273+00:00",
+ "generated_at": "2026-09-21T11:42:13.269503+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6973,
+ "count": 6974,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -74613,6 +74613,17 @@
    "issue_date": "2018-04-28",
    "html_url": "/vi/opinion/a-glance-into-laws-20180428-6.html",
    "md_url": "/vi/opinion/a-glance-into-laws-20180428-6.md"
+  },
+  {
+   "slug": "against-public-nuisance-20180519-5",
+   "lang": "vi",
+   "category": "opinion",
+   "title": "Chống lại sự phiền toái công cộng",
+   "summary": "Bộ luật Hình sự Ấn Độ định nghĩa sự phiền toái công cộng là bất kỳ hành vi nào gây nguy hiểm hoặc khó chịu cho công chúng. Bài viết này thảo luận về các biện pháp pháp lý chống lại sự phiền toái công cộng và nhấn mạnh tầm quan trọng của trách nhiệm xã hội trong việc duy trì hòa bình và trật tự.",
+   "author": "മുസാഫിര്‍",
+   "issue_date": "2018-05-19",
+   "html_url": "/vi/opinion/against-public-nuisance-20180519-5.html",
+   "md_url": "/vi/opinion/against-public-nuisance-20180519-5.md"
   },
   {
    "slug": "alas-asifa-20180428-1",
