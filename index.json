@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T04:57:30.844994+00:00",
+ "generated_at": "2026-09-21T04:58:30.179407+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6641,
+ "count": 6642,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -25696,6 +25696,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/ko/dawah/the-message-of-equality-20170121-11.html",
    "md_url": "/ko/dawah/the-message-of-equality-20170121-11.md"
+  },
+  {
+   "slug": "the-month-of-sha-ban-and-baraat-20180505-9",
+   "lang": "ko",
+   "category": "dawah",
+   "title": "샤반 달과 바라앗의 밤",
+   "summary": "특정한 시기와 장소에 부여된 신성함에 대해 다루는 글입니다. 샤반 달과 바라앗의 밤이 가지는 의미와 올바른 신앙적 태도에 대해 설명합니다.",
+   "author": "ശമീര്‍ മദീനി",
+   "issue_date": "2018-05-05",
+   "html_url": "/ko/dawah/the-month-of-sha-ban-and-baraat-20180505-9.html",
+   "md_url": "/ko/dawah/the-month-of-sha-ban-and-baraat-20180505-9.md"
   },
   {
    "slug": "the-path-to-peace-20170225-11",
