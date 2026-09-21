@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T05:47:05.972622+00:00",
+ "generated_at": "2026-09-21T05:47:59.835699+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6693,
+ "count": 6694,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -61193,6 +61193,17 @@
    "issue_date": "2026-08-22",
    "html_url": "/ta/health/know-this-for-those-caring-for-the-sick-20260822-1.html",
    "md_url": "/ta/health/know-this-for-those-caring-for-the-sick-20260822-1.md"
+  },
+  {
+   "slug": "nutrients-for-thyroid-health-20180505-10",
+   "lang": "ta",
+   "category": "health",
+   "title": "தைராய்டு ஆரோக்கியத்திற்கான ஊட்டச்சத்துக்கள்",
+   "summary": "தைராய்டு சுரப்பியின் செயல்பாட்டிற்கு உதவும் ஊட்டச்சத்துக்கள் குறித்த ஆரோக்கியக் கட்டுரை. உணவுமுறை மூலம் தைராய்டு ஆரோக்கியத்தை எவ்வாறு பராமரிக்கலாம் என்பதை இது விளக்குகிறது.",
+   "author": "ഡോ. മുഹമ്മദ് കുട്ടി കണ്ണിയന്‍",
+   "issue_date": "2018-05-05",
+   "html_url": "/ta/health/nutrients-for-thyroid-health-20180505-10.html",
+   "md_url": "/ta/health/nutrients-for-thyroid-health-20180505-10.md"
   },
   {
    "slug": "thyroid-problems-20180428-10",
