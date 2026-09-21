@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T08:56:26.662935+00:00",
+ "generated_at": "2026-09-21T08:57:21.745891+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6841,
+ "count": 6842,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -49676,6 +49676,17 @@
    "issue_date": "2026-08-22",
    "html_url": "/pa/aqeedah/who-is-wrong-in-ideology-20260822-2.html",
    "md_url": "/pa/aqeedah/who-is-wrong-in-ideology-20260822-2.md"
+  },
+  {
+   "slug": "curb-extravagance-in-iftar-20180519-2",
+   "lang": "pa",
+   "category": "dawah",
+   "title": "ਇਫਤਾਰ ਵਿੱਚ ਫਜ਼ੂਲਖਰਚੀ ਨੂੰ ਰੋਕੋ",
+   "summary": "ਰਮਜ਼ਾਨ ਦੇ ਰੋਜ਼ੇ ਖਾਣ-ਪੀਣ ਅਤੇ ਇੱਛਾਵਾਂ ਤੋਂ ਦੂਰ ਰਹਿਣ ਦਾ ਇੱਕ ਅਮਲ ਹਨ। ਇਹ ਲੇਖ ਇਫਤਾਰ ਦੇ ਸਮੇਂ ਦਿਖਾਈ ਦੇਣ ਵਾਲੀ ਫਜ਼ੂਲਖਰਚੀ 'ਤੇ ਚਰਚਾ ਕਰਦਾ ਹੈ ਅਤੇ ਰਮਜ਼ਾਨ ਦੇ ਅਸਲ ਰੂਹਾਨੀ ਉਦੇਸ਼ਾਂ ਨੂੰ ਪ੍ਰਾਪਤ ਕਰਨ ਲਈ ਸੰਜਮ ਵਰਤਣ ਦੀ ਮਹੱਤਤਾ 'ਤੇ ਜ਼ੋਰ ਦਿੰਦਾ ਹੈ।",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2018-05-19",
+   "html_url": "/pa/dawah/curb-extravagance-in-iftar-20180519-2.html",
+   "md_url": "/pa/dawah/curb-extravagance-in-iftar-20180519-2.md"
   },
   {
    "slug": "dawah-obligation-and-execution-20170401-9",
