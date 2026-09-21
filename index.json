@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T08:01:04.272751+00:00",
+ "generated_at": "2026-09-21T08:02:01.124888+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6784,
+ "count": 6785,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -7447,6 +7447,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/bs/opinion/who-should-leave-india-20170121-1.html",
    "md_url": "/bs/opinion/who-should-leave-india-20170121-1.md"
+  },
+  {
+   "slug": "al-bayyinah-the-clear-proof-20180519-1",
+   "lang": "bs",
+   "category": "quran",
+   "title": "Al-Bayyinah (Jasni dokaz)",
+   "summary": "Ovo je tumačenje 98. poglavlja Kur'ana, poznatog kao Al-Bayyinah. Poglavlje objašnjava da nevjernici i mnogobošci nisu odustajali od svojih stavova sve dok im nije došao jasan dokaz, a ovaj članak nudi komentar na početne ajete ove sure.",
+   "author": "അബ്ദുറഹ്മാന്‍ നാസിര്‍ അസ്സഅദി",
+   "issue_date": "2018-05-19",
+   "html_url": "/bs/quran/al-bayyinah-the-clear-proof-20180519-1.html",
+   "md_url": "/bs/quran/al-bayyinah-the-clear-proof-20180519-1.md"
   },
   {
    "slug": "praise-be-to-the-lord-of-the-worlds-20170325-9",
