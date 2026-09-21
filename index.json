@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T05:24:45.700566+00:00",
+ "generated_at": "2026-09-21T05:25:40.204005+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6668,
+ "count": 6669,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -8371,6 +8371,17 @@
    "issue_date": "2026-08-22",
    "html_url": "/de/health/know-this-for-those-caring-for-the-sick-20260822-1.html",
    "md_url": "/de/health/know-this-for-those-caring-for-the-sick-20260822-1.md"
+  },
+  {
+   "slug": "nutrients-for-thyroid-health-20180505-10",
+   "lang": "de",
+   "category": "health",
+   "title": "Nährstoffe für die Gesundheit der Schilddrüse",
+   "summary": "Ein Gesundheitsartikel über die Nährstoffe, die die Funktion der Schilddrüse unterstützen. Er erläutert Wege, wie die Schilddrüsengesundheit durch die richtige Ernährung erhalten werden kann.",
+   "author": "ഡോ. മുഹമ്മദ് കുട്ടി കണ്ണിയന്‍",
+   "issue_date": "2018-05-05",
+   "html_url": "/de/health/nutrients-for-thyroid-health-20180505-10.html",
+   "md_url": "/de/health/nutrients-for-thyroid-health-20180505-10.md"
   },
   {
    "slug": "thyroid-problems-20180428-10",
