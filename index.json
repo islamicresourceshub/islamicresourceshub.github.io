@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T04:07:00.683178+00:00",
+ "generated_at": "2026-09-21T04:07:55.180981+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6589,
+ "count": 6590,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -7425,6 +7425,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/bs/story/grown-up-children-20170121-6.html",
    "md_url": "/bs/story/grown-up-children-20170121-6.md"
+  },
+  {
+   "slug": "guardians-should-be-role-models-20180505-8",
+   "lang": "bs",
+   "category": "story",
+   "title": "Roditelji moraju biti uzori",
+   "summary": "Priča o mladiću koji traži blago u selu služi kao uvod u važnu pouku o tome kako roditelji trebaju biti uzori svojoj djeci. Tekst naglašava potrebu za dosljednošću, ispravnim odgojem i pružanjem ljubavi kroz primjere iz islamske tradicije.",
+   "author": "സി.മുഹമ്മദ് റാഫി ചെമ്പ്ര",
+   "issue_date": "2018-05-05",
+   "html_url": "/bs/story/guardians-should-be-role-models-20180505-8.html",
+   "md_url": "/bs/story/guardians-should-be-role-models-20180505-8.md"
   },
   {
    "slug": "laws-are-to-be-followed-20170128-5",
