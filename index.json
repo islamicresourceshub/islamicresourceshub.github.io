@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T06:40:03.064032+00:00",
+ "generated_at": "2026-09-21T06:40:56.523372+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6747,
+ "count": 6748,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -10791,6 +10791,17 @@
    "issue_date": "2017-02-11",
    "html_url": "/en/youth/e-ahamed-s-message-to-the-youth-20170211-5.html",
    "md_url": "/en/youth/e-ahamed-s-message-to-the-youth-20170211-5.md"
+  },
+  {
+   "slug": "value-erosion-misleading-the-younger-generation-20180505-13",
+   "lang": "en",
+   "category": "youth",
+   "title": "The Erosion of Values Leading the Younger Generation Astray",
+   "summary": "This article analyzes how raising children without imparting moral and ethical values leads the younger generation astray. It emphasizes the necessity of instilling a consciousness of God and accountability in the afterlife to guide them toward a righteous path.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2018-05-05",
+   "html_url": "/en/youth/value-erosion-misleading-the-younger-generation-20180505-13.html",
+   "md_url": "/en/youth/value-erosion-misleading-the-younger-generation-20180505-13.md"
   },
   {
    "slug": "what-will-the-waste-do-20170114-5",
