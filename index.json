@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T11:28:57.796456+00:00",
+ "generated_at": "2026-09-21T11:30:05.413409+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6961,
+ "count": 6962,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -55836,6 +55836,17 @@
    "issue_date": "2018-04-28",
    "html_url": "/ru/opinion/a-glance-into-laws-20180428-6.html",
    "md_url": "/ru/opinion/a-glance-into-laws-20180428-6.md"
+  },
+  {
+   "slug": "against-public-nuisance-20180519-5",
+   "lang": "ru",
+   "category": "opinion",
+   "title": "Против общественных беспорядков",
+   "summary": "В Уголовном кодексе Индии общественный беспорядок определяется как действие, причиняющее вред или неудобства населению. В этой статье рассматриваются правовые аспекты борьбы с такими нарушениями, социальная ответственность и важность поддержания порядка в обществе.",
+   "author": "മുസാഫിര്‍",
+   "issue_date": "2018-05-19",
+   "html_url": "/ru/opinion/against-public-nuisance-20180519-5.html",
+   "md_url": "/ru/opinion/against-public-nuisance-20180519-5.md"
   },
   {
    "slug": "alas-asifa-20180428-1",
