@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T09:24:39.133614+00:00",
+ "generated_at": "2026-09-21T09:26:07.007771+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6864,
+ "count": 6865,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -10791,6 +10791,17 @@
    "issue_date": "2017-04-01",
    "html_url": "/en/seerah/prophets-are-humans-20170401-10.html",
    "md_url": "/en/seerah/prophets-are-humans-20170401-10.md"
+  },
+  {
+   "slug": "reaching-midian-20180519-3",
+   "lang": "en",
+   "category": "seerah",
+   "title": "Reaching Midian",
+   "summary": "This article explores Prophet Musa's (peace be upon him) journey to Midian, a pivotal stage in his life. It recounts his arrival at the watering place in Midian and the sights he beheld there. This is the fifth installment in the series on the history of the Prophets.",
+   "author": "ഹുസൈന്‍ സലഫി, ഷാര്‍ജ",
+   "issue_date": "2018-05-19",
+   "html_url": "/en/seerah/reaching-midian-20180519-3.html",
+   "md_url": "/en/seerah/reaching-midian-20180519-3.md"
   },
   {
    "slug": "the-departure-of-the-prophet-20180505-7",
