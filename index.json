@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T05:48:53.796207+00:00",
+ "generated_at": "2026-09-21T05:49:46.706461+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6695,
+ "count": 6696,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -64163,6 +64163,17 @@
    "issue_date": "2026-08-22",
    "html_url": "/th/health/know-this-for-those-caring-for-the-sick-20260822-1.html",
    "md_url": "/th/health/know-this-for-those-caring-for-the-sick-20260822-1.md"
+  },
+  {
+   "slug": "nutrients-for-thyroid-health-20180505-10",
+   "lang": "th",
+   "category": "health",
+   "title": "สารอาหารเพื่อสุขภาพต่อมไทรอยด์",
+   "summary": "บทความสุขภาพเกี่ยวกับสารอาหารที่ช่วยสนับสนุนการทำงานของต่อมไทรอยด์ พร้อมอธิบายแนวทางการดูแลสุขภาพไทรอยด์ผ่านการเลือกรับประทานอาหาร",
+   "author": "ഡോ. മുഹമ്മദ് കുട്ടി കണ്ണിയന്‍",
+   "issue_date": "2018-05-05",
+   "html_url": "/th/health/nutrients-for-thyroid-health-20180505-10.html",
+   "md_url": "/th/health/nutrients-for-thyroid-health-20180505-10.md"
   },
   {
    "slug": "thyroid-problems-20180428-10",
