@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T05:49:46.706461+00:00",
+ "generated_at": "2026-09-21T05:50:38.801102+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6696,
+ "count": 6697,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -65659,6 +65659,17 @@
    "issue_date": "2026-08-22",
    "html_url": "/tl/health/know-this-for-those-caring-for-the-sick-20260822-1.html",
    "md_url": "/tl/health/know-this-for-those-caring-for-the-sick-20260822-1.md"
+  },
+  {
+   "slug": "nutrients-for-thyroid-health-20180505-10",
+   "lang": "tl",
+   "category": "health",
+   "title": "Mga Nutrisyon para sa Kalusugan ng Thyroid",
+   "summary": "Isang artikulong pangkalusugan tungkol sa mga nutrisyong tumutulong sa paggana ng thyroid gland. Ipinapaliwanag nito ang mga paraan upang mapanatili ang kalusugan ng thyroid sa pamamagitan ng tamang pagkain.",
+   "author": "ഡോ. മുഹമ്മദ് കുട്ടി കണ്ണിയന്‍",
+   "issue_date": "2018-05-05",
+   "html_url": "/tl/health/nutrients-for-thyroid-health-20180505-10.html",
+   "md_url": "/tl/health/nutrients-for-thyroid-health-20180505-10.md"
   },
   {
    "slug": "thyroid-problems-20180428-10",
