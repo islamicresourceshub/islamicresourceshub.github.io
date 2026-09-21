@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T09:49:35.118656+00:00",
+ "generated_at": "2026-09-21T09:50:37.765595+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6888,
+ "count": 6889,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -63437,6 +63437,17 @@
    "issue_date": "2017-04-01",
    "html_url": "/ta/seerah/prophets-are-humans-20170401-10.html",
    "md_url": "/ta/seerah/prophets-are-humans-20170401-10.md"
+  },
+  {
+   "slug": "reaching-midian-20180519-3",
+   "lang": "ta",
+   "category": "seerah",
+   "title": "மத்யனில் ஒரு வருகை",
+   "summary": "மூஸா நபி (அலை) அவர்களின் வாழ்க்கையில் மிக முக்கியமான கட்டமான மத்யன் நோக்கிய பயணத்தைப் பற்றியது இந்த கட்டுரை. மத்யனில் உள்ள நீர்நிலைக்கு அவர் சென்றடைந்ததும், அங்கு அவர் கண்ட காட்சிகளும், அவரது நற்பண்புகளும் இதில் விவரிக்கப்பட்டுள்ளன. இது நபிமார்களின் வரலாற்றுத் தொடரின் ஐந்தாம் பாகமாகும்.",
+   "author": "ഹുസൈന്‍ സലഫി, ഷാര്‍ജ",
+   "issue_date": "2018-05-19",
+   "html_url": "/ta/seerah/reaching-midian-20180519-3.html",
+   "md_url": "/ta/seerah/reaching-midian-20180519-3.md"
   },
   {
    "slug": "the-departure-of-the-prophet-20180505-7",
