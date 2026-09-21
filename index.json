@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T09:47:28.712002+00:00",
+ "generated_at": "2026-09-21T09:48:34.767486+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6886,
+ "count": 6887,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -60379,6 +60379,17 @@
    "issue_date": "2017-04-01",
    "html_url": "/sq/seerah/prophets-are-humans-20170401-10.html",
    "md_url": "/sq/seerah/prophets-are-humans-20170401-10.md"
+  },
+  {
+   "slug": "reaching-midian-20180519-3",
+   "lang": "sq",
+   "category": "seerah",
+   "title": "Mbërritja në Medjan",
+   "summary": "Ky artikull trajton udhëtimin e Musait (a.s.) drejt Medjanit, një fazë vendimtare në jetën e tij. Përshkruhet mbërritja e tij pranë burimit të ujit dhe takimi me dy vajzat, duke shënuar pjesën e pestë të serisë mbi historinë e profetëve.",
+   "author": "ഹുസൈന്‍ സലഫി, ഷാര്‍ജ",
+   "issue_date": "2018-05-19",
+   "html_url": "/sq/seerah/reaching-midian-20180519-3.html",
+   "md_url": "/sq/seerah/reaching-midian-20180519-3.md"
   },
   {
    "slug": "the-departure-of-the-prophet-20180505-7",
