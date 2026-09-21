@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T10:43:38.398762+00:00",
+ "generated_at": "2026-09-21T10:44:40.436900+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6918,
+ "count": 6919,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -49159,6 +49159,17 @@
    "issue_date": "2018-05-05",
    "html_url": "/or/fiqh/embalming-the-dead-an-islamic-perspective-20180505-5.html",
    "md_url": "/or/fiqh/embalming-the-dead-an-islamic-perspective-20180505-5.md"
+  },
+  {
+   "slug": "fasting-and-smoking-20180519-4",
+   "lang": "or",
+   "category": "fiqh",
+   "title": "ରୋଜା ଏବଂ ଧୂମପାନ",
+   "summary": "ରୋଜା ହେଉଛି ଭୟଭକ୍ତି ଏବଂ ଉତ୍ତମ ସଂସ୍କାର ହାସଲ କରିବାର ଏକ ଶ୍ରେଷ୍ଠ ଇବାଦତ ବା ଆରାଧନା। ଏହି ଲେଖାଟି ରୋଜା ଏବଂ ଧୂମପାନ ମଧ୍ୟରେ ଥିବା ସମ୍ପର୍କକୁ ଆଲୋଚନା କରେ। ଏଥିରେ ରୋଜାର ପବିତ୍ରତା ଏବଂ ଧୂମପାନର କୁପରିଣାମଗୁଡ଼ିକୁ ଇସଲାମୀୟ ଦୃଷ୍ଟିକୋଣରୁ ବ୍ୟାଖ୍ୟା କରାଯାଇଛି।",
+   "author": "ഹംസ ജമാലി",
+   "issue_date": "2018-05-19",
+   "html_url": "/or/fiqh/fasting-and-smoking-20180519-4.html",
+   "md_url": "/or/fiqh/fasting-and-smoking-20180519-4.md"
   },
   {
    "slug": "mosque-construction-some-points-to-note-20170325-5",
