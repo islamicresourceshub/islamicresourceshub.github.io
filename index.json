@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T05:44:20.641922+00:00",
+ "generated_at": "2026-09-21T05:45:17.938106+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6690,
+ "count": 6691,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -56760,6 +56760,17 @@
    "issue_date": "2026-08-22",
    "html_url": "/so/health/know-this-for-those-caring-for-the-sick-20260822-1.html",
    "md_url": "/so/health/know-this-for-those-caring-for-the-sick-20260822-1.md"
+  },
+  {
+   "slug": "nutrients-for-thyroid-health-20180505-10",
+   "lang": "so",
+   "category": "health",
+   "title": "Nafaqooyinka muhiimka u ah caafimaadka qanjirka tayroodhka",
+   "summary": "Maqaalkan caafimaad wuxuu sharxayaa nafaqooyinka muhiimka u ah shaqada qanjirka tayroodhka. Waxa uu si faahfaahsan u sharxayaa hababka lagu ilaalin karo caafimaadka tayroodhka iyada oo loo marayo cunto dheellitiran.",
+   "author": "ഡോ. മുഹമ്മദ് കുട്ടി കണ്ണിയന്‍",
+   "issue_date": "2018-05-05",
+   "html_url": "/so/health/nutrients-for-thyroid-health-20180505-10.html",
+   "md_url": "/so/health/nutrients-for-thyroid-health-20180505-10.md"
   },
   {
    "slug": "thyroid-problems-20180428-10",
