@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T08:44:24.116390+00:00",
+ "generated_at": "2026-09-21T08:45:19.191629+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6828,
+ "count": 6829,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -14124,6 +14124,17 @@
    "issue_date": "2026-08-22",
    "html_url": "/fr/aqeedah/who-is-wrong-in-ideology-20260822-2.html",
    "md_url": "/fr/aqeedah/who-is-wrong-in-ideology-20260822-2.md"
+  },
+  {
+   "slug": "curb-extravagance-in-iftar-20180519-2",
+   "lang": "fr",
+   "category": "dawah",
+   "title": "Mettre un frein à l'extravagance lors de la rupture du jeûne",
+   "summary": "Le jeûne du Ramadan est un acte d'adoration qui consiste à s'abstenir de nourriture, de boisson et de désirs charnels. Cet article dénonce le gaspillage et l'ostentation observés lors des repas de rupture du jeûne, soulignant l'importance de préserver les objectifs spirituels du mois sacré.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2018-05-19",
+   "html_url": "/fr/dawah/curb-extravagance-in-iftar-20180519-2.html",
+   "md_url": "/fr/dawah/curb-extravagance-in-iftar-20180519-2.md"
   },
   {
    "slug": "dawah-obligation-and-execution-20170401-9",
