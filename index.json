@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T08:28:28.509417+00:00",
+ "generated_at": "2026-09-21T08:29:27.499717+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6811,
+ "count": 6812,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -64130,6 +64130,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/te/opinion/who-should-leave-india-20170121-1.html",
    "md_url": "/te/opinion/who-should-leave-india-20170121-1.md"
+  },
+  {
+   "slug": "al-bayyinah-the-clear-proof-20180519-1",
+   "lang": "te",
+   "category": "quran",
+   "title": "అల్-బయ్యిన (స్పష్టమైన నిదర్శనం)",
+   "summary": "ఇది ఖురాన్‌లోని 98వ అధ్యాయం 'అల్-బయ్యిన' యొక్క వివరణ. సత్యనిరసనకారులు మరియు బహుదైవారాధకులు స్పష్టమైన నిదర్శనం వచ్చే వరకు తమ మార్గాల నుండి తప్పుకోలేదని, ఈ అధ్యాయం వారి స్థితిగతులను మరియు విశ్వాసుల ప్రతిఫలాలను వివరిస్తుంది.",
+   "author": "അബ്ദുറഹ്മാന്‍ നാസിര്‍ അസ്സഅദി",
+   "issue_date": "2018-05-19",
+   "html_url": "/te/quran/al-bayyinah-the-clear-proof-20180519-1.html",
+   "md_url": "/te/quran/al-bayyinah-the-clear-proof-20180519-1.md"
   },
   {
    "slug": "praise-be-to-the-lord-of-the-worlds-20170325-9",
