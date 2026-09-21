@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T06:18:38.459506+00:00",
+ "generated_at": "2026-09-21T06:19:36.734787+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6725,
+ "count": 6726,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -51678,6 +51678,17 @@
    "issue_date": "2017-02-11",
    "html_url": "/ps/story/allah-is-watching-20170211-3.html",
    "md_url": "/ps/story/allah-is-watching-20170211-3.md"
+  },
+  {
+   "slug": "an-old-man-s-sorrows-20180505-12",
+   "lang": "ps",
+   "category": "story",
+   "title": "د یوې بوډۍ غمونه",
+   "summary": "دا کیسه د زیږون د یوې برخې په پس منظر کې پیل کیږي. دا د یوې بوډۍ میرمنې د دردونو او د کورنۍ د اړیکو د ترخو واقعیتونو یو ټولنیز انځور دی.",
+   "author": "ഡോ. ജസീം അലി. എം",
+   "issue_date": "2018-05-05",
+   "html_url": "/ps/story/an-old-man-s-sorrows-20180505-12.html",
+   "md_url": "/ps/story/an-old-man-s-sorrows-20180505-12.md"
   },
   {
    "slug": "broken-hearts-20170218-11",
