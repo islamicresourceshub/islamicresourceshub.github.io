@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T11:35:16.565775+00:00",
+ "generated_at": "2026-09-21T11:36:32.140033+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6967,
+ "count": 6968,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -65175,6 +65175,17 @@
    "issue_date": "2018-04-28",
    "html_url": "/te/opinion/a-glance-into-laws-20180428-6.html",
    "md_url": "/te/opinion/a-glance-into-laws-20180428-6.md"
+  },
+  {
+   "slug": "against-public-nuisance-20180519-5",
+   "lang": "te",
+   "category": "opinion",
+   "title": "ప్రజా అసౌకర్యానికి వ్యతిరేకంగా",
+   "summary": "భారతీయ శిక్షాస్మృతి ప్రకారం ప్రజా అసౌకర్యం అంటే ప్రజలకు ప్రమాదాన్ని లేదా ఇబ్బందిని కలిగించే చర్య అని అర్థం. ఈ వ్యాసం ప్రజా అసౌకర్యాలకు వ్యతిరేకంగా ఉన్న చట్టపరమైన నిబంధనలను, సామాజిక బాధ్యతను మరియు సమాజంలో శాంతి భద్రతలను కాపాడాల్సిన ప్రాముఖ్యతను వివరిస్తుంది.",
+   "author": "മുസാഫിര്‍",
+   "issue_date": "2018-05-19",
+   "html_url": "/te/opinion/against-public-nuisance-20180519-5.html",
+   "md_url": "/te/opinion/against-public-nuisance-20180519-5.md"
   },
   {
    "slug": "alas-asifa-20180428-1",
