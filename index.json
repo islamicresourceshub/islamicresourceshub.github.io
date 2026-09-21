@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T08:19:50.237853+00:00",
+ "generated_at": "2026-09-21T08:20:47.973129+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6803,
+ "count": 6804,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -51997,6 +51997,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/ps/opinion/who-should-leave-india-20170121-1.html",
    "md_url": "/ps/opinion/who-should-leave-india-20170121-1.md"
+  },
+  {
+   "slug": "al-bayyinah-the-clear-proof-20180519-1",
+   "lang": "ps",
+   "category": "quran",
+   "title": "البينة (روښانه دلیل)",
+   "summary": "دا د قرآن کریم د ۹۸م سورت «البينة» تفسیر دی. دا سورت بیانوي چې کافران او مشرکین تر هغه وخته له خپلو عقایدو نه ګرځېدل تر څو چې ورته روښانه دلیل نه وي راغلی. دا لیکنه د دې سورت د لومړنیو آیتونو تشریح وړاندې کوي.",
+   "author": "അബ്ദുറഹ്മാന്‍ നാസിര്‍ അസ്സഅദി",
+   "issue_date": "2018-05-19",
+   "html_url": "/ps/quran/al-bayyinah-the-clear-proof-20180519-1.html",
+   "md_url": "/ps/quran/al-bayyinah-the-clear-proof-20180519-1.md"
   },
   {
    "slug": "praise-be-to-the-lord-of-the-worlds-20170325-9",
