@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T12:07:31.178879+00:00",
+ "generated_at": "2026-09-21T12:08:38.699919+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6998,
+ "count": 6999,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -52415,6 +52415,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/ps/dawah/solution-for-divisions-20170218-3.html",
    "md_url": "/ps/dawah/solution-for-divisions-20170218-3.md"
+  },
+  {
+   "slug": "specialities-of-the-month-of-ramadan-20180519-6",
+   "lang": "ps",
+   "category": "dawah",
+   "title": "د رمضان د میاشتې ځانګړتیاوې",
+   "summary": "دا لیکنه د رمضان د میاشتې په مهمو ځانګړتیاوو رڼا اچوي. په دې کې د قرآن کریم نزول، د روژې فرضیت او د دې میاشتې د فضیلتونو په اړه معلومات ورکړل شوي او مؤمنانو ته د دې میاشتې د لا ښه ګټې اخیستنې لارښوونې شوې دي.",
+   "author": "അബ്ദുല്ലത്വീഫ് സുല്ലമി മാറഞ്ചേരി",
+   "issue_date": "2018-05-19",
+   "html_url": "/ps/dawah/specialities-of-the-month-of-ramadan-20180519-6.html",
+   "md_url": "/ps/dawah/specialities-of-the-month-of-ramadan-20180519-6.md"
   },
   {
    "slug": "stand-tall-20170121-8",
