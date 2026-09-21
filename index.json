@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T04:07:55.180981+00:00",
+ "generated_at": "2026-09-21T04:08:48.192096+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6590,
+ "count": 6591,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -8899,6 +8899,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/de/story/grown-up-children-20170121-6.html",
    "md_url": "/de/story/grown-up-children-20170121-6.md"
+  },
+  {
+   "slug": "guardians-should-be-role-models-20180505-8",
+   "lang": "de",
+   "category": "story",
+   "title": "Eltern als Vorbilder",
+   "summary": "Eine Geschichte über einen jungen Mann, der nach einem Schatz gräbt, dient als Ausgangspunkt, um die entscheidende Rolle der Eltern als Vorbilder für ihre Kinder zu verdeutlichen. Der Text betont die Notwendigkeit von Ausdauer, liebevoller Erziehung und der Vermittlung religiöser Werte.",
+   "author": "സി.മുഹമ്മദ് റാഫി ചെമ്പ്ര",
+   "issue_date": "2018-05-05",
+   "html_url": "/de/story/guardians-should-be-role-models-20180505-8.html",
+   "md_url": "/de/story/guardians-should-be-role-models-20180505-8.md"
   },
   {
    "slug": "laws-are-to-be-followed-20170128-5",
