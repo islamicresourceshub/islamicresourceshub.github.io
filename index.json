@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T02:39:34.671648+00:00",
+ "generated_at": "2026-09-21T02:40:39.420248+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6506,
+ "count": 6507,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -70972,6 +70972,17 @@
    "issue_date": "2018-05-05",
    "html_url": "/zh/fiqh/duties-and-rights-20180505-3.html",
    "md_url": "/zh/fiqh/duties-and-rights-20180505-3.md"
+  },
+  {
+   "slug": "embalming-the-dead-an-islamic-perspective-20180505-5",
+   "lang": "zh",
+   "category": "fiqh",
+   "title": "遗体防腐：伊斯兰视角下的探讨",
+   "summary": "本文基于伊斯兰教义中关于尊重逝者遗体的原则，探讨了遗体防腐处理的教法依据。文章详细分析了在异地去世后将遗体运回故乡的教法判例，以及在何种情况下防腐处理是被允许的。",
+   "author": "അഷ്‌റഫ് എകരൂല്‍",
+   "issue_date": "2018-05-05",
+   "html_url": "/zh/fiqh/embalming-the-dead-an-islamic-perspective-20180505-5.html",
+   "md_url": "/zh/fiqh/embalming-the-dead-an-islamic-perspective-20180505-5.md"
   },
   {
    "slug": "mosque-construction-some-points-to-note-20170325-5",
