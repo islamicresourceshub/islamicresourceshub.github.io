@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T09:18:33.639348+00:00",
+ "generated_at": "2026-09-21T09:19:35.087109+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6858,
+ "count": 6859,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -1518,6 +1518,17 @@
    "issue_date": "2017-04-01",
    "html_url": "/am/seerah/prophets-are-humans-20170401-10.html",
    "md_url": "/am/seerah/prophets-are-humans-20170401-10.md"
+  },
+  {
+   "slug": "reaching-midian-20180519-3",
+   "lang": "am",
+   "category": "seerah",
+   "title": "ወደ መዲያን መድረስ",
+   "summary": "ይህ መጣጥፍ የነቢዩ ሙሳ (ዐለይሂ ሰላም) የሕይወት ጉዞ ወሳኝ ምዕራፍ የሆነውን ወደ መዲያን ያደረጉትን ጉዞ ይዳስሳል። በዚያም የውኃ ጉድጓድ አጠገብ የተመለከቱትን ክስተቶች እና የሕይወታቸውን አዲስ ምዕራፍ መጀመር ይተርካል። ይህ የነቢያት ታሪክ ተከታታይ አምስተኛው ክፍል ነው።",
+   "author": "ഹുസൈന്‍ സലഫി, ഷാര്‍ജ",
+   "issue_date": "2018-05-19",
+   "html_url": "/am/seerah/reaching-midian-20180519-3.html",
+   "md_url": "/am/seerah/reaching-midian-20180519-3.md"
   },
   {
    "slug": "the-departure-of-the-prophet-20180505-7",
