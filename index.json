@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T09:56:48.401549+00:00",
+ "generated_at": "2026-09-21T09:57:49.826325+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6895,
+ "count": 6896,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -74283,6 +74283,17 @@
    "issue_date": "2017-04-01",
    "html_url": "/vi/seerah/prophets-are-humans-20170401-10.html",
    "md_url": "/vi/seerah/prophets-are-humans-20170401-10.md"
+  },
+  {
+   "slug": "reaching-midian-20180519-3",
+   "lang": "vi",
+   "category": "seerah",
+   "title": "Đến Madyan",
+   "summary": "Bài viết này kể về hành trình đến Madyan, một giai đoạn quan trọng trong cuộc đời của Nabi Musa (as). Nội dung mô tả khoảnh khắc ông đến bên hồ nước tại Madyan và những sự kiện diễn ra tại đó, đây là phần thứ năm trong loạt bài về lịch sử các vị tiên tri.",
+   "author": "ഹുസൈന്‍ സലഫി, ഷാര്‍ജ",
+   "issue_date": "2018-05-19",
+   "html_url": "/vi/seerah/reaching-midian-20180519-3.html",
+   "md_url": "/vi/seerah/reaching-midian-20180519-3.md"
   },
   {
    "slug": "the-departure-of-the-prophet-20180505-7",
