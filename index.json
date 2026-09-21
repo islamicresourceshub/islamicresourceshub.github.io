@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T05:19:21.641951+00:00",
+ "generated_at": "2026-09-21T05:20:17.068591+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6662,
+ "count": 6663,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -72336,6 +72336,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/zh/dawah/the-message-of-equality-20170121-11.html",
    "md_url": "/zh/dawah/the-message-of-equality-20170121-11.md"
+  },
+  {
+   "slug": "the-month-of-sha-ban-and-baraat-20180505-9",
+   "lang": "zh",
+   "category": "dawah",
+   "title": "舍尔班月与巴拉特夜",
+   "summary": "本文探讨了伊斯兰教中某些特定时间和地点的神圣性，重点阐述了舍尔班月的意义以及关于巴拉特夜的教法准则，提醒信士应遵循圣行，远离各种异端行为。",
+   "author": "ശമീര്‍ മദീനി",
+   "issue_date": "2018-05-05",
+   "html_url": "/zh/dawah/the-month-of-sha-ban-and-baraat-20180505-9.html",
+   "md_url": "/zh/dawah/the-month-of-sha-ban-and-baraat-20180505-9.md"
   },
   {
    "slug": "the-path-to-peace-20170225-11",
