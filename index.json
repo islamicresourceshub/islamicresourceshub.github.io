@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T12:22:41.343638+00:00",
+ "generated_at": "2026-09-21T12:23:47.402836+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 7012,
+ "count": 7013,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -74492,6 +74492,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/vi/dawah/solution-for-divisions-20170218-3.html",
    "md_url": "/vi/dawah/solution-for-divisions-20170218-3.md"
+  },
+  {
+   "slug": "specialities-of-the-month-of-ramadan-20180519-6",
+   "lang": "vi",
+   "category": "dawah",
+   "title": "Những đặc điểm của tháng Ramadan",
+   "summary": "Bài viết này giải thích những đặc điểm quan trọng nhất của tháng Ramadan. Nó nêu bật sự cao quý của tháng này như là tháng mà Kinh Qur'an được ban xuống và là tháng bắt buộc phải nhịn ăn, đồng thời hướng dẫn các tín đồ cách tận dụng tối đa khoảng thời gian thiêng liêng này.",
+   "author": "അബ്ദുല്ലത്വീഫ് സുല്ലമി മാറഞ്ചേരി",
+   "issue_date": "2018-05-19",
+   "html_url": "/vi/dawah/specialities-of-the-month-of-ramadan-20180519-6.html",
+   "md_url": "/vi/dawah/specialities-of-the-month-of-ramadan-20180519-6.md"
   },
   {
    "slug": "stand-tall-20170121-8",
