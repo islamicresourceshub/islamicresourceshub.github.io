@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T04:59:30.591443+00:00",
+ "generated_at": "2026-09-21T05:00:26.514551+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6643,
+ "count": 6644,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -44253,6 +44253,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/ms/dawah/the-message-of-equality-20170121-11.html",
    "md_url": "/ms/dawah/the-message-of-equality-20170121-11.md"
+  },
+  {
+   "slug": "the-month-of-sha-ban-and-baraat-20180505-9",
+   "lang": "ms",
+   "category": "dawah",
+   "title": "Bulan Syaaban dan Nisfu Syaaban",
+   "summary": "Artikel ini membincangkan tentang kemuliaan masa dan tempat tertentu dalam Islam. Ia menjelaskan kepentingan bulan Syaaban serta malam Nisfu Syaaban, di samping memberi peringatan agar menjauhi amalan bidaah yang tidak bersandarkan kepada dalil yang sahih.",
+   "author": "ശമീര്‍ മദീനി",
+   "issue_date": "2018-05-05",
+   "html_url": "/ms/dawah/the-month-of-sha-ban-and-baraat-20180505-9.html",
+   "md_url": "/ms/dawah/the-month-of-sha-ban-and-baraat-20180505-9.md"
   },
   {
    "slug": "the-path-to-peace-20170225-11",
