@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T06:28:40.769280+00:00",
+ "generated_at": "2026-09-21T06:29:44.060303+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6735,
+ "count": 6736,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -66649,6 +66649,17 @@
    "issue_date": "2017-02-11",
    "html_url": "/tl/story/allah-is-watching-20170211-3.html",
    "md_url": "/tl/story/allah-is-watching-20170211-3.md"
+  },
+  {
+   "slug": "an-old-man-s-sorrows-20180505-12",
+   "lang": "tl",
+   "category": "story",
+   "title": "Mga Hapis ng Isang Matanda",
+   "summary": "Isang kuwentong panlipunan na nagsisimula sa gitna ng isang maternity ward, na naglalarawan sa pait ng pagtanda at ang masakit na realidad ng mga ugnayan sa pamilya. Ipinapakita nito ang pagdurusa ng isang matandang babae na mas pinipili ang ospital kaysa sa kanyang tahanan dahil sa kawalan ng pagmamahal ng kanyang manugang.",
+   "author": "ഡോ. ജസീം അലി. എം",
+   "issue_date": "2018-05-05",
+   "html_url": "/tl/story/an-old-man-s-sorrows-20180505-12.html",
+   "md_url": "/tl/story/an-old-man-s-sorrows-20180505-12.md"
   },
   {
    "slug": "broken-hearts-20170218-11",
