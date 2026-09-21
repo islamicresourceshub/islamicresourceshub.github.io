@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T08:34:26.936157+00:00",
+ "generated_at": "2026-09-21T08:35:23.845601+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6817,
+ "count": 6818,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -73304,6 +73304,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/vi/opinion/who-should-leave-india-20170121-1.html",
    "md_url": "/vi/opinion/who-should-leave-india-20170121-1.md"
+  },
+  {
+   "slug": "al-bayyinah-the-clear-proof-20180519-1",
+   "lang": "vi",
+   "category": "quran",
+   "title": "Al-Bayyinah (Bằng chứng rõ ràng)",
+   "summary": "Đây là phần giải thích về chương thứ 98 của Kinh Qur'an, mang tên Al-Bayyinah. Chương này khẳng định rằng những kẻ phủ nhận chân lý và những người đa thần giáo sẽ không từ bỏ lập trường của mình cho đến khi nhận được bằng chứng rõ ràng. Bài viết này trình bày phần chú giải cho những câu đầu tiên của chương này.",
+   "author": "അബ്ദുറഹ്മാന്‍ നാസിര്‍ അസ്സഅദി",
+   "issue_date": "2018-05-19",
+   "html_url": "/vi/quran/al-bayyinah-the-clear-proof-20180519-1.html",
+   "md_url": "/vi/quran/al-bayyinah-the-clear-proof-20180519-1.md"
   },
   {
    "slug": "praise-be-to-the-lord-of-the-worlds-20170325-9",
