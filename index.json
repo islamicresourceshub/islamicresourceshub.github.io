@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T08:16:57.614583+00:00",
+ "generated_at": "2026-09-21T08:17:54.361670+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6800,
+ "count": 6801,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -47432,6 +47432,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/ne/opinion/who-should-leave-india-20170121-1.html",
    "md_url": "/ne/opinion/who-should-leave-india-20170121-1.md"
+  },
+  {
+   "slug": "al-bayyinah-the-clear-proof-20180519-1",
+   "lang": "ne",
+   "category": "quran",
+   "title": "बय्यिना (स्पष्ट प्रमाण)",
+   "summary": "यो अध्याय ९८, अल-बय्यिनाको व्याख्या हो। यस अध्यायले बताउँछ कि सत्यलाई अस्वीकार गर्नेहरू र बहुदेववादीहरू स्पष्ट प्रमाण नपाएसम्म आफ्नो अडानबाट पछि हट्नेवाला थिएनन्। यो लेख कुरानको यस सुराका सुरुका आयतहरूको व्याख्यामा केन्द्रित छ।",
+   "author": "അബ്ദുറഹ്മാന്‍ നാസിര്‍ അസ്സഅദി",
+   "issue_date": "2018-05-19",
+   "html_url": "/ne/quran/al-bayyinah-the-clear-proof-20180519-1.html",
+   "md_url": "/ne/quran/al-bayyinah-the-clear-proof-20180519-1.md"
   },
   {
    "slug": "praise-be-to-the-lord-of-the-worlds-20170325-9",
