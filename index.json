@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T10:06:06.137231+00:00",
+ "generated_at": "2026-09-21T10:07:01.540227+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6903,
+ "count": 6904,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -10219,6 +10219,17 @@
    "issue_date": "2018-05-05",
    "html_url": "/en/fiqh/embalming-the-dead-an-islamic-perspective-20180505-5.html",
    "md_url": "/en/fiqh/embalming-the-dead-an-islamic-perspective-20180505-5.md"
+  },
+  {
+   "slug": "fasting-and-smoking-20180519-4",
+   "lang": "en",
+   "category": "fiqh",
+   "title": "Fasting and Smoking",
+   "summary": "Fasting is a noble act of worship aimed at attaining piety and refined character. This article discusses the relationship between fasting and smoking, explaining the sanctity of the fast and the harmful effects of smoking from an Islamic perspective.",
+   "author": "ഹംസ ജമാലി",
+   "issue_date": "2018-05-19",
+   "html_url": "/en/fiqh/fasting-and-smoking-20180519-4.html",
+   "md_url": "/en/fiqh/fasting-and-smoking-20180519-4.md"
   },
   {
    "slug": "mosque-construction-some-points-to-note-20170325-5",
