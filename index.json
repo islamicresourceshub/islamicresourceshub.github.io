@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T03:56:47.049723+00:00",
+ "generated_at": "2026-09-21T03:57:50.091034+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6579,
+ "count": 6580,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -65131,6 +65131,17 @@
    "issue_date": "2017-04-01",
    "html_url": "/tl/seerah/prophets-are-humans-20170401-10.html",
    "md_url": "/tl/seerah/prophets-are-humans-20170401-10.md"
+  },
+  {
+   "slug": "the-departure-of-the-prophet-20180505-7",
+   "lang": "tl",
+   "category": "seerah",
+   "title": "Ang Pagpanaw ng Propeta",
+   "summary": "Isang artikulo tungkol sa pagtatapos ng misyon ng Propeta at ang pagpanaw ni Muhammad ﷺ. Sinusuri nito ang pagwawakas ng serye ng mga propeta at ang pagiging ganap ng Islam.",
+   "author": "സയ്യിദ് സഅ്ഫര്‍ സ്വാദിക്വ് മദീനി",
+   "issue_date": "2018-05-05",
+   "html_url": "/tl/seerah/the-departure-of-the-prophet-20180505-7.html",
+   "md_url": "/tl/seerah/the-departure-of-the-prophet-20180505-7.md"
   },
   {
    "slug": "a-good-death-20180428-5",
