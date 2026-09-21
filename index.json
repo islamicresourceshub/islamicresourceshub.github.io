@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T05:59:23.904265+00:00",
+ "generated_at": "2026-09-21T06:00:29.925273+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6706,
+ "count": 6707,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -7546,6 +7546,17 @@
    "issue_date": "2017-02-11",
    "html_url": "/bs/story/allah-is-watching-20170211-3.html",
    "md_url": "/bs/story/allah-is-watching-20170211-3.md"
+  },
+  {
+   "slug": "an-old-man-s-sorrows-20180505-12",
+   "lang": "bs",
+   "category": "story",
+   "title": "Tuga jedne starice",
+   "summary": "Priča koja započinje u pozadini porođajnog odjela, istražujući tugu starijih osoba i bolne porodične odnose. To je dirljiv prikaz usamljenosti i skrivene patnje jedne majke koja utočište pronalazi u bolničkom krevetu.",
+   "author": "ഡോ. ജസീം അലി. എം",
+   "issue_date": "2018-05-05",
+   "html_url": "/bs/story/an-old-man-s-sorrows-20180505-12.html",
+   "md_url": "/bs/story/an-old-man-s-sorrows-20180505-12.md"
   },
   {
    "slug": "broken-hearts-20170218-11",
