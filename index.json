@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T09:54:45.272343+00:00",
+ "generated_at": "2026-09-21T09:55:46.688171+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6893,
+ "count": 6894,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -71181,6 +71181,17 @@
    "issue_date": "2017-04-01",
    "html_url": "/ur/seerah/prophets-are-humans-20170401-10.html",
    "md_url": "/ur/seerah/prophets-are-humans-20170401-10.md"
+  },
+  {
+   "slug": "reaching-midian-20180519-3",
+   "lang": "ur",
+   "category": "seerah",
+   "title": "مدین میں آمد",
+   "summary": "یہ مضمون حضرت موسیٰ علیہ السلام کی زندگی کے ایک اہم موڑ، مدین کے سفر کے بارے میں ہے۔ اس میں ان کے مدین کے کنویں پر پہنچنے، وہاں پیش آنے والے واقعات اور ان کی زندگی کے نئے آغاز کا ذکر ہے۔ یہ انبیاء کی تاریخ کے سلسلے کا پانچواں حصہ ہے۔",
+   "author": "ഹുസൈന്‍ സലഫി, ഷാര്‍ജ",
+   "issue_date": "2018-05-19",
+   "html_url": "/ur/seerah/reaching-midian-20180519-3.html",
+   "md_url": "/ur/seerah/reaching-midian-20180519-3.md"
   },
   {
    "slug": "the-departure-of-the-prophet-20180505-7",
