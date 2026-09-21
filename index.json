@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T02:36:22.729004+00:00",
+ "generated_at": "2026-09-21T02:37:24.520974+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6503,
+ "count": 6504,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -66649,6 +66649,17 @@
    "issue_date": "2018-05-05",
    "html_url": "/ur/fiqh/duties-and-rights-20180505-3.html",
    "md_url": "/ur/fiqh/duties-and-rights-20180505-3.md"
+  },
+  {
+   "slug": "embalming-the-dead-an-islamic-perspective-20180505-5",
+   "lang": "ur",
+   "category": "fiqh",
+   "title": "میت کی ایمبالمنگ: اسلامی نقطہ نظر",
+   "summary": "یہ مضمون اس اسلامی اصول پر مبنی ہے کہ انسانی جسم کا احترام موت کے بعد بھی برقرار رہنا چاہیے۔ اس میں بیرون ملک وفات پانے والوں کی میت کو وطن واپس لانے اور ایمبالمنگ (میت کو محفوظ کرنے) کے شرعی احکام کی وضاحت کی گئی ہے۔",
+   "author": "അഷ്‌റഫ് എകരൂല്‍",
+   "issue_date": "2018-05-05",
+   "html_url": "/ur/fiqh/embalming-the-dead-an-islamic-perspective-20180505-5.html",
+   "md_url": "/ur/fiqh/embalming-the-dead-an-islamic-perspective-20180505-5.md"
   },
   {
    "slug": "mosque-construction-some-points-to-note-20170325-5",
