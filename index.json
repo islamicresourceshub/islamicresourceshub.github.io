@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T04:33:28.754891+00:00",
+ "generated_at": "2026-09-21T04:34:23.389882+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6616,
+ "count": 6617,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -62623,6 +62623,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/te/story/grown-up-children-20170121-6.html",
    "md_url": "/te/story/grown-up-children-20170121-6.md"
+  },
+  {
+   "slug": "guardians-should-be-role-models-20180505-8",
+   "lang": "te",
+   "category": "story",
+   "title": "రక్షకులు ఆదర్శంగా నిలవాలి",
+   "summary": "ఒక గ్రామంలో నిధి కోసం తవ్విన యువకుడి కథ ద్వారా, పిల్లలకు తల్లిదండ్రులు ఎలా ఆదర్శంగా ఉండాలో ఈ వ్యాసం వివరిస్తుంది. లక్ష్యాన్ని చేరుకునే వరకు పట్టుదలతో ఉండటం మరియు పిల్లల పెంపకంలో ఇస్లామీయ మార్గదర్శకాలను పాటించడం ఎంత ముఖ్యమో ఇందులో చర్చించబడింది.",
+   "author": "സി.മുഹമ്മദ് റാഫി ചെമ്പ്ര",
+   "issue_date": "2018-05-05",
+   "html_url": "/te/story/guardians-should-be-role-models-20180505-8.html",
+   "md_url": "/te/story/guardians-should-be-role-models-20180505-8.md"
   },
   {
    "slug": "laws-are-to-be-followed-20170128-5",
