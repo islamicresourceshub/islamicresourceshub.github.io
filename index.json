@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T05:34:33.742311+00:00",
+ "generated_at": "2026-09-21T05:35:28.348404+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6679,
+ "count": 6680,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -24772,6 +24772,17 @@
    "issue_date": "2026-08-22",
    "html_url": "/kn/health/know-this-for-those-caring-for-the-sick-20260822-1.html",
    "md_url": "/kn/health/know-this-for-those-caring-for-the-sick-20260822-1.md"
+  },
+  {
+   "slug": "nutrients-for-thyroid-health-20180505-10",
+   "lang": "kn",
+   "category": "health",
+   "title": "ಥೈರಾಯ್ಡ್ ಆರೋಗ್ಯಕ್ಕೆ ಅಗತ್ಯವಾದ ಪೋಷಕಾಂಶಗಳು",
+   "summary": "ಥೈರಾಯ್ಡ್ ಗ್ರಂಥಿಯ ಕಾರ್ಯನಿರ್ವಹಣೆಗೆ ಸಹಕಾರಿಯಾಗುವ ಪೋಷಕಾಂಶಗಳ ಕುರಿತಾದ ಆರೋಗ್ಯ ಲೇಖನ. ಆಹಾರಕ್ರಮದ ಮೂಲಕ ಥೈರಾಯ್ಡ್ ಆರೋಗ್ಯವನ್ನು ಕಾಪಾಡಿಕೊಳ್ಳುವ ವಿಧಾನಗಳನ್ನು ಇಲ್ಲಿ ವಿವರಿಸಲಾಗಿದೆ.",
+   "author": "ഡോ. മുഹമ്മദ് കുട്ടി കണ്ണിയന്‍",
+   "issue_date": "2018-05-05",
+   "html_url": "/kn/health/nutrients-for-thyroid-health-20180505-10.html",
+   "md_url": "/kn/health/nutrients-for-thyroid-health-20180505-10.md"
   },
   {
    "slug": "thyroid-problems-20180428-10",
