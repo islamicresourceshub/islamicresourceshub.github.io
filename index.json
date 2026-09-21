@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T09:28:05.647598+00:00",
+ "generated_at": "2026-09-21T09:29:02.622763+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6867,
+ "count": 6868,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -15422,6 +15422,17 @@
    "issue_date": "2017-04-01",
    "html_url": "/fr/seerah/prophets-are-humans-20170401-10.html",
    "md_url": "/fr/seerah/prophets-are-humans-20170401-10.md"
+  },
+  {
+   "slug": "reaching-midian-20180519-3",
+   "lang": "fr",
+   "category": "seerah",
+   "title": "Arrivée à Madyan",
+   "summary": "Cet article retrace une étape cruciale de la vie du prophète Moussa (paix sur lui) : son voyage vers Madyan. Il décrit son arrivée au point d'eau, les scènes dont il a été témoin et les leçons tirées de cet épisode. Il s'agit de la cinquième partie de notre série sur l'histoire des prophètes.",
+   "author": "ഹുസൈന്‍ സലഫി, ഷാര്‍ജ",
+   "issue_date": "2018-05-19",
+   "html_url": "/fr/seerah/reaching-midian-20180519-3.html",
+   "md_url": "/fr/seerah/reaching-midian-20180519-3.md"
   },
   {
    "slug": "the-departure-of-the-prophet-20180505-7",
