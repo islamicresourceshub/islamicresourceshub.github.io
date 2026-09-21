@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T04:56:33.246682+00:00",
+ "generated_at": "2026-09-21T04:57:30.844994+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6640,
+ "count": 6641,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -24211,6 +24211,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/kn/dawah/the-message-of-equality-20170121-11.html",
    "md_url": "/kn/dawah/the-message-of-equality-20170121-11.md"
+  },
+  {
+   "slug": "the-month-of-sha-ban-and-baraat-20180505-9",
+   "lang": "kn",
+   "category": "dawah",
+   "title": "ಶಅ್ಬಾನ್ ತಿಂಗಳು ಮತ್ತು ಬರಾಅತ್",
+   "summary": "ಕೆಲವು ಕಾಲ ಮತ್ತು ಸ್ಥಳಗಳಿಗೆ ನೀಡಲಾದ ವಿಶೇಷ ಪವಿತ್ರತೆಯ ಕುರಿತಾದ ಲೇಖನ. ಶಅ್ಬಾನ್ ತಿಂಗಳು ಮತ್ತು ಬರಾಅತ್ ರಾತ್ರಿಯ ಮಹತ್ವ ಹಾಗೂ ಆಚರಣೆಗಳ ಬಗ್ಗೆ ಇಲ್ಲಿ ವಿವರಿಸಲಾಗಿದೆ.",
+   "author": "ശമീര്‍ മദീനി",
+   "issue_date": "2018-05-05",
+   "html_url": "/kn/dawah/the-month-of-sha-ban-and-baraat-20180505-9.html",
+   "md_url": "/kn/dawah/the-month-of-sha-ban-and-baraat-20180505-9.md"
   },
   {
    "slug": "the-path-to-peace-20170225-11",
