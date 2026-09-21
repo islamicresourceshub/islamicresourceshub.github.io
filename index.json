@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T11:09:19.906262+00:00",
+ "generated_at": "2026-09-21T11:10:17.648438+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6941,
+ "count": 6942,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -8877,6 +8877,17 @@
    "issue_date": "2018-04-28",
    "html_url": "/de/opinion/a-glance-into-laws-20180428-6.html",
    "md_url": "/de/opinion/a-glance-into-laws-20180428-6.md"
+  },
+  {
+   "slug": "against-public-nuisance-20180519-5",
+   "lang": "de",
+   "category": "opinion",
+   "title": "Gegen öffentliche Belästigung",
+   "summary": "Das indische Strafgesetzbuch definiert öffentliche Belästigung als eine Handlung, die der Allgemeinheit Gefahr oder Unannehmlichkeiten bereitet. Dieser Artikel erörtert rechtliche Maßnahmen gegen solche Störungen und betont die soziale Verantwortung sowie die Notwendigkeit, Frieden und Ordnung in der Gesellschaft aufrechtzuerhalten.",
+   "author": "മുസാഫിര്‍",
+   "issue_date": "2018-05-19",
+   "html_url": "/de/opinion/against-public-nuisance-20180519-5.html",
+   "md_url": "/de/opinion/against-public-nuisance-20180519-5.md"
   },
   {
    "slug": "alas-asifa-20180428-1",
