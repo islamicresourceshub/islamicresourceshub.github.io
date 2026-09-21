@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T09:35:00.113473+00:00",
+ "generated_at": "2026-09-21T09:36:03.022919+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6874,
+ "count": 6875,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -26257,6 +26257,17 @@
    "issue_date": "2017-04-01",
    "html_url": "/kn/seerah/prophets-are-humans-20170401-10.html",
    "md_url": "/kn/seerah/prophets-are-humans-20170401-10.md"
+  },
+  {
+   "slug": "reaching-midian-20180519-3",
+   "lang": "kn",
+   "category": "seerah",
+   "title": "ಮದ್ಯನ್ ತಲುಪುತ್ತಿದ್ದಾರೆ",
+   "summary": "ಮೂಸಾ ನಬಿ(ಅ) ಅವರ ಜೀವನದ ಪ್ರಮುಖ ಘಟ್ಟವಾದ ಮದ್ಯನ್ ಪಯಣದ ಕುರಿತಾದ ಲೇಖನವಿದು. ಮದ್ಯನ್‌ನ ಜಲಾಶಯದ ಬಳಿ ಅವರು ತಲುಪಿದಾಗ ಕಂಡ ದೃಶ್ಯಗಳು ಮತ್ತು ಅಲ್ಲಿ ನಡೆದ ಘಟನೆಗಳನ್ನು ಇಲ್ಲಿ ವಿವರಿಸಲಾಗಿದೆ. ಇದು ಪ್ರವಾದಿಗಳ ಇತಿಹಾಸ ಸರಣಿಯ ಐದನೇ ಭಾಗವಾಗಿದೆ.",
+   "author": "ഹുസൈന്‍ സലഫി, ഷാര്‍ജ",
+   "issue_date": "2018-05-19",
+   "html_url": "/kn/seerah/reaching-midian-20180519-3.html",
+   "md_url": "/kn/seerah/reaching-midian-20180519-3.md"
   },
   {
    "slug": "the-departure-of-the-prophet-20180505-7",
