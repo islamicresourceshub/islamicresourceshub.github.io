@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T04:18:59.575550+00:00",
+ "generated_at": "2026-09-21T04:19:53.725554+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6602,
+ "count": 6603,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -26521,6 +26521,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/ko/story/grown-up-children-20170121-6.html",
    "md_url": "/ko/story/grown-up-children-20170121-6.md"
+  },
+  {
+   "slug": "guardians-should-be-role-models-20180505-8",
+   "lang": "ko",
+   "category": "story",
+   "title": "부모가 모범이 되어야 합니다",
+   "summary": "보물을 찾기 위해 땅을 파던 청년의 이야기를 통해, 자녀 교육에 있어 부모가 먼저 모범을 보이는 것이 얼마나 중요한지 강조하는 글입니다. 자녀를 올바르게 인도하기 위한 부모의 역할과 책임에 대해 다룹니다.",
+   "author": "സി.മുഹമ്മദ് റാഫി ചെമ്പ്ര",
+   "issue_date": "2018-05-05",
+   "html_url": "/ko/story/guardians-should-be-role-models-20180505-8.html",
+   "md_url": "/ko/story/guardians-should-be-role-models-20180505-8.md"
   },
   {
    "slug": "laws-are-to-be-followed-20170128-5",
