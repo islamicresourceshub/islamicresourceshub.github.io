@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T09:31:04.872125+00:00",
+ "generated_at": "2026-09-21T09:32:04.731569+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6870,
+ "count": 6871,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -20064,6 +20064,17 @@
    "issue_date": "2017-04-01",
    "html_url": "/hi/seerah/prophets-are-humans-20170401-10.html",
    "md_url": "/hi/seerah/prophets-are-humans-20170401-10.md"
+  },
+  {
+   "slug": "reaching-midian-20180519-3",
+   "lang": "hi",
+   "category": "seerah",
+   "title": "मद्यन में आगमन",
+   "summary": "यह लेख मूसा (अ) के जीवन के एक महत्वपूर्ण पड़ाव, मद्यन की यात्रा के बारे में है। इसमें मद्यन के जलाशय पर उनके पहुँचने, वहाँ की परिस्थितियों और उनके द्वारा की गई सहायता का वर्णन किया गया है। यह पैगंबरों के इतिहास की श्रृंखला का पाँचवाँ भाग है।",
+   "author": "ഹുസൈന്‍ സലഫി, ഷാര്‍ജ",
+   "issue_date": "2018-05-19",
+   "html_url": "/hi/seerah/reaching-midian-20180519-3.html",
+   "md_url": "/hi/seerah/reaching-midian-20180519-3.md"
   },
   {
    "slug": "the-departure-of-the-prophet-20180505-7",
