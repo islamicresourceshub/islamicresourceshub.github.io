@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T11:39:21.351025+00:00",
+ "generated_at": "2026-09-21T11:40:14.419639+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6971,
+ "count": 6972,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -71467,6 +71467,17 @@
    "issue_date": "2018-04-28",
    "html_url": "/ur/opinion/a-glance-into-laws-20180428-6.html",
    "md_url": "/ur/opinion/a-glance-into-laws-20180428-6.md"
+  },
+  {
+   "slug": "against-public-nuisance-20180519-5",
+   "lang": "ur",
+   "category": "opinion",
+   "title": "عوامی مسائل اور ان کا تدارک",
+   "summary": "انڈین پینل کوڈ میں عوامی مسائل کی تعریف ان اقدامات کے طور پر کی گئی ہے جو عوام کے لیے خطرہ یا تکلیف کا باعث بنتے ہیں۔ یہ مضمون عوامی مسائل کے خلاف قانونی اقدامات اور سماجی ذمہ داریوں پر روشنی ڈالتا ہے، اور معاشرے میں امن و نظم برقرار رکھنے کی اہمیت پر زور دیتا ہے۔",
+   "author": "മുസാഫിര്‍",
+   "issue_date": "2018-05-19",
+   "html_url": "/ur/opinion/against-public-nuisance-20180519-5.html",
+   "md_url": "/ur/opinion/against-public-nuisance-20180519-5.md"
   },
   {
    "slug": "alas-asifa-20180428-1",
