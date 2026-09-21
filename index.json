@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T09:48:34.767486+00:00",
+ "generated_at": "2026-09-21T09:49:35.118656+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6887,
+ "count": 6888,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -61930,6 +61930,17 @@
    "issue_date": "2017-04-01",
    "html_url": "/sw/seerah/prophets-are-humans-20170401-10.html",
    "md_url": "/sw/seerah/prophets-are-humans-20170401-10.md"
+  },
+  {
+   "slug": "reaching-midian-20180519-3",
+   "lang": "sw",
+   "category": "seerah",
+   "title": "Kufika Madyan",
+   "summary": "Makala hii inahusu safari ya Nabii Musa (a.s) kuelekea Madyan, hatua muhimu katika maisha yake. Inasimulia jinsi alivyofika kwenye kisima cha maji na matukio yaliyomkuta huko, ikiwa ni sehemu ya tano ya mfululizo wa historia ya manabii.",
+   "author": "ഹുസൈന്‍ സലഫി, ഷാര്‍ജ",
+   "issue_date": "2018-05-19",
+   "html_url": "/sw/seerah/reaching-midian-20180519-3.html",
+   "md_url": "/sw/seerah/reaching-midian-20180519-3.md"
   },
   {
    "slug": "the-departure-of-the-prophet-20180505-7",
