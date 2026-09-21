@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T05:06:22.167298+00:00",
+ "generated_at": "2026-09-21T05:07:26.285287+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6650,
+ "count": 6651,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -54615,6 +54615,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/si/dawah/the-message-of-equality-20170121-11.html",
    "md_url": "/si/dawah/the-message-of-equality-20170121-11.md"
+  },
+  {
+   "slug": "the-month-of-sha-ban-and-baraat-20180505-9",
+   "lang": "si",
+   "category": "dawah",
+   "title": "ෂඃබාන් මාසය සහ බරාත් රාත්‍රිය",
+   "summary": "සමහර කාලසීමාවන්ට සහ ස්ථානයන්ට විශේෂිත වූ පූජනීයත්වයක් ලබා දී ඇති ආකාරය පිළිබඳ ලිපියකි. ෂඃබාන් මාසයේ සහ බරාත් රාත්‍රියේ වැදගත්කම සහ ඉස්ලාමීය දෘෂ්ටි කෝණයෙන් ඒවා පිළිපැදිය යුතු ආකාරය මෙහි විස්තර කෙරේ.",
+   "author": "ശമീര്‍ മദീനി",
+   "issue_date": "2018-05-05",
+   "html_url": "/si/dawah/the-month-of-sha-ban-and-baraat-20180505-9.html",
+   "md_url": "/si/dawah/the-month-of-sha-ban-and-baraat-20180505-9.md"
   },
   {
    "slug": "the-path-to-peace-20170225-11",
