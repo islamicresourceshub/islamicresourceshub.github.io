@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T02:40:39.420248+00:00",
+ "generated_at": "2026-09-21T02:41:46.479261+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6507,
+ "count": 6508,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -1408,6 +1408,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/am/seerah/can-prophethood-be-attained-by-desire-20170218-1.html",
    "md_url": "/am/seerah/can-prophethood-be-attained-by-desire-20170218-1.md"
+  },
+  {
+   "slug": "from-the-river-to-the-palace-part-2-20180505-6",
+   "lang": "am",
+   "category": "seerah",
+   "title": "ከወንዝ ወደ ቤተ መንግስት",
+   "summary": "የነቢዩ ሙሳ (ዐ.ሰ) የህይወት ታሪክ ሁለተኛ ክፍል፤ ከወንዝ ተወስደው ወደ ፈርዖን ቤተ መንግስት የገቡበትን ሁኔታ እና የቁርአናዊ ዳራውን ይዳስሳል።",
+   "author": "ഹുസൈന്‍ സലഫി, ഷാര്‍ജ",
+   "issue_date": "2018-05-05",
+   "html_url": "/am/seerah/from-the-river-to-the-palace-part-2-20180505-6.html",
+   "md_url": "/am/seerah/from-the-river-to-the-palace-part-2-20180505-6.md"
   },
   {
    "slug": "ibn-abbas-ra-a-scholar-of-knowledge-20170211-4",
