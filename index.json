@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T02:41:46.479261+00:00",
+ "generated_at": "2026-09-21T02:43:24.317132+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6508,
+ "count": 6509,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -2849,6 +2849,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/ar/seerah/can-prophethood-be-attained-by-desire-20170218-1.html",
    "md_url": "/ar/seerah/can-prophethood-be-attained-by-desire-20170218-1.md"
+  },
+  {
+   "slug": "from-the-river-to-the-palace-part-2-20180505-6",
+   "lang": "ar",
+   "category": "seerah",
+   "title": "من النهر إلى القصر",
+   "summary": "الجزء الثاني من حياة نبي الله موسى عليه السلام، حيث نستعرض الأحداث التي قادته من النهر إلى قصر فرعون، مع تسليط الضوء على الخلفية القرآنية لهذه القصة.",
+   "author": "ഹുസൈന്‍ സലഫി, ഷാര്‍ജ",
+   "issue_date": "2018-05-05",
+   "html_url": "/ar/seerah/from-the-river-to-the-palace-part-2-20180505-6.html",
+   "md_url": "/ar/seerah/from-the-river-to-the-palace-part-2-20180505-6.md"
   },
   {
    "slug": "ibn-abbas-ra-a-scholar-of-knowledge-20170211-4",
