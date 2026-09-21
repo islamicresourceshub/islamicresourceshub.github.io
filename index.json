@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T08:45:19.191629+00:00",
+ "generated_at": "2026-09-21T08:46:17.060819+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6829,
+ "count": 6830,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -15653,6 +15653,17 @@
    "issue_date": "2026-08-22",
    "html_url": "/gu/aqeedah/who-is-wrong-in-ideology-20260822-2.html",
    "md_url": "/gu/aqeedah/who-is-wrong-in-ideology-20260822-2.md"
+  },
+  {
+   "slug": "curb-extravagance-in-iftar-20180519-2",
+   "lang": "gu",
+   "category": "dawah",
+   "title": "ઇફ્તારમાં થતા અપવ્યય પર લગામ લગાવો",
+   "summary": "રમઝાનનો રોઝો એ ખાવા-પીવાની વસ્તુઓ અને શારીરિક ઈચ્છાઓથી દૂર રહેવાની એક ઈબાદત છે. આ લેખ ઇફ્તારના સમયે જોવા મળતા બિનજરૂરી ખર્ચ અને દેખાડા સામે અવાજ ઉઠાવે છે અને રમઝાનના આધ્યાત્મિક ઉદ્દેશ્યોને જાળવી રાખવા માટે કરકસરનું મહત્વ સમજાવે છે.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2018-05-19",
+   "html_url": "/gu/dawah/curb-extravagance-in-iftar-20180519-2.html",
+   "md_url": "/gu/dawah/curb-extravagance-in-iftar-20180519-2.md"
   },
   {
    "slug": "dawah-obligation-and-execution-20170401-9",
