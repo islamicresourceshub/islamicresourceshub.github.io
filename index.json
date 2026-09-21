@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T03:27:33.102408+00:00",
+ "generated_at": "2026-09-21T03:28:32.310739+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6552,
+ "count": 6553,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -10219,6 +10219,17 @@
    "issue_date": "2017-04-01",
    "html_url": "/en/seerah/prophets-are-humans-20170401-10.html",
    "md_url": "/en/seerah/prophets-are-humans-20170401-10.md"
+  },
+  {
+   "slug": "the-departure-of-the-prophet-20180505-7",
+   "lang": "en",
+   "category": "seerah",
+   "title": "The Departure of the Prophet",
+   "summary": "This article explores the conclusion of the Prophetic mission and the passing of Prophet Muhammad ﷺ. It analyzes the end of the chain of prophethood and the completion of the religion of Islam.",
+   "author": "സയ്യിദ് സഅ്ഫര്‍ സ്വാദിക്വ് മദീനി",
+   "issue_date": "2018-05-05",
+   "html_url": "/en/seerah/the-departure-of-the-prophet-20180505-7.html",
+   "md_url": "/en/seerah/the-departure-of-the-prophet-20180505-7.md"
   },
   {
    "slug": "a-good-death-20180428-5",
