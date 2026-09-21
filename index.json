@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T06:24:31.357491+00:00",
+ "generated_at": "2026-09-21T06:25:39.157998+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6731,
+ "count": 6732,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -60665,6 +60665,17 @@
    "issue_date": "2017-02-04",
    "html_url": "/sw/story/abdullah-s-mistake-20170204-1.html",
    "md_url": "/sw/story/abdullah-s-mistake-20170204-1.md"
+  },
+  {
+   "slug": "an-old-man-s-sorrows-20180505-12",
+   "lang": "sw",
+   "category": "story",
+   "title": "Huzuni za Mzee",
+   "summary": "Hadithi inayoanza katika mazingira ya wodi ya uzazi, ikionyesha huzuni za uzee na changamoto za mahusiano ya kifamilia. Ni simulizi ya kijamii inayochunguza maumivu ya ndani ya mama mmoja anayepata nafuu hospitalini ili kukwepa migogoro ya nyumbani.",
+   "author": "ഡോ. ജസീം അലി. എം",
+   "issue_date": "2018-05-05",
+   "html_url": "/sw/story/an-old-man-s-sorrows-20180505-12.html",
+   "md_url": "/sw/story/an-old-man-s-sorrows-20180505-12.md"
   },
   {
    "slug": "broken-hearts-20170218-11",
