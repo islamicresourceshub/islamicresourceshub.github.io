@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T11:56:55.012662+00:00",
+ "generated_at": "2026-09-21T11:57:55.475310+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6988,
+ "count": 6989,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -21032,6 +21032,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/id/dawah/solution-for-divisions-20170218-3.html",
    "md_url": "/id/dawah/solution-for-divisions-20170218-3.md"
+  },
+  {
+   "slug": "specialities-of-the-month-of-ramadan-20180519-6",
+   "lang": "id",
+   "category": "dawah",
+   "title": "Keutamaan Bulan Ramadan",
+   "summary": "Artikel ini menjelaskan keutamaan utama bulan Ramadan, termasuk sebagai bulan diturunkannya Al-Qur'an dan bulan diwajibkannya puasa. Artikel ini juga memberikan panduan bagi umat Islam tentang bagaimana memanfaatkan bulan suci ini dengan sebaik-baiknya.",
+   "author": "അബ്ദുല്ലത്വീഫ് സുല്ലമി മാറഞ്ചേരി",
+   "issue_date": "2018-05-19",
+   "html_url": "/id/dawah/specialities-of-the-month-of-ramadan-20180519-6.html",
+   "md_url": "/id/dawah/specialities-of-the-month-of-ramadan-20180519-6.md"
   },
   {
    "slug": "stand-tall-20170121-8",
