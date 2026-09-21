@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T06:15:58.525939+00:00",
+ "generated_at": "2026-09-21T06:17:41.249898+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6723,
+ "count": 6724,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -48675,6 +48675,17 @@
    "issue_date": "2017-02-11",
    "html_url": "/or/story/allah-is-watching-20170211-3.html",
    "md_url": "/or/story/allah-is-watching-20170211-3.md"
+  },
+  {
+   "slug": "an-old-man-s-sorrows-20180505-12",
+   "lang": "or",
+   "category": "story",
+   "title": "ବୃଦ୍ଧାଙ୍କ ବେଦନା",
+   "summary": "ଏହି କାହାଣୀଟି ଏକ ପ୍ରସୂତି ବିଭାଗର ପୃଷ୍ଠଭୂମିରେ ଆଧାରିତ, ଯେଉଁଠାରେ ଜଣେ ବୃଦ୍ଧାଙ୍କ ଶାରୀରିକ ଯନ୍ତ୍ରଣା ସହିତ ପାରିବାରିକ ଅବହେଳାର କରୁଣ ଚିତ୍ର ପ୍ରକାଶ ପାଇଛି। ବୃଦ୍ଧାବସ୍ଥାର ଏକାକୀତ୍ୱ ଓ ସମ୍ପର୍କର ଜଟିଳତାକୁ ଏହି କାହାଣୀଟି ବେଶ୍ ହୃଦୟସ୍ପର୍ଶୀ ଭାବେ ବର୍ଣ୍ଣନା କରେ।",
+   "author": "ഡോ. ജസീം അലി. എം",
+   "issue_date": "2018-05-05",
+   "html_url": "/or/story/an-old-man-s-sorrows-20180505-12.html",
+   "md_url": "/or/story/an-old-man-s-sorrows-20180505-12.md"
   },
   {
    "slug": "broken-hearts-20170218-11",
