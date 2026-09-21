@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T05:29:12.095210+00:00",
+ "generated_at": "2026-09-21T05:30:03.769145+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6673,
+ "count": 6674,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -15818,6 +15818,17 @@
    "issue_date": "2026-08-22",
    "html_url": "/gu/health/know-this-for-those-caring-for-the-sick-20260822-1.html",
    "md_url": "/gu/health/know-this-for-those-caring-for-the-sick-20260822-1.md"
+  },
+  {
+   "slug": "nutrients-for-thyroid-health-20180505-10",
+   "lang": "gu",
+   "category": "health",
+   "title": "થાયરોઇડના સ્વાસ્થ્ય માટે પોષક તત્વો",
+   "summary": "આ આરોગ્ય લેખ થાયરોઇડ ગ્રંથિના કાર્યમાં મદદરૂપ થતા પોષક તત્વો વિશે માહિતી આપે છે. આહાર દ્વારા થાયરોઇડનું સ્વાસ્થ્ય જાળવી રાખવાના ઉપાયો અહીં સમજાવવામાં આવ્યા છે.",
+   "author": "ഡോ. മുഹമ്മദ് കുട്ടി കണ്ണിയന്‍",
+   "issue_date": "2018-05-05",
+   "html_url": "/gu/health/nutrients-for-thyroid-health-20180505-10.html",
+   "md_url": "/gu/health/nutrients-for-thyroid-health-20180505-10.md"
   },
   {
    "slug": "thyroid-problems-20180428-10",
