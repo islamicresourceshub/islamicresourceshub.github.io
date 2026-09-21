@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T03:20:06.410325+00:00",
+ "generated_at": "2026-09-21T03:21:13.340882+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6546,
+ "count": 6547,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -1474,6 +1474,17 @@
    "issue_date": "2017-04-01",
    "html_url": "/am/seerah/prophets-are-humans-20170401-10.html",
    "md_url": "/am/seerah/prophets-are-humans-20170401-10.md"
+  },
+  {
+   "slug": "the-departure-of-the-prophet-20180505-7",
+   "lang": "am",
+   "category": "seerah",
+   "title": "የነቢዩ ﷺ ህልፈት",
+   "summary": "ይህ ጽሑፍ የነቢዩ ሙሐመድ ﷺ የነቢይነት ዘመን መጠናቀቅን እና የሕይወታቸውን የመጨረሻ ጊዜያት ይዳስሳል። የነቢይነት ሰንሰለት መቋረጥን እና የእስልምናን ፍጹምነት በቁርአንና በሐዲሥ ማስረጃዎች ያብራራል።",
+   "author": "സയ്യിദ് സഅ്ഫര്‍ സ്വാദിക്വ് മദീനി",
+   "issue_date": "2018-05-05",
+   "html_url": "/am/seerah/the-departure-of-the-prophet-20180505-7.html",
+   "md_url": "/am/seerah/the-departure-of-the-prophet-20180505-7.md"
   },
   {
    "slug": "a-good-death-20180428-5",
