@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T08:20:47.973129+00:00",
+ "generated_at": "2026-09-21T08:21:46.411474+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6804,
+ "count": 6805,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -53526,6 +53526,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/pt/opinion/who-should-leave-india-20170121-1.html",
    "md_url": "/pt/opinion/who-should-leave-india-20170121-1.md"
+  },
+  {
+   "slug": "al-bayyinah-the-clear-proof-20180519-1",
+   "lang": "pt",
+   "category": "quran",
+   "title": "Al-Bayyinah (A Prova Clara)",
+   "summary": "Esta é uma explicação do capítulo 98 do Alcorão, intitulado Al-Bayyinah. O capítulo descreve como os descrentes e os politeístas não abandonariam suas posições até que uma prova clara lhes fosse apresentada, e este artigo detalha os versículos iniciais desta surata.",
+   "author": "അബ്ദുറഹ്മാന്‍ നാസിര്‍ അസ്സഅദി",
+   "issue_date": "2018-05-19",
+   "html_url": "/pt/quran/al-bayyinah-the-clear-proof-20180519-1.html",
+   "md_url": "/pt/quran/al-bayyinah-the-clear-proof-20180519-1.md"
   },
   {
    "slug": "praise-be-to-the-lord-of-the-worlds-20170325-9",
