@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T05:38:59.922672+00:00",
+ "generated_at": "2026-09-21T05:39:55.308817+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6684,
+ "count": 6685,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -47817,6 +47817,17 @@
    "issue_date": "2026-08-22",
    "html_url": "/or/health/know-this-for-those-caring-for-the-sick-20260822-1.html",
    "md_url": "/or/health/know-this-for-those-caring-for-the-sick-20260822-1.md"
+  },
+  {
+   "slug": "nutrients-for-thyroid-health-20180505-10",
+   "lang": "or",
+   "category": "health",
+   "title": "ଥାଇରଏଡ୍ ସ୍ୱାସ୍ଥ୍ୟ ପାଇଁ ପୋଷକ ତତ୍ତ୍ୱ",
+   "summary": "ଥାଇରଏଡ୍ ଗ୍ରନ୍ଥିର କାର୍ଯ୍ୟକଳାପରେ ସହାୟକ ହେଉଥିବା ପୋଷକ ତତ୍ତ୍ୱଗୁଡ଼ିକ ବିଷୟରେ ଏକ ସ୍ୱାସ୍ଥ୍ୟ ସମ୍ବନ୍ଧୀୟ ଲେଖା। ଖାଦ୍ୟପେୟ ମାଧ୍ୟମରେ ଥାଇରଏଡ୍ ସ୍ୱାସ୍ଥ୍ୟକୁ କିପରି ବଜାୟ ରଖିବେ, ତାହା ଏଥିରେ ବିସ୍ତୃତ ଭାବେ ବର୍ଣ୍ଣନା କରାଯାଇଛି।",
+   "author": "ഡോ. മുഹമ്മദ് കുട്ടി കണ്ണിയന്‍",
+   "issue_date": "2018-05-05",
+   "html_url": "/or/health/nutrients-for-thyroid-health-20180505-10.html",
+   "md_url": "/or/health/nutrients-for-thyroid-health-20180505-10.md"
   },
   {
    "slug": "thyroid-problems-20180428-10",
