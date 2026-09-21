@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T11:20:31.000600+00:00",
+ "generated_at": "2026-09-21T11:21:28.691717+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6953,
+ "count": 6954,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -27687,6 +27687,17 @@
    "issue_date": "2018-04-28",
    "html_url": "/ko/opinion/a-glance-into-laws-20180428-6.html",
    "md_url": "/ko/opinion/a-glance-into-laws-20180428-6.md"
+  },
+  {
+   "slug": "against-public-nuisance-20180519-5",
+   "lang": "ko",
+   "category": "opinion",
+   "title": "공공의 불편을 해소하기 위하여",
+   "summary": "인도 형법은 공공의 안전을 위협하거나 불편을 초래하는 행위를 공공의 방해로 정의합니다. 이 글은 공공의 방해에 대한 법적 정의와 사회적 책임, 그리고 평화로운 공동체를 유지하기 위한 법적 대응 방안을 다룹니다.",
+   "author": "മുസാഫിര്‍",
+   "issue_date": "2018-05-19",
+   "html_url": "/ko/opinion/against-public-nuisance-20180519-5.html",
+   "md_url": "/ko/opinion/against-public-nuisance-20180519-5.md"
   },
   {
    "slug": "alas-asifa-20180428-1",
