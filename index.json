@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T11:15:07.618529+00:00",
+ "generated_at": "2026-09-21T11:16:07.695042+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6947,
+ "count": 6948,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -18282,6 +18282,17 @@
    "issue_date": "2018-04-28",
    "html_url": "/ha/opinion/a-glance-into-laws-20180428-6.html",
    "md_url": "/ha/opinion/a-glance-into-laws-20180428-6.md"
+  },
+  {
+   "slug": "against-public-nuisance-20180519-5",
+   "lang": "ha",
+   "category": "opinion",
+   "title": "Game da Matsalar Jama'a",
+   "summary": "Kundin Dokar Indiya ya bayyana matsalar jama'a a matsayin duk wani aiki da ke haifar da haɗari ko damuwa ga al'umma. Wannan labarin yana tattauna matakan doka da nauyin da ya rataya a wuyan al'umma wajen kiyaye zaman lafiya da tsari.",
+   "author": "മുസാഫിര്‍",
+   "issue_date": "2018-05-19",
+   "html_url": "/ha/opinion/against-public-nuisance-20180519-5.html",
+   "md_url": "/ha/opinion/against-public-nuisance-20180519-5.md"
   },
   {
    "slug": "alas-asifa-20180428-1",
