@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T11:38:27.128638+00:00",
+ "generated_at": "2026-09-21T11:39:21.351025+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6970,
+ "count": 6971,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -69894,6 +69894,17 @@
    "issue_date": "2018-04-28",
    "html_url": "/tr/opinion/a-glance-into-laws-20180428-6.html",
    "md_url": "/tr/opinion/a-glance-into-laws-20180428-6.md"
+  },
+  {
+   "slug": "against-public-nuisance-20180519-5",
+   "lang": "tr",
+   "category": "opinion",
+   "title": "Kamu Rahatsızlığına Karşı",
+   "summary": "Hint Ceza Kanunu, kamu rahatsızlığını halk için tehlike veya sıkıntı oluşturan bir eylem olarak tanımlar. Bu makale, kamu rahatsızlıklarına karşı yasal önlemleri ve toplumsal sorumluluk bilincini ele alarak, toplumda huzur ve düzeni korumanın önemini vurgulamaktadır.",
+   "author": "മുസാഫിര്‍",
+   "issue_date": "2018-05-19",
+   "html_url": "/tr/opinion/against-public-nuisance-20180519-5.html",
+   "md_url": "/tr/opinion/against-public-nuisance-20180519-5.md"
   },
   {
    "slug": "alas-asifa-20180428-1",
