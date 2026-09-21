@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T05:00:26.514551+00:00",
+ "generated_at": "2026-09-21T05:01:26.969396+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6644,
+ "count": 6645,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -45727,6 +45727,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/ne/dawah/the-message-of-equality-20170121-11.html",
    "md_url": "/ne/dawah/the-message-of-equality-20170121-11.md"
+  },
+  {
+   "slug": "the-month-of-sha-ban-and-baraat-20180505-9",
+   "lang": "ne",
+   "category": "dawah",
+   "title": "शअबान महिना र बरात",
+   "summary": "केही समय र स्थानहरूलाई विशेष पवित्रता प्रदान गरिएको छ भन्ने विषयमा यो लेख केन्द्रित छ। यसमा शअबान महिना र बरातको रातको महत्त्व तथा त्यससँग सम्बन्धित गलत धारणाहरूको बारेमा स्पष्ट पारिएको छ।",
+   "author": "ശമീര്‍ മദീനി",
+   "issue_date": "2018-05-05",
+   "html_url": "/ne/dawah/the-month-of-sha-ban-and-baraat-20180505-9.html",
+   "md_url": "/ne/dawah/the-month-of-sha-ban-and-baraat-20180505-9.md"
   },
   {
    "slug": "the-path-to-peace-20170225-11",
