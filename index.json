@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T06:09:14.865283+00:00",
+ "generated_at": "2026-09-21T06:10:11.031886+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6716,
+ "count": 6717,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -22561,6 +22561,17 @@
    "issue_date": "2017-02-11",
    "html_url": "/it/story/allah-is-watching-20170211-3.html",
    "md_url": "/it/story/allah-is-watching-20170211-3.md"
+  },
+  {
+   "slug": "an-old-man-s-sorrows-20180505-12",
+   "lang": "it",
+   "category": "story",
+   "title": "I dolori di un'anziana",
+   "summary": "Una storia che inizia sullo sfondo della seconda fase del travaglio, esplorando i dolori della vecchiaia e le sofferenze nascoste nelle dinamiche familiari. Un racconto sociale che mette in luce la solitudine e la resilienza di una madre tra le mura di un ospedale.",
+   "author": "ഡോ. ജസീം അലി. എം",
+   "issue_date": "2018-05-05",
+   "html_url": "/it/story/an-old-man-s-sorrows-20180505-12.html",
+   "md_url": "/it/story/an-old-man-s-sorrows-20180505-12.md"
   },
   {
    "slug": "broken-hearts-20170218-11",
