@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T08:06:23.622798+00:00",
+ "generated_at": "2026-09-21T08:07:19.584776+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6789,
+ "count": 6790,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -15070,6 +15070,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/fr/opinion/who-should-leave-india-20170121-1.html",
    "md_url": "/fr/opinion/who-should-leave-india-20170121-1.md"
+  },
+  {
+   "slug": "al-bayyinah-the-clear-proof-20180519-1",
+   "lang": "fr",
+   "category": "quran",
+   "title": "Al-Bayyinah (La preuve évidente)",
+   "summary": "Ceci est une explication du 98e chapitre du Coran, Al-Bayyinah. Ce chapitre souligne que les mécréants et les polythéistes ne se seraient pas détournés de leur égarement sans l'arrivée d'une preuve manifeste, et cet article propose un commentaire des premiers versets de cette sourate.",
+   "author": "അബ്ദുറഹ്മാന്‍ നാസിര്‍ അസ്സഅദി",
+   "issue_date": "2018-05-19",
+   "html_url": "/fr/quran/al-bayyinah-the-clear-proof-20180519-1.html",
+   "md_url": "/fr/quran/al-bayyinah-the-clear-proof-20180519-1.md"
   },
   {
    "slug": "praise-be-to-the-lord-of-the-worlds-20170325-9",
