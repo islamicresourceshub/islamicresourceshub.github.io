@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T10:50:18.128669+00:00",
+ "generated_at": "2026-09-21T10:51:26.566578+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6924,
+ "count": 6925,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -58498,6 +58498,17 @@
    "issue_date": "2018-05-05",
    "html_url": "/so/fiqh/embalming-the-dead-an-islamic-perspective-20180505-5.html",
    "md_url": "/so/fiqh/embalming-the-dead-an-islamic-perspective-20180505-5.md"
+  },
+  {
+   "slug": "fasting-and-smoking-20180519-4",
+   "lang": "so",
+   "category": "fiqh",
+   "title": "Soonka iyo sigaar cabista",
+   "summary": "Soonku waa cibaado sharaf leh oo lagu gaaro cabsida Alle iyo dhaqan wanaag. Maqaalkani wuxuu ka hadlayaa xiriirka ka dhexeeya soonka iyo sigaar cabista, isagoo sharxaya xurmada soonka iyo dhibaatada sigaarka marka loo eego dhinaca Islaamka.",
+   "author": "ഹംസ ജമാലി",
+   "issue_date": "2018-05-19",
+   "html_url": "/so/fiqh/fasting-and-smoking-20180519-4.html",
+   "md_url": "/so/fiqh/fasting-and-smoking-20180519-4.md"
   },
   {
    "slug": "mosque-construction-some-points-to-note-20170325-5",
