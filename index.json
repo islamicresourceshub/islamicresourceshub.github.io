@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-20T15:32:50.827257+00:00",
+ "generated_at": "2026-09-21T02:26:41.037638+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6494,
+ "count": 6495,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -53779,6 +53779,17 @@
    "issue_date": "2018-05-05",
    "html_url": "/si/fiqh/duties-and-rights-20180505-3.html",
    "md_url": "/si/fiqh/duties-and-rights-20180505-3.md"
+  },
+  {
+   "slug": "embalming-the-dead-an-islamic-perspective-20180505-5",
+   "lang": "si",
+   "category": "fiqh",
+   "title": "මෘතදේහ එම්බාම් කිරීම: ඉස්ලාමීය දෘෂ්ටිකෝණය",
+   "summary": "මරණයෙන් පසුවද මිනිස් සිරුරට ගෞරවය දැක්විය යුතු බවට වන ඉස්ලාමීය මූලධර්මය මත පදනම් වූ ලිපියකි. දුර බැහැර ප්‍රදේශයකදී මියයන අයෙකුගේ මෘතදේහය මව්බිමට රැගෙන ඒම සහ එම්බාම් කිරීම සම්බන්ධයෙන් ඉස්ලාමීය නීතිමය විධිවිධාන මෙහි විස්තර කෙරේ.",
+   "author": "അഷ്‌റഫ് എകരൂല്‍",
+   "issue_date": "2018-05-05",
+   "html_url": "/si/fiqh/embalming-the-dead-an-islamic-perspective-20180505-5.html",
+   "md_url": "/si/fiqh/embalming-the-dead-an-islamic-perspective-20180505-5.md"
   },
   {
    "slug": "mosque-construction-some-points-to-note-20170325-5",
