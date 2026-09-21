@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T08:32:24.978828+00:00",
+ "generated_at": "2026-09-21T08:33:26.421967+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6815,
+ "count": 6816,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -70246,6 +70246,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/ur/opinion/who-should-leave-india-20170121-1.html",
    "md_url": "/ur/opinion/who-should-leave-india-20170121-1.md"
+  },
+  {
+   "slug": "al-bayyinah-the-clear-proof-20180519-1",
+   "lang": "ur",
+   "category": "quran",
+   "title": "البینہ (واضح دلیل)",
+   "summary": "یہ سورۃ البینہ (98) کی تفسیر ہے۔ اس سورۃ میں بیان کیا گیا ہے کہ اہل کتاب اور مشرکین اس وقت تک اپنے کفر پر قائم رہے جب تک ان کے پاس واضح دلیل نہیں آ گئی۔ یہ مضمون اس سورۃ کی ابتدائی آیات کی تشریح پر مشتمل ہے۔",
+   "author": "അബ്ദുറഹ്മാന്‍ നാസിര്‍ അസ്സഅദി",
+   "issue_date": "2018-05-19",
+   "html_url": "/ur/quran/al-bayyinah-the-clear-proof-20180519-1.html",
+   "md_url": "/ur/quran/al-bayyinah-the-clear-proof-20180519-1.md"
   },
   {
    "slug": "praise-be-to-the-lord-of-the-worlds-20170325-9",
