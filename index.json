@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T03:35:04.375154+00:00",
+ "generated_at": "2026-09-21T03:36:07.077519+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6558,
+ "count": 6559,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -18964,6 +18964,17 @@
    "issue_date": "2017-04-01",
    "html_url": "/hi/seerah/prophets-are-humans-20170401-10.html",
    "md_url": "/hi/seerah/prophets-are-humans-20170401-10.md"
+  },
+  {
+   "slug": "the-departure-of-the-prophet-20180505-7",
+   "lang": "hi",
+   "category": "seerah",
+   "title": "पैगंबर मुहम्मद ﷺ का वफ़ात (निधन)",
+   "summary": "यह लेख पैगंबर मुहम्मद ﷺ के अंतिम समय, उनके वफ़ात और उस दौरान घटी घटनाओं का विश्लेषण करता है। इसमें नबी ﷺ के मिशन की पूर्णता और उनके अंतिम दिनों के महत्वपूर्ण विवरणों को कुरान और हदीस के आलोक में प्रस्तुत किया गया है।",
+   "author": "സയ്യിദ് സഅ്ഫര്‍ സ്വാദിക്വ് മദീനി",
+   "issue_date": "2018-05-05",
+   "html_url": "/hi/seerah/the-departure-of-the-prophet-20180505-7.html",
+   "md_url": "/hi/seerah/the-departure-of-the-prophet-20180505-7.md"
   },
   {
    "slug": "a-good-death-20180428-5",
