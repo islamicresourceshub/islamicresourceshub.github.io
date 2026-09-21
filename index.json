@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T09:34:01.158669+00:00",
+ "generated_at": "2026-09-21T09:35:00.113473+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6873,
+ "count": 6874,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -24706,6 +24706,17 @@
    "issue_date": "2017-04-01",
    "html_url": "/ja/seerah/prophets-are-humans-20170401-10.html",
    "md_url": "/ja/seerah/prophets-are-humans-20170401-10.md"
+  },
+  {
+   "slug": "reaching-midian-20180519-3",
+   "lang": "ja",
+   "category": "seerah",
+   "title": "マドヤンへの到着",
+   "summary": "預言者ムーサー（彼に平安あれ）の生涯における重要な転換点であるマドヤンへの旅路と、そこで彼が経験した出来事について解説します。これは預言者たちの歴史シリーズの第5部です。",
+   "author": "ഹുസൈന്‍ സലഫി, ഷാര്‍ജ",
+   "issue_date": "2018-05-19",
+   "html_url": "/ja/seerah/reaching-midian-20180519-3.html",
+   "md_url": "/ja/seerah/reaching-midian-20180519-3.md"
   },
   {
    "slug": "the-departure-of-the-prophet-20180505-7",
