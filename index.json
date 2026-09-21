@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T11:00:10.355804+00:00",
+ "generated_at": "2026-09-21T11:01:12.337388+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6932,
+ "count": 6933,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -70917,6 +70917,17 @@
    "issue_date": "2018-05-05",
    "html_url": "/ur/fiqh/embalming-the-dead-an-islamic-perspective-20180505-5.html",
    "md_url": "/ur/fiqh/embalming-the-dead-an-islamic-perspective-20180505-5.md"
+  },
+  {
+   "slug": "fasting-and-smoking-20180519-4",
+   "lang": "ur",
+   "category": "fiqh",
+   "title": "روزہ اور تمباکو نوشی",
+   "summary": "روزہ تقویٰ اور بہترین اخلاق حاصل کرنے کی ایک عظیم عبادت ہے۔ یہ مضمون روزہ اور تمباکو نوشی کے مابین تعلق پر بحث کرتا ہے اور اسلامی نقطہ نظر سے روزے کے تقدس اور تمباکو نوشی کے نقصانات کو واضح کرتا ہے۔",
+   "author": "ഹംസ ജമാലി",
+   "issue_date": "2018-05-19",
+   "html_url": "/ur/fiqh/fasting-and-smoking-20180519-4.html",
+   "md_url": "/ur/fiqh/fasting-and-smoking-20180519-4.md"
   },
   {
    "slug": "mosque-construction-some-points-to-note-20170325-5",
