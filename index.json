@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T09:20:32.210571+00:00",
+ "generated_at": "2026-09-21T09:21:38.215684+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6860,
+ "count": 6861,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -4609,6 +4609,17 @@
    "issue_date": "2017-04-01",
    "html_url": "/as/seerah/prophets-are-humans-20170401-10.html",
    "md_url": "/as/seerah/prophets-are-humans-20170401-10.md"
+  },
+  {
+   "slug": "reaching-midian-20180519-3",
+   "lang": "as",
+   "category": "seerah",
+   "title": "মাদিয়ানত উপস্থিত",
+   "summary": "এই প্ৰবন্ধটো মুছানবী (আঃ)-ৰ জীৱনৰ এক গুৰুত্বপূৰ্ণ পৰ্যায় মাদিয়ানলৈ কৰা যাত্ৰাৰ বিষয়ে। ইয়াত তেওঁ মাদিয়ানৰ জলাশয়ত উপস্থিত হোৱা আৰু তাত দেখা দৃশ্যসমূহ বৰ্ণনা কৰা হৈছে। এয়া নবীসকলৰ ইতিহাস শৃংখলাৰ পঞ্চম খণ্ড।",
+   "author": "ഹുസൈന്‍ സലഫി, ഷാര്‍ജ",
+   "issue_date": "2018-05-19",
+   "html_url": "/as/seerah/reaching-midian-20180519-3.html",
+   "md_url": "/as/seerah/reaching-midian-20180519-3.md"
   },
   {
    "slug": "the-departure-of-the-prophet-20180505-7",
