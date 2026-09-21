@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T05:30:03.769145+00:00",
+ "generated_at": "2026-09-21T05:30:59.654095+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6674,
+ "count": 6675,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -17314,6 +17314,17 @@
    "issue_date": "2026-08-22",
    "html_url": "/ha/health/know-this-for-those-caring-for-the-sick-20260822-1.html",
    "md_url": "/ha/health/know-this-for-those-caring-for-the-sick-20260822-1.md"
+  },
+  {
+   "slug": "nutrients-for-thyroid-health-20180505-10",
+   "lang": "ha",
+   "category": "health",
+   "title": "Abubuwan gina jiki don lafiyar garkuwar thyroid",
+   "summary": "Wannan labarin lafiya yana bayyana muhimman abubuwan gina jiki da ke taimakawa wajen gudanar da aikin garkuwar thyroid. Ya kuma yi bayani kan yadda za a kiyaye lafiyar thyroid ta hanyar tsarin abinci.",
+   "author": "ഡോ. മുഹമ്മദ് കുട്ടി കണ്ണിയന്‍",
+   "issue_date": "2018-05-05",
+   "html_url": "/ha/health/nutrients-for-thyroid-health-20180505-10.html",
+   "md_url": "/ha/health/nutrients-for-thyroid-health-20180505-10.md"
   },
   {
    "slug": "thyroid-problems-20180428-10",
