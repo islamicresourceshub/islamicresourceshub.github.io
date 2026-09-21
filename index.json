@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T05:52:23.647304+00:00",
+ "generated_at": "2026-09-21T05:53:17.027280+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6699,
+ "count": 6700,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -70147,6 +70147,17 @@
    "issue_date": "2026-08-22",
    "html_url": "/uz/health/know-this-for-those-caring-for-the-sick-20260822-1.html",
    "md_url": "/uz/health/know-this-for-those-caring-for-the-sick-20260822-1.md"
+  },
+  {
+   "slug": "nutrients-for-thyroid-health-20180505-10",
+   "lang": "uz",
+   "category": "health",
+   "title": "Qalqonsimon bez salomatligi uchun ozuqa moddalari",
+   "summary": "Ushbu sog'liqqa oid maqolada qalqonsimon bez faoliyatini qo'llab-quvvatlovchi muhim ozuqa moddalari haqida so'z boradi. Unda to'g'ri ovqatlanish orqali qalqonsimon bez sog'lig'ini qanday saqlash mumkinligi batafsil tushuntirilgan.",
+   "author": "ഡോ. മുഹമ്മദ് കുട്ടി കണ്ണിയന്‍",
+   "issue_date": "2018-05-05",
+   "html_url": "/uz/health/nutrients-for-thyroid-health-20180505-10.html",
+   "md_url": "/uz/health/nutrients-for-thyroid-health-20180505-10.md"
   },
   {
    "slug": "thyroid-problems-20180428-10",
