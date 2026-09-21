@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T09:43:27.591901+00:00",
+ "generated_at": "2026-09-21T09:44:30.148598+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6882,
+ "count": 6883,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -54219,6 +54219,17 @@
    "issue_date": "2017-04-01",
    "html_url": "/pt/seerah/prophets-are-humans-20170401-10.html",
    "md_url": "/pt/seerah/prophets-are-humans-20170401-10.md"
+  },
+  {
+   "slug": "reaching-midian-20180519-3",
+   "lang": "pt",
+   "category": "seerah",
+   "title": "Chegando a Madyan",
+   "summary": "Este artigo aborda uma etapa crucial na vida do Profeta Musa (que a paz esteja com ele): sua jornada até Madyan. Ele descreve sua chegada ao poço, o encontro com as duas mulheres e o início de sua nova vida. Esta é a quinta parte da série sobre a história dos profetas.",
+   "author": "ഹുസൈന്‍ സലഫി, ഷാര്‍ജ",
+   "issue_date": "2018-05-19",
+   "html_url": "/pt/seerah/reaching-midian-20180519-3.html",
+   "md_url": "/pt/seerah/reaching-midian-20180519-3.md"
   },
   {
    "slug": "the-departure-of-the-prophet-20180505-7",
