@@ -117,7 +117,8 @@ INDEX_TMPL = """<!doctype html>
 
 class SiteGen:
     def __init__(self, cfg: Config):
-        self.site = cfg.root / "site"
+        site_dir = cfg.root / "site"
+        self.site = site_dir if site_dir.is_dir() else cfg.root
 
     # ------------------------------------------------------------- repo ----
     def ensure_repo(self, cfg: Config):

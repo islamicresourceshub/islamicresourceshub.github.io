@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T10:56:03.426973+00:00",
+ "generated_at": "2026-09-21T10:57:08.067940+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6928,
+ "count": 6929,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -64669,6 +64669,17 @@
    "issue_date": "2018-05-05",
    "html_url": "/te/fiqh/embalming-the-dead-an-islamic-perspective-20180505-5.html",
    "md_url": "/te/fiqh/embalming-the-dead-an-islamic-perspective-20180505-5.md"
+  },
+  {
+   "slug": "fasting-and-smoking-20180519-4",
+   "lang": "te",
+   "category": "fiqh",
+   "title": "నోము మరియు ధూమపానం",
+   "summary": "నోము అనేది భయభక్తులను మరియు ఉత్తమమైన సంస్కారాన్ని పెంపొందించుకోవడానికి ఒక గొప్ప ఆరాధన. ఈ వ్యాసం నోము యొక్క పవిత్రతను మరియు ధూమపానం వల్ల కలిగే అనర్థాలను ఇస్లామీయ దృక్పథంలో వివరిస్తూ, ధూమపానాన్ని ఎలా మానుకోవాలో తెలియజేస్తుంది.",
+   "author": "ഹംസ ജമാലി",
+   "issue_date": "2018-05-19",
+   "html_url": "/te/fiqh/fasting-and-smoking-20180519-4.html",
+   "md_url": "/te/fiqh/fasting-and-smoking-20180519-4.md"
   },
   {
    "slug": "mosque-construction-some-points-to-note-20170325-5",
