@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T09:51:41.280398+00:00",
+ "generated_at": "2026-09-21T09:52:39.813543+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6890,
+ "count": 6891,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -66528,6 +66528,17 @@
    "issue_date": "2017-04-01",
    "html_url": "/th/seerah/prophets-are-humans-20170401-10.html",
    "md_url": "/th/seerah/prophets-are-humans-20170401-10.md"
+  },
+  {
+   "slug": "reaching-midian-20180519-3",
+   "lang": "th",
+   "category": "seerah",
+   "title": "การมาถึงมัดยัน",
+   "summary": "บทความนี้กล่าวถึงการเดินทางสู่มัดยัน ซึ่งเป็นช่วงเวลาสำคัญในชีวิตของท่านนบีมูซา (อ.) โดยบรรยายถึงเหตุการณ์ที่ท่านได้พบกับแหล่งน้ำและช่วยเหลือหญิงสาวสองคนในการต้อนสัตว์ นี่เป็นตอนที่ 5 ของชุดประวัติศาสตร์บรรดานบี",
+   "author": "ഹുസൈന്‍ സലഫി, ഷാര്‍ജ",
+   "issue_date": "2018-05-19",
+   "html_url": "/th/seerah/reaching-midian-20180519-3.html",
+   "md_url": "/th/seerah/reaching-midian-20180519-3.md"
   },
   {
    "slug": "the-departure-of-the-prophet-20180505-7",
