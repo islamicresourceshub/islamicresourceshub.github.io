@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T03:54:38.037234+00:00",
+ "generated_at": "2026-09-21T03:55:42.594448+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6577,
+ "count": 6578,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -62205,6 +62205,17 @@
    "issue_date": "2017-04-01",
    "html_url": "/te/seerah/prophets-are-humans-20170401-10.html",
    "md_url": "/te/seerah/prophets-are-humans-20170401-10.md"
+  },
+  {
+   "slug": "the-departure-of-the-prophet-20180505-7",
+   "lang": "te",
+   "category": "seerah",
+   "title": "ప్రవక్త వఫాత్ (ప్రవక్త మరణం)",
+   "summary": "ప్రవక్త ముహమ్మద్ ﷺ యొక్క ప్రవక్త పదవి ముగింపు మరియు వారి మరణానికి సంబంధించిన చారిత్రక ఘట్టాల విశ్లేషణ. ఈ వ్యాసం ప్రవక్త ﷺ చివరి రోజులు, వారి అనారోగ్యం మరియు ఇస్లాం పరిపూర్ణతను చర్చిస్తుంది.",
+   "author": "സയ്യിദ് സഅ്ഫര്‍ സ്വാദിക്വ് മദീനി",
+   "issue_date": "2018-05-05",
+   "html_url": "/te/seerah/the-departure-of-the-prophet-20180505-7.html",
+   "md_url": "/te/seerah/the-departure-of-the-prophet-20180505-7.md"
   },
   {
    "slug": "a-good-death-20180428-5",
