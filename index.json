@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T05:18:23.193395+00:00",
+ "generated_at": "2026-09-21T05:19:21.641951+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6661,
+ "count": 6662,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -70851,6 +70851,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/vi/dawah/the-message-of-equality-20170121-11.html",
    "md_url": "/vi/dawah/the-message-of-equality-20170121-11.md"
+  },
+  {
+   "slug": "the-month-of-sha-ban-and-baraat-20180505-9",
+   "lang": "vi",
+   "category": "dawah",
+   "title": "Tháng Sha'ban và đêm Bara'at",
+   "summary": "Bài viết này bàn về sự tôn nghiêm đặc biệt của một số khoảng thời gian và địa điểm trong Hồi giáo. Đồng thời, tác giả giải thích tầm quan trọng của tháng Sha'ban và đêm Bara'at, cũng như cảnh báo về những nghi lễ không có căn cứ xác thực.",
+   "author": "ശമീര്‍ മദീനി",
+   "issue_date": "2018-05-05",
+   "html_url": "/vi/dawah/the-month-of-sha-ban-and-baraat-20180505-9.html",
+   "md_url": "/vi/dawah/the-month-of-sha-ban-and-baraat-20180505-9.md"
   },
   {
    "slug": "the-path-to-peace-20170225-11",
