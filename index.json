@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T04:14:24.318359+00:00",
+ "generated_at": "2026-09-21T04:15:19.583915+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6597,
+ "count": 6598,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -19173,6 +19173,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/hi/story/grown-up-children-20170121-6.html",
    "md_url": "/hi/story/grown-up-children-20170121-6.md"
+  },
+  {
+   "slug": "guardians-should-be-role-models-20180505-8",
+   "lang": "hi",
+   "category": "story",
+   "title": "अभिभावक बनें आदर्श",
+   "summary": "एक युवक की कहानी के माध्यम से यह लेख बताता है कि लक्ष्य प्राप्ति तक निरंतर प्रयास करना कितना आवश्यक है। साथ ही, यह इस बात पर जोर देता है कि बच्चों के बेहतर भविष्य के लिए माता-पिता का स्वयं एक आदर्श बनना अनिवार्य है।",
+   "author": "സി.മുഹമ്മദ് റാഫി ചെമ്പ്ര",
+   "issue_date": "2018-05-05",
+   "html_url": "/hi/story/guardians-should-be-role-models-20180505-8.html",
+   "md_url": "/hi/story/guardians-should-be-role-models-20180505-8.md"
   },
   {
    "slug": "laws-are-to-be-followed-20170128-5",
