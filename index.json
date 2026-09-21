@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T03:59:54.052907+00:00",
+ "generated_at": "2026-09-21T04:01:03.368202+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6582,
+ "count": 6583,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -69520,6 +69520,17 @@
    "issue_date": "2017-04-01",
    "html_url": "/uz/seerah/prophets-are-humans-20170401-10.html",
    "md_url": "/uz/seerah/prophets-are-humans-20170401-10.md"
+  },
+  {
+   "slug": "the-departure-of-the-prophet-20180505-7",
+   "lang": "uz",
+   "category": "seerah",
+   "title": "Payg‘ambarimizning vafotlari",
+   "summary": "Ushbu maqolada Payg‘ambarimiz Muhammad ﷺ ning vafotlari va ularning risolatlari yakunlanishi haqida so‘z boradi. Unda vahiyning to‘xtashi, vafot yaqinlashganiga oid alomatlar hamda muborak hayotlarining so‘nggi damlari tahlil qilinadi.",
+   "author": "സയ്യിദ് സഅ്ഫര്‍ സ്വാദിക്വ് മദീനി",
+   "issue_date": "2018-05-05",
+   "html_url": "/uz/seerah/the-departure-of-the-prophet-20180505-7.html",
+   "md_url": "/uz/seerah/the-departure-of-the-prophet-20180505-7.md"
   },
   {
    "slug": "a-good-death-20180428-5",
