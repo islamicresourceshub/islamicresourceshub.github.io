@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T09:33:01.626836+00:00",
+ "generated_at": "2026-09-21T09:34:01.158669+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6872,
+ "count": 6873,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -23155,6 +23155,17 @@
    "issue_date": "2017-04-01",
    "html_url": "/it/seerah/prophets-are-humans-20170401-10.html",
    "md_url": "/it/seerah/prophets-are-humans-20170401-10.md"
+  },
+  {
+   "slug": "reaching-midian-20180519-3",
+   "lang": "it",
+   "category": "seerah",
+   "title": "Arrivo a Madyan",
+   "summary": "Questo articolo esplora una tappa fondamentale della vita del profeta Musa (pace su di lui): il suo viaggio verso Madyan. Descrive il suo arrivo presso una fonte d'acqua e gli eventi significativi che vi si svolsero, segnando l'inizio di un nuovo capitolo della sua vita.",
+   "author": "ഹുസൈന്‍ സലഫി, ഷാര്‍ജ",
+   "issue_date": "2018-05-19",
+   "html_url": "/it/seerah/reaching-midian-20180519-3.html",
+   "md_url": "/it/seerah/reaching-midian-20180519-3.md"
   },
   {
    "slug": "the-departure-of-the-prophet-20180505-7",
