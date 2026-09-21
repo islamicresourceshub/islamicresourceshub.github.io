@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T04:15:19.583915+00:00",
+ "generated_at": "2026-09-21T04:16:13.343569+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6598,
+ "count": 6599,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -20636,6 +20636,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/id/story/grown-up-children-20170121-6.html",
    "md_url": "/id/story/grown-up-children-20170121-6.md"
+  },
+  {
+   "slug": "guardians-should-be-role-models-20180505-8",
+   "lang": "id",
+   "category": "story",
+   "title": "Orang Tua Harus Menjadi Teladan",
+   "summary": "Sebuah kisah tentang seorang pemuda yang mencari harta karun di sebuah desa menjadi pembuka untuk merenungkan pentingnya orang tua menjadi teladan bagi anak-anak mereka. Artikel ini menekankan bahwa mendidik anak memerlukan konsistensi, doa, dan contoh nyata dari orang tua.",
+   "author": "സി.മുഹമ്മദ് റാഫി ചെമ്പ്ര",
+   "issue_date": "2018-05-05",
+   "html_url": "/id/story/guardians-should-be-role-models-20180505-8.html",
+   "md_url": "/id/story/guardians-should-be-role-models-20180505-8.md"
   },
   {
    "slug": "laws-are-to-be-followed-20170128-5",
