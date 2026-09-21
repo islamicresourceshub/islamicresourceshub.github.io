@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T08:49:01.019232+00:00",
+ "generated_at": "2026-09-21T08:49:55.586711+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6833,
+ "count": 6834,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -21791,6 +21791,17 @@
    "issue_date": "2026-08-22",
    "html_url": "/it/aqeedah/who-is-wrong-in-ideology-20260822-2.html",
    "md_url": "/it/aqeedah/who-is-wrong-in-ideology-20260822-2.md"
+  },
+  {
+   "slug": "curb-extravagance-in-iftar-20180519-2",
+   "lang": "it",
+   "category": "dawah",
+   "title": "Frenare lo spreco durante l'Iftar",
+   "summary": "Il digiuno nel mese di Ramadan è un atto di astinenza dal cibo, dalle bevande e dai desideri carnali. Questo articolo affronta il problema dello spreco durante l'Iftar, sottolineando l'importanza di evitare l'eccesso che mina gli obiettivi spirituali del mese sacro.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2018-05-19",
+   "html_url": "/it/dawah/curb-extravagance-in-iftar-20180519-2.html",
+   "md_url": "/it/dawah/curb-extravagance-in-iftar-20180519-2.md"
   },
   {
    "slug": "dawah-obligation-and-execution-20170401-9",
