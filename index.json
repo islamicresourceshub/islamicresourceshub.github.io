@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T11:50:25.645499+00:00",
+ "generated_at": "2026-09-21T11:51:35.379740+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6982,
+ "count": 6983,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -11561,6 +11561,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/es/dawah/solution-for-divisions-20170218-3.html",
    "md_url": "/es/dawah/solution-for-divisions-20170218-3.md"
+  },
+  {
+   "slug": "specialities-of-the-month-of-ramadan-20180519-6",
+   "lang": "es",
+   "category": "dawah",
+   "title": "Las virtudes del mes de Ramadán",
+   "summary": "Este artículo detalla las principales virtudes del mes de Ramadán, destacando su importancia como el mes en que fue revelado el Corán y el mes en que el ayuno se hizo obligatorio. También ofrece una guía sobre cómo los creyentes pueden aprovechar al máximo este tiempo bendito.",
+   "author": "അബ്ദുല്ലത്വീഫ് സുല്ലമി മാറഞ്ചേരി",
+   "issue_date": "2018-05-19",
+   "html_url": "/es/dawah/specialities-of-the-month-of-ramadan-20180519-6.html",
+   "md_url": "/es/dawah/specialities-of-the-month-of-ramadan-20180519-6.md"
   },
   {
    "slug": "stand-tall-20170121-8",
