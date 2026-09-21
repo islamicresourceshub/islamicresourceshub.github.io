@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T10:11:55.204266+00:00",
+ "generated_at": "2026-09-21T10:12:51.354470+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6909,
+ "count": 6910,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -19547,6 +19547,17 @@
    "issue_date": "2018-05-05",
    "html_url": "/hi/fiqh/embalming-the-dead-an-islamic-perspective-20180505-5.html",
    "md_url": "/hi/fiqh/embalming-the-dead-an-islamic-perspective-20180505-5.md"
+  },
+  {
+   "slug": "fasting-and-smoking-20180519-4",
+   "lang": "hi",
+   "category": "fiqh",
+   "title": "रोजा और धूम्रपान",
+   "summary": "रोजा एक श्रेष्ठ इबादत है जो मनुष्य में ईश्वर का भय और उत्तम संस्कार पैदा करती है। यह लेख रोजे की पवित्रता और धूम्रपान के दुष्प्रभावों के बीच के संबंध पर चर्चा करता है और इस्लामी दृष्टिकोण से धूम्रपान छोड़ने के उपाय बताता है।",
+   "author": "ഹംസ ജമാലി",
+   "issue_date": "2018-05-19",
+   "html_url": "/hi/fiqh/fasting-and-smoking-20180519-4.html",
+   "md_url": "/hi/fiqh/fasting-and-smoking-20180519-4.md"
   },
   {
    "slug": "mosque-construction-some-points-to-note-20170325-5",
