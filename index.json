@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T10:52:33.015343+00:00",
+ "generated_at": "2026-09-21T10:53:52.328784+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6926,
+ "count": 6927,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -61600,6 +61600,17 @@
    "issue_date": "2018-05-05",
    "html_url": "/sw/fiqh/embalming-the-dead-an-islamic-perspective-20180505-5.html",
    "md_url": "/sw/fiqh/embalming-the-dead-an-islamic-perspective-20180505-5.md"
+  },
+  {
+   "slug": "fasting-and-smoking-20180519-4",
+   "lang": "sw",
+   "category": "fiqh",
+   "title": "Funga na Uvutaji Sigara",
+   "summary": "Funga ni ibada tukufu inayolenga kujenga uchamungu na tabia njema. Makala haya yanajadili uhusiano kati ya kufunga na uvutaji sigara, yakielezea utakatifu wa mwezi wa Ramadhani na madhara ya uvutaji sigara kwa mtazamo wa Kiislamu.",
+   "author": "ഹംസ ജമാലി",
+   "issue_date": "2018-05-19",
+   "html_url": "/sw/fiqh/fasting-and-smoking-20180519-4.html",
+   "md_url": "/sw/fiqh/fasting-and-smoking-20180519-4.md"
   },
   {
    "slug": "mosque-construction-some-points-to-note-20170325-5",
