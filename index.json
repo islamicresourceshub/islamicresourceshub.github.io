@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T07:56:28.231781+00:00",
+ "generated_at": "2026-09-21T07:57:32.834763+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6780,
+ "count": 6781,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -1353,6 +1353,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/am/opinion/who-should-leave-india-20170121-1.html",
    "md_url": "/am/opinion/who-should-leave-india-20170121-1.md"
+  },
+  {
+   "slug": "al-bayyinah-the-clear-proof-20180519-1",
+   "lang": "am",
+   "category": "quran",
+   "title": "አል-በይዪና (ግልጽ የሆነ ማስረጃ)",
+   "summary": "ይህ የቁርአን 98ኛው ምዕራፍ የሆነው አል-በይዪና ማብራሪያ ነው። ይህ ምዕራፍ ከእውነት የራቁ ሰዎች እና አጋር አጋሪዎች ግልጽ የሆነ ማስረጃ እስኪመጣላቸው ድረስ በቆዩበት የክህደት ጎዳና ላይ እንደነበሩ ይገልጻል። ጽሁፉ የዚህን ምዕራፍ የመጀመሪያ አንቀጾች ትርጓሜ ያቀርባል።",
+   "author": "അബ്ദുറഹ്മാന്‍ നാസിര്‍ അസ്സഅദി",
+   "issue_date": "2018-05-19",
+   "html_url": "/am/quran/al-bayyinah-the-clear-proof-20180519-1.html",
+   "md_url": "/am/quran/al-bayyinah-the-clear-proof-20180519-1.md"
   },
   {
    "slug": "praise-be-to-the-lord-of-the-worlds-20170325-9",
