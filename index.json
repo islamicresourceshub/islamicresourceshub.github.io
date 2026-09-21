@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T10:09:55.376531+00:00",
+ "generated_at": "2026-09-21T10:10:53.505060+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6907,
+ "count": 6908,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -16434,6 +16434,17 @@
    "issue_date": "2018-05-05",
    "html_url": "/gu/fiqh/embalming-the-dead-an-islamic-perspective-20180505-5.html",
    "md_url": "/gu/fiqh/embalming-the-dead-an-islamic-perspective-20180505-5.md"
+  },
+  {
+   "slug": "fasting-and-smoking-20180519-4",
+   "lang": "gu",
+   "category": "fiqh",
+   "title": "રોઝા અને ધૂમ્રપાન",
+   "summary": "રોઝા એ આત્મસંયમ અને ઉત્તમ સંસ્કારો કેળવવાની એક શ્રેષ્ઠ ઇબાદત છે. આ લેખમાં રોઝા અને ધૂમ્રપાન વચ્ચેના સંબંધ વિશે ચર્ચા કરવામાં આવી છે. તેમાં રોઝાની પવિત્રતા અને ધૂમ્રપાનની હાનિકારક અસરોને ઇસ્લામિક દ્રષ્ટિકોણથી સમજાવવામાં આવી છે.",
+   "author": "ഹംസ ജമാലി",
+   "issue_date": "2018-05-19",
+   "html_url": "/gu/fiqh/fasting-and-smoking-20180519-4.html",
+   "md_url": "/gu/fiqh/fasting-and-smoking-20180519-4.md"
   },
   {
    "slug": "mosque-construction-some-points-to-note-20170325-5",
