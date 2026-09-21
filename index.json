@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T08:54:34.873960+00:00",
+ "generated_at": "2026-09-21T08:55:30.075590+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6839,
+ "count": 6840,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -46607,6 +46607,17 @@
    "issue_date": "2026-08-22",
    "html_url": "/ne/aqeedah/who-is-wrong-in-ideology-20260822-2.html",
    "md_url": "/ne/aqeedah/who-is-wrong-in-ideology-20260822-2.md"
+  },
+  {
+   "slug": "curb-extravagance-in-iftar-20180519-2",
+   "lang": "ne",
+   "category": "dawah",
+   "title": "इफ्तारमा हुने फजुलखर्चलाई नियन्त्रण गरौँ",
+   "summary": "रमजानको व्रत भनेको खानपान र शारीरिक इच्छाबाट टाढा रहेर गरिने एक साधना हो। यो लेखले इफ्तारको समयमा देखिने अनावश्यक खर्च र आडम्बरको विरोध गर्दै रमजानको आध्यात्मिक उद्देश्यलाई जोगाउन मितव्ययी हुनुपर्ने आवश्यकतामा जोड दिएको छ।",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2018-05-19",
+   "html_url": "/ne/dawah/curb-extravagance-in-iftar-20180519-2.html",
+   "md_url": "/ne/dawah/curb-extravagance-in-iftar-20180519-2.md"
   },
   {
    "slug": "dawah-obligation-and-execution-20170401-9",
