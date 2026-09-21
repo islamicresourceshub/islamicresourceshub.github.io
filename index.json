@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T08:02:01.124888+00:00",
+ "generated_at": "2026-09-21T08:03:02.685095+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6785,
+ "count": 6786,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -8976,6 +8976,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/de/opinion/who-should-leave-india-20170121-1.html",
    "md_url": "/de/opinion/who-should-leave-india-20170121-1.md"
+  },
+  {
+   "slug": "al-bayyinah-the-clear-proof-20180519-1",
+   "lang": "de",
+   "category": "quran",
+   "title": "Al-Bayyinah (Der klare Beweis)",
+   "summary": "Dies ist eine Erläuterung der 98. Sure des Korans, Al-Bayyinah. Die Sure beschreibt, dass die Ungläubigen und die Götzendiener nicht von ihrem Standpunkt abwichen, bis ihnen ein klarer Beweis zuteilwurde. Dieser Artikel bietet eine Auslegung der ersten Verse dieser Sure.",
+   "author": "അബ്ദുറഹ്മാന്‍ നാസിര്‍ അസ്സഅദി",
+   "issue_date": "2018-05-19",
+   "html_url": "/de/quran/al-bayyinah-the-clear-proof-20180519-1.html",
+   "md_url": "/de/quran/al-bayyinah-the-clear-proof-20180519-1.md"
   },
   {
    "slug": "praise-be-to-the-lord-of-the-worlds-20170325-9",
