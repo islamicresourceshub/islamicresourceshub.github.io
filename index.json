@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T11:37:33.184201+00:00",
+ "generated_at": "2026-09-21T11:38:27.128638+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6969,
+ "count": 6970,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -68321,6 +68321,17 @@
    "issue_date": "2018-04-28",
    "html_url": "/tl/opinion/a-glance-into-laws-20180428-6.html",
    "md_url": "/tl/opinion/a-glance-into-laws-20180428-6.md"
+  },
+  {
+   "slug": "against-public-nuisance-20180519-5",
+   "lang": "tl",
+   "category": "opinion",
+   "title": "Laban sa Panggugulo sa Publiko",
+   "summary": "Binibigyang-kahulugan ng Indian Penal Code ang panggugulo sa publiko bilang anumang kilos na nagdudulot ng panganib o abala sa mga mamamayan. Tinatalakay ng artikulong ito ang mga legal na aspeto ng panggugulo sa publiko, ang pananagutang panlipunan, at ang kahalagahan ng pagpapanatili ng kaayusan sa lipunan.",
+   "author": "മുസാഫിര്‍",
+   "issue_date": "2018-05-19",
+   "html_url": "/tl/opinion/against-public-nuisance-20180519-5.html",
+   "md_url": "/tl/opinion/against-public-nuisance-20180519-5.md"
   },
   {
    "slug": "alas-asifa-20180428-1",
