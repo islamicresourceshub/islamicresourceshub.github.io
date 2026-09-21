@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T04:01:03.368202+00:00",
+ "generated_at": "2026-09-21T04:02:04.758960+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6583,
+ "count": 6584,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -70983,6 +70983,17 @@
    "issue_date": "2017-04-01",
    "html_url": "/vi/seerah/prophets-are-humans-20170401-10.html",
    "md_url": "/vi/seerah/prophets-are-humans-20170401-10.md"
+  },
+  {
+   "slug": "the-departure-of-the-prophet-20180505-7",
+   "lang": "vi",
+   "category": "seerah",
+   "title": "Sự ra đi của vị Tiên tri",
+   "summary": "Bài viết này phân tích về sự kết thúc sứ mệnh tiên tri và sự ra đi của Tiên tri Muhammad ﷺ. Nội dung xem xét việc chấm dứt chuỗi tiên tri và sự hoàn thiện của tôn giáo Hồi giáo.",
+   "author": "സയ്യിദ് സഅ്ഫര്‍ സ്വാദിക്വ് മദീനി",
+   "issue_date": "2018-05-05",
+   "html_url": "/vi/seerah/the-departure-of-the-prophet-20180505-7.html",
+   "md_url": "/vi/seerah/the-departure-of-the-prophet-20180505-7.md"
   },
   {
    "slug": "a-good-death-20180428-5",
