@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T08:38:10.340018+00:00",
+ "generated_at": "2026-09-21T08:39:06.713495+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6821,
+ "count": 6822,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -3377,6 +3377,17 @@
    "issue_date": "2026-08-22",
    "html_url": "/as/aqeedah/who-is-wrong-in-ideology-20260822-2.html",
    "md_url": "/as/aqeedah/who-is-wrong-in-ideology-20260822-2.md"
+  },
+  {
+   "slug": "curb-extravagance-in-iftar-20180519-2",
+   "lang": "as",
+   "category": "dawah",
+   "title": "ইফতাৰৰ অপব্যয় ৰোধ কৰক",
+   "summary": "ৰমজানৰ ৰোজা হৈছে অন্ন-পানী আৰু ইন্দ্ৰিয়জনিত তৃপ্তিৰ পৰা বিৰত থকা এক পৱিত্ৰ ইবাদত। এই প্ৰবন্ধটোৱে ইফতৰৰ সময়ত দেখা দিয়া অপব্যয় আৰু প্ৰদৰ্শনৰ বিৰুদ্ধে সজাগ কৰি ৰমজানৰ আধ্যাত্মিক লক্ষ্যসমূহৰ ওপৰত গুৰুত্ব আৰোপ কৰে।",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2018-05-19",
+   "html_url": "/as/dawah/curb-extravagance-in-iftar-20180519-2.html",
+   "md_url": "/as/dawah/curb-extravagance-in-iftar-20180519-2.md"
   },
   {
    "slug": "dawah-obligation-and-execution-20170401-9",
