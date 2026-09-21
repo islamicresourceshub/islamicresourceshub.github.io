@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T09:36:03.022919+00:00",
+ "generated_at": "2026-09-21T09:37:10.986415+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6875,
+ "count": 6876,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -27797,6 +27797,17 @@
    "issue_date": "2017-04-01",
    "html_url": "/ko/seerah/prophets-are-humans-20170401-10.html",
    "md_url": "/ko/seerah/prophets-are-humans-20170401-10.md"
+  },
+  {
+   "slug": "reaching-midian-20180519-3",
+   "lang": "ko",
+   "category": "seerah",
+   "title": "미디안에 도착하다",
+   "summary": "이 글은 무사(아)의 생애에서 중요한 전환점인 미디안으로의 여정을 다룹니다. 그곳의 우물가에서 그가 겪은 일들과 그가 보여준 선행, 그리고 그 이후의 전개 과정을 예언자들의 역사 시리즈 다섯 번째 편으로 소개합니다.",
+   "author": "ഹുസൈന്‍ സലഫി, ഷാര്‍ജ",
+   "issue_date": "2018-05-19",
+   "html_url": "/ko/seerah/reaching-midian-20180519-3.html",
+   "md_url": "/ko/seerah/reaching-midian-20180519-3.md"
   },
   {
    "slug": "the-departure-of-the-prophet-20180505-7",
