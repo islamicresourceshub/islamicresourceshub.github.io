@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T03:40:09.348557+00:00",
+ "generated_at": "2026-09-21T03:41:12.321777+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6563,
+ "count": 6564,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -26257,6 +26257,17 @@
    "issue_date": "2017-04-01",
    "html_url": "/ko/seerah/prophets-are-humans-20170401-10.html",
    "md_url": "/ko/seerah/prophets-are-humans-20170401-10.md"
+  },
+  {
+   "slug": "the-departure-of-the-prophet-20180505-7",
+   "lang": "ko",
+   "category": "seerah",
+   "title": "선지자의 별세",
+   "summary": "본 글은 예언자 무함마드 ﷺ의 사명 완수와 그분의 별세에 관한 내용을 다룹니다. 예언자 계보의 종결과 이슬람의 완성이라는 역사적 의미를 분석합니다.",
+   "author": "സയ്യിദ് സഅ്ഫര്‍ സ്വാദിക്വ് മദീനി",
+   "issue_date": "2018-05-05",
+   "html_url": "/ko/seerah/the-departure-of-the-prophet-20180505-7.html",
+   "md_url": "/ko/seerah/the-departure-of-the-prophet-20180505-7.md"
   },
   {
    "slug": "a-good-death-20180428-5",
