@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T08:18:51.684705+00:00",
+ "generated_at": "2026-09-21T08:19:50.237853+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6802,
+ "count": 6803,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -50479,6 +50479,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/pa/opinion/who-should-leave-india-20170121-1.html",
    "md_url": "/pa/opinion/who-should-leave-india-20170121-1.md"
+  },
+  {
+   "slug": "al-bayyinah-the-clear-proof-20180519-1",
+   "lang": "pa",
+   "category": "quran",
+   "title": "ਅਲ-ਬਯਿਨਾਹ (ਸਪੱਸ਼ਟ ਪ੍ਰਮਾਣ)",
+   "summary": "ਇਹ ਅਲ-ਬਯਿਨਾਹ ਨਾਮਕ 98ਵੀਂ ਸੂਰਤ ਦੀ ਵਿਆਖਿਆ ਹੈ। ਇਹ ਅਧਿਆਇ ਦੱਸਦਾ ਹੈ ਕਿ ਸੱਚ ਨੂੰ ਨਕਾਰਨ ਵਾਲੇ ਅਤੇ ਬਹੁਦੇਵਵਾਦੀ ਉਦੋਂ ਤੱਕ ਆਪਣੇ ਰਸਤੇ ਤੋਂ ਨਹੀਂ ਹਟੇ ਜਦੋਂ ਤੱਕ ਉਨ੍ਹਾਂ ਕੋਲ ਸਪੱਸ਼ਟ ਪ੍ਰਮਾਣ ਨਹੀਂ ਆ ਗਿਆ। ਇਹ ਲੇਖ ਕੁਰਾਨ ਦੀ ਇਸ ਸੂਰਤ ਦੀਆਂ ਸ਼ੁਰੂਆਤੀ ਆਇਤਾਂ ਦੀ ਵਿਆਖਿਆ ਕਰਦਾ ਹੈ।",
+   "author": "അബ്ദുറഹ്മാന്‍ നാസിര്‍ അസ്സഅദി",
+   "issue_date": "2018-05-19",
+   "html_url": "/pa/quran/al-bayyinah-the-clear-proof-20180519-1.html",
+   "md_url": "/pa/quran/al-bayyinah-the-clear-proof-20180519-1.md"
   },
   {
    "slug": "praise-be-to-the-lord-of-the-worlds-20170325-9",
