@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T11:01:12.337388+00:00",
+ "generated_at": "2026-09-21T11:02:13.894445+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6933,
+ "count": 6934,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -72479,6 +72479,17 @@
    "issue_date": "2018-05-05",
    "html_url": "/uz/fiqh/embalming-the-dead-an-islamic-perspective-20180505-5.html",
    "md_url": "/uz/fiqh/embalming-the-dead-an-islamic-perspective-20180505-5.md"
+  },
+  {
+   "slug": "fasting-and-smoking-20180519-4",
+   "lang": "uz",
+   "category": "fiqh",
+   "title": "Roza va chekish",
+   "summary": "Roza - bu taqvodorlik va yuksak madaniyatni shakllantiradigan ulug‘ ibodatdir. Ushbu maqolada roza va chekish o‘rtasidagi bog‘liqlik, ro‘zaning muqaddasligi hamda chekishning islomiy nuqtai nazardan zararli tomonlari tahlil qilinadi.",
+   "author": "ഹംസ ജമാലി",
+   "issue_date": "2018-05-19",
+   "html_url": "/uz/fiqh/fasting-and-smoking-20180519-4.html",
+   "md_url": "/uz/fiqh/fasting-and-smoking-20180519-4.md"
   },
   {
    "slug": "mosque-construction-some-points-to-note-20170325-5",
