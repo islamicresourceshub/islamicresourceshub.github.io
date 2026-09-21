@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T05:47:59.835699+00:00",
+ "generated_at": "2026-09-21T05:48:53.796207+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6694,
+ "count": 6695,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -62667,6 +62667,17 @@
    "issue_date": "2026-08-22",
    "html_url": "/te/health/know-this-for-those-caring-for-the-sick-20260822-1.html",
    "md_url": "/te/health/know-this-for-those-caring-for-the-sick-20260822-1.md"
+  },
+  {
+   "slug": "nutrients-for-thyroid-health-20180505-10",
+   "lang": "te",
+   "category": "health",
+   "title": "థైరాయిడ్ ఆరోగ్యానికి అవసరమైన పోషకాలు",
+   "summary": "థైరాయిడ్ గ్రంథి పనితీరును మెరుగుపరిచే ముఖ్యమైన పోషకాల గురించి ఈ ఆరోగ్య వ్యాసం వివరిస్తుంది. సరైన ఆహారపు అలవాట్ల ద్వారా థైరాయిడ్ ఆరోగ్యాన్ని ఎలా కాపాడుకోవాలో ఇందులో వివరించబడింది.",
+   "author": "ഡോ. മുഹമ്മദ് കുട്ടി കണ്ണിയന്‍",
+   "issue_date": "2018-05-05",
+   "html_url": "/te/health/nutrients-for-thyroid-health-20180505-10.html",
+   "md_url": "/te/health/nutrients-for-thyroid-health-20180505-10.md"
   },
   {
    "slug": "thyroid-problems-20180428-10",
