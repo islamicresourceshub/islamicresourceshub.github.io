@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T12:11:52.289687+00:00",
+ "generated_at": "2026-09-21T12:12:55.587060+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 7002,
+ "count": 7003,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -58729,6 +58729,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/so/dawah/solution-for-divisions-20170218-3.html",
    "md_url": "/so/dawah/solution-for-divisions-20170218-3.md"
+  },
+  {
+   "slug": "specialities-of-the-month-of-ramadan-20180519-6",
+   "lang": "so",
+   "category": "dawah",
+   "title": "Faa'iidooyinka bisha Ramadaan",
+   "summary": "Maqaalkani wuxuu sharxayaa fadliga bisha Ramadaan, sida inay tahay bishii la soo dejiyay Qur'aanka iyo bisha soonka la waajibiyay. Waxa kale oo uu tilmaamayaa sida ay mu'miniintu uga faa'iidaysan karaan bishan barakaysan.",
+   "author": "അബ്ദുല്ലത്വീഫ് സുല്ലമി മാറഞ്ചേരി",
+   "issue_date": "2018-05-19",
+   "html_url": "/so/dawah/specialities-of-the-month-of-ramadan-20180519-6.html",
+   "md_url": "/so/dawah/specialities-of-the-month-of-ramadan-20180519-6.md"
   },
   {
    "slug": "stand-tall-20170121-8",
