@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T08:13:03.965673+00:00",
+ "generated_at": "2026-09-21T08:14:03.042243+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6796,
+ "count": 6797,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -25740,6 +25740,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/kn/opinion/who-should-leave-india-20170121-1.html",
    "md_url": "/kn/opinion/who-should-leave-india-20170121-1.md"
+  },
+  {
+   "slug": "al-bayyinah-the-clear-proof-20180519-1",
+   "lang": "kn",
+   "category": "quran",
+   "title": "ಅಲ್-ಬಯ್ಯಿನಾ (ಸ್ಪಷ್ಟವಾದ ಪುರಾವೆ)",
+   "summary": "ಇದು ಕುರ್‌ಆನ್‌ನ 98ನೇ ಅಧ್ಯಾಯವಾದ ಅಲ್-ಬಯ್ಯಿನಾದ ವಿವರಣೆಯಾಗಿದೆ. ಸತ್ಯನಿಷೇಧಿಗಳು ಮತ್ತು ಬಹುದೈವಾರಾಧಕರು ಸ್ಪಷ್ಟವಾದ ಪುರಾವೆ ದೊರೆಯುವವರೆಗೆ ತಮ್ಮ ನಿಲುವಿನಿಂದ ಹಿಂದೆ ಸರಿಯುವವರಾಗಿರಲಿಲ್ಲ ಎಂದು ಈ ಅಧ್ಯಾಯವು ತಿಳಿಸುತ್ತದೆ. ಈ ಲೇಖನವು ಕುರ್‌ಆನ್‌ನ ಈ ಸೂಕ್ತಗಳ ವ್ಯಾಖ್ಯಾನವನ್ನು ಒಳಗೊಂಡಿದೆ.",
+   "author": "അബ്ദുറഹ്മാന്‍ നാസിര്‍ അസ്സഅദി",
+   "issue_date": "2018-05-19",
+   "html_url": "/kn/quran/al-bayyinah-the-clear-proof-20180519-1.html",
+   "md_url": "/kn/quran/al-bayyinah-the-clear-proof-20180519-1.md"
   },
   {
    "slug": "praise-be-to-the-lord-of-the-worlds-20170325-9",
