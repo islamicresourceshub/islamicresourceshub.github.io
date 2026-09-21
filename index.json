@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T05:51:30.643897+00:00",
+ "generated_at": "2026-09-21T05:52:23.647304+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6698,
+ "count": 6699,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -68651,6 +68651,17 @@
    "issue_date": "2026-08-22",
    "html_url": "/ur/health/know-this-for-those-caring-for-the-sick-20260822-1.html",
    "md_url": "/ur/health/know-this-for-those-caring-for-the-sick-20260822-1.md"
+  },
+  {
+   "slug": "nutrients-for-thyroid-health-20180505-10",
+   "lang": "ur",
+   "category": "health",
+   "title": "تھائیرائڈ کی صحت کے لیے غذائی اجزاء",
+   "summary": "تھائیرائڈ غدود کے افعال کو بہتر بنانے والے غذائی اجزاء کے بارے میں ایک معلوماتی مضمون۔ اس میں متوازن غذا کے ذریعے تھائیرائڈ کی صحت کو برقرار رکھنے کے طریقوں کی وضاحت کی گئی ہے۔",
+   "author": "ഡോ. മുഹമ്മദ് കുട്ടി കണ്ണിയന്‍",
+   "issue_date": "2018-05-05",
+   "html_url": "/ur/health/nutrients-for-thyroid-health-20180505-10.html",
+   "md_url": "/ur/health/nutrients-for-thyroid-health-20180505-10.md"
   },
   {
    "slug": "thyroid-problems-20180428-10",
