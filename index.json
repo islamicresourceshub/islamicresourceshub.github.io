@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T09:32:04.731569+00:00",
+ "generated_at": "2026-09-21T09:33:01.626836+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6871,
+ "count": 6872,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -21604,6 +21604,17 @@
    "issue_date": "2017-04-01",
    "html_url": "/id/seerah/prophets-are-humans-20170401-10.html",
    "md_url": "/id/seerah/prophets-are-humans-20170401-10.md"
+  },
+  {
+   "slug": "reaching-midian-20180519-3",
+   "lang": "id",
+   "category": "seerah",
+   "title": "Tiba di Madyan",
+   "summary": "Artikel ini membahas fase penting dalam kehidupan Nabi Musa AS, yaitu perjalanannya menuju Madyan. Tulisan ini mengisahkan saat beliau tiba di sumber air di Madyan dan peristiwa yang terjadi di sana, sebagai bagian kelima dari seri sejarah para nabi.",
+   "author": "ഹുസൈന്‍ സലഫി, ഷാര്‍ജ",
+   "issue_date": "2018-05-19",
+   "html_url": "/id/seerah/reaching-midian-20180519-3.html",
+   "md_url": "/id/seerah/reaching-midian-20180519-3.md"
   },
   {
    "slug": "the-departure-of-the-prophet-20180505-7",
