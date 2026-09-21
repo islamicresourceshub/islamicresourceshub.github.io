@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T11:11:17.101202+00:00",
+ "generated_at": "2026-09-21T11:12:17.180397+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6943,
+ "count": 6944,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -12012,6 +12012,17 @@
    "issue_date": "2018-04-28",
    "html_url": "/es/opinion/a-glance-into-laws-20180428-6.html",
    "md_url": "/es/opinion/a-glance-into-laws-20180428-6.md"
+  },
+  {
+   "slug": "against-public-nuisance-20180519-5",
+   "lang": "es",
+   "category": "opinion",
+   "title": "Contra las molestias públicas",
+   "summary": "El Código Penal de la India define la molestia pública como cualquier acto que cause peligro o incomodidad a la población en general. Este artículo analiza las implicaciones legales de tales actos, la responsabilidad social y la importancia de mantener el orden y la paz en la comunidad a través de un caso emblemático.",
+   "author": "മുസാഫിര്‍",
+   "issue_date": "2018-05-19",
+   "html_url": "/es/opinion/against-public-nuisance-20180519-5.html",
+   "md_url": "/es/opinion/against-public-nuisance-20180519-5.md"
   },
   {
    "slug": "alas-asifa-20180428-1",
