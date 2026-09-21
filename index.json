@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T09:07:18.255769+00:00",
+ "generated_at": "2026-09-21T09:08:12.938651+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6852,
+ "count": 6853,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -66506,6 +66506,17 @@
    "issue_date": "2026-08-22",
    "html_url": "/tl/aqeedah/who-is-wrong-in-ideology-20260822-2.html",
    "md_url": "/tl/aqeedah/who-is-wrong-in-ideology-20260822-2.md"
+  },
+  {
+   "slug": "curb-extravagance-in-iftar-20180519-2",
+   "lang": "tl",
+   "category": "dawah",
+   "title": "Pigilan ang Labis na Gastos sa Iftar",
+   "summary": "Ang pag-aayuno sa Ramadan ay isang gawaing paglayo sa pagkain, inumin, at pagnanasa. Tinatalakay ng artikulong ito ang labis na paggastos sa mga handaan sa pagtatapos ng pag-aayuno at binibigyang-diin ang kahalagahan ng pag-iwas sa pag-aaksaya na sumisira sa espirituwal na layunin ng buwan.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2018-05-19",
+   "html_url": "/tl/dawah/curb-extravagance-in-iftar-20180519-2.html",
+   "md_url": "/tl/dawah/curb-extravagance-in-iftar-20180519-2.md"
   },
   {
    "slug": "dawah-obligation-and-execution-20170401-9",
