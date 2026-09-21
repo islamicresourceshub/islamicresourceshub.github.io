@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T04:44:55.413953+00:00",
+ "generated_at": "2026-09-21T04:45:53.379721+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6628,
+ "count": 6629,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -6446,6 +6446,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/bs/dawah/the-message-of-equality-20170121-11.html",
    "md_url": "/bs/dawah/the-message-of-equality-20170121-11.md"
+  },
+  {
+   "slug": "the-month-of-sha-ban-and-baraat-20180505-9",
+   "lang": "bs",
+   "category": "dawah",
+   "title": "Mjesec ša'ban i noć berat",
+   "summary": "Članak govori o posebnoj svetosti određenih vremenskih perioda i mjesta. Objašnjava važnost mjeseca ša'bana i noći berat, te upozorava na novotarije koje nemaju utemeljenje u vjerskim izvorima.",
+   "author": "ശമീര്‍ മദീനി",
+   "issue_date": "2018-05-05",
+   "html_url": "/bs/dawah/the-month-of-sha-ban-and-baraat-20180505-9.html",
+   "md_url": "/bs/dawah/the-month-of-sha-ban-and-baraat-20180505-9.md"
   },
   {
    "slug": "the-path-to-peace-20170225-11",
