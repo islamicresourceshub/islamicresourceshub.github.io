@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T11:18:45.333771+00:00",
+ "generated_at": "2026-09-21T11:19:36.660008+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6951,
+ "count": 6952,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -24552,6 +24552,17 @@
    "issue_date": "2018-04-28",
    "html_url": "/ja/opinion/a-glance-into-laws-20180428-6.html",
    "md_url": "/ja/opinion/a-glance-into-laws-20180428-6.md"
+  },
+  {
+   "slug": "against-public-nuisance-20180519-5",
+   "lang": "ja",
+   "category": "opinion",
+   "title": "公共の迷惑行為に対して",
+   "summary": "インド刑法では、公共の利益を損なう行為を公共の迷惑行為と定義しています。本稿では、公共の迷惑行為に対する法的定義や社会的な責任、そして平和な社会を維持するための重要性について解説します。",
+   "author": "മുസാഫിര്‍",
+   "issue_date": "2018-05-19",
+   "html_url": "/ja/opinion/against-public-nuisance-20180519-5.html",
+   "md_url": "/ja/opinion/against-public-nuisance-20180519-5.md"
   },
   {
    "slug": "alas-asifa-20180428-1",
