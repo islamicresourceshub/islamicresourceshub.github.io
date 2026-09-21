@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T11:21:28.691717+00:00",
+ "generated_at": "2026-09-21T11:22:30.500077+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6954,
+ "count": 6955,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -44869,6 +44869,17 @@
    "issue_date": "2018-04-28",
    "html_url": "/mr/opinion/a-glance-into-laws-20180428-6.html",
    "md_url": "/mr/opinion/a-glance-into-laws-20180428-6.md"
+  },
+  {
+   "slug": "against-public-nuisance-20180519-5",
+   "lang": "mr",
+   "category": "opinion",
+   "title": "सार्वजनिक उपद्रवाच्या विरोधात",
+   "summary": "भारतीय दंड संहितेमध्ये सार्वजनिक उपद्रव म्हणजे सामान्य जनतेला धोका किंवा त्रास निर्माण करणारे कृत्य असे परिभाषित केले आहे. हा लेख सार्वजनिक उपद्रवाच्या विरोधातील कायदेशीर तरतुदी आणि सामाजिक जबाबदारीवर प्रकाश टाकतो, तसेच समाजात शांतता आणि सुव्यवस्था राखण्याचे महत्त्व अधोरेखित करतो.",
+   "author": "മുസാഫിര്‍",
+   "issue_date": "2018-05-19",
+   "html_url": "/mr/opinion/against-public-nuisance-20180519-5.html",
+   "md_url": "/mr/opinion/against-public-nuisance-20180519-5.md"
   },
   {
    "slug": "alas-asifa-20180428-1",
