@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T02:28:50.290709+00:00",
+ "generated_at": "2026-09-21T02:29:53.767621+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6496,
+ "count": 6497,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -56617,6 +56617,17 @@
    "issue_date": "2018-05-05",
    "html_url": "/sq/fiqh/duties-and-rights-20180505-3.html",
    "md_url": "/sq/fiqh/duties-and-rights-20180505-3.md"
+  },
+  {
+   "slug": "embalming-the-dead-an-islamic-perspective-20180505-5",
+   "lang": "sq",
+   "category": "fiqh",
+   "title": "Embalmimi i trupit të pajetë: Një këndvështrim islam",
+   "summary": "Ky artikull shqyrton parimin islam të respektit ndaj trupit të njeriut edhe pas vdekjes. Ai shpjegon dispozitat islame lidhur me praktikën e embalmimit dhe transportimin e trupave të të ndjerëve nga vendet e huaja në atdhe.",
+   "author": "അഷ്‌റഫ് എകരൂല്‍",
+   "issue_date": "2018-05-05",
+   "html_url": "/sq/fiqh/embalming-the-dead-an-islamic-perspective-20180505-5.html",
+   "md_url": "/sq/fiqh/embalming-the-dead-an-islamic-perspective-20180505-5.md"
   },
   {
    "slug": "mosque-construction-some-points-to-note-20170325-5",
