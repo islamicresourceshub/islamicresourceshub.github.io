@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T08:39:06.713495+00:00",
+ "generated_at": "2026-09-21T08:39:59.895663+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6822,
+ "count": 6823,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -4906,6 +4906,17 @@
    "issue_date": "2026-08-22",
    "html_url": "/bn/aqeedah/who-is-wrong-in-ideology-20260822-2.html",
    "md_url": "/bn/aqeedah/who-is-wrong-in-ideology-20260822-2.md"
+  },
+  {
+   "slug": "curb-extravagance-in-iftar-20180519-2",
+   "lang": "bn",
+   "category": "dawah",
+   "title": "ইফতারের অপচয় রোধ করুন",
+   "summary": "রমজানের রোজা হলো পানাহার ও প্রবৃত্তির তাড়না থেকে বিরত থাকার একটি ইবাদত। এই নিবন্ধটি ইফতারের সময় প্রদর্শিত অপচয় ও বিলাসিতার বিরুদ্ধে কথা বলে এবং রমজানের প্রকৃত আধ্যাত্মিক লক্ষ্য অর্জনে মিতব্যয়ী হওয়ার গুরুত্ব তুলে ধরে।",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2018-05-19",
+   "html_url": "/bn/dawah/curb-extravagance-in-iftar-20180519-2.html",
+   "md_url": "/bn/dawah/curb-extravagance-in-iftar-20180519-2.md"
   },
   {
    "slug": "dawah-obligation-and-execution-20170401-9",
