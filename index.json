@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T05:16:26.156014+00:00",
+ "generated_at": "2026-09-21T05:17:23.165337+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6659,
+ "count": 6660,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -67881,6 +67881,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/ur/dawah/the-message-of-equality-20170121-11.html",
    "md_url": "/ur/dawah/the-message-of-equality-20170121-11.md"
+  },
+  {
+   "slug": "the-month-of-sha-ban-and-baraat-20180505-9",
+   "lang": "ur",
+   "category": "dawah",
+   "title": "ماہِ شعبان اور شبِ براءت",
+   "summary": "یہ مضمون اس بات کی وضاحت کرتا ہے کہ کچھ اوقات اور مقامات کو خاص فضیلت حاصل ہے، اور ساتھ ہی ماہِ شعبان اور شبِ براءت کی اہمیت اور ان کے حوالے سے رائج بدعات کی نشاندہی کرتا ہے۔",
+   "author": "ശമീര്‍ മദീനി",
+   "issue_date": "2018-05-05",
+   "html_url": "/ur/dawah/the-month-of-sha-ban-and-baraat-20180505-9.html",
+   "md_url": "/ur/dawah/the-month-of-sha-ban-and-baraat-20180505-9.md"
   },
   {
    "slug": "the-path-to-peace-20170225-11",
