@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T03:31:32.819844+00:00",
+ "generated_at": "2026-09-21T03:32:36.405591+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6556,
+ "count": 6557,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -16049,6 +16049,17 @@
    "issue_date": "2017-04-01",
    "html_url": "/gu/seerah/prophets-are-humans-20170401-10.html",
    "md_url": "/gu/seerah/prophets-are-humans-20170401-10.md"
+  },
+  {
+   "slug": "the-departure-of-the-prophet-20180505-7",
+   "lang": "gu",
+   "category": "seerah",
+   "title": "પયગંબર સાહેબનું અવસાન",
+   "summary": "આ લેખ પયગંબર સાહેબના મિશનની પૂર્ણાહુતિ અને મુહમ્મદ ﷺ ના અવસાન વિશે છે. તેમાં પયગંબર પરંપરાના અંત અને ઇસ્લામની પૂર્ણતાનું વિશ્લેષણ કરવામાં આવ્યું છે.",
+   "author": "സയ്യിദ് സഅ്ഫര്‍ സ്വാദിക്വ് മദീനി",
+   "issue_date": "2018-05-05",
+   "html_url": "/gu/seerah/the-departure-of-the-prophet-20180505-7.html",
+   "md_url": "/gu/seerah/the-departure-of-the-prophet-20180505-7.md"
   },
   {
    "slug": "a-good-death-20180428-5",
