@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T03:39:05.185897+00:00",
+ "generated_at": "2026-09-21T03:40:09.348557+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6562,
+ "count": 6563,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -24805,6 +24805,17 @@
    "issue_date": "2017-04-01",
    "html_url": "/kn/seerah/prophets-are-humans-20170401-10.html",
    "md_url": "/kn/seerah/prophets-are-humans-20170401-10.md"
+  },
+  {
+   "slug": "the-departure-of-the-prophet-20180505-7",
+   "lang": "kn",
+   "category": "seerah",
+   "title": "ಪ್ರವಾದಿಯವರ ಅಗಲಿಕೆ",
+   "summary": "ಪ್ರವಾದಿತ್ವದ ಸಮಾಪ್ತಿ ಮತ್ತು ಮುಹಮ್ಮದ್ ನಬಿ ﷺ ಅವರ ಅಗಲಿಕೆಯ ಕುರಿತಾದ ಲೇಖನ. ಪ್ರವಾದಿ ಪರಂಪರೆಯ ಅಂತ್ಯ ಮತ್ತು ಇಸ್ಲಾಂ ಧರ್ಮದ ಪರಿಪೂರ್ಣತೆಯನ್ನು ಈ ಲೇಖನ ವಿಶ್ಲೇಷಿಸುತ್ತದೆ.",
+   "author": "സയ്യിദ് സഅ്ഫര്‍ സ്വാദിക്വ് മദീനി",
+   "issue_date": "2018-05-05",
+   "html_url": "/kn/seerah/the-departure-of-the-prophet-20180505-7.html",
+   "md_url": "/kn/seerah/the-departure-of-the-prophet-20180505-7.md"
   },
   {
    "slug": "a-good-death-20180428-5",
