@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T02:57:00.478117+00:00",
+ "generated_at": "2026-09-21T02:58:00.065865+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6523,
+ "count": 6524,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -24563,6 +24563,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/kn/seerah/can-prophethood-be-attained-by-desire-20170218-1.html",
    "md_url": "/kn/seerah/can-prophethood-be-attained-by-desire-20170218-1.md"
+  },
+  {
+   "slug": "from-the-river-to-the-palace-part-2-20180505-6",
+   "lang": "kn",
+   "category": "seerah",
+   "title": "ನದಿಯಿಂದ ಅರಮನೆಗೆ",
+   "summary": "ಪ್ರವಾದಿ ಮೂಸಾ (ಅ) ಅವರ ಜೀವನದ ಎರಡನೇ ಭಾಗ. ನದಿಯಿಂದ ಫಿರ್ಔನ್‌ನ ಅರಮನೆಗೆ ಅವರು ತಲುಪಿದ ಘಟನೆಗಳು ಮತ್ತು ಅದರ ಹಿಂದಿರುವ ಕುರ್‌ಆನಿಕ ಹಿನ್ನೆಲೆಯನ್ನು ಇಲ್ಲಿ ವಿವರಿಸಲಾಗಿದೆ.",
+   "author": "ഹുസൈന്‍ സലഫി, ഷാര്‍ജ",
+   "issue_date": "2018-05-05",
+   "html_url": "/kn/seerah/from-the-river-to-the-palace-part-2-20180505-6.html",
+   "md_url": "/kn/seerah/from-the-river-to-the-palace-part-2-20180505-6.md"
   },
   {
    "slug": "ibn-abbas-ra-a-scholar-of-knowledge-20170211-4",
