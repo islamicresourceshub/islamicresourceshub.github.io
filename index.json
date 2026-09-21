@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T09:27:07.473336+00:00",
+ "generated_at": "2026-09-21T09:28:05.647598+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6866,
+ "count": 6867,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -13882,6 +13882,17 @@
    "issue_date": "2017-04-01",
    "html_url": "/fa/seerah/prophets-are-humans-20170401-10.html",
    "md_url": "/fa/seerah/prophets-are-humans-20170401-10.md"
+  },
+  {
+   "slug": "reaching-midian-20180519-3",
+   "lang": "fa",
+   "category": "seerah",
+   "title": "ورود به مَدین",
+   "summary": "این مقاله به یکی از مراحل مهم زندگی حضرت موسی (ع)، یعنی سفر ایشان به مَدین می‌پردازد. در این بخش، رسیدن ایشان به آبشخور مَدین و وقایعی که در آنجا رخ داد، شرح داده شده است. این پنجمین قسمت از سلسله مقالات تاریخ پیامبران است.",
+   "author": "ഹുസൈന്‍ സലഫി, ഷാര്‍ജ",
+   "issue_date": "2018-05-19",
+   "html_url": "/fa/seerah/reaching-midian-20180519-3.html",
+   "md_url": "/fa/seerah/reaching-midian-20180519-3.md"
   },
   {
    "slug": "the-departure-of-the-prophet-20180505-7",
