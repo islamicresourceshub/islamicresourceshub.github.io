@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T09:00:15.943955+00:00",
+ "generated_at": "2026-09-21T09:01:09.871139+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6845,
+ "count": 6846,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -55825,6 +55825,17 @@
    "issue_date": "2026-08-22",
    "html_url": "/si/aqeedah/who-is-wrong-in-ideology-20260822-2.html",
    "md_url": "/si/aqeedah/who-is-wrong-in-ideology-20260822-2.md"
+  },
+  {
+   "slug": "curb-extravagance-in-iftar-20180519-2",
+   "lang": "si",
+   "category": "dawah",
+   "title": "නිරාහාර අත්හැරීමේ උත්සවවල පවතින නාස්තිය පාලනය කරමු",
+   "summary": "රමසාන් මාසයේ නිරාහාරව සිටීම යනු ආහාර පාන සහ කායික ආශාවන්ගෙන් වැළකී සිටින උතුම් වන්දනාවකි. මෙම ලිපිය මගින් නිරාහාර අත්හැරීමේ උත්සවවලදී (ඉෆ්තාර්) දක්නට ලැබෙන අසීමිත නාස්තිය සහ ප්‍රදර්ශනාත්මක බව විවේචනය කරමින්, රමසාන්හි සැබෑ ආධ්‍යාත්මික අරමුණු සිහිපත් කර දෙයි.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2018-05-19",
+   "html_url": "/si/dawah/curb-extravagance-in-iftar-20180519-2.html",
+   "md_url": "/si/dawah/curb-extravagance-in-iftar-20180519-2.md"
   },
   {
    "slug": "dawah-obligation-and-execution-20170401-9",
