@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T06:25:39.157998+00:00",
+ "generated_at": "2026-09-21T06:26:41.407721+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6732,
+ "count": 6733,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -62139,6 +62139,17 @@
    "issue_date": "2017-02-11",
    "html_url": "/ta/story/allah-is-watching-20170211-3.html",
    "md_url": "/ta/story/allah-is-watching-20170211-3.md"
+  },
+  {
+   "slug": "an-old-man-s-sorrows-20180505-12",
+   "lang": "ta",
+   "category": "story",
+   "title": "முதியோரின் துயரங்கள்",
+   "summary": "பிரசவ வார்டின் பின்னணியில் தொடங்கும் ஒரு கதை. முதியோரின் தனிமை, குடும்ப உறவுகளில் அவர்கள் சந்திக்கும் வலிகள் மற்றும் புறக்கணிப்புகளை இந்த சமூகக் கதை விவரிக்கிறது.",
+   "author": "ഡോ. ജസീം അലി. എം",
+   "issue_date": "2018-05-05",
+   "html_url": "/ta/story/an-old-man-s-sorrows-20180505-12.html",
+   "md_url": "/ta/story/an-old-man-s-sorrows-20180505-12.md"
   },
   {
    "slug": "broken-hearts-20170218-11",
