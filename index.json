@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T08:27:03.128324+00:00",
+ "generated_at": "2026-09-21T08:28:28.509417+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6810,
+ "count": 6811,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -62612,6 +62612,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/ta/opinion/who-should-leave-india-20170121-1.html",
    "md_url": "/ta/opinion/who-should-leave-india-20170121-1.md"
+  },
+  {
+   "slug": "al-bayyinah-the-clear-proof-20180519-1",
+   "lang": "ta",
+   "category": "quran",
+   "title": "அல்-பய்யினா (தெளிவான சான்று)",
+   "summary": "இது திருக்குர்ஆனின் 98-வது அத்தியாயமான அல்-பய்யினா என்பதன் விளக்கமாகும். சத்தியத்தை மறுப்பவர்களும் இணைவைப்பவர்களும் தெளிவான சான்று கிடைக்கும் வரை தங்கள் நிலைப்பாட்டிலிருந்து மாறவில்லை என்பதை இந்த அத்தியாயம் கூறுகிறது. இக்கட்டுரை இந்த அத்தியாயத்தின் ஆரம்ப வசனங்களுக்கான விளக்கத்தை வழங்குகிறது.",
+   "author": "അബ്ദുറഹ്മാന്‍ നാസിര്‍ അസ്സഅദി",
+   "issue_date": "2018-05-19",
+   "html_url": "/ta/quran/al-bayyinah-the-clear-proof-20180519-1.html",
+   "md_url": "/ta/quran/al-bayyinah-the-clear-proof-20180519-1.md"
   },
   {
    "slug": "praise-be-to-the-lord-of-the-worlds-20170325-9",
