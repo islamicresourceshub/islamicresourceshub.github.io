@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T09:17:40.798849+00:00",
+ "generated_at": "2026-09-21T09:18:33.639348+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6857,
+ "count": 6858,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -74206,6 +74206,17 @@
    "issue_date": "2026-08-22",
    "html_url": "/zh/aqeedah/who-is-wrong-in-ideology-20260822-2.html",
    "md_url": "/zh/aqeedah/who-is-wrong-in-ideology-20260822-2.md"
+  },
+  {
+   "slug": "curb-extravagance-in-iftar-20180519-2",
+   "lang": "zh",
+   "category": "dawah",
+   "title": "遏制开斋宴中的铺张浪费",
+   "summary": "斋戒是伊斯兰教中要求信士远离饮食与私欲的功课。本文旨在探讨并反对当前开斋宴中出现的铺张浪费现象，强调必须摒弃那些违背斋月精神的过度消费行为。",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2018-05-19",
+   "html_url": "/zh/dawah/curb-extravagance-in-iftar-20180519-2.html",
+   "md_url": "/zh/dawah/curb-extravagance-in-iftar-20180519-2.md"
   },
   {
    "slug": "dawah-obligation-and-execution-20170401-9",
