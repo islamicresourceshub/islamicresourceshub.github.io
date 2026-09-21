@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T12:12:55.587060+00:00",
+ "generated_at": "2026-09-21T12:13:58.555709+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 7003,
+ "count": 7004,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -60291,6 +60291,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/sq/dawah/solution-for-divisions-20170218-3.html",
    "md_url": "/sq/dawah/solution-for-divisions-20170218-3.md"
+  },
+  {
+   "slug": "specialities-of-the-month-of-ramadan-20180519-6",
+   "lang": "sq",
+   "category": "dawah",
+   "title": "Veçoritë e muajit të Ramazanit",
+   "summary": "Ky artikull shpjegon veçoritë kryesore të muajit të Ramazanit, duke theksuar rëndësinë e tij si muaji në të cilin zbriti Kurani dhe muaji i agjërimit të detyrueshëm. Gjithashtu, ofrohen udhëzime se si besimtarët mund ta shfrytëzojnë sa më mirë këtë muaj të bekuar.",
+   "author": "അബ്ദുല്ലത്വീഫ് സുല്ലമി മാറഞ്ചേരി",
+   "issue_date": "2018-05-19",
+   "html_url": "/sq/dawah/specialities-of-the-month-of-ramadan-20180519-6.html",
+   "md_url": "/sq/dawah/specialities-of-the-month-of-ramadan-20180519-6.md"
   },
   {
    "slug": "stand-tall-20170121-8",
