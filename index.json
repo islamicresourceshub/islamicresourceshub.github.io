@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T09:57:49.826325+00:00",
+ "generated_at": "2026-09-21T09:58:49.838314+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6896,
+ "count": 6897,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -75834,6 +75834,17 @@
    "issue_date": "2017-04-01",
    "html_url": "/zh/seerah/prophets-are-humans-20170401-10.html",
    "md_url": "/zh/seerah/prophets-are-humans-20170401-10.md"
+  },
+  {
+   "slug": "reaching-midian-20180519-3",
+   "lang": "zh",
+   "category": "seerah",
+   "title": "抵达麦德彦",
+   "summary": "本文讲述了穆萨圣人（愿主安宁）人生中的一个重要阶段——前往麦德彦的旅程。文章描述了他抵达麦德彦水井旁的情景，以及他如何帮助两位女子，并最终在当地安顿下来的经过。这是先知故事系列的第五部分。",
+   "author": "ഹുസൈന്‍ സലഫി, ഷാര്‍ജ",
+   "issue_date": "2018-05-19",
+   "html_url": "/zh/seerah/reaching-midian-20180519-3.html",
+   "md_url": "/zh/seerah/reaching-midian-20180519-3.md"
   },
   {
    "slug": "the-departure-of-the-prophet-20180505-7",
