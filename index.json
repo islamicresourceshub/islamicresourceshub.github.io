@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T11:27:55.154475+00:00",
+ "generated_at": "2026-09-21T11:28:57.796456+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6960,
+ "count": 6961,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -54263,6 +54263,17 @@
    "issue_date": "2018-04-28",
    "html_url": "/pt/opinion/a-glance-into-laws-20180428-6.html",
    "md_url": "/pt/opinion/a-glance-into-laws-20180428-6.md"
+  },
+  {
+   "slug": "against-public-nuisance-20180519-5",
+   "lang": "pt",
+   "category": "opinion",
+   "title": "Contra o incômodo público",
+   "summary": "O Código Penal Indiano define o incômodo público como qualquer ato que cause perigo ou transtorno à população em geral. Este artigo discute as medidas legais contra tais incômodos e a responsabilidade social, enfatizando a importância de manter a paz e a ordem na sociedade.",
+   "author": "മുസാഫിര്‍",
+   "issue_date": "2018-05-19",
+   "html_url": "/pt/opinion/against-public-nuisance-20180519-5.html",
+   "md_url": "/pt/opinion/against-public-nuisance-20180519-5.md"
   },
   {
    "slug": "alas-asifa-20180428-1",
