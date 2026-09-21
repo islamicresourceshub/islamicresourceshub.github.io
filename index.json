@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T10:07:59.712670+00:00",
+ "generated_at": "2026-09-21T10:08:57.549835+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6905,
+ "count": 6906,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -13321,6 +13321,17 @@
    "issue_date": "2018-05-05",
    "html_url": "/fa/fiqh/embalming-the-dead-an-islamic-perspective-20180505-5.html",
    "md_url": "/fa/fiqh/embalming-the-dead-an-islamic-perspective-20180505-5.md"
+  },
+  {
+   "slug": "fasting-and-smoking-20180519-4",
+   "lang": "fa",
+   "category": "fiqh",
+   "title": "روزه و استعمال دخانیات",
+   "summary": "روزه عبادتی ارزشمند برای کسب تقوا و اخلاق نیکو است. این مقاله به بررسی رابطه میان روزه و استعمال دخانیات پرداخته و ضمن تبیین قداست روزه، زیان‌های سیگار کشیدن را از دیدگاه اسلامی بررسی می‌کند.",
+   "author": "ഹംസ ജമാലി",
+   "issue_date": "2018-05-19",
+   "html_url": "/fa/fiqh/fasting-and-smoking-20180519-4.html",
+   "md_url": "/fa/fiqh/fasting-and-smoking-20180519-4.md"
   },
   {
    "slug": "mosque-construction-some-points-to-note-20170325-5",
