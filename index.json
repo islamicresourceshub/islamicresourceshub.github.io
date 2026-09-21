@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T08:47:13.523087+00:00",
+ "generated_at": "2026-09-21T08:48:07.042833+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6831,
+ "count": 6832,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -18733,6 +18733,17 @@
    "issue_date": "2026-08-22",
    "html_url": "/hi/aqeedah/who-is-wrong-in-ideology-20260822-2.html",
    "md_url": "/hi/aqeedah/who-is-wrong-in-ideology-20260822-2.md"
+  },
+  {
+   "slug": "curb-extravagance-in-iftar-20180519-2",
+   "lang": "hi",
+   "category": "dawah",
+   "title": "इफ्तार में फिजूलखर्ची पर लगाम लगाएं",
+   "summary": "रमजान का उपवास भोजन, पेय और शारीरिक इच्छाओं से दूर रहने का एक माध्यम है। यह लेख इफ्तार के दौरान होने वाली फिजूलखर्ची और दिखावे पर चिंता व्यक्त करता है, जो रमजान के वास्तविक आध्यात्मिक उद्देश्यों को कमजोर करते हैं।",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2018-05-19",
+   "html_url": "/hi/dawah/curb-extravagance-in-iftar-20180519-2.html",
+   "md_url": "/hi/dawah/curb-extravagance-in-iftar-20180519-2.md"
   },
   {
    "slug": "dawah-obligation-and-execution-20170401-9",
