@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T08:21:46.411474+00:00",
+ "generated_at": "2026-09-21T08:22:50.512107+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6805,
+ "count": 6806,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -55055,6 +55055,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/ru/opinion/who-should-leave-india-20170121-1.html",
    "md_url": "/ru/opinion/who-should-leave-india-20170121-1.md"
+  },
+  {
+   "slug": "al-bayyinah-the-clear-proof-20180519-1",
+   "lang": "ru",
+   "category": "quran",
+   "title": "Аль-Баййина (Ясное знамение)",
+   "summary": "Это толкование 98-й суры Корана, которая называется «Аль-Баййина». В ней говорится о том, что неверующие и многобожники не могли оставить свои заблуждения, пока к ним не пришло ясное знамение. Статья представляет собой подробный разбор первых аятов этой суры.",
+   "author": "അബ്ദുറഹ്മാന്‍ നാസിര്‍ അസ്സഅദി",
+   "issue_date": "2018-05-19",
+   "html_url": "/ru/quran/al-bayyinah-the-clear-proof-20180519-1.html",
+   "md_url": "/ru/quran/al-bayyinah-the-clear-proof-20180519-1.md"
   },
   {
    "slug": "praise-be-to-the-lord-of-the-worlds-20170325-9",
