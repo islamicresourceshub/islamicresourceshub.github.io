@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T10:53:52.328784+00:00",
+ "generated_at": "2026-09-21T10:56:03.426973+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6927,
+ "count": 6928,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -63129,6 +63129,17 @@
    "issue_date": "2018-05-05",
    "html_url": "/ta/fiqh/embalming-the-dead-an-islamic-perspective-20180505-5.html",
    "md_url": "/ta/fiqh/embalming-the-dead-an-islamic-perspective-20180505-5.md"
+  },
+  {
+   "slug": "fasting-and-smoking-20180519-4",
+   "lang": "ta",
+   "category": "fiqh",
+   "title": "நோன்பும் புகைப்பிடித்தலும்",
+   "summary": "நோன்பு என்பது இறையச்சத்தையும் உன்னதமான பண்புகளையும் வளர்த்தெடுக்கும் ஒரு மகத்தான வணக்கமாகும். நோன்பின் புனிதத்தையும், புகைப்பிடித்தலின் தீமைகளையும் இஸ்லாமியக் கண்ணோட்டத்தில் இந்த கட்டுரை விளக்குகிறது.",
+   "author": "ഹംസ ജമാലി",
+   "issue_date": "2018-05-19",
+   "html_url": "/ta/fiqh/fasting-and-smoking-20180519-4.html",
+   "md_url": "/ta/fiqh/fasting-and-smoking-20180519-4.md"
   },
   {
    "slug": "mosque-construction-some-points-to-note-20170325-5",
