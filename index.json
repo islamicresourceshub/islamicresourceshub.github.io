@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T05:26:33.237243+00:00",
+ "generated_at": "2026-09-21T05:27:26.365686+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6670,
+ "count": 6671,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -11352,6 +11352,17 @@
    "issue_date": "2026-08-22",
    "html_url": "/es/health/know-this-for-those-caring-for-the-sick-20260822-1.html",
    "md_url": "/es/health/know-this-for-those-caring-for-the-sick-20260822-1.md"
+  },
+  {
+   "slug": "nutrients-for-thyroid-health-20180505-10",
+   "lang": "es",
+   "category": "health",
+   "title": "Nutrientes para la salud de la tiroides",
+   "summary": "Un artículo de salud sobre los nutrientes que favorecen el funcionamiento de la glándula tiroides. Explica las formas de mantener la salud tiroidea a través de la dieta.",
+   "author": "ഡോ. മുഹമ്മദ് കുട്ടി കണ്ണിയന്‍",
+   "issue_date": "2018-05-05",
+   "html_url": "/es/health/nutrients-for-thyroid-health-20180505-10.html",
+   "md_url": "/es/health/nutrients-for-thyroid-health-20180505-10.md"
   },
   {
    "slug": "thyroid-problems-20180428-10",
