@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T08:10:13.534765+00:00",
+ "generated_at": "2026-09-21T08:11:10.632174+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6793,
+ "count": 6794,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -21153,6 +21153,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/id/opinion/who-should-leave-india-20170121-1.html",
    "md_url": "/id/opinion/who-should-leave-india-20170121-1.md"
+  },
+  {
+   "slug": "al-bayyinah-the-clear-proof-20180519-1",
+   "lang": "id",
+   "category": "quran",
+   "title": "Al-Bayyinah (Bukti yang Nyata)",
+   "summary": "Ini adalah penjelasan mengenai Surah Al-Bayyinah, surah ke-98 dalam Al-Qur'an. Surah ini menjelaskan bahwa orang-orang kafir dan musyrik tidak akan meninggalkan kesesatan mereka sampai datang kepada mereka bukti yang nyata. Artikel ini menguraikan ayat-ayat awal dari surah tersebut.",
+   "author": "അബ്ദുറഹ്മാന്‍ നാസിര്‍ അസ്സഅദി",
+   "issue_date": "2018-05-19",
+   "html_url": "/id/quran/al-bayyinah-the-clear-proof-20180519-1.html",
+   "md_url": "/id/quran/al-bayyinah-the-clear-proof-20180519-1.md"
   },
   {
    "slug": "praise-be-to-the-lord-of-the-worlds-20170325-9",
