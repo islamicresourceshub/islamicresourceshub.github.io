@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T03:45:21.359691+00:00",
+ "generated_at": "2026-09-21T03:46:22.585159+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6568,
+ "count": 6569,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -49148,6 +49148,17 @@
    "issue_date": "2017-04-01",
    "html_url": "/pa/seerah/prophets-are-humans-20170401-10.html",
    "md_url": "/pa/seerah/prophets-are-humans-20170401-10.md"
+  },
+  {
+   "slug": "the-departure-of-the-prophet-20180505-7",
+   "lang": "pa",
+   "category": "seerah",
+   "title": "ਪੈਗੰਬਰ ਮੁਹੰਮਦ ﷺ ਦਾ ਵਿਛੋੜਾ",
+   "summary": "ਇਹ ਲੇਖ ਪੈਗੰਬਰ ਮੁਹੰਮਦ ﷺ ਦੇ ਇਸ ਦੁਨੀਆ ਤੋਂ ਰੁਖਸਤ ਹੋਣ ਅਤੇ ਉਨ੍ਹਾਂ ਦੇ ਮਿਸ਼ਨ ਦੀ ਸੰਪੂਰਨਤਾ ਬਾਰੇ ਚਰਚਾ ਕਰਦਾ ਹੈ। ਇਸ ਵਿੱਚ ਉਨ੍ਹਾਂ ਦੇ ਆਖਰੀ ਦਿਨਾਂ, ਬਿਮਾਰੀ ਅਤੇ ਇਸਲਾਮੀ ਸ਼ਰੀਅਤ ਦੇ ਮੁਕੰਮਲ ਹੋਣ ਦੇ ਪਹਿਲੂਆਂ ਨੂੰ ਵਿਸਥਾਰ ਨਾਲ ਪੇਸ਼ ਕੀਤਾ ਗਿਆ ਹੈ।",
+   "author": "സയ്യിദ് സഅ്ഫര്‍ സ്വാദിക്വ് മദീനി",
+   "issue_date": "2018-05-05",
+   "html_url": "/pa/seerah/the-departure-of-the-prophet-20180505-7.html",
+   "md_url": "/pa/seerah/the-departure-of-the-prophet-20180505-7.md"
   },
   {
    "slug": "a-good-death-20180428-5",
