@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T05:57:23.623742+00:00",
+ "generated_at": "2026-09-21T05:58:27.077882+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6704,
+ "count": 6705,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -4543,6 +4543,17 @@
    "issue_date": "2017-02-11",
    "html_url": "/as/story/allah-is-watching-20170211-3.html",
    "md_url": "/as/story/allah-is-watching-20170211-3.md"
+  },
+  {
+   "slug": "an-old-man-s-sorrows-20180505-12",
+   "lang": "as",
+   "category": "story",
+   "title": "বৃদ্ধাৰ যন্ত্ৰণা",
+   "summary": "প্ৰসৱ কক্ষৰ এক পটভূমিত আৰম্ভ হোৱা এই কাহিনীটোৱে এগৰাকী বৃদ্ধা মহিলাৰ শাৰীৰিক যন্ত্ৰণা আৰু পৰিয়ালৰ অৱহেলাৰ মাজেৰে পাৰ কৰা এক হৃদয়স্পৰ্শী সামাজিক বাস্তৱতা দাঙি ধৰে।",
+   "author": "ഡോ. ജസീം അലി. എം",
+   "issue_date": "2018-05-05",
+   "html_url": "/as/story/an-old-man-s-sorrows-20180505-12.html",
+   "md_url": "/as/story/an-old-man-s-sorrows-20180505-12.md"
   },
   {
    "slug": "broken-hearts-20170218-11",
