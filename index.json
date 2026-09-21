@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T04:51:30.898730+00:00",
+ "generated_at": "2026-09-21T04:52:30.187786+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6635,
+ "count": 6636,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -16808,6 +16808,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/ha/dawah/the-message-of-equality-20170121-11.html",
    "md_url": "/ha/dawah/the-message-of-equality-20170121-11.md"
+  },
+  {
+   "slug": "the-month-of-sha-ban-and-baraat-20180505-9",
+   "lang": "ha",
+   "category": "dawah",
+   "title": "Watan Sha'aban da daren Bara'ah",
+   "summary": "Wannan labarin yana bayyana yadda wasu lokuta da wurare suke da falala ta musamman a Musulunci. Haka kuma yana fayyace mahimmancin watan Sha'aban da kuma hukunce-hukuncen da suka shafi daren tsakiyar watan, tare da gargadi game da sabbin abubuwan da aka kirkira a addini.",
+   "author": "ശമീര്‍ മദീനി",
+   "issue_date": "2018-05-05",
+   "html_url": "/ha/dawah/the-month-of-sha-ban-and-baraat-20180505-9.html",
+   "md_url": "/ha/dawah/the-month-of-sha-ban-and-baraat-20180505-9.md"
   },
   {
    "slug": "the-path-to-peace-20170225-11",
