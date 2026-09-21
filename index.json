@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T04:26:20.756050+00:00",
+ "generated_at": "2026-09-21T04:27:13.622079+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6610,
+ "count": 6611,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -53878,6 +53878,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/ru/story/grown-up-children-20170121-6.html",
    "md_url": "/ru/story/grown-up-children-20170121-6.md"
+  },
+  {
+   "slug": "guardians-should-be-role-models-20180505-8",
+   "lang": "ru",
+   "category": "story",
+   "title": "Родители должны быть примером",
+   "summary": "История о молодом человеке, который искал клад, служит отправной точкой для размышлений о важности родительского примера. В статье подчеркивается, что воспитание детей требует терпения, правильных ориентиров и личного участия родителей в формировании их духовного мира.",
+   "author": "സി.മുഹമ്മദ് റാഫി ചെമ്പ്ര",
+   "issue_date": "2018-05-05",
+   "html_url": "/ru/story/guardians-should-be-role-models-20180505-8.html",
+   "md_url": "/ru/story/guardians-should-be-role-models-20180505-8.md"
   },
   {
    "slug": "laws-are-to-be-followed-20170128-5",
