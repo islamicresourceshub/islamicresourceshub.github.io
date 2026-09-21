@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T05:11:29.715480+00:00",
+ "generated_at": "2026-09-21T05:12:27.640302+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6654,
+ "count": 6655,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -60478,6 +60478,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/ta/dawah/the-message-of-equality-20170121-11.html",
    "md_url": "/ta/dawah/the-message-of-equality-20170121-11.md"
+  },
+  {
+   "slug": "the-month-of-sha-ban-and-baraat-20180505-9",
+   "lang": "ta",
+   "category": "dawah",
+   "title": "ஷஃபான் மாதமும் பராஅத் இரவும்",
+   "summary": "சில காலங்களுக்கும் இடங்களுக்கும் அல்லாஹ் வழங்கியுள்ள சிறப்புகளைப் பற்றியும், ஷஃபான் மாதம் மற்றும் பராஅத் இரவு தொடர்பான மார்க்க வழிகாட்டல்கள் மற்றும் பித்அத்துகள் (புத்தாச்சாரங்கள்) குறித்தும் விளக்கும் கட்டுரை.",
+   "author": "ശമീര്‍ മദീനി",
+   "issue_date": "2018-05-05",
+   "html_url": "/ta/dawah/the-month-of-sha-ban-and-baraat-20180505-9.html",
+   "md_url": "/ta/dawah/the-month-of-sha-ban-and-baraat-20180505-9.md"
   },
   {
    "slug": "the-path-to-peace-20170225-11",
