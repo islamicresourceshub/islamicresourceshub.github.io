@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T11:59:54.758910+00:00",
+ "generated_at": "2026-09-21T12:01:10.105907+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6991,
+ "count": 6992,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -25773,6 +25773,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/kn/dawah/solution-for-divisions-20170218-3.html",
    "md_url": "/kn/dawah/solution-for-divisions-20170218-3.md"
+  },
+  {
+   "slug": "specialities-of-the-month-of-ramadan-20180519-6",
+   "lang": "kn",
+   "category": "dawah",
+   "title": "ರಮಜಾನ್ ತಿಂಗಳ ವಿಶೇಷತೆಗಳು",
+   "summary": "ಈ ಲೇಖನವು ರಮಜಾನ್ ತಿಂಗಳ ಪ್ರಮುಖ ವಿಶೇಷತೆಗಳನ್ನು ವಿವರಿಸುತ್ತದೆ. ಕುರ್‌ಆನ್ ಅವತೀರ್ಣವಾದ ತಿಂಗಳು, ಉಪವಾಸ ಕಡ್ಡಾಯವಾದ ತಿಂಗಳು ಸೇರಿದಂತೆ ರಮಜಾನಿನ ಮಹತ್ವವನ್ನು ಇದು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ. വിശ്വാಸಿಗಳು ಈ ತಿಂಗಳನ್ನು ಹೇಗೆ ಸದುಪಯೋಗಪಡಿಸಿಕೊಳ್ಳಬಹುದು ಎಂಬುದನ್ನು ಸಹ ಲೇಖನವು ಸೂಚಿಸುತ್ತದೆ.",
+   "author": "അബ്ദുല്ലത്വീഫ് സുല്ലമി മാറഞ്ചേരി",
+   "issue_date": "2018-05-19",
+   "html_url": "/kn/dawah/specialities-of-the-month-of-ramadan-20180519-6.html",
+   "md_url": "/kn/dawah/specialities-of-the-month-of-ramadan-20180519-6.md"
   },
   {
    "slug": "stand-tall-20170121-8",
