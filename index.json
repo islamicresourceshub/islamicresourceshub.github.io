@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T11:19:36.660008+00:00",
+ "generated_at": "2026-09-21T11:20:31.000600+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6952,
+ "count": 6953,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -26125,6 +26125,17 @@
    "issue_date": "2018-04-28",
    "html_url": "/kn/opinion/a-glance-into-laws-20180428-6.html",
    "md_url": "/kn/opinion/a-glance-into-laws-20180428-6.md"
+  },
+  {
+   "slug": "against-public-nuisance-20180519-5",
+   "lang": "kn",
+   "category": "opinion",
+   "title": "ಸಾರ್ವಜನಿಕ ಉಪದ್ರವದ ವಿರುದ್ಧ",
+   "summary": "ಭಾರತೀಯ ದಂಡ ಸಂಹಿತೆಯು ಸಾರ್ವಜನಿಕರಿಗೆ ಅಪಾಯ ಅಥವಾ ತೊಂದರೆಯನ್ನುಂಟುಮಾಡುವ ಕೃತ್ಯವನ್ನು ಸಾರ್ವಜನಿಕ ಉಪದ್ರವ ಎಂದು ವ್ಯಾಖ್ಯಾನಿಸುತ್ತದೆ. ಈ ಲೇಖನವು ಸಾರ್ವಜನಿಕ ಉಪದ್ರವಗಳ ವಿರುದ್ಧದ ಕಾನೂನು ಕ್ರಮಗಳು ಮತ್ತು ಸಾಮಾಜಿಕ ಜವಾಬ್ದಾರಿಯ ಕುರಿತು ಚರ್ಚಿಸುತ್ತದೆ. ಸಮಾಜದಲ್ಲಿ ಶಾಂತಿ ಮತ್ತು ಸುವ್ಯವಸ್ಥೆಯನ್ನು ಕಾಪಾಡಿಕೊಳ್ಳುವ ಮಹತ್ವವನ್ನು ಇದು ಒತ್ತಿಹೇಳುತ್ತದೆ.",
+   "author": "മുസാഫിര്‍",
+   "issue_date": "2018-05-19",
+   "html_url": "/kn/opinion/against-public-nuisance-20180519-5.html",
+   "md_url": "/kn/opinion/against-public-nuisance-20180519-5.md"
   },
   {
    "slug": "alas-asifa-20180428-1",
