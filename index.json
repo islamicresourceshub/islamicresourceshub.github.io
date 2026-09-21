@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T11:45:10.572814+00:00",
+ "generated_at": "2026-09-21T11:46:17.231061+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6977,
+ "count": 6978,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -3663,6 +3663,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/as/dawah/solution-for-divisions-20170218-3.html",
    "md_url": "/as/dawah/solution-for-divisions-20170218-3.md"
+  },
+  {
+   "slug": "specialities-of-the-month-of-ramadan-20180519-6",
+   "lang": "as",
+   "category": "dawah",
+   "title": "ৰমজান মাহৰ বিশেষত্বসমূহ",
+   "summary": "এই প্ৰবন্ধটোত ৰমজান মাহৰ গুৰুত্বপূৰ্ণ বিশেষত্বসমূহৰ বিষয়ে ব্যাখ্যা কৰা হৈছে। ইয়াৰ ভিতৰত কোৰআন অৱতীৰ্ণ হোৱা মাহ, ৰোজা বাধ্যতামূলক কৰা মাহ আদি ৰমজানৰ মহিমাৰ বিষয়ে উল্লেখ কৰা হৈছে। লগতে বিশ্বাসীসকলে এই মাহটোক কেনেকৈ প্ৰয়োগ কৰিব পাৰে, তাৰ বিষয়েও প্ৰবন্ধটোত আলোচনা কৰা হৈছে।",
+   "author": "അബ്ദുല്ലത്വീഫ് സുല്ലമി മാറഞ്ചേരി",
+   "issue_date": "2018-05-19",
+   "html_url": "/as/dawah/specialities-of-the-month-of-ramadan-20180519-6.html",
+   "md_url": "/as/dawah/specialities-of-the-month-of-ramadan-20180519-6.md"
   },
   {
    "slug": "stand-tall-20170121-8",
