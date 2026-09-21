@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T10:15:38.197378+00:00",
+ "generated_at": "2026-09-21T10:16:40.541249+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6913,
+ "count": 6914,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -25784,6 +25784,17 @@
    "issue_date": "2018-05-05",
    "html_url": "/kn/fiqh/embalming-the-dead-an-islamic-perspective-20180505-5.html",
    "md_url": "/kn/fiqh/embalming-the-dead-an-islamic-perspective-20180505-5.md"
+  },
+  {
+   "slug": "fasting-and-smoking-20180519-4",
+   "lang": "kn",
+   "category": "fiqh",
+   "title": "ನೋಂಪು ಮತ್ತು ಧೂಮಪಾನ",
+   "summary": "ನೋಂಪು (ಉಪವಾಸ) ಎನ್ನುವುದು ಭಕ್ತಿ ಮತ್ತು ಉತ್ತಮ ಸಂಸ್ಕೃತಿಯನ್ನು ಬೆಳೆಸಿಕೊಳ್ಳಲು ಇರುವ ಶ್ರೇಷ್ಠ ಆರಾಧನೆಯಾಗಿದೆ. ಈ ಲೇಖನವು ನೋಂಪಿಗೂ ಧೂಮಪಾನಕ್ಕೂ ಇರುವ ಸಂಬಂಧವನ್ನು ಇಸ್ಲಾಮಿನ ದೃಷ್ಟಿಕೋನದಿಂದ ಚರ್ಚಿಸುತ್ತದೆ ಮತ್ತು ಧೂಮಪಾನದ ದುಷ್ಪರಿಣಾಮಗಳನ್ನು ವಿವರಿಸುತ್ತದೆ.",
+   "author": "ഹംസ ജമാലി",
+   "issue_date": "2018-05-19",
+   "html_url": "/kn/fiqh/fasting-and-smoking-20180519-4.html",
+   "md_url": "/kn/fiqh/fasting-and-smoking-20180519-4.md"
   },
   {
    "slug": "mosque-construction-some-points-to-note-20170325-5",
