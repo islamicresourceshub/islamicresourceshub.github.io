@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T09:41:23.297520+00:00",
+ "generated_at": "2026-09-21T09:42:25.621451+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6880,
+ "count": 6881,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -51128,6 +51128,17 @@
    "issue_date": "2017-04-01",
    "html_url": "/pa/seerah/prophets-are-humans-20170401-10.html",
    "md_url": "/pa/seerah/prophets-are-humans-20170401-10.md"
+  },
+  {
+   "slug": "reaching-midian-20180519-3",
+   "lang": "pa",
+   "category": "seerah",
+   "title": "ਮਦਯਨ ਵਿੱਚ ਆਮਦ",
+   "summary": "ਇਹ ਲੇਖ ਮੂਸਾ (ਅ) ਦੇ ਜੀਵਨ ਦੇ ਇੱਕ ਮਹੱਤਵਪੂਰਨ ਪੜਾਅ, ਮਦਯਨ ਦੀ ਯਾਤਰਾ ਬਾਰੇ ਹੈ। ਇਸ ਵਿੱਚ ਉਨ੍ਹਾਂ ਦੇ ਮਦਯਨ ਦੇ ਜਲ ਸਰੋਤ 'ਤੇ ਪਹੁੰਚਣ ਅਤੇ ਉੱਥੇ ਵਾਪਰੇ ਘਟਨਾਕ੍ਰਮ ਦਾ ਵਰਣਨ ਕੀਤਾ ਗਿਆ ਹੈ। ਇਹ ਪੈਗੰਬਰਾਂ ਦੇ ਇਤਿਹਾਸ ਦੀ ਲੜੀ ਦਾ ਪੰਜਵਾਂ ਭਾਗ ਹੈ।",
+   "author": "ഹുസൈന്‍ സലഫി, ഷാര്‍ജ",
+   "issue_date": "2018-05-19",
+   "html_url": "/pa/seerah/reaching-midian-20180519-3.html",
+   "md_url": "/pa/seerah/reaching-midian-20180519-3.md"
   },
   {
    "slug": "the-departure-of-the-prophet-20180505-7",
