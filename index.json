@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T04:35:18.578318+00:00",
+ "generated_at": "2026-09-21T04:36:15.515396+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6618,
+ "count": 6619,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -65571,6 +65571,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/tl/story/grown-up-children-20170121-6.html",
    "md_url": "/tl/story/grown-up-children-20170121-6.md"
+  },
+  {
+   "slug": "guardians-should-be-role-models-20180505-8",
+   "lang": "tl",
+   "category": "story",
+   "title": "Ang mga Magulang ay Dapat Maging Huwaran",
+   "summary": "Isang kuwento tungkol sa isang kabataang naghahanap ng kayamanan ang nagsisilbing aral sa kahalagahan ng pagiging huwaran ng mga magulang sa kanilang mga anak. Binibigyang-diin nito ang pangangailangan ng paggabay sa mga anak tungo sa kabutihan mula sa simula pa lamang.",
+   "author": "സി.മുഹമ്മദ് റാഫി ചെമ്പ്ര",
+   "issue_date": "2018-05-05",
+   "html_url": "/tl/story/guardians-should-be-role-models-20180505-8.html",
+   "md_url": "/tl/story/guardians-should-be-role-models-20180505-8.md"
   },
   {
    "slug": "laws-are-to-be-followed-20170128-5",
