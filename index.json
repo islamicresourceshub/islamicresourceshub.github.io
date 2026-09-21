@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T10:42:36.657498+00:00",
+ "generated_at": "2026-09-21T10:43:38.398762+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6917,
+ "count": 6918,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -47608,6 +47608,17 @@
    "issue_date": "2018-05-05",
    "html_url": "/ne/fiqh/embalming-the-dead-an-islamic-perspective-20180505-5.html",
    "md_url": "/ne/fiqh/embalming-the-dead-an-islamic-perspective-20180505-5.md"
+  },
+  {
+   "slug": "fasting-and-smoking-20180519-4",
+   "lang": "ne",
+   "category": "fiqh",
+   "title": "व्रत र धूम्रपान",
+   "summary": "व्रत (रोजा) आत्मसंयम र उत्तम संस्कार प्राप्त गर्ने एक महान उपासना हो। यो लेखले व्रत र धूम्रपानबीचको सम्बन्धको बारेमा चर्चा गर्दछ। यसले इस्लामिक दृष्टिकोणबाट व्रतको पवित्रता र धूम्रपानका हानिकारक पक्षहरूलाई स्पष्ट पार्छ।",
+   "author": "ഹംസ ജമാലി",
+   "issue_date": "2018-05-19",
+   "html_url": "/ne/fiqh/fasting-and-smoking-20180519-4.html",
+   "md_url": "/ne/fiqh/fasting-and-smoking-20180519-4.md"
   },
   {
    "slug": "mosque-construction-some-points-to-note-20170325-5",
