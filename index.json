@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T09:44:30.148598+00:00",
+ "generated_at": "2026-09-21T09:45:27.691669+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6883,
+ "count": 6884,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -55770,6 +55770,17 @@
    "issue_date": "2017-04-01",
    "html_url": "/ru/seerah/prophets-are-humans-20170401-10.html",
    "md_url": "/ru/seerah/prophets-are-humans-20170401-10.md"
+  },
+  {
+   "slug": "reaching-midian-20180519-3",
+   "lang": "ru",
+   "category": "seerah",
+   "title": "Прибытие в Мадьян",
+   "summary": "Эта статья посвящена важному этапу в жизни пророка Мусы (мир ему) — его путешествию в Мадьян. В ней описывается, как он достиг водопоя и стал свидетелем событий, которые предопределили его дальнейшую судьбу. Это пятая часть серии очерков об истории пророков.",
+   "author": "ഹുസൈന്‍ സലഫി, ഷാര്‍ജ",
+   "issue_date": "2018-05-19",
+   "html_url": "/ru/seerah/reaching-midian-20180519-3.html",
+   "md_url": "/ru/seerah/reaching-midian-20180519-3.md"
   },
   {
    "slug": "the-departure-of-the-prophet-20180505-7",
