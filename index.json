@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T04:27:13.622079+00:00",
+ "generated_at": "2026-09-21T04:28:10.078342+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6611,
+ "count": 6612,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -55341,6 +55341,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/si/story/grown-up-children-20170121-6.html",
    "md_url": "/si/story/grown-up-children-20170121-6.md"
+  },
+  {
+   "slug": "guardians-should-be-role-models-20180505-8",
+   "lang": "si",
+   "category": "story",
+   "title": "දෙමාපියන් ආදර්ශමත් විය යුතුයි",
+   "summary": "ගමක නිධානයක් සොයා වලක් හාරන තරුණයෙකුගේ කතාවක් ඇසුරින්, දරුවන්ට ආදර්ශමත් දෙමාපියන් වීමේ වැදගත්කම මෙම ලිපියෙන් විස්තර කෙරේ. ඉස්ලාමීය දෘෂ්ටිකෝණයෙන් දරුවන් හදා වඩා ගැනීමේ වගකීම සහ දෙමාපියන්ගේ හැසිරීම් රටාව දරුවාට බලපාන ආකාරය මෙහි සාකච්ඡා කරයි.",
+   "author": "സി.മുഹമ്മദ് റാഫി ചെമ്പ്ര",
+   "issue_date": "2018-05-05",
+   "html_url": "/si/story/guardians-should-be-role-models-20180505-8.html",
+   "md_url": "/si/story/guardians-should-be-role-models-20180505-8.md"
   },
   {
    "slug": "laws-are-to-be-followed-20170128-5",
