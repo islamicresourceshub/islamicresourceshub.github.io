@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T08:40:52.308836+00:00",
+ "generated_at": "2026-09-21T08:41:46.445210+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6824,
+ "count": 6825,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -7986,6 +7986,17 @@
    "issue_date": "2026-08-22",
    "html_url": "/de/aqeedah/who-is-wrong-in-ideology-20260822-2.html",
    "md_url": "/de/aqeedah/who-is-wrong-in-ideology-20260822-2.md"
+  },
+  {
+   "slug": "curb-extravagance-in-iftar-20180519-2",
+   "lang": "de",
+   "category": "dawah",
+   "title": "Dem Fastenbrechen die Verschwendung austreiben",
+   "summary": "Das Fasten im Ramadan ist ein Akt der Enthaltsamkeit von Speisen, Getränken und körperlichen Begierden. Dieser Artikel thematisiert die zunehmende Verschwendung bei Fastenbrechen-Einladungen und betont, wie wichtig es ist, den übermäßigen Konsum zu vermeiden, der die spirituellen Ziele des Ramadan untergräbt.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2018-05-19",
+   "html_url": "/de/dawah/curb-extravagance-in-iftar-20180519-2.html",
+   "md_url": "/de/dawah/curb-extravagance-in-iftar-20180519-2.md"
   },
   {
    "slug": "dawah-obligation-and-execution-20170401-9",
