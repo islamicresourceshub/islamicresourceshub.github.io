@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T09:02:05.344909+00:00",
+ "generated_at": "2026-09-21T09:03:20.306348+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6847,
+ "count": 6848,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -58861,6 +58861,17 @@
    "issue_date": "2026-08-22",
    "html_url": "/sq/aqeedah/who-is-wrong-in-ideology-20260822-2.html",
    "md_url": "/sq/aqeedah/who-is-wrong-in-ideology-20260822-2.md"
+  },
+  {
+   "slug": "curb-extravagance-in-iftar-20180519-2",
+   "lang": "sq",
+   "category": "dawah",
+   "title": "Frenoni shfrenimin në iftar",
+   "summary": "Agjërimi i Ramazanit është një akt abstenimi nga ushqimi, pija dhe kënaqësitë trupore. Ky artikull flet kundër shfrenimit që shfaqet gjatë kohës së iftarit. Ai thekson rëndësinë e shmangies së shpenzimeve të tepërta që minojnë qëllimet shpirtërore të Ramazanit.",
+   "author": "പത്രാധിപർ",
+   "issue_date": "2018-05-19",
+   "html_url": "/sq/dawah/curb-extravagance-in-iftar-20180519-2.html",
+   "md_url": "/sq/dawah/curb-extravagance-in-iftar-20180519-2.md"
   },
   {
    "slug": "dawah-obligation-and-execution-20170401-9",
