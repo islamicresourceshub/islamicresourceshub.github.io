@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T12:13:58.555709+00:00",
+ "generated_at": "2026-09-21T12:15:01.334724+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 7004,
+ "count": 7005,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -61875,6 +61875,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/sw/dawah/solution-for-divisions-20170218-3.html",
    "md_url": "/sw/dawah/solution-for-divisions-20170218-3.md"
+  },
+  {
+   "slug": "specialities-of-the-month-of-ramadan-20180519-6",
+   "lang": "sw",
+   "category": "dawah",
+   "title": "Sifa za Mwezi wa Ramadhani",
+   "summary": "Makala hii inaelezea sifa kuu za mwezi wa Ramadhani, ikiwemo kuwa ni mwezi ulioshushwa ndani yake Qur'ani na mwezi wa kufunga. Pia inatoa mwongozo kwa waumini kuhusu jinsi ya kunufaika na mwezi huu mtukufu.",
+   "author": "അബ്ദുല്ലത്വീഫ് സുല്ലമി മാറഞ്ചേരി",
+   "issue_date": "2018-05-19",
+   "html_url": "/sw/dawah/specialities-of-the-month-of-ramadan-20180519-6.html",
+   "md_url": "/sw/dawah/specialities-of-the-month-of-ramadan-20180519-6.md"
   },
   {
    "slug": "stand-tall-20170121-8",
