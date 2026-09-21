@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T11:30:05.413409+00:00",
+ "generated_at": "2026-09-21T11:32:12.258558+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6962,
+ "count": 6964,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -57411,6 +57411,17 @@
    "md_url": "/si/opinion/a-glance-into-laws-20180428-6.md"
   },
   {
+   "slug": "against-public-nuisance-20180519-5",
+   "lang": "si",
+   "category": "opinion",
+   "title": "පොදු පීඩාවන්ට එරෙහිව",
+   "summary": "ඉන්දීය දණ්ඩ නීති සංග්‍රහයට අනුව පොදු පීඩාව යනු මහජනතාවට අනතුරක් හෝ කරදරයක් ඇති කරන ක්‍රියාවකි. මෙම ලිපිය පොදු පීඩාවන් සම්බන්ධ නීතිමය අර්ථ දැක්වීම්, සමාජ වගකීම සහ මහජන සාමය පවත්වා ගැනීමේ වැදගත්කම පිළිබඳව සාකච්ඡා කරයි.",
+   "author": "മുസാഫിര്‍",
+   "issue_date": "2018-05-19",
+   "html_url": "/si/opinion/against-public-nuisance-20180519-5.html",
+   "md_url": "/si/opinion/against-public-nuisance-20180519-5.md"
+  },
+  {
    "slug": "alas-asifa-20180428-1",
    "lang": "si",
    "category": "opinion",
@@ -58949,6 +58960,17 @@
    "issue_date": "2018-04-28",
    "html_url": "/so/opinion/a-glance-into-laws-20180428-6.html",
    "md_url": "/so/opinion/a-glance-into-laws-20180428-6.md"
+  },
+  {
+   "slug": "against-public-nuisance-20180519-5",
+   "lang": "so",
+   "category": "opinion",
+   "title": "Ka hortagga dhibaatada dadweynaha",
+   "summary": "Xeerka Ciqaabta ee Hindiya wuxuu dhibaatada dadweynaha ku qeexayaa fal kasta oo khatar ama dhib ku ah bulshada. Maqaalkani wuxuu ka hadlayaa tallaabooyinka sharciga ah ee ka dhanka ah dhibaatada dadweynaha iyo muhiimadda ay leedahay ilaalinta nabadgelyada iyo kala dambeynta bulshada.",
+   "author": "മുസാഫിര്‍",
+   "issue_date": "2018-05-19",
+   "html_url": "/so/opinion/against-public-nuisance-20180519-5.html",
+   "md_url": "/so/opinion/against-public-nuisance-20180519-5.md"
   },
   {
    "slug": "alas-asifa-20180428-1",
