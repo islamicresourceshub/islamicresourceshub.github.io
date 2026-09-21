@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T02:38:29.674577+00:00",
+ "generated_at": "2026-09-21T02:39:34.671648+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6505,
+ "count": 6506,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -69531,6 +69531,17 @@
    "issue_date": "2018-05-05",
    "html_url": "/vi/fiqh/duties-and-rights-20180505-3.html",
    "md_url": "/vi/fiqh/duties-and-rights-20180505-3.md"
+  },
+  {
+   "slug": "embalming-the-dead-an-islamic-perspective-20180505-5",
+   "lang": "vi",
+   "category": "fiqh",
+   "title": "Ướp xác: Góc nhìn từ quan điểm Hồi giáo",
+   "summary": "Bài viết này phân tích quan điểm của Hồi giáo về việc tôn trọng thi thể con người sau khi qua đời, đồng thời giải đáp các quy định tôn giáo liên quan đến việc ướp xác và vận chuyển thi hài người quá cố về quê nhà.",
+   "author": "അഷ്‌റഫ് എകരൂല്‍",
+   "issue_date": "2018-05-05",
+   "html_url": "/vi/fiqh/embalming-the-dead-an-islamic-perspective-20180505-5.html",
+   "md_url": "/vi/fiqh/embalming-the-dead-an-islamic-perspective-20180505-5.md"
   },
   {
    "slug": "mosque-construction-some-points-to-note-20170325-5",
