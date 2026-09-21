@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T10:17:38.043124+00:00",
+ "generated_at": "2026-09-21T10:18:36.480957+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6915,
+ "count": 6916,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -44506,6 +44506,17 @@
    "issue_date": "2018-05-05",
    "html_url": "/mr/fiqh/embalming-the-dead-an-islamic-perspective-20180505-5.html",
    "md_url": "/mr/fiqh/embalming-the-dead-an-islamic-perspective-20180505-5.md"
+  },
+  {
+   "slug": "fasting-and-smoking-20180519-4",
+   "lang": "mr",
+   "category": "fiqh",
+   "title": "उपवास और धूम्रपान",
+   "summary": "उपवास एक श्रेष्ठ इबादत है जो मन में ईश्वर का भय और उत्तम संस्कार पैदा करती है। यह लेख उपवास और धूम्रपान के बीच के संबंध पर चर्चा करता है और इस्लामी दृष्टिकोण से उपवास की पवित्रता और धूम्रपान के हानिकारक प्रभावों को स्पष्ट करता है।",
+   "author": "ഹംസ ജമാലി",
+   "issue_date": "2018-05-19",
+   "html_url": "/mr/fiqh/fasting-and-smoking-20180519-4.html",
+   "md_url": "/mr/fiqh/fasting-and-smoking-20180519-4.md"
   },
   {
    "slug": "mosque-construction-some-points-to-note-20170325-5",
