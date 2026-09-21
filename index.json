@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T11:13:16.327636+00:00",
+ "generated_at": "2026-09-21T11:14:10.642362+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6945,
+ "count": 6946,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -15147,6 +15147,17 @@
    "issue_date": "2018-04-28",
    "html_url": "/fr/opinion/a-glance-into-laws-20180428-6.html",
    "md_url": "/fr/opinion/a-glance-into-laws-20180428-6.md"
+  },
+  {
+   "slug": "against-public-nuisance-20180519-5",
+   "lang": "fr",
+   "category": "opinion",
+   "title": "Contre les nuisances publiques",
+   "summary": "Le Code pénal indien définit la nuisance publique comme tout acte causant un danger ou une gêne à la population. Cet article aborde les mesures légales contre ces nuisances et souligne l'importance de la responsabilité sociale pour maintenir la paix et l'ordre dans la société.",
+   "author": "മുസാഫിര്‍",
+   "issue_date": "2018-05-19",
+   "html_url": "/fr/opinion/against-public-nuisance-20180519-5.html",
+   "md_url": "/fr/opinion/against-public-nuisance-20180519-5.md"
   },
   {
    "slug": "alas-asifa-20180428-1",
