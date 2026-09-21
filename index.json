@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T05:53:17.027280+00:00",
+ "generated_at": "2026-09-21T05:54:10.849071+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6700,
+ "count": 6701,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -71643,6 +71643,17 @@
    "issue_date": "2026-08-22",
    "html_url": "/vi/health/know-this-for-those-caring-for-the-sick-20260822-1.html",
    "md_url": "/vi/health/know-this-for-those-caring-for-the-sick-20260822-1.md"
+  },
+  {
+   "slug": "nutrients-for-thyroid-health-20180505-10",
+   "lang": "vi",
+   "category": "health",
+   "title": "Các dưỡng chất thiết yếu cho sức khỏe tuyến giáp",
+   "summary": "Bài viết này cung cấp thông tin về các dưỡng chất quan trọng hỗ trợ chức năng của tuyến giáp. Đồng thời, bài viết cũng giải thích cách duy trì sức khỏe tuyến giáp thông qua chế độ ăn uống hàng ngày.",
+   "author": "ഡോ. മുഹമ്മദ് കുട്ടി കണ്ണിയന്‍",
+   "issue_date": "2018-05-05",
+   "html_url": "/vi/health/nutrients-for-thyroid-health-20180505-10.html",
+   "md_url": "/vi/health/nutrients-for-thyroid-health-20180505-10.md"
   },
   {
    "slug": "thyroid-problems-20180428-10",
