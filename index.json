@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T02:46:23.656007+00:00",
+ "generated_at": "2026-09-21T02:47:21.244696+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6512,
+ "count": 6513,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -8646,6 +8646,17 @@
    "issue_date": "2017-02-18",
    "html_url": "/de/seerah/can-prophethood-be-attained-by-desire-20170218-1.html",
    "md_url": "/de/seerah/can-prophethood-be-attained-by-desire-20170218-1.md"
+  },
+  {
+   "slug": "from-the-river-to-the-palace-part-2-20180505-6",
+   "lang": "de",
+   "category": "seerah",
+   "title": "Vom Fluss in den Palast",
+   "summary": "Der zweite Teil der Lebensgeschichte von Prophet Musa (a.s.). Er beschreibt die Ereignisse, wie er vom Fluss in den Palast des Pharaos gelangte, und beleuchtet den koranischen Hintergrund dieser Geschehnisse.",
+   "author": "ഹുസൈന്‍ സലഫി, ഷാര്‍ജ",
+   "issue_date": "2018-05-05",
+   "html_url": "/de/seerah/from-the-river-to-the-palace-part-2-20180505-6.html",
+   "md_url": "/de/seerah/from-the-river-to-the-palace-part-2-20180505-6.md"
   },
   {
    "slug": "ibn-abbas-ra-a-scholar-of-knowledge-20170211-4",
