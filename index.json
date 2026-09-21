@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T10:47:53.057865+00:00",
+ "generated_at": "2026-09-21T10:49:05.847276+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6922,
+ "count": 6923,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -55396,6 +55396,17 @@
    "issue_date": "2018-05-05",
    "html_url": "/ru/fiqh/embalming-the-dead-an-islamic-perspective-20180505-5.html",
    "md_url": "/ru/fiqh/embalming-the-dead-an-islamic-perspective-20180505-5.md"
+  },
+  {
+   "slug": "fasting-and-smoking-20180519-4",
+   "lang": "ru",
+   "category": "fiqh",
+   "title": "Пост и курение",
+   "summary": "Пост — это благородный вид поклонения, помогающий обрести богобоязненность и воспитать в себе лучшие качества. В этой статье рассматривается связь между постом и курением, а также разъясняется вред курения с исламской точки зрения.",
+   "author": "ഹംസ ജമാലി",
+   "issue_date": "2018-05-19",
+   "html_url": "/ru/fiqh/fasting-and-smoking-20180519-4.html",
+   "md_url": "/ru/fiqh/fasting-and-smoking-20180519-4.md"
   },
   {
    "slug": "mosque-construction-some-points-to-note-20170325-5",
