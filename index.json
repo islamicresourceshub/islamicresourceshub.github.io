@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-21T04:09:44.381931+00:00",
+ "generated_at": "2026-09-21T04:10:40.467559+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 6592,
+ "count": 6593,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -11836,6 +11836,17 @@
    "issue_date": "2017-01-21",
    "html_url": "/es/story/grown-up-children-20170121-6.html",
    "md_url": "/es/story/grown-up-children-20170121-6.md"
+  },
+  {
+   "slug": "guardians-should-be-role-models-20180505-8",
+   "lang": "es",
+   "category": "story",
+   "title": "Los padres deben ser modelos a seguir",
+   "summary": "A través de la historia de un joven que busca un tesoro, este artículo reflexiona sobre la importancia de que los padres sean modelos ejemplares para sus hijos. Se enfatiza la necesidad de perseverancia, guía espiritual y amor en la crianza, siguiendo el ejemplo profético.",
+   "author": "സി.മുഹമ്മദ് റാഫി ചെമ്പ്ര",
+   "issue_date": "2018-05-05",
+   "html_url": "/es/story/guardians-should-be-role-models-20180505-8.html",
+   "md_url": "/es/story/guardians-should-be-role-models-20180505-8.md"
   },
   {
    "slug": "laws-are-to-be-followed-20170128-5",
