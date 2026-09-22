@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-22T05:11:13.369862+00:00",
+ "generated_at": "2026-09-22T05:12:15.108076+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 7128,
+ "count": 7129,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -75317,6 +75317,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/uz/story/sugar-like-gold-dust-20170128-11.html",
    "md_url": "/uz/story/sugar-like-gold-dust-20170128-11.md"
+  },
+  {
+   "slug": "the-crescent-moon-of-ramadan-20180519-9",
+   "lang": "uz",
+   "category": "story",
+   "title": "Ramazon hiloli",
+   "summary": "Ushbu sheʼr Ramazon oyining kirib kelishi va uning fazilatlari haqida. Unda Ramazon hilolining osmonda koʻrinishidan quvonish va bu oyda qilinadigan solih amallarning ahamiyati tasvirlangan.",
+   "author": "അബൂ ഫായിദ",
+   "issue_date": "2018-05-19",
+   "html_url": "/uz/story/the-crescent-moon-of-ramadan-20180519-9.html",
+   "md_url": "/uz/story/the-crescent-moon-of-ramadan-20180519-9.md"
   },
   {
    "slug": "the-currency-that-was-not-accepted-20170114-3",
