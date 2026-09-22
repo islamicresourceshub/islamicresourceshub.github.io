@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-22T04:37:59.237195+00:00",
+ "generated_at": "2026-09-22T04:38:51.571432+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 7095,
+ "count": 7096,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -6556,6 +6556,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/bn/story/sugar-like-gold-dust-20170128-11.html",
    "md_url": "/bn/story/sugar-like-gold-dust-20170128-11.md"
+  },
+  {
+   "slug": "the-crescent-moon-of-ramadan-20180519-9",
+   "lang": "bn",
+   "category": "story",
+   "title": "রমজানের নতুন চাঁদ",
+   "summary": "রমজান মাসের আগমন এবং এর ফজিলত নিয়ে রচিত একটি কবিতা এটি। আকাশে রমজানের চাঁদ ওঠার আনন্দ এবং এই মাসে সৎকর্মের গুরুত্ব এখানে ফুটে উঠেছে। কবি ভক্তি ও উচ্ছ্বাসে ভরা এই মাসকে স্বাগত জানাচ্ছেন।",
+   "author": "അബൂ ഫായിദ",
+   "issue_date": "2018-05-19",
+   "html_url": "/bn/story/the-crescent-moon-of-ramadan-20180519-9.html",
+   "md_url": "/bn/story/the-crescent-moon-of-ramadan-20180519-9.md"
   },
   {
    "slug": "the-currency-that-was-not-accepted-20170114-3",
