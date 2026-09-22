@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-22T04:50:28.573968+00:00",
+ "generated_at": "2026-09-22T04:51:21.735843+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 7109,
+ "count": 7110,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -29128,6 +29128,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/ko/story/sugar-like-gold-dust-20170128-11.html",
    "md_url": "/ko/story/sugar-like-gold-dust-20170128-11.md"
+  },
+  {
+   "slug": "the-crescent-moon-of-ramadan-20180519-9",
+   "lang": "ko",
+   "category": "story",
+   "title": "라마단의 초승달",
+   "summary": "라마단 달의 도래와 그 축복에 관한 시입니다. 하늘에 뜬 라마단의 초승달을 보며 느끼는 기쁨과 이 달에 행하는 선행의 중요성을 노래하며, 경건함과 환희로 가득 찬 이 달을 맞이하는 마음을 담았습니다.",
+   "author": "അബൂ ഫായിദ",
+   "issue_date": "2018-05-19",
+   "html_url": "/ko/story/the-crescent-moon-of-ramadan-20180519-9.html",
+   "md_url": "/ko/story/the-crescent-moon-of-ramadan-20180519-9.md"
   },
   {
    "slug": "the-currency-that-was-not-accepted-20170114-3",
