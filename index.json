@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-22T03:33:49.162939+00:00",
+ "generated_at": "2026-09-22T03:34:59.069065+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 7036,
+ "count": 7037,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -51480,6 +51480,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/pa/fiqh/mosque-construction-some-points-to-note-20170325-5.html",
    "md_url": "/pa/fiqh/mosque-construction-some-points-to-note-20170325-5.md"
+  },
+  {
+   "slug": "ramadan-fasting-rulings-and-prohibitions-20180519-7",
+   "lang": "pa",
+   "category": "fiqh",
+   "title": "ਰਮਜ਼ਾਨ ਦੇ ਰੋਜ਼ੇ: ਨਿਯਮ ਅਤੇ ਮਨਾਹੀਆਂ",
+   "summary": "ਇਹ ਲੇਖ ਰਮਜ਼ਾਨ ਦੇ ਰੋਜ਼ਿਆਂ ਨਾਲ ਸਬੰਧਤ ਸ਼ਰਈ ਨਿਯਮਾਂ, ਮਨਾਹੀਆਂ ਅਤੇ ਉਹਨਾਂ ਦੇ ਪਿੱਛੇ ਦੀ ਬੁੱਧੀ ਨੂੰ ਸਵਾਲ-ਜਵਾਬ ਦੇ ਰੂਪ ਵਿੱਚ ਪੇਸ਼ ਕਰਦਾ ਹੈ। ਇਸ ਵਿੱਚ ਰੋਜ਼ੇ ਦੀ ਮਹੱਤਤਾ, ਇਸਦੇ ਫ਼ਰਜ਼ ਹੋਣ ਦੇ ਕਾਰਨ ਅਤੇ ਵੱਖ-ਵੱਖ ਸਥਿਤੀਆਂ ਵਿੱਚ ਰੋਜ਼ੇ ਦੇ ਹੁਕਮਾਂ ਬਾਰੇ ਵਿਸਥਾਰਪੂਰਵਕ ਜਾਣਕਾਰੀ ਦਿੱਤੀ ਗਈ ਹੈ।",
+   "author": "ശൈഖ് മുഹമ്മദ്ബ്‌നു സ്വാലിഹ് അല്‍ ഉഥൈമീന്‍",
+   "issue_date": "2018-05-19",
+   "html_url": "/pa/fiqh/ramadan-fasting-rulings-and-prohibitions-20180519-7.html",
+   "md_url": "/pa/fiqh/ramadan-fasting-rulings-and-prohibitions-20180519-7.md"
   },
   {
    "slug": "the-alcoholic-father-20170211-7",
