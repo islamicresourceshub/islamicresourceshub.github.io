@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-22T06:13:52.622077+00:00",
+ "generated_at": "2026-09-22T06:15:19.484768+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 7170,
+ "count": 7171,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -1826,6 +1826,17 @@
    "issue_date": "2017-02-11",
    "html_url": "/am/youth/e-ahamed-s-message-to-the-youth-20170211-5.html",
    "md_url": "/am/youth/e-ahamed-s-message-to-the-youth-20170211-5.md"
+  },
+  {
+   "slug": "sabir-s-fast-20180519-11",
+   "lang": "am",
+   "category": "youth",
+   "title": "የሳቢር ጾም",
+   "summary": "ይህ ታሪክ ሳቢር የተባለ ብልህ ልጅ ስለ ጾም ልምዶቹ የሚተርክ ለህፃናት የተዘጋጀ ነው። ሳቢር ከወላጆቹ ጋር በመሆን ጾምን ለመጾም እና ሶላትን ለመስገድ የሚያሳየው ጉጉት እንዲሁም መልካም ባህሪያቱ በታሪኩ ውስጥ ተገልጸዋል።",
+   "author": "ഉസ്മാന്‍ പാലക്കാഴി",
+   "issue_date": "2018-05-19",
+   "html_url": "/am/youth/sabir-s-fast-20180519-11.html",
+   "md_url": "/am/youth/sabir-s-fast-20180519-11.md"
   },
   {
    "slug": "value-erosion-misleading-the-younger-generation-20180505-13",
