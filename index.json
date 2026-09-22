@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-22T03:53:48.243728+00:00",
+ "generated_at": "2026-09-22T03:54:52.202456+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 7051,
+ "count": 7052,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -75295,6 +75295,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/vi/fiqh/mosque-construction-some-points-to-note-20170325-5.html",
    "md_url": "/vi/fiqh/mosque-construction-some-points-to-note-20170325-5.md"
+  },
+  {
+   "slug": "ramadan-fasting-rulings-and-prohibitions-20180519-7",
+   "lang": "vi",
+   "category": "fiqh",
+   "title": "Các quy định và điều cấm trong tháng Ramadan",
+   "summary": "Đây là bài viết dưới dạng hỏi đáp về các quy định, điều cấm và lý do đằng sau việc nhịn ăn trong tháng Ramadan. Bài viết giải thích chi tiết về tầm quan trọng của việc nhịn ăn, các quy tắc áp dụng và những tình huống cụ thể mà người Hồi giáo thường gặp phải.",
+   "author": "ശൈഖ് മുഹമ്മദ്ബ്‌നു സ്വാലിഹ് അല്‍ ഉഥൈമീന്‍",
+   "issue_date": "2018-05-19",
+   "html_url": "/vi/fiqh/ramadan-fasting-rulings-and-prohibitions-20180519-7.html",
+   "md_url": "/vi/fiqh/ramadan-fasting-rulings-and-prohibitions-20180519-7.md"
   },
   {
    "slug": "the-alcoholic-father-20170211-7",
