@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-22T03:52:31.396298+00:00",
+ "generated_at": "2026-09-22T03:53:48.243728+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 7050,
+ "count": 7051,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -73700,6 +73700,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/uz/fiqh/mosque-construction-some-points-to-note-20170325-5.html",
    "md_url": "/uz/fiqh/mosque-construction-some-points-to-note-20170325-5.md"
+  },
+  {
+   "slug": "ramadan-fasting-rulings-and-prohibitions-20180519-7",
+   "lang": "uz",
+   "category": "fiqh",
+   "title": "Ramazon ro‘zasi: hukmlar va taqiqlar",
+   "summary": "Ushbu maqola Ramazon ro‘zasi bilan bog‘liq hukmlar, taqiqlar va ularning ortidagi hikmatlar haqida savol-javob shaklida tayyorlangan. Unda ro‘zaning farz qilinish sabablari va unga oid shariat qoidalari batafsil tushuntirilgan.",
+   "author": "ശൈഖ് മുഹമ്മദ്ബ്‌നു സ്വാലിഹ് അല്‍ ഉഥൈമീന്‍",
+   "issue_date": "2018-05-19",
+   "html_url": "/uz/fiqh/ramadan-fasting-rulings-and-prohibitions-20180519-7.html",
+   "md_url": "/uz/fiqh/ramadan-fasting-rulings-and-prohibitions-20180519-7.md"
   },
   {
    "slug": "the-alcoholic-father-20170211-7",
