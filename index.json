@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-22T04:41:34.826034+00:00",
+ "generated_at": "2026-09-22T04:42:28.193523+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 7099,
+ "count": 7100,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -13013,6 +13013,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/es/story/sugar-like-gold-dust-20170128-11.html",
    "md_url": "/es/story/sugar-like-gold-dust-20170128-11.md"
+  },
+  {
+   "slug": "the-crescent-moon-of-ramadan-20180519-9",
+   "lang": "es",
+   "category": "story",
+   "title": "La media luna de Ramadán",
+   "summary": "Este es un poema sobre la llegada del mes de Ramadán y sus virtudes. El poema describe la alegría que produce la aparición de la luna creciente en el cielo y la importancia de las buenas obras durante este mes, dando la bienvenida a un tiempo lleno de devoción y felicidad.",
+   "author": "അബൂ ഫായിദ",
+   "issue_date": "2018-05-19",
+   "html_url": "/es/story/the-crescent-moon-of-ramadan-20180519-9.html",
+   "md_url": "/es/story/the-crescent-moon-of-ramadan-20180519-9.md"
   },
   {
    "slug": "the-currency-that-was-not-accepted-20170114-3",
