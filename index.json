@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-22T03:44:21.094750+00:00",
+ "generated_at": "2026-09-22T03:45:59.416726+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 7044,
+ "count": 7045,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -64152,6 +64152,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/ta/fiqh/mosque-construction-some-points-to-note-20170325-5.html",
    "md_url": "/ta/fiqh/mosque-construction-some-points-to-note-20170325-5.md"
+  },
+  {
+   "slug": "ramadan-fasting-rulings-and-prohibitions-20180519-7",
+   "lang": "ta",
+   "category": "fiqh",
+   "title": "ரம்ஜான் நோன்பு: சட்டங்களும் விதிவிலக்குகளும்",
+   "summary": "ரம்ஜான் நோன்பு தொடர்பான சட்டங்கள், விதிவிலக்குகள் மற்றும் அவற்றின் பின்னணியில் உள்ள தர்க்கங்களை கேள்வி-பதில் வடிவில் விளக்கும் கட்டுரை இது. நோன்பின் அவசியம், நோன்பை முறிக்கும் காரணிகள் மற்றும் பயணிகளின் நிலை குறித்த தெளிவான விளக்கங்களை இது வழங்குகிறது.",
+   "author": "ശൈഖ് മുഹമ്മദ്ബ്‌നു സ്വാലിഹ് അല്‍ ഉഥൈമീന്‍",
+   "issue_date": "2018-05-19",
+   "html_url": "/ta/fiqh/ramadan-fasting-rulings-and-prohibitions-20180519-7.html",
+   "md_url": "/ta/fiqh/ramadan-fasting-rulings-and-prohibitions-20180519-7.md"
   },
   {
    "slug": "the-alcoholic-father-20170211-7",
