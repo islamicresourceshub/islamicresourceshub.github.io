@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-22T05:46:45.224723+00:00",
+ "generated_at": "2026-09-22T05:48:29.951942+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 7156,
+ "count": 7157,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -56628,6 +56628,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/ru/dawah/prayer-that-is-worship-20170325-6.html",
    "md_url": "/ru/dawah/prayer-that-is-worship-20170325-6.md"
+  },
+  {
+   "slug": "ramadan-in-the-age-of-social-media-20180519-10",
+   "lang": "ru",
+   "category": "dawah",
+   "title": "Рамадан в эпоху социальных сетей",
+   "summary": "Эта статья посвящена тому, как верующим следует вести себя в месяц Рамадан в эпоху социальных сетей. В ней подчеркивается важность достойного поведения как в онлайн, так и в офлайн пространстве, а также содержится напоминание о том, что излишнее присутствие в соцсетях может лишить Рамадан его истинной ценности.",
+   "author": "അബ്ദുല്‍മാലിക് സലഫി",
+   "issue_date": "2018-05-19",
+   "html_url": "/ru/dawah/ramadan-in-the-age-of-social-media-20180519-10.html",
+   "md_url": "/ru/dawah/ramadan-in-the-age-of-social-media-20180519-10.md"
   },
   {
    "slug": "religion-is-fearlessness-20170114-6",
