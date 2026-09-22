@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-22T04:57:00.609753+00:00",
+ "generated_at": "2026-09-22T04:58:07.645694+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 7115,
+ "count": 7116,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -54395,6 +54395,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/ps/story/sugar-like-gold-dust-20170128-11.html",
    "md_url": "/ps/story/sugar-like-gold-dust-20170128-11.md"
+  },
+  {
+   "slug": "the-crescent-moon-of-ramadan-20180519-9",
+   "lang": "ps",
+   "category": "story",
+   "title": "د رمضان سپوږمۍ",
+   "summary": "دا د رمضان د مبارکې میاشتې د راتګ او د هغې د فضیلتونو په اړه یو نظم دی. شاعر د رمضان د سپوږمۍ په لیدو د خوښۍ څرګندونه کوي او په دې میاشت کې د نیکو اعمالو پر اهمیت او د زړه په اخلاص سره د الله تعالی د عبادت پر اړتیا ټینګار کوي.",
+   "author": "അബൂ ഫായിദ",
+   "issue_date": "2018-05-19",
+   "html_url": "/ps/story/the-crescent-moon-of-ramadan-20180519-9.html",
+   "md_url": "/ps/story/the-crescent-moon-of-ramadan-20180519-9.md"
   },
   {
    "slug": "the-currency-that-was-not-accepted-20170114-3",
