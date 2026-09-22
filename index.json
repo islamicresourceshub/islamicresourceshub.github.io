@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-22T04:44:14.975942+00:00",
+ "generated_at": "2026-09-22T04:45:07.402488+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 7102,
+ "count": 7103,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -17842,6 +17842,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/gu/story/sugar-like-gold-dust-20170128-11.html",
    "md_url": "/gu/story/sugar-like-gold-dust-20170128-11.md"
+  },
+  {
+   "slug": "the-crescent-moon-of-ramadan-20180519-9",
+   "lang": "gu",
+   "category": "story",
+   "title": "રમઝાનનો અર્ધચંદ્રાકાર",
+   "summary": "આ રમઝાન મહિનાના આગમન અને તેની પવિત્રતા વિશેની એક કવિતા છે. કવિતા રમઝાનના ચાંદના ઉદય પરની ખુશી અને આ મહિનામાં સત્કર્મોના મહત્વનું વર્ણન કરે છે, જેમાં ભક્તિ અને આનંદથી ભરેલા આ મહિનાનું સ્વાગત કરવામાં આવ્યું છે.",
+   "author": "അബൂ ഫായിദ",
+   "issue_date": "2018-05-19",
+   "html_url": "/gu/story/the-crescent-moon-of-ramadan-20180519-9.html",
+   "md_url": "/gu/story/the-crescent-moon-of-ramadan-20180519-9.md"
   },
   {
    "slug": "the-currency-that-was-not-accepted-20170114-3",
