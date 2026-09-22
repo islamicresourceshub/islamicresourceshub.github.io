@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-22T03:36:13.470132+00:00",
+ "generated_at": "2026-09-22T03:37:17.395119+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 7038,
+ "count": 7039,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -54659,6 +54659,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/pt/fiqh/mosque-construction-some-points-to-note-20170325-5.html",
    "md_url": "/pt/fiqh/mosque-construction-some-points-to-note-20170325-5.md"
+  },
+  {
+   "slug": "ramadan-fasting-rulings-and-prohibitions-20180519-7",
+   "lang": "pt",
+   "category": "fiqh",
+   "title": "Regras e proibições do jejum de Ramadã",
+   "summary": "Este artigo apresenta, em formato de perguntas e respostas, as regras e proibições relacionadas ao jejum de Ramadã, explicando a lógica por trás de sua obrigatoriedade e as normas que o regem. O conteúdo foi traduzido por Sayyid Sa'far Swadiq.",
+   "author": "ശൈഖ് മുഹമ്മദ്ബ്‌നു സ്വാലിഹ് അല്‍ ഉഥൈമീന്‍",
+   "issue_date": "2018-05-19",
+   "html_url": "/pt/fiqh/ramadan-fasting-rulings-and-prohibitions-20180519-7.html",
+   "md_url": "/pt/fiqh/ramadan-fasting-rulings-and-prohibitions-20180519-7.md"
   },
   {
    "slug": "the-alcoholic-father-20170211-7",
