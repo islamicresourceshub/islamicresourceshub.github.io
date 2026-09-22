@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-22T05:02:36.373326+00:00",
+ "generated_at": "2026-09-22T05:03:43.222878+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 7120,
+ "count": 7121,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -62436,6 +62436,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/sq/story/sugar-like-gold-dust-20170128-11.html",
    "md_url": "/sq/story/sugar-like-gold-dust-20170128-11.md"
+  },
+  {
+   "slug": "the-crescent-moon-of-ramadan-20180519-9",
+   "lang": "sq",
+   "category": "story",
+   "title": "Hëna e re e Ramazanit",
+   "summary": "Kjo është një poezi për ardhjen e muajit të Ramazanit dhe bekimet e tij. Poezia përshkruan gëzimin e shfaqjes së hënës së re në qiell dhe rëndësinë e veprave të mira gjatë këtij muaji, duke mirëpritur këtë periudhë plot përkushtim dhe gëzim.",
+   "author": "അബൂ ഫായിദ",
+   "issue_date": "2018-05-19",
+   "html_url": "/sq/story/the-crescent-moon-of-ramadan-20180519-9.html",
+   "md_url": "/sq/story/the-crescent-moon-of-ramadan-20180519-9.md"
   },
   {
    "slug": "the-currency-that-was-not-accepted-20170114-3",
