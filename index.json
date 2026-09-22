@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-22T05:04:50.483539+00:00",
+ "generated_at": "2026-09-22T05:05:58.076600+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 7122,
+ "count": 7123,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -65626,6 +65626,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/ta/story/sugar-like-gold-dust-20170128-11.html",
    "md_url": "/ta/story/sugar-like-gold-dust-20170128-11.md"
+  },
+  {
+   "slug": "the-crescent-moon-of-ramadan-20180519-9",
+   "lang": "ta",
+   "category": "story",
+   "title": "ரம்ஜான் பிறை",
+   "summary": "ரம்ஜான் மாதத்தின் வருகையையும் அதன் சிறப்புகளையும் போற்றும் கவிதை இது. ரம்ஜான் பிறை வானில் தோன்றுவதில் உள்ள மகிழ்ச்சியையும், இந்த மாதத்தில் செய்யப்படும் நற்செயல்களின் முக்கியத்துவத்தையும், இறைபக்தியும் மகிழ்ச்சியும் நிறைந்த இந்த மாதத்தை கவிஞர் வரவேற்கும் விதத்தையும் இக்கவிதை விவரிக்கிறது.",
+   "author": "അബൂ ഫായിദ",
+   "issue_date": "2018-05-19",
+   "html_url": "/ta/story/the-crescent-moon-of-ramadan-20180519-9.html",
+   "md_url": "/ta/story/the-crescent-moon-of-ramadan-20180519-9.md"
   },
   {
    "slug": "the-currency-that-was-not-accepted-20170114-3",
