@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-22T04:38:51.571432+00:00",
+ "generated_at": "2026-09-22T04:39:44.764219+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 7096,
+ "count": 7097,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -8173,6 +8173,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/bs/story/sugar-like-gold-dust-20170128-11.html",
    "md_url": "/bs/story/sugar-like-gold-dust-20170128-11.md"
+  },
+  {
+   "slug": "the-crescent-moon-of-ramadan-20180519-9",
+   "lang": "bs",
+   "category": "story",
+   "title": "Mladi mjesec ramazana",
+   "summary": "Ovo je pjesma o dolasku mjeseca ramazana i njegovim blagodatima. Pjesma opisuje radost zbog pojave mladog mjeseca na nebu i važnost dobrih djela u ovom mjesecu, srdačno dočekujući vrijeme ispunjeno pobožnošću i radošću.",
+   "author": "അബൂ ഫായിദ",
+   "issue_date": "2018-05-19",
+   "html_url": "/bs/story/the-crescent-moon-of-ramadan-20180519-9.html",
+   "md_url": "/bs/story/the-crescent-moon-of-ramadan-20180519-9.md"
   },
   {
    "slug": "the-currency-that-was-not-accepted-20170114-3",
