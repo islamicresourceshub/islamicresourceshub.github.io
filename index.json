@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-22T03:34:59.069065+00:00",
+ "generated_at": "2026-09-22T03:36:13.470132+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 7037,
+ "count": 7038,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -53064,6 +53064,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/ps/fiqh/mosque-construction-some-points-to-note-20170325-5.html",
    "md_url": "/ps/fiqh/mosque-construction-some-points-to-note-20170325-5.md"
+  },
+  {
+   "slug": "ramadan-fasting-rulings-and-prohibitions-20180519-7",
+   "lang": "ps",
+   "category": "fiqh",
+   "title": "د روژې نیولو احکام او ممانعتونه",
+   "summary": "دا د روژې د احکامو او ممانعتونو په اړه د پوښتنو او ځوابونو په بڼه یوه لیکنه ده. په دې کې د روژې د فرضیت حکمت، د روژې د ماتولو لاملونه او د مسافر او ناروغ لپاره د روژې د احکامو په اړه تفصیل ورکړل شوی دی.",
+   "author": "ശൈഖ് മുഹമ്മദ്ബ്‌നു സ്വാലിഹ് അല്‍ ഉഥൈമീന്‍",
+   "issue_date": "2018-05-19",
+   "html_url": "/ps/fiqh/ramadan-fasting-rulings-and-prohibitions-20180519-7.html",
+   "md_url": "/ps/fiqh/ramadan-fasting-rulings-and-prohibitions-20180519-7.md"
   },
   {
    "slug": "the-alcoholic-father-20170211-7",
