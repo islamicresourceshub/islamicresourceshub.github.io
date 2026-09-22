@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-22T05:05:58.076600+00:00",
+ "generated_at": "2026-09-22T05:07:03.019257+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 7123,
+ "count": 7124,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -67232,6 +67232,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/te/story/sugar-like-gold-dust-20170128-11.html",
    "md_url": "/te/story/sugar-like-gold-dust-20170128-11.md"
+  },
+  {
+   "slug": "the-crescent-moon-of-ramadan-20180519-9",
+   "lang": "te",
+   "category": "story",
+   "title": "రమజాన్ నెలవంక",
+   "summary": "రమజాన్ మాసం రాక మరియు దాని విశిష్టతలను తెలియజేసే కవిత ఇది. ఆకాశంలో నెలవంక కనిపించడంతో కలిగే ఆనందాన్ని, ఈ మాసంలో సత్కార్యాల ప్రాముఖ్యతను మరియు భక్తిభావంతో ఈ మాసాన్ని ఆహ్వానించడాన్ని ఈ కవిత వర్ణిస్తుంది.",
+   "author": "അബൂ ഫായിദ",
+   "issue_date": "2018-05-19",
+   "html_url": "/te/story/the-crescent-moon-of-ramadan-20180519-9.html",
+   "md_url": "/te/story/the-crescent-moon-of-ramadan-20180519-9.md"
   },
   {
    "slug": "the-currency-that-was-not-accepted-20170114-3",
