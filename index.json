@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-22T03:23:49.935416+00:00",
+ "generated_at": "2026-09-22T03:25:38.959632+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 7029,
+ "count": 7030,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -24750,6 +24750,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/ja/fiqh/mosque-construction-some-points-to-note-20170325-5.html",
    "md_url": "/ja/fiqh/mosque-construction-some-points-to-note-20170325-5.md"
+  },
+  {
+   "slug": "ramadan-fasting-rulings-and-prohibitions-20180519-7",
+   "lang": "ja",
+   "category": "fiqh",
+   "title": "ラマダンの断食：規定と禁止事項",
+   "summary": "ラマダンの断食に関連する規定や禁止事項、そしてその背後にある論理について、Q&A形式で解説した記事です。断食が義務付けられた理由や、断食中のルールについて詳しく説明しています。",
+   "author": "ശൈഖ് മുഹമ്മദ്ബ്‌നു സ്വാലിഹ് അല്‍ ഉഥൈമീന്‍",
+   "issue_date": "2018-05-19",
+   "html_url": "/ja/fiqh/ramadan-fasting-rulings-and-prohibitions-20180519-7.html",
+   "md_url": "/ja/fiqh/ramadan-fasting-rulings-and-prohibitions-20180519-7.md"
   },
   {
    "slug": "the-alcoholic-father-20170211-7",
