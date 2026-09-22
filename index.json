@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-22T05:13:06.360530+00:00",
+ "generated_at": "2026-09-22T05:13:59.703508+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 7130,
+ "count": 7131,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -78551,6 +78551,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/zh/story/sugar-like-gold-dust-20170128-11.html",
    "md_url": "/zh/story/sugar-like-gold-dust-20170128-11.md"
+  },
+  {
+   "slug": "the-crescent-moon-of-ramadan-20180519-9",
+   "lang": "zh",
+   "category": "story",
+   "title": "斋月的新月",
+   "summary": "这是一首关于斋月到来及其神圣性的诗歌。诗中描绘了新月出现在天际时的喜悦，强调了斋月行善的重要性，并以虔诚与欢欣的心情迎接这个月份。",
+   "author": "അബൂ ഫായിദ",
+   "issue_date": "2018-05-19",
+   "html_url": "/zh/story/the-crescent-moon-of-ramadan-20180519-9.html",
+   "md_url": "/zh/story/the-crescent-moon-of-ramadan-20180519-9.md"
   },
   {
    "slug": "the-currency-that-was-not-accepted-20170114-3",
