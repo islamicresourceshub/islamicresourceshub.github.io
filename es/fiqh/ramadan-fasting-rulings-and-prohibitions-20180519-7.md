@@ -1,0 +1,483 @@
+---
+title: Reglas y prohibiciones del ayuno de Ramadán
+author: ശൈഖ് മുഹമ്മദ്ബ്‌നു സ്വാലിഹ് അല്‍ ഉഥൈമീന്‍
+lang: es
+category: fiqh
+kind: article
+tags:
+- ramadan
+- fasting
+- fiqh
+- islamic rulings
+- wisdom
+- questions and answers
+summary: Este artículo presenta una serie de preguntas y respuestas sobre las normas, prohibiciones y la lógica detrás del ayuno de Ramadán. Explica los motivos de su obligatoriedad y aclara diversas situaciones prácticas que enfrentan los creyentes durante este mes sagrado.
+source:
+  magazine: Nerpatham Weekly
+  issue_date: '2018-05-19'
+  pdf_url: http://nerpatham.com/vol-no-02/images/archives/Nerpatham-2018May19.pdf
+date_processed: '2026-08-30T16:00:34Z'
+slug: ramadan-fasting-rulings-and-prohibitions-20180519-7
+translation_of: ramadan-fasting-rulings-and-prohibitions-20180519-7
+---
+
+**(Traducción: Sayyid Sa'far Sadiq)**
+
+![](/assets/ramadan-fasting-rulings-and-prohibitions-20180519-7/19May18-07.jpg)
+
+**1. ¿Cuál es la lógica detrás de la obligatoriedad del ayuno?**
+
+Respuesta: Podemos comprenderlo recitando el siguiente versículo del Corán. Al-lah dice:
+
+«¡Oh, creyentes! Se les ha prescrito el ayuno al igual que a quienes les precedieron, para que alcancen la piedad» (Corán 2:183).
+
+El objetivo de prescribir el ayuno es alcanzar la piedad, que consiste en abstenerse de lo prohibido y cumplir con los mandatos divinos. Abu Huraira (que Al-lah esté complacido con él) relata que el Profeta ﷺ dijo: «Quien no abandona las palabras falsas y las malas acciones, Al-lah no tiene necesidad de que se abstenga de su comida y bebida» (Bujari).
+
+De este hadiz queda claro que para el ayunante es esencial realizar las acciones obligatorias y abstenerse de lo prohibido. Si durante el Ramadán se evita por completo la calumnia, el chisme, la mentira, el comercio ilícito y la indecencia, será posible mantener esa conducta durante los demás meses del año.
+
+Lamentablemente, muchos realizan actos que no son dignos de la pureza del ayuno, descuidando las obligaciones y cometiendo prohibiciones. Por ello, es necesario estar alerta, ya que ciertas acciones disminuyen la recompensa del ayuno, mientras que otras pueden anularlo por completo.
+
+**2. ¿Cuál es su opinión sobre la propuesta de unificar el ayuno y la festividad de los musulmanes en todo el mundo basándose en el amanecer y el atardecer de La Meca?**
+
+Respuesta: Desde el punto de vista astronómico, esto es imposible. Como señaló el Sheij al-Islam Ibn Taymiyyah, los horarios de salida y puesta del sol varían según la ubicación geográfica. Por lo tanto, basándose en las pruebas y la experiencia, cada país tiene sus propias normas.
+
+Evidencia de las fuentes: Al-lah dice: «...quien de ustedes presencie el inicio del mes, debe ayunarlo...» (Corán 2:185).
+
+Si la gente en una parte del mundo no ve la luna nueva y solo se ve en La Meca, ¿cómo se cumpliría el mandato del versículo para los demás? Además, el Profeta ﷺ dijo:
+
+Muhammad ibn Ziyad (que Al-lah esté complacido con él) relata que escuchó a Abu Huraira (que Al-lah esté complacido con él) decir: El Profeta ﷺ dijo: «Ayunen cuando vean la luna nueva y terminen el ayuno cuando la vean» (Bujari, Muslim).
+
+Basándose en esta evidencia, ¿cómo podrían los habitantes de países como Pakistán ayunar si la luna se vio en La Meca? Para ellos, el mes de Ramadán aún no ha comenzado. El Profeta ﷺ especificó la condición de «verla».
+
+Experiencia: Es una analogía clara que nadie puede negar. Sabemos que el sol sale en el este antes que en el oeste. Si el sol sale en el este, ¿deberíamos ayunar mientras aún es de noche en nuestra ubicación? La respuesta es no. Del mismo modo, si el sol se pone en el este, ¿deberíamos romper el ayuno mientras aún es de día en nuestra ubicación? La respuesta es no. Por lo tanto, la norma de la luna es similar a la del sol. Al-lah dice:
+
+«...Coman y beban hasta que distingan el hilo blanco del hilo negro de la aurora. Luego, completen el ayuno hasta la noche...» (Corán 2:187).
+
+Basándonos en la evidencia explicada, cada país tiene sus propias normas según sus horarios de salida y puesta del sol. El ayuno y la festividad se deciden, tal como Al-lah estableció en el Corán y el Profeta ﷺ en la Sunnah, basándose en la observación de la luna.
+
+(Aquí se discute el tema de celebrar el ayuno y la festividad en un solo día a nivel mundial. Sin embargo, esto contradice el Corán, la Sunnah establecida y las leyes astronómicas. Es un hecho conocido que los tiempos de oración y ayuno varían según la diferencia en el amanecer y el atardecer. Para más información, consulte el libro «La luna nueva en el Corán y la ciencia» escrito por Umar Farooq. Trad:).
+
+---
+
+**3. Alguien que ayunaba en Ramadán viajó a otro país. En su país de origen se vio la luna de Shawwal y se confirmó la festividad, pero en el país al que llegó no se ha visto. ¿Qué debe hacer?**
+
+![](/assets/ramadan-fasting-rulings-and-prohibitions-20180519-7/19May18-08.jpg)
+
+Respuesta: Si una persona viaja de un país a otro, debe seguir la norma del lugar donde se encuentra. Es decir, debe celebrar la festividad cuando la gente de ese lugar la celebre. El Profeta ﷺ dijo que se debe ayunar cuando la gente ayuna. Se debe celebrar el Eid al-Fitr y el Eid al-Adha junto con ellos, incluso si eso implica un día más o menos. Del mismo modo, si el atardecer ocurre una o dos horas más tarde en el país al que llega, debe romper el ayuno según el horario local.
+
+(Ejemplo: Alguien que viaja de la India a Arabia Saudita a las 6 a.m. durante el Ramadán debe romper el ayuno según el horario saudí, que es dos horas y media más tarde que el de la India. Esto significa que no debe romper el ayuno cuando lo hacen en la India).
+
+La razón es que el Profeta ﷺ dijo «cuando la vean», refiriéndose a la luna. Lo mismo ocurre a la inversa: si en el país al que llega se ve la luna de Shawwal uno o dos días antes, debe celebrar la festividad con ellos y recuperar los días de ayuno perdidos después del primer día de Shawwal. Dado que los meses lunares no tienen menos de 29 días, si pierde un día, debe recuperar uno; si pierde dos, debe recuperar dos. Si ve la luna de Shawwal antes de completar 29 días en el lugar al que llegó, debe celebrar la festividad con ellos y recuperar los días faltantes después.
+
+---
+
+**4. ¿Tienen permiso para dejar de ayunar quienes realizan trabajos pesados y difíciles?**
+
+Respuesta: En mi opinión, basada en la evidencia, no está permitido dejar de ayunar por motivos laborales. Si no es posible combinar el trabajo y el ayuno, la persona debe tomarse vacaciones durante el Ramadán para ayunar, ya que el ayuno es uno de los pilares del Islam y no debe ser descuidado.
+
+**4. ¿Qué debe hacer una joven que ayunó durante su periodo menstrual por ignorancia?**
+
+Respuesta: Debe recuperar los días de ayuno realizados durante su periodo, ya que el ayuno de una mujer menstruante no es aceptable, incluso si fue por ignorancia. Si una joven tuvo su primer periodo y, por vergüenza, no se lo dijo a su familia, no debe ayunar. Debe recuperar todos los días perdidos. Cuando a una mujer le comienza el periodo, significa que ha alcanzado la madurez, por lo que es obligatorio recuperar los días de ayuno perdidos.
+
+---
+
+**5. ¿Cuál es la norma para alguien que deja de ayunar en Ramadán para ganarse el sustento para sí mismo y para quienes dependen de él?**
+
+Respuesta: Algunos eruditos han dicho que estas personas se encuentran en una situación similar a la de los enfermos, a quienes se les permite dejar de ayunar. Si un enfermo no puede ayunar en absoluto, puede dejar de hacerlo y recuperar los días después de sanar. Si muere, alguien más debe hacerlo por él. Si su tutor no puede hacerlo, debe alimentar a un necesitado por cada día perdido.
+
+Sin embargo, la opinión de los eruditos que no los comparan con los enfermos es la siguiente: todos los actos de adoración tienen un tiempo determinado. Si alguien retrasa un acto de adoración sin una razón válida, no será aceptado. Debe aumentar sus buenas obras y pedir perdón a Al-lah. La evidencia es:
+
+El Profeta ﷺ dijo: «Quien realice una acción que no esté conforme con nuestra orden, será rechazada» (Bujari, Muslim).
+
+Al igual que los actos de adoración no son aceptables si se realizan antes de tiempo, tampoco lo son si se realizan después, a menos que existan razones como la ignorancia o el olvido.
+
+El Profeta ﷺ dijo sobre el olvido: «Quien se duerma durante la hora de la oración o la olvide, que rece cuando la recuerde; no hay otra expiación» (Muslim).
+
+La persona que dejó de ayunar para buscar el sustento cree que está en la misma situación que el enfermo, pero Al-lah sabe más.
+
+---
+
+**6. ¿Cuáles son las razones permitidas para dejar de ayunar?**
+
+![](/assets/ramadan-fasting-rulings-and-prohibitions-20180519-7/19May18-09.jpg)
+
+Respuesta: Según el Corán, la enfermedad y el viaje son razones permitidas. Asimismo, una mujer embarazada puede dejar de ayunar si teme por su salud o la de su hijo. Lo mismo se aplica a una mujer que amamanta. También se puede dejar de ayunar para salvar a alguien en peligro, como alguien que se está ahogando o alguien atrapado en un incendio. También está permitido dejar de ayunar para participar en la Yihad, como el Islam enseña. El Profeta ﷺ dijo a sus compañeros durante la conquista de La Meca:
+
+«Mañana se enfrentarán al enemigo, por lo que es mejor para su salud y fuerza que no ayunen. Por lo tanto, no ayunen» (Muslim).
+
+Si alguien deja de ayunar por una razón permitida y esa razón desaparece, no es necesario que ayune el resto del día. Por ejemplo, si alguien deja de ayunar para salvar a alguien que se ahoga, no tiene que ayunar el resto del día después de haberlo salvado. Esta es la opinión válida. Si un enfermo se recupera durante el día, o un viajero llega a su destino, o una mujer se purifica de su periodo, no tienen que ayunar el resto del día, ya que dejaron de ayunar por una razón permitida por el Islam.
+
+Sin embargo, si se descubre durante el día que ha comenzado el mes de Ramadán, es obligatorio ayunar el resto del día. La diferencia entre ambos casos es clara: si ya se ha confirmado que es día de ayuno, es obligatorio ayunarlo. Pero antes de que se confirme, tienen una excusa por ignorancia.
+
+---
+
+**7. ¿Qué debe hacer alguien que se durmió sin la intención de ayunar antes de ver la luna nueva de Ramadán y despertó después del amanecer sabiendo que el Ramadán había comenzado? ¿Debe recuperar ese día?**
+
+Respuesta: La mayoría de los eruditos opinan que debe ayunar el resto del día y recuperar ese día más tarde. La única opinión contraria es la del Sheij al-Islam Ibn Taymiyyah (que Al-lah tenga misericordia de él).
+
+Su opinión es: «La intención de ayunar debe ser desde el momento en que se conoce la noticia de la luna nueva. Esta persona no lo sabía, por lo que tiene una excusa. Si hubiera sabido que se había visto la luna, nunca se habría dormido sin la intención de ayunar. Es ignorante al respecto, y la ignorancia es una excusa. Por lo tanto, su ayuno es válido». Según esta opinión, no es necesario recuperar el día.
+
+La opinión de la mayoría es ayunar ese día y recuperarlo después. En mi opinión, por precaución, es mejor recuperar ese día.
+
+---
+
+**8. Si alguien dejó de ayunar por una razón permitida y esa razón termina durante el día, ¿debe ayunar el resto del día?**
+
+Respuesta: No es necesario que ayune el resto del día, ya que dejó de ayunar por una razón permitida. Por ejemplo, si alguien necesita tomar una medicina esencial, su ayuno se rompe. Como lo hizo por una razón permitida, no tiene que ayunar el resto del día; basta con recuperar el día después. No hay beneficio religioso en ayunar el resto del día, y no sería correcto.
+
+Ejemplo: Alguien ve a una persona ahogándose y dice: «Si bebo un poco de agua, tendré la fuerza para salvarlo; si no, no podré». Entonces bebe agua y lo salva. Puede comer y beber el resto del día porque dejó de ayunar por una razón permitida por el Islam. Si alguien deja de ayunar sin una razón permitida, debe ayunar el resto del día y recuperar el día después, porque no tenía permiso para romper la santidad del día.
+
+---
+
+**9. ¿Cuál es la norma para una mujer con parálisis a quien el médico le recomienda dejar de ayunar?**
+
+Respuesta: Al-lah dice: «...quien de ustedes esté enfermo o de viaje, que ayune el mismo número de días en otra ocasión. Al-lah desea facilitarles las cosas y no dificultárselas...» (Corán 2:185).
+
+Si se trata de una enfermedad sin esperanza de recuperación, debe alimentar a un necesitado por cada día perdido. Debe ser comida normal y de buena calidad. La mujer enferma debe alimentar a un necesitado por cada día.
+
+---
+
+**10. ¿Cómo y cuándo debe rezar y ayunar el viajero?**
+
+![](/assets/ramadan-fasting-rulings-and-prohibitions-20180519-7/19May18-10.jpg)
+
+Respuesta: Desde que el viajero sale de su ciudad hasta que regresa, debe realizar las oraciones de cuatro unidades (rak'at) como dos unidades. Aisha (que Al-lah esté complacido con ella) dice:
+
+«La oración fue prescrita originalmente como dos unidades; se mantuvo así para los viajeros y se completó para los residentes». Otro reporte dice: «Y se aumentó para los residentes» (Bujari, Muslim).
+
+Anas ibn Malik (que Al-lah esté complacido con él) relata: «Salimos con el Profeta ﷺ de Medina a La Meca y rezamos dos unidades hasta que regresamos a Medina» (Bujari, Muslim).
+
+Sin embargo, si el viajero reza detrás de un imán residente, debe completar las cuatro unidades, incluso si se une a la oración desde el principio o a mitad de ella. El Profeta ﷺ dijo:
+
+«Cuando escuchen el iqamah, caminen hacia la oración con calma y dignidad. No corran. Recen lo que alcancen y completen lo que les falte».
+
+Se le preguntó a Ibn Abbas (que Al-lah esté complacido con él): «¿Por qué el viajero reza cuatro unidades detrás de un residente y dos cuando está solo?». Él respondió: «Es parte de la Sunnah del Profeta».
+
+El viajero no debe abandonar la oración en congregación, ya que incluso en tiempos de guerra, Al-lah dijo:
+
+«(¡Oh, Profeta!) Si estás entre ellos y diriges la oración, que un grupo se ponga de pie contigo...» (Corán 4:102).
+
+Si el viajero escucha el llamado a la oración, debe participar en la congregación de la mezquita, a menos que la mezquita esté muy lejos o tema perder a sus compañeros.
+
+Asimismo, el viajero puede realizar oraciones voluntarias (Sunnah), excepto las oraciones regulares (rawatib) de Dhuhr, Maghrib e Isha. Puede realizar el Witr, la oración nocturna, la oración de Duha y las dos unidades antes del Fajr.
+
+También puede combinar las oraciones de Dhuhr y Asr, y Maghrib e Isha, ya sea adelantándolas o retrasándolas, según lo que sea más fácil.
+
+Sin embargo, si decide quedarse en un lugar, es mejor no combinar las oraciones, aunque si lo hace, no hay problema. Ambas prácticas provienen del Profeta ﷺ.
+
+Los viajeros pueden ayunar en Ramadán o dejar de hacerlo. Si dejan de ayunar, deben recuperar los días perdidos. Es mejor para el viajero dejar de ayunar si le resulta difícil, ya que a Al-lah le gusta que se aprovechen sus concesiones.
+
+---
+
+**11. ¿Cuál es la norma para el viajero que ayuna a pesar de las dificultades?**
+
+Respuesta: Si el viajero ayuna con dificultad, es algo reprobable. Vea el siguiente dicho del Profeta:
+
+Al ver a alguien que tenía a alguien dándole sombra y a la gente reunida a su alrededor, el Profeta ﷺ preguntó: «¿Qué es esto?». Dijeron: «Es un ayunante». El Profeta ﷺ dijo: «No es un acto de piedad ayunar durante un viaje» (Bujari, Muslim).
+
+Si la situación es de gran dificultad, es obligatorio para el viajero dejar de ayunar. Cuando se le informó al Profeta ﷺ que era difícil para la gente ayunar durante el viaje, les dijo que dejaran de hacerlo. Cuando se le dijo que algunos seguían ayunando, el Profeta ﷺ dijo: «Ellos son los desobedientes, ellos son los desobedientes» (Muslim).
+
+Si el viajero no tiene ninguna dificultad, es mejor que ayune, ya que está confirmado que el Profeta ﷺ ayunó durante un viaje.
+
+Abu Darda (que Al-lah esté complacido con él) dijo: «Estábamos en un viaje con el Profeta ﷺ en un día de calor intenso durante el Ramadán. Nadie ayunaba excepto el Profeta ﷺ y Abdullah ibn Rawaha» (Bujari, Muslim).
+
+(Como el Profeta ﷺ ayunó, esto demuestra que también es permisible. Sin embargo, como opinaron los eruditos, el viajero puede decidir por sí mismo según su estado de salud. Trad:).
+
+![](/assets/ramadan-fasting-rulings-and-prohibitions-20180519-7/19May18-11.jpg)
+
+---
+
+**12. En la era moderna, con las comodidades de viaje actuales, ayunar no es difícil. ¿Cuál es la norma para el viajero en esta situación?**
+
+Respuesta: El viajero puede ayunar o dejar de hacerlo. Al-lah dice: «...quien de ustedes esté enfermo o de viaje, que ayune el mismo número de días en otra ocasión...» (Corán 2:185).
+
+Los compañeros solían viajar con el Profeta ﷺ y entre ellos había quienes ayunaban y quienes no. Ninguno criticaba al otro. El Profeta ﷺ solía ayunar durante los viajes.
+
+Abu Darda (que Al-lah esté complacido con él) dijo: «Estábamos en un viaje con el Profeta ﷺ en un día de calor intenso durante el Ramadán. Nadie ayunaba excepto el Profeta ﷺ y Abdullah ibn Rawaha» (Bujari, Muslim).
+
+La norma para el viajero es que puede ayunar o dejar de hacerlo. Sin embargo, si no hay dificultad, es mejor ayunar, ya que tiene tres beneficios: 1. Seguir la Sunnah del Profeta ﷺ. 2. Comodidad: ayunar con la gente es más cómodo que hacerlo solo. 3. Cumplir con la obligación rápidamente.
+
+---
+
+**13. Si un viajero llega a La Meca ayunando, ¿puede dejar de ayunar para realizar la Umrah?**
+
+Respuesta: Durante la conquista de La Meca, el Profeta ﷺ entró en La Meca el día 20 de Ramadán y dejó de ayunar. Rezó dos unidades con los habitantes de La Meca y les ordenó completar la oración, diciendo: «¡Oh, habitantes de La Meca! Completen su oración, nosotros somos viajeros» (Bujari). Está registrado en el Sahih de Bujari que el Profeta ﷺ permaneció en La Meca el resto de los días sin ayunar. Si alguien llega a La Meca para realizar la Umrah, su viaje no termina, por lo que no es obligatorio ayunar. Algunos ayunan durante el viaje diciendo que es fácil, pero luego se agotan. A veces preguntan si pueden romper el ayuno después de realizar la Umrah o si deben hacerlo antes.
+
+A ellos les decimos: dejen de ayunar desde el principio para realizar la Umrah con energía. Quienes vienen a La Meca para la Umrah deben realizar el acto rápidamente. El Profeta ﷺ, al entrar en La Meca para la Umrah, se apresuraba a ir a la mezquita para completar el acto, incluso ataba a su animal cerca de la mezquita. Por lo tanto, es mejor para quienes vienen a La Meca en Ramadán para la Umrah dejar de ayunar y realizarla durante el día con energía, en lugar de romper el ayuno y realizarla por la noche.
+
+Está confirmado del Profeta ﷺ: «El Profeta ﷺ ayunaba durante el viaje de la conquista de La Meca. La gente se acercó a él y dijo: '¡Oh, Mensajero de Al-lah! La gente tiene mucha dificultad por el ayuno'. Esto ocurrió después de la oración de Asr. El Profeta ﷺ pidió agua y rompió su ayuno durante el viaje, al final del día» (Muslim).
+
+El Profeta ﷺ hizo esto para enseñar a la gente que se puede dejar de ayunar durante el viaje. Ayunar con gran dificultad durante el viaje contradice la Sunnah del Profeta ﷺ. El dicho «No es un acto de piedad ayunar durante un viaje» enseña esto.
+
+---
+
+**14. ¿Pueden las mujeres que amamantan dejar de ayunar? ¿Cuándo deben recuperarlo? ¿Deben alimentar a los necesitados?**
+
+Respuesta: Si temen que el ayuno reduzca la leche materna o cause algún daño al niño, pueden dejar de ayunar. Pero, al igual que el enfermo, deben recuperarlo después. Al-lah dice: «...quien de ustedes esté enfermo o de viaje, que ayune el mismo número de días en otra ocasión. Al-lah desea facilitarles las cosas y no dificultárselas...» (Corán 2:185).
+
+Deben comenzar a recuperar los días cuando la razón desaparezca. Pueden hacerlo en invierno, cuando el clima es fresco y los días son cortos, o al año siguiente. Aquellos con razones permanentes o enfermedades sin esperanza de recuperación deben alimentar a un necesitado por cada día perdido.
+
+---
+
+**15. Si un ayunante descansa la mayor parte del día debido al hambre y la sed, ¿afecta esto la aceptación de su ayuno?**
+
+Respuesta: No afecta la aceptación del ayuno. Al contrario, la recompensa aumenta según el cansancio. Vea lo que el Profeta ﷺ le dijo a Aisha (que Al-lah esté complacido con ella):
+
+«Tu recompensa es según tu esfuerzo» (Bujari). Quien se cansa por obedecer a Al-lah, su recompensa aumenta según ese cansancio. No hay nada de malo en que el ayunante intente aliviar el cansancio refrescándose con agua o sentándose en un lugar fresco.
+
+---
+
+**16. ¿Se anula el ayuno si se tiene la intención firme de romperlo sin haber comido ni bebido?**
+
+Respuesta: El ayuno es un acto de adoración que incluye la intención y la abstención de lo que lo anula. El ayunante busca acercarse a Al-lah absteniéndose de lo que anula el ayuno. Por lo tanto, si se tiene la intención firme de romperlo, el ayuno se anula. Si esto ocurre en Ramadán, debe ayunar el resto del día, ya que si se deja de ayunar sin una razón permitida, se debe ayunar el resto del día y recuperarlo después.
+
+Si no hay una decisión firme y solo hay dudas, los eruditos tienen opiniones diferentes. Algunos dicen que el ayuno se anula porque la duda elimina la certeza. Otros dicen que no se anula porque la intención original permanece. Esta última es la opinión más fuerte. Al-lah sabe más.
+
+---
+
+**17. ¿Cuál es la norma si un ayunante come por olvido? ¿Qué debe hacer quien lo ve?**
+
+Respuesta: Si alguien come o bebe por olvido, su ayuno es válido. Pero debe detenerse en cuanto lo recuerde y escupir lo que tenga en la boca. La evidencia de que el ayuno es válido es:
+
+Abu Huraira (que Al-lah esté complacido con él) relata: «Quien coma o beba por olvido, que complete su ayuno, pues es Al-lah quien lo ha alimentado y dado de beber» (Bujari, Muslim).
+
+Si alguien comete algo prohibido por olvido, no hay castigo. Al-lah dice:
+
+«...¡Señor nuestro! No nos castigues si olvidamos o cometemos un error...» (Corán 2:28).
+
+Sin embargo, si alguien ve a un ayunante comiendo, es obligatorio recordárselo, ya que es prohibir el mal.
+
+El Profeta ﷺ dijo: «Quien de ustedes vea un mal, que lo cambie con su mano; si no puede, con su lengua; y si no puede, con su corazón» (Muslim).
+
+Comer y beber mientras se ayuna es algo prohibido, por lo que debe detenerse. Pero hay indulgencia en cuanto a la validez del ayuno debido al olvido, aunque no hay indulgencia para quien lo ve y no lo detiene.
+
+---
+
+**18. ¿Cuál es la norma sobre el uso de kohl (delineador) por parte del ayunante?**
+
+Respuesta: El ayunante puede usar kohl, no hay problema. También puede usar gotas para los ojos o los oídos, ya que no es comer ni beber. Comer y beber es lo que está prohibido. Esta es la opinión del Sheij al-Islam Ibn Taymiyyah (que Al-lah tenga misericordia de él). Sin embargo, si se usan gotas nasales y llegan intencionalmente a la boca, el ayuno se anula. Un hadiz dice:
+
+El Profeta ﷺ dijo: «Si no estás ayunando, aspira agua por la nariz con fuerza» (Abu Dawud, Nasa'i, Ibn Majah).
+
+---
+
+**19. ¿Cuál es la norma sobre cepillarse los dientes y usar perfume para el ayunante?**
+
+Respuesta: Cepillarse los dientes al principio o al final del día es parte de la Sunnah del Profeta. El hadiz dice:
+
+El Profeta ﷺ dijo: «Cepillarse los dientes purifica la boca y agrada al Señor» (Bujari).
+
+El Profeta ﷺ dijo: «Si no fuera por no dificultar a mi comunidad, les habría ordenado usar el miswak antes de cada oración» (Bujari, Muslim).
+
+Asimismo, el ayunante puede usar perfume en cualquier momento del día, ya sea en forma de humo, líquido o cualquier otra forma. Sin embargo, no debe aspirar humo perfumado por la nariz, ya que podría llegar al estómago. Por eso el Profeta ﷺ le dijo a Laqit ibn Sabra: «Si no estás ayunando, aspira agua por la nariz con fuerza» (Abu Dawud, Nasa'i, Ibn Majah).
+
+---
+
+**20. ¿Qué cosas anulan el ayuno?**
+
+![](/assets/ramadan-fasting-rulings-and-prohibitions-20180519-7/19May18-06.jpg)
+
+Respuesta: Las siguientes cosas anulan el ayuno:
+
+1. Relaciones sexuales.
+2. Comer.
+3. Beber.
+4. Eyaculación por deseo.
+5. Uso de sustitutos de comida y bebida.
+6. Vómito intencional.
+7. Ventosas (tratamiento para eliminar sangre mala).
+8. Salida de sangre menstrual o posparto.
+
+La evidencia de que comer, beber y las relaciones sexuales están prohibidas para el ayunante es: Al-lah dice: «...Coman y beban hasta que distingan el hilo blanco del hilo negro de la aurora. Luego, completen el ayuno hasta la noche...» (Corán 2:187).
+
+La evidencia de que la eyaculación por deseo anula el ayuno es el hadiz qudsi: «Abandona su comida, bebida y deseo por Mí» (Ibn Majah).
+
+Otro hadiz: El Profeta ﷺ dijo: «Tener relaciones con sus esposas es una caridad». Dijeron: «¡Oh, Mensajero de Al-lah! ¿Hay recompensa en satisfacer el deseo?». Él dijo: «¿No ven que si lo hicieran de forma ilícita sería pecado? Del mismo modo, si lo hacen de forma lícita, hay recompensa» (Muslim).
+
+Aquí, «satisfacer el deseo» se refiere al semen. Según la opinión fuerte, si sale líquido preseminal (madhy) por deseo o besos sin relaciones, el ayuno no se anula.
+
+Si se usan inyecciones que sustituyen a la comida y bebida, el ayuno se anula, ya que cumplen la misma función.
+
+La evidencia de que el vómito intencional anula el ayuno es:
+
+Abu Huraira (que Al-lah esté complacido con él) relata: El Profeta ﷺ dijo: «Quien vomite involuntariamente no debe recuperar el ayuno. Pero quien vomite intencionalmente, que lo recupere» (Abu Dawud, Tirmidhi).
+
+La evidencia de que las ventosas anulan el ayuno es:
+
+El Profeta ﷺ dijo: «El que hace ventosas y al que se le hacen, han roto su ayuno» (Bujari, citado como ta'liq).
+
+Salida de sangre menstrual o posparto: El Profeta ﷺ dijo a una mujer:
+
+«Si tienes el periodo, no ayunes ni reces» (Bujari). Los eruditos están de acuerdo en que el ayuno de una mujer con periodo o posparto no es válido.
+
+Estas siete cosas anulan el ayuno solo bajo tres condiciones:
+
+1. Saber que la acción anula el ayuno.
+2. Estar consciente.
+3. Hacerlo por voluntad propia, no bajo coacción.
+
+Si se hace por ignorancia o sin intención, el ayuno no se anula. Al-lah dice:
+
+«...¡Señor nuestro! No nos castigues si olvidamos o cometemos un error...» (Corán 2:286).
+
+«...No hay pecado en lo que hayan hecho por error, sino en lo que sus corazones hayan hecho intencionalmente...» (Corán 33:5).
+
+Evidencia de la Sunnah: Adiyy ibn Hatim (que Al-lah esté complacido con él) ayunaba y ponía dos hilos bajo su almohada, uno negro y otro blanco. Comía hasta que distinguía uno del otro. Luego fue al Profeta ﷺ y le contó. El Profeta ﷺ le explicó: «Los hilos mencionados en el versículo no son hilos físicos, sino la blancura del día y la oscuridad de la noche». El Profeta ﷺ no le ordenó recuperar el ayuno, ya que era ignorante sobre la norma.
+
+Si se ignora el tiempo, el ayuno no se anula. Asma bint Abu Bakr (que Al-lah esté complacido con ella) dijo: «En tiempos del Profeta ﷺ, rompimos el ayuno en un día nublado y luego salió el sol» (Bujari). El Profeta ﷺ no les ordenó recuperar el ayuno. Si hubiera sido obligatorio, se lo habría ordenado, y si se lo hubiera ordenado, la comunidad lo habría transmitido. Como no se transmitió, significa que no se lo ordenó.
+
+Segunda condición: Estar consciente. Si alguien come o bebe por olvido, el ayuno es válido.
+
+Al-lah dice: «...¡Señor nuestro! No nos castigues si olvidamos o cometemos un error...» (Corán 2:286).
+
+Abu Huraira (que Al-lah esté complacido con él) relata: «Quien coma o beba por olvido, que complete su ayuno, pues es Al-lah quien lo ha alimentado y dado de beber» (Bujari, Muslim).
+
+Tercera condición: Hacerlo por voluntad propia. Si alguien es obligado, el ayuno no se anula. Al-lah dice:
+
+«...Quien reniegue de Al-lah después de haber creído —salvo quien sea obligado y cuyo corazón permanezca firme en la fe—...» (Corán 16:106).
+
+Si esta es la norma para la incredulidad bajo coacción, con mayor razón para algo menos grave. Un hadiz dice:
+
+El Profeta ﷺ dijo: «El error, el olvido y la coacción han sido perdonados a mi comunidad» (Ibn Majah, Tabarani).
+
+Si entra polvo en la nariz del ayunante y llega al estómago sin intención, el ayuno no se anula. Si alguien es obligado a beber agua, el ayuno no se anula. Si hay una eyaculación nocturna, el ayuno no se anula. Si un esposo obliga a su esposa a hacer algo que anula el ayuno, el ayuno de ella no se anula, ya que no fue por su voluntad.
+
+Nota especial: Si un hombre para quien el ayuno es obligatorio tiene relaciones sexuales durante el día en Ramadán, le corresponden cinco cosas:
+
+1. Ayunar el resto del día. 2. Su ayuno se anula. 3. Debe recuperar el día. 4. Debe hacer una expiación (kaffarah). 5. Ha cometido un pecado.
+
+Esto se aplica tanto si sabe que es pecado como si no, ya que realizó intencionalmente algo que anula el ayuno. El hadiz de Abu Huraira (que Al-lah esté complacido con él) relata que un hombre vino al Profeta ﷺ y dijo: «¡Oh, Mensajero de Al-lah! Estoy arruinado». El Profeta ﷺ preguntó: «¿Qué te ha arruinado?». Dijo: «Tuve relaciones con mi esposa durante el día en Ramadán» (Bujari). El Profeta ﷺ le ordenó hacer la expiación, aunque el hombre no sabía que era obligatorio. Esto se aplica solo a quienes tienen el ayuno como obligatorio. Si una pareja viaja y al regresar tiene relaciones, no tienen expiación, ya que como viajeros no tenían la obligación de ayunar.
+
+---
+
+**21. ¿Se anula el ayuno si los asmáticos usan un inhalador para facilitar la respiración?**
+
+Respuesta: El uso del inhalador no hace que nada llegue al estómago, por lo que no anula el ayuno.
+
+---
+
+**22. ¿Se anula el ayuno por vómito?**
+
+Respuesta: Si el vómito es intencional, el ayuno se anula. Si es natural, no. El hadiz dice:
+
+Abu Huraira (que Al-lah esté complacido con él) relata: El Profeta ﷺ dijo: «Quien vomite involuntariamente no debe recuperar el ayuno. Pero quien vomite intencionalmente, que lo recupere» (Abu Dawud, Tirmidhi).
+
+---
+
+**23. ¿Se anula el ayuno si sale un poco de sangre de las encías del ayunante?**
+
+Respuesta: La sangre que sale de las encías no afecta el ayuno. Pero no debe tragarse. Asimismo, el resfriado no anula el ayuno.
+
+---
+
+**24. ¿Es válido el ayuno de una mujer que se purifica antes del Fajr pero se baña después del amanecer?**
+
+Respuesta: Si se purifica antes del Fajr, su ayuno es válido. Debe asegurarse de haberse purificado realmente. Algunas mujeres piensan que se han purificado, pero no es así. Aisha (que Al-lah esté complacido con ella) les decía: «No se apresuren, no se purifican hasta que vean el color blanco». Las mujeres deben ser pacientes hasta estar realmente purificadas. Si se purifican, deben hacer la intención del ayuno. Bañarse después del amanecer es suficiente. Lo mismo se aplica a la oración: deben bañarse y rezar a tiempo. Algunas mujeres se purifican antes o después del amanecer, pero se bañan tarde después de la salida del sol, alegando que es para estar más limpias. Esto es incorrecto, ya sea en Ramadán o no. Deben bañarse y rezar a tiempo. El baño obligatorio para la oración es suficiente. Si desean bañarse de nuevo por mayor limpieza, no hay problema. Lo mismo se aplica a un hombre en estado de impureza mayor que se baña después del amanecer; su ayuno es válido. El Profeta ﷺ solía estar en estado de impureza mayor y ayunar, bañándose después del amanecer (Bujari, Muslim).
+
+---
+
+**25. ¿Se anula el ayuno si el ayunante se extrae un diente?**
+
+Respuesta: La extracción de un diente o algo similar no anula el ayuno, ya que la pequeña cantidad de sangre no se compara con las ventosas.
+
+---
+
+**26. ¿Se anula el ayuno si se extrae un poco de sangre para análisis?**
+
+Respuesta: La extracción de una pequeña cantidad de sangre para análisis no anula el ayuno. Es necesario para los médicos examinar a los pacientes. No es como las ventosas. (La opinión de que las ventosas anulan el ayuno es la correcta, elegida por el Sheij. Los eruditos dicen que donar sangre anula el ayuno basándose en este hadiz. Existe la opinión de que no anula, consulte Fath al-Bari. Trad:). No hay evidencia religiosa de que el análisis anule el ayuno. Si se dona una gran cantidad de sangre, el ayuno se anula. Por lo tanto, no se debe donar sangre a menos que sea necesario. Si es una emergencia, se puede donar y el ayuno se anula; se debe recuperar el día después.
+
+---
+
+**27. ¿Puede el ayunante oler perfume?**
+
+Respuesta: El ayunante puede oler perfume. No hay problema en quemar incienso. Pero no debe aspirar el humo del perfume por la nariz, ya que puede llegar al estómago. Solo olerlo no tiene problema.
+
+---
+
+**28. ¿Cuál es la diferencia entre aspirar humo y usar gotas? ¿Por qué el humo anula el ayuno y las gotas no?**
+
+Respuesta: Quien aspira humo lo hace con la intención de que llegue al estómago. Las gotas para los ojos o la nariz no se usan con la intención de que lleguen al estómago, sino para que lleguen a la zona afectada. Esa es la diferencia.
+
+---
+
+**29. ¿Se anula el ayuno si al aspirar agua por la nariz o enjuagarse la boca entra un poco de agua por error?**
+
+Respuesta: Si entra un poco de agua por error al aspirar agua por la nariz o enjuagarse la boca, no hay problema. El ayuno es válido, ya que no fue intencional. Al-lah dice:
+
+«...No hay pecado en lo que hayan hecho por error, sino en lo que sus corazones hayan hecho intencionalmente...» (Corán 33:5).
+
+---
+
+**30. ¿Cuál es la norma sobre el uso de perfume por parte del ayunante?**
+
+Respuesta: No hay problema en usar perfume durante el día en Ramadán, ni en olerlo. Pero no debe aspirar el humo, ya que llega al estómago.
+
+---
+
+**31. ¿Se anula el ayuno si sale algo de la nariz debido a un resfriado?**
+
+Respuesta: Si sale mucosidad de la nariz, el ayuno no se anula, incluso si es mucha, ya que no es intencional.
+
+---
+
+**32. Algunos calendarios marcan un tiempo llamado «Imsak» diez o quince minutos antes del Fajr. ¿Tiene esto base en la Sunnah?**
+
+Respuesta: Esto es una innovación (bid'ah) y no tiene base en la Sunnah del Profeta. Es contrario a la Sunnah. Al-lah dice:
+
+«...Coman y beban hasta que distingan el hilo blanco del hilo negro de la aurora...» (Corán 2:187).
+
+El hadiz dice: El Profeta ﷺ dijo: «Bilal llama a la oración de noche, así que coman y beban hasta que Ibn Umm Maktum llame a la oración, pues él no llama hasta que aparece el alba» (Bujari, Muslim).
+
+Crear un tiempo especial llamado «Imsak» es añadir a lo que Al-lah ha hecho obligatorio, lo cual es excederse en la religión de Al-lah. El Profeta ﷺ dijo: «Los que se exceden están arruinados, los que se exceden están arruinados» (Muslim).
+
+---
+
+**33. Si alguien rompe el ayuno en el aeropuerto al ponerse el sol y luego, al despegar el avión, vuelve a ver el sol, ¿debe ayunar el resto del tiempo?**
+
+Respuesta: En el caso mencionado, no debe ayunar el resto del tiempo. Rompió el ayuno cuando llegó la hora en el lugar donde estaba. El Profeta ﷺ dijo:
+
+«Si la noche llega desde aquí y el día se retira y el sol se pone, el ayunante debe romper el ayuno» (Bujari).
+
+Si rompió el ayuno al ponerse el sol en el aeropuerto, su día terminó. No es obligatorio ayunar hasta el día siguiente.
+
+---
+
+**34. ¿Se anula el ayuno si se traga flema o mucosidad?**
+
+Respuesta: Si la flema o la mucosidad no llegan a la boca, el ayuno no se anula. No hay diferencia de opinión entre las escuelas sobre esto. Si llegan a la boca y se tragan, los eruditos tienen dos opiniones: una dice que anula el ayuno al compararlo con la comida y bebida; otra dice que no lo anula al compararlo con la saliva. Cuando los eruditos difieren, la referencia es el Corán y la Sunnah. Si dudamos si un acto anula la adoración, la base es que no la anula. Por lo tanto, los eruditos han aclarado que el ayuno no se anula. Sin embargo, si la flema o mucosidad llegan a la boca, el ayunante debe escupirlas. Pero decir que el ayuno se anula requiere evidencia clara ante Al-lah.
+
+---
+
+**35. ¿Se anula el ayuno al probar la comida?**
+
+Respuesta: Probar la comida no anula el ayuno, pero se debe tener cuidado de que nada llegue al estómago. Solo se debe hacer si es necesario. Si algo llega al estómago por error (sin intención) al probar si la comida tiene sal o picante, no hay problema y el ayuno es válido.
+
+---
+
+**36. ¿Se anula el ayuno por dar falso testimonio?**
+
+Respuesta: Dar falso testimonio es un pecado grave del que todo musulmán debe abstenerse. No anula el ayuno, pero daña gravemente su esencia y recompensa.
+
+---
+
+**37. Un enfermo dejó de ayunar en Ramadán y murió cuatro días después. ¿Debe alguien ayunar por él?**
+
+Respuesta: Si fue una enfermedad repentina y continuó hasta la muerte, no es necesario ayunar por él. Al-lah dice:
+
+«...quien de ustedes esté enfermo o de viaje, que ayune el mismo número de días en otra ocasión...» (Corán 2:185).
+
+Esta persona debe recuperar los días después de sanar. Si muere antes de tener la oportunidad, la obligación desaparece, ya que no llegó el tiempo en que el ayuno fuera obligatorio para él. Es como alguien que muere en Sha'ban. Pero si es una enfermedad sin esperanza de recuperación, debe alimentar a un necesitado por cada día.
+
+---
+
+**38. Alguien tiene un día de ayuno de Ramadán pendiente y no pudo recuperarlo antes del siguiente Ramadán. ¿Qué debe hacer?**
+
+Respuesta: Al-lah dice claramente: «...quien de ustedes esté enfermo o de viaje, que ayune el mismo número de días en otra ocasión...» (Corán 2:185).
+
+La persona que dejó de ayunar por una razón religiosa debe recuperar los días según la orden de Al-lah. Es obligatorio recuperarlos dentro del mismo año. No debe retrasarlos hasta después del siguiente Ramadán. El hadiz de Aisha (que Al-lah esté complacido con ella) nos enseña esto:
+
+Aisha (que Al-lah esté complacido con ella) dice: «Tenía días de ayuno de Ramadán pendientes y no podía recuperarlos hasta Sha'ban debido a la presencia del Profeta ﷺ» (Bujari).
+
+Las palabras de Aisha «no podía recuperarlos hasta Sha'ban» indican que deben recuperarse antes del siguiente Ramadán. Si se retrasan hasta después del siguiente Ramadán, debe pedir perdón a Al-lah, arrepentirse, sentir remordimiento por el retraso y recuperar los días. El retraso no elimina la obligación. Si es después del siguiente Ramadán, debe recuperarlos. Al-lah es quien concede el éxito.
+
+(Ta'liq: Los hadices que no tienen una cadena de transmisión auténtica según las condiciones del Imam Bujari son Ta'liq.)

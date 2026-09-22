@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-22T03:11:43.354271+00:00",
+ "generated_at": "2026-09-22T03:13:24.827036+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 7021,
+ "count": 7022,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -12034,6 +12034,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/es/fiqh/mosque-construction-some-points-to-note-20170325-5.html",
    "md_url": "/es/fiqh/mosque-construction-some-points-to-note-20170325-5.md"
+  },
+  {
+   "slug": "ramadan-fasting-rulings-and-prohibitions-20180519-7",
+   "lang": "es",
+   "category": "fiqh",
+   "title": "Reglas y prohibiciones del ayuno de Ramadán",
+   "summary": "Este artículo presenta una serie de preguntas y respuestas sobre las normas, prohibiciones y la lógica detrás del ayuno de Ramadán. Explica los motivos de su obligatoriedad y aclara diversas situaciones prácticas que enfrentan los creyentes durante este mes sagrado.",
+   "author": "ശൈഖ് മുഹമ്മദ്ബ്‌നു സ്വാലിഹ് അല്‍ ഉഥൈമീന്‍",
+   "issue_date": "2018-05-19",
+   "html_url": "/es/fiqh/ramadan-fasting-rulings-and-prohibitions-20180519-7.html",
+   "md_url": "/es/fiqh/ramadan-fasting-rulings-and-prohibitions-20180519-7.md"
   },
   {
    "slug": "the-alcoholic-father-20170211-7",
