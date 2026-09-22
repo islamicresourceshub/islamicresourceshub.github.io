@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-22T05:33:05.077624+00:00",
+ "generated_at": "2026-09-22T05:34:09.792890+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 7148,
+ "count": 7149,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -28050,6 +28050,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/ko/dawah/prayer-that-is-worship-20170325-6.html",
    "md_url": "/ko/dawah/prayer-that-is-worship-20170325-6.md"
+  },
+  {
+   "slug": "ramadan-in-the-age-of-social-media-20180519-10",
+   "lang": "ko",
+   "category": "dawah",
+   "title": "소셜 미디어 시대의 라마단",
+   "summary": "이 글은 소셜 미디어 시대에 무슬림이 라마단 기간을 어떻게 보내야 하는지에 대한 지침을 담고 있습니다. 온라인과 오프라인 모두에서 품위 있는 태도를 유지하고, 불필요한 소셜 미디어 활동으로 라마단의 신성함을 훼손하지 않도록 주의할 것을 강조합니다.",
+   "author": "അബ്ദുല്‍മാലിക് സലഫി",
+   "issue_date": "2018-05-19",
+   "html_url": "/ko/dawah/ramadan-in-the-age-of-social-media-20180519-10.html",
+   "md_url": "/ko/dawah/ramadan-in-the-age-of-social-media-20180519-10.md"
   },
   {
    "slug": "religion-is-fearlessness-20170114-6",
