@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-22T04:48:40.255029+00:00",
+ "generated_at": "2026-09-22T04:49:34.168891+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 7107,
+ "count": 7108,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -25905,6 +25905,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/ja/story/sugar-like-gold-dust-20170128-11.html",
    "md_url": "/ja/story/sugar-like-gold-dust-20170128-11.md"
+  },
+  {
+   "slug": "the-crescent-moon-of-ramadan-20180519-9",
+   "lang": "ja",
+   "category": "story",
+   "title": "ラマダンの三日月",
+   "summary": "ラマダン月の到来とその徳を讃える詩です。空に浮かぶ三日月への喜びと、善行に励むこの月の重要性を描き、信仰と歓喜に満ちた聖なる月を歓迎しています。",
+   "author": "അബൂ ഫായിദ",
+   "issue_date": "2018-05-19",
+   "html_url": "/ja/story/the-crescent-moon-of-ramadan-20180519-9.html",
+   "md_url": "/ja/story/the-crescent-moon-of-ramadan-20180519-9.md"
   },
   {
    "slug": "the-currency-that-was-not-accepted-20170114-3",
