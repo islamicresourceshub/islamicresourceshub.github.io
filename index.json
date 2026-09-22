@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-22T03:59:58.357976+00:00",
+ "generated_at": "2026-09-22T04:00:59.310987+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 7057,
+ "count": 7058,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -7348,6 +7348,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/bs/hadith/criteria-for-accepting-hadith-20170128-2.html",
    "md_url": "/bs/hadith/criteria-for-accepting-hadith-20170128-2.md"
+  },
+  {
+   "slug": "food-in-ramadan-20180519-8",
+   "lang": "bs",
+   "category": "health",
+   "title": "Ishrana u ramazanu",
+   "summary": "Ovaj članak govori o prehrambenim navikama kojih bi se trebali pridržavati bolesnici i zdravi ljudi tokom mjeseca ramazana. Naglašava važnost odabira zdrave hrane i daje savjete za iftar i sehur.",
+   "author": "ഡോ. മുഹമ്മദ് കുട്ടി കണ്ണിയന്‍",
+   "issue_date": "2018-05-19",
+   "html_url": "/bs/health/food-in-ramadan-20180519-8.html",
+   "md_url": "/bs/health/food-in-ramadan-20180519-8.md"
   },
   {
    "slug": "know-this-for-those-caring-for-the-sick-20260822-1",
