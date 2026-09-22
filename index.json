@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-22T03:19:29.859667+00:00",
+ "generated_at": "2026-09-22T03:20:34.578290+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 7026,
+ "count": 7027,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -19976,6 +19976,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/hi/fiqh/mosque-construction-some-points-to-note-20170325-5.html",
    "md_url": "/hi/fiqh/mosque-construction-some-points-to-note-20170325-5.md"
+  },
+  {
+   "slug": "ramadan-fasting-rulings-and-prohibitions-20180519-7",
+   "lang": "hi",
+   "category": "fiqh",
+   "title": "रमज़ान के रोज़े: नियम और निषेध",
+   "summary": "यह लेख रमज़ान के रोज़ों से संबंधित नियमों, निषेधों और उनके पीछे के तर्क को प्रश्नोत्तर के रूप में स्पष्ट करता है। इसमें रोज़ा अनिवार्य होने के कारणों और रोज़े के दौरान पालन किए जाने वाले आवश्यक दिशा-निर्देशों की विस्तृत व्याख्या की गई है।",
+   "author": "ശൈഖ് മുഹമ്മദ്ബ്‌നു സ്വാലിഹ് അല്‍ ഉഥൈമീന്‍",
+   "issue_date": "2018-05-19",
+   "html_url": "/hi/fiqh/ramadan-fasting-rulings-and-prohibitions-20180519-7.html",
+   "md_url": "/hi/fiqh/ramadan-fasting-rulings-and-prohibitions-20180519-7.md"
   },
   {
    "slug": "the-alcoholic-father-20170211-7",
