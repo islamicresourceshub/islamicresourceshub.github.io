@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-22T03:58:05.511736+00:00",
+ "generated_at": "2026-09-22T03:58:58.977825+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 7055,
+ "count": 7056,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -4147,6 +4147,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/as/hadith/criteria-for-accepting-hadith-20170128-2.html",
    "md_url": "/as/hadith/criteria-for-accepting-hadith-20170128-2.md"
+  },
+  {
+   "slug": "food-in-ramadan-20180519-8",
+   "lang": "as",
+   "category": "health",
+   "title": "ৰমজানৰ আহাৰ",
+   "summary": "এই প্ৰবন্ধটোৱে ৰমজান মাহত ৰোগী আৰু সুস্থ ব্যক্তি উভয়েই কেনেধৰণৰ খাদ্য গ্ৰহণ কৰা উচিত সেই বিষয়ে আলোচনা কৰে। ইয়াৰ উপৰিও ইফতৰ আৰু চেহৰীৰ সময়ত স্বাস্থ্যসন্মত খাদ্য নিৰ্বাচনৰ গুৰুত্বৰ ওপৰত আলোকপাত কৰে।",
+   "author": "ഡോ. മുഹമ്മദ് കുട്ടി കണ്ണിയന്‍",
+   "issue_date": "2018-05-19",
+   "html_url": "/as/health/food-in-ramadan-20180519-8.html",
+   "md_url": "/as/health/food-in-ramadan-20180519-8.md"
   },
   {
    "slug": "know-this-for-those-caring-for-the-sick-20260822-1",
