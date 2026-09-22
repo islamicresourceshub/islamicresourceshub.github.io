@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-22T05:54:35.924752+00:00",
+ "generated_at": "2026-09-22T05:57:32.292315+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 7160,
+ "count": 7161,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -63096,6 +63096,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/sw/dawah/prayer-that-is-worship-20170325-6.html",
    "md_url": "/sw/dawah/prayer-that-is-worship-20170325-6.md"
+  },
+  {
+   "slug": "ramadan-in-the-age-of-social-media-20180519-10",
+   "lang": "sw",
+   "category": "dawah",
+   "title": "Ramadhani katika Enzi ya Mitandao ya Kijamii",
+   "summary": "Makala hii inazungumzia jinsi waumini wanavyopaswa kujiendesha katika mwezi wa Ramadhani wakati wa enzi ya mitandao ya kijamii. Inasisitiza umuhimu wa kuwa na nidhamu katika mwingiliano wa mtandaoni na nje ya mtandao, na kuonya dhidi ya kuruhusu shughuli zisizo na maana za mitandao kuharibu fadhila za mwezi huu mtukufu.",
+   "author": "അബ്ദുല്‍മാലിക് സലഫി",
+   "issue_date": "2018-05-19",
+   "html_url": "/sw/dawah/ramadan-in-the-age-of-social-media-20180519-10.html",
+   "md_url": "/sw/dawah/ramadan-in-the-age-of-social-media-20180519-10.md"
   },
   {
    "slug": "religion-is-fearlessness-20170114-6",
