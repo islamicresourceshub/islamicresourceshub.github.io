@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-22T05:00:21.573912+00:00",
+ "generated_at": "2026-09-22T05:01:26.882452+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 7118,
+ "count": 7119,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -59235,6 +59235,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/si/story/sugar-like-gold-dust-20170128-11.html",
    "md_url": "/si/story/sugar-like-gold-dust-20170128-11.md"
+  },
+  {
+   "slug": "the-crescent-moon-of-ramadan-20180519-9",
+   "lang": "si",
+   "category": "story",
+   "title": "රමසාන් සඳකැන්",
+   "summary": "මෙය රමසාන් මාසයේ පැමිණීම සහ එහි ඇති උතුම් ගුණාංග පිළිබඳ ලියැවුණු කාව්‍යමය නිර්මාණයකි. රමසාන් මාසයේ නව සඳ උදාවීමත් සමඟ ඇතිවන සතුට සහ මෙම මාසයේ සිදුකරන යහපත් ක්‍රියාවන්හි වැදගත්කම කවියා මෙහිදී විස්තර කරයි.",
+   "author": "അബൂ ഫായിദ",
+   "issue_date": "2018-05-19",
+   "html_url": "/si/story/the-crescent-moon-of-ramadan-20180519-9.html",
+   "md_url": "/si/story/the-crescent-moon-of-ramadan-20180519-9.md"
   },
   {
    "slug": "the-currency-that-was-not-accepted-20170114-3",
