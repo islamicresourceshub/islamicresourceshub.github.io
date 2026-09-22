@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-22T06:16:45.851253+00:00",
+ "generated_at": "2026-09-22T06:18:17.077696+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 7172,
+ "count": 7173,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -5082,6 +5082,17 @@
    "issue_date": "2017-02-11",
    "html_url": "/as/youth/e-ahamed-s-message-to-the-youth-20170211-5.html",
    "md_url": "/as/youth/e-ahamed-s-message-to-the-youth-20170211-5.md"
+  },
+  {
+   "slug": "sabir-s-fast-20180519-11",
+   "lang": "as",
+   "category": "youth",
+   "title": "ছাবিৰৰ ৰোজা",
+   "summary": "এইটো ছাবিৰ নামৰ এজন বুদ্ধিমান ল'ৰাৰ ৰোজাৰ অভিজ্ঞতাৰ ওপৰত আধাৰিত শিশুসকলৰ বাবে এটা কাহিনী। কাহিনীটোত তাৰ পিতৃ-মাতৃৰ সৈতে নামাজ পঢ়া আৰু ৰোজা ৰখাৰ প্ৰতি থকা আগ্ৰহ আৰু তাৰ ভাল গুণবোৰ বৰ্ণনা কৰা হৈছে। এই কাহিনীটোৱে শিশুসকলক ৰোজাৰ গুৰুত্ব বুজিবলৈ সহায় কৰিব।",
+   "author": "ഉസ്മാന്‍ പാലക്കാഴി",
+   "issue_date": "2018-05-19",
+   "html_url": "/as/youth/sabir-s-fast-20180519-11.html",
+   "md_url": "/as/youth/sabir-s-fast-20180519-11.md"
   },
   {
    "slug": "value-erosion-misleading-the-younger-generation-20180505-13",
