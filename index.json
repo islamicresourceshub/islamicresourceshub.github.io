@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-22T04:43:23.801610+00:00",
+ "generated_at": "2026-09-22T04:44:14.975942+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 7101,
+ "count": 7102,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -16225,6 +16225,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/fr/story/sugar-like-gold-dust-20170128-11.html",
    "md_url": "/fr/story/sugar-like-gold-dust-20170128-11.md"
+  },
+  {
+   "slug": "the-crescent-moon-of-ramadan-20180519-9",
+   "lang": "fr",
+   "category": "story",
+   "title": "Le croissant de lune du Ramadan",
+   "summary": "Ce poème célèbre l'arrivée du mois béni de Ramadan et ses vertus. Il exprime la joie de voir apparaître le croissant de lune et souligne l'importance des bonnes actions, de la dévotion et de la piété durant cette période sacrée.",
+   "author": "അബൂ ഫായിദ",
+   "issue_date": "2018-05-19",
+   "html_url": "/fr/story/the-crescent-moon-of-ramadan-20180519-9.html",
+   "md_url": "/fr/story/the-crescent-moon-of-ramadan-20180519-9.md"
   },
   {
    "slug": "the-currency-that-was-not-accepted-20170114-3",
