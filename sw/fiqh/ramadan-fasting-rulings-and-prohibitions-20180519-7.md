@@ -1,0 +1,526 @@
+---
+title: Hukumu na Marufuku za Saumu ya Ramadhani
+author: ശൈഖ് മുഹമ്മദ്ബ്‌നു സ്വാലിഹ് അല്‍ ഉഥൈമീന്‍
+lang: sw
+category: fiqh
+kind: article
+tags:
+- ramadan
+- fasting
+- fiqh
+- islamic rulings
+- wisdom
+- questions and answers
+summary: Hii ni makala katika mfumo wa maswali na majibu inayohusu hukumu na marufuku zinazohusiana na saumu ya Ramadhani. Inafafanua hekima ya kufaradhishwa kwa saumu na sheria zake mbalimbali.
+source:
+  magazine: Nerpatham Weekly
+  issue_date: '2018-05-19'
+  pdf_url: http://nerpatham.com/vol-no-02/images/archives/Nerpatham-2018May19.pdf
+date_processed: '2026-08-30T16:00:34Z'
+slug: ramadan-fasting-rulings-and-prohibitions-20180519-7
+translation_of: ramadan-fasting-rulings-and-prohibitions-20180519-7
+---
+
+**(Tafsiri: Sayyid Sa'far Swadiq)**
+
+![](/assets/ramadan-fasting-rulings-and-prohibitions-20180519-7/19May18-07.jpg)
+
+**1. Ni nini hekima ya kufaradhishwa kwa saumu?**
+
+Jibu: Tutapata jibu hili tukisoma aya ifuatayo ya Qur'an. Allah anasema:
+
+''Enyi mlio amini! Mmeandikiwa Saumu, kama walivyo andikiwa walio kuwa kabla yenu ili mpate kuwa wachamungu'' (Qur'an 2:183).
+
+Lengo la kufaradhishwa kwa saumu ni kumcha Allah na kumwabudu Yeye. Uchamungu «Taqwa» unamaanisha kuacha yale yaliyoharamishwa na kutekeleza yale yaliyoamrishwa.
+
+Abu Huraira (r.a) anasema: Mtume ﷺ amesema: ''Mwenye kutoacha maneno ya uongo na vitendo vya uongo, basi Allah hana haja na yeye kuacha chakula chake na kinywaji chake'' (Bukhari).
+
+Hadithi hii inaweka wazi kuwa ni lazima kwa mwenye kufunga kutenda yaliyo ya lazima na kujiepusha na yaliyoharamishwa. Kujiepusha na umbea, kusengenya, uongo, kuacha biashara haramu, na kukaa mbali na mambo machafu, ikiwa yatazingatiwa kikamilifu katika Ramadhani, basi mtu ataweza kuyafuata hayo hata katika miezi mingine.
+
+Inasikitisha kuona kuwa wengi wanafanya mambo yasiyoendana na utakatifu wa saumu! Wanaacha mambo ya lazima na kufanya yaliyoharamishwa huku wakiwa wamefunga. Kwa hiyo, ni lazima kuwa makini kwani kuna mambo yanayopunguza thawabu za saumu na mengine yanayoifanya saumu yenyewe kuwa batili.
+
+
+
+**2. Ni nini maoni yako kuhusu hoja ya kwamba inawezekana kuunganisha umma wa Kiislamu (katika saumu na sikukuu) kwa kutegemea machweo na mapambazuko ya Makka?**
+
+Jibu: Kifizikia jambo hili haliwezekani. Kwa sababu kama alivyosema Sheikhul-Islam Ibn Taymiyyah, nyakati za mapambazuko na machweo hutofautiana kulingana na maeneo. Kwa hiyo, kwa kuzingatia dalili na uzoefu, kila nchi ina hukumu zake.
+
+Dalili kutoka katika maandiko: Allah anasema: ''...Basi ataye kuwa miongoni mwenu katika mwezi huu, na afunge...'' (Qur'an 2:185).
+
+Hapa, ikiwa watu katika sehemu fulani ya dunia hawakuona mwezi na Makka wakaona, vipi anwani ya aya hii itatimia? Vilevile Mtume ﷺ anasema:
+
+Muhammad bin Ziyad (r.a) anasema: Nilimsikia Abu Huraira (r.a) akisema: Mtume ﷺ amesema: ''Fungeni kwa kuona mwezi, na fungueni (kwa sikukuu) kwa kuona mwezi (wa Shawwal)'' (Bukhari, Muslim).
+
+Kwa msingi wa dalili hii, vipi watu wa nchi kama Pakistan wafunge ikiwa mwezi umeonekana Makka? Kwani kwao mwezi wa Ramadhani haujachomoza. Mtume ﷺ amesema 'mkiona'.
+
+Uzoefu: Hii ni hoja ya wazi ambayo hakuna anayeweza kuikataa. Tunajua kuwa jua huchomoza mashariki kabla ya magharibi. Ikiwa tutafuata mapambazuko ya mashariki, je, tunapaswa kufunga tukiwa bado tuko usiku? Jibu ni hapana. Vilevile, je, tunapaswa kufuturu tukiwa bado tuko mchana kwa sababu jua limezama mashariki? Jibu ni hapana. Hivyo, hukumu ya mwezi ni kama hukumu ya jua. Allah anasema:
+
+''Mmehalalishiwa usiku wa saumu kuingiliana na wake zenu. Wao ni vazi kwenu, na ninyi ni vazi kwao. Allah anajua kuwa mlikuwa mkijikhini nafsi zenu, naye amekupokeeni toba yenu na amekusameheni. Basi sasa ingilianeni nao, na takeni aliyo kuandikieni Allah. Na kuleni na kunyweni mpaka ubainike kwenu weupe wa alfajiri katika weusi wa usiku. Kisha timizeni saumu mpaka usiku...'' (Qur'an 2:187).
+
+Allah anasema: ''...Basi ataye kuwa miongoni mwenu katika mwezi huu, na afunge...''
+
+Kwa msingi wa dalili tulizozifafanua, kila nchi ina hukumu zake kulingana na mapambazuko na machweo yake. Saumu na sikukuu huamuliwa kwa msingi wa kuona mwezi kama Allah alivyobainisha katika Qur'an na Mtume ﷺ katika Sunnah.
+
+(Suala la kusherehekea sikukuu na kufunga siku moja duniani kote linajadiliwa hapa. Hata hivyo, hili linapingana na Qur'an, Sunnah iliyothibiti, na sheria za fizikia. Ni jambo linalojulikana kuwa kuna tofauti za nyakati na siku katika swala na saumu kulingana na tofauti za machweo na mapambazuko. Kwa anayetaka kujua zaidi, na atazame kitabu 'Mwezi katika Qur'an na Sayansi' kilichoandikwa na Umar Farooq. Mtafsiri).
+
+---
+
+**3. Mtu aliyefunga Ramadhani akasafiri kwenda nchi nyingine. Wakati huo katika nchi yake (alipotokea) mwezi wa Shawwal umeonekana na sikukuu imethibiti. Lakini katika nchi aliyofikia, mwezi wa Shawwal haujaonekana. Katika hali hii afanye nini?**
+
+![](/assets/ramadan-fasting-rulings-and-prohibitions-20180519-7/19May18-08.jpg)
+
+Jibu: Mtu akisafiri kutoka nchi moja kwenda nyingine, anapaswa kufuata hukumu za nchi aliyofikia katika ibada za Kiislamu. Yaani, anapaswa kusherehekea sikukuu wakati watu wa nchi hiyo wanaposherehekea. Kwa sababu Mtume ﷺ amesema kuwa saumu ni wakati watu wanapofunga. Sikukuu ya Fitr na ya Adh-ha pia zinapaswa kusherehekewa pamoja nao. Hata kama itazidi siku moja au mbili, hivyo ndivyo inavyopaswa kufanyika. Vilevile, ikiwa nchi aliyofikia ina machweo ya jua yaliyochelewa kwa saa moja au mbili, anapaswa kufuturu kulingana na wakati wa nchi hiyo. Katika baadhi ya maeneo, machweo huchelewa kwa saa mbili, tatu au zaidi. Katika hali hiyo, anapaswa kufuturu wakati jua linapozama hapo.
+
+(Mfano: Mtu aliyesafiri kutoka India saa 6 asubuhi kwenda Saudi Arabia katika Ramadhani, anapaswa kufuturu kulingana na wakati wa Saudi Arabia ambao umechelewa kwa saa mbili na nusu kuliko wakati wa India. Hii ina maana kuwa hapaswi kufuturu wakati watu wa India wanapofuturu).
+
+Kwa sababu Mtume ﷺ amesema 'mkiona', yaani kufuturu kwa kuona mwezi. Vilevile inaweza kutokea kinyume chake. Yaani, ikiwa katika nchi aliyofikia mwezi wa Shawwal umeonekana siku moja au mbili kabla, anapaswa kusherehekea sikukuu pamoja nao. Na anapaswa kulipa siku moja au mbili za saumu alizokosa baada ya mwezi wa Shawwal. Kwa sababu Ramadhani inaweza kuwa siku ishirini na tisa au thelathini. Ikiwa amekosa siku moja, na ailipe moja, na ikiwa amekosa mbili, na ailipe mbili. Kwa sababu miezi yote ya mwezi, ikiwemo Ramadhani, haipungui siku ishirini na tisa. Ikiwa mwezi wa Shawwal umeonekana kabla hajafikisha siku ishirini na tisa katika nchi aliyofikia, na asherehekee sikukuu pamoja nao, kisha alipe alizokosa. Lakini ikiwa atalazimika kufunga siku ya ziada, na afanye hivyo. Kwa sababu sikukuu inapaswa kusherehekewa baada ya kuona mwezi. Inatosha kuhesabu kuwa siku moja imeongezeka kama vile saa moja au mbili zinavyoongezeka katika siku moja.
+
+---
+
+**4. Je, watu wanaofanya kazi nzito na ngumu wanaruhusiwa kuacha saumu?**
+
+Jibu: Kwa msingi wa dalili, maoni yangu ni kwamba hairuhusiwi kuacha saumu kwa ajili ya kazi. Ikiwa haiwezekani kuchanganya kazi na saumu, basi anapaswa kuchukua likizo na kufunga katika Ramadhani. Kwa sababu kufunga katika Ramadhani ni nguzo miongoni mwa nguzo za Uislamu. Haipaswi kuvunjwa.
+
+---
+
+**4. Msichana aliyefunga wakati wa hedhi kwa sababu ya kutojua, afanye nini?**
+
+Jibu: Anapaswa kulipa saumu alizofunga wakati wa hedhi. Kwa sababu saumu ya mwanamke mwenye hedhi haikubaliki hata kama ni kwa sababu ya kutojua. Vilevile, msichana aliyepata hedhi kwa mara ya kwanza na akaficha kwa aibu, hapaswi kufunga. Anapaswa kulipa saumu zote alizokosa. Mwanamke anapoanza hedhi, inamaanisha amebalehe. Kwa hiyo, ni lazima kwake kulipa saumu alizokosa.
+
+---
+
+**5. Ni nini hukumu ya mtu anayeacha saumu ya Ramadhani ili kujitafutia riziki yeye na walio chini yake?**
+
+Jibu: Baadhi ya wanazuoni wamesema kuwa hukumu yao ni kama ya mgonjwa anayeruhusiwa kuacha saumu. Ikiwa mgonjwa hawezi kabisa kufunga, anaweza kuacha. Na akipona, anapaswa kulipa; akifa, mwingine anapaswa kulipa kwa niaba yake. Ikiwa msimamizi wake hawezi kulipa, basi anapaswa kulisha maskini mmoja kwa kila siku.
+
+Lakini maoni ya wanazuoni wasiowalinganisha na wagonjwa ni kama ifuatavyo: Ibada zote zina nyakati zake. Mtu yeyote anayechelewesha ibada bila sababu ya msingi, haitakubaliwa kutoka kwake. Anapaswa kuongeza matendo mema na kuomba msamaha kwa Allah. Dalili yake ni:
+
+Mtume ﷺ amesema: ''Mwenye kufanya amali isiyo na amri yetu, basi itarudishwa'' (Bukhari, Muslim).
+
+Kama ambavyo ibada haikubaliki ikifanywa kabla ya wakati wake, vivyo hivyo haikubaliki ikifanywa baada ya wakati wake. Lakini ikitokea kwa sababu ya kutojua au kusahau, itakubaliwa.
+
+Mtume ﷺ amesema kuhusu kusahau: ''Mwenye kulala au kusahau wakati wa swala, basi na aswali anapokumbuka, hakuna kafara nyingine'' (Muslim).
+
+Mtu aliyeacha saumu ya Ramadhani kwa ajili ya riziki yake na ya watoto wake, anadhani kuwa anafanana na mgonjwa kama tulivyofafanua. Allah ndiye anayejua zaidi.
+
+---
+
+**6. Ni zipi sababu zinazoruhusu kuacha saumu?**
+
+![](/assets/ramadan-fasting-rulings-and-prohibitions-20180519-7/19May18-09.jpg)
+
+Jibu: Kwa mujibu wa Qur'an, sababu zinazoruhusiwa ni ugonjwa na safari. Vilevile, mwanamke mjamzito akihofia madhara kwake au kwa mtoto aliye tumboni, anaweza kuacha saumu. Vilevile mwanamke anayenyonyesha akihofia madhara kwake au kwa mtoto wake kwa sababu ya kufunga, anaweza kuacha. Mtu anaweza kuacha saumu ili kuokoa watu walio katika maangamizi. Kwa mfano, kuokoa mtu anayezama majini, au kuokoa mtu aliyekwama mahali penye moto. Vilevile, mtu anaweza kuacha saumu kwa ajili ya kufanya Jihadi inayofundishwa na Uislamu. Hili limeruhusiwa na Uislamu. Kwa sababu Mtume ﷺ katika vita vya Fathu Makka aliwaambia maswahaba:
+
+''Kesho mtakutana na maadui, kwa hiyo kuacha saumu kutawapa afya na nguvu. Basi acheni saumu'' (Muslim).
+
+Mtu akiaacha saumu kwa sababu inayoruhusiwa, na sababu hiyo ikaisha, hahitaji kufunga muda uliobaki. Mfano: Mtu akiacha saumu ili kuokoa mtu anayezama, baada ya kumwokoa hahitaji kufunga muda uliobaki. Hili ndilo maoni yanayokubalika katika suala hili. Ikiwa mgonjwa atapona mchana, hahitaji kufunga muda uliobaki. Vilevile msafiri akifika nchini mwake mchana, hahitaji kufunga muda uliobaki. Vilevile mwanamke mwenye hedhi akitwahirika mchana (kabla ya Maghrib), hahitaji kufunga muda uliobaki. Kwa sababu wote hawa waliacha saumu kwa sababu zinazoruhusiwa na Uislamu. Kwa hiyo, hawana wajibu wa kufunga muda uliobaki.
+
+Lakini ikiwa mwezi wa Ramadhani umeonekana mchana, basi ni lazima kufunga muda uliobaki. Tofauti kati ya haya mawili ni wazi. Ikiwa imebainika kuwa ni siku ya saumu au la, basi ni lazima kufunga siku hiyo. Lakini kabla ya kubainika, wana udhuru wa kutojua.
+
+Kwa hiyo, wale waliojua kuwa leo ni katika Ramadhani, ni lazima wafunge muda uliobaki. Lakini wale tuliowafafanua mwanzo walijua kuwa saumu ni lazima. Waliacha saumu kwa sababu zinazoruhusiwa na Uislamu. Tofauti kati ya haya ni wazi.
+
+---
+
+**7. Mtu aliyelala bila nia ya kufunga kabla ya kuona mwezi wa Ramadhani, akaamka baada ya mapambazuko na kujua kuwa Ramadhani imeanza, afanye nini? Je, anapaswa kulipa saumu ya siku hiyo?**
+
+Jibu: Maoni ya wanazuoni wengi ni kwamba mtu aliyelala bila nia ya kufunga kabla ya kuona mwezi wa Ramadhani, akaamka baada ya mapambazuko na kujua kuwa Ramadhani imeanza, anapaswa kufunga muda uliobaki na kulipa siku nyingine. Maoni ya kupinga haya yametolewa na Sheikhul-Islam Ibn Taymiyyah (r.a) pekee.
+
+Maoni yake ni; 'Nia ya kufunga inatakiwa kuanzia wakati wa kujua kuonekana kwa mwezi. Mtu huyu hakuwa akijua, kwa hiyo ana udhuru. Kama angejua kuwa mwezi umeonekana, asingelala bila nia ya kufunga. Yeye ni mjinga katika suala hilo. Na kutojua ni katika sababu za udhuru. Kwa msingi huu, saumu yake ni sahihi.' Kwa maoni haya, hahitaji kulipa.
+
+Maoni ya wanazuoni wengi ni kwamba anapaswa kufunga siku hiyo na kulipa siku nyingine. Kwa maoni yangu, kwa ajili ya tahadhari, ni bora kulipa siku hiyo.
+
+---
+
+**8. Mtu aliacha saumu kwa sababu inayoruhusiwa. Lakini sababu hiyo ikaisha mchana, je, anapaswa kufunga muda uliobaki?**
+
+Jibu: Hahitaji kufunga muda uliobaki, kwa sababu aliacha saumu kwa sababu inayoruhusiwa. Kwa hiyo, sababu hiyo ikisha, hahitaji kufunga muda uliobaki. Mfano: Mtu anahitaji dawa muhimu sana. Akimeza dawa hiyo, saumu yake inabatilika. Kwa sababu aliacha saumu kwa sababu inayoruhusiwa, hahitaji kufunga muda uliobaki. Inatosha kulipa siku moja. Hakuna faida yoyote ya kidini kufunga muda uliobaki, na haitakuwa sahihi. Kwa hiyo, kwa sababu hakuna faida, si lazima kufunga muda uliobaki.
+
+Mfano: Mtu aliona mtu anazama majini. Mtu anayeona anasema 'nikinywa maji kidogo nitapata nguvu ya kumwokoa, nisipokunywa sitaweza'. Hivyo anakunywa maji na kumwokoa. Muda uliobaki anaweza kula na kunywa. Kwa sababu aliacha saumu kwa sababu inayoruhusiwa na Uislamu. Kwa upande wake, muda uliobaki haupaswi kuheshimiwa. Kwa hiyo, hahitaji kufunga muda uliobaki. Je, tunamwambia mgonjwa anayeacha saumu 'usile mpaka uone njaa, usinywe mpaka uone kiu'? Hapana! Kwa sababu Uislamu unaruhusu mgonjwa kuacha saumu. Kwa hiyo, mtu yeyote anayeacha saumu kwa sababu inayoruhusiwa na Uislamu, hata kama sababu hiyo ikiondoka mchana, hahitaji kufunga muda uliobaki. Lakini mtu anayeacha saumu bila sababu inayoruhusiwa, anapaswa kufunga muda uliobaki. Kwa sababu haruhusiwi kuacha saumu. Amevunja utakatifu wa siku hiyo bila ruhusa ya kidini. Kwa hiyo, anapaswa kufunga muda uliobaki na kulipa siku nyingine. Allah ndiye anayejua zaidi.
+
+---
+
+**9. Ni nini hukumu ikiwa daktari anashauri mwanamke mwenye kupooza aache saumu?**
+
+Jibu: Allah anasema: ''Mwezi wa Ramadhani ambao imeteremshwa humo Qur'an kuwa ni uongozi kwa watu, na hoja zilizo wazi za uongozi na upambanuzi. Basi ataye kuwa miongoni mwenu katika mwezi huu, na afunge. Na ataye kuwa mgonjwa au safarini, basi atimize idadi katika siku nyingine. Allah anakutakieni yaliyo mepesi, wala hakutakieni yaliyo mazito...'' (Qur'an 2:185).
+
+Ikiwa ni wagonjwa wasiotaraji kupona, wanapaswa kulisha maskini mmoja kwa kila siku. Chakula kinachopaswa kutolewa kwa maskini ni kile tunachokula kawaida. Chakula bora kinapaswa kutolewa. Mwanamke mgonjwa mwenye mwili uliopooza anapaswa kulisha maskini kwa kila siku.
+
+---
+
+**10. Msafiri anaswali na kufunga vipi na lini?**
+
+![](/assets/ramadan-fasting-rulings-and-prohibitions-20180519-7/19May18-10.jpg)
+
+Jibu: Msafiri anapaswa kuswali swala za rakaa nne kwa rakaa mbili kuanzia anapoondoka nchini mwake hadi anaporejea. Kwa sababu Aisha (r.a) anasema:
+
+''Swala ilifaradhishwa mwanzo kwa rakaa mbili. Ikathibitishwa kwa msafiri na ikakamilishwa kwa mkazi.'' Katika ripoti nyingine: ''Na ikaongezwa kwa mkazi'' (Bukhari, Muslim).
+
+Kutoka kwa Anas bin Malik (r.a): ''Tulitoka na Mtume ﷺ kutoka Madina kwenda Makka. Tulikuwa tukiswali rakaa mbili hadi tuliporejea Madina'' (Bukhari, Muslim).
+
+Lakini ikiwa msafiri anaswali nyuma ya imamu mkazi, anapaswa kukamilisha rakaa nne. Hata kama atajiunga na imamu mwanzoni au katikati. Kwa sababu Mtume ﷺ anasema:
+
+''Mkimsikia iqama, nendeni kwenye swala. Nendeni kwa utulivu na heshima. Msikimbie. Swalini mlichopata. Na mliokosa, kamilisheni.'' 
+
+Kwa msingi wa 'swalini mlichopata, na mliokosa kamilisheni', msafiri anayeswali nyuma ya mtu anayeswali rakaa nne anapaswa kukamilisha. Ibn Abbas (r.a) aliulizwa: 'Kwa nini msafiri anayeswali nyuma ya mkazi anaswali rakaa nne, na akiswali peke yake anaswali rakaa mbili?' Akajibu: 'Hiyo ni katika Sunnah ya Mtume.'
+
+Swala ya jamaa haimwondokei msafiri. Kwa sababu hata wakati wa vita, Allah anasema:
+
+''(Ewe Mtume,) ukiwa miongoni mwao na ukawaongoza katika swala, basi kundi moja na lisimame pamoja nawe. Na washike silaha zao. Watakapomaliza kusujudu, na wajiondoe nyuma yenu, na kundi lingine ambalo halijaswali na lije liswali pamoja nawe...'' (Qur'an 4:102).
+
+Ikiwa anasikia adhana, msafiri anapaswa kushiriki katika swala ya jamaa misikitini hata kama hayuko nchini mwake. Lakini ikiwa msikiti uko mbali, na anaogopa kuwapoteza wenzake, basi hahitaji kushiriki. Hili linafafanuliwa kwa msingi wa dalili ya jumla kwamba wanaosikia adhana na iqama wanapaswa kuitikia na kuja misikitini.
+
+Vilevile, msafiri anaweza kuswali swala za Sunnah, isipokuwa Sunnah za kabla na baada ya Dhuhr, Maghrib na Isha. Anaweza kuswali Witr, swala ya usiku, swala ya Dhuha, na rakaa mbili za kabla ya Subhi.
+
+Vilevile, anaweza kuchanganya Dhuhr na Asr, na Maghrib na Isha. Anaweza kufanya hivyo kwa kutanguliza au kuchelewesha, kulingana na kipi ni rahisi na chenye faraja kwake.
+
+Lakini akianza kukaa mahali, ni bora kutochanganya swala, ingawa akichanganya hakuna tatizo. Yote yamethibiti kutoka kwa Mtume ﷺ.
+
+Msafiri anaweza kufunga katika Ramadhani. Akiacha pia hakuna tatizo. Anapaswa kulipa siku alizoacha. Ikiwa ni rahisi na faraja kwa msafiri kuacha saumu, basi ndiyo bora zaidi. Kwa sababu Allah anapenda kutumia urahisi wake. Allah ndiye anayejua kila kitu.
+
+---
+
+**11. Ni nini hukumu ya msafiri anayefunga kwa shida?**
+
+Jibu: Ikiwa msafiri anafunga kwa shida, basi hilo linachukiwa. Tazama hadithi ifuatayo ya Mtume:
+
+Mtume ﷺ aliona mtu akitandikiwa kivuli na watu wakimzunguka, akauliza: 'Ni nini hicho?' Wakasema: 'Yeye (anayetandikiwa kivuli) amefunga'. Mtume ﷺ akasema: 'Si katika wema kufunga wakati wa safari' (Bukhari, Muslim).
+
+Ikiwa ni katika hali ya shida kubwa, basi ni lazima kwa msafiri kuacha saumu. Kwa sababu Mtume ﷺ alipoambiwa kuwa watu (katika safari) wanaona shida kufunga, aliwaambia waache saumu. Baadhi waliposema kuwa wamefunga, Mtume ﷺ akasema: 'Wao ni waasi, wao ni waasi' (Muslim).
+
+Ikiwa msafiri hana shida yoyote, basi kufunga ni bora. Kwa sababu imethibiti kuwa Mtume ﷺ alifunga katika safari.
+
+Abu Darda (r.a) alisema: 'Tulikuwa na Mtume ﷺ katika safari katika siku ya joto kali katika Ramadhani. Hakuna aliyekuwa amefunga (katika safari hiyo) isipokuwa Mtume ﷺ na Abdullah bin Rawaha' (Bukhari, Muslim).
+
+(Kwa kuwa hadithi imekuja kuwa Mtume ﷺ alifunga, inafahamika kuwa kufanya hivyo pia kunaruhusiwa. Lakini kama wanazuoni walivyojadili, msafiri anaweza kujiamulia mwenyewe kulingana na dalili. Kila mmoja anajua hali yake ya afya vizuri zaidi. Mtafsiri).
+
+![](/assets/ramadan-fasting-rulings-and-prohibitions-20180519-7/19May18-11.jpg)
+
+---
+
+**12. Katika zama hizi za kisasa, kwa kuwa kuna vifaa vya kisasa vya usafiri, kufunga kwa msafiri (ikilinganishwa na zamani) si jambo la shida. Katika hali hii, ni nini hukumu ya msafiri anayefunga?**
+
+Jibu: Msafiri anaweza kufunga na anaweza kuacha saumu. Allah anasema: ''...Na ataye kuwa mgonjwa au safarini, basi atimize idadi katika siku nyingine...'' (Qur'an 2:185).
+
+Maswahaba walikuwa wakisafiri na Mtume ﷺ, miongoni mwao walikuwepo waliofunga na walioacha saumu. Waliofunga hawakumlaumu walioacha, na walioacha hawakumlaumu waliofunga. Mtume ﷺ alikuwa akifunga katika safari.
+
+Abu Darda (r.a) alisema: ''Tulikuwa na Mtume ﷺ katika safari katika siku ya joto kali katika Ramadhani. Hakuna aliyekuwa amefunga (katika safari hiyo) isipokuwa Mtume ﷺ na Abdullah bin Rawaha'' (Bukhari, Muslim).
+
+Hukumu ya msafiri ni kwamba anaweza kufunga au kuacha. Lakini ikiwa msafiri hana shida, basi kufunga ni bora. Kwa sababu kuna faida tatu:
+
+1. Kufuata Sunnah ya Mtume. 2. Urahisi: Kufunga pamoja na watu ni rahisi zaidi kuliko kufunga peke yako. 3. Anaweza kutimiza wajibu wake haraka.
+
+---
+
+**13. Msafiri akifika Makka akiwa amefunga, je, anaruhusiwa kuacha saumu ili kutekeleza Umra?**
+
+Jibu: Katika vita vya Fathu Makka, Mtume ﷺ aliingia Makka tarehe ishirini ya Ramadhani na akaacha saumu. Mtume ﷺ aliwaswalisha watu wa Makka rakaa mbili na akawaambia wakamilishe swala, akisema: 'Enyi watu wa Makka, kamilisheni swala, sisi ni wasafiri' (Bukhari). Katika Sahih ya Imam Bukhari, inaonekana kuwa Mtume ﷺ aliacha saumu siku zilizobaki alipokuwa Makka. Ukifika Makka kwa ajili ya Umra, safari haimaliziki. Kwa hiyo, hahitaji kufunga. Watu wengine huonekana wakifunga katika safari. Wanatoa sababu kuwa safari haina shida yoyote. Kisha huchoka sana na kupata shida. Wanauliza pia kama inatosha kufuturu baada ya kufanya Umra, au wanapaswa kuacha saumu haraka ili kufanya Umra.
+
+Katika hali hii, tunawaambia; acheni saumu mapema ili kufanya Umra. Kwa njia hiyo, mtaweza kuingia Makka mkiwa na afya na nguvu. Wanaokuja Makka kwa ajili ya Umra wanapaswa kutekeleza ibada hiyo haraka. Kwa sababu Mtume ﷺ akiingia Makka kwa ajili ya Umra, alikuwa akiharakia msikitini ili kukamilisha ibada hiyo haraka. Alikuwa akifunga hata mnyama wake karibu na msikiti. Kwa hiyo, wanaokuja Makka kwa ajili ya Umra katika Ramadhani, ni bora zaidi kuacha saumu na kukamilisha Umra mchana mkiwa na nguvu kuliko kufuturu na kufanya Umra usiku.
+
+Kama ilivyothibiti kutoka kwa Mtume ﷺ: ''Katika safari ya Fathu Makka, Mtume ﷺ alikuwa amefunga. Watu walimjia na kusema: 'Ewe Mtume, watu wanapata shida sana kwa sababu ya saumu. Wanasubiri kuona utafanya nini.' Hili lilitokea baada ya Asr. Mtume ﷺ akaomba maji na akavunja saumu yake katika safari. Zaidi ya hayo, aliacha saumu katika sehemu ya mwisho ya mchana'' (Muslim).
+
+Mtume ﷺ alifanya yote haya ili kuwafundisha watu kuwa wanaweza kuacha saumu katika safari. Hakuna shaka kuwa kufunga katika safari kwa shida kubwa ni kinyume na Sunnah ya Mtume. Hadithi ya Mtume 'Si katika wema kufunga katika safari' inafundisha hivyo.
+
+---
+
+**14. Je, wanaonyonyesha wanaweza kuacha saumu? Wanapaswa kulipa lini? Je, wanapaswa kulisha maskini?**
+
+Jibu: Ikiwa wanaogopa kuwa wakifunga maziwa ya mtoto yatapungua, au mtoto atapata shida nyingine, wanaweza kuacha saumu. Lakini, kama mgonjwa, wanapaswa kulipa baadaye. Allah anasema kuhusu hilo:
+
+''...Na ataye kuwa mgonjwa au safarini, basi atimize idadi katika siku nyingine. Allah anakutakieni yaliyo mepesi, wala hakutakieni yaliyo mazito...'' (Qur'an 2:185).
+
+Sababu ikiondoka, wanapaswa kuanza kulipa. Wanaweza kulipa katika majira ya baridi ambapo hali ya hewa ni ya baridi na mchana ni mfupi, au katika mwaka unaofuata. Wale wenye sababu zisizoondoka, au ugonjwa usiotaraji kupona, ndio wanaopaswa kulisha maskini mmoja kwa kila siku badala ya saumu.
+
+---
+
+**15. Ikiwa mwenye kufunga anapumzika muda mwingi wa mchana kwa sababu ya njaa na kiu, je, hilo litaathiri kukubalika kwa saumu yake?**
+
+Jibu: Haliathiri kukubalika kwa saumu. Badala yake, kadiri uchovu unavyoongezeka, ndivyo thawabu zinavyoongezeka. Kwa sababu tazama Mtume ﷺ anavyomwambia Aisha (r.a):
+
+''Thawabu zako ni kulingana na uchovu wako'' (Bukhari). Yeyote anayechoka kwa ajili ya kumtii Allah, thawabu zake huongezeka kulingana na uchovu huo. Mwenye kufunga anapochoka, hakuna tatizo kupoza mwili kwa maji au kukaa mahali penye baridi ili kupunguza uchovu.
+
+---
+
+**16. Je, saumu inabatilika ikiwa mtu ana nia thabiti ya kuvunja saumu bila kula au kunywa?**
+
+Jibu: Bila shaka, ibada ya saumu inajumuisha nia, na kujiepusha na mambo yanayovunja saumu. Mtu anayefunga anatarajia kumkaribia Allah zaidi kwa kujiepusha na mambo yanayoharibu saumu. Kwa hiyo, akiamua kwa dhati kuacha nia hiyo, saumu inabatilika. Akifanya hivyo katika Ramadhani, anapaswa kufunga muda uliobaki. Kwa sababu ikiwa anaacha saumu bila sababu inayoruhusiwa na Uislamu, anapaswa kufunga muda uliobaki na kuilipa.
+
+Lakini ikiwa hajaamua kwa dhati, na ana shaka tu, wanazuoni wana maoni tofauti katika suala hilo. Baadhi ya wanazuoni wanasema saumu yake inabatilika. Kwa sababu shaka huondoa uhakika.
+
+Kundi la wanazuoni linafafanua kuwa saumu haibatiliki. Kwa sababu kimsingi nia bado ipo. Nia ya kwanza haiondoki isipokuwa kwa nia thabiti ya kuiondoa. Haya ndiyo maoni yenye nguvu kwangu. Allah ndiye anayejua zaidi.
+
+---
+
+**17. Ni nini hukumu ya mwenye kufunga anayekula kwa kusahau? Je, anayemuona afanye nini?**
+
+Jibu: Mtu akila au kunywa kwa kusahau, saumu yake ni sahihi. Lakini anapokumbuka, anapaswa kuacha. Ni lazima pia kuondoa kilichomo mdomoni wakati huo. Dalili ya kuwa saumu ni sahihi:
+
+Kutoka kwa Abu Huraira (r.a): ''Mwenye kula au kunywa kwa kusahau, na akamilishe saumu yake. Kwa sababu Allah ndiye aliyemlisha na kumnywesha'' (Bukhari, Muslim).
+
+Mtu akifanya jambo lililokatazwa kwa kusahau, hana adhabu. Allah anasema:
+
+''...Ewe Mola wetu! Usituadhibu kwa tuliyo sahau au tuliyo kosa...'' (Qur'an 2:28).
+
+Lakini akimuona mwenye kufunga akila kwa kusahau, ni lazima kumkumbusha. Kwa sababu hiyo ni kukataza maovu.
+
+Mtume ﷺ amesema: ''Mwenye kuona uovu, na auondoe kwa mkono wake. Asipoweza, basi kwa ulimi wake. Asipoweza, basi kwa moyo wake'' (Muslim).
+
+Kula na kunywa ukiwa umefunga ni katika mambo yaliyokatazwa. Ni lazima kuyakataza. Lakini sababu ya kusahau inaleta msamaha katika kukubalika kwa saumu. Lakini kwa anayemuona, hakuna msamaha katika kukataza.
+
+---
+
+**18. Ni nini hukumu ya mwenye kufunga kupaka wanja?**
+
+Jibu: Mwenye kufunga anaweza kupaka wanja, hakuna tatizo. Vilevile anaweza kutumia dawa ya matone machoni na masikioni. Kwa sababu hiyo si kula au kunywa. Kutumia dawa machoni na puani hakusemwi kuwa ni kula au kunywa. Kilichokatazwa ni kula na kunywa. Haya ndiyo maoni ya Sheikhul-Islam Ibn Taymiyyah (r.a). Lakini dawa ikitumika puani na ikafika mdomoni kwa makusudi, saumu inabatilika. Tazama hadithi:
+
+Mtume ﷺ amesema: ''Ikiwa wewe si mwenye kufunga, basi zidisha kuvuta maji puani'' (Abu Dawud, Nasa'i, Ibn Majah).
+
+---
+
+**19. Ni nini hukumu ya mwenye kufunga kupiga mswaki na kutumia manukato?**
+
+Jibu: Mwenye kufunga kupiga mswaki mwanzoni au mwishoni mwa mchana ni katika Sunnah ya Mtume. Tazama hadithi:
+
+Mtume ﷺ amesema: ''Kupiga mswaki ni usafi wa mdomo na radhi ya Mola'' (Bukhari).
+
+Mtume ﷺ amesema: ''Kama si kuwapa shida umma wangu, ningewaamrisha kupiga mswaki kila kabla ya swala'' (Bukhari, Muslim).
+
+Vilevile mwenye kufunga anaweza kutumia manukato mwanzoni au mwishoni mwa mchana. Iwe ni ya moshi, maji, au namna nyingine yoyote. Lakini moshi wa manukato usivutwe puani. Kwa sababu moshi wa manukato unaweza kuingia puani na kufika tumboni. Ndiyo maana Mtume ﷺ alimwambia Luqayt bin Sabra: ''Ikiwa wewe si mwenye kufunga, basi zidisha kuvuta maji puani'' (Abu Dawud, Nasa'i, Ibn Majah).
+
+---
+
+**20. Ni yapi mambo yanayobatilisha saumu?**
+
+![](/assets/ramadan-fasting-rulings-and-prohibitions-20180519-7/19May18-06.jpg)
+
+Jibu: Mambo yafuatayo yanabatilisha saumu.
+
+1. Kuingiliana (kujamiiana)
+
+2. Kula
+
+3. Kunywa
+
+4. Kutokwa na manii kwa matamanio
+
+5. Kutumia vitu badala ya chakula na kinywaji
+
+6. Kutapika kwa makusudi
+
+7. Hijama (kutoa damu chafu)
+
+8. Kutokwa na damu ya hedhi au uzazi.
+
+Dalili ya kuwa chakula, kinywaji na kujamiiana ni haramu kwa mwenye kufunga. Allah anasema: ''...Basi sasa ingilianeni nao, na takeni aliyo kuandikieni Allah. Na kuleni na kunyweni mpaka ubainike kwenu weupe wa alfajiri katika weusi wa usiku. Kisha timizeni saumu mpaka usiku...'' (Qur'an 2:187).
+
+Dalili ya kuwa saumu inabatilika kwa kutokwa na manii kwa matamanio:
+
+Katika hadithi ya Qudsi inaonekana: ''Anaacha chakula chake, kinywaji chake, na matamanio yake kwa ajili yangu'' (Ibn Majah).
+
+Tazama hadithi nyingine: Mtume ﷺ amesema: 'Kuingiliana na wake zenu ni sadaka.' Wakauliza: 'Ewe Mtume wa Allah, je, kuna thawabu hata katika kutimiza matamanio?' Akasema: 'Je, si kuna dhambi akitimiza katika njia haramu? Vilevile kuna thawabu akitimiza katika njia halali' (Muslim).
+
+Hapa, kutimiza matamanio kunamaanisha manii. Kwa maoni yenye nguvu, Madhyy (maji yanayotoka kwenye uume wakati wa matamanio) yakitoka kwa matamanio au kwa kubusu bila kujamiiana, saumu haibatiliki.
+
+Kutumia sindano badala ya chakula na kinywaji kunabatilisha saumu. Ingawa si chakula au kinywaji, lakini kwa kuwa inatumika kwa lengo hilo, basi inabatilisha saumu.
+
+Dalili ya kuwa kutapika kwa makusudi kunabatilisha saumu:
+
+Kutoka kwa Abu Huraira (r.a): Mtume ﷺ amesema: ''Mwenye kutapika, hahitaji kulipa saumu hiyo. Lakini mwenye kutapika kwa makusudi, na ailipe. Mwenye kutapika bila makusudi, hana Qadha'' (Abu Dawud, Tirmidhi).
+
+Dalili ya kuwa Hijama inabatilisha saumu:
+
+Mtume ﷺ amesema: ''Mwenye kufanya Hijama na anayefanyiwa wote wamevunja saumu'' (Bukhari aliyenukuu kwa Ta'liq).
+
+Kutokwa na damu ya hedhi au uzazi: Mtume ﷺ alimwambia mwanamke:
+
+''Ikija hedhi, hahitaji kufunga wala kuswali'' (Bukhari). Wanazuoni wamekubaliana kuwa saumu ya mwenye hedhi au uzazi haikubaliki.
+
+Mambo haya saba yanabatilisha saumu kwa sharti tatu tu.
+
+Nazo ni:
+
+1. Awe anajua kuwa jambo hilo linabatilisha saumu.
+
+2. Awe na fahamu.
+
+3. Asiwe amelazimishwa. Awe kwa hiari yake. Mtu akimlazimisha mwingine kunywa maji, saumu haibatiliki.
+
+Akifanya jambo lolote kati ya hayo bila kujua au bila nia, saumu haibatiliki. Saumu inabaki kuwa sahihi. Allah anasema:
+
+''...Ewe Mola wetu! Usituadhibu kwa tuliyo sahau au tuliyo kosa...'' (Qur'an 2:286).
+
+''...Hamna dhambi kwa mlivyo kosa, lakini (kuna dhambi kwa) yale yaliyo kusudiwa na nyoyo zenu...'' (Qur'an 33:5).
+
+Katika Sunnah ya Mtume tunaweza kuona dalili:
+
+Kutoka kwa Adiyy bin Hatim (r.a): ''Alifunga na akaweka nyuzi mbili chini ya mto wake. (Nyuzi hizo zilikuwa zikitumika kufunga ngamia). Moja ilikuwa nyeusi na nyingine nyeupe. Akawa akila na kunywa mpaka akaona nyeupe kutoka nyeusi. Kisha akafunga. Kulipopambazuka akaenda kwa Mtume ﷺ na kumweleza. Mtume ﷺ akamfafanulia: 'Uzi mweusi na mweupe uliotajwa katika aya si nyuzi zetu nyeusi na nyeupe. Badala yake, uzi mweupe unamaanisha weupe wa mchana na uzi mweusi unamaanisha weusi wa usiku.' Lakini Mtume ﷺ hakumwamuru kulipa saumu'' (Bukhari, Muslim). Kwa kuwa alikuwa mjinga wa hukumu, saumu haikubatilika.
+
+Ikiwa ni mjinga wa wakati, saumu haibatiliki. Dalili yake: Kutoka kwa Asma bint Abu Bakr (r.a): Alisema: ''Katika zama za Mtume ﷺ tulifuturu wakati wa mawingu. Kisha jua likazama'' (Bukhari). Mtume ﷺ hakumwamuru kulipa saumu hiyo. Kama ingekuwa lazima kulipa, angeamrishwa. Kama angeamrishwa, angeiambia umma. Kwa sababu Allah anasema: ''Hakika Sisi tumeteremsha Ukumbusho huu, na hakika Sisi ndio tutaoilinda'' (Qur'an 15:9).
+
+Kwa kuwa hakuna ripoti ya Mtume ﷺ kuamuru kulipa, inafahamika kuwa hakufanya hivyo. Kwa kuwa hakukuwa na amri ya kulipa, inafahamika kuwa si lazima. Vilevile mtu akaamka na kula na kunywa. Kisha akajua kuwa alikula baada ya mapambazuko. Hahitaji kulipa saumu hiyo. Kwa sababu alifanya bila kujua.
+
+Sharti ya pili: Awe na fahamu. Mtu akila au kunywa kwa kusahau, saumu inabaki kuwa sahihi. Hahitaji kulipa. Allah anasema:
+
+''...Ewe Mola wetu! Usituadhibu kwa tuliyo sahau au tuliyo kosa...'' (Qur'an 2:286).
+
+Kutoka kwa Abu Huraira (r.a): ''Mwenye kula au kunywa kwa kusahau, na akamilishe saumu yake. Kwa sababu Allah ndiye aliyemlisha na kumnywesha'' (Bukhari, Muslim).
+
+Sharti ya tatu: Awe kwa hiari yake. Asiwe amelazimishwa. Akifanya mambo hayo bila hiari, saumu haibatiliki. Allah anasema:
+
+''Aliye kufuru baada ya kuamini - isipo kuwa aliye lazimishwa na hali ya kuwa moyo wake umetua kwa imani - lakini aliye kifungulia kifua chake kukufuru, basi hao ghadhabu ya Allah iwe juu yao, na watapata adhabu kubwa'' (Qur'an 16:106).
+
+Ikiwa hukumu ya kufanya ukafiri kwa kulazimishwa ni hii, basi hatupaswi kuwa na shaka katika mambo madogo zaidi. Tazama hadithi:
+
+Mtume ﷺ anasema: ''Kosa, kusahau, na kulazimishwa vimeondolewa kwa umma wangu'' (Ibn Majah, Tabarani).
+
+Vilevile vumbi au kitu chochote kikiingia puani mwa mwenye kufunga na akahisi ladha na kikafika tumboni, saumu haibatiliki, kwa sababu hakufanya kwa nia. Vilevile mtu akilazimishwa kunywa maji, saumu haibatiliki. Kutokwa na manii usingizini hakubatilishi saumu, kwa sababu hakufanya kwa nia. Vilevile mume akimlazimisha mke kufanya mambo yanayobatilisha saumu, saumu ya mke haibatiliki. Kwa sababu hakufanya kwa hiari yake, bali kwa kulazimishwa na mume.
+
+Kuna jambo maalum hapa; Mwanamume mwenye wajibu wa kufunga katika Ramadhani akijamiiana mchana, mambo matano yanamtokea:
+
+1. Anapaswa kufunga muda uliobaki. 2. Saumu yake inabatilika. 3. Anapaswa kulipa. 4. Anapaswa kutoa kafara. 5. Ametenda dhambi.
+
+Hapa hakuna tofauti kati ya anayejua na asiyejua. Yaani, mwanamume mwenye wajibu wa kufunga akijamiiana mchana wa Ramadhani, hata kama hakujua kuwa ni lazima kutoa kafara, hukumu hizi zinamhusu. Kwa sababu amefanya jambo linalobatilisha saumu kwa makusudi. Akifanya jambo linalobatilisha saumu kwa makusudi, hukumu yake inamhusu. Katika hadithi tunaweza kuona:
+
+Kutoka kwa Abu Huraira (r.a): Mtu alimjia Mtume ﷺ na kusema: 'Ewe Mtume, nimeangamia.' Mtume ﷺ akauliza: 'Ni nini kimekuangamiza?' Akasema: 'Nimeingiliana na mke wangu mchana wa Ramadhani nikiwa nimefunga' (Bukhari).
+
+Mtume ﷺ akamwamuru kutoa kafara. Hakujua kuwa ni lazima kutoa kafara. Hapa nimesema 'mwenye wajibu wa kufunga' kwa sababu maalum. Mume na mke wakirejea kutoka safari na wakajamiiana, hawana kafara. Kwa sababu wakiwa wasafiri hawana wajibu wa kufunga. Vilevile msafiri akifunga, si lazima kukamilisha. Akipenda anaweza kukamilisha, asipopenda hahitaji. Asipokamilisha (kwa kuwa msafiri hana wajibu wa kufunga), anapaswa kulipa tu.
+
+---
+
+**21. Je, saumu inabatilika kwa kutumia inhaler kwa wagonjwa wa pumu ili kurahisisha kupumua?**
+
+Jibu: Kutumia inhaler hakufikishi chochote tumboni, kwa kuwa ni kitu kisicho na uzito, saumu haibatiliki.
+
+---
+
+**22. Je, saumu inabatilika kwa kutapika?**
+
+Jibu: Ukatapika kwa makusudi, saumu inabatilika. Lakini kutapika kwa kawaida hakubatilishi saumu. Tazama hadithi:
+
+Kutoka kwa Abu Huraira (r.a): Mtume ﷺ amesema: ''Mwenye kutapika, hahitaji kulipa saumu hiyo. Lakini mwenye kutapika kwa makusudi, na ailipe. Mwenye kutapika bila makusudi, hana Qadha'' (Abu Dawud, Tirmidhi).
+
+---
+
+**23. Je, saumu inabatilika ikiwa damu kidogo inatoka kwenye ufizi wa mwenye kufunga?**
+
+Jibu: Damu inayotoka kwenye meno haileti tatizo lolote kwa saumu. Lakini isimezwe. Vilevile mafua hayabatilishi saumu, na hana Qadha.
+
+---
+
+**24. Je, saumu ya mwanamke mwenye hedhi inakuwa sahihi ikiwa atatwahirika kabla ya Subhi na akaoga baada ya mapambazuko?**
+
+Jibu: Ikiwa ametwahirika kabla ya Subhi, saumu yake ni sahihi. Anapaswa kuhakikisha kuwa ametwahirika kabla ya Subhi. Wanawake wengine hudhani wametwahirika, lakini kwa kweli hawajatwahirika. Kwa hiyo, wanawake walikuwa wakimjia Aisha (r.a) na pamba kama alama ya utwahara. Aisha (r.a) alikuwa akiwaambia: 'Msiharakishe, hamtatwahirika mpaka muone weupe.' (Inamaanisha kuona weupe kwenye pedi inayotumiwa wakati wa hedhi). Wanawake wanapaswa kuwa na subira mpaka watwahirike kweli. Akishatwahirika, na aweke nia ya saumu. Kuoga baada ya mapambazuko pia kunatosha. Vilevile swala inapaswa kuchukuliwa kwa uzito. Anapaswa kuoga haraka na kuswali kwa wakati. Wanawake wengine hutwahirika kabla au baada ya mapambazuko. Lakini huoga baada ya jua kuchomoza. Husema wanafanya hivyo ili kusafisha vizuri na kuoga vizuri. Hili ni kosa, iwe katika Ramadhani au la. Kwa kweli, anapaswa kuoga haraka na kuswali kwa wakati. Inatosha kuoga kwa ajili ya swala. Akipenda kuoga tena kwa ajili ya usafi, hakuna tatizo. Vilevile mwanamume mwenye janaba akiooga baada ya mapambazuko, saumu yake ni sahihi. Tazama hadithi:
+
+''Mtume ﷺ alikuwa akiamka na janaba katika Ramadhani na akaoga baada ya mapambazuko'' (Bukhari, Muslim).
+
+---
+
+**25. Je, saumu inabatilika kwa kung'oa jino?**
+
+Jibu: Damu inayotoka kwa kung'oa jino (damu kidogo) haibatilishi saumu, hukumu ya Hijama haimhusu.
+
+---
+
+**26. Je, saumu inabatilika kwa kuchukua damu kidogo kwa ajili ya uchunguzi?**
+
+Jibu: Kuchukua damu kwa ajili ya uchunguzi hakubatilishi saumu. Madaktari wanahitaji kuchukua damu kwa ajili ya kumchunguza mgonjwa. Saumu yake haibatiliki. Si kama Hijama. (Maoni sahihi ni kuwa Hijama inabatilisha saumu. Sheikh aliyoyachagua ni hayo. Wanazuoni wanasema kutoa damu kunabatilisha saumu kwa kutegemea hadithi hii. Kuna maoni pia kuwa Hijama haibatilishi. Tazama Fathul-Bari. Mtafsiri). Kwa hiyo, inahitaji dalili ya kidini kusema saumu inabatilika. Lakini hakuna dalili kuwa kuchukua damu kidogo kwa ajili ya uchunguzi kunabatilisha saumu. Ikiwa damu nyingi inachukuliwa kwa ajili ya kumpa mtu mwingine, saumu inabatilika. Kwa hiyo, isipokuwa katika hali ya dharura, mwenye kufunga asitoe damu. Katika hali ya dharura ambapo hawezi kusubiri mpaka jua lizame, anaweza kutoa damu, na saumu yake itabatilika. Muda uliobaki anaweza kula na kunywa. Na anapaswa kulipa siku hiyo.
+
+---
+
+**27. Je, mwenye kufunga anaruhusiwa kunusa manukato?**
+
+Jibu: Mwenye kufunga anaweza kunusa manukato. Hakuna tatizo kupiga manukato. Lakini moshi wa manukato usivutwe puani. Kwa sababu moshi unaweza kufika tumboni. Kunusa tu hakuna tatizo.
+
+---
+
+**28. Ni tofauti gani kati ya kuvuta moshi na kutumia dawa ya matone? Kwa nini kuvuta moshi kunabatilisha saumu na dawa ya matone haibatilishi?**
+
+Jibu: Mvuta moshi anafanya hivyo kwa makusudi ili moshi ufike tumboni. Lakini dawa ya matone machoni au puani haitumiki kwa lengo la kufikisha tumboni. Inatumika ili ifike kwenye utando wa pua. Hiyo ndiyo tofauti kati ya hayo mawili.
+
+---
+
+**29. Je, saumu inabatilika ikiwa maji kidogo yataingia tumboni bila makusudi wakati wa kuvuta maji puani au kusukutua?**
+
+Jibu: Mwenye kufunga akivuta maji puani au kusukutua, na maji kidogo yakaingia tumboni bila makusudi, hakuna tatizo. Saumu yake ni sahihi. Kwa sababu hakufanya kwa makusudi.
+
+---
+
+**30. Ni nini hukumu ya mwenye kufunga kutumia manukato?**
+
+Jibu: Kutumia manukato mchana wa Ramadhani hakuna tatizo, na kunusa pia hakuna tatizo, lakini moshi wa manukato usivutwe, kwani unafika tumboni.
+
+---
+
+**31. Je, saumu inabatilika ikiwa kitu kitatoka puani kwa sababu ya mafua?**
+
+Jibu: Saumu haibatiliki kwa mafua, hata kama ni mengi. Kwa sababu si kwa makusudi.
+
+---
+
+**32. Katika kalenda nyingine, kuna wakati ulioandikwa 'Imsak' (kufunga) dakika kumi au kumi na tano kabla ya adhana ya Subhi. Je, kuna dalili yoyote katika Sunnah ya Mtume?**
+
+Jibu: Hii ni katika Bid'ah (uzushi). Hakuna msingi wowote katika Sunnah ya Mtume. Ni kinyume na Sunnah. Kwa sababu Allah anasema katika Qur'an:
+
+''...Na kuleni na kunyweni mpaka ubainike kwenu weupe wa alfajiri katika weusi wa usiku'' (Qur'an 2:187).
+
+Tazama hadithi: Mtume ﷺ amesema: ''Bilal anaita adhana usiku. Lakini kuleni na kunyweni mpaka Ibn Umm Maktum aite adhana. Kwa sababu yeye (Ibn Umm Maktum) haiti adhana mpaka mapambazuko yaonekane'' (Bukhari, Muslim).
+
+Kutengeneza wakati maalum kama 'Imsak' ni kuongeza yale ambayo Allah amefaradhisha. Ni kuvuka mipaka katika dini ya Allah. Kuhusu wao, Mtume ﷺ amesema: ''Wameangamia wanaovuka mipaka, wameangamia wanaovuka mipaka'' (Muslim).
+
+---
+
+**33. Mtu aliyefuturu uwanja wa ndege baada ya adhana ya jua kuzama akiwa duniani, kisha ndege ikapaa na akaona jua, je, anapaswa kufunga muda uliobaki?**
+
+Jibu: Katika hali iliyoelezwa, hahitaji kufunga muda uliobaki. Wakati wa kufuturu ulikuwa umefika alipokuwa uwanja wa ndege. Jua lilikuwa limezama mahali alipokuwa. Tazama hadithi:
+
+Mtume ﷺ amesema: ''Usiku ukija kutoka huku, na mchana ukaondoka, na jua likazama, basi mwenye kufunga na afuturu'' (Bukhari).
+
+Akifuturu jua lilipozama uwanja wa ndege, siku yake imeisha. Hahitaji kufunga tena mpaka siku inayofuata.
+
+---
+
+**34. Je, saumu inabatilika kwa kumeza makohozi au vitu vinavyotoka puani?**
+
+Jibu: Makohozi au vitu vinavyotoka puani visipofika mdomoni, saumu haibatiliki, hakuna tofauti kati ya madhehebu katika hilo. Lakini vikifika mdomoni na akavimeza, wanazuoni wana maoni mawili: Kundi moja la wanazuoni wanasema saumu inabatilika kwa kulinganisha na chakula na kinywaji. Lakini kundi lingine linasema saumu haibatiliki kwa kulinganisha na mate. Kama kumeza mate hakubatilishi saumu, vivyo hivyo kumeza makohozi.
+
+Wanazuoni wakitofautiana, marejeo ni Qur'an na Sunnah. Ikiwa tuna shaka kama jambo hili linaharibu ibada au la, msingi wake ni kuwa haiharibu. Kwa msingi huu, wanazuoni wamefafanua kuwa saumu haibatiliki.
+
+Lakini makohozi au vitu vinavyotoka puani vikifika mdomoni, iwe ni mwenye kufunga au la, Muislamu anapaswa kuvitema. Lakini kusema saumu inabatilika inahitaji dalili mbele ya Allah.
+
+---
+
+**35. Je, saumu inabatilika kwa kuonja chakula?**
+
+Jibu: Saumu haibatiliki kwa kuonja chakula. Lakini anapaswa kuwa makini ili kitu chochote kisifike tumboni. Afanye hivyo kwa dharura tu. Ikiwa wakati wa kuonja chakula ili kujua kama kina chumvi au pilipili, kitu kitaingia tumboni bila makusudi, hakuna tatizo, saumu yake ni sahihi.
+
+---
+
+**36. Je, saumu inabatilika kwa kutoa ushahidi wa uongo ukiwa umefunga?**
+
+Jibu: Kutoa ushahidi wa uongo ni katika madhambi makubwa. Muislamu anapaswa kujiepusha nacho. Saumu haibatiliki kwa kutoa ushahidi wa uongo. Lakini inaharibu sana roho na thawabu za saumu.
+
+---
+
+**37. Mgonjwa aliacha saumu katika Ramadhani. Kisha akafa baada ya siku nne. Je, anapaswa kufungiwa saumu kwa niaba yake?**
+
+Jibu: Ikiwa ni ugonjwa uliokuja ghafla na ukaendelea mpaka kifo, hahitaji kufungiwa saumu. Allah anasema:
+
+''...Na ataye kuwa mgonjwa au safarini, basi atimize idadi katika siku nyingine...'' (Qur'an 2:185).
+
+Mtu huyu anapaswa kulipa saumu alizokosa baada ya kupona. Lakini akifa kabla ya kupata fursa hiyo, wajibu huo unaondoka kwake. Kwa sababu wakati wa wajibu wa saumu haukumfikia. Yeye ni kama mtu aliyekufa katika Sha'ban. Lakini ikiwa ni ugonjwa usiotaraji kupona, anapaswa kulisha maskini mmoja kwa kila siku.
+
+---
+
+**38. Mtu ana saumu ya Ramadhani ya kulipa. Lakini hakuweza kuilipa kabla ya Ramadhani inayofuata, afanye nini?**
+
+Jibu: Allah anasema wazi:
+
+''...Basi ataye kuwa miongoni mwenu katika mwezi huu, na afunge. Na ataye kuwa mgonjwa au safarini, basi atimize idadi katika siku nyingine...'' (Qur'an 2:185).
+
+Mtu aliyeacha saumu kwa sababu ya kidini anapaswa kulipa kwa amri ya Allah. Ni lazima kuilipa katika mwaka huo huo. Haipaswi kucheleweshwa mpaka Ramadhani inayofuata. Hiyo ndiyo hadithi ya Aisha (r.a) inayotufundisha wazi:
+
+Kutoka kwa Aisha (r.a): ''Nilikuwa na saumu ya Ramadhani ya kulipa. Sikuweza kuilipa isipokuwa katika Sha'ban kwa sababu ya Mtume ﷺ'' (Bukhari).
+
+Maneno ya Aisha (r.a) 'Sikuweza kuilipa isipokuwa katika Sha'ban' yanaashiria kuwa inapaswa kulipwa kabla ya Ramadhani inayofuata. Lakini ikiwa atachelewesha hata baada ya Ramadhani inayofuata, anapaswa kuomba msamaha kwa Allah, kutubia, kujuta kwa kuchelewesha, na kulipa saumu hiyo. Kuchelewesha wakati hakuondoi wajibu wa kulipa. Baada ya Ramadhani inayofuata, anapaswa kulipa. Allah ndiye anayetoa taufiki.
+
+(Ta'liq: Hadithi ambazo mlolongo wake haukuthibiti kulingana na masharti ya Imam Bukhari ni Ta'liq.)
