@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-22T03:58:58.977825+00:00",
+ "generated_at": "2026-09-22T03:59:58.357976+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 7056,
+ "count": 7057,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -5742,6 +5742,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/bn/hadith/criteria-for-accepting-hadith-20170128-2.html",
    "md_url": "/bn/hadith/criteria-for-accepting-hadith-20170128-2.md"
+  },
+  {
+   "slug": "food-in-ramadan-20180519-8",
+   "lang": "bn",
+   "category": "health",
+   "title": "রমজানে খাদ্যভ্যাস",
+   "summary": "এই নিবন্ধটি রমজান মাসে সুস্থ ও অসুস্থ ব্যক্তিদের খাদ্যতালিকা কেমন হওয়া উচিত তা নিয়ে আলোচনা করে। এতে ইফতার ও সেহরিতে স্বাস্থ্যকর খাবার নির্বাচনের গুরুত্ব এবং রোজার সময় শরীরকে সচল রাখার উপায়গুলো বিস্তারিতভাবে তুলে ধরা হয়েছে।",
+   "author": "ഡോ. മുഹമ്മദ് കുട്ടി കണ്ണിയന്‍",
+   "issue_date": "2018-05-19",
+   "html_url": "/bn/health/food-in-ramadan-20180519-8.html",
+   "md_url": "/bn/health/food-in-ramadan-20180519-8.md"
   },
   {
    "slug": "know-this-for-those-caring-for-the-sick-20260822-1",
