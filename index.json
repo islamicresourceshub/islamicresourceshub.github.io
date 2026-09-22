@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-22T03:54:52.202456+00:00",
+ "generated_at": "2026-09-22T03:56:19.260093+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 7052,
+ "count": 7053,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -76890,6 +76890,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/zh/fiqh/mosque-construction-some-points-to-note-20170325-5.html",
    "md_url": "/zh/fiqh/mosque-construction-some-points-to-note-20170325-5.md"
+  },
+  {
+   "slug": "ramadan-fasting-rulings-and-prohibitions-20180519-7",
+   "lang": "zh",
+   "category": "fiqh",
+   "title": "斋月斋戒的教法规定与禁忌",
+   "summary": "这是一篇以问答形式呈现的文章，探讨了斋月斋戒的相关教法规定、禁忌及其背后的逻辑。文章详细解释了斋戒的强制性原因、斋戒期间的各项教法准则，并由赛义德·萨法尔·萨迪克（Sayyid Sa'far Sadiq）翻译。",
+   "author": "ശൈഖ് മുഹമ്മദ്ബ്‌നു സ്വാലിഹ് അല്‍ ഉഥൈമീന്‍",
+   "issue_date": "2018-05-19",
+   "html_url": "/zh/fiqh/ramadan-fasting-rulings-and-prohibitions-20180519-7.html",
+   "md_url": "/zh/fiqh/ramadan-fasting-rulings-and-prohibitions-20180519-7.md"
   },
   {
    "slug": "the-alcoholic-father-20170211-7",
