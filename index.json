@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-22T04:33:15.590120+00:00",
+ "generated_at": "2026-09-22T04:34:12.754296+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 7090,
+ "count": 7091,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -75746,6 +75746,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/vi/hadith/criteria-for-accepting-hadith-20170128-2.html",
    "md_url": "/vi/hadith/criteria-for-accepting-hadith-20170128-2.md"
+  },
+  {
+   "slug": "food-in-ramadan-20180519-8",
+   "lang": "vi",
+   "category": "health",
+   "title": "Dinh dưỡng trong tháng Ramadan",
+   "summary": "Bài viết này hướng dẫn về chế độ ăn uống lành mạnh cho cả người khỏe mạnh và người bệnh trong tháng Ramadan. Nội dung tập trung vào việc lựa chọn thực phẩm phù hợp cho bữa Iftar và Suhoor để đảm bảo sức khỏe và sự tỉnh táo.",
+   "author": "ഡോ. മുഹമ്മദ് കുട്ടി കണ്ണിയന്‍",
+   "issue_date": "2018-05-19",
+   "html_url": "/vi/health/food-in-ramadan-20180519-8.html",
+   "md_url": "/vi/health/food-in-ramadan-20180519-8.md"
   },
   {
    "slug": "know-this-for-those-caring-for-the-sick-20260822-1",
