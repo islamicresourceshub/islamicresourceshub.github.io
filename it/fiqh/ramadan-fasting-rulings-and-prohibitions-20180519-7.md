@@ -1,0 +1,530 @@
+---
+title: 'Digiuno di Ramadan: Regole e Proibizioni'
+author: ശൈഖ് മുഹമ്മദ്ബ്‌നു സ്വാലിഹ് അല്‍ ഉഥൈമീന്‍
+lang: it
+category: fiqh
+kind: article
+tags:
+- ramadan
+- fasting
+- fiqh
+- islamic rulings
+- wisdom
+- questions and answers
+summary: Questo articolo, presentato sotto forma di domande e risposte, esplora le regole e le proibizioni legate al digiuno di Ramadan, spiegando la saggezza che ne sta alla base. Il testo chiarisce i motivi per cui il digiuno è obbligatorio e fornisce indicazioni pratiche sulle norme da seguire.
+source:
+  magazine: Nerpatham Weekly
+  issue_date: '2018-05-19'
+  pdf_url: http://nerpatham.com/vol-no-02/images/archives/Nerpatham-2018May19.pdf
+date_processed: '2026-08-30T16:00:34Z'
+slug: ramadan-fasting-rulings-and-prohibitions-20180519-7
+translation_of: ramadan-fasting-rulings-and-prohibitions-20180519-7
+---
+
+**(Traduzione: Sayyid Sa'far Swadiq)**
+
+![](/assets/ramadan-fasting-rulings-and-prohibitions-20180519-7/19May18-07.jpg)
+
+**1. Qual è la saggezza dietro l'obbligatorietà del digiuno?**
+
+Risposta: Possiamo comprenderlo leggendo il seguente versetto del Corano. Allah dice:
+
+«O voi che credete, vi è prescritto il digiuno come era stato prescritto a coloro che vi hanno preceduto, affinché possiate essere timorati» (Corano 2:183).
+
+Lo scopo dell'imposizione del digiuno è quello di temere Allah e adorarLo. La *taqwa* - il timore reverenziale - consiste nell'astenersi da ciò che è proibito e nell'adempiere ai Suoi comandamenti.
+
+Abu Hurayra (che Allah sia soddisfatto di lui) narra che il Profeta (pace e benedizioni di Allah su di lui) disse: «Se qualcuno non abbandona le false parole e le cattive azioni, Allah non ha alcun bisogno che egli si astenga dal cibo e dalle bevande» (Bukhari).
+
+Da questo hadith è chiaro che per chi digiuna è essenziale compiere le azioni obbligatorie e astenersi da quelle proibite. Se durante il Ramadan si riesce a evitare completamente la calunnia, il pettegolezzo, la menzogna, il commercio illecito e le oscenità, sarà possibile mantenere tale condotta anche negli altri mesi.
+
+Purtroppo, molti compiono azioni che non si addicono alla purezza del digiuno. Digiunano trascurando i doveri religiosi e commettendo liberamente ciò che è proibito. Pertanto, bisogna fare attenzione, poiché alcune azioni riducono la ricompensa del digiuno, mentre altre possono renderlo del tutto vano.
+
+
+
+**2. Qual è la Sua opinione riguardo alla tesi secondo cui, basandosi sull'alba e il tramonto di Mecca, si potrebbe unificare il digiuno e la festa per tutta la comunità musulmana?**
+
+Risposta: Dal punto di vista astronomico, ciò è impossibile. Come affermato dallo Shaykh al-Islam Ibn Taymiyya, gli orari dell'alba e del tramonto variano a seconda del luogo. Pertanto, basandosi sulle prove e sull'esperienza, ogni paese ha le proprie regole.
+
+Prove dalle fonti: Allah dice: «...Chi di voi ne testimonia il mese, lo digiuni...» (Corano 2:185).
+
+Se le persone in una parte della terra non vedono la luna nuova, ma questa viene avvistata a Mecca, come potrebbe essere valido l'invito rivolto nel versetto per chi si trova altrove? Inoltre, il Profeta (pace e benedizioni di Allah su di lui) dice:
+
+Muhammad ibn Ziyad (che Allah sia soddisfatto di lui) riferisce di aver sentito Abu Hurayra (che Allah sia soddisfatto di lui) dire: Il Profeta (pace e benedizioni di Allah su di lui) disse: «Digiunate quando vedete la luna nuova e interrompete il digiuno quando vedete la luna nuova (di Shawwal)» (Bukhari, Muslim).
+
+Sulla base di questa prova, come potrebbero le persone in paesi come il Pakistan digiunare se la luna viene avvistata a Mecca? Il mese di Ramadan non è ancora sorto per loro. Il Profeta (pace e benedizioni di Allah su di lui) ha detto «quando la vedete».
+
+Esperienza: Un'analogia chiara che nessuno può negare o contrastare. Sappiamo che il sole sorge a est prima che a ovest. Se dovessimo basarci sull'alba a est, dovremmo digiunare mentre siamo ancora nella notte? La risposta è no. Allo stesso modo, dovremmo interrompere il digiuno mentre siamo ancora di giorno basandoci sul tramonto a est? Anche in questo caso, la risposta è no. Pertanto, la regola della luna è simile a quella del sole. Tuttavia, il tempo della luna è legato al mese, mentre quello del sole al giorno. Allah dice:
+
+«Vi è lecito, nelle notti del digiuno, unirvi alle vostre spose. Esse sono una veste per voi e voi siete una veste per loro. Allah sa che voi tradivate voi stessi, ma ha accettato il vostro pentimento e vi ha perdonato. Ora unitevi a loro e cercate ciò che Allah ha prescritto per voi. Mangiate e bevete finché non possiate distinguere il filo bianco dall'alba dal filo nero della notte. Poi completate il digiuno fino alla notte. Non unitevi a loro quando siete in ritiro (*i'tikaf*) nelle moschee. Questi sono i limiti di Allah, non avvicinatevi ad essi. Così Allah espone i Suoi segni agli uomini, affinché siano timorati» (Corano 2:187).
+
+Allah dice: «...Chi di voi ne testimonia il mese, lo digiuni...»
+
+Sulla base delle prove sopra esposte, ogni paese ha regole specifiche in base ai propri orari di alba e tramonto. Il digiuno e la festa devono essere decisi in base all'avvistamento della luna, come chiarito da Allah nel Corano e dal Profeta (pace e benedizioni di Allah su di lui) nella Sunnah.
+
+(Qui si discute la questione di celebrare la festa e il digiuno nello stesso giorno in tutto il mondo. Tuttavia, ciò è contrario al Corano, alla Sunnah stabilita e alle leggi astronomiche. È noto che, a causa della differenza di alba e tramonto, vi sono differenze di orario e di giorno anche per la preghiera e il digiuno. Chi desidera approfondire può consultare il libro 'La luna nuova nel Corano e nella scienza' scritto da Umar Farooq. Trad:).
+
+---
+
+**3. Una persona che digiunava durante il Ramadan si è messa in viaggio verso un altro paese. In quel momento, nel suo paese d'origine è stata avvistata la luna di Shawwal ed è stata confermata la festa. Tuttavia, nel paese in cui è arrivata, la luna di Shawwal non è stata avvistata. Cosa deve fare?**
+
+![](/assets/ramadan-fasting-rulings-and-prohibitions-20180519-7/19May18-08.jpg)
+
+Risposta: Se una persona viaggia da un paese all'altro, deve seguire le regole del paese in cui si trova per quanto riguarda le pratiche islamiche. Ovvero, deve festeggiare quando le persone del luogo festeggiano. Il Profeta (pace e benedizioni di Allah su di lui) ha detto che si deve digiunare quando le persone digiunano. Anche la festa di *Fitr* e la festa del sacrificio devono essere celebrate insieme a loro, anche se ciò comporta un giorno in più o in meno. Allo stesso modo, se nel paese di arrivo il tramonto avviene con un'ora o due di ritardo, bisogna interrompere il digiuno in base all'orario locale. In alcuni luoghi il tramonto può avvenire con due, tre o più ore di ritardo; in quel caso, si deve interrompere il digiuno quando avviene il tramonto locale.
+
+(Esempio: chi parte dall'India alle 6 del mattino durante il Ramadan verso l'Arabia Saudita deve interrompere il digiuno secondo l'orario saudita, che è circa due ore e mezza dopo quello indiano. Ciò significa che non deve interrompere il digiuno quando lo fanno in India).
+
+Il motivo è che il Profeta (pace e benedizioni di Allah su di lui) ha detto «quando la vedete», ovvero quando vedete la luna, interrompete il digiuno. Può accadere anche il contrario: se nel paese di arrivo la luna di Shawwal è stata avvistata uno o due giorni prima, deve festeggiare con loro e recuperare i giorni di digiuno persi dopo il primo giorno di Shawwal. Poiché il Ramadan può essere di ventinove o trenta giorni, se si perde un giorno, se ne recupera uno; se se ne perdono due, se ne recuperano due. Tutti i mesi lunari, incluso il Ramadan, non sono mai inferiori a ventinove giorni. Se nel paese di arrivo si avvista la luna di Shawwal prima che la persona abbia completato i ventinove giorni di Ramadan, deve festeggiare con loro e recuperare i giorni mancanti in seguito. Se invece deve digiunare un giorno in più, deve farlo. Poiché la festa si celebra quando si avvista la luna, un giorno in più o in meno è da considerarsi come una variazione di orario.
+
+---
+
+**4. Per chi svolge lavori pesanti e faticosi, il digiuno può essere difficile. È permesso loro di evitare il digiuno?**
+
+Risposta: A mio parere, basato sulle prove, non è permesso evitare il digiuno per motivi di lavoro. Se non è possibile conciliare lavoro e digiuno, la persona dovrebbe prendere ferie per digiunare durante il Ramadan. Poiché il digiuno del Ramadan è uno dei pilastri dell'Islam, non deve essere compromesso.
+
+---
+
+**4. Cosa deve fare una ragazza che, per ignoranza, ha digiunato durante il ciclo mestruale?**
+
+Risposta: Deve recuperare in seguito il digiuno effettuato durante il ciclo mestruale. Il digiuno di una donna durante il ciclo non è accettabile, anche se compiuto per ignoranza. Allo stesso modo, se una ragazza ha avuto il ciclo per la prima volta e, per vergogna, non lo ha comunicato ai familiari, non deve digiunare. Deve recuperare tutti i giorni di digiuno persi. Quando una donna inizia ad avere il ciclo, significa che ha raggiunto la maturità; pertanto, è obbligatorio per lei recuperare i giorni di digiuno persi.
+
+---
+
+**5. Qual è la regola per chi evita il digiuno del Ramadan per provvedere al sostentamento proprio e dei propri dipendenti?**
+
+Risposta: Alcuni studiosi hanno affermato che la condizione di queste persone è simile a quella del malato, a cui è permesso evitare il digiuno. Se un malato non è assolutamente in grado di digiunare, può evitare il digiuno e recuperarlo dopo la guarigione, se rimane in vita. Se muore, qualcun altro deve recuperarlo per lui. Se il suo tutore non è in grado di farlo, deve nutrire un povero per ogni giorno perso.
+
+Tuttavia, l'opinione degli studiosi che non li equiparano ai malati è la seguente: tutte le adorazioni sono legate a tempi specifici; se qualcuno rimanda le pratiche di adorazione oltre il tempo stabilito senza una ragione valida, queste non saranno accettate. Successivamente, deve aumentare le buone azioni e le pratiche volontarie e chiedere perdono ad Allah. La prova è:
+
+Il Profeta (pace e benedizioni di Allah su di lui) dice: «Chiunque compia un'azione che non rientra nel nostro comando, essa sarà respinta» (Bukhari, Muslim).
+
+Come le adorazioni non sono accettabili se compiute prima del tempo stabilito, così non lo sono se compiute dopo. Tuttavia, se vi sono ragioni come l'ignoranza o la dimenticanza, saranno accettate.
+
+Il Profeta (pace e benedizioni di Allah su di lui) ha detto riguardo alla dimenticanza: «Chiunque si addormenti durante l'orario della preghiera o dimentichi, preghi quando se ne ricorda; non c'è altra espiazione» (Muslim).
+
+Chi ha evitato il digiuno del Ramadan per il sostentamento proprio e dei figli pensa, come abbiamo spiegato sopra, di essere paragonabile al malato. Allah ne sa di più.
+
+---
+
+**6. Quali sono le ragioni per cui è permesso evitare il digiuno?**
+
+![](/assets/ramadan-fasting-rulings-and-prohibitions-20180519-7/19May18-09.jpg)
+
+Risposta: Secondo il Corano, la malattia e il viaggio sono ragioni valide. Allo stesso modo, una donna incinta può evitare il digiuno se teme per la propria salute o per quella del bambino che porta in grembo. Anche una donna che allatta può evitare il digiuno se teme per sé o per il bambino. Si può evitare il digiuno per salvare chi è in pericolo. Ad esempio, salvare qualcuno che sta annegando in mare o qualcuno intrappolato in un incendio. Allo stesso modo, si può evitare il digiuno per partecipare al *Jihad* insegnato dall'Islam. Questo è permesso dall'Islam. Poiché il Profeta (pace e benedizioni di Allah su di lui) disse ai suoi compagni durante la conquista di Mecca:
+
+«Domani affronterete il nemico, quindi evitare il digiuno vi darà salute e forza. Pertanto, evitate il digiuno» (Muslim).
+
+Se qualcuno evita il digiuno per una ragione valida e tale ragione cessa, non deve digiunare per il resto della giornata. Esempio: se qualcuno evita il digiuno per salvare una persona che sta annegando, dopo averla salvata non deve digiunare per il resto della giornata. Questa è l'opinione più autorevole in materia. Se durante il giorno una persona guarisce dalla malattia, non deve digiunare per il resto della giornata. Allo stesso modo, se un viaggiatore arriva nel proprio paese durante il giorno, non deve digiunare per il resto della giornata. Allo stesso modo, se una donna che ha il ciclo mestruale diventa pura durante il giorno (prima del Maghrib), non deve digiunare per il resto della giornata. Poiché tutti costoro hanno evitato il digiuno per ragioni permesse dall'Islam, non hanno l'obbligo di digiunare per il resto della giornata.
+
+Tuttavia, se si scopre durante il giorno che è iniziato il mese di Ramadan, bisogna digiunare per il resto della giornata. La differenza tra i due casi è chiara ed evidente. Una volta che c'è chiarezza sul fatto che sia Ramadan o meno, è obbligatorio digiunare quel giorno. Ma prima di avere tale chiarezza, sono giustificati dall'ignoranza.
+
+Pertanto, chi ha capito che quel giorno fa parte del Ramadan deve digiunare per il resto della giornata. Ma coloro che abbiamo spiegato inizialmente sapevano che il digiuno era obbligatorio; hanno evitato il digiuno per ragioni permesse dall'Islam. La differenza tra loro è chiara.
+
+---
+
+**7. Cosa deve fare una persona che si è addormentata senza l'intenzione di digiunare prima di avvistare la luna di Ramadan e si è svegliata dopo l'alba scoprendo che il Ramadan era iniziato? Deve recuperare il digiuno di quel giorno?**
+
+Risposta: L'opinione della maggioranza degli studiosi è che una persona che si è addormentata senza l'intenzione di digiunare prima di avvistare la luna di Ramadan e si è svegliata dopo l'alba scoprendo che il Ramadan era iniziato, debba digiunare per il resto della giornata e recuperare il digiuno in un altro giorno. L'unica eccezione è lo Shaykh al-Islam Ibn Taymiyya (che Allah abbia misericordia di lui).
+
+La sua opinione è: 'L'intenzione di digiunare deve esserci dal momento in cui si viene a conoscenza dell'avvistamento della luna. Poiché questa persona non ne era a conoscenza, è giustificata. Se avesse saputo dell'avvistamento della luna, non si sarebbe mai addormentata senza l'intenzione di digiunare. È ignorante in materia e l'ignoranza è una giustificazione. Sulla base di ciò, il suo digiuno è valido'. Secondo questa opinione, non c'è bisogno di recuperare.
+
+L'opinione della maggioranza degli studiosi è di digiunare quel giorno e recuperarlo in seguito. A mio parere, per prudenza, è meglio recuperare il giorno di digiuno.
+
+---
+
+**8. Se una persona evita il digiuno per una ragione valida, ma tale ragione cessa durante il giorno, deve digiunare per il resto della giornata?**
+
+Risposta: Non deve digiunare per il resto della giornata, poiché ha evitato il digiuno per una ragione valida. Pertanto, una volta cessata la ragione, non deve digiunare per il resto della giornata. Esempio: una persona deve assumere una medicina essenziale. Se assume la medicina, il suo digiuno viene interrotto. Avendo evitato il digiuno per una ragione valida, non deve digiunare per il resto della giornata. È sufficiente recuperare il giorno di digiuno in seguito. Non c'è alcun beneficio religioso nel digiunare per il resto della giornata, né sarebbe corretto. Pertanto, non è obbligatorio.
+
+Esempio: qualcuno vede una persona che sta annegando. La persona che osserva dice: 'Se bevo un po' d'acqua, avrò la forza di salvarlo; se non bevo, non potrò farlo'. Quindi beve l'acqua e lo salva. Può mangiare e bere per il resto della giornata. Poiché ha evitato il digiuno per una ragione permessa dall'Islam, il resto della giornata non deve essere rispettato come digiuno. Non diciamo a un malato che evita il digiuno: 'Non mangiare se non hai fame, non bere se non hai sete', vero? No! Perché l'Islam permette al malato di evitare il digiuno. Pertanto, se qualcuno evita il digiuno per una ragione permessa dall'Islam, anche se la ragione cessa durante il giorno, non deve digiunare per il resto della giornata. Tuttavia, se qualcuno evita il digiuno senza una ragione valida, deve digiunare per il resto della giornata. Poiché non ha il permesso di evitare il digiuno, ha violato la sacralità di quel giorno senza un permesso religioso. Pertanto, deve digiunare per il resto della giornata e recuperare il giorno di digiuno in seguito. Allah ne sa di più.
+
+---
+
+**9. Qual è la regola se un medico consiglia a una donna colpita da paralisi di evitare il digiuno?**
+
+Risposta: Allah dice: «Il mese di Ramadan è quello in cui è stato rivelato il Corano, guida per gli uomini e prova chiara di retta via e distinzione. Chi di voi ne testimonia il mese, lo digiuni. Chi è malato o in viaggio, digiuni in seguito un numero uguale di giorni. Allah vuole per voi la facilità e non vuole per voi la difficoltà...» (Corano 2:185).
+
+Se si tratta di malati che non sperano nella guarigione, devono nutrire un povero per ogni giorno di digiuno. Il cibo da dare ai poveri deve essere quello che consumiamo abitualmente. Deve essere cibo di buona qualità. La donna malata e paralizzata deve nutrire un povero per ogni giorno di digiuno.
+
+---
+
+**10. Quando e come deve pregare e digiunare il viaggiatore?**
+
+![](/assets/ramadan-fasting-rulings-and-prohibitions-20180519-7/19May18-10.jpg)
+
+Risposta: Dal momento in cui il viaggiatore parte dal proprio paese fino al ritorno, deve pregare le preghiere di quattro *rak'ah* in due *rak'ah*. Poiché Aisha (che Allah sia soddisfatto di lei) dice:
+
+«La preghiera era inizialmente obbligatoria in due *rak'ah*. È stata stabilita così per i viaggiatori e completata per chi risiede stabilmente nel proprio paese». In un altro rapporto si dice: «Ed è stata aumentata per chi risiede stabilmente» (Bukhari, Muslim).
+
+Da Anas ibn Malik (che Allah sia soddisfatto di lui): «Siamo partiti con il Profeta (pace e benedizioni di Allah su di lui) da Medina a Mecca. Abbiamo pregato in due *rak'ah* fino al ritorno a Medina» (Bukhari, Muslim).
+
+Tuttavia, se il viaggiatore prega dietro un Imam residente, deve completare le quattro *rak'ah*. Anche se si unisce all'inizio o durante la preghiera. Poiché il Messaggero di Allah (pace e benedizioni di Allah su di lui) dice:
+
+«Quando sentite l'iqamah, andate alla preghiera. Andate con calma e dignità. Non dovete correre. Pregate ciò che riuscite a ottenere e completate ciò che avete perso».
+
+'Pregate ciò che riuscite a ottenere e completate ciò che avete perso' implica che il viaggiatore, quando prega dietro qualcuno che prega quattro *rak'ah*, deve pregare completamente. Fu chiesto a Ibn Abbas (che Allah sia soddisfatto di lui): 'Perché il viaggiatore prega quattro *rak'ah* quando prega dietro un residente e due *rak'ah* in altre occasioni?' Egli rispose: 'Questa è la Sunnah del Profeta'.
+
+La preghiera in congregazione non è esclusa per il viaggiatore. Poiché anche durante la guerra Allah ha detto:
+
+«(O Profeta,) se sei tra loro e guidi la preghiera, un gruppo stia con te. Prendano le loro armi. Quando hanno terminato la prosternazione, si spostino dietro di voi e l'altro gruppo che non ha ancora pregato venga e preghi con te...» (Corano 4:102).
+
+Se il viaggiatore sente l'Adhan, deve partecipare alla preghiera in congregazione nelle moschee, anche se non è nel proprio paese. Tuttavia, se la moschea è lontana o teme di perdere i compagni, non è obbligato. Questo si basa sulla prova generale che chi sente l'Adhan e l'Iqamah deve rispondere e venire in moschea.
+
+Allo stesso modo, il viaggiatore può pregare le preghiere Sunnah, ad eccezione delle preghiere *Rawatib* prima e dopo Dhuhr, Maghrib e Isha; può pregare *Witr*, la preghiera notturna, la preghiera *Duha* e le due *rak'ah* prima del Fajr.
+
+Allo stesso modo, può unire le preghiere Dhuhr e Asr, e Maghrib e Isha. Può farlo anticipando o posticipando, a seconda di ciò che è più facile e conveniente.
+
+Tuttavia, se inizia a soggiornare in un luogo, è meglio non unire le preghiere, anche se farlo non è un problema. Entrambi i casi sono stati riportati dal Profeta (pace e benedizioni di Allah su di lui).
+
+I viaggiatori possono digiunare durante il Ramadan. Se evitano il digiuno, non c'è problema. Devono recuperare i giorni persi in seguito. Se per il viaggiatore è più facile evitare il digiuno, è la cosa migliore. Poiché ad Allah piace che si utilizzi la Sua facilitazione. Allah ne sa di più.
+
+---
+
+**11. Qual è la regola per il viaggiatore che digiuna con difficoltà?**
+
+Risposta: Se il viaggiatore digiuna con difficoltà, ciò è deprecabile. Vedere il seguente detto del Profeta:
+
+Quando il Profeta (pace e benedizioni di Allah su di lui) vide qualcuno che aveva fatto ombra a un altro e le persone si erano radunate attorno a lui, chiese: 'Cos'è questo?' Dissero: 'Lui (quello a cui è stata fatta ombra) sta digiunando'. Allora il Profeta (pace e benedizioni di Allah su di lui) disse: 'Digiunare in viaggio non è un atto di virtù' (Bukhari, Muslim).
+
+In caso di estrema difficoltà, è obbligatorio per i viaggiatori evitare il digiuno. Poiché quando le persone dissero al Profeta (pace e benedizioni di Allah su di lui) che era difficile digiunare (in viaggio), egli disse loro di evitare il digiuno. Quando dissero che alcuni avevano digiunato, il Profeta (pace e benedizioni di Allah su di lui) disse: 'Sono disobbedienti, sono disobbedienti' (Muslim).
+
+Se non c'è alcuna difficoltà per i viaggiatori, è meglio digiunare. Poiché è stato confermato che il Profeta (pace e benedizioni di Allah su di lui) digiunava in viaggio.
+
+Abu Darda (che Allah sia soddisfatto di lui) disse: 'Eravamo in viaggio con il Profeta (pace e benedizioni di Allah su di lui) durante il Ramadan in una giornata molto calda. Nessuno di noi digiunava (in questo viaggio) eccetto il Profeta (pace e benedizioni di Allah su di lui) e Abdullah ibn Rawaha' (Bukhari, Muslim).
+
+(Il fatto che il Profeta (pace e benedizioni di Allah su di lui) abbia digiunato dimostra che è permesso farlo. Tuttavia, come hanno affermato gli studiosi che hanno discusso la questione, il viaggiatore può decidere da solo, come si evince dalle prove. Ognuno conosce meglio il proprio stato di salute. Trad:).
+
+![](/assets/ramadan-fasting-rulings-and-prohibitions-20180519-7/19May18-11.jpg)
+
+---
+
+**12. Nell'era moderna, grazie alle moderne strutture di viaggio, digiunare in viaggio non è difficile (rispetto al passato). In questa situazione, qual è la regola per il viaggiatore che digiuna?**
+
+Risposta: Il viaggiatore può digiunare o evitare il digiuno. Allah dice: «...Chi è malato o in viaggio, digiuni in seguito un numero uguale di giorni...» (Corano 2:185).
+
+I compagni viaggiavano con il Profeta (pace e benedizioni di Allah su di lui) e tra loro c'era chi digiunava e chi evitava il digiuno. Chi digiunava non criticava chi evitava, e chi evitava non criticava chi digiunava. Il Profeta (pace e benedizioni di Allah su di lui) digiunava in viaggio.
+
+Abu Darda (che Allah sia soddisfatto di lui) disse: «Eravamo in viaggio con il Profeta (pace e benedizioni di Allah su di lui) durante il Ramadan in una giornata molto calda. Nessuno di noi digiunava (in questo viaggio) eccetto il Profeta (pace e benedizioni di Allah su di lui) e Abdullah ibn Rawaha» (Bukhari, Muslim).
+
+La regola per il viaggiatore è che può digiunare o evitare il digiuno. Tuttavia, se non c'è difficoltà, è meglio digiunare. Poiché ci sono tre benefici:
+
+1. Seguire la Sunnah del Profeta (pace e benedizioni di Allah su di lui). 2. Facilità: digiunare insieme alle persone è più facile che digiunare da soli. 3. È possibile adempiere rapidamente al proprio obbligo.
+
+---
+
+**13. Se un viaggiatore arriva a Mecca digiunando, può evitare il digiuno per compiere l'Umrah?**
+
+Risposta: Durante la conquista di Mecca, il Profeta (pace e benedizioni di Allah su di lui) evitò il digiuno quando entrò a Mecca il ventesimo giorno di Ramadan. Il Profeta (pace e benedizioni di Allah su di lui) pregò due *rak'ah* con gli abitanti di Mecca e ordinò loro di completare la preghiera. Questo è ciò che si vede nell'hadith:
+
+«...Disse agli abitanti di Mecca: 'O abitanti di Mecca, completate la preghiera, noi siamo viaggiatori' (Bukhari). Nel Sahih di Imam Bukhari si vede che il Profeta (pace e benedizioni di Allah su di lui) evitò il digiuno per i giorni rimanenti mentre soggiornava a Mecca. Quando si arriva a Mecca per compiere l'Umrah, il viaggio non finisce. Pertanto, non è necessario digiunare. Si vedono alcune persone digiunare in viaggio. Dicono che il viaggio è molto facile. Poi si stancano molto e soffrono. Chiedono anche se è meglio compiere l'Umrah dopo aver interrotto il digiuno o se è meglio interrompere il digiuno rapidamente per compiere l'Umrah.
+
+In questa situazione, diciamo loro: interrompete il digiuno per compiere l'Umrah. In questo modo, potrete entrare a Mecca con salute ed energia. Chi viene a Mecca con l'intenzione di compiere l'Umrah deve compiere quell'azione rapidamente. Poiché quando il Profeta (pace e benedizioni di Allah su di lui) entrava a Mecca per compiere l'Umrah, si affrettava verso la moschea per completare quell'azione. Legava persino il suo animale vicino alla moschea. Pertanto, chi viene a Mecca con l'intenzione di compiere l'Umrah durante il Ramadan dovrebbe interrompere il digiuno e completare l'Umrah con energia durante il giorno, il che è meglio che interrompere il digiuno e compiere l'Umrah di notte.
+
+È stato confermato dal Profeta (pace e benedizioni di Allah su di lui) quanto segue: «Il Profeta (pace e benedizioni di Allah su di lui) stava digiunando durante il viaggio della conquista di Mecca. Allora le persone vennero da lui e dissero: 'O Profeta di Allah, le persone soffrono molto a causa del digiuno. Ti stanno aspettando per vedere cosa farai.' Questo accadde dopo l'Asr. Allora il Profeta (pace e benedizioni di Allah su di lui) chiese dell'acqua e interruppe il digiuno durante il viaggio. Inoltre, interruppe il digiuno nell'ultima parte della giornata» (Muslim).
+
+Il Profeta (pace e benedizioni di Allah su di lui) fece tutto questo per insegnare alle persone che si può evitare il digiuno in viaggio. Non c'è dubbio che digiunare in viaggio soffrendo molto sia contrario alla Sunnah del Profeta. Il detto del Profeta 'Digiunare in viaggio non è un atto di virtù' insegna proprio questo.
+
+---
+
+**14. Chi allatta può evitare il digiuno? Quando deve recuperarlo? Deve nutrire i poveri?**
+
+Risposta: Se teme che il digiuno riduca il latte materno o causi altre difficoltà al bambino, può evitare il digiuno. Ma, come il malato, deve recuperarlo in seguito. Allah dice riguardo a questo:
+
+«...Chi è malato o in viaggio, digiuni in seguito un numero uguale di giorni. Allah vuole per voi la facilità e non vuole per voi la difficoltà...» (Corano 2:185).
+
+Quando la ragione cessa, deve iniziare a recuperare. Può recuperare durante l'inverno, quando il clima è fresco e le giornate sono brevi, o l'anno successivo. Coloro che hanno ragioni che non cessano o malattie che non sperano nella guarigione devono nutrire un povero per ogni giorno di digiuno.
+
+---
+
+**15. Se un digiunante riposa per gran parte della giornata a causa di fame e sete, ciò influisce sull'accettazione del digiuno?**
+
+Risposta: Ciò non influisce sull'accettazione del digiuno. Al contrario, la ricompensa aumenta con l'aumentare della fatica. Poiché vedere cosa dice il Profeta (pace e benedizioni di Allah su di lui) ad Aisha (che Allah sia soddisfatto di lei):
+
+«La tua ricompensa è proporzionale alla tua fatica» (Bukhari). Chi si stanca per obbedire ad Allah riceve una ricompensa proporzionale a tale fatica. Non c'è nulla di male se il digiunante cerca di alleviare la fatica rinfrescandosi con l'acqua o sedendosi in un luogo fresco.
+
+---
+
+**16. Se una persona ha la ferma intenzione di interrompere il digiuno senza mangiare o bere, il digiuno si interrompe?**
+
+Risposta: Certamente, l'adorazione del digiuno include l'intenzione e l'astensione dalle cose che interrompono il digiuno. Con il digiuno, una persona intende avvicinarsi ad Allah astenendosi dalle cose che rendono vano il digiuno. Pertanto, se si ha la ferma intenzione di abbandonare questa intenzione, il digiuno diventa vano. Se ciò accade durante il Ramadan, deve digiunare per il resto della giornata. Poiché se si evita il digiuno senza una ragione permessa dall'Islam, deve digiunare per il resto della giornata e recuperarlo.
+
+Se invece non c'è una decisione ferma, ma solo un dubbio, c'è divergenza di opinioni tra gli studiosi. Alcuni studiosi dicono che il suo digiuno diventa vano. Poiché il dubbio rimuove ciò che è certo.
+
+Un gruppo di studiosi chiarisce che il digiuno non diventa vano. Poiché l'intenzione fondamentale rimane. L'intenzione iniziale non svanisce se non c'è un'intenzione ferma. Questa è l'opinione che ritengo più autorevole. Allah ne sa di più.
+
+---
+
+**17. Qual è la regola se un digiunante mangia per dimenticanza? Cosa deve fare chi lo vede?**
+
+Risposta: Se qualcuno mangia o beve per dimenticanza, il suo digiuno è valido. Ma deve interrompere non appena se ne ricorda. È anche obbligatorio rimuovere ciò che ha in bocca in quel momento. La prova che il digiuno è valido è:
+
+Narrato da Abu Hurayra (che Allah sia soddisfatto di lui): «Chiunque mangi o beva per dimenticanza, completi il digiuno. Poiché è Allah che lo ha nutrito e fatto bere» (Bukhari, Muslim).
+
+Se qualcuno compie un'azione proibita per dimenticanza, non c'è punizione. Allah dice:
+
+«...Nostro Signore, non punirci se dimentichiamo o sbagliamo...» (Corano 2:28).
+
+Tuttavia, se si vede un digiunante mangiare per dimenticanza, è obbligatorio ricordarglielo. Poiché questo è proibire il male.
+
+Il Profeta (pace e benedizioni di Allah su di lui) disse: «Chiunque di voi veda qualcuno compiere il male, lo fermi con la mano. Se non può, con la lingua. Se non può, con il cuore» (Muslim).
+
+Mangiare e bere mentre si digiuna è una delle cose proibite. Deve essere fermato. Tuttavia, c'è indulgenza per la dimenticanza riguardo all'accettazione del digiuno. Ma non c'è indulgenza per chi lo vede e non lo ferma.
+
+---
+
+**18. Qual è la regola per il digiunante che usa il *surma* (kohl)?**
+
+Risposta: Il digiunante può usare il *surma*, non c'è problema. Allo stesso modo, può usare colliri per occhi e orecchie. Poiché non si tratta di mangiare o bere. Non si dice che usare colliri per occhi e naso sia mangiare o bere. È proibito solo mangiare e bere. Questa è l'opinione dello Shaykh al-Islam Ibn Taymiyya (che Allah abbia misericordia di lui). Tuttavia, se il farmaco usato nel naso raggiunge intenzionalmente la bocca, il digiuno diventa vano. Vedere un hadith:
+
+Il Profeta (pace e benedizioni di Allah su di lui) disse: «Se non stai digiunando, esagera nel far entrare l'acqua nel naso» (Abu Dawud, Nasa'i, Ibn Majah).
+
+---
+
+**19. Qual è la regola per il digiunante che si lava i denti e usa profumi?**
+
+Risposta: Lavarsi i denti all'inizio o alla fine della giornata durante il digiuno fa parte della Sunnah del Profeta. Vedere l'hadith:
+
+Il Profeta (pace e benedizioni di Allah su di lui) disse: «Lavarsi i denti è una purificazione per la bocca e una soddisfazione per il Signore» (Bukhari).
+
+Il Profeta (pace e benedizioni di Allah su di lui) disse: «Se non fosse stato difficile per la mia comunità, avrei ordinato di usare il *miswak* prima di ogni preghiera» (Bukhari, Muslim).
+
+Allo stesso modo, il digiunante può usare profumi all'inizio o alla fine della giornata, indipendentemente dal fatto che siano sotto forma di fumo, liquido o altro. Tuttavia, non bisogna inalare fumo profumato attraverso il naso. Poiché il fumo profumato può entrare nel naso e raggiungere lo stomaco. È per questo che il Profeta (pace e benedizioni di Allah su di lui) disse a Laqit ibn Sabra: «Se non stai digiunando, esagera nel far entrare l'acqua nel naso» (Abu Dawud, Nasa'i, Ibn Majah).
+
+---
+
+**20. Quali sono le cose che rendono vano il digiuno?**
+
+![](/assets/ramadan-fasting-rulings-and-prohibitions-20180519-7/19May18-06.jpg)
+
+Risposta: Il digiuno diventa vano a causa delle seguenti cose:
+
+1. Rapporti sessuali
+
+2. Mangiare
+
+3. Bere
+
+4. Eiaculazione con desiderio
+
+5. Uso di sostituti di cibo e bevande
+
+6. Vomitare intenzionalmente
+
+7. *Hijama* (trattamento per rimuovere il sangue cattivo)
+
+8. Uscita di sangue mestruale o da parto.
+
+La prova che mangiare, bere e avere rapporti sessuali è proibito al digiunante: Allah dice: «...Ora unitevi a loro e cercate ciò che Allah ha prescritto per voi. Mangiate e bevete finché non possiate distinguere il filo bianco dall'alba dal filo nero della notte. Poi completate il digiuno fino alla notte» (Corano 2:187).
+
+Prova che l'eiaculazione (sperma) con desiderio rende vano il digiuno:
+
+In un hadith *Qudsi* si vede: «Egli abbandona il suo cibo, la sua bevanda e il suo desiderio per Me» (Ibn Majah).
+
+Vedere un altro hadith: Il Profeta (pace e benedizioni di Allah su di lui) disse: 'Avere rapporti con le proprie mogli è un atto di carità.' Chiesero: 'O Messaggero di Allah, c'è ricompensa anche nel soddisfare il proprio desiderio?' Egli disse: 'Cosa ne pensate? Se lo soddisfacesse in modo illecito, non sarebbe peccato? Allo stesso modo, se lo soddisfa in modo lecito, c'è ricompensa' (Muslim).
+
+Qui si intende lo sperma. Secondo l'opinione più autorevole, se il *madhy* (un tipo di liquido che esce dal pene quando c'è desiderio) esce con desiderio o a causa di baci, ecc., senza rapporti sessuali, il digiuno non si interrompe.
+
+Se si usano iniezioni o simili come sostituti di cibo e bevande, il digiuno diventa vano. Anche se non sono cibo o bevande, se vengono usati per quello scopo, il digiuno diventa vano.
+
+Prova che vomitare intenzionalmente rende vano il digiuno:
+
+Da Abu Hurayra (che Allah sia soddisfatto di lui): Il Profeta (pace e benedizioni di Allah su di lui) disse: «Chiunque vomiti, non deve recuperare il digiuno. Ma chiunque vomiti intenzionalmente, deve recuperarlo. Chiunque vomiti non intenzionalmente, non deve recuperarlo» (Abu Dawud, Tirmidhi).
+
+Prova che la *Hijama* rende vano il digiuno:
+
+Il Profeta (pace e benedizioni di Allah su di lui) disse: «Chi fa la *Hijama* e chi la riceve hanno interrotto il digiuno» (Bukhari, citato come *ta'liq*).
+
+Uscita di sangue mestruale o da parto: Il Profeta (pace e benedizioni di Allah su di lui) disse a una donna:
+
+«Se hai il ciclo, non devi digiunare né pregare» (Bukhari). Gli studiosi sono concordi sul fatto che il digiuno di chi ha sangue mestruale o da parto non è valido.
+
+Il digiuno diventa vano a causa delle sette cose sopra menzionate solo a tre condizioni:
+
+Sono le seguenti:
+
+1. Deve essere consapevole che tale azione rende vano il digiuno.
+
+2. Deve essere in pieno possesso delle proprie facoltà mentali.
+
+3. Non deve essere sotto costrizione. Deve essere per propria volontà. Se qualcuno costringe un altro a bere acqua, il digiuno non si interrompe.
+
+Se si compie una delle azioni sopra menzionate per ignoranza o senza intenzione, il digiuno non si interrompe. Il digiuno rimane valido. Allah dice:
+
+«...Nostro Signore, non punirci se dimentichiamo o sbagliamo...» (Corano 2:286).
+
+«...Non c'è peccato in ciò che avete fatto per errore, ma in ciò che avete fatto intenzionalmente con il cuore...» (Corano 33:5).
+
+Possiamo vedere la prova nella Sunnah del Profeta:
+
+Da Adiyy ibn Hatim (che Allah sia soddisfatto di lui): «Digiunava e metteva due corde sotto il cuscino. (Quelle due corde servivano per legare il cammello). Mangiava e beveva finché non riusciva a distinguere chiaramente il bianco dal nero. Poi digiunava. Al mattino andò dal Profeta (pace e benedizioni di Allah su di lui) e raccontò l'accaduto. Allora il Profeta (pace e benedizioni di Allah su di lui) spiegò: 'Il filo bianco e il filo nero menzionati nel versetto non sono i fili bianchi e neri che abbiamo noi. Piuttosto, il filo bianco si riferisce al bianco del giorno e il filo nero al nero della notte.' Tuttavia, il Profeta (pace e benedizioni di Allah su di lui) non gli ordinò di recuperare il digiuno» (Bukhari, Muslim). Poiché era ignorante riguardo alla regola, il digiuno non divenne vano.
+
+Anche se c'è ignoranza riguardo al tempo, il digiuno non diventa vano. La prova è: Da Asma bint Abu Bakr (che Allah sia soddisfatto di lei): Disse: «Ai tempi del Profeta (pace e benedizioni di Allah su di lui), abbiamo interrotto il digiuno in una giornata nuvolosa. Poi è tramontato il sole» (Bukhari). Il Profeta (pace e benedizioni di Allah su di lui) non disse loro di recuperare quel digiuno. Se fosse stato obbligatorio recuperare in tale situazione, lo avrebbe ordinato. Se lo avesse ordinato, lo avrebbero tramandato per la comunità. Poiché Allah dice: «In verità, siamo Noi che abbiamo fatto scendere il monito e siamo Noi che lo proteggiamo» (Corano 15:9).
+
+Poiché non è stato tramandato nonostante la situazione lo richiedesse, dobbiamo capire che il Profeta (pace e benedizioni di Allah su di lui) non lo ordinò. Poiché non ha ordinato di recuperare, si capisce che non è obbligatorio. Allo stesso modo, qualcuno si è svegliato dal sonno e ha mangiato e bevuto. Solo dopo ha capito che aveva mangiato e bevuto dopo l'alba. In tal caso, non deve recuperare il digiuno. Poiché lo ha fatto senza sapere.
+
+Seconda condizione: deve essere in pieno possesso delle proprie facoltà mentali. Se qualcuno mangia o beve per dimenticanza, il digiuno è valido. Non deve recuperarlo. Allah dice:
+
+«...Nostro Signore, non punirci se dimentichiamo o sbagliamo...» (Corano 2:286).
+
+Narrato da Abu Hurayra (che Allah sia soddisfatto di lui): «Chiunque mangi o beva per dimenticanza, completi il digiuno. Poiché è Allah che lo ha nutrito e fatto bere» (Bukhari, Muslim).
+
+Terza condizione: deve essere per propria volontà. Non deve essere sotto costrizione. Se si compiono tali azioni non per propria volontà, il digiuno non diventa vano. Allah dice:
+
+«Chi rinnega Allah dopo aver creduto - non chi è costretto mentre il suo cuore è fermo nella fede, ma chi apre il petto all'incredulità - su di loro ricade l'ira di Allah e avranno un castigo immenso» (Corano 16:106).
+
+Se questa è la regola per chi compie atti di incredulità sotto costrizione, non c'è dubbio che non dobbiamo dubitare per cose meno gravi. Vedere un hadith:
+
+Il Profeta (pace e benedizioni di Allah su di lui) dice: «L'errore, la dimenticanza e ciò che è sotto costrizione sono stati perdonati alla mia comunità» (Ibn Majah, Tabarani).
+
+Allo stesso modo, se polvere o altro entra nel naso del digiunante e ha un sapore e raggiunge lo stomaco, il digiuno non diventa vano, poiché non è avvenuto per sua intenzione. Allo stesso modo, se qualcuno viene costretto a bere acqua, il digiuno non si interrompe. Anche se c'è un'eiaculazione notturna durante il sonno, il digiuno non diventa vano, poiché non è avvenuto per sua intenzione. Allo stesso modo, se il marito costringe la moglie a compiere azioni che rendono vano il digiuno, il digiuno della moglie non viene compromesso. Poiché non lo ha fatto per sua volontà, ma si è sottomessa alla costrizione del marito.
+
+Una particolarità qui: se un uomo che ha l'obbligo di digiunare durante il Ramadan (senza esenzioni) ha rapporti sessuali durante il giorno, gli accadranno cinque cose:
+
+1. Deve digiunare per il resto della giornata. 2. Il suo digiuno diventa vano. 3. Deve recuperarlo. 4. Deve fare espiazione. 5. Ha commesso un peccato.
+
+In questo caso, non c'è differenza tra chi è consapevole e chi non lo è. Ovvero, se un uomo che ha l'obbligo di digiunare ha rapporti sessuali durante il giorno di Ramadan, anche se non sapeva che fosse obbligatorio fare espiazione, si applicano le regole che abbiamo spiegato sopra. Poiché ha compiuto intenzionalmente un'azione che rende vano il digiuno. Se si compie intenzionalmente un'azione che rende vano il digiuno, si applica la regola corrispondente. Nell'hadith possiamo vedere:
+
+Narrato da Abu Hurayra (che Allah sia soddisfatto di lui), un uomo venne dal Profeta (pace e benedizioni di Allah su di lui) e disse: 'O Profeta, sono rovinato.' Il Profeta (pace e benedizioni di Allah su di lui) chiese: 'Cosa ti ha rovinato?' Disse: 'Ho avuto rapporti sessuali con mia moglie mentre digiunavo durante il giorno di Ramadan' (Bukhari).
+
+Allora il Profeta (pace e benedizioni di Allah su di lui) gli chiese di fare espiazione. Non sapeva che doveva fare espiazione se avesse fatto così. Qui abbiamo specificato 'chi ha l'obbligo di digiunare'. Se marito e moglie tornano da un viaggio e hanno rapporti sessuali, non devono fare espiazione. Poiché essendo viaggiatori non hanno l'obbligo di digiunare. Allo stesso modo, se un viaggiatore digiuna, non ha l'obbligo di completarlo. Se vuole può completarlo, se non vuole non deve completarlo. Se non lo completa (poiché il viaggiatore non ha l'obbligo di digiunare), deve solo recuperarlo.
+
+---
+
+**21. Il digiuno si interrompe se gli asmatici usano l'inalatore per facilitare la respirazione?**
+
+Risposta: Usando l'inalatore non arriva nulla allo stomaco; poiché è una sostanza senza massa, il digiuno non diventa vano.
+
+---
+
+**22. Il digiuno diventa vano a causa del vomito?**
+
+Risposta: Se si vomita intenzionalmente, il digiuno diventa vano. Ma il vomito naturale non rende vano il digiuno. Vedere l'hadith:
+
+Da Abu Hurayra (che Allah sia soddisfatto di lui): Il Profeta (pace e benedizioni di Allah su di lui) disse: «Chiunque vomiti, non deve recuperare il digiuno. Ma chiunque vomiti intenzionalmente, deve recuperarlo. Chiunque vomiti non intenzionalmente, non deve recuperarlo» (Abu Dawud, Tirmidhi).
+
+---
+
+**23. Se esce un po' di sangue dalle gengive o altro del digiunante, il digiuno diventa vano?**
+
+Risposta: Il sangue che esce dalle gengive non causa nulla al digiuno. Ma non deve essere ingoiato. Allo stesso modo, se c'è raffreddore o altro, il digiuno non diventa vano e non deve recuperarlo.
+
+---
+
+**24. Se una donna che ha il ciclo diventa pura prima del Fajr e si lava dopo l'alba, il suo digiuno è valido?**
+
+Risposta: Se è diventata pura prima del Fajr (prima del mattino), il suo digiuno è valido. Deve assicurarsi con certezza di essere diventata pura prima del Fajr. Alcune donne pensano di essere diventate pure, ma in realtà non lo sono. Pertanto, alcune donne venivano da Aisha (che Allah sia soddisfatto di lei) con del cotone come segno di purezza. Allora Aisha (che Allah sia soddisfatto di lei) diceva loro: 'Non abbiate fretta, non sarete pure finché non vedrete il colore bianco.' (Si intende vedere il colore bianco sull'assorbente usato durante il ciclo). Le donne dovrebbero mostrare pazienza finché non sono veramente pure. Una volta diventate pure, devono fare l'intenzione per il digiuno. È sufficiente lavarsi dopo l'alba. Allo stesso modo, bisogna prendere sul serio la questione della preghiera. Bisogna lavarsi il prima possibile e pregare in tempo. 
+
+Alcune donne diventano pure prima o dopo l'alba. Ma si lavano tardi, dopo il sorgere del sole. Dicono che lo fanno per pulirsi bene e lavarsi meglio. Questo è sbagliato, sia durante il Ramadan che in altre occasioni. In realtà, bisogna lavarsi subito e pregare in tempo. È sufficiente fare il lavaggio obbligatorio per la preghiera. Se si desidera più pulizia, ci si può lavare di nuovo in seguito. Allo stesso modo, una donna in stato di grande impurità può lavarsi dopo l'alba. Anche il suo digiuno è valido. Come un uomo che digiuna in stato di grande impurità e si lava dopo l'alba. Non c'è problema per il suo digiuno, è valido. Vedere un hadith:
+
+«Il Profeta (pace e benedizioni di Allah su di lui) digiunava in stato di grande impurità con le sue mogli e si lavava dopo l'alba» (Bukhari, Muslim).
+
+---
+
+**25. Se un digiunante si fa togliere un dente, il digiuno diventa vano?**
+
+Risposta: Il digiuno non diventa vano a causa del sangue (poco sangue) che esce togliendo un dente o simili; la regola della *Hijama* non si applica a questo.
+
+---
+
+**26. Se viene prelevato un po' di sangue per analisi, il digiuno diventa vano?**
+
+Risposta: Il digiuno non diventa vano prelevando un po' di sangue per analisi. I medici devono prelevare sangue per esaminare il paziente. Il suo digiuno non diventa vano. Non è come prelevare sangue con la *Hijama*. (L'opinione corretta è che la *Hijama* interrompe il digiuno. È ciò che ha scelto lo Shaykh. Gli studiosi dicono che il digiuno si interrompe donando sangue basandosi su questo hadith. C'è anche l'opinione che la *Hijama* non interrompa il digiuno. Vedere *Fath al-Bari*. Trad:). Pertanto, ci vuole una prova religiosa per dire che il digiuno diventa vano. Ma non c'è prova che il digiuno diventi vano prelevando un po' di sangue per analisi. Se si preleva molto sangue per donarlo a qualcun altro, il digiuno diventa vano. Pertanto, chi digiuna non dovrebbe donare sangue ad altri se non in casi di necessità. In situazioni di emergenza in cui non è possibile aspettare il tramonto, una persona che digiuna può donare sangue, e con ciò il suo digiuno si interrompe. Può usare cibo e bevande per il resto della giornata. Chi fa così deve anche recuperare il digiuno.
+
+---
+
+**27. Un digiunante può annusare profumi?**
+
+Risposta: Chi digiuna può annusare profumi. Non c'è problema nemmeno nell'incenso. Ma non bisogna inalare il fumo del profumo attraverso il naso. Poiché il fumo ha la possibilità di raggiungere lo stomaco come l'acqua. Se si tratta solo di annusare, non c'è alcun problema.
+
+---
+
+**28. Qual è la differenza tra inalare fumo e usare colliri? Perché il digiuno diventa vano inalando fumo e non usando colliri?**
+
+Risposta: Chi inala fumo lo fa intenzionalmente con l'intenzione che raggiunga lo stomaco. Ma i colliri usati negli occhi o nel naso non vengono usati con l'intenzione che raggiungano lo stomaco. Piuttosto, vengono usati affinché raggiungano il naso. Questa è la differenza tra i due.
+
+---
+
+**29. Se un po' d'acqua scende accidentalmente attraverso la bocca mentre si fa entrare acqua nel naso o si sciacqua la bocca, il digiuno viene compromesso?**
+
+Risposta: Se un po' d'acqua scende accidentalmente attraverso la bocca mentre il digiunante fa entrare acqua nel naso o sciacqua la bocca, non c'è problema. Il suo digiuno è valido. Poiché non lo fa intenzionalmente. Allah dice:
+
+«...Non c'è peccato in ciò che avete fatto per errore, ma in ciò che avete fatto intenzionalmente con il cuore...» (Corano 33:5).
+
+---
+
+**30. Qual è la regola per il digiunante che usa profumi?**
+
+Risposta: Non c'è problema nell'usare profumi durante il giorno di Ramadan, e non è proibito annusarli, ma non bisogna inalare il fumo, poiché raggiunge lo stomaco.
+
+---
+
+**31. Se esce qualcosa dal naso a causa di raffreddore o altro, il digiuno diventa vano?**
+
+Risposta: Se esce muco dal naso, il digiuno non diventa vano, anche se è molto. Poiché non esce intenzionalmente.
+
+---
+
+**32. In alcuni calendari, nell'orario delle preghiere del mese di Ramadan, si vede scritto un orario dieci o quindici minuti prima dell'Adhan del Fajr (per iniziare il digiuno). C'è qualche prova nella Sunnah del Profeta per questo?**
+
+Risposta: Questo fa parte delle innovazioni (*bid'ah*). Non c'è alcuna base nella Sunnah del Profeta. È contrario alla Sunnah. Poiché Allah dice nel Corano:
+
+«...Mangiate e bevete finché non possiate distinguere il filo bianco dall'alba dal filo nero della notte» (Corano 2:187).
+
+Vedere l'hadith: Il Profeta (pace e benedizioni di Allah su di lui) disse: «Bilal chiama l'Adhan di notte. Ma mangiate e bevete finché Ibn Umm Maktum non chiama l'Adhan. Poiché lui (Ibn Umm Maktum) non chiama l'Adhan finché l'alba non è evidente» (Bukhari, Muslim).
+
+Creare un orario speciale chiamato 'Imsak' è un'aggiunta a ciò che Allah ha reso obbligatorio. È un eccesso nella religione di Allah. Il Profeta (pace e benedizioni di Allah su di lui) disse riguardo a loro: «Sono rovinati gli eccessivi, sono rovinati gli eccessivi» (Muslim).
+
+---
+
+**33. Se una persona interrompe il digiuno in aeroporto quando viene chiamato l'Adhan mentre è sulla terra, e dopo che l'aereo è decollato vede il sole, deve digiunare per il resto della giornata?**
+
+Risposta: Se la situazione è come descritta nella domanda, non deve digiunare per il resto della giornata. Quando era in aeroporto, era l'ora di interrompere il digiuno. In qualunque luogo si trovasse, il sole era tramontato. Vedere un hadith:
+
+Il Messaggero di Allah (pace e benedizioni di Allah su di lui) disse: «Se parte di notte e la giornata si ritira e il sole tramonta, il digiunante interrompe il digiuno» (Bukhari).
+
+Se ha interrotto il digiuno quando il sole è tramontato mentre era in aeroporto, la sua giornata è finita. Non ha l'obbligo di digiunare se non il giorno successivo.
+
+---
+
+**34. Il digiuno si interrompe se si ingoia catarro, muco o simili?**
+
+Risposta: Se il catarro o il muco non raggiungono la bocca, il digiuno non diventa vano; non c'è divergenza tra le scuole su questo. Ma se raggiungono la bocca e vengono ingoiati, gli studiosi hanno due opinioni: un gruppo di studiosi dice che il digiuno si interrompe, equiparandolo a cibo e bevande. L'altro gruppo dice che il digiuno non diventa vano, equiparandolo alla saliva. Come ingoiare la saliva non rende vano il digiuno.
+
+Se gli studiosi sono in divergenza, il riferimento è il Corano e la Sunnah. Se siamo in dubbio se questa cosa rovini l'adorazione o meno, la base è che non la rovina. Sulla base di ciò, gli studiosi hanno chiarito che il digiuno non diventa vano.
+
+Tuttavia, se catarro o muco arrivano in bocca, sia che si stia digiunando o meno, un musulmano dovrebbe sputarli. Ma per dire che il digiuno diventa vano, serve una prova davanti ad Allah.
+
+---
+
+**35. Il digiuno diventa vano assaggiando il cibo?**
+
+Risposta: Il digiuno non diventa vano assaggiando il cibo. Ma bisogna fare attenzione che nulla scenda nello stomaco. Bisogna farlo solo se necessario. Se mentre si assaggia per vedere se il cibo è salato o piccante, qualcosa scende nello stomaco accidentalmente (non intenzionalmente), non c'è problema, il suo digiuno è valido.
+
+---
+
+**36. Il digiuno diventa vano dicendo una falsa testimonianza mentre si digiuna?**
+
+Risposta: Dire una falsa testimonianza è un peccato grave. Un musulmano deve astenersi da ciò. Il digiuno non diventa vano dicendo una falsa testimonianza. Ma la vitalità e la ricompensa del digiuno vengono seriamente compromesse.
+
+---
+
+**37. Una persona ha evitato il digiuno durante il Ramadan per malattia. È morta quattro giorni dopo. Deve recuperare il digiuno per lui?**
+
+Risposta: Se è stata una malattia improvvisa e tale malattia è continuata fino alla morte, non deve recuperare il digiuno per lui. Allah dice:
+
+«...Chi è malato o in viaggio, digiuni in seguito un numero uguale di giorni...» (Corano 2:185).
+
+Questa persona deve recuperare il digiuno dopo la guarigione. Ma se muore prima che ci sia l'opportunità di farlo, quell'obbligo decade. Poiché non è arrivato il momento in cui il digiuno è diventato obbligatorio per lui. È come una persona morta a Sha'ban. Ma se è una malattia da cui non si spera la guarigione, deve nutrire un povero per ogni giorno di digiuno.
+
+---
+
+**38. Una persona deve recuperare un giorno di digiuno del Ramadan. Ma non è riuscita a recuperarlo prima dell'arrivo del Ramadan successivo, cosa deve fare?**
+
+Risposta: Allah dice chiaramente: «...Chi di voi ne testimonia il mese, lo digiuni. Chi è malato o in viaggio, digiuni in seguito un numero uguale di giorni...» (Corano 2:185).
+
+Chi ha evitato il digiuno per una ragione religiosa deve recuperarlo secondo il comando di Allah, l'Eccelso e il Potente. È obbligatorio recuperarlo entro lo stesso anno. Non deve essere rimandato fino all'arrivo del Ramadan successivo. Questo è ciò che ci insegna chiaramente l'hadith di Aisha (che Allah sia soddisfatto di lei):
+
+Da Aisha (che Allah sia soddisfatto di lei). Dice: «Avevo dei giorni di digiuno da recuperare del Ramadan. Non riuscivo a recuperarli se non a Sha'ban a causa della presenza del Profeta (pace e benedizioni di Allah su di lui)» (Bukhari).
+
+Le parole di Aisha (che Allah sia soddisfatto di lei) 'Non riuscivo a recuperarli se non a Sha'ban' indicano che bisogna recuperarli prima dell'arrivo del Ramadan successivo. Ma se li rimanda oltre il Ramadan successivo, deve chiedere perdono ad Allah, pentirsi, rammaricarsi per il ritardo e recuperare il digiuno. Il ritardo non elimina l'obbligo di recuperare. Se è dopo il Ramadan successivo, deve recuperarlo. Allah è Colui che concede il successo.
+
+(Ta'liq: Gli hadith che non hanno una catena corretta secondo le condizioni di Imam Bukhari sono Ta'liq.)

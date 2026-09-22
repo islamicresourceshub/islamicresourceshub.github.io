@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-22T03:21:58.706249+00:00",
+ "generated_at": "2026-09-22T03:23:49.935416+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 7028,
+ "count": 7029,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -23155,6 +23155,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/it/fiqh/mosque-construction-some-points-to-note-20170325-5.html",
    "md_url": "/it/fiqh/mosque-construction-some-points-to-note-20170325-5.md"
+  },
+  {
+   "slug": "ramadan-fasting-rulings-and-prohibitions-20180519-7",
+   "lang": "it",
+   "category": "fiqh",
+   "title": "Digiuno di Ramadan: Regole e Proibizioni",
+   "summary": "Questo articolo, presentato sotto forma di domande e risposte, esplora le regole e le proibizioni legate al digiuno di Ramadan, spiegando la saggezza che ne sta alla base. Il testo chiarisce i motivi per cui il digiuno è obbligatorio e fornisce indicazioni pratiche sulle norme da seguire.",
+   "author": "ശൈഖ് മുഹമ്മദ്ബ്‌നു സ്വാലിഹ് അല്‍ ഉഥൈമീന്‍",
+   "issue_date": "2018-05-19",
+   "html_url": "/it/fiqh/ramadan-fasting-rulings-and-prohibitions-20180519-7.html",
+   "md_url": "/it/fiqh/ramadan-fasting-rulings-and-prohibitions-20180519-7.md"
   },
   {
    "slug": "the-alcoholic-father-20170211-7",
