@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-22T03:38:26.896363+00:00",
+ "generated_at": "2026-09-22T03:39:35.068643+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 7040,
+ "count": 7041,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -57849,6 +57849,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/si/fiqh/mosque-construction-some-points-to-note-20170325-5.html",
    "md_url": "/si/fiqh/mosque-construction-some-points-to-note-20170325-5.md"
+  },
+  {
+   "slug": "ramadan-fasting-rulings-and-prohibitions-20180519-7",
+   "lang": "si",
+   "category": "fiqh",
+   "title": "රමසාන් උපවාසය: නීති සහ තහංචි",
+   "summary": "මෙම ලිපිය රමසාන් උපවාසයට අදාළ නීති රීති සහ ඒ පිටුපස ඇති තර්කානුකූල කරුණු පිළිබඳව ප්‍රශ්නෝත්තර ආකාරයෙන් පැහැදිලි කරයි. උපවාසය අනිවාර්ය කිරීමේ අරමුණ සහ ඒ හා බැඳුණු විවිධ ගැටලු සඳහා ඉස්ලාමීය දෘෂ්ටිකෝණයෙන් පිළිතුරු මෙහි අන්තර්ගත වේ.",
+   "author": "ശൈഖ് മുഹമ്മദ്ബ്‌നു സ്വാലിഹ് അല്‍ ഉഥൈമീന്‍",
+   "issue_date": "2018-05-19",
+   "html_url": "/si/fiqh/ramadan-fasting-rulings-and-prohibitions-20180519-7.html",
+   "md_url": "/si/fiqh/ramadan-fasting-rulings-and-prohibitions-20180519-7.md"
   },
   {
    "slug": "the-alcoholic-father-20170211-7",
