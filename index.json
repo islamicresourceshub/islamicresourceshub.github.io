@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-22T03:32:39.982028+00:00",
+ "generated_at": "2026-09-22T03:33:49.162939+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 7035,
+ "count": 7036,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -49885,6 +49885,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/or/fiqh/mosque-construction-some-points-to-note-20170325-5.html",
    "md_url": "/or/fiqh/mosque-construction-some-points-to-note-20170325-5.md"
+  },
+  {
+   "slug": "ramadan-fasting-rulings-and-prohibitions-20180519-7",
+   "lang": "or",
+   "category": "fiqh",
+   "title": "ରମଜାନ ରୋଜା: ନିୟମ ଓ ବାରଣ",
+   "summary": "ଏହି ଲେଖାଟି ରମଜାନ ରୋଜା ସହ ଜଡ଼ିତ ବିଭିନ୍ନ ନିୟମ, ବାରଣ ଏବଂ ସେଗୁଡ଼ିକ ପଛରେ ଥିବା ଯୁକ୍ତିକୁ ପ୍ରଶ୍ନୋତ୍ତର ମାଧ୍ୟମରେ ବୁଝାଏ। ଏଥିରେ ରୋଜା କାହିଁକି ବାଧ୍ୟତାମୂଳକ ଏବଂ ଏହାର ପାଳନ ସମ୍ବନ୍ଧୀୟ ବିଭିନ୍ନ ସମସ୍ୟାର ସମାଧାନ ଦିଆଯାଇଛି।",
+   "author": "ശൈഖ് മുഹമ്മദ്ബ്‌നു സ്വാലിഹ് അല്‍ ഉഥൈമീന്‍",
+   "issue_date": "2018-05-19",
+   "html_url": "/or/fiqh/ramadan-fasting-rulings-and-prohibitions-20180519-7.html",
+   "md_url": "/or/fiqh/ramadan-fasting-rulings-and-prohibitions-20180519-7.md"
   },
   {
    "slug": "the-alcoholic-father-20170211-7",
