@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-22T03:31:35.417950+00:00",
+ "generated_at": "2026-09-22T03:32:39.982028+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 7034,
+ "count": 7035,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -48301,6 +48301,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/ne/fiqh/mosque-construction-some-points-to-note-20170325-5.html",
    "md_url": "/ne/fiqh/mosque-construction-some-points-to-note-20170325-5.md"
+  },
+  {
+   "slug": "ramadan-fasting-rulings-and-prohibitions-20180519-7",
+   "lang": "ne",
+   "category": "fiqh",
+   "title": "रमजानको व्रत: नियम र निषेधहरू",
+   "summary": "यो लेख रमजानको व्रतसँग सम्बन्धित नियमहरू, निषेधहरू र तिनका पछाडिको तर्कबारे प्रश्नोत्तर शैलीमा तयार पारिएको छ। यसले व्रत किन अनिवार्य गरिएको हो र यसका कानुनी पक्षहरू के-के हुन् भन्ने कुरा स्पष्ट पार्छ।",
+   "author": "ശൈഖ് മുഹമ്മദ്ബ്‌നു സ്വാലിഹ് അല്‍ ഉഥൈമീന്‍",
+   "issue_date": "2018-05-19",
+   "html_url": "/ne/fiqh/ramadan-fasting-rulings-and-prohibitions-20180519-7.html",
+   "md_url": "/ne/fiqh/ramadan-fasting-rulings-and-prohibitions-20180519-7.md"
   },
   {
    "slug": "the-alcoholic-father-20170211-7",
