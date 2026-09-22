@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-22T03:25:38.959632+00:00",
+ "generated_at": "2026-09-22T03:26:56.274812+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 7030,
+ "count": 7031,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -26345,6 +26345,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/kn/fiqh/mosque-construction-some-points-to-note-20170325-5.html",
    "md_url": "/kn/fiqh/mosque-construction-some-points-to-note-20170325-5.md"
+  },
+  {
+   "slug": "ramadan-fasting-rulings-and-prohibitions-20180519-7",
+   "lang": "kn",
+   "category": "fiqh",
+   "title": "ರಮದಾನ್ ಉಪವಾಸ: ನಿಯಮಗಳು ಮತ್ತು ನಿಷೇಧಗಳು",
+   "summary": "ರಮದಾನ್ ಉಪವಾಸಕ್ಕೆ ಸಂಬಂಧಿಸಿದ ನಿಯಮಗಳು, ನಿಷೇಧಗಳು ಮತ್ತು ಅವುಗಳ ಹಿಂದಿನ ತರ್ಕವನ್ನು ವಿವರಿಸುವ ಪ್ರಶ್ನೋತ್ತರ ಮಾಲಿಕೆಯ ಲೇಖನವಿದು. ಉಪವಾಸದ ಮಹತ್ವ, ಪ್ರಯಾಣಿಕರಿಗೆ ಮತ್ತು ರೋಗಿಗಳಿಗೆ ಇರುವ ರಿಯಾಯಿತಿಗಳು ಹಾಗೂ ಉಪವಾಸವನ್ನು ಭಂಗಗೊಳಿಸುವ ಅಂಶಗಳ ಬಗ್ಗೆ ಇಲ್ಲಿ ವಿವರವಾಗಿ ಚರ್ಚಿಸಲಾಗಿದೆ.",
+   "author": "ശൈഖ് മുഹമ്മദ്ബ്‌നു സ്വാലിഹ് അല്‍ ഉഥൈമീന്‍",
+   "issue_date": "2018-05-19",
+   "html_url": "/kn/fiqh/ramadan-fasting-rulings-and-prohibitions-20180519-7.html",
+   "md_url": "/kn/fiqh/ramadan-fasting-rulings-and-prohibitions-20180519-7.md"
   },
   {
    "slug": "the-alcoholic-father-20170211-7",
