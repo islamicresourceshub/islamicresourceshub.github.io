@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-22T05:10:13.086705+00:00",
+ "generated_at": "2026-09-22T05:11:13.369862+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 7127,
+ "count": 7128,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -73700,6 +73700,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/ur/story/sugar-like-gold-dust-20170128-11.html",
    "md_url": "/ur/story/sugar-like-gold-dust-20170128-11.md"
+  },
+  {
+   "slug": "the-crescent-moon-of-ramadan-20180519-9",
+   "lang": "ur",
+   "category": "story",
+   "title": "رمضان کا ہلال",
+   "summary": "یہ رمضان المبارک کی آمد اور اس کی فضیلتوں پر مبنی ایک نظم ہے۔ یہ نظم رمضان کے چاند کے طلوع ہونے پر خوشی اور اس مہینے میں نیک اعمال کی اہمیت کو بیان کرتی ہے، جس میں شاعر اس بابرکت مہینے کا خیرمقدم کر رہا ہے۔",
+   "author": "അബൂ ഫായിദ",
+   "issue_date": "2018-05-19",
+   "html_url": "/ur/story/the-crescent-moon-of-ramadan-20180519-9.html",
+   "md_url": "/ur/story/the-crescent-moon-of-ramadan-20180519-9.md"
   },
   {
    "slug": "the-currency-that-was-not-accepted-20170114-3",
