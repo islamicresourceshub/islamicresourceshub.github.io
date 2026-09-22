@@ -1,0 +1,68 @@
+---
+title: Ramadan in the Age of Social Media
+author: അബ്ദുല്‍മാലിക് സലഫി
+lang: en
+category: dawah
+kind: article
+tags:
+- ramadan
+- social media
+- spirituality
+- youth
+- dawah
+- online etiquette
+summary: This article discusses how believers should conduct themselves during the month of Ramadan in the era of social media. It emphasizes the importance of maintaining dignified behavior both online and offline, reminding readers not to let unnecessary social media presence diminish the blessings of this holy month.
+source:
+  magazine: Nerpatham Weekly
+  issue_date: '2018-05-19'
+  pdf_url: http://nerpatham.com/vol-no-02/images/archives/Nerpatham-2018May19.pdf
+date_processed: '2026-08-30T16:01:12Z'
+slug: ramadan-in-the-age-of-social-media-20180519-10
+translation_of: ramadan-in-the-age-of-social-media-20180519-10
+---
+
+Whether online or offline, a believer's interactions must be dignified. Ramadan is a season of virtues, and an unnecessary presence on social media is enough to ruin it. Here is a guide for Ramadan in the age of social media.
+
+## Ramadan and Social Media
+
+![](/assets/ramadan-in-the-age-of-social-media-20180519-10/19May18-05.jpg)
+
+> "We often used to wonder how our predecessors could recite five or six juz of the Quran in a single day. But with the advent of social media, that doubt has vanished. Social media proves that if people like something, they will spend as much time as they want on it." These words belong to the prominent scholar from Madinah, **Sulaiman Ruhaili**.
+
+Today, the world is chasing social media. It has become a force capable of deciding matters, rejecting ideas, and even toppling governments. We have seen in recent weeks what happened in Kerala due to a strike called by some 'unknowns' on social media.
+
+There is no doubt that the influence of social media has grown to the point where it is impossible to stay away from it completely. For a Muslim, social media can be a powerful channel to harvest many virtues and propagate their ideals. Along with many benefits, these new media platforms are also filled with dangerous traps of evil. There are not a few who engage with this system in a way that causes their very faith to falter. For a believer, this is a field that must be handled with extreme caution.
+
+## Time Management in Ramadan
+
+If a believer does not intentionally regulate their social media interactions when Ramadan arrives, they are likely to face many dangers. Time management is the most important aspect. Unless you make a personal decision to check Facebook and WhatsApp only at specific times during the day and night, it will seriously affect your **Quran** recitation and other dhikr and supplications. We should have the intention to finish reading the Quran at least once before Ramadan begins. When we learn that our predecessors used to complete the Quran every three days, if we cannot complete it even once, the gap in good deeds between us and them will only widen.
+
+We need to adopt a code of conduct for ourselves: focus only on what is most important and ignore the rest. If we try to pay attention to everything and respond to everything, there is no doubt that our fasting will be reduced to mere starvation.
+
+> "Part of the perfection of a believer's Islam is leaving that which does not concern him," this **Prophetic tradition** is something that the 'workers' of social media should pay close attention to. There should be no one in Ramadan who is too busy looking at 'Facebook' to find time to read the 'Book of Allah'.
+
+It is wise to think carefully before 'sharing' and 'forwarding' every message you receive to others.
+
+> "It is enough of a lie for a person to speak of everything he hears," this warning from the **Prophet Muhammad ﷺ** is something we must pay special attention to in any age. I remember a message that circulated recently, compiling only lies spread on WhatsApp. Believers must realize that social media is a sky describing numerous lies and things contrary to reality.
+
+There are people who forget they are fasting while finding satisfaction in sharing pictures of women and photos that reveal nudity. Every Ramadan, the devil orchestrates some form of fitnah, or temptation. We can expect that this Ramadan as well. It would be good if those who engage in acts that drain the spirit of Ramadan by falling into such satanic traps realize that the angels are calling out from the heavens: "Woe to those who do evil! Reduce your actions!"
+
+## The Quran: The Social Media Agenda for Ramadan
+
+In the month of the Quran's revelation, let the Quran itself be our agenda on social media. Let the message of the Quran permeate our messages during Ramadan. When we focus on the propagation of the Quran in Ramadan, it will be an act of justice toward both Ramadan and ourselves. That, in turn, is an act for which one can hope for a reward.
+
+## Prayer Times and New Media
+
+We should not be with new media during the times when prayers are answered. What else should we call those who spend their time on WhatsApp and Facebook when they should be pouring their hearts out to their Lord with their needs, if not losers? During the time of Suhoor, at the time of breaking the fast, and in the moments after prayer, we should spend our time in supplication. We must avoid the habit of checking WhatsApp immediately upon waking up at all times.
+
+As the Prophet ﷺ said, Ramadan will bear witness! The Quran will also bear witness. Our social media interaction during Ramadan must be such that the testimony of both is in our favor. We must certainly avoid the unnecessary thought that it is a bad thing if we do not record 'my own opinion' on everything happening in the world. It is up to us to decide that our fingers and eyes will only testify in our favor during Ramadan.
+
+## I'tikaf and Social Media
+
+Those who are in I'tikaf can also reflect on what business they have on social media.
+
+> As **Ibn al-Qayyim** (may Allah have mercy on him) said, "I'tikaf should be in a way that reminds one of the solitude of the grave." But one must think about whether today's I'tikaf is characterized by the solitude of the grave or by the discussions of the marketplace. We are the ones who need to correct and change this. Any act of worship will only be rewarded in the hereafter when it is performed with its true spirit. It is in vain to think that mere rituals or displays of performance will be rewarded by Allah.
+
+## Iftars and Ostentation
+
+In these times when **Iftars** have turned into 'banquets', we can also see people finding satisfaction in taking selfies in front of countless dishes prepared for Iftar and circulating them on social media. It would be good for everyone to think about how absurd all this is during Ramadan. Ramadan is not a season; it is not meant for shopping. It is not about wasting time sitting on social media. Ramadan is a season of virtues. It is a month of worship. It is a rare gift that Allah gives in life. Those who waste its spirit are indeed losers. We must work with all our hearts to welcome Ramadan in its true sense. May Allah bless us. Ameen.
