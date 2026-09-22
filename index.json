@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-22T04:08:28.976509+00:00",
+ "generated_at": "2026-09-22T04:09:25.128855+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 7063,
+ "count": 7064,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -16951,6 +16951,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/gu/hadith/criteria-for-accepting-hadith-20170128-2.html",
    "md_url": "/gu/hadith/criteria-for-accepting-hadith-20170128-2.md"
+  },
+  {
+   "slug": "food-in-ramadan-20180519-8",
+   "lang": "gu",
+   "category": "health",
+   "title": "રમઝાનમાં આહાર",
+   "summary": "આ લેખ રમઝાન મહિના દરમિયાન રોગીઓ અને સ્વસ્થ વ્યક્તિઓએ ધ્યાનમાં રાખવા જેવી આહાર પદ્ધતિઓ વિશે માહિતી આપે છે. તે ઉપવાસ દરમિયાન સ્વાસ્થ્યપ્રદ ખોરાકની પસંદગીના મહત્વ પર ભાર મૂકે છે અને ઇફ્તાર તથા સહરીમાં શું ધ્યાન રાખવું તે સમજાવે છે.",
+   "author": "ഡോ. മുഹമ്മദ് കുട്ടി കണ്ണിയന്‍",
+   "issue_date": "2018-05-19",
+   "html_url": "/gu/health/food-in-ramadan-20180519-8.html",
+   "md_url": "/gu/health/food-in-ramadan-20180519-8.md"
   },
   {
    "slug": "know-this-for-those-caring-for-the-sick-20260822-1",
