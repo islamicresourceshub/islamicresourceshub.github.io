@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-22T04:49:34.168891+00:00",
+ "generated_at": "2026-09-22T04:50:28.573968+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 7108,
+ "count": 7109,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -27522,6 +27522,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/kn/story/sugar-like-gold-dust-20170128-11.html",
    "md_url": "/kn/story/sugar-like-gold-dust-20170128-11.md"
+  },
+  {
+   "slug": "the-crescent-moon-of-ramadan-20180519-9",
+   "lang": "kn",
+   "category": "story",
+   "title": "ರಮದಾನಿನ ಚಂದ್ರದರ್ಶನ",
+   "summary": "ರಮದಾನ್ ತಿಂಗಳ ಆಗಮನ ಮತ್ತು ಅದರ ಪುಣ್ಯಗಳ ಕುರಿತಾದ ಕವಿತೆಯಿದು. ರಮದಾನಿನ ಚಂದ್ರನು ಆಕಾಶದಲ್ಲಿ ಕಾಣಿಸಿಕೊಳ್ಳುವಾಗ ಉಂಟಾಗುವ ಸಂತೋಷ ಮತ್ತು ಈ ತಿಂಗಳಲ್ಲಿನ ಸತ್ಕರ್ಮಗಳ ಮಹತ್ವವನ್ನು ಕವಿತೆಯು ವರ್ಣಿಸುತ್ತದೆ. ಭಕ್ತಿ ಮತ್ತು ಆನಂದದಿಂದ ತುಂಬಿರುವ ಈ ತಿಂಗಳನ್ನು ಕವಿ ಸ್ವಾಗತಿಸುತ್ತಾರೆ.",
+   "author": "അബൂ ഫായിദ",
+   "issue_date": "2018-05-19",
+   "html_url": "/kn/story/the-crescent-moon-of-ramadan-20180519-9.html",
+   "md_url": "/kn/story/the-crescent-moon-of-ramadan-20180519-9.md"
   },
   {
    "slug": "the-currency-that-was-not-accepted-20170114-3",
