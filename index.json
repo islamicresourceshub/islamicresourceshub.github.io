@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-22T03:28:31.309848+00:00",
+ "generated_at": "2026-09-22T03:30:22.415726+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 7032,
+ "count": 7033,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -45133,6 +45133,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/mr/fiqh/mosque-construction-some-points-to-note-20170325-5.html",
    "md_url": "/mr/fiqh/mosque-construction-some-points-to-note-20170325-5.md"
+  },
+  {
+   "slug": "ramadan-fasting-rulings-and-prohibitions-20180519-7",
+   "lang": "mr",
+   "category": "fiqh",
+   "title": "रमजानचे उपवास: नियम आणि अटी",
+   "summary": "रमजानच्या उपवासाशी संबंधित नियम, अटी आणि त्यामागील तर्क यावर आधारित हा एक प्रश्नोत्तरांच्या स्वरूपातील लेख आहे. यामध्ये उपवास अनिवार्य असण्यामागची कारणे आणि उपवासाचे कायदे स्पष्ट केले आहेत.",
+   "author": "ശൈഖ് മുഹമ്മദ്ബ്‌നു സ്വാലിഹ് അല്‍ ഉഥൈമീന്‍",
+   "issue_date": "2018-05-19",
+   "html_url": "/mr/fiqh/ramadan-fasting-rulings-and-prohibitions-20180519-7.html",
+   "md_url": "/mr/fiqh/ramadan-fasting-rulings-and-prohibitions-20180519-7.md"
   },
   {
    "slug": "the-alcoholic-father-20170211-7",
