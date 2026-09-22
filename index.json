@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-22T04:13:02.862558+00:00",
+ "generated_at": "2026-09-22T04:13:55.511888+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 7068,
+ "count": 7069,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -24959,6 +24959,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/ja/hadith/criteria-for-accepting-hadith-20170128-2.html",
    "md_url": "/ja/hadith/criteria-for-accepting-hadith-20170128-2.md"
+  },
+  {
+   "slug": "food-in-ramadan-20180519-8",
+   "lang": "ja",
+   "category": "health",
+   "title": "ラマダン中の食事",
+   "summary": "本稿では、ラマダン期間中に健康を維持するための食事の摂り方について解説します。断食中の方もそうでない方も、健康的な食生活を送り、イフタール（断食明けの食事）やスフール（夜明け前の食事）で注意すべきポイントを学びましょう。",
+   "author": "ഡോ. മുഹമ്മദ് കുട്ടി കണ്ണിയന്‍",
+   "issue_date": "2018-05-19",
+   "html_url": "/ja/health/food-in-ramadan-20180519-8.html",
+   "md_url": "/ja/health/food-in-ramadan-20180519-8.md"
   },
   {
    "slug": "know-this-for-those-caring-for-the-sick-20260822-1",
