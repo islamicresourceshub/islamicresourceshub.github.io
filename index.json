@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-22T04:51:21.735843+00:00",
+ "generated_at": "2026-09-22T04:52:13.889568+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 7110,
+ "count": 7111,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -46343,6 +46343,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/mr/story/sugar-like-gold-dust-20170128-11.html",
    "md_url": "/mr/story/sugar-like-gold-dust-20170128-11.md"
+  },
+  {
+   "slug": "the-crescent-moon-of-ramadan-20180519-9",
+   "lang": "mr",
+   "category": "story",
+   "title": "रमजानचा चंद्रकोर",
+   "summary": "ही कविता रमजान महिन्याचे आगमन आणि त्याच्या पुण्याईबद्दल आहे. रमजानचा चंद्र आकाशात दिसल्याचा आनंद आणि या महिन्यातील सत्कर्मांचे महत्त्व यात मांडले आहे. कवी भक्ती आणि आनंदाने भरलेल्या या महिन्याचे स्वागत करत आहेत.",
+   "author": "അബൂ ഫായിദ",
+   "issue_date": "2018-05-19",
+   "html_url": "/mr/story/the-crescent-moon-of-ramadan-20180519-9.html",
+   "md_url": "/mr/story/the-crescent-moon-of-ramadan-20180519-9.md"
   },
   {
    "slug": "the-currency-that-was-not-accepted-20170114-3",
