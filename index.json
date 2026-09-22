@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-22T05:57:32.292315+00:00",
+ "generated_at": "2026-09-22T06:00:11.086372+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 7161,
+ "count": 7162,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -64691,6 +64691,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/ta/dawah/prayer-that-is-worship-20170325-6.html",
    "md_url": "/ta/dawah/prayer-that-is-worship-20170325-6.md"
+  },
+  {
+   "slug": "ramadan-in-the-age-of-social-media-20180519-10",
+   "lang": "ta",
+   "category": "dawah",
+   "title": "சமூக ஊடகக் காலத்தில் ரமலான்",
+   "summary": "சமூக ஊடகங்களின் ஆதிக்க காலத்தில் ரமலான் மாதத்தில் ஒரு விசுவாசி எவ்வாறு நடந்துகொள்ள வேண்டும் என்பதைப் பற்றிய கட்டுரை இது. ஆன்லைன் மற்றும் ஆஃப்லைன் என இரு தளங்களிலும் கண்ணியமான செயல்பாடுகளைப் பேணுவதன் அவசியத்தையும், ரமலானின் புண்ணியங்களை வீணாக்காமல் பாதுகாப்பதன் முக்கியத்துவத்தையும் இது வலியுறுத்துகிறது.",
+   "author": "അബ്ദുല്‍മാലിക് സലഫി",
+   "issue_date": "2018-05-19",
+   "html_url": "/ta/dawah/ramadan-in-the-age-of-social-media-20180519-10.html",
+   "md_url": "/ta/dawah/ramadan-in-the-age-of-social-media-20180519-10.md"
   },
   {
    "slug": "religion-is-fearlessness-20170114-6",
