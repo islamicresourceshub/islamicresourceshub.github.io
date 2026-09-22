@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-22T02:58:19.340942+00:00",
+ "generated_at": "2026-09-22T02:59:28.147446+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 7015,
+ "count": 7016,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -2486,6 +2486,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/ar/fiqh/mosque-construction-some-points-to-note-20170325-5.html",
    "md_url": "/ar/fiqh/mosque-construction-some-points-to-note-20170325-5.md"
+  },
+  {
+   "slug": "ramadan-fasting-rulings-and-prohibitions-20180519-7",
+   "lang": "ar",
+   "category": "fiqh",
+   "title": "أحكام الصيام ومحظوراته في رمضان",
+   "summary": "هذا المقال عبارة عن مجموعة من الأسئلة والأجوبة المتعلقة بأحكام الصيام ومحظوراته في شهر رمضان، مع توضيح الحكمة من تشريع الصيام والضوابط الشرعية المتعلقة به. ترجمة المقال إلى اللغة المالايالامية قام بها السيد سحفر صادق.",
+   "author": "ശൈഖ് മുഹമ്മദ്ബ്‌നു സ്വാലിഹ് അല്‍ ഉഥൈമീന്‍",
+   "issue_date": "2018-05-19",
+   "html_url": "/ar/fiqh/ramadan-fasting-rulings-and-prohibitions-20180519-7.html",
+   "md_url": "/ar/fiqh/ramadan-fasting-rulings-and-prohibitions-20180519-7.md"
   },
   {
    "slug": "the-alcoholic-father-20170211-7",
