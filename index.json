@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-22T05:27:10.239757+00:00",
+ "generated_at": "2026-09-22T05:28:08.087505+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 7143,
+ "count": 7144,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -19932,6 +19932,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/hi/dawah/prayer-that-is-worship-20170325-6.html",
    "md_url": "/hi/dawah/prayer-that-is-worship-20170325-6.md"
+  },
+  {
+   "slug": "ramadan-in-the-age-of-social-media-20180519-10",
+   "lang": "hi",
+   "category": "dawah",
+   "title": "सोशल मीडिया के दौर में रमज़ान",
+   "summary": "यह लेख इस बात पर चर्चा करता है कि सोशल मीडिया के युग में एक मुसलमान को रमज़ान के दौरान कैसा व्यवहार करना चाहिए। यह ऑनलाइन और ऑफलाइन दोनों जगह मर्यादित रहने और रमज़ान की पवित्रता को सोशल मीडिया की अनावश्यक गतिविधियों से बचाने के महत्व पर जोर देता है।",
+   "author": "അബ്ദുല്‍മാലിക് സലഫി",
+   "issue_date": "2018-05-19",
+   "html_url": "/hi/dawah/ramadan-in-the-age-of-social-media-20180519-10.html",
+   "md_url": "/hi/dawah/ramadan-in-the-age-of-social-media-20180519-10.md"
   },
   {
    "slug": "religion-is-fearlessness-20170114-6",
