@@ -1,0 +1,534 @@
+---
+title: Dokokin Azumin Ramadan da Abubuwan da Suka Shafi Shi
+author: ശൈഖ് മുഹമ്മദ്ബ്‌നു സ്വാലിഹ് അല്‍ ഉഥൈമീന്‍
+lang: ha
+category: fiqh
+kind: article
+tags:
+- ramadan
+- fasting
+- fiqh
+- islamic rulings
+- wisdom
+- questions and answers
+summary: Wannan labari ne da aka gabatar a matsayin tambayoyi da amsoshi game da dokokin azumin Ramadan da hikimomin da ke tattare da su. Yana bayyana dalilin da ya sa aka wajabta azumi da kuma hukunce-hukuncen da suka shafi gudanar da shi.
+source:
+  magazine: Nerpatham Weekly
+  issue_date: '2018-05-19'
+  pdf_url: http://nerpatham.com/vol-no-02/images/archives/Nerpatham-2018May19.pdf
+date_processed: '2026-08-30T16:00:34Z'
+slug: ramadan-fasting-rulings-and-prohibitions-20180519-7
+translation_of: ramadan-fasting-rulings-and-prohibitions-20180519-7
+---
+
+**(Fassara: Sayyid Sa'affar Swadiq)**
+
+![](/assets/ramadan-fasting-rulings-and-prohibitions-20180519-7/19May18-07.jpg)
+
+**1. Menene hikimar wajabta azumi?**
+
+Amsa: Idan muka karanta ayar Alkur'ani mai zuwa, za mu fahimci hakan. Allah Madaukakin Sarki yana cewa:
+
+''Ya ku wadanda suka yi imani! An wajabta muku azumi kamar yadda aka wajabta shi ga wadanda suke gabaninku, domin ku kasance masu takawa'' (Alkur'ani 2:183).
+
+Manufar wajabta azumi ita ce tsoron Allah da kuma bauta masa. Takawa tana nufin barin abubuwan da aka haramta da kuma aikata umarnin Allah.
+
+Abu Huraira (RA) ya ruwaito cewa Annabi (SAW) ya ce: ''Duk wanda bai bar maganar banza da aikata ta ba, to Allah ba ya bukatar ya bar abincinsa da abin shansa'' (Bukhari).
+
+Wannan hadisi ya nuna cewa wajibi ne mai azumi ya aikata abubuwan da aka umarce shi da su kuma ya nisanci abubuwan da aka haramta. Nisantar gulma, karya, cinikin haram, da kuma dabi'un banza a watan Ramadan, idan aka kiyaye su sosai, za su zama abin koyi har bayan watan Ramadan.
+
+Abin takaici, mutane da yawa suna aikata abubuwan da suka saba wa tsarkin azumi! Suna barin abubuwan da suka wajaba kuma suna aikata haramun yayin da suke azumi. Don haka, dole ne a kiyaye cewa akwai abubuwan da suke rage ladan azumi, akwai kuma wadanda suke bata azumin gaba daya.
+
+
+
+**2. Menene ra'ayinka game da maganar cewa za a iya hada kan al'ummar Musulmi wajen azumi da sallah ta hanyar amfani da ganin wata na Makka a duk duniya?**
+
+Amsa: A kimiyance, wannan abu ne da ba zai yiwu ba. Domin kamar yadda Sheikhul Islam Ibn Taimiyya ya fada, lokutan fitowar rana da faduwarta sun bambanta a wurare daban-daban. Don haka, bisa ga dalilai da gogewa, kowace kasa tana da hukunce-hukuncenta.
+
+Dalilai daga nassosi: Allah yana cewa: ''...Duk wanda ya shaida watan, to ya yi azuminsa...'' (Alkur'ani 2:185).
+
+Idan mutanen wani bangare na duniya ba su ga wata ba, amma a Makka an ga wata, ta yaya wannan kiran zai cika? Haka kuma Annabi (SAW) ya ce:
+
+Muhammadu bin Ziyad (RA) ya ce: Na ji Abu Huraira (RA) yana cewa: Annabi (SAW) ya ce: ''Ku yi azumi idan kun ga wata, kuma ku sha ruwa (ku yi sallah) idan kun ga wata (na Shawwal)'' (Bukhari, Muslim).
+
+Bisa wannan dalili, idan aka ga wata a Makka, ta yaya mutanen kasashe kamar Pakistan za su yi azumi? Domin watan Ramadan bai fito musu ba. Annabi (SAW) ya ce 'idan kun gani'.
+
+Gogewa: Wannan kiyasi ne bayyananne wanda babu wanda zai iya musantawa. Mun sani cewa rana tana fitowa a gabas kafin yamma. Idan haka ne, shin ya kamata mu yi azumi bisa fitowar rana a gabas alhali muna cikin dare? Amsar ita ce a'a. Haka kuma, shin ya kamata mu sha ruwa bisa faduwar rana a gabas alhali muna cikin rana? Amsar ita ce a'a. Don haka, hukuncin wata yana kama da na rana. Amma lokacin wata yana da alaka da wata, lokacin rana kuma yana da alaka da yini. Allah yana cewa:
+
+''An halatta muku saduwa da matanku a daren azumi... Ku ci kuma ku sha har sai zaren fari ya bayyana a gare ku daga zaren baki na alfijir. Sa'an nan ku cika azumin har zuwa dare...'' (Alkur'ani 2:187).
+
+Allah yana cewa: ''...Duk wanda ya shaida watan, to ya yi azuminsa...''
+
+Bisa dalilan da muka bayyana, kowace kasa tana da nata hukunce-hukuncen bisa ga lokutan fitowar rana da faduwarta. Azumi da sallah ana yanke su ne bisa ga ganin wata, kamar yadda Allah ya bayyana a Alkur'ani kuma Annabi (SAW) ya bayyana a Sunnah.
+
+(Ana tattauna batun yin sallah da azumi a rana guda a duniya a nan. Amma wannan ya saba wa Alkur'ani, Sunnah, da dokokin kimiyya. Sanannen abu ne cewa lokutan sallah da azumi suna bambanta bisa ga bambancin fitowar rana da faduwarta. Don karin bayani, duba littafin 'Watan wata a Alkur'ani da Kimiyya' wanda Umar Farooq ya rubuta. Fassarar:).
+
+---
+
+**3. Wani mutum ya yi azumi a wani gari, sannan ya yi tafiya zuwa wani gari. A lokacin da ya isa, sai aka ga watan Shawwal a garin da ya fito, aka kuma tabbatar da sallah. Amma a garin da ya isa, ba a ga watan Shawwal ba. Menene ya kamata ya yi?**
+
+![](/assets/ramadan-fasting-rulings-and-prohibitions-20180519-7/19May18-08.jpg)
+
+
+Amsa: Idan mutum ya yi tafiya daga gari zuwa wani gari, hukuncin garin da ya isa shi ne ya kamata ya bi. Wato, lokacin da mutanen garin da ya isa suka yi sallah, shi ma ya yi sallah. Domin Annabi (SAW) ya ce a yi azumi tare da mutane. Haka ma sallar Idi, ya kamata a yi ta tare da su. Ko da ya zama kwana daya ko biyu, haka ya kamata a yi. Haka kuma, idan garin da ya isa yana da bambancin lokacin faduwar rana, ya kamata ya bi lokacin garin wajen shan ruwa.
+
+(Misali: Mutumin da ya tashi daga Indiya da karfe 6 na safe zuwa Saudi Arabia a watan Ramadan, ya kamata ya sha ruwa bisa lokacin Saudi Arabia, wanda ya bambanta da na Indiya. Ma'ana, bai kamata ya sha ruwa lokacin da mutanen Indiya suka sha ba).
+
+Domin Annabi (SAW) ya ce 'idan kun gan shi', wato idan kun ga wata, ku sha ruwa. Haka kuma, akasin haka na iya faruwa. Idan a garin da ya isa aka ga watan Shawwal kwana daya ko biyu kafin garin da ya fito, ya kamata ya yi sallah tare da su. Kuma ya rama kwanakin azumin da ya rasa bayan ranar farko ta Shawwal. Domin watan Ramadan yana iya zama kwana 29 ko 30. Idan ya rasa kwana daya, ya rama daya; idan ya rasa biyu, ya rama biyu. Domin dukkan watannin wata ba sa kasa da 29. Idan ya isa gari kuma aka ga watan Shawwal kafin ya cika 29, ya yi sallah tare da su, sannan ya rama abin da ya rasa. Amma idan ya zama dole ya yi azumi kwana daya fiye da kima, ya yi hakan. Domin ganin wata ne yake tabbatar da sallah. Bambancin kwana daya kamar bambancin sa'o'i ne.
+
+---
+
+**4. Shin an ba wadanda suke yin aiki mai nauyi da wahala izinin barin azumi?**
+
+Amsa: Bisa ga dalilai, ra'ayina shi ne ba a ba da izinin barin azumi saboda aiki ba. Idan ba zai yiwu a hada aiki da azumi ba, ya kamata ya nemi hutu ya yi azumi a watan Ramadan. Domin azumin Ramadan daya ne daga cikin ginshikan Musulunci. Bai kamata a lalata shi ba.
+
+---
+
+**4. Menene yarinya za ta yi idan ta yi azumi a lokacin haila saboda jahilci?**
+
+Amsa: Dole ne ta rama azumin da ta yi a lokacin haila. Domin azumin mace mai haila ba a karba ba, ko da saboda jahilci ne. Haka kuma, idan yarinya ta fara haila a karon farko, kuma saboda kunya ba ta gaya wa iyayenta ba, bai kamata ta yi azumi ba. Dole ne ta rama dukkan azumin da ta rasa. Idan mace ta fara haila, hakan yana nufin ta balaga. Don haka, wajibi ne ta rama azumin da ta rasa.
+
+---
+
+**5. Menene hukuncin wanda ya bar azumin Ramadan domin ya nemi abinci ga kansa da wadanda suke karkashinsa?**
+
+Amsa: Wasu malaman sun ce hukuncinsu daya ne da na marar lafiya. Idan marar lafiya ba zai iya azumi ba, zai iya barin azumi. Zai rama bayan ya warke; idan ya rayu. Idan ya rasu, wani zai rama masa. Idan mai kula da shi ba zai iya ramawa ba, zai ciyar da miskini daya a madadin kowace rana.
+
+Amma malaman da ba su kwatanta su da marar lafiya ba, ra'ayinsu shi ne: dukkan ibada tana da lokaci, duk wanda ya jinkirta ibada ba tare da dalili ba, ba za a karba ba. Ya kamata ya kara ayyukan alheri da neman gafarar Allah. Dalilin hakan:
+
+Annabi (SAW) ya ce: ''Duk wanda ya aikata wani aiki wanda ba mu ba ne muka umarce shi ba, to an mayar masa da shi'' (Bukhari, Muslim).
+
+Kamar yadda ba a karbar ibada kafin lokacinta, haka ma ba a karbar ta bayan lokacinta. Amma idan akwai dalili kamar jahilci ko mantuwa, za a karba.
+
+Annabi (SAW) ya ce game da mantuwa: ''Duk wanda ya yi barci lokacin sallah, ko ya manta, ya yi sallah idan ya tuna, babu wani kaffara sai hakan'' (Muslim).
+
+Wanda ya bar azumin Ramadan domin neman abinci ga kansa da 'ya'yansa, yana tunanin cewa yana cikin hukuncin marar lafiya. Allah ne Mafi sani.
+
+---
+
+**6. Wadanne dalilai ne suke ba da izinin barin azumi?**
+
+![](/assets/ramadan-fasting-rulings-and-prohibitions-20180519-7/19May18-09.jpg)
+
+
+Amsa: Bisa ga Alkur'ani, rashin lafiya da tafiya su ne dalilan da aka ba da izini. Haka kuma, mace mai ciki idan tana tsoron cutar da kanta ko abin da ke cikinta, za ta iya barin azumi. Haka kuma, mace mai shayarwa idan tana tsoron cutar da kanta ko jaririnta, za ta iya barin azumi. Ana iya barin azumi domin ceto wadanda suke cikin hadari. Misali, ceto wanda yake shirin nutsewa a teku, ko ceto wanda yake cikin gidan da wuta ta kama. Haka kuma, ana iya barin azumi domin yin jihadi. Musulunci ya ba da izinin hakan. Domin Annabi (SAW) ya ce wa sahabbansa a yakin Fathu Makka:
+
+''Gobe za ku hadu da makiya, don haka shan ruwa zai ba ku lafiya da karfi. Don haka ku sha ruwa'' (Muslim).
+
+Idan mutum ya bar azumi saboda dalilin da aka ba da izini, kuma dalilin ya kare, ba ya bukatar ya ci gaba da azumi sauran ranar. Misali, idan mutum ya bar azumi domin ya ceto wanda yake nutsewa, bayan ya ceto shi, ba ya bukatar ya ci gaba da azumi. Wannan shi ne ra'ayin da ya fi inganci. Idan marar lafiya ya warke a tsakiyar rana, ba ya bukatar ya ci gaba da azumi. Haka kuma matafiyi idan ya isa garinsa a tsakiyar rana, ba ya bukatar ya ci gaba da azumi. Haka kuma mace mai haila idan ta tsarkaka a tsakiyar rana (kafin Magrib), ba ta bukatar ta ci gaba da azumi. Domin duk wadannan sun bar azumi ne saboda dalilan da Musulunci ya ba da izini. Don haka, ba su da wajibi su ci gaba da azumi.
+
+Amma idan an ga watan Ramadan a tsakiyar rana, dole ne a ci gaba da azumi sauran ranar. Bambancin wadannan biyun a bayyane yake. Idan an tabbatar da azumi, dole ne a yi azumi ranar. Amma kafin a tabbatar, suna da uzuri saboda jahilci.
+
+Don haka, wadanda suka san cewa yau ranar Ramadan ce, dole ne su ci gaba da azumi. Amma wadanda muka fara bayyanawa, sun san cewa azumi wajibi ne. Sun bar azumi ne saboda dalilan da Musulunci ya ba da izini. Bambancin da ke tsakaninsu a bayyane yake.
+
+---
+
+**7. Mutumin da ya yi barci ba tare da niyyar azumi ba kafin ganin watan Ramadan, sannan ya tashi bayan gari ya waye ya gane cewa Ramadan ya fara, menene ya kamata ya yi? Shin dole ne ya rama azumin ranar?**
+
+Amsa: Ra'ayin mafi yawan malamai shi ne, mutumin da ya yi barci ba tare da niyyar azumi ba kafin ganin watan Ramadan, sannan ya tashi bayan gari ya waye ya gane cewa Ramadan ya fara, ya kamata ya ci gaba da azumi sauran ranar, sannan ya rama azumin wata rana. Sheikhul Islam Ibn Taimiyya (RA) ne kawai ya ba da wani ra'ayin.
+
+Ra'ayinsa; 'Niyyar azumi tana farawa ne daga lokacin da aka san cewa an ga wata. Wannan mutumin bai sani ba, don haka yana da uzuri. Da ya san an ga wata, da bai taba yin barci ba tare da niyyar azumi ba. Yana cikin jahilci game da hakan. Jahilci yana cikin uzuri. Bisa wannan, azuminsa ya inganta.' Bisa wannan ra'ayin, ba ya bukatar ya rama.
+
+Ra'ayin mafi yawan malamai shi ne ya yi azumi ranar, sannan ya rama wata rana. A ra'ayina, don kiyayewa, ya fi kyau ya rama azumin ranar.
+
+---
+
+**8. Mutum ya bar azumi saboda dalilin da aka ba da izini. Amma dalilin ya kare a tsakiyar rana, shin ya kamata ya ci gaba da azumi?**
+
+Amsa: Ba ya bukatar ya ci gaba da azumi, domin ya bar azumi ne saboda dalilin da aka ba da izini. Don haka, idan dalilin ya kare, ba ya bukatar ya ci gaba da azumi. Misali, mutum yana bukatar shan magani mai mahimmanci. Idan ya sha maganin, azuminsa ya baci. Tunda ya bar azumi saboda dalilin da aka ba da izini, ba ya bukatar ya ci gaba da azumi. Ya isa ya rama wata rana. Babu wani amfani na addini wajen ci gaba da azumi sauran ranar, kuma ba zai inganta ba. Don haka, ba wajibi ne ya ci gaba da azumi ba.
+
+Misali: Mutum ya ga wani yana nutsewa. Mutumin yana cewa 'idan na sha ruwa kadan, zan iya ceto shi, idan ban sha ba, ba zan iya ba'. Ya sha ruwan, ya ceto shi. Zai iya cin abinci da shan ruwa sauran ranar. Domin ya bar azumi ne saboda dalilin da Musulunci ya ba da izini. Ba a bukatar ya ci gaba da azumi sauran ranar. Shin muna gaya wa marar lafiya da ya bar azumi cewa 'kada ka ci abinci sai ka ji yunwa, kada ka sha ruwa sai ka ji kishirwa'? A'a! Domin Musulunci ya ba marar lafiya izinin barin azumi. Don haka, duk wanda ya bar azumi saboda dalilin da Musulunci ya ba da izini, ko da dalilin ya kare a tsakiyar rana, ba ya bukatar ya ci gaba da azumi. Amma wanda ya bar azumi ba tare da dalili ba, dole ne ya ci gaba da azumi sauran ranar. Domin ba a ba shi izinin barin azumi ba. Ya bata tsarkin ranar ba tare da izinin addini ba. Don haka, dole ne ya ci gaba da azumi sauran ranar, kuma ya rama wata rana. Allah ne Mafi sani.
+
+---
+
+**9. Menene hukuncin mace mai shanyewar jiki (stroke) wadda likita ya ba ta shawarar ta bar azumi?**
+
+Amsa: Allah yana cewa: ''...Watan Ramadan wanda aka saukar da Alkur'ani a cikinsa, shiriya ga mutane... Duk wanda ya shaida watan, to ya yi azuminsa. Duk wanda ya kasance marar lafiya ko a tafiya, to ya rama adadin kwanakin... Allah yana nufin sauki gare ku, ba ya nufin tsanani gare ku...'' (Alkur'ani 2:185).
+
+Idan marar lafiya ne wanda ba a sa ran warkewa, ya kamata ya ciyar da miskini daya a madadin kowace rana. Ya kamata ya ba da abincin da muke ci kullum. Ya kamata ya ba da abinci mai kyau. Mace mai shanyewar jiki ya kamata ta ciyar da miskini a madadin kowace rana.
+
+---
+
+**10. Yaushe kuma yaya matafiyi yake yin sallah da azumi?**
+
+![](/assets/ramadan-fasting-rulings-and-prohibitions-20180519-7/19May18-10.jpg)
+
+
+Amsa: Matafiyi daga lokacin da ya fita daga garinsa har zuwa lokacin da ya dawo, ya kamata ya yi sallolin raka'a hudu a matsayin raka'a biyu. Domin Aisha (RA) ta ce:
+
+''An wajabta sallah raka'a biyu a farko. An tabbatar da hakan ga matafiya, kuma an cika ta ga wadanda suke zaune a gida.'' Wani ruwayar ta ce: ''Kuma an kara wa wadanda suke zaune a gida'' (Bukhari, Muslim).
+
+Anas bin Malik (RA) ya ruwaito: ''Mun fita tare da Annabi (SAW) daga Madina zuwa Makka. Mun kasance muna yin raka'a biyu har sai da muka dawo Madina'' (Bukhari, Muslim).
+
+Amma idan matafiyi yana yin sallah tare da limamin da yake zaune a gida, dole ne ya cika raka'a hudu. Ko da yana tare da limamin tun farko, ko ya bi shi a tsakiya. Domin Manzon Allah (SAW) ya ce:
+
+''Idan kun ji ikama, ku tafi sallah. Ku tafi da natsuwa da girma. Kada ku yi gaggawa. Abin da kuka samu ku yi, abin da ya wuce ku kuma ku cika.'' 
+
+'Abin da kuka samu ku yi, abin da ya wuce ku kuma ku cika' yana nuna cewa matafiyi idan yana yin sallah a bayan wanda yake yin raka'a hudu, dole ne ya cika. An tambayi Ibn Abbas (RA): 'Me ya sa matafiyi yake yin raka'a hudu a bayan wanda yake zaune a gida, kuma yake yin raka'a biyu a sauran lokuta?' Sai ya ce: 'Wannan yana cikin Sunnah.'
+
+Ba a ba matafiyi izinin barin sallar jam'i ba. Domin ko a lokacin yaki, Allah ya ce:
+
+''(Ya kai Annabi,) idan kana tare da su kuma kana jagorantar sallah, to wani bangare ya tsaya tare da kai. Su dauki makamansu. Idan sun yi sujada, su koma bayanka, wani bangaren kuma ya zo ya yi sallah tare da kai...'' (Alkur'ani 4:102).
+
+Idan matafiyi yana jin kiran sallah, ya kamata ya halarci sallar jam'i a masallatai. Amma idan masallacin yana da nisa, kuma yana tsoron rasa abokansa, ba ya bukatar ya halarta. Wannan yana nuna cewa wajibi ne wadanda suke jin kiran sallah su halarci masallatai.
+
+Haka kuma, matafiya za su iya yin sallar sunnah, kamar Witr, sallar dare, sallar Duha, da raka'a biyu na kafin Asuba, ban da raka'a na kafin da bayan sallar Azahar, Magrib, da Isha.
+
+Haka kuma, ana iya hada sallar Azahar da Asar, da Magrib da Isha. Ana iya yin su tare, ko dai a gaba ko a baya, duk wanda ya fi sauki da dacewa.
+
+Amma idan mutum ya fara zama a wani gari, ya fi kyau kada ya hada sallah, ko da ya hada ba laifi ba ne. Dukansu sun zo daga Manzon Allah (SAW).
+
+Matafiya za su iya yin azumi a watan Ramadan. Idan suka bar azumi, ba laifi ba ne. Dole ne su rama adadin kwanakin da suka rasa. Idan barin azumi ya fi sauki ga matafiyi, to shi ne ya fi kyau. Domin Allah yana son a yi amfani da saukin da ya ba da. Allah ne Mafi sani.
+
+---
+
+**11. Menene hukuncin matafiyi da yake yin azumi cikin wahala?**
+
+Amsa: Idan matafiyi yana yin azumi cikin wahala, to hakan abin kin ne. Duba hadisin Annabi (SAW) mai zuwa:
+
+Annabi (SAW) ya ga wani mutum ana yi masa inuwa kuma mutane sun taru a kusa da shi, sai ya tambaya: 'Menene wannan?' Suka ce: 'Shi (wanda ake yi wa inuwa) mai azumi ne'. Sai Annabi (SAW) ya ce: 'Yin azumi a tafiya ba ya cikin alheri' (Bukhari, Muslim).
+
+Idan yana cikin wahala sosai, wajibi ne matafiyi ya bar azumi. Domin lokacin da aka gaya wa Annabi (SAW) cewa yin azumi (a tafiya) yana da wahala, ya ce a bar azumi. Lokacin da aka ce wasu sun yi azumi, Annabi (SAW) ya ce: 'Su azzalumai ne, su azzalumai ne' (Muslim).
+
+Idan matafiyi ba ya cikin wahala, ya fi kyau ya yi azumi. Domin an tabbatar da cewa Annabi (SAW) ya yi azumi a tafiya.
+
+Abu Darda (RA) ya ce: 'Mun kasance tare da Annabi (SAW) a tafiya a ranar Ramadan mai zafi sosai. Babu wanda yake azumi a cikinmu sai Annabi (SAW) da Abdullah bin Rawaha' (Bukhari, Muslim).
+
+(Tunda hadisi ya nuna cewa Annabi (SAW) ya yi azumi, hakan yana nuna cewa yin azumi ma ya halatta. Amma kamar yadda malamai suka tattauna, matafiyi zai iya yanke hukunci da kansa bisa ga dalilai. Kowa ya fi kowa sanin yanayin lafiyarsa. Fassarar:).
+
+![](/assets/ramadan-fasting-rulings-and-prohibitions-20180519-7/19May18-11.jpg)
+
+---
+
+**12. A zamanin yau, akwai kayan aikin tafiya na zamani, don haka yin azumi ga matafiyi (idan aka kwatanta da zamanin da) ba abu ne mai wahala ba. A wannan yanayin, menene hukuncin matafiyi da yake yin azumi?**
+
+Amsa: Matafiyi zai iya yin azumi ko ya bar azumi. Allah yana cewa: ''...Duk wanda ya kasance marar lafiya ko a tafiya, to ya rama adadin kwanakin...'' (Alkur'ani 2:185).
+
+Sahabbai sun kasance suna tafiya tare da Annabi (SAW), kuma akwai masu azumi da masu shan ruwa a cikinsu. Masu azumi ba sa zargin masu shan ruwa, kuma masu shan ruwa ba sa zargin masu azumi. Annabi (SAW) ya kasance yana yin azumi a tafiya.
+
+Abu Darda (RA) ya ce: ''Mun kasance tare da Annabi (SAW) a tafiya a ranar Ramadan mai zafi sosai. Babu wanda yake azumi a cikinmu sai Annabi (SAW) da Abdullah bin Rawaha'' (Bukhari, Muslim).
+
+Hukuncin matafiyi shi ne zai iya yin azumi ko ya bar azumi. Amma idan matafiyi ba ya cikin wahala, ya fi kyau ya yi azumi. Domin akwai amfani guda uku:
+
+1. Bin Sunnah na Annabi (SAW). 2. Sauki: Yin azumi tare da mutane ya fi sauki fiye da yin azumi shi kadai. 3. Zai iya sauke nauyin da ke kansa da wuri.
+
+---
+
+**13. Idan matafiyi ya isa Makka yana azumi, shin ya halatta ya bar azumi domin ya yi Umrah?**
+
+Amsa: A lokacin Fathu Makka, Annabi (SAW) ya shiga Makka a ranar 20 ga Ramadan, ya kuma bar azumi. Manzon Allah (SAW) ya yi sallah raka'a biyu tare da mutanen Makka, kuma ya umarce su da su cika sallah, ya ce: 'Ya ku mutanen Makka, ku cika sallah, mu matafiya ne' (Bukhari). A cikin Sahihul Bukhari, an nuna cewa Annabi (SAW) ya ci gaba da barin azumi har lokacin da ya zauna a Makka. Idan mutum ya isa Makka domin yin Umrah, tafiyarsa ba ta kare ba. Don haka, ba ya bukatar ya yi azumi. Wasu mutane suna yin azumi a tafiya. Suna cewa dalilin shi ne tafiyar ba ta da wahala. Sannan su gaji sosai kuma su sha wahala. Suna tambaya ko za su iya shan ruwa bayan sun yi Umrah, ko kuma su bar azumi su yi Umrah da wuri.
+
+A wannan yanayin, mu gaya musu; su bar azumi tun farko domin su yi Umrah. Domin za su iya shiga Makka da lafiya da kuzari. Wadanda suke son yin Umrah ya kamata su yi ta da wuri. Domin Annabi (SAW) idan ya shiga Makka domin yin Umrah, ya kasance yana gaggawar zuwa masallaci domin ya kammala aikin. Har ma ya kan daure dabbarsa kusa da masallaci. Don haka, wadanda suke zuwa Makka domin yin Umrah a watan Ramadan, ya fi kyau su bar azumi su yi Umrah da kuzari a lokacin rana, fiye da su sha ruwa su yi Umrah da dare.
+
+An tabbatar da cewa Annabi (SAW) ya ce: ''A tafiyar Fathu Makka, Annabi (SAW) yana azumi. Sai mutane suka zo wurinsa suka ce: 'Ya Manzon Allah, mutane suna shan wahala sosai saboda azumi. Suna jiran abin da za ka yi.' Wannan ya faru ne bayan Asar. Sai Annabi (SAW) ya nemi ruwa ya sha a tafiya. Har ma ya bar azumi a karshen ranar'' (Muslim).
+
+Annabi (SAW) ya yi hakan ne domin ya koya wa mutane cewa za a iya barin azumi a tafiya. Yin azumi a tafiya cikin wahala ya saba wa Sunnah na Annabi (SAW). Hadisin 'Yin azumi a tafiya ba ya cikin alheri' yana koya mana hakan.
+
+---
+
+**14. Shin mace mai shayarwa za ta iya barin azumi? Yaushe ya kamata ta rama? Shin dole ne ta ciyar da miskini?**
+
+Amsa: Idan tana tsoron cewa yin azumi zai rage mata madarar shayarwa, ko kuma zai cutar da jaririn, za ta iya barin azumi. Amma kamar marar lafiya, dole ne ta rama. Allah yana cewa game da hakan:
+
+''...Duk wanda ya kasance marar lafiya ko a tafiya, to ya rama adadin kwanakin... Allah yana nufin sauki gare ku, ba ya nufin tsanani gare ku...'' (Alkur'ani 2:185).
+
+Lokacin da dalilin ya kare, ya kamata ta fara rama azumin. Za ta iya rama a lokacin sanyi lokacin da rana take gajere, ko kuma a shekara mai zuwa. Wadanda suke da dalilin da ba ya karewa, ko marar lafiya wanda ba a sa ran warkewa, su ne suke ciyar da miskini daya a madadin kowace rana.
+
+---
+
+**15. Idan mai azumi yana yin barci mafi yawan lokacin rana saboda yunwa da kishirwa, shin hakan zai shafi karbar azuminsa?**
+
+Amsa: Hakan ba zai shafi karbar azuminsa ba. Maimakon haka, ladansa yana karuwa gwargwadon wahalarsa. Domin dubi abin da Annabi (SAW) ya gaya wa Aisha (RA):
+
+''Ladanka yana gwargwadon wahalarka'' (Bukhari). Duk wanda ya gaji saboda bin umarnin Allah, ladansa yana karuwa gwargwadon wahalarsa. Mai azumi idan ya gaji, zai iya sanyaya jikinsa da ruwa ko ya zauna a wuri mai sanyi domin rage wahala, babu laifi.
+
+---
+
+**16. Shin azumi zai baci idan mutum ya yi niyyar shan ruwa ba tare da ya ci abinci ko ya sha ruwa ba?**
+
+Amsa: Tabbas, azumi ibada ce da take bukatar niyya, da kuma nisantar abubuwan da suke bata azumi. Manufar mai azumi ita ce ya kusanci Allah ta hanyar nisantar abubuwan da suke bata azumi. Don haka, idan ya yi niyyar barin azumi, azuminsa ya baci. Idan ya yi hakan a watan Ramadan, dole ne ya ci gaba da azumi sauran ranar. Domin idan ya bar azumi ba tare da dalilin da Musulunci ya ba da izini ba, dole ne ya ci gaba da azumi sauran ranar kuma ya rama.
+
+Amma idan bai yanke hukunci ba, yana cikin shakka, malamai suna da ra'ayoyi daban-daban. Wasu malamai sun ce azuminsa ya baci. Domin shakka tana kawar da tabbataccen abu.
+
+Wani bangare na malamai sun bayyana cewa azumin ba zai baci ba. Domin asali niyyar tana nan. Ba za a kawar da niyyar farko ba sai idan an yanke hukunci. Wannan ra'ayin shi ne ya fi inganci a wurina. Allah ne Mafi sani.
+
+---
+
+**17. Menene hukuncin mai azumi da ya ci abinci saboda mantuwa? Menene ya kamata wanda ya gani ya yi?**
+
+Amsa: Idan mutum ya ci abinci ko ya sha ruwa saboda mantuwa, azuminsa ya inganta. Amma idan ya tuna, ya kamata ya daina. Kuma dole ne ya cire abin da yake bakinsa. Dalilin cewa azumin ya inganta:
+
+Abu Huraira (RA) ya ruwaito: ''Duk wanda ya ci abinci ko ya sha ruwa saboda mantuwa, ya ci gaba da azuminsa. Domin Allah ne ya ciyar da shi kuma ya shayar da shi'' (Bukhari, Muslim).
+
+Babu azaba ga wanda ya aikata abin da aka haramta saboda mantuwa. Allah yana cewa:
+
+''...Ya Ubangijinmu, kada ka azabtar da mu idan mun manta ko mun yi kuskure...'' (Alkur'ani 2:28).
+
+Amma idan mai azumi yana cin abinci saboda mantuwa, wajibi ne a tunatar da shi. Domin wannan yana cikin hana mummuna.
+
+Annabi (SAW) ya ce: ''Duk wanda ya ga wani yana aikata mummuna, ya hana shi da hannunsa. Idan bai iya ba, da harshensa. Idan bai iya ba, da zuciyarsa'' (Muslim).
+
+Cin abinci da shan ruwa yayin azumi yana cikin abubuwan da aka haramta. Dole ne a hana shi. Amma saboda mantuwa, an ba da izini wajen karbar azumin. Amma wanda ya gani, ba a ba da izini wajen barin hana shi ba.
+
+---
+
+**18. Menene hukuncin mai azumi da yake sanya surma?**
+
+Amsa: Mai azumi zai iya sanya surma, babu laifi. Haka kuma, zai iya amfani da maganin ido da kunne. Domin wannan ba cin abinci ko shan ruwa ba ne. Amfani da maganin ido da hanci ba a kira shi cin abinci ko shan ruwa ba. An haramta cin abinci da shan ruwa ne kawai. Wannan ra'ayin shi ne na Sheikhul Islam Ibn Taimiyya (RA). Amma idan aka yi amfani da maganin hanci kuma ya shiga baki da gangan, azumin ya baci. Duba hadisi:
+
+Annabi (SAW) ya ce: ''Idan ba kai mai azumi ba ne, ka kara shaka ruwa a hanci'' (Abu Dawud, Nasa'i, Ibn Majah).
+
+---
+
+**19. Menene hukuncin mai azumi da yake goge hakora da amfani da turare?**
+
+Amsa: Mai azumi ya goge hakora a farkon rana ko karshen rana yana cikin Sunnah na Annabi (SAW). Duba hadisi:
+
+Annabi (SAW) ya ce: ''Goge hakora yana tsarkake baki kuma yana sa Ubangiji ya yarda'' (Bukhari).
+
+Annabi (SAW) ya ce: ''Da ba don wahala ga al'ummata ba, da na umarce su da su yi miswaki kafin kowace sallah'' (Bukhari, Muslim).
+
+Haka kuma, mai azumi zai iya amfani da turare a farkon rana ko karshen rana, ko da yana cikin hayaki, ruwa, ko wani nau'i. Amma kada a shaka hayakin turare ta hanci. Domin hayakin turare yana iya shiga hanci kuma ya shiga ciki. Wannan shi ne dalilin da ya sa Annabi (SAW) ya gaya wa Luqait bin Sabra: ''Idan ba kai mai azumi ba ne, ka kara shaka ruwa a hanci'' (Abu Dawud, Nasa'i, Ibn Majah).
+
+---
+
+**20. Wadanne abubuwa ne suke bata azumi?**
+
+![](/assets/ramadan-fasting-rulings-and-prohibitions-20180519-7/19May18-06.jpg)
+
+
+Amsa: Abubuwa masu zuwa suna bata azumi.
+
+1. Saduwa da mace
+
+2. Cin abinci
+
+3. Shan ruwa
+
+4. Fitowar maniyyi saboda sha'awa
+
+5. Amfani da abubuwan da suke maye gurbin abinci da abin sha
+
+6. Amai da gangan
+
+7. Yin kofin (cire jinin kazanta)
+
+8. Fitowar jinin haila ko jinin haihuwa.
+
+Dalilin cewa cin abinci, shan ruwa, da saduwa da mace an haramta wa mai azumi. Allah yana cewa: ''...Ku ci kuma ku sha har sai zaren fari ya bayyana a gare ku daga zaren baki na alfijir. Sa'an nan ku cika azumin har zuwa dare...'' (Alkur'ani 2:187).
+
+Dalilin cewa fitowar maniyyi saboda sha'awa yana bata azumi:
+
+A cikin hadisi Qudsi an nuna: ''Yana barin abincinsa, abin shansa, da sha'awarsa saboda ni'' (Ibn Majah).
+
+Duba wani hadisi:
+
+Annabi (SAW) ya ce: 'Saduwa da matanku sadaka ce.' Suka tambaya: 'Ya Manzon Allah, shin akwai lada wajen biyan sha'awa?' Ya ce: 'Shin idan ya biya ta ta hanyar haram, akwai zunubi? Me kuke gani? Haka kuma idan ya biya ta ta hanyar halas, akwai lada' (Muslim).
+
+Anan, 'biya ta' yana nufin maniyyi. Bisa ra'ayin da ya fi inganci, madiyyi (ruwan da yake fitowa lokacin sha'awa) idan ya fito saboda sha'awa ko sumbata ba tare da saduwa ba, azumin ba zai baci ba.
+
+Idan aka yi amfani da allura da sauransu a matsayin abinci da abin sha, azumin ya baci. Ko da ba abinci ko abin sha ba ne, idan aka yi amfani da su domin wannan manufar, azumin ya baci.
+
+Dalilin cewa amai da gangan yana bata azumi:
+
+Abu Huraira (RA) ya ruwaito: Annabi (SAW) ya ce: ''Duk wanda ya yi amai, ba ya bukatar ya rama azumin. Amma duk wanda ya yi amai da gangan, ya rama. Duk wanda ya yi amai ba da gangan ba, ba ya bukatar ya rama'' (Abu Dawud, Tirmidhi).
+
+Dalilin cewa yin kofin yana bata azumi:
+
+Annabi (SAW) ya ce: ''Wanda ya yi kofin da wanda aka yi wa kofin, duka sun sha ruwa'' (Bukhari ya ruwaito a matsayin Ta'liq).
+
+Fitowar jinin haila ko jinin haihuwa: Annabi (SAW) ya gaya wa mace:
+
+''Idan haila ta zo, kada ta yi azumi ko sallah'' (Bukhari). Malamai sun yarda cewa azumin mace mai haila ko jinin haihuwa ba ya inganta.
+
+Abubuwa bakwai da muka ambata suna bata azumi ne kawai idan akwai sharudda uku.
+
+Suna kamar haka:
+
+1. Ya kamata ya san cewa aikata wannan abu zai bata azumi.
+
+2. Ya kamata ya kasance yana da hankali.
+
+3. Kada wani ya tilasta shi. Ya kamata ya yi da kansa. Idan wani ya tilasta wa wani ya sha ruwa, azumin ba zai baci ba.
+
+Idan aka aikata daya daga cikin abubuwan da muka ambata ba tare da sani ko niyya ba, azumin ba zai baci ba. Azumin ya inganta. Allah yana cewa:
+
+''...Ya Ubangijinmu, kada ka azabtar da mu idan mun manta ko mun yi kuskure...'' (Alkur'ani 2:286).
+
+''...Babu laifi a gare ku idan kun yi kuskure. Amma abin da kuka aikata da niyya (zunubi ne)...'' (Alkur'ani 33:5).
+
+Za mu iya ganin dalili daga Sunnah:
+
+Adiy bin Hatim (RA) ya ce: ''Ya yi azumi kuma ya sanya igiya biyu karkashin matashinsa. (Igiya biyu na amfani da su wajen daure rakumi). Daya baka ce, daya kuma fari. Ya ci abinci kuma ya sha ruwa har sai ya ga fari daga baka. Sannan ya yi azumi. Lokacin da gari ya waye, ya tafi wurin Annabi (SAW) ya gaya masa. Sai Annabi (SAW) ya bayyana masa: 'Igiya baka da igiya fari da aka ambata a ayar ba su ne igiyoyinmu ba. Amma igiya fari yana nufin farin rana, igiya baka kuma yana nufin bakin dare.' Amma Annabi (SAW) bai umarce shi da ya rama azumin ba'' (Bukhari, Muslim). Tunda bai san hukuncin ba, azuminsa bai baci ba.
+
+Idan mutum bai san lokacin ba, azuminsa ba zai baci ba. Dalili: Asma bint Abi Bakr (RA) ta ce: ''A zamanin Annabi (SAW) mun sha ruwa a ranar da gajimare ya rufe. Bayan haka ne rana ta fadi'' (Bukhari). Annabi (SAW) bai gaya musu su rama azumin ba. Idan wajibi ne a rama, da ya umarce su. Da ya umarce su, da sun ruwaito hakan ga al'umma. Domin Allah yana cewa: ''Tabbas mu ne muka saukar da wannan tunatarwa. Kuma mu ne masu kiyaye ta'' (Alkur'ani 15:9).
+
+Tunda ba a ruwaito hakan ba, dole ne mu fahimci cewa Annabi (SAW) bai umarce su ba. Tunda bai umarce su da su rama ba, hakan yana nuna cewa ba wajibi ba ne. Haka kuma, mutum ya tashi daga barci ya ci abinci da abin sha. Bayan haka ne ya gane cewa ya ci abinci bayan gari ya waye. Idan haka ne, ba ya bukatar ya rama azumin. Domin ya aikata ba tare da sani ba.
+
+Sharadi na biyu: Ya kamata ya kasance yana da hankali. Idan mutum ya ci abinci ko ya sha ruwa saboda mantuwa, azuminsa ya inganta. Ba ya bukatar ya rama. Allah yana cewa:
+
+''...Ya Ubangijinmu, kada ka azabtar da mu idan mun manta ko mun yi kuskure...'' (Alkur'ani 2:286).
+
+Abu Huraira (RA) ya ruwaito: ''Duk wanda ya ci abinci ko ya sha ruwa saboda mantuwa, ya ci gaba da azuminsa. Domin Allah ne ya ciyar da shi kuma ya shayar da shi'' (Bukhari, Muslim).
+
+Sharadi na uku: Ya kamata ya yi da kansa. Kada wani ya tilasta shi. Idan aka tilasta wa wani ya aikata abubuwan da suke bata azumi, azumin ba zai baci ba. Allah yana cewa:
+
+''Duk wanda ya kafirta bayan ya yi imani - ba wadanda aka tilasta wa ba, alhali zuciyarsu tana cike da imani; amma wadanda suka bude kirjinsu ga kafirci - suna da fushin Allah. Kuma suna da azaba mai girma'' (Alkur'ani 16:106).
+
+Idan wannan shi ne hukuncin kafirci idan aka tilasta wa, to ba ma bukatar mu yi shakka a kan abin da ya fi sauki. Duba hadisi:
+
+Annabi (SAW) ya ce: ''Kuskure, mantuwa, da abin da aka tilasta wa, an yafe wa al'ummata'' (Ibn Majah, Tabarani).
+
+Haka kuma, idan kura ko wani abu ya shiga hancin mai azumi kuma yana da dandano kuma ya shiga ciki, azuminsa ba zai baci ba, domin bai yi da niyya ba. Haka kuma, idan aka tilasta wa mutum ya sha ruwa, azumin ba zai baci ba. Idan aka yi mafarkin fitowar maniyyi, azumin ba zai baci ba, domin bai yi da niyya ba. Idan miji ya tilasta wa matarsa ta aikata abubuwan da suke bata azumi, azumin matar ba zai baci ba. Domin ba ta yi da kanta ba, ta bi tilas na mijinta ne.
+
+Ga wani abu na musamman; mutumin da yake da wajibi ya yi azumi a watan Ramadan, idan ya sadu da mace a lokacin rana, abubuwa biyar za su faru gare shi:
+
+1. Dole ne ya ci gaba da azumi sauran ranar. 2. Azuminsa ya baci. 3. Dole ne ya rama. 4. Dole ne ya yi kaffara. 5. Ya yi zunubi.
+
+Babu bambanci tsakanin wanda ya sani da wanda bai sani ba. Wato, mutumin da yake da wajibi ya yi azumi, idan ya sadu da mace a lokacin rana, kaffara wajibi ne a kansa, ko da bai san cewa kaffara wajibi ne ba. Domin ya aikata abin da yake bata azumi da gangan. Duk wanda ya aikata abin da yake bata azumi da gangan, hukuncin ya shafi shi. A cikin hadisi za mu iya gani:
+
+Abu Huraira (RA) ya ruwaito cewa wani mutum ya zo wurin Annabi (SAW) ya ce: 'Ya Manzon Allah, na halaka.' Annabi (SAW) ya tambaya: 'Me ya halaka ka?' Ya ce: 'Na sadu da matata a lokacin rana a watan Ramadan alhali ina mai azumi' (Bukhari).
+
+Sai Annabi (SAW) ya umarce shi da ya yi kaffara. Bai san cewa dole ne ya yi kaffara ba. Anan, mun ce 'mutumin da yake da wajibi ya yi azumi'. Idan miji da mata suka dawo daga tafiya suka sadu, ba su da kaffara. Domin su matafiya ne, don haka azumi ba wajibi ba ne a kansu. Haka kuma, matafiyi idan ya yi azumi, ba wajibi ne ya cika ba. Idan ya so zai iya cika, idan bai so ba zai iya barin azumi. Idan bai cika ba (tunda matafiyi ba wajibi ne ya yi azumi ba), ya isa ya rama.
+
+---
+
+**21. Shin amfani da inhaler ga masu asma yana bata azumi?**
+
+Amsa: Amfani da inhaler ba ya sa komai ya shiga ciki, kuma tunda ba abu ne mai nauyi ba, azumin ba zai baci ba.
+
+---
+
+**22. Shin amai yana bata azumi?**
+
+Amsa: Idan aka yi amai da gangan, azumin ya baci. Amma amai na dabi'a ba ya bata azumi. Duba hadisi:
+
+Abu Huraira (RA) ya ruwaito: Annabi (SAW) ya ce: ''Duk wanda ya yi amai, ba ya bukatar ya rama azumin. Amma duk wanda ya yi amai da gangan, ya rama. Duk wanda ya yi amai ba da gangan ba, ba ya bukatar ya rama'' (Abu Dawud, Tirmidhi).
+
+---
+
+**23. Shin azumin mai azumi zai baci idan jini ya fito daga hakoransa?**
+
+Amsa: Jinin da yake fitowa daga hakora ba ya bata azumi. Amma kada a hadiye shi. Haka kuma, idan mutum yana da mura, azumin ba zai baci ba, kuma ba ya bukatar ya rama.
+
+---
+
+**24. Shin azumin mace zai inganta idan ta tsarkaka kafin Asuba kuma ta yi wanka bayan gari ya waye?**
+
+Amsa: Idan ta tsarkaka kafin Asuba, azuminta ya inganta. Dole ne ta tabbatar cewa ta tsarkaka kafin Asuba. Wasu mata suna tunanin sun tsarkaka, amma a zahiri ba su tsarkaka ba. Don haka, wasu mata suna zuwa wurin Aisha (RA) da auduga a matsayin alamar tsarki. Aisha (RA) tana gaya musu: 'Kada ku yi gaggawa, ba za ku tsarkaka ba har sai kun ga fari.' (Wato, ganin fari a kan audugar da ake amfani da ita lokacin haila). Mata ya kamata su yi hakuri har sai sun tsarkaka sosai. Idan sun tsarkaka, su yi niyyar azumi. Idan sun yi wanka bayan gari ya waye, babu laifi. Haka kuma, sallah ma ya kamata a dauke ta da muhimmanci. Ya kamata su yi wanka da wuri kuma su yi sallah a lokacinta. 
+
+Wasu mata suna tsarkaka kafin ko bayan gari ya waye. Amma suna jinkirta wanka har sai rana ta fito. Suna cewa suna yin hakan ne domin su kara tsafta. Wannan kuskure ne, ko a Ramadan ko a wani lokaci. A zahiri, ya kamata su yi wanka da wuri kuma su yi sallah a lokacinta. Ya isa su yi wankan da ya wajaba domin sallah. Idan suna son kara tsafta, za su iya yin wanka wani lokacin. Haka kuma, mace mai babban hadari (janaba) idan ta yi wanka bayan gari ya waye, ya isa. Azuminta ya inganta. Kamar yadda namiji mai janaba yake yin wanka bayan gari ya waye. Azuminsa ba ya baci, ya inganta. Duba hadisi:
+
+''Annabi (SAW) ya kasance yana yin azumi alhali yana da janaba daga matansa, kuma yana yin wanka bayan gari ya waye'' (Bukhari, Muslim).
+
+---
+
+**25. Shin azumi zai baci idan mai azumi ya cire hakori?**
+
+Amsa: Cire hakori ko makamancin hakan ba ya bata azumi, domin jinin da yake fitowa (kadan) ba ya cikin hukuncin kofin.
+
+---
+
+**26. Shin azumi zai baci idan aka dauki jini domin gwaji?**
+
+Amsa: Daukar jini domin gwaji ba ya bata azumi. Likitoci suna bukatar daukar jini domin gwajin marasa lafiya. Azuminsa ba zai baci ba. Wannan ba ya kama da kofin. (Ra'ayin cewa kofin yana bata azumi shi ne ya fi inganci. Sheikh ya zabi hakan. Malamai suna dogara da wannan hadisin wajen cewa bayar da jini yana bata azumi. Akwai ra'ayin cewa kofin ba ya bata azumi. Duba Fathul Bari. Fassarar:). Don haka, dole ne a sami dalilin addini wajen cewa azumi ya baci. Amma daukar jini domin gwaji ba ya da dalili. Idan aka dauki jini mai yawa domin bayar da shi ga wani, azuminsa ya baci. Don haka, kada mai azumi ya bayar da jini ga wani sai idan akwai bukatar gaggawa. Idan ba zai iya jira har rana ta fadi ba, mai azumi zai iya bayar da jini, kuma azuminsa ya baci. Zai iya cin abinci da shan ruwa sauran ranar. Kuma dole ne ya rama azumin.
+
+---
+
+**27. Shin mai azumi zai iya shaka turare?**
+
+Amsa: Mai azumi zai iya shaka turare. Haka kuma, turare da hayaki ba laifi ba ne. Amma kada a shaka hayakin turare ta hanci, domin hayaki yana da damar shiga ciki kamar ruwa. Idan shaka kawai yake yi, babu laifi.
+
+---
+
+**28. Menene bambanci tsakanin shaka hayaki da amfani da maganin hanci? Me ya sa shaka hayaki yake bata azumi, amma amfani da maganin hanci ba ya bata azumi?**
+
+Amsa: Wanda yake shaka hayaki yana yin hakan ne da gangan domin ya shiga cikinsa. Amma maganin ido ko hanci ba a amfani da shi domin ya shiga ciki. Ana amfani da shi ne domin ya isa hanci. Wannan shi ne bambancin da ke tsakaninsu.
+
+---
+
+**29. Idan ruwa ya shiga ciki ba da gangan ba lokacin shaka ruwa a hanci ko wanke baki, shin azumin zai baci?**
+
+Amsa: Idan ruwa ya shiga ciki ba da gangan ba lokacin shaka ruwa a hanci ko wanke baki, babu laifi. Azuminsa ya inganta. Domin bai yi da gangan ba. Allah yana cewa:
+
+''...Babu laifi a gare ku idan kun yi kuskure. Amma abin da kuka aikata da niyya (zunubi ne)...'' (Alkur'ani 33:5).
+
+---
+
+**30. Menene hukuncin mai azumi da yake amfani da turare?**
+
+Amsa: Amfani da turare a lokacin rana a watan Ramadan ba laifi ba ne, kuma shaka ba laifi ba ne, amma kada a shaka hayaki, domin hayaki yana shiga ciki.
+
+---
+
+**31. Shin azumi zai baci idan wani abu ya fito daga hanci saboda mura?**
+
+Amsa: Idan wani abu ya fito daga hanci saboda mura, azumin ba zai baci ba, ko da ya fito da yawa. Domin bai yi da gangan ba.
+
+---
+
+**32. Wasu kalanda suna nuna lokacin sallah a watan Ramadan tare da lokacin (Imsak) minti goma ko goma sha biyar kafin kiran sallah Asuba. Shin akwai dalili a Sunnah?**
+
+Amsa: Wannan yana cikin bidi'a (sabon abu). Babu wani dalili a Sunnah na Annabi (SAW). Ya saba wa Sunnah. Domin Allah yana cewa a Alkur'ani:
+
+''...Ku ci kuma ku sha har sai zaren fari ya bayyana a gare ku daga zaren baki na alfijir'' (Alkur'ani 2:187).
+
+Duba hadisi: Annabi (SAW) ya ce: ''Bilal yana kiran sallah a dare. Amma ku ci abinci har sai Ibn Umm Maktum ya kira sallah. Domin shi (Ibn Umm Maktum) ba ya kiran sallah har sai gari ya waye'' (Bukhari, Muslim).
+
+Kirkirar lokaci na musamman da ake kira 'Imsak' yana cikin kara wa abin da Allah ya wajabta. Wannan yana cikin wuce gona da iri a addinin Allah. Annabi (SAW) ya ce game da su: ''Wadanda suke wuce gona da iri sun halaka, wadanda suke wuce gona da iri sun halaka'' (Muslim).
+
+---
+
+**33. Idan mutum yana cikin jirgin sama kuma rana ta fadi aka kira sallah, ya sha ruwa, sannan jirgin ya tashi kuma ya ga rana, shin ya kamata ya ci gaba da azumi?**
+
+Amsa: Idan haka ya faru, ba ya bukatar ya ci gaba da azumi. Ya sha ruwa ne lokacin da rana ta fadi a filin jirgin sama. Rana ta fadi a wurin da yake. Duba hadisi:
+
+Manzon Allah (SAW) ya ce: ''Idan dare ya zo daga nan, rana ta fadi, to mai azumi ya sha ruwa'' (Bukhari).
+
+Idan ya sha ruwa lokacin da rana ta fadi a filin jirgin sama, ranarsa ta kare. Ba ya bukatar ya yi azumi sai ranar da ta biyo baya.
+
+---
+
+**34. Shin azumi zai baci idan aka hadiye majina ko wani abu daga hanci?**
+
+Amsa: Idan majina ko wani abu daga hanci bai shiga baki ba, azumin ba zai baci ba, babu bambanci tsakanin malamai. Amma idan ya shiga baki kuma aka hadiye shi, malamai suna da ra'ayoyi biyu: Wasu malamai sun ce azumin ya baci kamar cin abinci. Amma wani bangare na malamai sun ce azumin ba zai baci ba kamar hadiye yawu. 
+
+Idan malamai suna da ra'ayoyi daban-daban, dogaro yana kan Alkur'ani da Sunnah. Idan muna shakka ko wannan zai bata ibada ko ba zai bata ba, asali shi ne ba zai bata ba. Bisa wannan, malamai sun bayyana cewa azumin ba zai baci ba.
+
+Amma idan majina ko wani abu daga hanci ya shiga baki, ko mai azumi ne ko ba mai azumi ba ne, ya kamata ya tofa shi. Amma cewa azumin ya baci, dole ne a sami dalili daga Allah.
+
+---
+
+**35. Shin azumi zai baci idan aka dandana abinci?**
+
+Amsa: Dandana abinci ba ya bata azumi. Amma ya kamata a kula kada wani abu ya shiga ciki. Ya kamata a yi hakan ne kawai idan akwai bukatar gaggawa. Idan aka dandana abinci domin gani ko yana da gishiri ko yaji, kuma ba da gangan ba wani abu ya shiga ciki, babu laifi, azuminsa ya inganta.
+
+---
+
+**36. Shin azumi zai baci idan mai azumi ya yi shaidar karya?**
+
+Amsa: Shaidar karya yana cikin manyan zunubai. Dole ne Musulmi ya nisanci hakan. Shaidar karya ba ya bata azumi. Amma yana rage ladan azumi sosai.
+
+---
+
+**37. Marar lafiya ya bar azumi a watan Ramadan. Bayan kwana hudu ya rasu. Shin dole ne a rama azuminsa?**
+
+Amsa: Idan rashin lafiya ne na gaggawa kuma ya ci gaba har ya rasu, ba ya bukatar a rama azuminsa. Allah yana cewa:
+
+''...Duk wanda ya kasance marar lafiya ko a tafiya, to ya rama adadin kwanakin...'' (Alkur'ani 2:185).
+
+Wannan mutum ya kamata ya rama azumin bayan ya warke. Amma idan ya rasu kafin ya sami damar hakan, nauyin ya fadi daga kansa. Domin lokacin da azumi zai zama wajibi a kansa bai zo ba. Yana kama da mutumin da ya rasu a watan Sha'aban. Amma idan rashin lafiya ne wanda ba a sa ran warkewa, ya kamata a ciyar da miskini daya a madadin kowace rana.
+
+---
+
+**38. Mutum yana da azumin Ramadan guda daya da ya kamata ya rama. Amma bai sami damar ramawa ba kafin Ramadan na gaba ya zo, menene ya kamata ya yi?**
+
+Amsa: Allah ya bayyana a fili: ''...Duk wanda ya kasance marar lafiya ko a tafiya, to ya rama adadin kwanakin...'' (Alkur'ani 2:185).
+
+Mutumin da ya bar azumi saboda dalilin addini dole ne ya rama bisa umarnin Allah. Kuma wajibi ne ya rama a cikin shekarar. Bai kamata ya jinkirta har Ramadan na gaba ya zo ba. Wannan shi ne abin da hadisin Aisha (RA) ya koya mana:
+
+Aisha (RA) ta ce: ''Ina da azumin Ramadan da ya kamata in rama. Ban sami damar ramawa ba sai a watan Sha'aban saboda kasancewar Annabi (SAW)'' (Bukhari).
+
+'Ban sami damar ramawa ba sai a watan Sha'aban' na Aisha (RA) yana nuna cewa dole ne a rama kafin Ramadan na gaba ya zo. Amma idan aka jinkirta bayan Ramadan na gaba, dole ne ya nemi gafarar Allah, ya tuba, ya yi nadama, kuma ya rama azumin. Jinkirta lokaci ba ya kawar da wajibi na rama azumi. Idan bayan Ramadan na gaba ne, dole ne ya rama. Allah ne yake ba da tawfiqi.
+
+(Ta'liq: Hadisan da ba su da ingantaccen sarka bisa sharuddan Imam Bukhari ana kiransu Ta'liq.)

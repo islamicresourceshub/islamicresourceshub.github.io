@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-22T03:17:38.028465+00:00",
+ "generated_at": "2026-09-22T03:19:29.859667+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 7025,
+ "count": 7026,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -18392,6 +18392,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/ha/fiqh/mosque-construction-some-points-to-note-20170325-5.html",
    "md_url": "/ha/fiqh/mosque-construction-some-points-to-note-20170325-5.md"
+  },
+  {
+   "slug": "ramadan-fasting-rulings-and-prohibitions-20180519-7",
+   "lang": "ha",
+   "category": "fiqh",
+   "title": "Dokokin Azumin Ramadan da Abubuwan da Suka Shafi Shi",
+   "summary": "Wannan labari ne da aka gabatar a matsayin tambayoyi da amsoshi game da dokokin azumin Ramadan da hikimomin da ke tattare da su. Yana bayyana dalilin da ya sa aka wajabta azumi da kuma hukunce-hukuncen da suka shafi gudanar da shi.",
+   "author": "ശൈഖ് മുഹമ്മദ്ബ്‌നു സ്വാലിഹ് അല്‍ ഉഥൈമീന്‍",
+   "issue_date": "2018-05-19",
+   "html_url": "/ha/fiqh/ramadan-fasting-rulings-and-prohibitions-20180519-7.html",
+   "md_url": "/ha/fiqh/ramadan-fasting-rulings-and-prohibitions-20180519-7.md"
   },
   {
    "slug": "the-alcoholic-father-20170211-7",
