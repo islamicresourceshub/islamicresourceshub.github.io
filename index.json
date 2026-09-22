@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-22T02:59:28.147446+00:00",
+ "generated_at": "2026-09-22T03:05:25.067183+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 7016,
+ "count": 7017,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -4081,6 +4081,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/as/fiqh/mosque-construction-some-points-to-note-20170325-5.html",
    "md_url": "/as/fiqh/mosque-construction-some-points-to-note-20170325-5.md"
+  },
+  {
+   "slug": "ramadan-fasting-rulings-and-prohibitions-20180519-7",
+   "lang": "as",
+   "category": "fiqh",
+   "title": "ৰমজানৰ ৰোজা: বিধি-নিষেধ আৰু প্ৰশ্নোত্তৰ",
+   "summary": "ৰমজানৰ ৰোজাৰ সৈতে জড়িত বিভিন্ন বিধি-নিষেধ আৰু ইয়াৰ আঁৰৰ যুক্তি সম্পৰ্কে এই প্ৰবন্ধটোত প্ৰশ্নোত্তৰৰ জৰিয়তে আলোচনা কৰা হৈছে। ৰোজাৰ গুৰুত্ব, ইয়াৰ নিয়ম আৰু বিভিন্ন পৰিস্থিতিত ৰোজাৰ হুকুমসমূহ ইয়াত বিতংকৈ ব্যাখ্যা কৰা হৈছে।",
+   "author": "ശൈഖ് മുഹമ്മദ്ബ്‌നു സ്വാലിഹ് അല്‍ ഉഥൈമീന്‍",
+   "issue_date": "2018-05-19",
+   "html_url": "/as/fiqh/ramadan-fasting-rulings-and-prohibitions-20180519-7.html",
+   "md_url": "/as/fiqh/ramadan-fasting-rulings-and-prohibitions-20180519-7.md"
   },
   {
    "slug": "the-alcoholic-father-20170211-7",
