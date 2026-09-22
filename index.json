@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-22T03:49:59.698414+00:00",
+ "generated_at": "2026-09-22T03:51:29.830658+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 7048,
+ "count": 7049,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -70510,6 +70510,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/tr/fiqh/mosque-construction-some-points-to-note-20170325-5.html",
    "md_url": "/tr/fiqh/mosque-construction-some-points-to-note-20170325-5.md"
+  },
+  {
+   "slug": "ramadan-fasting-rulings-and-prohibitions-20180519-7",
+   "lang": "tr",
+   "category": "fiqh",
+   "title": "Ramazan Orucu: Hükümler ve Yasaklar",
+   "summary": "Bu makale, Ramazan orucuyla ilgili hükümler, yasaklar ve bunların ardındaki hikmetler üzerine soru-cevap şeklinde hazırlanmıştır. Orucun farz kılınma amacı ve oruçla ilgili temel fıkhi kurallar detaylandırılmıştır.",
+   "author": "ശൈഖ് മുഹമ്മദ്ബ്‌നു സ്വാലിഹ് അല്‍ ഉഥൈമീന്‍",
+   "issue_date": "2018-05-19",
+   "html_url": "/tr/fiqh/ramadan-fasting-rulings-and-prohibitions-20180519-7.html",
+   "md_url": "/tr/fiqh/ramadan-fasting-rulings-and-prohibitions-20180519-7.md"
   },
   {
    "slug": "the-alcoholic-father-20170211-7",
