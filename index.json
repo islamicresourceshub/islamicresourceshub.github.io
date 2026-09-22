@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-22T03:05:25.067183+00:00",
+ "generated_at": "2026-09-22T03:07:17.362113+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 7017,
+ "count": 7018,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -5665,6 +5665,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/bn/fiqh/mosque-construction-some-points-to-note-20170325-5.html",
    "md_url": "/bn/fiqh/mosque-construction-some-points-to-note-20170325-5.md"
+  },
+  {
+   "slug": "ramadan-fasting-rulings-and-prohibitions-20180519-7",
+   "lang": "bn",
+   "category": "fiqh",
+   "title": "রমজান মাসের রোজা: বিধান ও নিষেধাজ্ঞা",
+   "summary": "রমজান মাসের রোজা সম্পর্কিত বিভিন্ন বিধান, নিষেধাজ্ঞা এবং এর পেছনের যৌক্তিকতা নিয়ে প্রশ্নোত্তরের আকারে সাজানো একটি নিবন্ধ। এতে রোজা ফরজ হওয়ার কারণ, রোজার নিয়মকানুন এবং বিভিন্ন পরিস্থিতিতে রোজার করণীয় সম্পর্কে বিস্তারিত আলোচনা করা হয়েছে।",
+   "author": "ശൈഖ് മുഹമ്മദ്ബ്‌നു സ്വാലിഹ് അല്‍ ഉഥൈമീന്‍",
+   "issue_date": "2018-05-19",
+   "html_url": "/bn/fiqh/ramadan-fasting-rulings-and-prohibitions-20180519-7.html",
+   "md_url": "/bn/fiqh/ramadan-fasting-rulings-and-prohibitions-20180519-7.md"
   },
   {
    "slug": "the-alcoholic-father-20170211-7",
