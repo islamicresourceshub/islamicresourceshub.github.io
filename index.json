@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-22T04:35:10.399783+00:00",
+ "generated_at": "2026-09-22T04:36:10.791614+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 7092,
+ "count": 7093,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -1727,6 +1727,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/am/story/sugar-like-gold-dust-20170128-11.html",
    "md_url": "/am/story/sugar-like-gold-dust-20170128-11.md"
+  },
+  {
+   "slug": "the-crescent-moon-of-ramadan-20180519-9",
+   "lang": "am",
+   "category": "story",
+   "title": "የረመዳን ጨረቃ",
+   "summary": "ይህ ግጥም የረመዳን ወር መምጣትን እና በውስጡ ያሉትን በረከቶች ይገልጻል። የረመዳን ጨረቃ በሰማይ ላይ ስትታይ የሚሰማውን ደስታ እና በዚህ ወር የሚፈጸሙ መልካም ስራዎችን አስፈላጊነት ግጥሙ በስሜት ይተርካል።",
+   "author": "അബൂ ഫായിദ",
+   "issue_date": "2018-05-19",
+   "html_url": "/am/story/the-crescent-moon-of-ramadan-20180519-9.html",
+   "md_url": "/am/story/the-crescent-moon-of-ramadan-20180519-9.md"
   },
   {
    "slug": "the-currency-that-was-not-accepted-20170114-3",
