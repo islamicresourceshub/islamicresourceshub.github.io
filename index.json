@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-22T04:05:47.687829+00:00",
+ "generated_at": "2026-09-22T04:06:40.374769+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 7060,
+ "count": 7061,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -12155,6 +12155,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/es/hadith/criteria-for-accepting-hadith-20170128-2.html",
    "md_url": "/es/hadith/criteria-for-accepting-hadith-20170128-2.md"
+  },
+  {
+   "slug": "food-in-ramadan-20180519-8",
+   "lang": "es",
+   "category": "health",
+   "title": "La alimentación durante el Ramadán",
+   "summary": "Este artículo detalla los hábitos alimenticios que tanto los enfermos como las personas sanas deben observar durante el mes de Ramadán. Se enfatiza la importancia de elegir alimentos saludables y se ofrecen consejos prácticos para el momento de romper el ayuno y para la comida del suhur.",
+   "author": "ഡോ. മുഹമ്മദ് കുട്ടി കണ്ണിയന്‍",
+   "issue_date": "2018-05-19",
+   "html_url": "/es/health/food-in-ramadan-20180519-8.html",
+   "md_url": "/es/health/food-in-ramadan-20180519-8.md"
   },
   {
    "slug": "know-this-for-those-caring-for-the-sick-20260822-1",
