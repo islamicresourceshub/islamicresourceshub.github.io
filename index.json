@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-22T05:08:08.092121+00:00",
+ "generated_at": "2026-09-22T05:09:14.156651+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 7125,
+ "count": 7126,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -70466,6 +70466,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/tl/story/sugar-like-gold-dust-20170128-11.html",
    "md_url": "/tl/story/sugar-like-gold-dust-20170128-11.md"
+  },
+  {
+   "slug": "the-crescent-moon-of-ramadan-20180519-9",
+   "lang": "tl",
+   "category": "story",
+   "title": "Ang Gasuklay na Buwan ng Ramadan",
+   "summary": "Ito ay isang tula tungkol sa pagdating ng buwan ng Ramadan at ang mga pagpapala nito. Inilalarawan ng tula ang kagalakan sa paglitaw ng gasuklay na buwan sa langit at ang kahalagahan ng paggawa ng mabuti sa buwang ito, habang malugod na tinatanggap ng makata ang buwang puno ng debosyon at kagalakan.",
+   "author": "അബൂ ഫായിദ",
+   "issue_date": "2018-05-19",
+   "html_url": "/tl/story/the-crescent-moon-of-ramadan-20180519-9.html",
+   "md_url": "/tl/story/the-crescent-moon-of-ramadan-20180519-9.md"
   },
   {
    "slug": "the-currency-that-was-not-accepted-20170114-3",
