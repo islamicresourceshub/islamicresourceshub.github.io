@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-22T06:04:30.444304+00:00",
+ "generated_at": "2026-09-22T06:06:23.003622+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 7164,
+ "count": 7165,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -69553,6 +69553,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/tl/dawah/prayer-that-is-worship-20170325-6.html",
    "md_url": "/tl/dawah/prayer-that-is-worship-20170325-6.md"
+  },
+  {
+   "slug": "ramadan-in-the-age-of-social-media-20180519-10",
+   "lang": "tl",
+   "category": "dawah",
+   "title": "Ramadan sa Panahon ng Social Media",
+   "summary": "Ang artikulong ito ay tumatalakay sa kung paano dapat kumilos ang mga mananampalataya sa panahon ng Ramadan sa gitna ng paglaganap ng social media. Binibigyang-diin nito ang kahalagahan ng marangal na pakikipag-ugnayan online man o offline, at nagpapaalala na huwag hayaang masira ng hindi kinakailangang paggamit ng social media ang mga biyaya ng buwang ito.",
+   "author": "അബ്ദുല്‍മാലിക് സലഫി",
+   "issue_date": "2018-05-19",
+   "html_url": "/tl/dawah/ramadan-in-the-age-of-social-media-20180519-10.html",
+   "md_url": "/tl/dawah/ramadan-in-the-age-of-social-media-20180519-10.md"
   },
   {
    "slug": "religion-is-fearlessness-20170114-6",
