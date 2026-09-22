@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-22T03:26:56.274812+00:00",
+ "generated_at": "2026-09-22T03:28:31.309848+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 7031,
+ "count": 7032,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -27929,6 +27929,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/ko/fiqh/mosque-construction-some-points-to-note-20170325-5.html",
    "md_url": "/ko/fiqh/mosque-construction-some-points-to-note-20170325-5.md"
+  },
+  {
+   "slug": "ramadan-fasting-rulings-and-prohibitions-20180519-7",
+   "lang": "ko",
+   "category": "fiqh",
+   "title": "라마단 금식의 규정과 금지 사항",
+   "summary": "이 글은 라마단 금식과 관련된 규정, 금지 사항, 그리고 그 이면에 담긴 지혜를 질의응답 형식으로 설명합니다. 금식의 의무화 이유와 구체적인 법적 규칙들을 다루고 있습니다.",
+   "author": "ശൈഖ് മുഹമ്മദ്ബ്‌നു സ്വാലിഹ് അല്‍ ഉഥൈമീന്‍",
+   "issue_date": "2018-05-19",
+   "html_url": "/ko/fiqh/ramadan-fasting-rulings-and-prohibitions-20180519-7.html",
+   "md_url": "/ko/fiqh/ramadan-fasting-rulings-and-prohibitions-20180519-7.md"
   },
   {
    "slug": "the-alcoholic-father-20170211-7",
