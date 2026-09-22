@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-22T03:14:52.294110+00:00",
+ "generated_at": "2026-09-22T03:16:18.295483+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 7023,
+ "count": 7024,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -15213,6 +15213,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/fr/fiqh/mosque-construction-some-points-to-note-20170325-5.html",
    "md_url": "/fr/fiqh/mosque-construction-some-points-to-note-20170325-5.md"
+  },
+  {
+   "slug": "ramadan-fasting-rulings-and-prohibitions-20180519-7",
+   "lang": "fr",
+   "category": "fiqh",
+   "title": "Règles et interdictions du jeûne de Ramadan",
+   "summary": "Cet article, présenté sous forme de questions-réponses, aborde les règles, les interdictions et la sagesse derrière le jeûne du Ramadan. Il explique les raisons de son obligation et détaille les points de jurisprudence essentiels pour les croyants.",
+   "author": "ശൈഖ് മുഹമ്മദ്ബ്‌നു സ്വാലിഹ് അല്‍ ഉഥൈമീന്‍",
+   "issue_date": "2018-05-19",
+   "html_url": "/fr/fiqh/ramadan-fasting-rulings-and-prohibitions-20180519-7.html",
+   "md_url": "/fr/fiqh/ramadan-fasting-rulings-and-prohibitions-20180519-7.md"
   },
   {
    "slug": "the-alcoholic-father-20170211-7",
