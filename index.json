@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-22T04:47:44.147465+00:00",
+ "generated_at": "2026-09-22T04:48:40.255029+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 7106,
+ "count": 7107,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -24288,6 +24288,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/it/story/sugar-like-gold-dust-20170128-11.html",
    "md_url": "/it/story/sugar-like-gold-dust-20170128-11.md"
+  },
+  {
+   "slug": "the-crescent-moon-of-ramadan-20180519-9",
+   "lang": "it",
+   "category": "story",
+   "title": "La mezzaluna del Ramadan",
+   "summary": "Questa è una poesia che celebra l'arrivo del mese di Ramadan e le sue immense benedizioni. Il componimento descrive la gioia per l'apparizione della luna crescente nel cielo e l'importanza di compiere buone azioni in questo periodo colmo di devozione e letizia.",
+   "author": "അബൂ ഫായിദ",
+   "issue_date": "2018-05-19",
+   "html_url": "/it/story/the-crescent-moon-of-ramadan-20180519-9.html",
+   "md_url": "/it/story/the-crescent-moon-of-ramadan-20180519-9.md"
   },
   {
    "slug": "the-currency-that-was-not-accepted-20170114-3",
