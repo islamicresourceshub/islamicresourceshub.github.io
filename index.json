@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-22T03:10:09.220993+00:00",
+ "generated_at": "2026-09-22T03:11:43.354271+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 7020,
+ "count": 7021,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -10450,6 +10450,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/en/fiqh/mosque-construction-some-points-to-note-20170325-5.html",
    "md_url": "/en/fiqh/mosque-construction-some-points-to-note-20170325-5.md"
+  },
+  {
+   "slug": "ramadan-fasting-rulings-and-prohibitions-20180519-7",
+   "lang": "en",
+   "category": "fiqh",
+   "title": "Rulings and Prohibitions of Ramadan Fasting",
+   "summary": "This article is a question-and-answer guide regarding the rules, prohibitions, and underlying wisdom of Ramadan fasting. It explains the necessity of fasting, the legal rulings for various situations, and the spiritual objectives behind this act of worship.",
+   "author": "ശൈഖ് മുഹമ്മദ്ബ്‌നു സ്വാലിഹ് അല്‍ ഉഥൈമീന്‍",
+   "issue_date": "2018-05-19",
+   "html_url": "/en/fiqh/ramadan-fasting-rulings-and-prohibitions-20180519-7.html",
+   "md_url": "/en/fiqh/ramadan-fasting-rulings-and-prohibitions-20180519-7.md"
   },
   {
    "slug": "the-alcoholic-father-20170211-7",
