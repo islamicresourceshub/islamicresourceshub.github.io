@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-22T06:10:54.926249+00:00",
+ "generated_at": "2026-09-22T06:12:24.608863+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 7168,
+ "count": 7169,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -76065,6 +76065,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/vi/dawah/prayer-that-is-worship-20170325-6.html",
    "md_url": "/vi/dawah/prayer-that-is-worship-20170325-6.md"
+  },
+  {
+   "slug": "ramadan-in-the-age-of-social-media-20180519-10",
+   "lang": "vi",
+   "category": "dawah",
+   "title": "Ramadan trong thời đại mạng xã hội",
+   "summary": "Bài viết này thảo luận về cách các tín đồ nên ứng xử trong tháng Ramadan khi mạng xã hội trở thành một phần không thể thiếu của cuộc sống. Tác giả nhấn mạnh tầm quan trọng của việc duy trì sự chừng mực và nhắc nhở rằng những hoạt động không cần thiết trên mạng xã hội có thể làm mất đi giá trị thiêng liêng của tháng Ramadan.",
+   "author": "അബ്ദുല്‍മാലിക് സലഫി",
+   "issue_date": "2018-05-19",
+   "html_url": "/vi/dawah/ramadan-in-the-age-of-social-media-20180519-10.html",
+   "md_url": "/vi/dawah/ramadan-in-the-age-of-social-media-20180519-10.md"
   },
   {
    "slug": "religion-is-fearlessness-20170114-6",
