@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-22T05:17:10.965618+00:00",
+ "generated_at": "2026-09-22T05:18:14.517140+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 7134,
+ "count": 7135,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -5313,6 +5313,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/bn/dawah/prayer-that-is-worship-20170325-6.html",
    "md_url": "/bn/dawah/prayer-that-is-worship-20170325-6.md"
+  },
+  {
+   "slug": "ramadan-in-the-age-of-social-media-20180519-10",
+   "lang": "bn",
+   "category": "dawah",
+   "title": "সোশ্যাল মিডিয়ার যুগে রমজান",
+   "summary": "সোশ্যাল মিডিয়ার এই যুগে রমজান মাসে একজন মুমিন কীভাবে নিজের আচরণ নিয়ন্ত্রণ করবেন, এই নিবন্ধটি সেই বিষয়ে আলোকপাত করে। অনলাইন বা অফলাইন, সব ক্ষেত্রেই মার্জিত আচরণ বজায় রাখার গুরুত্ব এবং রমজানের পবিত্রতা রক্ষায় সোশ্যাল মিডিয়ার অপ্রয়োজনীয় ব্যবহার বর্জন করার প্রয়োজনীয়তা এখানে তুলে ধরা হয়েছে।",
+   "author": "അബ്ദുല്‍മാലിക് സലഫി",
+   "issue_date": "2018-05-19",
+   "html_url": "/bn/dawah/ramadan-in-the-age-of-social-media-20180519-10.html",
+   "md_url": "/bn/dawah/ramadan-in-the-age-of-social-media-20180519-10.md"
   },
   {
    "slug": "religion-is-fearlessness-20170114-6",
