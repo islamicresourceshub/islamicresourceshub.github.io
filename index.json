@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-22T03:20:34.578290+00:00",
+ "generated_at": "2026-09-22T03:21:58.706249+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 7027,
+ "count": 7028,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -21571,6 +21571,17 @@
    "issue_date": "2017-03-25",
    "html_url": "/id/fiqh/mosque-construction-some-points-to-note-20170325-5.html",
    "md_url": "/id/fiqh/mosque-construction-some-points-to-note-20170325-5.md"
+  },
+  {
+   "slug": "ramadan-fasting-rulings-and-prohibitions-20180519-7",
+   "lang": "id",
+   "category": "fiqh",
+   "title": "Hukum dan Larangan Puasa Ramadan",
+   "summary": "Artikel ini menyajikan tanya jawab seputar hukum dan larangan terkait puasa Ramadan serta hikmah di baliknya. Pembahasan mencakup alasan diwajibkannya puasa, aturan perjalanan, kondisi kesehatan, hingga hal-hal yang membatalkan puasa.",
+   "author": "ശൈഖ് മുഹമ്മദ്ബ്‌നു സ്വാലിഹ് അല്‍ ഉഥൈമീന്‍",
+   "issue_date": "2018-05-19",
+   "html_url": "/id/fiqh/ramadan-fasting-rulings-and-prohibitions-20180519-7.html",
+   "md_url": "/id/fiqh/ramadan-fasting-rulings-and-prohibitions-20180519-7.md"
   },
   {
    "slug": "the-alcoholic-father-20170211-7",
