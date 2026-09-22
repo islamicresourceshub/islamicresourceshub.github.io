@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-22T05:03:43.222878+00:00",
+ "generated_at": "2026-09-22T05:04:50.483539+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 7121,
+ "count": 7122,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -64042,6 +64042,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/sw/story/sugar-like-gold-dust-20170128-11.html",
    "md_url": "/sw/story/sugar-like-gold-dust-20170128-11.md"
+  },
+  {
+   "slug": "the-crescent-moon-of-ramadan-20180519-9",
+   "lang": "sw",
+   "category": "story",
+   "title": "Mwezi Mchanga wa Ramadhani",
+   "summary": "Hii ni shairi kuhusu kuwasili kwa mwezi wa Ramadhani na fadhila zake kuu. Shairi hili linaelezea furaha ya kuonekana kwa mwezi mchanga angani na umuhimu wa matendo mema katika mwezi huu uliojaa uchamungu na bashasha.",
+   "author": "അബൂ ഫായിദ",
+   "issue_date": "2018-05-19",
+   "html_url": "/sw/story/the-crescent-moon-of-ramadan-20180519-9.html",
+   "md_url": "/sw/story/the-crescent-moon-of-ramadan-20180519-9.md"
   },
   {
    "slug": "the-currency-that-was-not-accepted-20170114-3",
