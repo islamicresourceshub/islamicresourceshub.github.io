@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-22T04:23:18.150392+00:00",
+ "generated_at": "2026-09-22T04:24:12.019769+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 7079,
+ "count": 7080,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -58179,6 +58179,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/si/hadith/criteria-for-accepting-hadith-20170128-2.html",
    "md_url": "/si/hadith/criteria-for-accepting-hadith-20170128-2.md"
+  },
+  {
+   "slug": "food-in-ramadan-20180519-8",
+   "lang": "si",
+   "category": "health",
+   "title": "රමසාන් මාසයේ ආහාර රටාව",
+   "summary": "මෙම ලිපිය රමසාන් මාසයේදී රෝගීන් සහ නිරෝගී පුද්ගලයින් අනුගමනය කළ යුතු සෞඛ්‍ය සම්පන්න ආහාර රටාවන් පිළිබඳව විස්තර කරයි. නිරාහාරව සිටින කාලය තුළ ශරීර සෞඛ්‍යය පවත්වා ගැනීමට උපකාරී වන ආහාර තෝරා ගැනීම සහ ඉෆ්තාර් මෙන්ම සහූර් වේලාවන්හිදී සැලකිලිමත් විය යුතු කරුණු මෙහි ඇතුළත් වේ.",
+   "author": "ഡോ. മുഹമ്മദ് കുട്ടി കണ്ണിയന്‍",
+   "issue_date": "2018-05-19",
+   "html_url": "/si/health/food-in-ramadan-20180519-8.html",
+   "md_url": "/si/health/food-in-ramadan-20180519-8.md"
   },
   {
    "slug": "know-this-for-those-caring-for-the-sick-20260822-1",
