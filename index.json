@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-22T04:39:44.764219+00:00",
+ "generated_at": "2026-09-22T04:40:36.792805+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 7097,
+ "count": 7098,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -9790,6 +9790,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/de/story/sugar-like-gold-dust-20170128-11.html",
    "md_url": "/de/story/sugar-like-gold-dust-20170128-11.md"
+  },
+  {
+   "slug": "the-crescent-moon-of-ramadan-20180519-9",
+   "lang": "de",
+   "category": "story",
+   "title": "Die Mondsichel des Ramadan",
+   "summary": "Dies ist ein Gedicht über die Ankunft des Monats Ramadan und seine Vorzüge. Es beschreibt die Freude über das Erscheinen der Mondsichel am Himmel und die Bedeutung der guten Taten in diesem Monat, den der Dichter voller Frömmigkeit und Begeisterung willkommen heißt.",
+   "author": "അബൂ ഫായിദ",
+   "issue_date": "2018-05-19",
+   "html_url": "/de/story/the-crescent-moon-of-ramadan-20180519-9.html",
+   "md_url": "/de/story/the-crescent-moon-of-ramadan-20180519-9.md"
   },
   {
    "slug": "the-currency-that-was-not-accepted-20170114-3",
