@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-22T04:18:23.038443+00:00",
+ "generated_at": "2026-09-22T04:19:41.046081+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 7074,
+ "count": 7075,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -50160,6 +50160,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/or/hadith/criteria-for-accepting-hadith-20170128-2.html",
    "md_url": "/or/hadith/criteria-for-accepting-hadith-20170128-2.md"
+  },
+  {
+   "slug": "food-in-ramadan-20180519-8",
+   "lang": "or",
+   "category": "health",
+   "title": "ରମଜାନ ମାସରେ ଖାଦ୍ୟପେୟ",
+   "summary": "ଏହି ଲେଖାଟି ରମଜାନ ମାସରେ ରୋଗୀ ଏବଂ ସୁସ୍ଥ ବ୍ୟକ୍ତିମାନେ କିଭଳି ସ୍ୱାସ୍ଥ୍ୟକର ଖାଦ୍ୟ ଗ୍ରହଣ କରିବେ, ସେ ସମ୍ପର୍କରେ ଆଲୋଚନା କରେ। ଇଫ୍ତାର ଏବଂ ସେହରି ସମୟରେ କେଉଁ ସବୁ ବିଷୟ ପ୍ରତି ଧ୍ୟାନ ଦେବା ଉଚିତ, ତାହା ଏଥିରେ ବିସ୍ତୃତ ଭାବେ ବର୍ଣ୍ଣନା କରାଯାଇଛି।",
+   "author": "ഡോ. മുഹമ്മദ് കുട്ടി കണ്ണിയന്‍",
+   "issue_date": "2018-05-19",
+   "html_url": "/or/health/food-in-ramadan-20180519-8.html",
+   "md_url": "/or/health/food-in-ramadan-20180519-8.md"
   },
   {
    "slug": "know-this-for-those-caring-for-the-sick-20260822-1",
