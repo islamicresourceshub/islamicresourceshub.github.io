@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-22T04:58:07.645694+00:00",
+ "generated_at": "2026-09-22T04:59:15.644781+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 7116,
+ "count": 7117,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -56012,6 +56012,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/pt/story/sugar-like-gold-dust-20170128-11.html",
    "md_url": "/pt/story/sugar-like-gold-dust-20170128-11.md"
+  },
+  {
+   "slug": "the-crescent-moon-of-ramadan-20180519-9",
+   "lang": "pt",
+   "category": "story",
+   "title": "A Lua Crescente do Ramadã",
+   "summary": "Este é um poema sobre a chegada do mês do Ramadã e suas virtudes. O texto descreve a alegria de ver a lua crescente no céu e a importância das boas ações, dando as boas-vindas a este mês repleto de devoção e felicidade.",
+   "author": "അബൂ ഫായിദ",
+   "issue_date": "2018-05-19",
+   "html_url": "/pt/story/the-crescent-moon-of-ramadan-20180519-9.html",
+   "md_url": "/pt/story/the-crescent-moon-of-ramadan-20180519-9.md"
   },
   {
    "slug": "the-currency-that-was-not-accepted-20170114-3",
