@@ -1,6 +1,6 @@
 {
  "generated_for_ai": true,
- "generated_at": "2026-09-22T05:12:15.108076+00:00",
+ "generated_at": "2026-09-22T05:13:06.360530+00:00",
  "site": {
   "title": "Islamic Resources Hub",
   "description": "Multilingual Islamic knowledge articles translated from Nerpatham Weekly (Malayalam)",
@@ -219,7 +219,7 @@
    "name": "Stories & Literature"
   }
  ],
- "count": 7129,
+ "count": 7130,
  "articles": [
   {
    "slug": "allegations-of-deviation-and-responses-20170401-8",
@@ -76934,6 +76934,17 @@
    "issue_date": "2017-01-28",
    "html_url": "/vi/story/sugar-like-gold-dust-20170128-11.html",
    "md_url": "/vi/story/sugar-like-gold-dust-20170128-11.md"
+  },
+  {
+   "slug": "the-crescent-moon-of-ramadan-20180519-9",
+   "lang": "vi",
+   "category": "story",
+   "title": "Trăng lưỡi liềm tháng Ramadan",
+   "summary": "Đây là một bài thơ về sự xuất hiện và những phước lành của tháng Ramadan. Bài thơ mô tả niềm vui khi vầng trăng lưỡi liềm xuất hiện trên bầu trời và nhấn mạnh tầm quan trọng của những việc làm thiện nguyện trong tháng này.",
+   "author": "അബൂ ഫായിദ",
+   "issue_date": "2018-05-19",
+   "html_url": "/vi/story/the-crescent-moon-of-ramadan-20180519-9.html",
+   "md_url": "/vi/story/the-crescent-moon-of-ramadan-20180519-9.md"
   },
   {
    "slug": "the-currency-that-was-not-accepted-20170114-3",
